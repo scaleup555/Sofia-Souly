@@ -114,8 +114,8 @@ scrupules à laisser quelqu'un d'autre payer pour ses erreurs. Surtout si
 ça détourne l'attention juste assez longtemps pour passer le vote de
 vendredi tranquillement.
 
-Sofia frissonna, pas de froid — la nuit tropicale restait douce, presque
-chaude — mais de quelque chose de plus proche de la colère, une émotion
+Sofia frissonna. Pas de froid : la nuit tropicale restait douce, presque
+chaude. Plutôt de quelque chose de plus proche de la colère, une émotion
 qu'elle ne cherchait pas particulièrement à cacher.
 
 — Alors on n'a pas deux jours, dit-elle. On a deux jours pour empêcher

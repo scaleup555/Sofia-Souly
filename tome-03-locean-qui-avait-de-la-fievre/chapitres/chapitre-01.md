@@ -37,7 +37,7 @@ largement les poissons aux patients. Ils se plaignent moins.
 
 — C'est pas très gentil pour les patients, remarqua Sofia.
 
-— C'est très gentil pour les poissons, corrigea Fara, imperturbable.
+— C'est très gentil pour les poissons, corrigea Fara, sans ciller.
 
 La route longeait la côte, entre des champs de canne à sucre qui
 montaient à l'assaut des pentes du volcan et un océan d'un bleu si
@@ -156,10 +156,10 @@ Sofia et Souly échangèrent un regard, ce même regard qu'ils échangeaient
 toujours au tout début d'une histoire, avant même de savoir où elle
 allait les mener.
 
-— On peut t'aider ? demanda Souly, son carnet — le troisième depuis le
-début de l'été précédent, une couverture bleu marine cette fois, cadeau
-de Léna qu'il n'avait pas eu le cœur d'entamer avant un vrai début
-d'enquête — déjà à moitié sorti de son sac.
+— On peut t'aider ? demanda Souly, son carnet déjà à moitié sorti de son
+sac. Le troisième depuis le début de l'été précédent, une couverture
+bleu marine cette fois, cadeau de Léna qu'il n'avait pas eu le cœur
+d'entamer avant un vrai début d'enquête.
 
 Fara les observa un instant, ces deux enfants venus de métropole pour
 deux semaines de vacances et déjà penchés, sans qu'on le leur ait

@@ -313,3 +313,55 @@ jury nécessaires est passé de 6 (tome 1) à 4 (tome 2), grâce à
 l'application des leçons dès l'écriture. Objectif pour le tome 3 : viser 3
 passages ou moins en intégrant aussi la leçon du climax vécu ci-dessus dès
 le premier jet.
+
+## Tome 3 — session 1 (chapitres 1-6)
+
+**Progression des notes : 7,8 → 8,6 → 8,9/10, toujours À CORRIGER après 3
+passages.** Moins bon que le tome 2 (2 passages) sur ce premier lot de
+chapitres — les tics bannis reviennent malgré la liste, preuve que la
+relecture doit rester active et pas seulement mémorisée.
+
+**Nouvelle leçon critique de méthode — les retours à la ligne cachent des
+répétitions au grep simple.** Le rapport v3 a débusqué une occurrence de
+« avec un sérieux » invisible aux deux grep précédents car le texte
+« avec un\nsérieux » était scindé par un retour à la ligne dans le fichier
+source (largeur de ligne fixe ~72-76 caractères). Un grep ligne par ligne
+ne voit jamais ce genre de doublon. **Règle désormais obligatoire avant
+chaque soumission au jury :** aplatir chaque chapitre sur une seule ligne
+(ex. `awk '{printf "%s ", $0}'`) avant de lancer les grep de contrôle des
+tics, sourires figée et étiquettes « avec un(e) ». Le grep multiligne
+change les résultats — l'appliquer systématiquement, pas seulement en cas
+de doute.
+
+**Récidives de tics déjà bannis, malgré la liste consolidée :**
+- « avec un sourire commercial », « avec une expression qui n'annonçait
+  rien de bon », « avec une attention immédiate » — trois formulations
+  explicitement purgées depuis le tome 1 sont réapparues à l'identique
+  dans les chapitres 4 et 6 du tome 3. La liste bannie doit être relue
+  ACTIVEMENT pendant l'écriture (pas seulement stockée en mémoire) —
+  envisager de grep chaque nouveau chapitre contre la liste bannie
+  immédiatement après rédaction, avant même le premier passage jury.
+- « imperturbable » comme étiquette de dialogue répétée 4 fois pour 3
+  personnages différents — nouveau candidat à surveiller au même titre que
+  « avec un(e) + nom » : dès qu'un adjectif isolé sert de raccourci
+  émotionnel, il tend à se répéter sans qu'on s'en aperçoive.
+- « Fara hocha la tête, songeuse » répété mot pour mot deux fois (ch.5,
+  ch.6) — une phrase-geste complète, pas seulement une étiquette courte,
+  peut aussi se dupliquer si le personnage a une gestuelle par défaut
+  (hochement de tête pensif) qu'on réutilise par réflexe.
+
+**Nouveau point de style — doubles-incises à tirets cadratins.** Les
+phrases du type « X — précision A — verbe — précision B — suite » créent
+une syntaxe trop complexe pour le bas de la fourchette d'âge (8-9 ans),
+même si chaque incise prise séparément est acceptable. Règle : au maximum
+UNE incise à tirets par phrase ; scinder en plusieurs phrases courtes
+plutôt que d'empiler deux incises.
+
+**Point non bloquant à trancher consciemment pour la session 2 :**
+longueur des chapitres nettement sous la cible (~1 100 mots/chapitre vs
+~3 300 visés, soit un tome complet projeté à ~13 200 mots au lieu de
+~40 000). Aucun jury n'a encore pénalisé ce point tant que l'histoire se
+lit comme complète, mais l'écart grandit tome après tome (tome 1 le plus
+proche de la cible, tome 3 le plus loin). Pour la session 2 du tome 3 :
+étoffer consciemment certaines scènes (ne pas se contenter du minimum
+narratif) plutôt que de laisser la dérive se poursuivre sans arbitrage.

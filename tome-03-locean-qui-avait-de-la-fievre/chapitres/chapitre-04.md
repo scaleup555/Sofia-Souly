@@ -10,8 +10,8 @@ quai, et à l'autre extrémité, sous une banderole immense proclamant
 « LAGON BLEU EXCURSIONS — VOTRE OCÉAN, VOS SENSATIONS », Christophe
 Randriamanantsoa avait fait installer un véritable parc d'attractions
 flottant : jet-skis alignés, bouées tractées, et un stand de démonstration
-équipé d'un micro qu'il utilisait, depuis le début de l'après-midi, avec
-un enthousiasme commercial difficile à ignorer.
+équipé d'un micro qu'il n'avait pas lâché depuis le début de l'après-midi,
+vantant chaque machine d'une voix de camelot difficile à ignorer.
 
 — Approchez, approchez ! Venez découvrir nos machines dernier cri !
 Réservations spéciales pour les familles pendant toute la durée de la

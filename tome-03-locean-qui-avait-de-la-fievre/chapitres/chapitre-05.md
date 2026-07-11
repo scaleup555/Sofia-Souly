@@ -63,8 +63,8 @@ poche, un cadeau récent de Souly, sur lequel elle notait, avec une
 application touchante, des dates et des flèches qu'elle seule savait
 vraiment interpréter.
 
-Fara hocha la tête, songeuse, avant de replier sa carte avec un geste un
-peu trop brusque pour être vraiment détaché.
+Fara replia sa carte d'un geste un peu trop brusque pour être vraiment
+détaché.
 
 — Il y a autre chose que je dois vous dire, dit-elle. Le bateau de M.
 Técher — le père de Noah — a été vu ce matin très tôt, avant l'aube, en
@@ -109,7 +109,7 @@ Jamais. Demande à Souly, c'est même un problème, des fois.
 problème, en fait. Une fois, à l'école, elle a dit à la maîtresse que son
 nouveau pull la faisait ressembler à une courgette.
 
-— C'était vrai, dit Sofia, imperturbable.
+— C'était vrai, dit Sofia, sans se démonter.
 
 Noah, malgré la tension de la matinée, ne put retenir un petit rire, bref
 mais sincère, qui parut desserrer, l'espace d'un instant, quelque chose

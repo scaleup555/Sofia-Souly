@@ -101,10 +101,10 @@ faute.
 risque une vraie amende, une vraie interdiction d'exercer. Ce n'est plus
 juste une question de morale. C'est une question de loi.
 
-Elle referma son carnet de terrain — un modèle professionnel, plus épais
-et plus abîmé par l'eau salée que celui de Souly, mais construit
-exactement dans le même esprit — et regarda les deux enfants avec un
-sérieux qu'elle n'avait pas encore montré depuis leur arrivée.
+Elle referma son carnet de terrain, un modèle professionnel plus épais
+et plus abîmé par l'eau salée que celui de Souly mais construit
+exactement dans le même esprit, et son visage se fit soudain plus grave
+qu'il ne l'avait été depuis leur arrivée.
 
 — Je vais être honnête avec vous, dit-elle. Une bonne partie de la ville
 pense déjà savoir qui casse le corail. Les pêcheurs traditionnels, dont

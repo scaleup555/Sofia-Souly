@@ -1,7 +1,5 @@
-# Sofia & Souly
-## Tome 3 — L'Océan qui avait de la fièvre
-
-*(Session 1 (tome 3) — chapitres 1 à 6 sur 12 — v3 après jury 8,6/10)*
+# Sofia & Souly — Tome 3 : L'Océan qui avait de la fièvre
+## Chapitres 1 à 6 (session 1)
 
 # Chapitre 1 — Le bleu qui n'était pas net
 
@@ -42,7 +40,7 @@ largement les poissons aux patients. Ils se plaignent moins.
 
 — C'est pas très gentil pour les patients, remarqua Sofia.
 
-— C'est très gentil pour les poissons, corrigea Fara, imperturbable.
+— C'est très gentil pour les poissons, corrigea Fara, sans ciller.
 
 La route longeait la côte, entre des champs de canne à sucre qui
 montaient à l'assaut des pentes du volcan et un océan d'un bleu si
@@ -161,10 +159,10 @@ Sofia et Souly échangèrent un regard, ce même regard qu'ils échangeaient
 toujours au tout début d'une histoire, avant même de savoir où elle
 allait les mener.
 
-— On peut t'aider ? demanda Souly, son carnet — le troisième depuis le
-début de l'été précédent, une couverture bleu marine cette fois, cadeau
-de Léna qu'il n'avait pas eu le cœur d'entamer avant un vrai début
-d'enquête — déjà à moitié sorti de son sac.
+— On peut t'aider ? demanda Souly, son carnet déjà à moitié sorti de son
+sac. Le troisième depuis le début de l'été précédent, une couverture
+bleu marine cette fois, cadeau de Léna qu'il n'avait pas eu le cœur
+d'entamer avant un vrai début d'enquête.
 
 Fara les observa un instant, ces deux enfants venus de métropole pour
 deux semaines de vacances et déjà penchés, sans qu'on le leur ait
@@ -332,10 +330,10 @@ faute.
 risque une vraie amende, une vraie interdiction d'exercer. Ce n'est plus
 juste une question de morale. C'est une question de loi.
 
-Elle referma son carnet de terrain — un modèle professionnel, plus épais
-et plus abîmé par l'eau salée que celui de Souly, mais construit
-exactement dans le même esprit — et regarda les deux enfants avec un
-sérieux qu'elle n'avait pas encore montré depuis leur arrivée.
+Elle referma son carnet de terrain, un modèle professionnel plus épais
+et plus abîmé par l'eau salée que celui de Souly mais construit
+exactement dans le même esprit, et son visage se fit soudain plus grave
+qu'il ne l'avait été depuis leur arrivée.
 
 — Je vais être honnête avec vous, dit-elle. Une bonne partie de la ville
 pense déjà savoir qui casse le corail. Les pêcheurs traditionnels, dont
@@ -539,8 +537,8 @@ quai, et à l'autre extrémité, sous une banderole immense proclamant
 « LAGON BLEU EXCURSIONS — VOTRE OCÉAN, VOS SENSATIONS », Christophe
 Randriamanantsoa avait fait installer un véritable parc d'attractions
 flottant : jet-skis alignés, bouées tractées, et un stand de démonstration
-équipé d'un micro qu'il utilisait, depuis le début de l'après-midi, avec
-un enthousiasme commercial difficile à ignorer.
+équipé d'un micro qu'il n'avait pas lâché depuis le début de l'après-midi,
+vantant chaque machine d'une voix de camelot difficile à ignorer.
 
 — Approchez, approchez ! Venez découvrir nos machines dernier cri !
 Réservations spéciales pour les familles pendant toute la durée de la
@@ -728,8 +726,8 @@ poche, un cadeau récent de Souly, sur lequel elle notait, avec une
 application touchante, des dates et des flèches qu'elle seule savait
 vraiment interpréter.
 
-Fara hocha la tête, songeuse, avant de replier sa carte avec un geste un
-peu trop brusque pour être vraiment détaché.
+Fara replia sa carte d'un geste un peu trop brusque pour être vraiment
+détaché.
 
 — Il y a autre chose que je dois vous dire, dit-elle. Le bateau de M.
 Técher — le père de Noah — a été vu ce matin très tôt, avant l'aube, en
@@ -774,7 +772,7 @@ Jamais. Demande à Souly, c'est même un problème, des fois.
 problème, en fait. Une fois, à l'école, elle a dit à la maîtresse que son
 nouveau pull la faisait ressembler à une courgette.
 
-— C'était vrai, dit Sofia, imperturbable.
+— C'était vrai, dit Sofia, sans se démonter.
 
 Noah, malgré la tension de la matinée, ne put retenir un petit rire, bref
 mais sincère, qui parut desserrer, l'espace d'un instant, quelque chose
@@ -906,8 +904,8 @@ scrupules à laisser quelqu'un d'autre payer pour ses erreurs. Surtout si
 ça détourne l'attention juste assez longtemps pour passer le vote de
 vendredi tranquillement.
 
-Sofia frissonna, pas de froid — la nuit tropicale restait douce, presque
-chaude — mais de quelque chose de plus proche de la colère, une émotion
+Sofia frissonna. Pas de froid : la nuit tropicale restait douce, presque
+chaude. Plutôt de quelque chose de plus proche de la colère, une émotion
 qu'elle ne cherchait pas particulièrement à cacher.
 
 — Alors on n'a pas deux jours, dit-elle. On a deux jours pour empêcher
