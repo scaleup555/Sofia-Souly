@@ -68,7 +68,9 @@ ouvrir la petite salle d'attente vitrée donnant sur le bureau d'audition.
 
 À travers la vitre, ils virent Rocheteau, assis très droit sur une chaise
 trop petite pour lui, le visage vidé de toute l'assurance qu'il affichait
-encore sur l'estrade de la mairie quelques jours plus tôt.
+encore sur l'estrade de la mairie quelques jours plus tôt. Souly serra la
+main de Sofia sans même y penser ; ce n'était pas de la peur, cette fois,
+juste l'impression étrange de voir un adulte devenir soudain très petit.
 
 — Pourquoi ? demanda simplement le Brigadier, dans le silence qui suivit
 la lecture des faits.

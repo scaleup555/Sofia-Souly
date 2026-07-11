@@ -288,3 +288,28 @@ tous les tomes futurs) :**
   différents (ex. tome 2 : seuil de capteur relevé ET données republiées
   falsifiées), le dire une fois explicitement à voix haute par un
   personnage, sinon un jeune lecteur méticuleux peut s'y perdre.
+
+**Tome 2 — verdict final du livre complet : 8,4 → 9,1/10 — ACCEPTÉ, en
+seulement 2 passages** (contre 3 pour le tome 1). Voir
+`tome-02-le-volcan-qui-avait-la-migraine/jury/rapport-livre-complet-v2-ACCEPTE.md`.
+
+**Nouvelle leçon critique : NE JAMAIS RACONTER APRÈS COUP un climax de
+twist.** Le seul vrai défaut de fond (pas seulement stylistique) relevé sur
+le tome 2 était la scène de l'aveu du coupable (ch.10), initialement résumée
+via un appel téléphonique rapporté plutôt que vécue par les personnages
+principaux. Un climax d'enquête (confrontation, aveu, arrestation) doit
+TOUJOURS être une scène vécue avec dialogue direct, jamais un compte-rendu
+résumé — même si cela demande de justifier la présence des enfants sur
+place (ici : invités comme « témoins » par l'adulte responsable). À vérifier
+systématiquement pour le twist 1 de chaque tome futur, dès l'écriture.
+
+**Nouveau motif à surveiller pour les tomes futurs :** « visiblement »
+utilisé en excès (15 fois sur 17 800 mots dans le tome 2) — pas encore un
+tic bloquant, mais un candidat probable à la prochaine régression si non
+surveillé.
+
+**Bilan méthodologique tome 1 vs tome 2 :** le nombre total de passages
+jury nécessaires est passé de 6 (tome 1) à 4 (tome 2), grâce à
+l'application des leçons dès l'écriture. Objectif pour le tome 3 : viser 3
+passages ou moins en intégrant aussi la leçon du climax vécu ci-dessus dès
+le premier jet.
