@@ -23,20 +23,18 @@ avec `bible/personnages.md` et `bible/lecons_apprises.md`.
   → 9,0/10) puis livre complet (8,0 → 8,4 → 9,1/10) — 6 passages cumulés.
   Tous les défauts relevés étaient stylistiques (tics d'IA, répétitions
   lexicales) ou des fils d'enquête à refermer, jamais des problèmes de fond.
-- **Prochaine étape restante pour le tome 1 : livraison finale en `.docx`**,
-  mise en page romans jeunesse au format 5,5 × 8,5 pouces (voir section
-  ci-dessous).
+- **Fichier final livré :**
+  `tome-01-le-pharaon-qui-avait-peur-du-noir/Sofia-et-Souly-Tome-1-Le-Pharaon-qui-avait-peur-du-noir.docx`
+  — format page 5,5 × 8,5 pouces, page de titre, page de copyright, table des
+  matières, 12 chapitres avec saut de page et numérotation, police Georgia
+  11,5 pt, interligne 1,35, texte justifié avec retrait de première ligne.
 
-## Ce qu'il reste à faire pour le tome 1
+## TOME 1 — ENTIÈREMENT TERMINÉ
 
-1. **Livrer le fichier `.docx` final**, mise en page adaptée à un roman
-   jeunesse au format 5,5 × 8,5 pouces : page de titre, table des matières,
-   marges adaptées à l'impression (reliure), interligne confortable, police
-   serif lisible (11-12 pt), numérotation de page, saut de page entre
-   chapitres, titre de série et de tome en en-tête/page de titre.
-2. Une fois le `.docx` livré : marquer le tome 1 comme totalement terminé
-   dans ce fichier, et retirer le statut brouillon du PR #1 (ou le fusionner
-   selon les instructions reçues).
+Rédaction (12 chapitres, ~33 900 mots), validation jury (9,1/10) et livraison
+`.docx` finale : les trois étapes sont complètes. Reste uniquement, côté
+dépôt GitHub, à retirer le statut brouillon du PR #1 (ou le fusionner) selon
+les instructions reçues de l'utilisateur.
 
 ## Démarrage du tome 2 (à faire après livraison du .docx du tome 1)
 
