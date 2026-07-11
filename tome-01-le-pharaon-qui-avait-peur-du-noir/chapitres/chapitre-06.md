@@ -31,9 +31,8 @@ En théorie.
 étage.
 
 Une lumière venait de s'allumer. Pas la lumière franche et blanche des néons du
-bureau, mais une lumière plus petite, plus mobile, plus jaune : une lampe de
-poche, tenue à la main, et certainement pas un interrupteur actionné
-normalement.
+bureau : une lumière plus petite, plus mobile, plus jaune. Une lampe de poche,
+tenue à la main.
 
 Le cœur de Souly se mit à battre plus vite. Pas à cause du noir, cette fois.
 À cause de ce qu'il pouvait cacher.

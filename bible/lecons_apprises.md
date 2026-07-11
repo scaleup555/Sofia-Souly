@@ -12,12 +12,29 @@ pourquoi c'est un problème, et la règle concrète à appliquer désormais.
 
 ## Règles actives de vigilance (mises à jour au fil des sessions)
 
-### Tics d'IA à bannir systématiquement
+### Tics d'IA à bannir systématiquement (liste consolidée après validation 9,0/10 en session 1)
 - Ne pas commencer les paragraphes par « Soudain », « Tout à coup » de façon répétée.
 - Éviter les phrases-formules : « Elle ne put s'empêcher de... », « Un frisson
-  parcourut son échine », « Ses yeux pétillèrent de malice », « le cœur battant ».
+  parcourut son échine », « Ses yeux pétillèrent de malice », « le cœur battant »,
+  « sentit son cœur s'accélérer ».
 - Éviter la sur-utilisation de tirets cadratins pour créer un effet dramatique.
 - Éviter les phrases nominales empilées en rafale pour faire « stylé ».
+- **Ne jamais étiqueter un dialogue/une action avec « avec un(e) + nom abstrait »**
+  (sourire, expression, attention, enthousiasme, aplomb...). Montrer l'émotion
+  par un geste concret ou la laisser porter par le dialogue seul. Si une telle
+  étiquette est vraiment nécessaire, ne JAMAIS répéter la même formulation deux
+  fois dans un même tome — varier systématiquement.
+- **Ne jamais écrire « le/ce genre de [nom] qui/que »** comme raccourci
+  descriptif. Toléré au maximum 1 fois par chapitre, jamais répété à l'identique.
+- **Hedging (« sans doute », « probablement », « sûrement », « certainement »)** :
+  acceptable UNIQUEMENT dans le dialogue direct d'un personnage qui exprime une
+  vraie incertitude. Jamais dans la voix narrative neutre.
+- **Comparaisons « comme si / comme un(e) »** : le point le moins bien résolu en
+  session 1 (densité encore élevée en narration, ~11 sur 18 700 mots). Pour la
+  session 2 : viser une réduction active dès l'écriture, pas seulement en
+  relecture. Autoriser les comparaisons singulières et bien choisies (image
+  précise, non générique) ; bannir le schéma générique « comme si + émotion
+  déjà montrée par l'action » qui ne fait que répéter ce que le lecteur sait déjà.
 - Éviter de terminer trop de chapitres sur une phrase choc à une ligne isolée —
   varier les types de fins de chapitre (question, dialogue, geste, détail comique).
 - Varier la longueur des phrases : trop de phrases courtes d'affilée sonne artificiel,
@@ -155,3 +172,18 @@ coup :**
   remarque — soit il le sait, soit il ne le sait pas.
 - Éviter « le cœur battant » / « sentit son cœur s'accélérer » et toute variante :
   montrer la peur par l'action physique (ex. compter, respirer, serrer un poing).
+
+**Quatrième passage devant le jury : 9,0/10 → ACCEPTÉ.** Session 1 validée.
+Voir `tome-01-le-pharaon-qui-avait-peur-du-noir/jury/rapport-v4-ACCEPTE.md`
+pour le rapport complet. Reliquats mineurs corrigés après ce rapport : « avec
+toute la dignité » répété (ch.3/ch.4) varié, dernier hedge narratorial hors
+dialogue (ch.6) coupé, « comme un vrai professionnel » (ch.5) reformulé.
+
+**Bilan méthodologique de la session 1 (à appliquer dès le premier jet en
+session 2, pas seulement en correction) :** il a fallu 4 passages devant le
+jury pour passer de 6,5 à 9,0/10, principalement à cause des tics de style
+répétitifs (pas de problèmes de fond : l'intrigue, l'humour et les personnages
+étaient déjà solides dès le premier jet). Pour la session 2 (chapitres 7-12),
+appliquer directement, dès l'écriture, les réflexes listés dans « Tics d'IA à
+bannir systématiquement » ci-dessus, plutôt que de les corriger après coup —
+cela devrait réduire le nombre de passages nécessaires devant le jury.

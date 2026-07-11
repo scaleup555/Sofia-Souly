@@ -129,8 +129,8 @@ chaussure se détachait clairement — une empreinte de basket, avec un motif de
 semelle distinctif, des vagues croisées entourant un cercle central.
 
 — Une empreinte, dit Souly, s'accroupissant pour l'examiner de plus près, sans la
-toucher, comme un vrai professionnel qui avait retenu au moins une leçon des
-séries policières regardées en cachette. Sous LA fenêtre de LA réserve. C'est pas
+toucher — il avait au moins retenu ça de ses séries policières regardées en
+cachette. Sous LA fenêtre de LA réserve. C'est pas
 rien.
 
 — On prend une photo ?

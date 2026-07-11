@@ -138,8 +138,8 @@ Bellerive-sur-Loire. Même Mme Bamba, qui accourait déjà avec sa lampe torche
 d'urgence, dut se mordre la lèvre très fort pour ne pas éclater de rire elle-même
 en découvrant la scène.
 
-— Je vais bien, répéta Souly en repoussant le couvercle avec toute la dignité qui
-lui restait, ce qui n'était, à ce stade, plus grand-chose. Tout va bien. Rien de
+— Je vais bien, répéta Souly en repoussant le couvercle, menton haut, comme s'il
+lui restait encore une once de dignité à sauver. Tout va bien. Rien de
 cassé. À part peut-être mon amour-propre.
 
 — T'étais trop drôle, hoqueta Sofia entre deux fous rires, en l'aidant à se

@@ -1,7 +1,7 @@
 # Sofia & Souly
 ## Tome 1 — Le Pharaon qui avait peur du noir
 
-*(Manuscrit en cours — Session 1 : chapitres 1 à 6 sur 12, v4 après troisième passage jury)*
+*(Session 1 — chapitres 1 à 6 sur 12 — VALIDÉ par le jury indépendant : 9,0/10)*
 
 # Chapitre 1 — Valise, veilleuse-grenouille et une caisse en bois
 
@@ -1278,8 +1278,8 @@ Bellerive-sur-Loire. Même Mme Bamba, qui accourait déjà avec sa lampe torche
 d'urgence, dut se mordre la lèvre très fort pour ne pas éclater de rire elle-même
 en découvrant la scène.
 
-— Je vais bien, répéta Souly en repoussant le couvercle avec toute la dignité qui
-lui restait, ce qui n'était, à ce stade, plus grand-chose. Tout va bien. Rien de
+— Je vais bien, répéta Souly en repoussant le couvercle, menton haut, comme s'il
+lui restait encore une once de dignité à sauver. Tout va bien. Rien de
 cassé. À part peut-être mon amour-propre.
 
 — T'étais trop drôle, hoqueta Sofia entre deux fous rires, en l'aidant à se
@@ -1606,8 +1606,8 @@ chaussure se détachait clairement — une empreinte de basket, avec un motif de
 semelle distinctif, des vagues croisées entourant un cercle central.
 
 — Une empreinte, dit Souly, s'accroupissant pour l'examiner de plus près, sans la
-toucher, comme un vrai professionnel qui avait retenu au moins une leçon des
-séries policières regardées en cachette. Sous LA fenêtre de LA réserve. C'est pas
+toucher — il avait au moins retenu ça de ses séries policières regardées en
+cachette. Sous LA fenêtre de LA réserve. C'est pas
 rien.
 
 — On prend une photo ?
@@ -1902,9 +1902,8 @@ En théorie.
 étage.
 
 Une lumière venait de s'allumer. Pas la lumière franche et blanche des néons du
-bureau, mais une lumière plus petite, plus mobile, plus jaune : une lampe de
-poche, tenue à la main, et certainement pas un interrupteur actionné
-normalement.
+bureau : une lumière plus petite, plus mobile, plus jaune. Une lampe de poche,
+tenue à la main.
 
 Le cœur de Souly se mit à battre plus vite. Pas à cause du noir, cette fois.
 À cause de ce qu'il pouvait cacher.
