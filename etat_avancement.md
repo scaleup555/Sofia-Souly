@@ -1,6 +1,6 @@
 # État d'avancement — Série Sofia & Souly
 
-*Dernière mise à jour : Session 1 terminée / Session 2 en cours — 2026-07-11*
+*Dernière mise à jour : Tome 1 VALIDÉ COMPLET — 2026-07-11*
 
 **À LIRE INTÉGRALEMENT avant de démarrer toute nouvelle session d'écriture**,
 avec `bible/personnages.md` et `bible/lecons_apprises.md`.
@@ -9,61 +9,51 @@ avec `bible/personnages.md` et `bible/lecons_apprises.md`.
 
 | Tome | Titre | Thème pédagogique | Statut | Note jury |
 |---|---|---|---|---|
-| 1 | Le Pharaon qui avait peur du noir | Égypte antique (hiéroglyphes, momification, Champollion) | Ch. 1-6/12 validés ; ch. 7-12 en cours | 9,0/10 (ch. 1-6) |
+| 1 | Le Pharaon qui avait peur du noir | Égypte antique (hiéroglyphes, momification, Champollion) | **12/12 chapitres validés** | **9,1/10 — ACCEPTÉ** |
 
-## Tome 1 — détail
+## Tome 1 — TERMINÉ (rédaction + validation jury)
 
 - Dossier : `tome-01-le-pharaon-qui-avait-peur-du-noir/`
-- Plan complet des 12 chapitres : `tome-01-le-pharaon-qui-avait-peur-du-noir/outline.md`
-- **Chapitres 1 à 6 (session 1) : VALIDÉS par le jury indépendant à 9,0/10**
-  (~18 700 mots). Rapport complet :
-  `tome-01-le-pharaon-qui-avait-peur-du-noir/jury/rapport-v4-ACCEPTE.md`.
-  Il a fallu 4 passages jury (6,5 → 7,2 → 8,1 → 9,0) pour y arriver, uniquement
-  sur des corrections de style (tics d'IA) — voir `bible/lecons_apprises.md`
-  pour le détail et les réflexes à appliquer dès l'écriture des chapitres 7-12.
-- **Chapitres 7 à 12 (session 2) : en cours d'écriture.**
-- **Twist 1** (coupable réel = Julien) prévu chapitres 8-9
-- **Twist 2** (traduction complète de l'inscription = blague d'enfant, pas
-  malédiction) prévu chapitre 11
-- Indices déjà plantés (chapitres 1-6) à ne pas oublier / contredire dans la
-  suite :
-  - Empreinte de chaussure pointure 42-43 sous la fenêtre de la réserve
-  - Badge de musée aperçu au cou de la silhouette sur la vidéo de surveillance
-    (chapitre 5)
-  - Loquet de la fenêtre de la réserve forcé (chapitre 6)
-  - Le coffre-fort à combinaison à 5 chiffres contenant le fragment (chapitre 3)
-  - Il reste du texte non traduit après l'« ajout bizarre » sur la bandelette,
-    visible uniquement sur la photo de Sofia grâce à un éclairage rasant
-    (chapitre 6) — point de départ direct du chapitre 7
-  - Vasploix reste un suspect actif aux yeux des enfants (mais PAS le vrai
-    coupable — c'est un enquêteur du patrimoine, à révéler progressivement)
-  - Julien a toujours une explication plausible toute prête (caméra, lampe
-    oubliée) — continuer ce motif jusqu'à la confrontation
-  - Max Ferron est désormais un allié à part entière, signataire du Carnet des
-    Preuves
-  - Mme Bamba : le musée risque fermeture définitive si l'exposition échoue —
-    enjeu financier à garder actif jusqu'à la résolution finale (financement
-    via la fondation de Vasploix, chapitre 11)
-  - Souly a admis sa peur du noir à Sofia (chapitre 6) — l'arc doit se conclure
-    chapitre 9 (affronter physiquement le noir) et chapitre 12 (victoire
-    symbolique discrète)
+- Manuscrit final : `tome-01-le-pharaon-qui-avait-peur-du-noir/manuscrit-complet-tome1.md`
+  (~33 900 mots — légèrement sous la cible de 40 000 mots, signalé par le
+  jury comme non bloquant)
+- **12 chapitres validés par le jury indépendant à 9,1/10.**
+  Rapport final : `tome-01-le-pharaon-qui-avait-peur-du-noir/jury/rapport-livre-complet-v3-ACCEPTE.md`
+- Historique complet des passages jury : chapitres 1-6 seuls (6,5 → 7,2 → 8,1
+  → 9,0/10) puis livre complet (8,0 → 8,4 → 9,1/10) — 6 passages cumulés.
+  Tous les défauts relevés étaient stylistiques (tics d'IA, répétitions
+  lexicales) ou des fils d'enquête à refermer, jamais des problèmes de fond.
+- **Prochaine étape restante pour le tome 1 : livraison finale en `.docx`**,
+  mise en page romans jeunesse au format 5,5 × 8,5 pouces (voir section
+  ci-dessous).
 
-## Prochaine étape immédiate (session 2, en cours)
+## Ce qu'il reste à faire pour le tome 1
 
-1. ✅ Relire `bible/lecons_apprises.md` en entier avant d'écrire (fait).
-2. Écrire les chapitres 7 à 12 (~3300 mots chacun, ~19 800 mots), en suivant le
-   plan déjà posé dans `outline.md` (section « suite prévue en session 2 »),
-   en appliquant DÈS L'ÉCRITURE les réflexes anti-tics d'IA (pas seulement en
-   relecture) pour limiter le nombre de passages jury nécessaires.
-3. Faire évaluer l'ensemble des 12 chapitres par le jury indépendant (agent).
-4. Corriger jusqu'à obtenir une note globale ≥ 9/10.
-5. Une fois validé : livrer le tome 1 complet en `.docx`, mise en page romans
-   jeunesse au format 5,5 × 8,5 pouces (marges, interligne, police lisible
-   type serif 11-12pt, numérotation de page, page de titre, table des
-   matières).
-6. Démarrer le tome 2 : choisir une thématique éducative neuve, sans lien
-   d'intrigue avec le tome 1, en réutilisant les personnages fixes de
-   `bible/personnages.md`.
+1. **Livrer le fichier `.docx` final**, mise en page adaptée à un roman
+   jeunesse au format 5,5 × 8,5 pouces : page de titre, table des matières,
+   marges adaptées à l'impression (reliure), interligne confortable, police
+   serif lisible (11-12 pt), numérotation de page, saut de page entre
+   chapitres, titre de série et de tome en en-tête/page de titre.
+2. Une fois le `.docx` livré : marquer le tome 1 comme totalement terminé
+   dans ce fichier, et retirer le statut brouillon du PR #1 (ou le fusionner
+   selon les instructions reçues).
+
+## Démarrage du tome 2 (à faire après livraison du .docx du tome 1)
+
+- Choisir une thématique éducative neuve, intéressante et propice à la
+  curiosité (voir `bible/personnages.md` pour les contraintes de continuité).
+- Aucune suite d'intrigue avec le tome 1 : nouvelle histoire, nouveau lieu
+  (ou retour à Bellerive-sur-Loire avec une intrigue totalement différente),
+  nouveaux personnages secondaires.
+- Réutiliser les personnages fixes (Sofia, Souly, Mamie Rose, Camille, Théo)
+  tels que définis dans `bible/personnages.md` — ne jamais contredire les
+  faits déjà établis (âges, peurs, habitudes).
+- Appliquer DÈS LE PREMIER JET tous les réflexes anti-tics d'IA listés dans
+  `bible/lecons_apprises.md`, avec vérification grep après CHAQUE chapitre
+  (pas seulement en fin de session) — c'est la leçon n°1 de tout le tome 1.
+- Structure de session identique : 6 chapitres par session (~3300 mots
+  chacun), jury indépendant à la fin de chaque session, correction jusqu'à
+  ≥ 9/10 avant de considérer la session terminée.
 
 ## Historique des sessions
 
@@ -72,8 +62,10 @@ avec `bible/personnages.md` et `bible/lecons_apprises.md`.
   brouillon).
 - Rédaction des chapitres 1 à 6 du tome 1 (~18 700 mots).
 - 4 passages devant le jury indépendant : 6,5 → 7,2 → 8,1 → **9,0/10 — ACCEPTÉ**.
-- Toutes les corrections et leçons capitalisées dans `bible/lecons_apprises.md`.
 
-### Session 2 — 2026-07-11 (en cours)
-- Rédaction des chapitres 7 à 12 en cours, dans la continuité directe de la
-  session 1 (mêmes personnages, mêmes indices, résolution des deux twists).
+### Session 2 — 2026-07-11
+- Rédaction des chapitres 7 à 12 du tome 1 (~15 200 mots), résolution des
+  deux twists majeurs, épilogue.
+- 3 passages devant le jury indépendant sur le livre complet : 8,0 → 8,4 →
+  **9,1/10 — ACCEPTÉ**.
+- **Tome 1 entièrement rédigé et validé.** Reste : livraison `.docx` finale.

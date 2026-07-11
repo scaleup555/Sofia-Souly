@@ -1,7 +1,7 @@
 # Sofia & Souly
 ## Tome 1 — Le Pharaon qui avait peur du noir
 
-*(Manuscrit complet — 12 chapitres — v3 après corrections post-jury 8,4/10)*
+*(Manuscrit final — 12 chapitres — VALIDÉ par le jury indépendant : 9,1/10)*
 
 # Chapitre 1 — Valise, veilleuse-grenouille et une caisse en bois
 
@@ -1384,9 +1384,9 @@ Dans la vitrine, ce soir : la momie. Le présentoir en velours noir. Vide.
 à Sofia. Le collier. Il était là il y a deux jours. Il n'y est plus.
 
 Ils se précipitèrent vers Mme Bamba, qui discutait avec le maire — le père de
-Max, un homme jovial au ventre rond, déguisé en Ramsès avec un enthousiasme qui
-dépassait largement son talent d'acteur — et qui abandonna la conversation dès
-qu'elle vit l'expression sur le visage des deux enfants.
+Max, un homme jovial au ventre rond, déguisé en Ramsès avec un talent
+d'acteur très largement dépassé par son enthousiasme — et qui abandonna la
+conversation dès qu'elle vit l'expression sur le visage des deux enfants.
 
 — Le collier de perles bleues, dit Souly en tendant son téléphone avec la photo.
 Il n'est plus dans la vitrine.

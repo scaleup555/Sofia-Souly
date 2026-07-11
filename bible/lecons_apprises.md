@@ -232,3 +232,27 @@ dans le chapitre 10 (3→1).
 **Note pour le tome 2 et toutes les sessions futures : avant de démarrer une
 nouvelle session, relire ce fichier ET faire un grep rapide des motifs bannis
 sur les chapitres déjà écrits pour vérifier qu'ils n'ont pas resurgi.**
+
+**Verdict final du livre complet (12 chapitres) : 8,0 → 8,4 → 9,1/10 —
+ACCEPTÉ.** Voir
+`tome-01-le-pharaon-qui-avait-peur-du-noir/jury/rapport-livre-complet-v3-ACCEPTE.md`
+pour le rapport complet. Il a fallu 3 passages sur le livre complet (en plus
+des 4 passages sur les chapitres 1-6 seuls) pour y arriver — soit 6 passages
+cumulés au total sur ce tome. Tous les défauts relevés étaient stylistiques
+(répétitions lexicales exactes de formulations déjà purgées ailleurs dans le
+livre) ou des fils d'enquête non refermés, jamais des problèmes de fond
+(intrigue, personnages, humour, thème pédagogique déjà solides dès les
+premiers jets).
+
+**Grep de contrôle qualité à lancer systématiquement après chaque chapitre
+ET avant de soumettre un manuscrit au jury (commande de référence) :**
+```
+grep -oh "avec un[e]* [a-zéèêàûôîç]*" chapitre-*.md | sort | uniq -c | sort -rn
+grep -o "genre de\|genre d'" chapitre-*.md | wc -l   # max 1 par chapitre
+grep -o "sans doute\|probablement\|sûrement\|certainement" chapitre-*.md  # vérifier : uniquement en dialogue
+grep -o "comme si\|comme un\b\|comme une\b" chapitre-*.md | wc -l
+grep -n "cœur battant\|cœur qui s'accélère\|frisson.*dos\|frisson.*échine" chapitre-*.md  # doit être vide
+```
+Toute formulation « avec un(e) + nom » qui apparaît plus d'une fois dans
+l'ensemble d'un tome doit être reformulée avant soumission au jury — c'est le
+seul réflexe qui aurait évité la majorité des allers-retours de ce tome 1.
