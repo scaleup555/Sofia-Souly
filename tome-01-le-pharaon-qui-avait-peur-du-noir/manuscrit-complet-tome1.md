@@ -1,7 +1,7 @@
 # Sofia & Souly
 ## Tome 1 — Le Pharaon qui avait peur du noir
 
-*(Manuscrit complet — 12 chapitres — Session 2, en attente d'évaluation jury finale)*
+*(Manuscrit complet — 12 chapitres — v2 après corrections post-jury 8,0/10)*
 
 # Chapitre 1 — Valise, veilleuse-grenouille et une caisse en bois
 
@@ -2618,9 +2618,9 @@ et soulignées deux fois : « MOBILE : PAS SEULEMENT VOLER. FERMER LE MUSÉE ? �
 — Mais pourquoi quelqu'un voudrait fermer le musée ? demanda Max. C'est pas
 comme si ça rapportait de l'argent à qui que ce soit de le fermer.
 
-— Sauf, dit Souly avec une lenteur théâtrale qu'il ne put s'empêcher de
-savourer, si quelqu'un profite justement du chaos pour vider tranquillement
-les vitrines pendant que tout le monde s'inquiète pour l'avenir du bâtiment
+— Sauf, dit Souly, savourant chaque mot, si quelqu'un profite justement du
+chaos pour vider tranquillement les vitrines pendant que tout le monde
+s'inquiète pour l'avenir du bâtiment
 plutôt que pour ce qui disparaît dedans.
 
 Personne, autour de la table, ne trouva d'objection à opposer à cette théorie.
@@ -2733,8 +2733,8 @@ leur direction.
 Le silence qui suivit fut de ceux qu'on entend rarement sur un marché animé —
 un silence complet, presque physique, pendant lequel le bouquiniste resta
 figé, un livre à moitié ouvert dans les mains, et Vasploix, lui, se retourna
-lentement vers Sofia avec une expression que Souly, arrivant en courant à son
-tour, ne sut absolument pas déchiffrer.
+lentement vers Sofia, le visage impassible. Souly, arrivant en courant à son
+tour, n'y lut absolument rien.
 
 — Pardon ? dit Vasploix, d'une voix basse et posée qui contrastait
 violemment avec le cri de Sofia.
@@ -2992,9 +2992,9 @@ innocemment que possible.
 l'essentiel de la saisie, pendant que je m'occupais du reste de
 l'organisation. Pourquoi cette question ?
 
-— Pure curiosité, mentit Souly, avec un aplomb qui aurait probablement
-impressionné Sofia elle-même si elle avait été témoin de la scène plutôt que
-plongée, à côté de lui, dans la comparaison minutieuse de trois pages du
+— Pure curiosité, mentit Souly, avec un aplomb qui aurait impressionné Sofia
+elle-même, si elle avait été témoin de la scène plutôt que plongée, à côté de
+lui, dans la comparaison minutieuse de trois pages du
 classeur avec les photos qu'ils avaient prises depuis le début de l'été.
 
 Ce fut elle, d'ailleurs, qui repéra l'anomalie, une demi-heure plus tard, le
@@ -3058,8 +3058,7 @@ piteux. Une seule suffit, en général.
 Vasploix lut la page du classeur trois fois de suite, dans le bureau de Mme
 Bamba, sans dire un mot, pendant que Théo faisait les cent pas devant la
 fenêtre et que Mme Bamba, assise très droite sur sa chaise, gardait les mains
-serrées l'une contre l'autre comme si elle craignait qu'elles se mettent à
-trembler si elle les relâchait.
+serrées l'une contre l'autre, les jointures pâles.
 
 — Un scarabée manquant depuis le 14, dit-il enfin. Signalé uniquement dans le
 classeur, par la personne même qui l'a manipulé en dernier. Aucune déclaration
@@ -3279,9 +3278,39 @@ mains sur la bouche devant le sac de toile ouvert sur le sol, révélant, outre
 le petit scarabée doré du 14, trois autres pièces que personne n'avait encore
 remarquées disparues.
 
-Sofia, assise contre le mur à côté de son frère, le regardait avec une
-expression qu'il ne lui connaissait pas — un mélange de fierté et d'une
-inquiétude qu'elle ne cherchait même pas à cacher.
+Vasploix s'accroupit un instant près de Julien, toujours assis contre le mur,
+et examina ses chaussures avec une attention professionnelle avant de se
+tourner vers Souly.
+
+— Pointure quarante-trois, dit-il. Ça correspond à l'empreinte que vous avez
+relevée sous la fenêtre de la réserve, la semaine dernière. Bon travail,
+tous les deux — c'était la pièce qui manquait pour être sûr, avant même
+cette nuit.
+
+— Et le soupirail ? demanda Souly. Le soir où M. Grillet a écrasé ses
+framboisiers ?
+
+Julien, sans lever les yeux, hocha faiblement la tête.
+
+— C'était moi, dit-il. J'avais perdu la clé du tableau électrique
+secondaire, je devais entrer autrement. Le vieux gardien m'a fait une peur
+bleue. J'ai cru qu'il m'avait vu le visage.
+
+— Et fermer le musée ? insista Sofia, qui n'avait pas oublié sa théorie du
+matin avec Max. C'était aussi votre but ? À cause de l'assurance ?
+
+Julien releva enfin les yeux, surpris par la question.
+
+— Non, dit-il. Ça, c'était juste... un accident. Un effet secondaire. Je
+voulais pas que le musée ferme, je voulais juste que personne ne regarde
+d'assez près pendant encore quelques jours. Je suis pas fier de ce que ça a
+failli provoquer.
+
+Sofia hocha la tête, satisfaite d'avoir enfin sa réponse, même si celle-ci
+n'était pas exactement celle qu'elle avait imaginée, et retourna s'asseoir
+contre le mur, à côté de Souly. Elle le regardait avec une expression qu'il
+ne lui connaissait pas — un mélange de fierté et d'une inquiétude qu'elle ne
+cherchait même pas à cacher.
 
 — Tu as bloqué la porte, dit-elle. Dans le noir complet. Tout seul.
 
@@ -3446,9 +3475,9 @@ leur a montré que le coupable était identifié et arrêté, et que les
 incidents avaient une cause précise plutôt qu'une simple série de « pannes
 mystérieuses », ils ont retiré leur avertissement.
 
-— Et il y a mieux, ajouta Théo, avec un enthousiasme qu'il ne cachait pas
-davantage que Mme Bamba. L'article d'hier a fait un tel bruit que la
-Fondation Vasploix — oui, Sofia, cette fondation-là — a proposé de financer
+— Et il y a mieux, ajouta Théo, tout aussi ravi que Mme Bamba. L'article
+d'hier a fait un tel bruit que la Fondation Vasploix — oui, Sofia, cette
+fondation-là — a proposé de financer
 la remise en état complète de l'installation électrique du musée. Et une
 partie de la restauration de la façade, tant qu'à faire.
 
@@ -3457,9 +3486,9 @@ avec une modestie qui ne lui allait, décidément, pas si mal que ça.
 
 — Ma famille a fait fortune dans des affaires qui n'ont pas toujours été très
 regardantes sur la provenance des objets qu'elle achetait, expliqua-t-il. Ma
-fondation existe en grande partie pour réparer ce genre d'erreurs. Financer
-un petit musée honnête qui a failli couler à cause d'un voleur, ça me semble
-être exactement le genre de chose qu'elle est censée faire.
+fondation existe en grande partie pour réparer ces erreurs-là. Financer un
+petit musée honnête qui a failli couler à cause d'un voleur, ça me semble
+être exactement sa mission.
 
 — Donc le musée est sauvé, dit Souly, qui aimait toujours vérifier, mot pour
 mot, que les bonnes nouvelles étaient bien aussi solides qu'elles en avaient
@@ -3690,9 +3719,9 @@ littéralement dans le journal.
 
 — J'ai retrouvé une vidéo de parking, protesta Max, un peu vexé. Ça compte.
 
-— Ça compte, confirma Souly, avec une générosité qu'il n'aurait probablement
-pas eue une semaine plus tôt, avant que Max ne se retrouve caché sous un
-bureau avec un trophée de pétanque coincé sous sa chemise pour les aider.
+— Ça compte, confirma Souly — une générosité qu'il n'aurait pas eue une
+semaine plus tôt, avant que Max ne se retrouve caché sous un bureau avec un
+trophée de pétanque coincé sous sa chemise pour les aider.
 
 Ils passèrent le reste de la soirée assis sur les marches du perron de Mamie
 Rose, à relire l'article encore et encore, à imaginer tout haut ce que
@@ -4299,7 +4328,7 @@ Il ne les compta pas cette fois pour chasser une peur.
 Il les compta simplement parce que c'était agréable de les compter, un beau
 matin d'été, aux côtés de sa petite sœur, avec dans sa poche un carnet
 presque plein et, quelque part au fond de lui, la certitude tranquille que
-cette histoire-là, aussi étrange et embrouillée qu'elle ait pu être, ne
-serait probablement pas la dernière.
+cette histoire-là, aussi étrange et embrouillée qu'elle ait pu être, n'était
+pas la dernière.
 
 

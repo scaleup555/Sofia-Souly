@@ -187,3 +187,48 @@ répétitifs (pas de problèmes de fond : l'intrigue, l'humour et les personnage
 appliquer directement, dès l'écriture, les réflexes listés dans « Tics d'IA à
 bannir systématiquement » ci-dessus, plutôt que de les corriger après coup —
 cela devrait réduire le nombre de passages nécessaires devant le jury.
+
+### Session 2 — Tome 1, chapitres 7 à 12 + évaluation du roman complet
+
+**Premier passage jury sur les 12 chapitres complets : 8,0/10 → À CORRIGER.**
+
+Deux catégories de problèmes distinctes :
+
+1. **Fils d'enquête plantés en session 1 mais jamais refermés en session 2** :
+   l'empreinte de chaussure pointure 42-43 (ch.5), le passage par le soupirail
+   (ch.7), et la théorie du mobile « fermer le musée pour l'assurance » (ch.7)
+   n'étaient jamais explicitement noués ou tranchés dans la confrontation/
+   confession du chapitre 9. **LEÇON : quand une session reprend des indices
+   plantés dans une session précédente, il faut tenir une checklist explicite
+   de CHAQUE indice à refermer avant d'écrire la scène de résolution, et
+   vérifier un par un qu'ils sont bien mentionnés dans la confrontation
+   finale — pas seulement les plus gros (le coupable), aussi les détails
+   secondaires (empreintes, mobiles alternatifs, indices matériels).**
+
+2. **RÉGRESSION sur les tics d'IA que la session 1 avait fini par maîtriser.**
+   C'est le point le plus important à retenir : le hedging narratorial
+   (« probablement », « sans doute » hors dialogue), explicitement éliminé en
+   v4 de la session 1, est réapparu 3 fois dans les nouveaux chapitres — dont
+   dans la toute dernière phrase du livre. La densité de « comme si » et
+   « avec un(e) + nom abstrait » a même AUGMENTÉ par mot écrit dans les
+   chapitres 7-12 par rapport aux chapitres 1-6 pourtant déjà corrigés.
+   **LEÇON CRITIQUE : la vigilance anti-tics acquise sur une partie d'un
+   manuscrit ne se transfère PAS automatiquement à la partie suivante écrite
+   dans une session différente. Il faut activement relire ce fichier de
+   leçons AVANT chaque nouvelle session d'écriture (pas seulement avant la
+   première), et s'auto-vérifier (grep des motifs bannis) IMMÉDIATEMENT après
+   avoir écrit chaque chapitre, pas seulement à la fin de la session entière.**
+
+Corrections apportées après ce rapport : les 3 hedges narratoriaux coupés
+(dont la phrase de clôture du livre, reformulée en affirmation plus forte au
+lieu d'un hedge qui affaiblissait la « certitude tranquille » qu'elle décrivait) ;
+scène de confrontation du ch.9 enrichie pour refermer explicitement les trois
+fils d'enquête non résolus ; répétitions exactes/quasi-exactes éliminées
+(« avec une lenteur théâtrale » ch.2/ch.7, « ne sut pas déchiffrer/interpréter »
+ch.6/ch.8, « avec un enthousiasme qui » ch.4/ch.10) ; comparaison générique
+« comme si + émotion déjà montrée » reformulée (ch.9) ; réduction de « genre de »
+dans le chapitre 10 (3→1).
+
+**Note pour le tome 2 et toutes les sessions futures : avant de démarrer une
+nouvelle session, relire ce fichier ET faire un grep rapide des motifs bannis
+sur les chapitres déjà écrits pour vérifier qu'ils n'ont pas resurgi.**

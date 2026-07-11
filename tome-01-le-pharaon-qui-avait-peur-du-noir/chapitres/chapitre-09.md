@@ -3,8 +3,7 @@
 Vasploix lut la page du classeur trois fois de suite, dans le bureau de Mme
 Bamba, sans dire un mot, pendant que Théo faisait les cent pas devant la
 fenêtre et que Mme Bamba, assise très droite sur sa chaise, gardait les mains
-serrées l'une contre l'autre comme si elle craignait qu'elles se mettent à
-trembler si elle les relâchait.
+serrées l'une contre l'autre, les jointures pâles.
 
 — Un scarabée manquant depuis le 14, dit-il enfin. Signalé uniquement dans le
 classeur, par la personne même qui l'a manipulé en dernier. Aucune déclaration
@@ -224,9 +223,39 @@ mains sur la bouche devant le sac de toile ouvert sur le sol, révélant, outre
 le petit scarabée doré du 14, trois autres pièces que personne n'avait encore
 remarquées disparues.
 
-Sofia, assise contre le mur à côté de son frère, le regardait avec une
-expression qu'il ne lui connaissait pas — un mélange de fierté et d'une
-inquiétude qu'elle ne cherchait même pas à cacher.
+Vasploix s'accroupit un instant près de Julien, toujours assis contre le mur,
+et examina ses chaussures avec une attention professionnelle avant de se
+tourner vers Souly.
+
+— Pointure quarante-trois, dit-il. Ça correspond à l'empreinte que vous avez
+relevée sous la fenêtre de la réserve, la semaine dernière. Bon travail,
+tous les deux — c'était la pièce qui manquait pour être sûr, avant même
+cette nuit.
+
+— Et le soupirail ? demanda Souly. Le soir où M. Grillet a écrasé ses
+framboisiers ?
+
+Julien, sans lever les yeux, hocha faiblement la tête.
+
+— C'était moi, dit-il. J'avais perdu la clé du tableau électrique
+secondaire, je devais entrer autrement. Le vieux gardien m'a fait une peur
+bleue. J'ai cru qu'il m'avait vu le visage.
+
+— Et fermer le musée ? insista Sofia, qui n'avait pas oublié sa théorie du
+matin avec Max. C'était aussi votre but ? À cause de l'assurance ?
+
+Julien releva enfin les yeux, surpris par la question.
+
+— Non, dit-il. Ça, c'était juste... un accident. Un effet secondaire. Je
+voulais pas que le musée ferme, je voulais juste que personne ne regarde
+d'assez près pendant encore quelques jours. Je suis pas fier de ce que ça a
+failli provoquer.
+
+Sofia hocha la tête, satisfaite d'avoir enfin sa réponse, même si celle-ci
+n'était pas exactement celle qu'elle avait imaginée, et retourna s'asseoir
+contre le mur, à côté de Souly. Elle le regardait avec une expression qu'il
+ne lui connaissait pas — un mélange de fierté et d'une inquiétude qu'elle ne
+cherchait même pas à cacher.
 
 — Tu as bloqué la porte, dit-elle. Dans le noir complet. Tout seul.
 

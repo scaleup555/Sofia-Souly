@@ -313,5 +313,5 @@ Il ne les compta pas cette fois pour chasser une peur.
 Il les compta simplement parce que c'était agréable de les compter, un beau
 matin d'été, aux côtés de sa petite sœur, avec dans sa poche un carnet
 presque plein et, quelque part au fond de lui, la certitude tranquille que
-cette histoire-là, aussi étrange et embrouillée qu'elle ait pu être, ne
-serait probablement pas la dernière.
+cette histoire-là, aussi étrange et embrouillée qu'elle ait pu être, n'était
+pas la dernière.

@@ -42,8 +42,8 @@ leur direction.
 Le silence qui suivit fut de ceux qu'on entend rarement sur un marché animé —
 un silence complet, presque physique, pendant lequel le bouquiniste resta
 figé, un livre à moitié ouvert dans les mains, et Vasploix, lui, se retourna
-lentement vers Sofia avec une expression que Souly, arrivant en courant à son
-tour, ne sut absolument pas déchiffrer.
+lentement vers Sofia, le visage impassible. Souly, arrivant en courant à son
+tour, n'y lut absolument rien.
 
 — Pardon ? dit Vasploix, d'une voix basse et posée qui contrastait
 violemment avec le cri de Sofia.
@@ -301,9 +301,9 @@ innocemment que possible.
 l'essentiel de la saisie, pendant que je m'occupais du reste de
 l'organisation. Pourquoi cette question ?
 
-— Pure curiosité, mentit Souly, avec un aplomb qui aurait probablement
-impressionné Sofia elle-même si elle avait été témoin de la scène plutôt que
-plongée, à côté de lui, dans la comparaison minutieuse de trois pages du
+— Pure curiosité, mentit Souly, avec un aplomb qui aurait impressionné Sofia
+elle-même, si elle avait été témoin de la scène plutôt que plongée, à côté de
+lui, dans la comparaison minutieuse de trois pages du
 classeur avec les photos qu'ils avaient prises depuis le début de l'été.
 
 Ce fut elle, d'ailleurs, qui repéra l'anomalie, une demi-heure plus tard, le

@@ -61,9 +61,9 @@ leur a montré que le coupable était identifié et arrêté, et que les
 incidents avaient une cause précise plutôt qu'une simple série de « pannes
 mystérieuses », ils ont retiré leur avertissement.
 
-— Et il y a mieux, ajouta Théo, avec un enthousiasme qu'il ne cachait pas
-davantage que Mme Bamba. L'article d'hier a fait un tel bruit que la
-Fondation Vasploix — oui, Sofia, cette fondation-là — a proposé de financer
+— Et il y a mieux, ajouta Théo, tout aussi ravi que Mme Bamba. L'article
+d'hier a fait un tel bruit que la Fondation Vasploix — oui, Sofia, cette
+fondation-là — a proposé de financer
 la remise en état complète de l'installation électrique du musée. Et une
 partie de la restauration de la façade, tant qu'à faire.
 
@@ -72,9 +72,9 @@ avec une modestie qui ne lui allait, décidément, pas si mal que ça.
 
 — Ma famille a fait fortune dans des affaires qui n'ont pas toujours été très
 regardantes sur la provenance des objets qu'elle achetait, expliqua-t-il. Ma
-fondation existe en grande partie pour réparer ce genre d'erreurs. Financer
-un petit musée honnête qui a failli couler à cause d'un voleur, ça me semble
-être exactement le genre de chose qu'elle est censée faire.
+fondation existe en grande partie pour réparer ces erreurs-là. Financer un
+petit musée honnête qui a failli couler à cause d'un voleur, ça me semble
+être exactement sa mission.
 
 — Donc le musée est sauvé, dit Souly, qui aimait toujours vérifier, mot pour
 mot, que les bonnes nouvelles étaient bien aussi solides qu'elles en avaient
@@ -305,9 +305,9 @@ littéralement dans le journal.
 
 — J'ai retrouvé une vidéo de parking, protesta Max, un peu vexé. Ça compte.
 
-— Ça compte, confirma Souly, avec une générosité qu'il n'aurait probablement
-pas eue une semaine plus tôt, avant que Max ne se retrouve caché sous un
-bureau avec un trophée de pétanque coincé sous sa chemise pour les aider.
+— Ça compte, confirma Souly — une générosité qu'il n'aurait pas eue une
+semaine plus tôt, avant que Max ne se retrouve caché sous un bureau avec un
+trophée de pétanque coincé sous sa chemise pour les aider.
 
 Ils passèrent le reste de la soirée assis sur les marches du perron de Mamie
 Rose, à relire l'article encore et encore, à imaginer tout haut ce que

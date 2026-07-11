@@ -320,9 +320,9 @@ et soulignées deux fois : « MOBILE : PAS SEULEMENT VOLER. FERMER LE MUSÉE ? �
 — Mais pourquoi quelqu'un voudrait fermer le musée ? demanda Max. C'est pas
 comme si ça rapportait de l'argent à qui que ce soit de le fermer.
 
-— Sauf, dit Souly avec une lenteur théâtrale qu'il ne put s'empêcher de
-savourer, si quelqu'un profite justement du chaos pour vider tranquillement
-les vitrines pendant que tout le monde s'inquiète pour l'avenir du bâtiment
+— Sauf, dit Souly, savourant chaque mot, si quelqu'un profite justement du
+chaos pour vider tranquillement les vitrines pendant que tout le monde
+s'inquiète pour l'avenir du bâtiment
 plutôt que pour ce qui disparaît dedans.
 
 Personne, autour de la table, ne trouva d'objection à opposer à cette théorie.
