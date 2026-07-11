@@ -117,6 +117,24 @@ remarqua un détail troublant : plusieurs outils de fouille, rangés
 soigneusement la veille au soir dans la tente principale, avaient changé
 de place pendant la nuit, sans explication.
 
+— Il manque aussi un pot de résine de conservation, ajouta une autre
+assistante, en vérifiant l'étagère du matériel technique. Le grand, pas
+le petit flacon d'essai. On l'utilise presque jamais, en dehors des
+consolidations d'urgence sur des fossiles trop fragiles pour être
+manipulés.
+
+— Et un peu de pigment minéral, aussi, dit Tomas, en fouillant à son
+tour dans une caisse à moitié vide. De quoi teinter du plâtre pour
+qu'il ressemble à de la roche. On garde ça pour les moulages
+pédagogiques destinés aux écoles, jamais pour de vraies pièces.
+
+Souly, qui écoutait attentivement depuis un coin de la tente, sortit son
+carnet sans même s'en rendre compte.
+
+— De la résine et du pigment, répéta-t-il, lentement. Exactement ce
+qu'il faudrait pour fabriquer quelque chose qui ressemble à un fossile,
+sans en être un.
+
 — C'est peut-être juste quelqu'un de l'équipe qui les a déplacés, dit
 Tomas, sans grande conviction.
 

@@ -34,7 +34,8 @@ pied distrait dans une pierre du chemin. Quand il était petit. Des bouts
 de coquille, des empreintes bizarres dans la roche. Il les montrait à
 tout le monde, tout content.
 
-— Et alors ? demanda Sofia, déjà captivée.
+— Et alors ? demanda Sofia, penchée en avant pour ne rien perdre de la
+suite.
 
 — Alors un paléontologue de passage, il y a bien longtemps, a dit devant
 tout le village que c'était « des cailloux ordinaires abîmés par
@@ -77,8 +78,62 @@ histoire de grand-mère plus qu'une vraie observation.
 vraiment cherché à comprendre. C'est juste ce qu'on raconte, depuis
 toujours, dans la famille.
 
+Une silhouette apparut au sommet du sentier, un homme âgé au dos
+légèrement voûté, un chapeau de paille élimé enfoncé jusqu'aux
+sourcils, un bâton noueux à la main plus par habitude que par vraie
+nécessité.
+
+— Milo ! Tu ramènes de la visite, à ce que je vois, lança-t-il, en
+descendant vers eux d'un pas plus assuré que son âge ne le laissait
+deviner.
+
+— Papet, je te présente Sofia et Souly. Ils logent chez la Doctoresse
+Castellane.
+
+Le vieil homme s'arrêta devant le rocher fendu, posa sa main libre sur
+la pierre exactement à l'endroit où celle de son petit-fils s'était
+posée un instant plus tôt, comme un geste répété depuis si longtemps
+qu'il en était devenu automatique.
+
+— Alors comme ça, on parle de mes pierres-œufs, dit-il, un sourire en
+coin qui n'avait rien d'amer, cette fois. J'avais votre âge la première
+fois que j'en ai trouvé une. Toute une couvée, presque intacte, juste
+là, sous cette fente.
+
+— Et le paléontologue de l'époque a dit que c'était rien du tout, dit
+Milo, sans réussir tout à fait à masquer sa contrariété.
+
+— Il a dit que c'étaient des cailloux d'érosion, confirma Papet Fabre,
+sans amertume apparente, seulement une pointe de fatigue dans la voix,
+celle de quelqu'un qui a raconté la même histoire trop souvent pour
+qu'elle lui fasse encore mal. Il n'est resté qu'une demi-journée. Il n'a
+même pas attendu la prochaine pluie pour vérifier ce que ma mère
+répétait depuis toujours.
+
+— Et vous, vous l'avez vérifié ? demanda Souly, son carnet déjà en main.
+
+— Vérifié, non, admit le vieil homme. Observé, oui, chaque année, depuis
+soixante ans. Après une bonne pluie d'orage, la terre sous ce rocher
+prend une teinte plus sombre que partout ailleurs dans le champ, presque
+comme du sang séché. Et c'est là, systématiquement, qu'on retrouve le
+plus de coquilles. Ça ne fait pas de moi un scientifique. Mais ça fait
+de moi quelqu'un qui a regardé, longtemps, au même endroit.
+
+Il tapota le rocher une dernière fois, comme on salue un vieil ami,
+avant de reprendre son chemin vers le bas du champ.
+
+— Ravi de vous avoir rencontrés, tous les deux, dit-il. Prenez soin de
+mon petit-fils. Il a un peu plus de méfiance que de manières, mais le
+cœur y est.
+
+— PAPET ! protesta Milo, les oreilles rouges, tandis que le vieil homme
+s'éloignait sans se retourner, son bâton frappant le sol en un rythme
+tranquille et régulier.
+
 Souly nota soigneusement l'observation dans son carnet, en soulignant le
-mot « rougit » deux fois.
+mot « rougit » deux fois, puis ajouta, en dessous, une ligne qu'il
+souligna avec la même application : *soixante ans d'observation ne sont
+pas rien, même sans microscope.*
 
 — C'est exactement le genre de détail qu'un vrai scientifique devrait
 vérifier plutôt que de juste ignorer, dit-il, pensif.
@@ -112,14 +167,15 @@ je crois.
 Dorian Vasseur, pour vous servir. Un collectionneur, disons, passionné
 par ce que trouve l'équipe de la Doctoresse Castellane.
 
-— Vous achetez des fossiles ? demanda Souly, prudent.
+— Vous achetez des fossiles ? demanda Souly, sans quitter l'homme des
+yeux.
 
 — Je facilite leur rencontre avec des amateurs éclairés, dit Vasseur,
 avec un sourire qui n'atteignait jamais tout à fait ses yeux. C'est un
 métier tout à fait honorable, je vous assure. Sur ce, bonne promenade.
 
-Il remonta dans sa camionnette et s'éloigna dans un nuage de poussière
-rouge, laissant les trois enfants silencieux un long moment.
+Il remonta dans sa camionnette et s'éloigna sur le chemin caillouteux,
+laissant les trois enfants silencieux un long moment.
 
 — Il me plaît pas, ce type, dit Sofia, la première à rompre le silence.
 

@@ -13,7 +13,8 @@ raconter.
 — ...et c'est là qu'Inès m'a dit, je m'en souviens comme si c'était hier,
 « Théo, si tu casses encore une pelle sur une pierre qui n'en est pas
 une, je t'envoie creuser les tombes plutôt que les fouiller », acheva-t-il,
-en riant si fort que la voiture fit une embardée discrète sur le bas-côté.
+avec un tel éclat de rire que la voiture fit une embardée discrète sur
+le bas-côté.
 
 — C'est qui, Inès ? demanda Sofia, qui n'avait retenu que ce nom au
 milieu de l'histoire.
@@ -61,8 +62,9 @@ toujours en retard.
 
 — Toi si. Tu as encore plus de poches à ton gilet que la dernière fois.
 
-Elle se tourna vers Sofia et Souly, les évaluant du regard avec la même
-attention méthodique qu'elle semblait réserver aux fossiles.
+Elle se tourna vers Sofia et Souly et les évalua du regard, exactement
+comme elle aurait jaugé un nouveau fragment avant de décider s'il
+méritait qu'on s'y attarde.
 
 — Alors voilà les fameux enquêteurs dont Théo n'arrête pas de parler
 depuis des années, dit-elle. Souly, le carnet. Sofia, les questions qui
@@ -102,7 +104,10 @@ voulez toucher ?
 
 Sofia tendit la main sans hésiter une seconde, et le contact de la pierre
 froide et légèrement rugueuse contre sa paume lui parut, l'espace d'un
-instant, plus important que n'importe quel objet qu'elle ait jamais tenu.
+instant, plus important que n'importe quel objet qu'elle ait jamais tenu
+— y compris son caillou porte-bonheur habituel, qu'elle sortit malgré
+tout de sa poche pour comparer sérieusement les deux, avant de conclure
+que celui-ci n'avait vraiment rien à craindre de la comparaison.
 
 — Il a quel âge ? demanda-t-elle, la voix presque respectueuse.
 
@@ -340,7 +345,8 @@ pied distrait dans une pierre du chemin. Quand il était petit. Des bouts
 de coquille, des empreintes bizarres dans la roche. Il les montrait à
 tout le monde, tout content.
 
-— Et alors ? demanda Sofia, déjà captivée.
+— Et alors ? demanda Sofia, penchée en avant pour ne rien perdre de la
+suite.
 
 — Alors un paléontologue de passage, il y a bien longtemps, a dit devant
 tout le village que c'était « des cailloux ordinaires abîmés par
@@ -383,8 +389,62 @@ histoire de grand-mère plus qu'une vraie observation.
 vraiment cherché à comprendre. C'est juste ce qu'on raconte, depuis
 toujours, dans la famille.
 
+Une silhouette apparut au sommet du sentier, un homme âgé au dos
+légèrement voûté, un chapeau de paille élimé enfoncé jusqu'aux
+sourcils, un bâton noueux à la main plus par habitude que par vraie
+nécessité.
+
+— Milo ! Tu ramènes de la visite, à ce que je vois, lança-t-il, en
+descendant vers eux d'un pas plus assuré que son âge ne le laissait
+deviner.
+
+— Papet, je te présente Sofia et Souly. Ils logent chez la Doctoresse
+Castellane.
+
+Le vieil homme s'arrêta devant le rocher fendu, posa sa main libre sur
+la pierre exactement à l'endroit où celle de son petit-fils s'était
+posée un instant plus tôt, comme un geste répété depuis si longtemps
+qu'il en était devenu automatique.
+
+— Alors comme ça, on parle de mes pierres-œufs, dit-il, un sourire en
+coin qui n'avait rien d'amer, cette fois. J'avais votre âge la première
+fois que j'en ai trouvé une. Toute une couvée, presque intacte, juste
+là, sous cette fente.
+
+— Et le paléontologue de l'époque a dit que c'était rien du tout, dit
+Milo, sans réussir tout à fait à masquer sa contrariété.
+
+— Il a dit que c'étaient des cailloux d'érosion, confirma Papet Fabre,
+sans amertume apparente, seulement une pointe de fatigue dans la voix,
+celle de quelqu'un qui a raconté la même histoire trop souvent pour
+qu'elle lui fasse encore mal. Il n'est resté qu'une demi-journée. Il n'a
+même pas attendu la prochaine pluie pour vérifier ce que ma mère
+répétait depuis toujours.
+
+— Et vous, vous l'avez vérifié ? demanda Souly, son carnet déjà en main.
+
+— Vérifié, non, admit le vieil homme. Observé, oui, chaque année, depuis
+soixante ans. Après une bonne pluie d'orage, la terre sous ce rocher
+prend une teinte plus sombre que partout ailleurs dans le champ, presque
+comme du sang séché. Et c'est là, systématiquement, qu'on retrouve le
+plus de coquilles. Ça ne fait pas de moi un scientifique. Mais ça fait
+de moi quelqu'un qui a regardé, longtemps, au même endroit.
+
+Il tapota le rocher une dernière fois, comme on salue un vieil ami,
+avant de reprendre son chemin vers le bas du champ.
+
+— Ravi de vous avoir rencontrés, tous les deux, dit-il. Prenez soin de
+mon petit-fils. Il a un peu plus de méfiance que de manières, mais le
+cœur y est.
+
+— PAPET ! protesta Milo, les oreilles rouges, tandis que le vieil homme
+s'éloignait sans se retourner, son bâton frappant le sol en un rythme
+tranquille et régulier.
+
 Souly nota soigneusement l'observation dans son carnet, en soulignant le
-mot « rougit » deux fois.
+mot « rougit » deux fois, puis ajouta, en dessous, une ligne qu'il
+souligna avec la même application : *soixante ans d'observation ne sont
+pas rien, même sans microscope.*
 
 — C'est exactement le genre de détail qu'un vrai scientifique devrait
 vérifier plutôt que de juste ignorer, dit-il, pensif.
@@ -418,14 +478,15 @@ je crois.
 Dorian Vasseur, pour vous servir. Un collectionneur, disons, passionné
 par ce que trouve l'équipe de la Doctoresse Castellane.
 
-— Vous achetez des fossiles ? demanda Souly, prudent.
+— Vous achetez des fossiles ? demanda Souly, sans quitter l'homme des
+yeux.
 
 — Je facilite leur rencontre avec des amateurs éclairés, dit Vasseur,
 avec un sourire qui n'atteignait jamais tout à fait ses yeux. C'est un
 métier tout à fait honorable, je vous assure. Sur ce, bonne promenade.
 
-Il remonta dans sa camionnette et s'éloigna dans un nuage de poussière
-rouge, laissant les trois enfants silencieux un long moment.
+Il remonta dans sa camionnette et s'éloigna sur le chemin caillouteux,
+laissant les trois enfants silencieux un long moment.
 
 — Il me plaît pas, ce type, dit Sofia, la première à rompre le silence.
 
@@ -557,6 +618,24 @@ remarqua un détail troublant : plusieurs outils de fouille, rangés
 soigneusement la veille au soir dans la tente principale, avaient changé
 de place pendant la nuit, sans explication.
 
+— Il manque aussi un pot de résine de conservation, ajouta une autre
+assistante, en vérifiant l'étagère du matériel technique. Le grand, pas
+le petit flacon d'essai. On l'utilise presque jamais, en dehors des
+consolidations d'urgence sur des fossiles trop fragiles pour être
+manipulés.
+
+— Et un peu de pigment minéral, aussi, dit Tomas, en fouillant à son
+tour dans une caisse à moitié vide. De quoi teinter du plâtre pour
+qu'il ressemble à de la roche. On garde ça pour les moulages
+pédagogiques destinés aux écoles, jamais pour de vraies pièces.
+
+Souly, qui écoutait attentivement depuis un coin de la tente, sortit son
+carnet sans même s'en rendre compte.
+
+— De la résine et du pigment, répéta-t-il, lentement. Exactement ce
+qu'il faudrait pour fabriquer quelque chose qui ressemble à un fossile,
+sans en être un.
+
 — C'est peut-être juste quelqu'un de l'équipe qui les a déplacés, dit
 Tomas, sans grande conviction.
 
@@ -576,16 +655,16 @@ la bonne humeur poussiéreuse de la veille.
 on ferait pour n'importe quelle fouille. Si quelqu'un est venu ici
 pendant la nuit, il a forcément laissé des traces.
 
-— On peut aider ? demanda Sofia, déjà debout.
+— On peut aider ? demanda Sofia, en se levant d'un bond.
 
 — Vous pouvez aider, confirma Inès. Mais on suit les règles : on ne
 touche rien avant de l'avoir noté et photographié. C'est comme ça qu'on
 travaille, ici.
 
-Ils se répartirent le chantier en secteurs, chacun muni d'un petit carnet
-et d'un appareil photo emprunté à l'équipe. Milo, qui connaissait chaque
-recoin du terrain mieux que quiconque, repéra le premier indice, près du
-carré numéro sept.
+Ils se répartirent le chantier en secteurs, un carnet dans une main et
+un appareil photo emprunté à l'équipe dans l'autre. Milo, qui connaissait
+chaque recoin du terrain mieux que quiconque, repéra le premier indice,
+près du carré numéro sept.
 
 — Regardez ça, dit-il, accroupi devant une empreinte nette dans la terre
 encore humide de rosée. Une chaussure. Pas une des nôtres — j'ai vu tout
@@ -634,7 +713,7 @@ d'empreintes, différentes des premières, menant directement vers la
 tente d'Elsa Roussel, la jeune stagiaire. Je l'ai vue en descendant de
 chez moi, avant le lever du soleil.
 
-Sofia et Souly échangèrent un regard surpris.
+Sofia haussa les sourcils vers Souly, qui haussa les siens en retour.
 
 — Elle fait souvent ça ? demanda Sofia.
 
@@ -707,10 +786,13 @@ suffisait à en changer la valeur.
 prochain, dit Inès, qui les avait rejoints entre-temps. Quatre jours pour
 comprendre ce qui se passe vraiment sur mon chantier.
 
-— On va vous aider, dit Souly, sans la moindre hésitation dans la voix.
-Deux séries d'empreintes, une pelle sans numéro, et quelqu'un qui a
-beaucoup trop hâte de voir une belle découverte samedi. C'est pas
-grand-chose encore. Mais c'est un début.
+— On va vous aider, dit Souly. Deux séries d'empreintes, une pelle sans
+numéro, et quelqu'un qui a beaucoup trop hâte de voir une belle
+découverte samedi.
+
+Il rouvrit son carnet, traça une ligne bien droite sous ses dernières
+notes, et se mit aussitôt à dresser, sans attendre l'accord de personne,
+la liste de tout ce qu'il restait à vérifier avant la fin de la semaine.
 
 
 # Chapitre 6 — La différence que personne ne veut voir
@@ -748,7 +830,8 @@ Celui-ci, étiqueté carré numéro douze, a une patine presque noire, très
 minéralisée. Celui-là, étiqueté carré numéro sept, à peine trois mètres
 plus loin, est nettement plus clair, presque gris-beige.
 
-Milo, qui les rejoignait justement, se pencha aussitôt sur les fragments.
+Milo, qui les rejoignait justement, s'accroupit à côté d'eux sans se
+faire prier.
 
 — Une différence pareille, sur trois mètres, dit-il, ça vous paraît
 normal ?
@@ -780,13 +863,34 @@ interne de l'os d'origine, même minéralisé — les canaux, les pores. Ce
 fragment lisse... je ne suis pas certaine que ce soit un vrai fossile
 d'os. Ça pourrait être une résine, ou un moulage très bien fait.
 
-— Un faux, dit Milo, la mâchoire serrée. Mêlé aux vrais fragments, avec
+Elle sortit de sa trousse un petit flacon d'acétone, réservé
+normalement au nettoyage des outils, et en déposa une goutte minuscule
+sur un coin du fragment suspect, à un endroit déjà légèrement écaillé.
+
+— Regardez, dit-elle, après quelques secondes. La surface devient
+légèrement collante, presque poisseuse. Une vraie pierre ne réagirait
+jamais comme ça. Une résine synthétique, si.
+
+Milo se pencha si près que son nez frôla presque le fragment.
+
+— Et sur l'autre morceau ? demanda-t-il.
+
+Elsa répéta l'opération sur le fragment voisin, plus sombre, celui
+qu'elle jugeait authentique. Rien ne se produisit : la surface resta
+sèche, inchangée, aussi indifférente à l'acétone qu'à n'importe quel
+autre liquide.
+
+— Rien du tout, confirma-t-elle. Exactement ce qu'on attend d'une vraie
+pierre. La différence n'est plus juste une impression, maintenant.
+C'est un résultat qu'on peut refaire, vérifier, montrer à n'importe qui.
+
+— Un faux, dit Milo, sombre. Mêlé aux vrais fragments, avec
 la même étiquette.
 
-— On n'a aucune preuve que quelqu'un l'a fait exprès, dit Elsa,
-prudente malgré l'excitation visible qui perçait dans sa propre voix. Ce
-serait une erreur de sauter directement à une conclusion, juste parce
-qu'elle nous arrange après ce qu'on a découvert ce matin.
+— On n'a aucune preuve que quelqu'un l'a fait exprès, dit Elsa, retenant
+mal l'excitation qui perçait dans sa propre voix. Ce serait une erreur
+de sauter directement à une conclusion, juste parce qu'elle nous arrange
+après ce qu'on a découvert ce matin.
 
 — C'est vrai, admit Souly, à contrecœur, en rangeant les fragments avec
 un soin renouvelé. On a juste une différence de texture suspecte. Pas un

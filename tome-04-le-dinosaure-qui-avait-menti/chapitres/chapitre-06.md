@@ -33,7 +33,8 @@ Celui-ci, étiqueté carré numéro douze, a une patine presque noire, très
 minéralisée. Celui-là, étiqueté carré numéro sept, à peine trois mètres
 plus loin, est nettement plus clair, presque gris-beige.
 
-Milo, qui les rejoignait justement, se pencha aussitôt sur les fragments.
+Milo, qui les rejoignait justement, s'accroupit à côté d'eux sans se
+faire prier.
 
 — Une différence pareille, sur trois mètres, dit-il, ça vous paraît
 normal ?
@@ -65,13 +66,34 @@ interne de l'os d'origine, même minéralisé — les canaux, les pores. Ce
 fragment lisse... je ne suis pas certaine que ce soit un vrai fossile
 d'os. Ça pourrait être une résine, ou un moulage très bien fait.
 
-— Un faux, dit Milo, la mâchoire serrée. Mêlé aux vrais fragments, avec
+Elle sortit de sa trousse un petit flacon d'acétone, réservé
+normalement au nettoyage des outils, et en déposa une goutte minuscule
+sur un coin du fragment suspect, à un endroit déjà légèrement écaillé.
+
+— Regardez, dit-elle, après quelques secondes. La surface devient
+légèrement collante, presque poisseuse. Une vraie pierre ne réagirait
+jamais comme ça. Une résine synthétique, si.
+
+Milo se pencha si près que son nez frôla presque le fragment.
+
+— Et sur l'autre morceau ? demanda-t-il.
+
+Elsa répéta l'opération sur le fragment voisin, plus sombre, celui
+qu'elle jugeait authentique. Rien ne se produisit : la surface resta
+sèche, inchangée, aussi indifférente à l'acétone qu'à n'importe quel
+autre liquide.
+
+— Rien du tout, confirma-t-elle. Exactement ce qu'on attend d'une vraie
+pierre. La différence n'est plus juste une impression, maintenant.
+C'est un résultat qu'on peut refaire, vérifier, montrer à n'importe qui.
+
+— Un faux, dit Milo, sombre. Mêlé aux vrais fragments, avec
 la même étiquette.
 
-— On n'a aucune preuve que quelqu'un l'a fait exprès, dit Elsa,
-prudente malgré l'excitation visible qui perçait dans sa propre voix. Ce
-serait une erreur de sauter directement à une conclusion, juste parce
-qu'elle nous arrange après ce qu'on a découvert ce matin.
+— On n'a aucune preuve que quelqu'un l'a fait exprès, dit Elsa, retenant
+mal l'excitation qui perçait dans sa propre voix. Ce serait une erreur
+de sauter directement à une conclusion, juste parce qu'elle nous arrange
+après ce qu'on a découvert ce matin.
 
 — C'est vrai, admit Souly, à contrecœur, en rangeant les fragments avec
 un soin renouvelé. On a juste une différence de texture suspecte. Pas un

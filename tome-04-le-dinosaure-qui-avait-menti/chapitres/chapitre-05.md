@@ -8,16 +8,16 @@ la bonne humeur poussiéreuse de la veille.
 on ferait pour n'importe quelle fouille. Si quelqu'un est venu ici
 pendant la nuit, il a forcément laissé des traces.
 
-— On peut aider ? demanda Sofia, déjà debout.
+— On peut aider ? demanda Sofia, en se levant d'un bond.
 
 — Vous pouvez aider, confirma Inès. Mais on suit les règles : on ne
 touche rien avant de l'avoir noté et photographié. C'est comme ça qu'on
 travaille, ici.
 
-Ils se répartirent le chantier en secteurs, chacun muni d'un petit carnet
-et d'un appareil photo emprunté à l'équipe. Milo, qui connaissait chaque
-recoin du terrain mieux que quiconque, repéra le premier indice, près du
-carré numéro sept.
+Ils se répartirent le chantier en secteurs, un carnet dans une main et
+un appareil photo emprunté à l'équipe dans l'autre. Milo, qui connaissait
+chaque recoin du terrain mieux que quiconque, repéra le premier indice,
+près du carré numéro sept.
 
 — Regardez ça, dit-il, accroupi devant une empreinte nette dans la terre
 encore humide de rosée. Une chaussure. Pas une des nôtres — j'ai vu tout
@@ -66,7 +66,7 @@ d'empreintes, différentes des premières, menant directement vers la
 tente d'Elsa Roussel, la jeune stagiaire. Je l'ai vue en descendant de
 chez moi, avant le lever du soleil.
 
-Sofia et Souly échangèrent un regard surpris.
+Sofia haussa les sourcils vers Souly, qui haussa les siens en retour.
 
 — Elle fait souvent ça ? demanda Sofia.
 
@@ -139,7 +139,10 @@ suffisait à en changer la valeur.
 prochain, dit Inès, qui les avait rejoints entre-temps. Quatre jours pour
 comprendre ce qui se passe vraiment sur mon chantier.
 
-— On va vous aider, dit Souly, sans la moindre hésitation dans la voix.
-Deux séries d'empreintes, une pelle sans numéro, et quelqu'un qui a
-beaucoup trop hâte de voir une belle découverte samedi. C'est pas
-grand-chose encore. Mais c'est un début.
+— On va vous aider, dit Souly. Deux séries d'empreintes, une pelle sans
+numéro, et quelqu'un qui a beaucoup trop hâte de voir une belle
+découverte samedi.
+
+Il rouvrit son carnet, traça une ligne bien droite sous ses dernières
+notes, et se mit aussitôt à dresser, sans attendre l'accord de personne,
+la liste de tout ce qu'il restait à vérifier avant la fin de la semaine.

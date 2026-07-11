@@ -10,7 +10,8 @@ raconter.
 — ...et c'est là qu'Inès m'a dit, je m'en souviens comme si c'était hier,
 « Théo, si tu casses encore une pelle sur une pierre qui n'en est pas
 une, je t'envoie creuser les tombes plutôt que les fouiller », acheva-t-il,
-en riant si fort que la voiture fit une embardée discrète sur le bas-côté.
+avec un tel éclat de rire que la voiture fit une embardée discrète sur
+le bas-côté.
 
 — C'est qui, Inès ? demanda Sofia, qui n'avait retenu que ce nom au
 milieu de l'histoire.
@@ -58,8 +59,9 @@ toujours en retard.
 
 — Toi si. Tu as encore plus de poches à ton gilet que la dernière fois.
 
-Elle se tourna vers Sofia et Souly, les évaluant du regard avec la même
-attention méthodique qu'elle semblait réserver aux fossiles.
+Elle se tourna vers Sofia et Souly et les évalua du regard, exactement
+comme elle aurait jaugé un nouveau fragment avant de décider s'il
+méritait qu'on s'y attarde.
 
 — Alors voilà les fameux enquêteurs dont Théo n'arrête pas de parler
 depuis des années, dit-elle. Souly, le carnet. Sofia, les questions qui
@@ -99,7 +101,10 @@ voulez toucher ?
 
 Sofia tendit la main sans hésiter une seconde, et le contact de la pierre
 froide et légèrement rugueuse contre sa paume lui parut, l'espace d'un
-instant, plus important que n'importe quel objet qu'elle ait jamais tenu.
+instant, plus important que n'importe quel objet qu'elle ait jamais tenu
+— y compris son caillou porte-bonheur habituel, qu'elle sortit malgré
+tout de sa poche pour comparer sérieusement les deux, avant de conclure
+que celui-ci n'avait vraiment rien à craindre de la comparaison.
 
 — Il a quel âge ? demanda-t-elle, la voix presque respectueuse.
 
