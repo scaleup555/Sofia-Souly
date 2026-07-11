@@ -90,6 +90,30 @@ Tout nouvel épisode doit relire ce fichier avant d'écrire une ligne.
   mauvais moment.
 - Personnage-ressource pour tout tome futur à thème marin/environnemental.
 
+### Milo Fabre (introduit au tome 4)
+- 11 ans, vit à Roc-Rouge (Haute-Provence), petit-fils d'un exploitant
+  agricole dont les terres jouxtent le chantier de fouille. Grimpeur né,
+  connaît chaque sentier et chaque éboulis du vallon.
+- Méfiant envers les scientifiques de passage au début, à cause d'une
+  vieille histoire familiale (son grand-père, Papet Fabre, avait signalé
+  des fossiles étant enfant et s'était fait ouvertement moquer par un
+  paléontologue de l'époque). Devient un allié précieux une fois la
+  confiance établie — sens de l'observation du terrain hérité de son
+  grand-père.
+- Personnage-ressource pour tout tome futur à thème paléontologique/terrain
+  rural.
+
+### Dr. Inès Castellane (introduite au tome 4)
+- Paléontologue, la cinquantaine, collègue de longue date de Grand-oncle
+  Théo (rencontrés lors d'une fouille commune il y a plus de vingt ans,
+  avant qu'elle ne se spécialise dans les dinosaures et lui dans l'Égypte
+  ancienne). Dirige un petit chantier de fouille en Haute-Provence.
+- Ne se sépare jamais d'un petit pinceau et d'une loupe de poche, même à
+  table. Corrige systématiquement quiconque dit « squelette » à la place
+  de « fossile » (« un fossile, ce n'est presque jamais un vrai os — c'est
+  de la pierre qui a pris la forme d'un os »).
+- Personnage-ressource pour tout tome futur à thème paléontologique/terrain.
+
 ## Règle d'or de continuité
 - Les faits établis dans un tome (âges, liens de parenté, peurs, habitudes) ne
   doivent JAMAIS être contredits dans un tome suivant.
