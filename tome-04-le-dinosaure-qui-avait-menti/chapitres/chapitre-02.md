@@ -21,8 +21,9 @@ dedans, chargée de minéraux, remplace peu à peu la matière organique par
 de la pierre. Molécule après molécule, pendant des milliers, parfois des
 millions d'années.
 
-Elle posa l'os sur la table et le fit glisser vers Souly, qui le prit
-avec des gestes précautionneux, presque religieux.
+Elle posa l'os sur la table et le fit glisser vers Souly, qui le
+réceptionna à deux mains, comme s'il craignait qu'un geste trop brusque
+ne le réduise en poussière.
 
 — C'est exactement la forme de l'os d'origine, dit-elle, mais ce n'est
 plus l'os d'origine. C'est une copie minérale, parfois plus dure que la

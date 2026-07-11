@@ -129,8 +129,8 @@ besoin de lire la signature en bas pour deviner de qui elle venait :
 l'écriture élégante et un peu trop soignée ne pouvait appartenir qu'à un
 seul membre du chantier.
 
-— Vasseur, dit-il, lentement. Il a réussi à faire enregistrer un bloc à
-son nom, dans notre propre inventaire.
+— Vasseur, dit-il. Il a réussi à faire enregistrer un bloc à son nom,
+dans notre propre inventaire.
 
 De l'autre côté de la tente, la voix d'Inès s'éleva soudain, tendue,
 répondant à un appel téléphonique que ni Sofia ni Souly n'avaient

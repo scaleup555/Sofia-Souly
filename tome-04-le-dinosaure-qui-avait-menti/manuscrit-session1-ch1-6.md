@@ -135,8 +135,8 @@ un détail qui la fit s'arrêter net.
 brun-rouge posé au fond de son tamis, distinct de tous les autres
 morceaux gris-beige qui l'entouraient.
 
-Souly s'accroupit à côté d'elle, examina le fragment avec la même
-attention scrupuleuse qu'il réservait à toute nouvelle pièce à conviction.
+Souly s'accroupit à côté d'elle et tourna le fragment entre ses doigts,
+le tenant à la lumière sous plusieurs angles avant de se prononcer.
 
 — Il n'est pas de la même couleur que les autres, dit-il. Regarde. Tous
 les fragments d'aujourd'hui sont plutôt gris ou beige. Celui-là est presque
@@ -162,9 +162,9 @@ au cas où. Bon travail d'observation, tous les deux — la plupart des
 visiteurs ne l'auraient même pas remarqué.
 
 Sofia rangea le petit fragment dans un sachet en plastique étiqueté avec
-soin par Souly, qui referma son carnet d'un coup sec, presque solennel —
-le genre de geste qu'il réservait, d'ordinaire, au tout premier indice
-d'une enquête qui ne faisait que commencer.
+soin par Souly, qui referma son carnet d'un coup sec. Ce n'était que la
+toute première ligne d'une enquête qui, tous deux le sentaient déjà, ne
+faisait que commencer.
 
 
 # Chapitre 2 — Comment mentir avec un caillou
@@ -190,8 +190,9 @@ dedans, chargée de minéraux, remplace peu à peu la matière organique par
 de la pierre. Molécule après molécule, pendant des milliers, parfois des
 millions d'années.
 
-Elle posa l'os sur la table et le fit glisser vers Souly, qui le prit
-avec des gestes précautionneux, presque religieux.
+Elle posa l'os sur la table et le fit glisser vers Souly, qui le
+réceptionna à deux mains, comme s'il craignait qu'un geste trop brusque
+ne le réduise en poussière.
 
 — C'est exactement la forme de l'os d'origine, dit-elle, mais ce n'est
 plus l'os d'origine. C'est une copie minérale, parfois plus dure que la
@@ -354,11 +355,11 @@ l'érosion », dit Milo, la mâchoire serrée. Que mon grand-père racontait
 n'importe quoi pour se rendre intéressant. Les gens ont ri. Certains rient
 encore, en fait, quand le sujet revient.
 
-Souly, qui écoutait avec attention en prenant des notes discrètes, leva
-les yeux de son carnet.
+Souly, qui n'avait pas cessé de prendre des notes discrètes, leva les
+yeux de son carnet.
 
-— C'est pour ça que tu es méfiant avec les gens de la fouille, dit-il
-lentement. Tu as peur qu'on se moque encore de ta famille.
+— C'est pour ça que tu es méfiant avec les gens de la fouille, dit-il,
+en pesant chaque mot. Tu as peur qu'on se moque encore de ta famille.
 
 — Un peu, admit Milo. Mais vous, au moins, vous demandez avant de juger.
 C'est déjà mieux que la plupart des visiteurs qui passent par ici.
@@ -465,9 +466,9 @@ sa conversation portent jusqu'à eux.
 n'en avez jamais vu... oui, le prix sera à la hauteur, faites-moi
 confiance...
 
-Il raccrocha en apercevant les trois enfants, et son expression se
-referma instantanément, remplacée par un sourire professionnel un peu
-trop rapide pour être vraiment sincère.
+Il raccrocha en apercevant les trois enfants et rangea aussitôt son
+téléphone, un sourire professionnel un peu trop rapide venant remplacer
+ce qu'il y avait, une seconde plus tôt, sur son visage.
 
 — Bonjour, les jeunes, dit-il. Vous vous baladez sur des terres privées,
 je crois.
@@ -629,8 +630,8 @@ tour dans une caisse à moitié vide. De quoi teinter du plâtre pour
 qu'il ressemble à de la roche. On garde ça pour les moulages
 pédagogiques destinés aux écoles, jamais pour de vraies pièces.
 
-Souly, qui écoutait attentivement depuis un coin de la tente, sortit son
-carnet sans même s'en rendre compte.
+Souly, qui écoutait depuis un coin de la tente, avait déjà son carnet
+ouvert avant même de décider consciemment de le sortir.
 
 — De la résine et du pigment, répéta-t-il, lentement. Exactement ce
 qu'il faudrait pour fabriquer quelque chose qui ressemble à un fossile,
@@ -687,8 +688,8 @@ reste du matériel de l'équipe, posée en évidence contre un piquet.
 — Inès, celle-là est à qui ? demanda-t-elle, en désignant l'outil sans le
 toucher.
 
-Inès s'approcha, examina la pelle avec attention, puis secoua la tête,
-perplexe.
+Inès s'approcha, tourna la pelle dans tous les sens, puis secoua la
+tête, perplexe.
 
 — Elle n'est pas de mon inventaire, dit-elle. Toutes nos pelles ont un
 numéro gravé sur le manche, pour le suivi du matériel. Celle-là n'en a
@@ -697,8 +698,8 @@ pas.
 — Quelqu'un l'a apportée de l'extérieur, dit Souly, en la photographiant
 sans y toucher. Et l'a oubliée, ou laissée exprès.
 
-Inès rangea la pelle avec précaution dans un sac en plastique, le visage
-fermé par une inquiétude qu'elle ne cherchait plus vraiment à cacher.
+Inès rangea la pelle avec précaution dans un sac en plastique, sans
+chercher à cacher l'inquiétude qui lui plissait le front.
 
 — Il va falloir en parler à la gendarmerie du patrimoine, dit-elle. Je
 n'aime pas du tout ça.
@@ -733,7 +734,7 @@ Elsa hésita un long moment, avant de sortir de son sac un carnet de
 croquis usé, couvert de dessins minutieux de fossiles, certains
 accompagnés de notes techniques serrées.
 
-— Je dessine, dit-elle, presque honteuse. Avant l'heure officielle,
+— Je dessine, dit-elle, en évitant leur regard. Avant l'heure officielle,
 quand personne ne me regarde par-dessus l'épaule. Je ne suis pas très
 douée, ou plutôt, je n'ose jamais montrer mon travail à l'équipe. Inès
 est tellement rigoureuse que j'ai peur qu'elle trouve mes croquis
@@ -926,8 +927,8 @@ besoin de lire la signature en bas pour deviner de qui elle venait :
 l'écriture élégante et un peu trop soignée ne pouvait appartenir qu'à un
 seul membre du chantier.
 
-— Vasseur, dit-il, lentement. Il a réussi à faire enregistrer un bloc à
-son nom, dans notre propre inventaire.
+— Vasseur, dit-il. Il a réussi à faire enregistrer un bloc à son nom,
+dans notre propre inventaire.
 
 De l'autre côté de la tente, la voix d'Inès s'éleva soudain, tendue,
 répondant à un appel téléphonique que ni Sofia ni Souly n'avaient

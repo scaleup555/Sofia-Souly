@@ -128,8 +128,8 @@ tour dans une caisse à moitié vide. De quoi teinter du plâtre pour
 qu'il ressemble à de la roche. On garde ça pour les moulages
 pédagogiques destinés aux écoles, jamais pour de vraies pièces.
 
-Souly, qui écoutait attentivement depuis un coin de la tente, sortit son
-carnet sans même s'en rendre compte.
+Souly, qui écoutait depuis un coin de la tente, avait déjà son carnet
+ouvert avant même de décider consciemment de le sortir.
 
 — De la résine et du pigment, répéta-t-il, lentement. Exactement ce
 qu'il faudrait pour fabriquer quelque chose qui ressemble à un fossile,

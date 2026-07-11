@@ -40,8 +40,8 @@ reste du matériel de l'équipe, posée en évidence contre un piquet.
 — Inès, celle-là est à qui ? demanda-t-elle, en désignant l'outil sans le
 toucher.
 
-Inès s'approcha, examina la pelle avec attention, puis secoua la tête,
-perplexe.
+Inès s'approcha, tourna la pelle dans tous les sens, puis secoua la
+tête, perplexe.
 
 — Elle n'est pas de mon inventaire, dit-elle. Toutes nos pelles ont un
 numéro gravé sur le manche, pour le suivi du matériel. Celle-là n'en a
@@ -50,8 +50,8 @@ pas.
 — Quelqu'un l'a apportée de l'extérieur, dit Souly, en la photographiant
 sans y toucher. Et l'a oubliée, ou laissée exprès.
 
-Inès rangea la pelle avec précaution dans un sac en plastique, le visage
-fermé par une inquiétude qu'elle ne cherchait plus vraiment à cacher.
+Inès rangea la pelle avec précaution dans un sac en plastique, sans
+chercher à cacher l'inquiétude qui lui plissait le front.
 
 — Il va falloir en parler à la gendarmerie du patrimoine, dit-elle. Je
 n'aime pas du tout ça.
@@ -86,7 +86,7 @@ Elsa hésita un long moment, avant de sortir de son sac un carnet de
 croquis usé, couvert de dessins minutieux de fossiles, certains
 accompagnés de notes techniques serrées.
 
-— Je dessine, dit-elle, presque honteuse. Avant l'heure officielle,
+— Je dessine, dit-elle, en évitant leur regard. Avant l'heure officielle,
 quand personne ne me regarde par-dessus l'épaule. Je ne suis pas très
 douée, ou plutôt, je n'ose jamais montrer mon travail à l'équipe. Inès
 est tellement rigoureuse que j'ai peur qu'elle trouve mes croquis

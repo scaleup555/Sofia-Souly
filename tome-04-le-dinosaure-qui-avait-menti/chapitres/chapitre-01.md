@@ -132,8 +132,8 @@ un détail qui la fit s'arrêter net.
 brun-rouge posé au fond de son tamis, distinct de tous les autres
 morceaux gris-beige qui l'entouraient.
 
-Souly s'accroupit à côté d'elle, examina le fragment avec la même
-attention scrupuleuse qu'il réservait à toute nouvelle pièce à conviction.
+Souly s'accroupit à côté d'elle et tourna le fragment entre ses doigts,
+le tenant à la lumière sous plusieurs angles avant de se prononcer.
 
 — Il n'est pas de la même couleur que les autres, dit-il. Regarde. Tous
 les fragments d'aujourd'hui sont plutôt gris ou beige. Celui-là est presque
@@ -159,6 +159,6 @@ au cas où. Bon travail d'observation, tous les deux — la plupart des
 visiteurs ne l'auraient même pas remarqué.
 
 Sofia rangea le petit fragment dans un sachet en plastique étiqueté avec
-soin par Souly, qui referma son carnet d'un coup sec, presque solennel —
-le genre de geste qu'il réservait, d'ordinaire, au tout premier indice
-d'une enquête qui ne faisait que commencer.
+soin par Souly, qui referma son carnet d'un coup sec. Ce n'était que la
+toute première ligne d'une enquête qui, tous deux le sentaient déjà, ne
+faisait que commencer.

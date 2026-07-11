@@ -43,11 +43,11 @@ l'érosion », dit Milo, la mâchoire serrée. Que mon grand-père racontait
 n'importe quoi pour se rendre intéressant. Les gens ont ri. Certains rient
 encore, en fait, quand le sujet revient.
 
-Souly, qui écoutait avec attention en prenant des notes discrètes, leva
-les yeux de son carnet.
+Souly, qui n'avait pas cessé de prendre des notes discrètes, leva les
+yeux de son carnet.
 
-— C'est pour ça que tu es méfiant avec les gens de la fouille, dit-il
-lentement. Tu as peur qu'on se moque encore de ta famille.
+— C'est pour ça que tu es méfiant avec les gens de la fouille, dit-il,
+en pesant chaque mot. Tu as peur qu'on se moque encore de ta famille.
 
 — Un peu, admit Milo. Mais vous, au moins, vous demandez avant de juger.
 C'est déjà mieux que la plupart des visiteurs qui passent par ici.
@@ -154,9 +154,9 @@ sa conversation portent jusqu'à eux.
 n'en avez jamais vu... oui, le prix sera à la hauteur, faites-moi
 confiance...
 
-Il raccrocha en apercevant les trois enfants, et son expression se
-referma instantanément, remplacée par un sourire professionnel un peu
-trop rapide pour être vraiment sincère.
+Il raccrocha en apercevant les trois enfants et rangea aussitôt son
+téléphone, un sourire professionnel un peu trop rapide venant remplacer
+ce qu'il y avait, une seconde plus tôt, sur son visage.
 
 — Bonjour, les jeunes, dit-il. Vous vous baladez sur des terres privées,
 je crois.
