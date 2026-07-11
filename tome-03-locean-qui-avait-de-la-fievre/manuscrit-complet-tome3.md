@@ -791,11 +791,11 @@ si personne, sur ce ponton, n'avait vraiment eu envie de rire.
 
 La nouvelle du bateau de M. Técher aperçu près de la zone abîmée fit, comme
 toujours à Anse-Bleue, le tour complet de la ville avant même que Fara
-n'ait eu le temps de vérifier quoi que ce soit sérieusement. Au marché, le
-lendemain matin, les conversations s'arrêtaient sur leur passage, reprenant
-à voix plus basse une fois Noah suffisamment éloigné pour ne plus
-entendre — ce qui, bien sûr, ne l'empêchait absolument pas de comprendre
-très exactement ce qui se disait sur son père.
+n'ait eu le temps de vérifier quoi que ce soit sérieusement. De retour au
+marché en fin de matinée, les conversations s'arrêtaient sur leur passage,
+reprenant à voix plus basse une fois Noah suffisamment éloigné pour ne
+plus entendre — ce qui, bien sûr, ne l'empêchait absolument pas de
+comprendre très exactement ce qui se disait sur son père.
 
 — Ils sont tous en train de décider qu'il est coupable, dit-il, amer, en
 aidant Sofia et Souly à trier des photographies imprimées sur la table de
@@ -873,7 +873,7 @@ d'ancre digne de ce nom. Juste un vieux grappin attaché à une corde.
 Fara hocha la tête, songeuse, en repoussant sa tasse de café refroidie
 depuis longtemps.
 
-— Il reste deux jours avant la réunion, dit-elle. Deux jours pour
+— Il reste deux jours avant le vote, dit-elle. Deux jours pour
 transformer « ça élimine ton père » en « voici qui c'est vraiment ». Et
 franchement, je ne sais toujours pas comment on va y arriver à temps.
 
@@ -907,8 +907,8 @@ Sofia frissonna. Pas de froid : la nuit tropicale restait douce, presque
 chaude. Plutôt de quelque chose de plus proche de la colère, une émotion
 qu'elle ne cherchait pas particulièrement à cacher.
 
-— Alors on n'a pas deux jours, dit-elle. On a deux jours pour empêcher
-ça d'arriver.
+— Alors on ferait mieux de faire vite, dit-elle. On a deux jours pour
+empêcher ça d'arriver.
 
 Elle sortit son petit carnet de poche, le cadeau de Souly, et écrivit,
 en lettres appliquées, sa toute première ligne vraiment sérieuse depuis
@@ -991,16 +991,16 @@ Pas sur une pirogue traditionnelle.
 
 ---
 
-Un silence différent s'installa cette fois, moins hostile, plus
-hésitant, comme si une partie de la salle réalisait tout juste qu'elle
+Cette fois, le silence qui suivit était moins hostile, plus hésitant,
+comme si une partie de la salle réalisait tout juste qu'elle
 n'avait jamais vraiment vérifié ce qu'elle croyait savoir.
 
 — C'est un enfant qui vous dit ça, ricana quelqu'un au fond, mais la voix
 manquait de conviction, et personne ne reprit la remarque à son compte.
 
 Christophe Randriamanantsoa, installé au deuxième rang dans une chemise
-impeccablement repassée pour l'occasion, se leva à son tour, son sourire
-commercial déjà en place avant même d'avoir ouvert la bouche.
+impeccablement repassée pour l'occasion, se leva à son tour, déjà prêt à
+reprendre la parole avant même que quiconque ne la lui donne.
 
 — Ces jeunes gens font un travail formidable, dit-il, d'une voix posée
 et raisonnable qui contrastait nettement avec l'agitation générale. Mais
@@ -1239,9 +1239,9 @@ son carnet malgré l'obscurité, à moitié aux aveugles. Heure, position,
 bateau, tout.
 
 Ce fut à cet instant précis que le vent tourna, brutalement, chargé d'une
-odeur de pluie qui n'annonçait rien de bon, et que la première rafale
-frappa le hors-bord de plein fouet, faisant tanguer l'embarcation d'un
-coup sec qui arracha un cri à Sofia.
+lourde odeur de pluie, et que la première rafale frappa le hors-bord de
+plein fouet, faisant tanguer l'embarcation d'un coup sec qui arracha un
+cri à Sofia.
 
 — Tempête tropicale, dit Fara, déjà au moteur, la voix tendue mais sans
 panique. Elle n'était pas prévue avant demain. On rentre, tout de suite.
@@ -1386,8 +1386,8 @@ attenant, en tant que témoins directs des faits qu'ils avaient
 rapportés.
 
 Christophe, assis derrière son grand bureau en bois verni, tenta d'abord
-son sourire commercial habituel, celui qui avait si bien fonctionné sur
-les journalistes de la fête du lagon.
+le ton rassurant qui avait si bien fonctionné sur les journalistes de la
+fête du lagon.
 
 — Je suis certain qu'il y a un malentendu, commença-t-il.
 
@@ -1514,8 +1514,9 @@ comprend qu'elle a mal jugé l'un des siens.
 chose que j'ai découvert grâce à la famille Técher elle-même, et qui
 mérite, je crois, d'être dit publiquement, ce soir.
 
-Noah s'avança, visiblement peu habitué à parler devant une salle pleine,
-mais porté par un aplomb nouveau, forgé au fil des dernières semaines.
+Noah s'avança, les mains un peu raides le long du corps, peu habitué à
+parler devant une salle pleine, mais porté par un aplomb nouveau, forgé
+au fil des dernières semaines.
 
 — Mon arrière-grand-père avait une règle, dit-il. Personne ne pêche dans
 la passe pendant sept jours, à la pleine lune d'été. Il l'a transmise à
@@ -1544,9 +1545,8 @@ aux sept jours de repos imposés par la règle de la famille Técher.
 
 ---
 
-Un silence stupéfait s'installa cette fois, un vrai, celui d'une
-assemblée entière en train de réviser, en direct, tout ce qu'elle croyait
-savoir depuis des décennies.
+La salle entière resta muette de stupeur, une assemblée en train de
+réviser, en direct, tout ce qu'elle croyait savoir depuis des décennies.
 
 — Ce que vous appeliez une superstition, dit Fara, était en réalité une
 aire marine protégée saisonnière, empirique, transmise oralement depuis

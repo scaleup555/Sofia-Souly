@@ -71,16 +71,16 @@ Pas sur une pirogue traditionnelle.
 
 ---
 
-Un silence différent s'installa cette fois, moins hostile, plus
-hésitant, comme si une partie de la salle réalisait tout juste qu'elle
+Cette fois, le silence qui suivit était moins hostile, plus hésitant,
+comme si une partie de la salle réalisait tout juste qu'elle
 n'avait jamais vraiment vérifié ce qu'elle croyait savoir.
 
 — C'est un enfant qui vous dit ça, ricana quelqu'un au fond, mais la voix
 manquait de conviction, et personne ne reprit la remarque à son compte.
 
 Christophe Randriamanantsoa, installé au deuxième rang dans une chemise
-impeccablement repassée pour l'occasion, se leva à son tour, son sourire
-commercial déjà en place avant même d'avoir ouvert la bouche.
+impeccablement repassée pour l'occasion, se leva à son tour, déjà prêt à
+reprendre la parole avant même que quiconque ne la lui donne.
 
 — Ces jeunes gens font un travail formidable, dit-il, d'une voix posée
 et raisonnable qui contrastait nettement avec l'agitation générale. Mais

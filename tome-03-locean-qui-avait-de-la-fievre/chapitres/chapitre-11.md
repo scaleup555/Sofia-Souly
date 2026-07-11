@@ -42,8 +42,9 @@ comprend qu'elle a mal jugé l'un des siens.
 chose que j'ai découvert grâce à la famille Técher elle-même, et qui
 mérite, je crois, d'être dit publiquement, ce soir.
 
-Noah s'avança, visiblement peu habitué à parler devant une salle pleine,
-mais porté par un aplomb nouveau, forgé au fil des dernières semaines.
+Noah s'avança, les mains un peu raides le long du corps, peu habitué à
+parler devant une salle pleine, mais porté par un aplomb nouveau, forgé
+au fil des dernières semaines.
 
 — Mon arrière-grand-père avait une règle, dit-il. Personne ne pêche dans
 la passe pendant sept jours, à la pleine lune d'été. Il l'a transmise à
@@ -72,9 +73,8 @@ aux sept jours de repos imposés par la règle de la famille Técher.
 
 ---
 
-Un silence stupéfait s'installa cette fois, un vrai, celui d'une
-assemblée entière en train de réviser, en direct, tout ce qu'elle croyait
-savoir depuis des décennies.
+La salle entière resta muette de stupeur, une assemblée en train de
+réviser, en direct, tout ce qu'elle croyait savoir depuis des décennies.
 
 — Ce que vous appeliez une superstition, dit Fara, était en réalité une
 aire marine protégée saisonnière, empirique, transmise oralement depuis

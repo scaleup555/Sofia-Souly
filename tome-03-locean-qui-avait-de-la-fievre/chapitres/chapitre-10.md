@@ -51,8 +51,8 @@ attenant, en tant que témoins directs des faits qu'ils avaient
 rapportés.
 
 Christophe, assis derrière son grand bureau en bois verni, tenta d'abord
-son sourire commercial habituel, celui qui avait si bien fonctionné sur
-les journalistes de la fête du lagon.
+le ton rassurant qui avait si bien fonctionné sur les journalistes de la
+fête du lagon.
 
 — Je suis certain qu'il y a un malentendu, commença-t-il.
 
