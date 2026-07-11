@@ -36,8 +36,8 @@ supermarché.
 Souly resta un moment sans voix, ce qui, chez lui, arrivait suffisamment
 rarement pour que Sofia le remarque et s'en amuse ouvertement.
 
-— Merci, dit-il enfin, en serrant le carnet contre lui avec un soin qui
-en disait plus long que n'importe quel discours.
+— Merci, dit-il enfin, en serrant le carnet contre lui, ce qui, venant de
+lui, valait tous les discours du monde.
 
 ---
 
@@ -124,4 +124,4 @@ Sofia sourit, referma les yeux, et se laissa aller contre l'épaule de son
 frère, tandis que le car prenait de la vitesse sur la route de montagne,
 emportant avec lui deux enfants, un nouveau carnet à peine entamé, et la
 certitude tranquille que, quelque part entre l'Égypte et l'Auvergne, leurs
-étés continueraient probablement à ressembler à ça.
+étés continueraient à ressembler à ça.

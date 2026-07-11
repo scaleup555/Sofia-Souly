@@ -6,9 +6,9 @@ qui semblait être, cette fois, absolument toute la population de la ville,
 debout dans les allées faute de chaises suffisantes.
 
 Karim monta sur l'estrade le premier, un dossier sous le bras, Sofia et
-Souly juste derrière lui, Léna et M. Foucher un peu plus loin, un vieux
-registre relié de cuir serré contre la poitrine de ce dernier comme un
-trésor qu'il n'avait pas laissé quitter ses mains depuis le matin.
+Souly juste derrière lui, Léna et M. Foucher un peu plus loin, ce dernier
+n'ayant pas laissé son vieux registre de cuir quitter ses mains depuis le
+matin.
 
 — Mesdames et messieurs, commença Karim, sa voix portant sans effort
 jusqu'au fond de la salle. Il y a trois semaines, cette ville se préparait

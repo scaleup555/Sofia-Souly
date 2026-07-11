@@ -9,9 +9,10 @@ de Karim, sans trouver la moindre trace de manipulation.
 — Tout paraît en ordre, conclut-il, en refermant son ordinateur portable.
 Si quelqu'un modifie les données, ce n'est pas ici, à ce niveau technique.
 
-Karim ressortit du local avec une expression que Sofia et Souly, qui
-avaient attendu dehors comme promis, malgré une impatience difficile à
-contenir pendant plus d'une heure, n'eurent aucun mal à déchiffrer.
+Karim ressortit du local, le visage fermé — Sofia et Souly, qui avaient
+attendu dehors comme promis, malgré une impatience difficile à contenir
+pendant plus d'une heure, n'eurent aucun mal à comprendre ce que ça
+voulait dire.
 
 — Rien, dit-il simplement.
 

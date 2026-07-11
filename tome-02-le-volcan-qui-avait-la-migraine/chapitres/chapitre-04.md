@@ -32,9 +32,9 @@ mais décidant de le prendre comme tel, par principe.
 
 La « soirée de pré-inauguration » des Thermes du Grand Sombre — un
 événement que Mme Delacroix avait personnellement baptisé ainsi, précisa
-Karim avec un mélange d'ironie et de fatigue, parce que « inauguration »
-tout court lui semblait manquer d'élégance pour une simple répétition
-générale devant la presse locale — rassembla, un vendredi soir, à peu près
+Karim, mi-ironique mi-fatigué, parce que « inauguration » tout court lui
+semblait manquer d'élégance pour une simple répétition générale devant la
+presse locale — rassembla, un vendredi soir, à peu près
 toute la population adulte de Roche-Fumée-les-Bains sur la grande terrasse
 du complexe encore sentant la peinture fraîche.
 

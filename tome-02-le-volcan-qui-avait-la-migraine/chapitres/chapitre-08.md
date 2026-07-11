@@ -128,9 +128,9 @@ présent.
 — On peut venir ? demanda Sofia, presque avant que la phrase de Karim ne
 soit terminée.
 
-— Vous pouvez attendre dehors, dit Karim, avec un sourire qui trahissait
-qu'il savait déjà que ce compromis ne suffirait probablement pas
-longtemps à les satisfaire. C'est déjà beaucoup, pour des enquêteurs de
+— Vous pouvez attendre dehors, dit Karim, qui savait déjà, à leurs têtes,
+que ce compromis n'allait pas leur suffire longtemps. C'est déjà beaucoup,
+pour des enquêteurs de
 douze et huit ans.
 
 Ce soir-là, alors que Sofia dormait déjà, Souly resta un moment éveillé,

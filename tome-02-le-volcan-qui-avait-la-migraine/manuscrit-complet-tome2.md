@@ -1,7 +1,7 @@
 # Sofia & Souly
 ## Tome 2 — Le Volcan qui avait la migraine
 
-*(Manuscrit complet — 12 chapitres — en attente d'évaluation jury finale)*
+*(Manuscrit complet — 12 chapitres — v2 après corrections post-jury 8,4/10)*
 
 # Chapitre 1 — Le camion, le tremblement et le chat borgne
 
@@ -893,9 +893,9 @@ mais décidant de le prendre comme tel, par principe.
 
 La « soirée de pré-inauguration » des Thermes du Grand Sombre — un
 événement que Mme Delacroix avait personnellement baptisé ainsi, précisa
-Karim avec un mélange d'ironie et de fatigue, parce que « inauguration »
-tout court lui semblait manquer d'élégance pour une simple répétition
-générale devant la presse locale — rassembla, un vendredi soir, à peu près
+Karim, mi-ironique mi-fatigué, parce que « inauguration » tout court lui
+semblait manquer d'élégance pour une simple répétition générale devant la
+presse locale — rassembla, un vendredi soir, à peu près
 toute la population adulte de Roche-Fumée-les-Bains sur la grande terrasse
 du complexe encore sentant la peinture fraîche.
 
@@ -1549,8 +1549,8 @@ entière à chercher des preuves solides contre Rocheteau, et en une nuit,
 n'importe qui peut détruire la réputation de quelqu'un avec une seule
 photo floue et une légende inventée.
 
-— Bienvenue dans mon quotidien de scientifique, dit Karim, avec un sourire
-fatigué qui n'avait, cette fois, rien de vraiment amusé.
+— Bienvenue dans mon quotidien de scientifique, dit Karim, fatigué, sans
+la moindre trace d'amusement cette fois.
 
 Sofia, assise en tailleur sur le canapé, Magma endormi contre sa jambe,
 fronça les sourcils, visiblement en train de se battre avec quelque chose
@@ -1619,7 +1619,7 @@ ne suis, techniquement, pas censée croiser.
 
 — Vous vous souvenez de la plaque ? demanda Souly, le crayon déjà prêt.
 
-— Non, dit Amara, avec un petit rire sans joie. Je suis une lanceuse
+— Non, dit Amara, avec un rire bref et sans joie. Je suis une lanceuse
 d'alerte, pas une espionne professionnelle. Mais je me souviens d'un
 autocollant sur le pare-brise arrière. Un logo, quelque chose comme un
 cercle bleu avec des lettres à l'intérieur.
@@ -1698,8 +1698,8 @@ définitive. Mais ce n'est toujours pas assez pour l'accuser publiquement.
 On a cinq jours avant l'ouverture. Il va falloir faire vite, et faire
 juste.
 
-Sofia hocha la tête, très sérieusement, avant d'ajouter, avec un sourire
-qui contredisait un peu la gravité du moment :
+Sofia hocha la tête, très sérieusement, avant d'ajouter, un rien de malice
+perçant malgré la gravité du moment :
 
 — Au moins, cette fois, on n'accuse personne avant d'être sûrs.
 
@@ -1837,9 +1837,9 @@ présent.
 — On peut venir ? demanda Sofia, presque avant que la phrase de Karim ne
 soit terminée.
 
-— Vous pouvez attendre dehors, dit Karim, avec un sourire qui trahissait
-qu'il savait déjà que ce compromis ne suffirait probablement pas
-longtemps à les satisfaire. C'est déjà beaucoup, pour des enquêteurs de
+— Vous pouvez attendre dehors, dit Karim, qui savait déjà, à leurs têtes,
+que ce compromis n'allait pas leur suffire longtemps. C'est déjà beaucoup,
+pour des enquêteurs de
 douze et huit ans.
 
 Ce soir-là, alors que Sofia dormait déjà, Souly resta un moment éveillé,
@@ -1861,9 +1861,10 @@ de Karim, sans trouver la moindre trace de manipulation.
 — Tout paraît en ordre, conclut-il, en refermant son ordinateur portable.
 Si quelqu'un modifie les données, ce n'est pas ici, à ce niveau technique.
 
-Karim ressortit du local avec une expression que Sofia et Souly, qui
-avaient attendu dehors comme promis, malgré une impatience difficile à
-contenir pendant plus d'une heure, n'eurent aucun mal à déchiffrer.
+Karim ressortit du local, le visage fermé — Sofia et Souly, qui avaient
+attendu dehors comme promis, malgré une impatience difficile à contenir
+pendant plus d'une heure, n'eurent aucun mal à comprendre ce que ça
+voulait dire.
 
 — Rien, dit-il simplement.
 
@@ -2040,9 +2041,9 @@ marches du chalet.
 ---
 
 L'ouverture des Thermes du Grand Sombre fut officiellement reportée dans
-l'heure qui suivit, une annonce accueillie par la ville avec un mélange de
-soulagement et d'inquiétude bien compréhensible — des mois de travail, des
-emplois, des espoirs entiers suspendus du jour au lendemain.
+l'heure qui suivit. La ville l'accueillit à la fois soulagée et inquiète,
+ce qui se comprenait sans peine — des mois de travail, des emplois, des
+espoirs entiers suspendus du jour au lendemain.
 
 — Ça veut dire qu'on a eu raison pour rien ? demanda Sofia, un peu perdue,
 en regardant les ouvriers commencer à évacuer le chantier vers des zones
@@ -2059,20 +2060,46 @@ d'étude scientifique de premier plan : un volcan qu'on croyait éteint,
 en train de prouver, données à l'appui, qu'il ne l'était peut-être pas
 tout à fait.
 
-Rocheteau fut finalement retrouvé, trois jours plus tard, dans une station
-essence à deux cents kilomètres de là, sa carte bancaire ayant fini par le
-trahir là où sa prudence l'avait, jusque-là, plutôt bien servi.
+Rocheteau fut intercepté le lendemain matin, alors qu'il tentait de revenir
+discrètement récupérer des affaires laissées dans son bureau désormais
+placé sous scellés — sa prudence, jusque-là plutôt efficace, ayant fini par
+céder devant l'envie de ne pas perdre un ordinateur portable contenant, lui
+aussi, des mois de données.
 
-— Il a avoué presque tout de suite, apprit Karim par un appel du
-Brigadier, qu'il répercuta aussitôt aux enfants, rassemblés autour de la
-table du chalet. Mme Delacroix le payait au double de son tarif habituel
-pour « garantir » des résultats rassurants avant l'ouverture. Il dit qu'il
-pensait pouvoir arrêter à temps, avant que ça ne devienne vraiment
-dangereux. Qu'il croyait, sincèrement, que le risque était minime.
+Karim, appelé sur place par le Brigadier pour confirmer l'identité des
+fichiers saisis, emmena Sofia et Souly avec lui — « en tant que témoins qui
+ont vu la falsification de leurs propres yeux, pas en tant que touristes »,
+précisa-t-il fermement à l'accueil du commissariat, ce qui suffit à leur
+ouvrir la petite salle d'attente vitrée donnant sur le bureau d'audition.
 
-— C'est ce que tout le monde dit, remarqua Léna, avec une justesse qui
-surprit les adultes présents, quand on fait quelque chose de mal pour de
-l'argent.
+À travers la vitre, ils virent Rocheteau, assis très droit sur une chaise
+trop petite pour lui, le visage vidé de toute l'assurance qu'il affichait
+encore sur l'estrade de la mairie quelques jours plus tôt.
+
+— Pourquoi ? demanda simplement le Brigadier, dans le silence qui suivit
+la lecture des faits.
+
+— Mme Delacroix me payait le double de mon tarif habituel, dit Rocheteau,
+la voix éteinte, pour « garantir » des résultats rassurants avant
+l'ouverture. Je pensais pouvoir arrêter à temps, avant que ça ne devienne
+vraiment dangereux. Je croyais, sincèrement, que le risque était minime.
+
+Il leva les yeux, l'espace d'une seconde, vers la vitre derrière laquelle
+se tenaient Karim et les deux enfants, comme s'il cherchait, sans grand
+espoir, un peu de compréhension dans leurs regards.
+
+— Vous avez de bons instincts, dit-il à Karim, à travers la vitre, d'une
+voix presque inaudible. J'aurais dû les avoir aussi.
+
+Karim ne répondit rien. Il se contenta de hocher la tête, une seule fois,
+avant de raccompagner Sofia et Souly hors du commissariat, dans l'air frais
+du matin qui leur parut, à tous les trois, particulièrement bienvenu après
+cette scène.
+
+— C'est ce que tout le monde dit, remarqua Léna, qui les attendait dehors
+avec son grand-père et qui avait écouté le résumé complet sur le trottoir,
+avec une justesse qui surprit les adultes présents, quand on fait quelque
+chose de mal pour de l'argent.
 
 — C'est exactement ce que tout le monde dit, confirma Karim, songeur.
 
@@ -2137,9 +2164,9 @@ qui semblait être, cette fois, absolument toute la population de la ville,
 debout dans les allées faute de chaises suffisantes.
 
 Karim monta sur l'estrade le premier, un dossier sous le bras, Sofia et
-Souly juste derrière lui, Léna et M. Foucher un peu plus loin, un vieux
-registre relié de cuir serré contre la poitrine de ce dernier comme un
-trésor qu'il n'avait pas laissé quitter ses mains depuis le matin.
+Souly juste derrière lui, Léna et M. Foucher un peu plus loin, ce dernier
+n'ayant pas laissé son vieux registre de cuir quitter ses mains depuis le
+matin.
 
 — Mesdames et messieurs, commença Karim, sa voix portant sans effort
 jusqu'au fond de la salle. Il y a trois semaines, cette ville se préparait
@@ -2298,8 +2325,8 @@ supermarché.
 Souly resta un moment sans voix, ce qui, chez lui, arrivait suffisamment
 rarement pour que Sofia le remarque et s'en amuse ouvertement.
 
-— Merci, dit-il enfin, en serrant le carnet contre lui avec un soin qui
-en disait plus long que n'importe quel discours.
+— Merci, dit-il enfin, en serrant le carnet contre lui, ce qui, venant de
+lui, valait tous les discours du monde.
 
 ---
 
@@ -2386,6 +2413,6 @@ Sofia sourit, referma les yeux, et se laissa aller contre l'épaule de son
 frère, tandis que le car prenait de la vitesse sur la route de montagne,
 emportant avec lui deux enfants, un nouveau carnet à peine entamé, et la
 certitude tranquille que, quelque part entre l'Égypte et l'Auvergne, leurs
-étés continueraient probablement à ressembler à ça.
+étés continueraient à ressembler à ça.
 
 

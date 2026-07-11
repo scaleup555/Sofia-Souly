@@ -35,9 +35,9 @@ marches du chalet.
 ---
 
 L'ouverture des Thermes du Grand Sombre fut officiellement reportée dans
-l'heure qui suivit, une annonce accueillie par la ville avec un mélange de
-soulagement et d'inquiétude bien compréhensible — des mois de travail, des
-emplois, des espoirs entiers suspendus du jour au lendemain.
+l'heure qui suivit. La ville l'accueillit à la fois soulagée et inquiète,
+ce qui se comprenait sans peine — des mois de travail, des emplois, des
+espoirs entiers suspendus du jour au lendemain.
 
 — Ça veut dire qu'on a eu raison pour rien ? demanda Sofia, un peu perdue,
 en regardant les ouvriers commencer à évacuer le chantier vers des zones
@@ -54,20 +54,46 @@ d'étude scientifique de premier plan : un volcan qu'on croyait éteint,
 en train de prouver, données à l'appui, qu'il ne l'était peut-être pas
 tout à fait.
 
-Rocheteau fut finalement retrouvé, trois jours plus tard, dans une station
-essence à deux cents kilomètres de là, sa carte bancaire ayant fini par le
-trahir là où sa prudence l'avait, jusque-là, plutôt bien servi.
+Rocheteau fut intercepté le lendemain matin, alors qu'il tentait de revenir
+discrètement récupérer des affaires laissées dans son bureau désormais
+placé sous scellés — sa prudence, jusque-là plutôt efficace, ayant fini par
+céder devant l'envie de ne pas perdre un ordinateur portable contenant, lui
+aussi, des mois de données.
 
-— Il a avoué presque tout de suite, apprit Karim par un appel du
-Brigadier, qu'il répercuta aussitôt aux enfants, rassemblés autour de la
-table du chalet. Mme Delacroix le payait au double de son tarif habituel
-pour « garantir » des résultats rassurants avant l'ouverture. Il dit qu'il
-pensait pouvoir arrêter à temps, avant que ça ne devienne vraiment
-dangereux. Qu'il croyait, sincèrement, que le risque était minime.
+Karim, appelé sur place par le Brigadier pour confirmer l'identité des
+fichiers saisis, emmena Sofia et Souly avec lui — « en tant que témoins qui
+ont vu la falsification de leurs propres yeux, pas en tant que touristes »,
+précisa-t-il fermement à l'accueil du commissariat, ce qui suffit à leur
+ouvrir la petite salle d'attente vitrée donnant sur le bureau d'audition.
 
-— C'est ce que tout le monde dit, remarqua Léna, avec une justesse qui
-surprit les adultes présents, quand on fait quelque chose de mal pour de
-l'argent.
+À travers la vitre, ils virent Rocheteau, assis très droit sur une chaise
+trop petite pour lui, le visage vidé de toute l'assurance qu'il affichait
+encore sur l'estrade de la mairie quelques jours plus tôt.
+
+— Pourquoi ? demanda simplement le Brigadier, dans le silence qui suivit
+la lecture des faits.
+
+— Mme Delacroix me payait le double de mon tarif habituel, dit Rocheteau,
+la voix éteinte, pour « garantir » des résultats rassurants avant
+l'ouverture. Je pensais pouvoir arrêter à temps, avant que ça ne devienne
+vraiment dangereux. Je croyais, sincèrement, que le risque était minime.
+
+Il leva les yeux, l'espace d'une seconde, vers la vitre derrière laquelle
+se tenaient Karim et les deux enfants, comme s'il cherchait, sans grand
+espoir, un peu de compréhension dans leurs regards.
+
+— Vous avez de bons instincts, dit-il à Karim, à travers la vitre, d'une
+voix presque inaudible. J'aurais dû les avoir aussi.
+
+Karim ne répondit rien. Il se contenta de hocher la tête, une seule fois,
+avant de raccompagner Sofia et Souly hors du commissariat, dans l'air frais
+du matin qui leur parut, à tous les trois, particulièrement bienvenu après
+cette scène.
+
+— C'est ce que tout le monde dit, remarqua Léna, qui les attendait dehors
+avec son grand-père et qui avait écouté le résumé complet sur le trottoir,
+avec une justesse qui surprit les adultes présents, quand on fait quelque
+chose de mal pour de l'argent.
 
 — C'est exactement ce que tout le monde dit, confirma Karim, songeur.
 

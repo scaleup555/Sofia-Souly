@@ -36,8 +36,8 @@ entière à chercher des preuves solides contre Rocheteau, et en une nuit,
 n'importe qui peut détruire la réputation de quelqu'un avec une seule
 photo floue et une légende inventée.
 
-— Bienvenue dans mon quotidien de scientifique, dit Karim, avec un sourire
-fatigué qui n'avait, cette fois, rien de vraiment amusé.
+— Bienvenue dans mon quotidien de scientifique, dit Karim, fatigué, sans
+la moindre trace d'amusement cette fois.
 
 Sofia, assise en tailleur sur le canapé, Magma endormi contre sa jambe,
 fronça les sourcils, visiblement en train de se battre avec quelque chose
@@ -106,7 +106,7 @@ ne suis, techniquement, pas censée croiser.
 
 — Vous vous souvenez de la plaque ? demanda Souly, le crayon déjà prêt.
 
-— Non, dit Amara, avec un petit rire sans joie. Je suis une lanceuse
+— Non, dit Amara, avec un rire bref et sans joie. Je suis une lanceuse
 d'alerte, pas une espionne professionnelle. Mais je me souviens d'un
 autocollant sur le pare-brise arrière. Un logo, quelque chose comme un
 cercle bleu avec des lettres à l'intérieur.
@@ -185,8 +185,8 @@ définitive. Mais ce n'est toujours pas assez pour l'accuser publiquement.
 On a cinq jours avant l'ouverture. Il va falloir faire vite, et faire
 juste.
 
-Sofia hocha la tête, très sérieusement, avant d'ajouter, avec un sourire
-qui contredisait un peu la gravité du moment :
+Sofia hocha la tête, très sérieusement, avant d'ajouter, un rien de malice
+perçant malgré la gravité du moment :
 
 — Au moins, cette fois, on n'accuse personne avant d'être sûrs.
 
