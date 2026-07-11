@@ -150,6 +150,10 @@ avait eu un hoquet.
 Karim freina d'instinct, les deux mains crispées sur le volant, les yeux
 soudain rivés sur le rétroviseur.
 
+Souly, sur la banquette arrière, se surprit à compter tout bas, sans même
+l'avoir décidé — un, deux, trois — sa vieille habitude des moments où tout
+allait un peu trop vite pour son goût.
+
 — C'était quoi, ça ? demanda Sofia, une main agrippée à la portière.
 
 — Rien, dit Karim, un peu trop vite pour être totalement convaincant. Un
@@ -171,8 +175,8 @@ Karim ne répondit pas tout de suite. Il redémarra la camionnette, lentement,
 les yeux toujours un peu trop souvent posés sur le rétroviseur pour
 quelqu'un qui croyait vraiment à sa propre explication.
 
-— Tu es très observatrice, dit-il enfin, avec un sourire qui ne montait pas
-tout à fait jusqu'à ses yeux.
+— Tu es très observatrice, dit-il enfin, les yeux déjà repartis vers le
+rétroviseur.
 
 Souly, à l'arrière, avait déjà rouvert son carnet.
 

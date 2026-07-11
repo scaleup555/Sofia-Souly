@@ -102,11 +102,11 @@ magnitude un virgule deux.
 d'ordinaire la plus douée des deux enfants en calcul mental, mais à qui la
 différence sautait aux yeux sans le moindre effort.
 
-— Plus que ça, corrigea Souly, qui avait déjà noté les deux chiffres l'un
-sous l'autre. L'échelle de magnitude n'est pas linéaire, Karim nous l'a
-expliqué. Chaque point de magnitude en plus, c'est une secousse dix fois
-plus forte, pas juste un peu plus forte. Entre 1,2 et 3,7, l'écart réel
-est énorme.
+— Beaucoup plus que ça, corrigea Souly, qui avait déjà noté les deux
+chiffres l'un sous l'autre. L'échelle de magnitude n'est pas linéaire,
+Karim nous l'a expliqué. Chaque point de magnitude en plus, c'est déjà dix
+fois plus de mouvement du sol — et bien plus encore en énergie réellement
+libérée. Entre 1,2 et 3,7, l'écart réel est énorme.
 
 Karim hocha la tête lentement, visiblement partagé entre la fierté d'avoir
 un élève aussi rapide et l'inquiétude grandissante que lui inspirait ce

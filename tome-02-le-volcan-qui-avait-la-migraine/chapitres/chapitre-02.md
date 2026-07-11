@@ -60,6 +60,27 @@ dans la pièce plus longtemps que le reste de la phrase.
 
 ---
 
+— Le chauffeur du car a dit que le Grand Sombre était éteint, dit Souly.
+Mais toi tu dis qu'il pourrait se réveiller. C'est pas contradictoire ?
+
+— C'est le mot « éteint » qui pose problème, dit Karim. En vrai, chez les
+volcanologues, on distingue trois états. Un volcan actif entre en éruption
+régulièrement, à l'échelle d'une vie humaine. Un volcan dormant n'a pas
+montré de signe d'activité depuis longtemps, mais son système magmatique
+existe toujours en profondeur — il pourrait, en théorie, se réveiller. Un
+volcan vraiment éteint, lui, a perdu sa source de magma pour de bon : il ne
+se réveillera plus jamais, quoi qu'il arrive.
+
+— Et le Grand Sombre, il est lequel des trois ? demanda Sofia.
+
+— Officiellement, sur toutes les cartes touristiques de la région : éteint,
+dit Karim. C'est justement ce que j'essaie de vérifier depuis trois ans.
+Parce que si je me trompe, et qu'il est en réalité seulement dormant...
+
+— Attends, sérieux ? souffla Sofia. Personne le sait vraiment, avant toi ?
+
+Il n'eut pas besoin de terminer sa phrase.
+
 Karim leur montra ensuite comment lire une échelle de magnitude — pas
 l'échelle de Richter, corrigea-t-il, une confusion que « même les
 journalistes font tout le temps », mais l'échelle de magnitude de moment,

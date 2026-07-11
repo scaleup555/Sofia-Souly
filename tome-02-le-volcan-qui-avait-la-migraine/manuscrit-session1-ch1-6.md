@@ -1,7 +1,7 @@
 # Sofia & Souly
 ## Tome 2 — Le Volcan qui avait la migraine
 
-*(Manuscrit en cours — Session 1 (tome 2) : chapitres 1 à 6 sur 12)*
+*(Manuscrit en cours — Session 1 (tome 2), chapitres 1 à 6, v2 après jury 8,6/10)*
 
 # Chapitre 1 — Le camion, le tremblement et le chat borgne
 
@@ -155,6 +155,10 @@ avait eu un hoquet.
 Karim freina d'instinct, les deux mains crispées sur le volant, les yeux
 soudain rivés sur le rétroviseur.
 
+Souly, sur la banquette arrière, se surprit à compter tout bas, sans même
+l'avoir décidé — un, deux, trois — sa vieille habitude des moments où tout
+allait un peu trop vite pour son goût.
+
 — C'était quoi, ça ? demanda Sofia, une main agrippée à la portière.
 
 — Rien, dit Karim, un peu trop vite pour être totalement convaincant. Un
@@ -176,8 +180,8 @@ Karim ne répondit pas tout de suite. Il redémarra la camionnette, lentement,
 les yeux toujours un peu trop souvent posés sur le rétroviseur pour
 quelqu'un qui croyait vraiment à sa propre explication.
 
-— Tu es très observatrice, dit-il enfin, avec un sourire qui ne montait pas
-tout à fait jusqu'à ses yeux.
+— Tu es très observatrice, dit-il enfin, les yeux déjà repartis vers le
+rétroviseur.
 
 Souly, à l'arrière, avait déjà rouvert son carnet.
 
@@ -365,6 +369,27 @@ Ce « pour l'instant », prononcé presque dans un souffle, resta suspendu
 dans la pièce plus longtemps que le reste de la phrase.
 
 ---
+
+— Le chauffeur du car a dit que le Grand Sombre était éteint, dit Souly.
+Mais toi tu dis qu'il pourrait se réveiller. C'est pas contradictoire ?
+
+— C'est le mot « éteint » qui pose problème, dit Karim. En vrai, chez les
+volcanologues, on distingue trois états. Un volcan actif entre en éruption
+régulièrement, à l'échelle d'une vie humaine. Un volcan dormant n'a pas
+montré de signe d'activité depuis longtemps, mais son système magmatique
+existe toujours en profondeur — il pourrait, en théorie, se réveiller. Un
+volcan vraiment éteint, lui, a perdu sa source de magma pour de bon : il ne
+se réveillera plus jamais, quoi qu'il arrive.
+
+— Et le Grand Sombre, il est lequel des trois ? demanda Sofia.
+
+— Officiellement, sur toutes les cartes touristiques de la région : éteint,
+dit Karim. C'est justement ce que j'essaie de vérifier depuis trois ans.
+Parce que si je me trompe, et qu'il est en réalité seulement dormant...
+
+— Attends, sérieux ? souffla Sofia. Personne le sait vraiment, avant toi ?
+
+Il n'eut pas besoin de terminer sa phrase.
 
 Karim leur montra ensuite comment lire une échelle de magnitude — pas
 l'échelle de Richter, corrigea-t-il, une confusion que « même les
@@ -692,8 +717,8 @@ mouvement.
 — « Gronde tous les cent ans », répéta-t-il lentement. C'est juste une
 comptine, ou ça veut dire quelque chose de vrai ?
 
-— Une comptine pour enfants, corrigea M. Foucher avec un petit rire.
-Enfin, c'est ce que tout le monde dit. Ma propre grand-mère me la chantait
+— Une comptine pour enfants, corrigea M. Foucher, amusé. Enfin, c'est ce
+que tout le monde dit. Ma propre grand-mère me la chantait
 pour m'endormir, en me jurant que le volcan ronflait juste un peu de temps
 en temps, comme un vieux monsieur fatigué, et qu'il fallait pas s'en faire.
 
@@ -1389,11 +1414,11 @@ magnitude un virgule deux.
 d'ordinaire la plus douée des deux enfants en calcul mental, mais à qui la
 différence sautait aux yeux sans le moindre effort.
 
-— Plus que ça, corrigea Souly, qui avait déjà noté les deux chiffres l'un
-sous l'autre. L'échelle de magnitude n'est pas linéaire, Karim nous l'a
-expliqué. Chaque point de magnitude en plus, c'est une secousse dix fois
-plus forte, pas juste un peu plus forte. Entre 1,2 et 3,7, l'écart réel
-est énorme.
+— Beaucoup plus que ça, corrigea Souly, qui avait déjà noté les deux
+chiffres l'un sous l'autre. L'échelle de magnitude n'est pas linéaire,
+Karim nous l'a expliqué. Chaque point de magnitude en plus, c'est déjà dix
+fois plus de mouvement du sol — et bien plus encore en énergie réellement
+libérée. Entre 1,2 et 3,7, l'écart réel est énorme.
 
 Karim hocha la tête lentement, visiblement partagé entre la fierté d'avoir
 un élève aussi rapide et l'inquiétude grandissante que lui inspirait ce

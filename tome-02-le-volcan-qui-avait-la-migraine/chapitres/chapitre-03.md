@@ -99,8 +99,8 @@ mouvement.
 — « Gronde tous les cent ans », répéta-t-il lentement. C'est juste une
 comptine, ou ça veut dire quelque chose de vrai ?
 
-— Une comptine pour enfants, corrigea M. Foucher avec un petit rire.
-Enfin, c'est ce que tout le monde dit. Ma propre grand-mère me la chantait
+— Une comptine pour enfants, corrigea M. Foucher, amusé. Enfin, c'est ce
+que tout le monde dit. Ma propre grand-mère me la chantait
 pour m'endormir, en me jurant que le volcan ronflait juste un peu de temps
 en temps, comme un vieux monsieur fatigué, et qu'il fallait pas s'en faire.
 
