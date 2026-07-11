@@ -109,5 +109,49 @@ Ces six points sont désormais dans les « règles actives de vigilance »
 ci-dessus et doivent être surveillés activement dans TOUTES les sessions
 futures, pas seulement corrigés une fois dans ce tome.
 
-*(Résultat du second passage devant le jury à compléter ci-dessous une fois
-disponible.)*
+**Deuxième passage devant le jury : 7,2/10 → À CORRIGER.**
+Les corrections structurelles (twist, fausse croyance, trou logique, monologue,
+égyptologie) ont toutes été validées comme réussies. Mais le chantier « tics
+d'IA » n'a été traité qu'à moitié : tirets cadratins bien réduits (~160→13),
+mais comparaisons « comme si/comme un(e) » (24), hedging (14) et « avec un
+sérieux X » (3) quasiment inchangés, plus un nouveau motif repéré : « avec
+un(e) + nom abstrait » en étiquette de dialogue/action, 60+ occurrences avec
+des répétitions exactes (« avec un sourire » ×6, « avec une expression » ×5...).
+
+**LEÇON CRITIQUE : corriger un chiffre global ne suffit pas.** Une passe de
+correction doit être VÉRIFIÉE contre chaque catégorie citée individuellement,
+pas juste contre le total. Une réduction du total peut masquer une catégorie
+entière restée intacte.
+
+**Troisième passage devant le jury : 8,1/10 → À CORRIGER (encore en dessous du
+seuil, mais très proche).**
+Progrès net sur l'intrigue (badge/fenêtre devenu un vrai indice actif, salué
+comme le meilleur exemple de correction du manuscrit), l'humour et les
+personnages (tous notés 9/10). Mais retour sévère : trois catégories de tics
+signalées comme prioritaires (hedging, comparaisons « comme si », « avec un(e) +
+nom abstrait ») affichaient EXACTEMENT le même chiffre qu'au rapport précédent —
+preuve qu'une correction annoncée « globale » n'avait pas réellement touché ces
+catégories spécifiques. Un nouveau motif « le/ce genre de X qui/que » a aussi
+été identifié (12 occurrences). Corrections apportées : élimination complète
+des répétitions exactes « avec une attention » (4), « avec un aplomb » (3, sauf
+1 gardé volontairement isolé), « avec un sourire » (3, tous éliminés) ; coupe de
+6 des 10 occurrences de « genre de » ; coupe de 3 hedges narratoriaux
+supplémentaires (8→5) ; simplification d'une phrase-tunnel « cœur qui
+s'accélère » repérée comme trop sophistiquée pour le bas de la fourchette d'âge.
+
+**LEÇON CRITIQUE n°2 : pour les prochaines sessions (tome 1 ch.7-12 et tous les
+tomes suivants), appliquer ces réflexes DÈS L'ÉCRITURE, pas en correction après
+coup :**
+- Ne jamais étiqueter un dialogue ou une action avec « avec un(e) + nom
+  abstrait » (sourire, expression, attention, enthousiasme, aplomb...). Montrer
+  l'émotion par un geste, une action, ou la laisser porter par le dialogue seul.
+- Ne jamais écrire « le/ce genre de [nom] qui/que » comme raccourci descriptif.
+- Réserver « comme si » aux moments où la comparaison est vraiment nécessaire
+  (pas plus d'une ou deux fois par chapitre) ; jamais pour « expliquer » une
+  émotion déjà montrée par l'action.
+- Hedging (« sans doute », « probablement », « sûrement ») : acceptable UNIQUEMENT
+  dans le dialogue direct d'un personnage qui exprime une vraie incertitude.
+  Jamais dans la voix narrative pour décrire ce qu'un personnage pense ou
+  remarque — soit il le sait, soit il ne le sait pas.
+- Éviter « le cœur battant » / « sentit son cœur s'accélérer » et toute variante :
+  montrer la peur par l'action physique (ex. compter, respirer, serrer un poing).

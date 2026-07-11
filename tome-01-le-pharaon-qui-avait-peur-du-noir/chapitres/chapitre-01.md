@@ -208,10 +208,9 @@ l'autorisation exceptionnelle de l'exposer ici, à Bellerive, avant que la momie
 reparte pour un grand musée à Paris. Une semaine seulement. C'est une chance
 énorme pour la ville, et franchement, pour le musée aussi, qui en a bien besoin.
 
-Quelque chose dans sa voix, sur ce dernier mot, glissa légèrement, comme une
-marche d'escalier un peu trop basse qu'on ne remarque qu'en trébuchant dessus.
-Sofia ne le remarqua pas. Souly, qui remarquait toujours ce genre de choses, le
-nota mentalement sans savoir encore quoi en faire.
+Quelque chose dans sa voix, sur ce dernier mot, glissa légèrement, à peine.
+Sofia ne le remarqua pas. Souly, lui, remarquait toujours ces petits riens. Il
+le nota mentalement, sans savoir encore quoi en faire.
 
 — Il en a bien besoin comment ? demanda-t-il quand même, parce que c'était plus
 fort que lui.
@@ -258,7 +257,7 @@ entrouverts. Une silhouette passa devant la fenêtre, portant une pile de dossie
 presque plus haute qu'elle, et faillit trébucher sur ce qui ressemblait à un
 escabeau.
 
-— Mme Bamba travaille encore, dit Théo avec un sourire attendri. Elle travaille
+— Mme Bamba travaille encore, dit Théo, attendri. Elle travaille
 toujours encore. Cette femme prépare l'exposition depuis trois mois, elle a
 supplié la mairie pour le budget, elle a repeint deux salles elle-même parce
 qu'il ne restait plus d'argent pour payer un peintre. Si cette exposition ne
@@ -310,8 +309,8 @@ au musée.
 — J'espère qu'elle a l'air vraiment de chat. Genre avec des oreilles qu'on
 reconnaît et tout.
 
-— C'est une momie, Sofia. Elle a trois mille ans. Elle a probablement l'air d'un
-paquet de bandelettes très ancien.
+— C'est une momie, Sofia. Elle a trois mille ans. Elle a l'air d'un vieux paquet
+de bandelettes, voilà tout.
 
 — C'est pas drôle ce que tu dis.
 

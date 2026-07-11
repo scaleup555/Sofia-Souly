@@ -7,9 +7,10 @@ vieux banc de pierre installé sous le pommier, on voyait parfaitement les fenê
 du premier étage du musée — dont celle, justement, du petit bureau de Julien.
 
 C'est là que Sofia et Souly s'installèrent, ce dimanche soir, officiellement pour
-« observer les étoiles », une excuse que Mamie Rose avait acceptée avec un sourire
-qui laissait clairement entendre qu'elle n'était pas dupe une seule seconde, mais
-qu'elle avait décidé, comme souvent, de leur faire confiance jusqu'à preuve du
+« observer les étoiles », une excuse que Mamie Rose avait acceptée d'un simple
+haussement de sourcil qui laissait clairement entendre qu'elle n'était pas dupe
+une seule seconde. Elle avait décidé, comme souvent, de leur faire confiance
+jusqu'à preuve du
 contraire — à condition, avait-elle précisé d'un ton qui n'admettait aucune
 discussion, qu'ils rentrent à vingt-deux heures pile, pas une minute de plus, et
 qu'ils restent dans le jardin, « pas plus loin que la haie, c'est bien compris ? ».
@@ -34,9 +35,8 @@ bureau, mais une lumière plus petite, plus mobile, plus jaune : une lampe de
 poche, tenue à la main, et certainement pas un interrupteur actionné
 normalement.
 
-Souly sentit son cœur s'accélérer, cette fois pour une raison qui n'avait rien à
-voir avec le noir lui-même, et tout à voir avec ce que ce noir, cette fois,
-pouvait bien cacher.
+Le cœur de Souly se mit à battre plus vite. Pas à cause du noir, cette fois.
+À cause de ce qu'il pouvait cacher.
 
 — C'est peut-être Julien, chuchota-t-il. Qui a oublié un truc.
 
@@ -133,9 +133,9 @@ l'heure, Sofia rouvrit sans le vouloir la photo qu'elle avait prise, cinq jours
 plus tôt, du fragment de bandelette dans sa vitrine, le premier jour, avant même
 que Théo ne l'enferme dans le coffre-fort de la réserve.
 
-Elle zooma dessus, distraitement d'abord, puis avec une attention grandissante,
-en comparant machinalement ce qu'elle voyait sur son écran avec les quelques
-signes qu'elle avait appris à reconnaître pendant la leçon de Théo dans la
+Elle zooma dessus, distraitement d'abord. Puis elle se pencha de plus en plus
+près de l'écran, comparant ce qu'elle voyait avec les quelques signes qu'elle
+avait appris à reconnaître pendant la leçon de Théo dans la
 réserve — l'œil, le petit carré de la maison, le poussin de caille.
 
 — Souly, dit-elle soudain, d'une voix complètement changée. Regarde ça.
@@ -358,14 +358,14 @@ d'abord, ce serait complètement anormal ».
 — Mamie, dit Sofia en soufflant sur sa tasse, tu trouves pas ça bizarre que tu
 sois jamais surprise par rien ?
 
-— Ma chérie, répondit Mamie Rose avec un sourire tranquille, j'ai enseigné le CM2
+— Ma chérie, répondit Mamie Rose, tranquille, j'ai enseigné le CM2
 pendant trente-sept ans. Après trente-sept ans de CM2, plus rien ne peut vraiment
 te surprendre. Une fenêtre forcée dans un musée, c'est presque reposant, comparé
 à un lundi matin avec vingt-huit enfants de dix ans qui ont tous mangé trop de
 bonbons pendant la récréation.
 
-Elle posa sa propre tasse et regarda ses deux petits-enfants avec une attention
-soudain plus sérieuse, ce fameux regard qu'elle réservait aux moments qui
+Elle posa sa propre tasse et regarda ses deux petits-enfants droit dans les
+yeux, ce fameux regard qu'elle réservait aux moments qui
 comptaient vraiment, sous la légèreté habituelle.
 
 — Vous avez bien fait de le dire à Théo tout de suite, dit-elle. C'est ça, la
@@ -418,8 +418,8 @@ un archéologue chevronné et deux enfants en pyjama à moitié réveillés.
 découvrir qui force des fenêtres dans mon musée. Je ne sais pas ce qui
 m'inquiète le plus, dans cette phrase.
 
-— Nous, on sait, dirent Sofia et Souly en même temps, avec un aplomb qui, pour la
-première fois de la semaine, sembla presque légitime.
+— Nous, on sait, dirent Sofia et Souly en même temps, du tac au tac, et pour la
+première fois de la semaine, leur aplomb semblait presque légitime.
 
 Théo ouvrit la bouche pour répondre quelque chose, la referma, et se contenta,
 finalement, de leur ébouriffer les cheveux à tous les deux en même temps — ce qui,

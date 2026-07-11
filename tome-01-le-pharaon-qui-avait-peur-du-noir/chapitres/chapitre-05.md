@@ -269,7 +269,7 @@ enfants qu'il connaissait à peine seuls dans son bureau à vingt heures passée
 une des nombreuses qualités de M. Ferron étant de ne jamais s'étonner de rien
 avant d'avoir eu son café du matin, même le soir.
 
-— On... cherche Max, confirma Sofia avec un aplomb terrifiant.
+— On... cherche Max, confirma Sofia, sans ciller.
 
 — Il a dû sortir, dit Souly, dont la voix ne trembla qu'à peine.
 
@@ -312,19 +312,19 @@ que personne, de toute façon, ne pourrait jamais vérifier avec certitude.
 
 Max, encore rouge de honte et de course d'adrénaline, se laissa retomber dans le
 fauteuil de bureau de son père en soufflant un grand coup, avant d'éclater à son
-tour d'un rire nerveux et libérateur, le genre de rire qui arrive juste après
-qu'on a eu très peur pour rien.
+tour de rire, un rire nerveux et libérateur, celui qu'on pousse juste après
+avoir eu très peur pour rien.
 
 — Bon, dit-il en se redressant, en tapotant le clavier pour réveiller l'écran.
 Maintenant qu'on a failli tous mourir pour cette histoire, on ferait mieux de
 trouver quelque chose d'utile là-dedans.
 
-Ils trouvèrent le dossier des enregistrements de la caméra de parking sans trop de
-mal — Max, malgré ses airs de garçon qui ne s'intéressait à rien de sérieux,
-naviguait dans l'ordinateur de son père avec une aisance suspecte, preuve qu'il
-avait déjà dû fouiner dedans plus d'une fois par le passé pour des raisons
-probablement beaucoup moins nobles — et ils lancèrent la vidéo du soir de
-l'inauguration, accélérée, les yeux rivés sur l'écran.
+Ils trouvèrent le dossier des enregistrements de la caméra de parking sans trop
+de mal. Max, malgré ses airs de garçon qui ne s'intéressait à rien de sérieux,
+naviguait dans l'ordinateur de son père avec une aisance suspecte — la preuve
+qu'il y avait déjà fouiné plus d'une fois pour des raisons bien moins nobles.
+Ils lancèrent la vidéo du soir de l'inauguration, accélérée, les yeux rivés sur
+l'écran.
 
 Pendant de longues minutes, rien : des voitures qui se garaient, des invités
 costumés qui entraient dans le musée en riant, le boulanger déguisé en momie qui

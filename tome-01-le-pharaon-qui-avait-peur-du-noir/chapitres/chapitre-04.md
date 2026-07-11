@@ -194,8 +194,8 @@ C'est en aidant Mme Bamba à ranger les débris du malheureux sarcophage en cart
 que Souly remarqua, du coin de l'œil, une silhouette qui ne dansait pas, qui ne
 riait pas, qui ne portait aucun costume — un homme grand, en manteau sombre malgré
 la chaleur de la soirée, qui se tenait immobile près de la porte donnant sur le
-couloir de la réserve, observant la foule avec une attention qui n'avait rien de
-festif.
+couloir de la réserve. Il observait la foule d'un œil qui n'avait vraiment rien
+de festif.
 
 — C'est lui, Vasploix, murmura Max Ferron, apparu à côté de Souly sans qu'on l'ait
 entendu venir, avec l'air d'un gamin qui vient de repérer un animal rare dans son

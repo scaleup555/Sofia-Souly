@@ -44,8 +44,8 @@ marche.
 — Réglée hier soir avec toi, tu ne t'en souviens pas parce que tu étais en train
 de recompter les extincteurs pour la quatrième fois.
 
-Mme Bamba eut un demi-sourire, le genre de sourire qui admet qu'on a raison sans
-avoir envie de le dire à voix haute.
+Mme Bamba eut un demi-sourire. Il avait raison, et elle n'avait pas franchement
+envie de l'admettre à voix haute.
 
 — Si cette exposition rate, murmura-t-elle, plus pour elle-même que pour lui, mais
 Souly, qui se tenait juste assez près, l'entendit très bien.
@@ -194,9 +194,8 @@ court-circuit, répondit Souly.
 
 Sofia, elle, n'écoutait déjà plus. Elle s'était approchée le plus près possible de
 la vitrine — Mme Bamba n'avait pas eu le temps de la refermer complètement — et
-regardait le fragment de bandelette couvert de hiéroglyphes avec une attention
-absolue, le genre d'attention qu'elle réservait normalement à ses cailloux les
-plus prometteurs.
+dévorait des yeux le fragment de bandelette couvert de hiéroglyphes, exactement
+comme elle examinait d'habitude ses cailloux les plus prometteurs.
 
 — Souly, viens voir, dit-elle sans détacher les yeux du fragment.
 
@@ -210,8 +209,7 @@ salle, à part peut-être Théo et deux ou trois spécialistes venus de Paris, n
 connaissait quoi que ce soit — mais Sofia avait raison sur un point : tout au bout
 du fragment, après la dernière colonne bien alignée de symboles, il y avait
 effectivement un petit groupe de dessins plus serrés, légèrement décalés vers le
-bas, comme une signature griffonnée en bas de page après que la lettre principale
-avait déjà été écrite.
+bas. Une signature griffonnée après coup, au bas d'une lettre déjà terminée.
 
 — C'est peut-être rien, dit Souly.
 

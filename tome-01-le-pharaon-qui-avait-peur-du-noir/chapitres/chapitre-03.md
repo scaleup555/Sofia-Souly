@@ -235,8 +235,8 @@ ni tout à fait une écriture d'idées pures. C'est un système hybride, plein d
 règles et d'exceptions, un peu comme le français, en fait, avec ses lettres
 muettes et ses règles qui ont toujours une exception qui traîne quelque part.
 
-— Le français est nul, dit Sofia, catégorique, en pensant sans doute à sa dernière
-dictée.
+— Le français est nul, dit Sofia, catégorique. Elle repensait clairement à sa
+dernière dictée.
 
 — Les hiéroglyphes aussi, alors, dit Théo en riant, ce qui n'aida pas franchement
 la cause du français.
@@ -276,8 +276,8 @@ peu, genre, la Pharaonne Sofia Fille-du-Vautour-Mère.
 — C'est un TRÈS beau nom de pharaon, décréta Sofia sans se laisser démonter d'un
 millimètre. Fais le mien maintenant, Souly.
 
-Souly, qui prenait toujours un peu trop son temps sur ce genre de tâche, passa
-un quart d'heure entier à essayer de décomposer parfaitement les sons de
+Souly, méticuleux comme toujours, passa un quart d'heure entier à essayer de
+décomposer parfaitement les sons de
 « Soulaiman », consultant deux fois le tableau, biffant trois versions
 différentes, avant d'obtenir un cartouche qu'il jugea enfin acceptable. Sofia
 l'examina en silence, plissant les yeux, puis pointa du doigt le troisième
