@@ -69,6 +69,16 @@ Tout nouvel épisode doit relire ce fichier avant d'écrire une ligne.
   débordée par le manque de budget. Personnage-ressource pour tout tome futur qui
   reviendrait au musée.
 
+### Karim Haddad (introduit au tome 2)
+- Cousin de Camille (donc cousin éloigné de Sofia et Souly), la trentaine.
+  Volcanologue, travaille sur des stations de surveillance sismique un peu
+  partout en France et dans le monde.
+- Parle aux enfants exactement comme à des collègues scientifiques, jamais
+  avec condescendance — ce qui ravit particulièrement Souly.
+- A un chat borgne nommé Magma qui dort toujours sur le clavier de son
+  ordinateur au pire moment possible.
+- Personnage-ressource pour tout tome futur à thème scientifique/terrain.
+
 ## Règle d'or de continuité
 - Les faits établis dans un tome (âges, liens de parenté, peurs, habitudes) ne
   doivent JAMAIS être contredits dans un tome suivant.
