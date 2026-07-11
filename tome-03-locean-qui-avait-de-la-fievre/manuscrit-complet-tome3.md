@@ -733,9 +733,8 @@ Técher — le père de Noah — a été vu ce matin très tôt, avant l'aube, e
 train de croiser dans cette zone précise. Un voisin l'a signalé à la
 mairie il y a une heure.
 
-Personne, sur le bateau, ne trouva rien à dire pendant un long moment.
 Noah, qui s'apprêtait à remonter à bord, se figea, une main agrippée à
-l'échelle.
+l'échelle, sans trouver un mot à répondre.
 
 — Mon père était en mer pour relever ses casiers à poissons, dit-il, la
 voix soudain tendue. Comme tous les matins depuis vingt ans. Ça ne veut
@@ -751,9 +750,9 @@ prêt à croire le pire sur mon père, sans même vérifier.
 ---
 
 Le trajet du retour se fit dans un silence tendu, Noah installé à
-l'avant du bateau, les bras croisés, le regard fixé sur l'horizon plutôt
-que sur ses nouveaux amis. Sofia, qui détestait par-dessus tout les
-silences trop longs, finit par s'approcher de lui, prudemment, une fois
+l'avant du bateau, les bras croisés, obstinément tourné vers l'horizon.
+Sofia, qui détestait par-dessus tout les silences trop longs, finit par
+s'approcher de lui, prudemment, une fois
 le bateau amarré.
 
 — On te croit, dit-elle, simplement. Enfin, on croit ton père. On l'a
@@ -1243,8 +1242,8 @@ lourde odeur de pluie, et que la première rafale frappa le hors-bord de
 plein fouet, faisant tanguer l'embarcation d'un coup sec qui arracha un
 cri à Sofia.
 
-— Tempête tropicale, dit Fara, déjà au moteur, la voix tendue mais sans
-panique. Elle n'était pas prévue avant demain. On rentre, tout de suite.
+— Tempête tropicale, dit Fara, déjà au moteur, ferme mais sans panique.
+Elle n'était pas prévue avant demain. On rentre, tout de suite.
 
 ---
 
@@ -1409,9 +1408,9 @@ gestion du temps entre les excursions.
 porte entrouverte, incapable de se retenir plus longtemps. C'est ce que
 Bassin vous a entendu dire sur le ponton. Mot pour mot.
 
-Personne, dans le bureau, ne dit plus un mot pendant un long moment.
-Sofia songea que c'était le silence d'un adulte qui comprend enfin qu'il
-n'a plus aucune porte de sortie disponible.
+Dans le bureau, plus personne ne dit un mot. Sofia songea que c'était le
+silence d'un adulte qui comprend enfin qu'il n'a plus aucune porte de
+sortie disponible.
 
 ---
 

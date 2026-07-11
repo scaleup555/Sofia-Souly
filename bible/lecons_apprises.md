@@ -358,6 +358,26 @@ même si chaque incise prise séparément est acceptable. Règle : au maximum
 UNE incise à tirets par phrase ; scinder en plusieurs phrases courtes
 plutôt que d'empiler deux incises.
 
+**Nouvelle leçon méthodologique (rapport livre-complet v1→v2) : purger une
+liste de tics ne suffit pas, il faut aussi chercher les GABARITS
+SYNTAXIQUES, pas seulement les formulations exactes.** Après correction
+complète de toutes les formulations explicitement signalées (« sourire
+commercial », « n'annonçait rien de bon », « [adj] silence s'installa »),
+une relecture exhaustive du livre complet a débusqué deux nouveaux motifs
+qui n'étaient sur AUCUNE liste de vigilance : « Personne, [lieu], ne
+[verbe]... » répété 4 fois avec la même structure, et « les bras croisés,
+le regard fixé sur X plutôt que sur Y » réutilisé pour deux personnages
+différents. Ce ne sont pas des répétitions de phrase exacte mais des
+répétitions de GABARIT (même construction grammaticale, mêmes éléments
+interchangeables) — un type de tic plus difficile à détecter par simple
+grep de phrase, qui demande une relecture consciente cherchant les
+patterns récurrents de mise en scène d'une émotion (silence collectif,
+regard qui évite quelqu'un, etc.), pas seulement les mots exacts déjà
+bannis. **Règle désormais active : à chaque passage jury, chercher
+explicitement les phrases qui suivent un même schéma grammatical
+réutilisé pour des personnages/scènes différents, en plus du grep sur
+formulations exactes.**
+
 **Point non bloquant à trancher consciemment pour la session 2 :**
 longueur des chapitres nettement sous la cible (~1 100 mots/chapitre vs
 ~3 300 visés, soit un tome complet projeté à ~13 200 mots au lieu de

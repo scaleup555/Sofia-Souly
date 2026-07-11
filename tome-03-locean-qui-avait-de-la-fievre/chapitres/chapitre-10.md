@@ -74,9 +74,9 @@ gestion du temps entre les excursions.
 porte entrouverte, incapable de se retenir plus longtemps. C'est ce que
 Bassin vous a entendu dire sur le ponton. Mot pour mot.
 
-Personne, dans le bureau, ne dit plus un mot pendant un long moment.
-Sofia songea que c'était le silence d'un adulte qui comprend enfin qu'il
-n'a plus aucune porte de sortie disponible.
+Dans le bureau, plus personne ne dit un mot. Sofia songea que c'était le
+silence d'un adulte qui comprend enfin qu'il n'a plus aucune porte de
+sortie disponible.
 
 ---
 

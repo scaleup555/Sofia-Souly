@@ -48,8 +48,8 @@ lourde odeur de pluie, et que la première rafale frappa le hors-bord de
 plein fouet, faisant tanguer l'embarcation d'un coup sec qui arracha un
 cri à Sofia.
 
-— Tempête tropicale, dit Fara, déjà au moteur, la voix tendue mais sans
-panique. Elle n'était pas prévue avant demain. On rentre, tout de suite.
+— Tempête tropicale, dit Fara, déjà au moteur, ferme mais sans panique.
+Elle n'était pas prévue avant demain. On rentre, tout de suite.
 
 ---
 
