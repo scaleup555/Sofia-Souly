@@ -168,17 +168,17 @@ demandé, sur ce qui ressemblait fort à un vrai problème d'adulte.
 — Camille m'avait prévenue que vous étiez du genre à vous rendre utiles,
 dit-elle finalement, pas mécontente du tout de cette réputation, à en
 juger par son sourire. D'accord. Mais on procède proprement, avec de
-vraies observations, pas des accusations en l'air.
-J'ai eu vent de votre histoire de marché, l'été avant dernier.
+vraies observations, pas des accusations en l'air. J'ai eu vent de votre
+histoire de marché, l'été avant dernier.
 
 — C'était il y a longtemps, dit Sofia, un peu vexée que sa réputation la
 précède aussi loin de chez elle.
 
-— C'était il y a un an, corrigea Souly.
+— C'était il y a deux ans, corrigea Souly.
 
-— C'est déjà de l'histoire ancienne, insista Sofia, ce qui fit rire Fara
-de nouveau, un rire qui, cette fois, chassa un peu de la tension
-accumulée depuis leur découverte du récif brisé.
+— C'est déjà de l'histoire ancienne, insista Sofia. Fara éclata de rire,
+un rire qui chassa, pour de bon cette fois, la tension accumulée depuis
+leur découverte du récif brisé.
 
 ---
 
@@ -211,10 +211,14 @@ dans son plumage, satisfait de son effet.
 — Il a surtout entendu cette phrase sortir de ma bouche à peu près
 quinze fois aujourd'hui, dit Fara. Ça n'a rien de mystique, malheureusement.
 
-Souly, qui avait sorti son carnet sur la table malgré les recommandations
-de Fara concernant le sable et le sel, écrivit tout en haut d'une page
-neuve, en lettres bien nettes : « Anse-Bleue. Récif blanchi (naturel,
-peut-être réversible). Récif cassé (pas naturel, pas réversible). Vote
-municipal dans quelques jours. » Il hésita, puis ajouta une dernière
-ligne, avant de refermer le carnet pour la nuit : « Trouver qui a intérêt
-à ce que personne ne fasse la différence entre les deux. »
+Souly avait sorti son carnet sur la table, malgré les recommandations de
+Fara concernant le sable et le sel, et griffonnait déjà ses premières
+notes de la soirée quand Bassin, jugeant apparemment que la conversation
+avait assez duré sans lui, atterrit directement sur la page ouverte,
+laissant une empreinte de patte humide en plein milieu d'une phrase à
+moitié écrite.
+
+— Bassin ! protesta Souly. C'est mon carnet officiel !
+
+— Bienvenue à la station, dit Fara, imperturbable, en resservant une
+louche de curry. Ici, tout le monde signe le registre à sa façon.

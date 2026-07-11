@@ -59,6 +59,12 @@ mécanique. Le squelette calcaire est détruit. Ça ne repousse jamais.
 Jamais. Ce corail-là est perdu pour de bon, même si la température de
 l'eau redescendait dès demain.
 
+— Attends, sérieux ? dit Sofia. Jamais jamais ? Même dans cent ans ?
+
+— Même dans mille ans, dit Fara. Un récif met des siècles à se
+construire, colonie après colonie. On peut le détruire en une seule
+nuit.
+
 Un silence suivit, différent de tous les silences studieux de la matinée
 — un silence qui pesait le poids exact de ce mot, « jamais », prononcé
 sans la moindre nuance qui aurait pu l'adoucir.
@@ -140,9 +146,11 @@ l'ancre n'importe où, non ?
 — Exactement, dit Fara. S'il en manque plusieurs, sur la zone justement
 la plus proche du récif abîmé...
 
-Elle n'eut pas besoin de terminer sa phrase. Souly notait déjà, en lettres
-pressées, une nouvelle ligne au bas de sa page, entourée deux fois :
+— Alors soit quelqu'un les a volées, soit quelqu'un a bien intérêt à ce
+qu'elles ne soient jamais réparées, termina Sofia à sa place.
 
-« Bouées manquantes = bateaux obligés de s'ancrer ailleurs, OU bateaux qui
-en profitent pour s'ancrer n'importe où. Vérifier lesquelles manquent, et
-depuis quand. »
+Fara la regarda, puis regarda Souly, déjà penché sur son carnet.
+
+— Demain, on va vérifier ces bouées une par une, dit-elle. Toutes les
+huit. Et cette fois, on emmène des jumelles pour de vrai, pas juste pour
+regarder les oiseaux.

@@ -1,7 +1,7 @@
 # Sofia & Souly
 ## Tome 3 — L'Océan qui avait de la fièvre
 
-*(Manuscrit en cours — Session 1 (tome 3) : chapitres 1 à 6 sur 12)*
+*(Manuscrit en cours — Session 1 (tome 3), chapitres 1 à 6, v2 après jury 7,8/10)*
 
 # Chapitre 1 — Le bleu qui n'était pas net
 
@@ -173,17 +173,17 @@ demandé, sur ce qui ressemblait fort à un vrai problème d'adulte.
 — Camille m'avait prévenue que vous étiez du genre à vous rendre utiles,
 dit-elle finalement, pas mécontente du tout de cette réputation, à en
 juger par son sourire. D'accord. Mais on procède proprement, avec de
-vraies observations, pas des accusations en l'air.
-J'ai eu vent de votre histoire de marché, l'été avant dernier.
+vraies observations, pas des accusations en l'air. J'ai eu vent de votre
+histoire de marché, l'été avant dernier.
 
 — C'était il y a longtemps, dit Sofia, un peu vexée que sa réputation la
 précède aussi loin de chez elle.
 
-— C'était il y a un an, corrigea Souly.
+— C'était il y a deux ans, corrigea Souly.
 
-— C'est déjà de l'histoire ancienne, insista Sofia, ce qui fit rire Fara
-de nouveau, un rire qui, cette fois, chassa un peu de la tension
-accumulée depuis leur découverte du récif brisé.
+— C'est déjà de l'histoire ancienne, insista Sofia. Fara éclata de rire,
+un rire qui chassa, pour de bon cette fois, la tension accumulée depuis
+leur découverte du récif brisé.
 
 ---
 
@@ -216,13 +216,17 @@ dans son plumage, satisfait de son effet.
 — Il a surtout entendu cette phrase sortir de ma bouche à peu près
 quinze fois aujourd'hui, dit Fara. Ça n'a rien de mystique, malheureusement.
 
-Souly, qui avait sorti son carnet sur la table malgré les recommandations
-de Fara concernant le sable et le sel, écrivit tout en haut d'une page
-neuve, en lettres bien nettes : « Anse-Bleue. Récif blanchi (naturel,
-peut-être réversible). Récif cassé (pas naturel, pas réversible). Vote
-municipal dans quelques jours. » Il hésita, puis ajouta une dernière
-ligne, avant de refermer le carnet pour la nuit : « Trouver qui a intérêt
-à ce que personne ne fasse la différence entre les deux. »
+Souly avait sorti son carnet sur la table, malgré les recommandations de
+Fara concernant le sable et le sel, et griffonnait déjà ses premières
+notes de la soirée quand Bassin, jugeant apparemment que la conversation
+avait assez duré sans lui, atterrit directement sur la page ouverte,
+laissant une empreinte de patte humide en plein milieu d'une phrase à
+moitié écrite.
+
+— Bassin ! protesta Souly. C'est mon carnet officiel !
+
+— Bienvenue à la station, dit Fara, imperturbable, en resservant une
+louche de curry. Ici, tout le monde signe le registre à sa façon.
 
 
 # Chapitre 2 — Zooxanthelles et mauvaise nouvelle
@@ -285,6 +289,12 @@ coup, par un impact physique. Une ancre, un choc, quelque chose de
 mécanique. Le squelette calcaire est détruit. Ça ne repousse jamais.
 Jamais. Ce corail-là est perdu pour de bon, même si la température de
 l'eau redescendait dès demain.
+
+— Attends, sérieux ? dit Sofia. Jamais jamais ? Même dans cent ans ?
+
+— Même dans mille ans, dit Fara. Un récif met des siècles à se
+construire, colonie après colonie. On peut le détruire en une seule
+nuit.
 
 Un silence suivit, différent de tous les silences studieux de la matinée
 — un silence qui pesait le poids exact de ce mot, « jamais », prononcé
@@ -367,12 +377,14 @@ l'ancre n'importe où, non ?
 — Exactement, dit Fara. S'il en manque plusieurs, sur la zone justement
 la plus proche du récif abîmé...
 
-Elle n'eut pas besoin de terminer sa phrase. Souly notait déjà, en lettres
-pressées, une nouvelle ligne au bas de sa page, entourée deux fois :
+— Alors soit quelqu'un les a volées, soit quelqu'un a bien intérêt à ce
+qu'elles ne soient jamais réparées, termina Sofia à sa place.
 
-« Bouées manquantes = bateaux obligés de s'ancrer ailleurs, OU bateaux qui
-en profitent pour s'ancrer n'importe où. Vérifier lesquelles manquent, et
-depuis quand. »
+Fara la regarda, puis regarda Souly, déjà penché sur son carnet.
+
+— Demain, on va vérifier ces bouées une par une, dit-elle. Toutes les
+huit. Et cette fois, on emmène des jumelles pour de vrai, pas juste pour
+regarder les oiseaux.
 
 
 # Chapitre 3 — Noah
@@ -412,8 +424,8 @@ excuse, ni comme une provocation.
 — Ton bateau, il pêche quoi, en ce moment ? demanda-t-il finalement,
 faute de mieux.
 
-Noah s'arrêta, une caisse à mi-chemin entre le bateau et le quai, et le
-regarda avec une surprise qu'il ne chercha pas à cacher.
+Noah s'arrêta net, une caisse à mi-chemin entre le bateau et le quai, et
+haussa les sourcils, franchement surpris.
 
 — Des vacanciers qui posent des vraies questions, dit-il. Ça change.
 
@@ -434,8 +446,8 @@ jamais demandé à mon père ce qu'il faisait vraiment.
 — Et il faisait quoi, vraiment ? demanda Sofia.
 
 — Il retirait un filet abandonné, coincé sur le corail depuis des
-semaines, dit Noah, avec une amertume qui n'avait visiblement pas eu le
-temps de s'estomper. Un vieux filet de plaisance, pas un des nôtres. Mon
+semaines, dit Noah, la mâchoire serrée. Un vieux filet de plaisance, pas
+un des nôtres. Mon
 père l'a signalé à la mairie le jour même. Mais la photo, elle, a circulé
 partout, sans l'explication. Depuis, tout le monde regarde mon père comme
 s'il était un braconnier.
@@ -446,9 +458,8 @@ tête.
 — Je me souviens de cet article, dit-elle. J'avais essayé de le faire
 corriger. Ça n'a pas très bien marché.
 
-— Rien ne marche très bien, avec ce genre de choses, une fois que c'est
-publié, dit Noah, avec une maturité qui semblait avoir grandi bien plus
-vite que le reste de lui.
+— Rien ne marche très bien, une fois que c'est publié, dit Noah, avec un
+calme qui semblait avoir grandi bien plus vite que le reste de lui.
 
 Souly, qui écoutait attentivement en prenant des notes discrètes, leva
 les yeux de son carnet.
@@ -465,9 +476,22 @@ déjà plus que ce que la plupart des gens ont fait l'année dernière.
 Il finit par accepter, non sans une hésitation visible, de leur montrer
 la zone du récif abîmé depuis son propre bateau — « je connais ce lagon
 mieux que n'importe qui d'autre en ville, y compris toi, Fara, ne le
-répète à personne » — et les trois enfants, accompagnés de Fara à
-distance prudente sur son propre hors-bord, longèrent la barrière de
-corail jusqu'à la zone des dégâts.
+répète à personne » — et, en préparant les gilets de sauvetage, laissa
+échapper un détail qui n'avait, sur le moment, l'air de rien de spécial.
+
+— Mon père dit toujours qu'il faut laisser le lagon tranquille, à
+certains moments de l'année, dit-il. Une règle de mon arrière-grand-père.
+Personne prend rien dans la passe pendant sept jours, à la pleine lune
+d'été. Les gens de la ville trouvent ça un peu ridicule.
+
+— Pourquoi sept jours pile ? demanda Souly, déjà intrigué.
+
+— Aucune idée, dit Noah, en haussant les épaules. C'est comme ça depuis
+toujours, personne s'est jamais posé la question plus que ça.
+
+Et les trois enfants, accompagnés de Fara à distance prudente sur son
+propre hors-bord, longèrent la barrière de corail jusqu'à la zone des
+dégâts.
 
 — Regardez la position, dit Noah, en coupant son moteur à quelques mètres
 de la zone brisée. Le récif est cassé exactement là où l'eau est assez
@@ -483,11 +507,11 @@ détruite.
 — C'est un excellent argument, dit-il, en le notant scrupuleusement. Pas
 une preuve définitive. Mais un excellent argument.
 
-— T'es du genre méthodique, toi, remarqua Noah, avec un début de sourire
-qui n'y était pas une heure plus tôt.
+— T'es du genre méthodique, toi, remarqua Noah, un début de sourire aux
+lèvres, un sourire qui n'y était pas une heure plus tôt.
 
-— C'est mon travail dans l'équipe, dit Souly, avec une fierté qu'il ne
-chercha pas à dissimuler.
+— C'est mon travail dans l'équipe, dit Souly, sans chercher le moins du
+monde à cacher sa fierté.
 
 — Et le mien, c'est de dire tout haut ce que tout le monde pense tout
 bas, ajouta Sofia, sans qu'on le lui demande.
@@ -585,7 +609,9 @@ commerciale.
 
 — JE SAIS PAS COMMENT ! hurla Souly en retour, une main crispée sur la
 poignée, l'autre cherchant frénétiquement, sans le trouver, le petit
-bouton d'arrêt d'urgence.
+bouton d'arrêt d'urgence — et, presque malgré lui, il se surprit à
+compter tout haut, un, deux, trois, comme si ça allait ralentir quoi que
+ce soit.
 
 Le jet-ski heurta la structure de bois du stand avec un fracas
 spectaculaire, envoyant valser des caisses entières de fruits de mer
@@ -595,9 +621,10 @@ atterrit à plat ventre au beau milieu d'un tas de glace pilée et de
 crevettes, dont une bonne dizaine se retrouvèrent coincées, on ne
 saurait dire comment, à l'intérieur même de son gilet de sauvetage.
 
-Un silence suivit — bref, stupéfait — avant qu'un éclat de rire massif
-ne parcoure toute la promenade, ponctué d'applaudissements que Souly,
-allongé dans la glace, une crevette posée sur l'oreille, choisit
+La promenade entière retint son souffle, une seconde à peine, avant qu'un
+éclat de rire massif ne la parcoure d'un bout à l'autre, ponctué
+d'applaudissements que Souly, allongé dans la glace, une crevette posée
+sur l'oreille, choisit
 d'interpréter comme franchement injustes.
 
 — Je vais bien, annonça-t-il, la voix étouffée par les débris de glaçons,
@@ -648,8 +675,9 @@ bateau. Un problème, un souci, n'importe quoi de bizarre, vous levez le
 bras et vous criez. Pas de plongée en profondeur, pas d'exploration en
 solo. C'est clair ?
 
-— C'est clair, dirent Sofia et Souly en chœur, avec une docilité que
-Fara accueillit, visiblement, avec un scepticisme mesuré mais réel.
+— C'est clair, dirent Sofia et Souly en chœur, un peu trop vite pour être
+totalement crédibles. Fara les regarda tour à tour, pas franchement
+convaincue, mais elle laissa passer.
 
 Le masque plongé sous la surface révéla à Sofia un monde qu'aucune photo
 ne lui avait préparé à voir vraiment : le récif vivant, juste à côté du
@@ -707,8 +735,9 @@ Técher — le père de Noah — a été vu ce matin très tôt, avant l'aube, e
 train de croiser dans cette zone précise. Un voisin l'a signalé à la
 mairie il y a une heure.
 
-Un silence tomba sur le bateau, épais, inconfortable. Noah, qui
-s'apprêtait à remonter à bord, se figea, une main agrippée à l'échelle.
+Personne, sur le bateau, ne trouva rien à dire pendant un long moment.
+Noah, qui s'apprêtait à remonter à bord, se figea, une main agrippée à
+l'échelle.
 
 — Mon père était en mer pour relever ses casiers à poissons, dit-il, la
 voix soudain tendue. Comme tous les matins depuis vingt ans. Ça ne veut
@@ -750,20 +779,14 @@ Noah, malgré la tension de la matinée, ne put retenir un petit rire, bref
 mais sincère, qui parut desserrer, l'espace d'un instant, quelque chose
 dans ses épaules.
 
-— On va trouver qui a vraiment fait ça, dit Souly, avec une détermination
-qui ne laissait aucune place au doute. Trois bouées manquantes, des
-marques d'ancre, et un timing qui colle exactement avec les dégâts.
-C'est pas grand-chose encore. Mais c'est un début.
+— On va trouver qui a vraiment fait ça, dit Souly, sans la moindre
+hésitation dans la voix. Trois bouées manquantes, des marques d'ancre,
+et un timing qui colle exactement avec les dégâts. C'est pas grand-chose
+encore. Mais c'est un début.
 
-Il sortit son carnet, l'ouvrit à une page neuve, et écrivit, en lettres
-fermes, une liste qu'il comptait bien compléter avant la réunion de
-vendredi soir :
-
-« Ce qu'on sait : bouées manquantes (3, depuis 3 semaines/10 jours). Marques
-de cassure = ancre lourde, pas matériel de pêche traditionnel. Bateau de
-M. Técher vu dans la zone, mais horaire compatible avec relève de
-casiers. Ce qu'on ne sait pas encore : qui, précisément, mouille dans
-cette zone la nuit, et pourquoi les bouées ont disparu. »
+Noah lui tendit la main, un geste presque solennel pour sceller l'accord,
+et Souly la serra avec un sérieux qui aurait presque pu passer pour drôle,
+si personne, sur ce ponton, n'avait vraiment eu envie de rire.
 
 
 # Chapitre 6 — La différence que personne ne veut voir
@@ -830,8 +853,7 @@ de se former plus vite qu'elle ne pouvait la formuler à voix haute.
 
 — Sauf un bateau à moteur, assez gros pour transporter plusieurs
 personnes, dit Souly, terminant la phrase de sa sœur avec la même
-excitation contenue. Le genre de bateau qu'on utilise pour des excursions
-touristiques, par exemple.
+excitation contenue. Un bateau d'excursion touristique, par exemple.
 
 Un silence tomba sur la table, chargé de tout ce que personne n'osait
 encore affirmer complètement à voix haute.

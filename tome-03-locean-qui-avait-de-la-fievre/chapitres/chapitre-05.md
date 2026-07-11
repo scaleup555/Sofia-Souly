@@ -11,8 +11,9 @@ bateau. Un problème, un souci, n'importe quoi de bizarre, vous levez le
 bras et vous criez. Pas de plongée en profondeur, pas d'exploration en
 solo. C'est clair ?
 
-— C'est clair, dirent Sofia et Souly en chœur, avec une docilité que
-Fara accueillit, visiblement, avec un scepticisme mesuré mais réel.
+— C'est clair, dirent Sofia et Souly en chœur, un peu trop vite pour être
+totalement crédibles. Fara les regarda tour à tour, pas franchement
+convaincue, mais elle laissa passer.
 
 Le masque plongé sous la surface révéla à Sofia un monde qu'aucune photo
 ne lui avait préparé à voir vraiment : le récif vivant, juste à côté du
@@ -70,8 +71,9 @@ Técher — le père de Noah — a été vu ce matin très tôt, avant l'aube, e
 train de croiser dans cette zone précise. Un voisin l'a signalé à la
 mairie il y a une heure.
 
-Un silence tomba sur le bateau, épais, inconfortable. Noah, qui
-s'apprêtait à remonter à bord, se figea, une main agrippée à l'échelle.
+Personne, sur le bateau, ne trouva rien à dire pendant un long moment.
+Noah, qui s'apprêtait à remonter à bord, se figea, une main agrippée à
+l'échelle.
 
 — Mon père était en mer pour relever ses casiers à poissons, dit-il, la
 voix soudain tendue. Comme tous les matins depuis vingt ans. Ça ne veut
@@ -113,17 +115,11 @@ Noah, malgré la tension de la matinée, ne put retenir un petit rire, bref
 mais sincère, qui parut desserrer, l'espace d'un instant, quelque chose
 dans ses épaules.
 
-— On va trouver qui a vraiment fait ça, dit Souly, avec une détermination
-qui ne laissait aucune place au doute. Trois bouées manquantes, des
-marques d'ancre, et un timing qui colle exactement avec les dégâts.
-C'est pas grand-chose encore. Mais c'est un début.
+— On va trouver qui a vraiment fait ça, dit Souly, sans la moindre
+hésitation dans la voix. Trois bouées manquantes, des marques d'ancre,
+et un timing qui colle exactement avec les dégâts. C'est pas grand-chose
+encore. Mais c'est un début.
 
-Il sortit son carnet, l'ouvrit à une page neuve, et écrivit, en lettres
-fermes, une liste qu'il comptait bien compléter avant la réunion de
-vendredi soir :
-
-« Ce qu'on sait : bouées manquantes (3, depuis 3 semaines/10 jours). Marques
-de cassure = ancre lourde, pas matériel de pêche traditionnel. Bateau de
-M. Técher vu dans la zone, mais horaire compatible avec relève de
-casiers. Ce qu'on ne sait pas encore : qui, précisément, mouille dans
-cette zone la nuit, et pourquoi les bouées ont disparu. »
+Noah lui tendit la main, un geste presque solennel pour sceller l'accord,
+et Souly la serra avec un sérieux qui aurait presque pu passer pour drôle,
+si personne, sur ce ponton, n'avait vraiment eu envie de rire.

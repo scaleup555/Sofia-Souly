@@ -62,8 +62,7 @@ de se former plus vite qu'elle ne pouvait la formuler à voix haute.
 
 — Sauf un bateau à moteur, assez gros pour transporter plusieurs
 personnes, dit Souly, terminant la phrase de sa sœur avec la même
-excitation contenue. Le genre de bateau qu'on utilise pour des excursions
-touristiques, par exemple.
+excitation contenue. Un bateau d'excursion touristique, par exemple.
 
 Un silence tomba sur la table, chargé de tout ce que personne n'osait
 encore affirmer complètement à voix haute.

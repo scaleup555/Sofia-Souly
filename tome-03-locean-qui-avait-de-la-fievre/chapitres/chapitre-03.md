@@ -35,8 +35,8 @@ excuse, ni comme une provocation.
 — Ton bateau, il pêche quoi, en ce moment ? demanda-t-il finalement,
 faute de mieux.
 
-Noah s'arrêta, une caisse à mi-chemin entre le bateau et le quai, et le
-regarda avec une surprise qu'il ne chercha pas à cacher.
+Noah s'arrêta net, une caisse à mi-chemin entre le bateau et le quai, et
+haussa les sourcils, franchement surpris.
 
 — Des vacanciers qui posent des vraies questions, dit-il. Ça change.
 
@@ -57,8 +57,8 @@ jamais demandé à mon père ce qu'il faisait vraiment.
 — Et il faisait quoi, vraiment ? demanda Sofia.
 
 — Il retirait un filet abandonné, coincé sur le corail depuis des
-semaines, dit Noah, avec une amertume qui n'avait visiblement pas eu le
-temps de s'estomper. Un vieux filet de plaisance, pas un des nôtres. Mon
+semaines, dit Noah, la mâchoire serrée. Un vieux filet de plaisance, pas
+un des nôtres. Mon
 père l'a signalé à la mairie le jour même. Mais la photo, elle, a circulé
 partout, sans l'explication. Depuis, tout le monde regarde mon père comme
 s'il était un braconnier.
@@ -69,9 +69,8 @@ tête.
 — Je me souviens de cet article, dit-elle. J'avais essayé de le faire
 corriger. Ça n'a pas très bien marché.
 
-— Rien ne marche très bien, avec ce genre de choses, une fois que c'est
-publié, dit Noah, avec une maturité qui semblait avoir grandi bien plus
-vite que le reste de lui.
+— Rien ne marche très bien, une fois que c'est publié, dit Noah, avec un
+calme qui semblait avoir grandi bien plus vite que le reste de lui.
 
 Souly, qui écoutait attentivement en prenant des notes discrètes, leva
 les yeux de son carnet.
@@ -88,9 +87,22 @@ déjà plus que ce que la plupart des gens ont fait l'année dernière.
 Il finit par accepter, non sans une hésitation visible, de leur montrer
 la zone du récif abîmé depuis son propre bateau — « je connais ce lagon
 mieux que n'importe qui d'autre en ville, y compris toi, Fara, ne le
-répète à personne » — et les trois enfants, accompagnés de Fara à
-distance prudente sur son propre hors-bord, longèrent la barrière de
-corail jusqu'à la zone des dégâts.
+répète à personne » — et, en préparant les gilets de sauvetage, laissa
+échapper un détail qui n'avait, sur le moment, l'air de rien de spécial.
+
+— Mon père dit toujours qu'il faut laisser le lagon tranquille, à
+certains moments de l'année, dit-il. Une règle de mon arrière-grand-père.
+Personne prend rien dans la passe pendant sept jours, à la pleine lune
+d'été. Les gens de la ville trouvent ça un peu ridicule.
+
+— Pourquoi sept jours pile ? demanda Souly, déjà intrigué.
+
+— Aucune idée, dit Noah, en haussant les épaules. C'est comme ça depuis
+toujours, personne s'est jamais posé la question plus que ça.
+
+Et les trois enfants, accompagnés de Fara à distance prudente sur son
+propre hors-bord, longèrent la barrière de corail jusqu'à la zone des
+dégâts.
 
 — Regardez la position, dit Noah, en coupant son moteur à quelques mètres
 de la zone brisée. Le récif est cassé exactement là où l'eau est assez
@@ -106,11 +118,11 @@ détruite.
 — C'est un excellent argument, dit-il, en le notant scrupuleusement. Pas
 une preuve définitive. Mais un excellent argument.
 
-— T'es du genre méthodique, toi, remarqua Noah, avec un début de sourire
-qui n'y était pas une heure plus tôt.
+— T'es du genre méthodique, toi, remarqua Noah, un début de sourire aux
+lèvres, un sourire qui n'y était pas une heure plus tôt.
 
-— C'est mon travail dans l'équipe, dit Souly, avec une fierté qu'il ne
-chercha pas à dissimuler.
+— C'est mon travail dans l'équipe, dit Souly, sans chercher le moins du
+monde à cacher sa fierté.
 
 — Et le mien, c'est de dire tout haut ce que tout le monde pense tout
 bas, ajouta Sofia, sans qu'on le lui demande.

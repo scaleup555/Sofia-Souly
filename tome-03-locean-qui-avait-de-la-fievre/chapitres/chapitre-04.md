@@ -81,7 +81,9 @@ commerciale.
 
 — JE SAIS PAS COMMENT ! hurla Souly en retour, une main crispée sur la
 poignée, l'autre cherchant frénétiquement, sans le trouver, le petit
-bouton d'arrêt d'urgence.
+bouton d'arrêt d'urgence — et, presque malgré lui, il se surprit à
+compter tout haut, un, deux, trois, comme si ça allait ralentir quoi que
+ce soit.
 
 Le jet-ski heurta la structure de bois du stand avec un fracas
 spectaculaire, envoyant valser des caisses entières de fruits de mer
@@ -91,9 +93,10 @@ atterrit à plat ventre au beau milieu d'un tas de glace pilée et de
 crevettes, dont une bonne dizaine se retrouvèrent coincées, on ne
 saurait dire comment, à l'intérieur même de son gilet de sauvetage.
 
-Un silence suivit — bref, stupéfait — avant qu'un éclat de rire massif
-ne parcoure toute la promenade, ponctué d'applaudissements que Souly,
-allongé dans la glace, une crevette posée sur l'oreille, choisit
+La promenade entière retint son souffle, une seconde à peine, avant qu'un
+éclat de rire massif ne la parcoure d'un bout à l'autre, ponctué
+d'applaudissements que Souly, allongé dans la glace, une crevette posée
+sur l'oreille, choisit
 d'interpréter comme franchement injustes.
 
 — Je vais bien, annonça-t-il, la voix étouffée par les débris de glaçons,
