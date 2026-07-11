@@ -37,7 +37,12 @@ etat_avancement.md               État d'avancement global — À LIRE avant tou
 
 | Tome | Titre | Thème | Statut |
 |---|---|---|---|
-| 1 | Le Pharaon qui avait peur du noir | Égypte antique | En cours |
+| 1 | Le Pharaon qui avait peur du noir | Égypte antique | Terminé — 9,1/10 |
+| 2 | Le Volcan qui avait la migraine | Volcanologie | Terminé — 9,1/10 |
+| 3 | L'Océan qui avait de la fièvre | Biologie marine | Terminé — 9,1/10 |
+
+Voir `etat_avancement.md` pour le détail complet et l'état des prochaines
+sessions.
 
 ## Méthode de travail
 
