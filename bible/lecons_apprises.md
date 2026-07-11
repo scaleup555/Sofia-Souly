@@ -406,3 +406,42 @@ lit comme complète, mais l'écart grandit tome après tome (tome 1 le plus
 proche de la cible, tome 3 le plus loin). Pour la session 2 du tome 3 :
 étoffer consciemment certaines scènes (ne pas se contenter du minimum
 narratif) plutôt que de laisser la dérive se poursuivre sans arbitrage.
+
+## Tome 3 — bilan final
+
+**Tome 3 ACCEPTÉ à 9,1/10** (voir
+`tome-03-locean-qui-avait-de-la-fievre/jury/rapport-livre-complet-v5-ACCEPTE.md`),
+au terme de 4 passages jury sur les chapitres 1-6 (7,8 → 8,6 → 8,9 →
+9,1) puis 5 passages supplémentaires sur le livre complet une fois les
+chapitres 7-12 rédigés (8,7 → 8,8 → 8,8 → 8,9 → 9,1), soit 9 passages au
+total — le plus grand nombre de la série jusqu'ici (6 pour le tome 1, 4
++ 2 pour le tome 2). La cause : la session 2 a introduit son lot de
+récidives de tics déjà bannis (repérées aux 4 premiers passages) PUIS,
+une fois celles-ci corrigées, une série de gabarits syntaxiques inédits
+a été mise au jour un par un sur les passages suivants du livre complet
+(« Personne, [lieu], ne... », « regard fixé sur X plutôt que sur Y »,
+« les bras croisés, [direction du regard] », « X sentit [émotion]
+[verbe de déplacement] [partie du corps] », « hésita/marqua une
+pause/vacilla, une fraction de seconde de trop » — chacun trouvé par
+un jury différent alors que le précédent l'avait laissé passer.
+
+**Leçon la plus importante de ce tome : un tic n'est pas toujours une
+formulation exacte répétée — c'est souvent un GABARIT GRAMMATICAL
+réutilisé avec des mots différents à chaque occurrence.** Un grep sur
+une phrase précise ne détecte que la partie déjà identifiée du problème ;
+la vraie protection est de chercher activement des FAMILLES de tics
+(émotion mise en scène comme objet qui se déplace dans le corps,
+posture de retrait + regard qui évite quelqu'un, micro-délai qui trahit
+une émotion cachée) et de vérifier, à chaque correction, qu'on n'a pas
+seulement reformulé la moitié la plus visible d'un gabarit en laissant
+son squelette grammatical intact ailleurs dans le texte.
+
+**Bilan méthodologique complet (3 tomes) :** tome 1 (6 passages) → tome
+2 (4 passages, méthode consolidée) → tome 3 (9 passages, mais motif de
+défaut différent : moins de récidives de formulations exactes, plus de
+gabarits syntaxiques inédits détectés un par un). Pour le tome 4 :
+appliquer dès l'écriture une vigilance explicite sur les FAMILLES de
+tics ci-dessus, pas seulement sur la liste de formulations bannies —
+et envisager une relecture dédiée "chasse aux gabarits" avant la toute
+première soumission au jury, plutôt que de laisser chaque gabarit être
+découvert un par un sur des passages successifs.
