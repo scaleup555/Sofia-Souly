@@ -316,10 +316,11 @@ le premier jet.
 
 ## Tome 3 — session 1 (chapitres 1-6)
 
-**Progression des notes : 7,8 → 8,6 → 8,9/10, toujours À CORRIGER après 3
-passages.** Moins bon que le tome 2 (2 passages) sur ce premier lot de
+**Progression des notes : 7,8 → 8,6 → 8,9 → 9,1/10 — ACCEPTÉ au 4e
+passage.** Moins bon que le tome 2 (2 passages) sur ce premier lot de
 chapitres — les tics bannis reviennent malgré la liste, preuve que la
-relecture doit rester active et pas seulement mémorisée.
+relecture doit rester active et pas seulement mémorisée. Voir
+`tome-03-locean-qui-avait-de-la-fievre/jury/rapport-v4-ACCEPTE.md`.
 
 **Nouvelle leçon critique de méthode — les retours à la ligne cachent des
 répétitions au grep simple.** Le rapport v3 a débusqué une occurrence de
