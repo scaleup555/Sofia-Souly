@@ -120,15 +120,20 @@ ait l'air sage.
 
 — Donc c'est fait exprès, dit Sofia.
 
-— Ça y ressemble beaucoup, dit Karim.
+— Ça y ressemble beaucoup, dit Karim. Et ça expliquerait deux choses à la
+fois : le seuil de sensibilité relevé sur le capteur, pour que les petites
+secousses n'apparaissent même plus dans les relevés bruts — et, en plus de
+ça, des chiffres encore rabotés une deuxième fois avant publication, au
+cas où une secousse plus grosse passerait quand même à travers les
+mailles du filet.
 
 ---
 
 Ils passèrent le reste de l'après-midi à comparer, ligne par ligne, chaque
 secousse enregistrée depuis la soirée des Thermes, Souly recopiant chaque
-paire de chiffres dans son carnet avec une minutie qui aurait impressionné,
-songea Sofia sans le dire, n'importe quel vrai policier scientifique. Le
-motif, une fois assemblé, ne laissait plus beaucoup de place au doute :
+paire de chiffres dans son carnet avec une minutie qui aurait impressionné
+n'importe quel vrai policier scientifique. Le motif, une fois assemblé, ne
+laissait plus beaucoup de place au doute :
 chaque secousse publique paraissait exactement, systématiquement, plus
 faible que sur les données brutes — jamais assez pour paraître suspect à
 un œil non averti, mais toujours assez pour rassurer un public qui ne

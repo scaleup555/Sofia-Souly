@@ -256,3 +256,35 @@ grep -n "cœur battant\|cœur qui s'accélère\|frisson.*dos\|frisson.*échine" 
 Toute formulation « avec un(e) + nom » qui apparaît plus d'une fois dans
 l'ensemble d'un tome doit être reformulée avant soumission au jury — c'est le
 seul réflexe qui aurait évité la majorité des allers-retours de ce tome 1.
+
+---
+
+## Tome 2 — preuve que la méthode fonctionne
+
+**Session 1 du tome 2 (chapitres 1-6) : 8,6/10 dès le premier passage jury,
+9,1/10 (ACCEPTÉ) au deuxième.** Contre 4 passages nécessaires pour le tome 1.
+La différence : le grep de contrôle qualité ci-dessus a été lancé pendant
+l'écriture, pas seulement à la fin, et les réflexes anti-tics ont été
+appliqués dès le premier jet plutôt qu'en correction rétroactive.
+
+**Confirmation de la leçon la plus importante : écrire juste du premier
+coup coûte moins cher que corriger après coup.** À reproduire pour chaque
+nouveau tome et chaque nouvelle session : relire ce fichier ENTIER avant
+d'écrire, et lancer le grep de contrôle après chaque chapitre (pas
+seulement en fin de session).
+
+**Points de vigilance mineurs identifiés sur le tome 2 (à surveiller pour
+tous les tomes futurs) :**
+- Les formules d'intériorité du type « sans le dire (à voix haute /
+  ouvertement) », « songea X sans le dire » sont un nouveau motif à
+  surveiller — pas encore dans la liste des tics bannis, mais elles peuvent
+  se répéter tout aussi facilement que « avec un(e) + nom ». Limiter à 1-2
+  occurrences par tome, jamais 2 fois dans le même chapitre.
+- Quand un personnage a un tic verbal défini dans la bible (ex. Sofia
+  « Attends, sérieux ? », Souly qui compte sous stress), l'utiliser au moins
+  une fois dès les premiers chapitres d'un nouveau tome — sinon le jury le
+  remarque comme une occasion manquée de continuité de personnage.
+- Quand une intrigue combine plusieurs mécanismes de sabotage/tromperie
+  différents (ex. tome 2 : seuil de capteur relevé ET données republiées
+  falsifiées), le dire une fois explicitement à voix haute par un
+  personnage, sinon un jeune lecteur méticuleux peut s'y perdre.

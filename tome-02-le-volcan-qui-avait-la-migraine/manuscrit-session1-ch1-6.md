@@ -1,7 +1,7 @@
 # Sofia & Souly
 ## Tome 2 — Le Volcan qui avait la migraine
 
-*(Manuscrit en cours — Session 1 (tome 2), chapitres 1 à 6, v2 après jury 8,6/10)*
+*(Session 1 (tome 2) — chapitres 1 à 6 sur 12 — VALIDÉ par le jury indépendant : 9,1/10)*
 
 # Chapitre 1 — Le camion, le tremblement et le chat borgne
 
@@ -776,9 +776,9 @@ J'en ai lu peut-être une boîte sur dix. C'est un travail pour toute une
 vie, pas pour un été.
 
 Souly regarda les rangées de boîtes, puis regarda Léna, puis Sofia, et une
-idée commença visiblement à germer derrière son front plissé, la même
-expression exacte, songea Sofia sans le dire à voix haute, qu'il prenait
-chaque fois qu'un début d'enquête pointait le bout de son nez.
+idée commença visiblement à germer derrière son front plissé — Sofia
+reconnut immédiatement cette expression-là, toujours la même, chaque fois
+qu'un début d'enquête pointait le bout de son nez.
 
 — Et si on cherchait juste les mentions du Grand Sombre ? proposa-t-il. Pas
 tout lire. Juste chercher ce mot-là, et les mots qui vont avec — tremblement,
@@ -1432,15 +1432,20 @@ ait l'air sage.
 
 — Donc c'est fait exprès, dit Sofia.
 
-— Ça y ressemble beaucoup, dit Karim.
+— Ça y ressemble beaucoup, dit Karim. Et ça expliquerait deux choses à la
+fois : le seuil de sensibilité relevé sur le capteur, pour que les petites
+secousses n'apparaissent même plus dans les relevés bruts — et, en plus de
+ça, des chiffres encore rabotés une deuxième fois avant publication, au
+cas où une secousse plus grosse passerait quand même à travers les
+mailles du filet.
 
 ---
 
 Ils passèrent le reste de l'après-midi à comparer, ligne par ligne, chaque
 secousse enregistrée depuis la soirée des Thermes, Souly recopiant chaque
-paire de chiffres dans son carnet avec une minutie qui aurait impressionné,
-songea Sofia sans le dire, n'importe quel vrai policier scientifique. Le
-motif, une fois assemblé, ne laissait plus beaucoup de place au doute :
+paire de chiffres dans son carnet avec une minutie qui aurait impressionné
+n'importe quel vrai policier scientifique. Le motif, une fois assemblé, ne
+laissait plus beaucoup de place au doute :
 chaque secousse publique paraissait exactement, systématiquement, plus
 faible que sur les données brutes — jamais assez pour paraître suspect à
 un œil non averti, mais toujours assez pour rassurer un public qui ne

@@ -158,9 +158,9 @@ J'en ai lu peut-être une boîte sur dix. C'est un travail pour toute une
 vie, pas pour un été.
 
 Souly regarda les rangées de boîtes, puis regarda Léna, puis Sofia, et une
-idée commença visiblement à germer derrière son front plissé, la même
-expression exacte, songea Sofia sans le dire à voix haute, qu'il prenait
-chaque fois qu'un début d'enquête pointait le bout de son nez.
+idée commença visiblement à germer derrière son front plissé — Sofia
+reconnut immédiatement cette expression-là, toujours la même, chaque fois
+qu'un début d'enquête pointait le bout de son nez.
 
 — Et si on cherchait juste les mentions du Grand Sombre ? proposa-t-il. Pas
 tout lire. Juste chercher ce mot-là, et les mots qui vont avec — tremblement,
