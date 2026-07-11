@@ -121,8 +121,9 @@ un peu figé de quelqu'un qui calcule déjà, mentalement, le prix de
 plusieurs caisses de fruits de mer détruites. Nos machines restent
 parmi les plus sûres du marché, je vous assure.
 
-La mère de Noah, elle, contemplait son stand dévasté en silence, les bras
-croisés, ce qui n'annonçait rien de bon pour la suite de la soirée.
+La mère de Noah, elle, contemplait son stand dévasté en silence, une
+caisse de crevettes intacte serrée contre sa hanche, ce qui n'annonçait
+rien de bon pour la suite de la soirée.
 
 C'est le lendemain matin, alors que Sofia et Souly aidaient Fara à
 préparer le matériel pour une nouvelle sortie d'inspection du récif,

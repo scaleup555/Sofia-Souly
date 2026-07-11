@@ -378,6 +378,26 @@ explicitement les phrases qui suivent un même schéma grammatical
 réutilisé pour des personnages/scènes différents, en plus du grep sur
 formulations exactes.**
 
+**Suite (rapport livre-complet v2→v3) : le même défaut existait encore
+sous une forme plus fondamentale.** Deux gabarits supplémentaires ont
+été trouvés lors de la relecture suivante, alors même que toutes les
+formulations déjà signalées étaient corrigées : « les bras croisés,
+[direction du regard] » réutilisé pour 3 personnages différents (une
+variante plus large du gabarit « regard fixé sur X plutôt que sur Y »
+déjà signalé — la partie « bras croisés » du motif avait survécu
+intacte pendant que seule sa suite était reformulée), et surtout « X
+sentit [emotion abstraite] [verbe de déplacement] [partie du corps] »
+(« colère... monter aux joues », « terreur... remonter du fond du
+ventre », « soulagement... traverser la poitrine ») — soit exactement
+la même famille structurelle que « cœur battant » / « frisson parcourut
+l'échine », déjà bannie depuis la session 1, mais reproduite avec des
+mots différents à chaque fois, donc invisible à un grep de formulation
+exacte. **Leçon renforcée : quand on corrige un gabarit, vérifier qu'on
+n'a pas seulement reformulé sa moitié la plus visible en laissant
+l'autre moitié intacte, et généraliser la vigilance à toute la FAMILLE
+de tics (« émotion mise en scène comme objet qui se déplace dans le
+corps »), pas seulement aux exemples précis déjà cités par un rapport.**
+
 **Point non bloquant à trancher consciemment pour la session 2 :**
 longueur des chapitres nettement sous la cible (~1 100 mots/chapitre vs
 ~3 300 visés, soit un tome complet projeté à ~13 200 mots au lieu de

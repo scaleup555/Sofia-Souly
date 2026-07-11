@@ -38,9 +38,8 @@ rang, en se levant à moitié. On a des témoins. Son bateau, près de la
 zone abîmée, à l'aube, deux fois cette semaine.
 
 M. Técher ne répondit rien, le menton un peu plus bas, les épaules un peu
-plus tassées, et Sofia sentit une colère franche lui monter aux joues, la
-même qu'elle avait ressentie la nuit où elle avait écrit sa promesse dans
-son carnet.
+plus tassées, et Sofia serra les poings, la même colère franche qu'elle
+avait ressentie la nuit où elle avait écrit sa promesse dans son carnet.
 
 — Excusez-moi, dit-elle, en se levant carrément de sa chaise, sans
 attendre la permission de personne.

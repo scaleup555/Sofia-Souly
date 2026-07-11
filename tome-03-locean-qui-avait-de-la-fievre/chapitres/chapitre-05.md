@@ -88,8 +88,8 @@ prêt à croire le pire sur mon père, sans même vérifier.
 ---
 
 Le trajet du retour se fit dans un silence tendu, Noah installé à
-l'avant du bateau, les bras croisés, obstinément tourné vers l'horizon.
-Sofia, qui détestait par-dessus tout les silences trop longs, finit par
+l'avant du bateau, obstinément tourné vers l'horizon. Sofia, qui
+détestait par-dessus tout les silences trop longs, finit par
 s'approcher de lui, prudemment, une fois
 le bateau amarré.
 

@@ -127,10 +127,9 @@ mais claire. Toutes les nuits où il n'y a pas trop de lune. Il dit que ça
 fait gagner une demi-heure sur les bouées officielles, et qu'une demi-
 heure, sur une saison entière, ça représente beaucoup d'argent.
 
-Souly, encore secoué par la traversée, sentit malgré tout un vrai
-soulagement lui traverser la poitrine — celui d'entendre, enfin, une
-vérité prononcée à voix haute, par la bonne personne, devant les bons
-témoins.
+Souly, encore secoué par la traversée, relâcha enfin les épaules,
+soulagé d'entendre une vérité prononcée à voix haute, par la bonne
+personne, devant les bons témoins.
 
 — Il faudra le répéter demain, dit-il. Devant les autorités.
 

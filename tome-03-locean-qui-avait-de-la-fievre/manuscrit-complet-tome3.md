@@ -647,8 +647,9 @@ un peu figé de quelqu'un qui calcule déjà, mentalement, le prix de
 plusieurs caisses de fruits de mer détruites. Nos machines restent
 parmi les plus sûres du marché, je vous assure.
 
-La mère de Noah, elle, contemplait son stand dévasté en silence, les bras
-croisés, ce qui n'annonçait rien de bon pour la suite de la soirée.
+La mère de Noah, elle, contemplait son stand dévasté en silence, une
+caisse de crevettes intacte serrée contre sa hanche, ce qui n'annonçait
+rien de bon pour la suite de la soirée.
 
 C'est le lendemain matin, alors que Sofia et Souly aidaient Fara à
 préparer le matériel pour une nouvelle sortie d'inspection du récif,
@@ -750,8 +751,8 @@ prêt à croire le pire sur mon père, sans même vérifier.
 ---
 
 Le trajet du retour se fit dans un silence tendu, Noah installé à
-l'avant du bateau, les bras croisés, obstinément tourné vers l'horizon.
-Sofia, qui détestait par-dessus tout les silences trop longs, finit par
+l'avant du bateau, obstinément tourné vers l'horizon. Sofia, qui
+détestait par-dessus tout les silences trop longs, finit par
 s'approcher de lui, prudemment, une fois
 le bateau amarré.
 
@@ -957,9 +958,8 @@ rang, en se levant à moitié. On a des témoins. Son bateau, près de la
 zone abîmée, à l'aube, deux fois cette semaine.
 
 M. Técher ne répondit rien, le menton un peu plus bas, les épaules un peu
-plus tassées, et Sofia sentit une colère franche lui monter aux joues, la
-même qu'elle avait ressentie la nuit où elle avait écrit sa promesse dans
-son carnet.
+plus tassées, et Sofia serra les poings, la même colère franche qu'elle
+avait ressentie la nuit où elle avait écrit sa promesse dans son carnet.
 
 — Excusez-moi, dit-elle, en se levant carrément de sa chaise, sans
 attendre la permission de personne.
@@ -1321,10 +1321,9 @@ mais claire. Toutes les nuits où il n'y a pas trop de lune. Il dit que ça
 fait gagner une demi-heure sur les bouées officielles, et qu'une demi-
 heure, sur une saison entière, ça représente beaucoup d'argent.
 
-Souly, encore secoué par la traversée, sentit malgré tout un vrai
-soulagement lui traverser la poitrine — celui d'entendre, enfin, une
-vérité prononcée à voix haute, par la bonne personne, devant les bons
-témoins.
+Souly, encore secoué par la traversée, relâcha enfin les épaules,
+soulagé d'entendre une vérité prononcée à voix haute, par la bonne
+personne, devant les bons témoins.
 
 — Il faudra le répéter demain, dit-il. Devant les autorités.
 
