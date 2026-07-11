@@ -79,6 +79,17 @@ Tout nouvel épisode doit relire ce fichier avant d'écrire une ligne.
   ordinateur au pire moment possible.
 - Personnage-ressource pour tout tome futur à thème scientifique/terrain.
 
+### Farida « Fara » Payet (introduite au tome 3)
+- Amie de Camille depuis l'école d'infirmières — a changé de voie en cours
+  de route pour devenir biologiste marine. La quarantaine, rit très fort,
+  ne porte que des vêtements qui ont fini, un jour ou l'autre, mouillés.
+- Dirige une petite station de recherche sur le lagon d'Anse-Bleue, à La
+  Réunion. Étudie la santé des récifs coralliens.
+- A un mainate (oiseau) apprivoisé, Bassin, qui répète des bribes de ses
+  propres phrases scientifiques, souvent hors contexte et toujours au
+  mauvais moment.
+- Personnage-ressource pour tout tome futur à thème marin/environnemental.
+
 ## Règle d'or de continuité
 - Les faits établis dans un tome (âges, liens de parenté, peurs, habitudes) ne
   doivent JAMAIS être contredits dans un tome suivant.
