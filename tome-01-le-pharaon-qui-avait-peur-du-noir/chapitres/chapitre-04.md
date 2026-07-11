@@ -24,9 +24,9 @@ ridicule », avait-il annoncé, avant de passer quand même vingt bonnes minutes
 devant le miroir de la salle de bain à essayer différents angles pour le bandeau.
 
 Au centre de la grande salle, entre la vitrine de Néfrit et le buffet, Mme Bamba
-avait installé — sur une suggestion enthousiaste de Julien, qui avait promis de
-s'en occuper personnellement — un grand sarcophage en carton peint, assez large
-pour qu'un enfant y entre, doré et bleu, avec un visage stylisé peint sur le
+avait installé un grand sarcophage en carton peint, sur une suggestion
+enthousiaste de Julien, qui avait promis de s'en occuper personnellement. Assez
+large pour qu'un enfant y entre, doré et bleu, avec un visage stylisé peint sur le
 couvercle, destiné à servir de photobooth pour les visiteurs.
 
 Théo, déguisé en ce qu'il appelait fièrement « un archéologue du futur qui a
@@ -99,9 +99,8 @@ ans et je suis pas content ».
 sérieusement à regretter chaque décision de sa courte existence l'ayant mené
 jusqu'à ce carton.
 
-C'est à cet instant précis — comme si l'univers entier avait attendu ce moment
-exact pour organiser sa blague la plus cruelle — que toutes les lumières de la
-salle s'éteignirent d'un coup.
+C'est à cet instant précis, évidemment, que toutes les lumières de la salle
+s'éteignirent d'un coup.
 
 Un silence stupéfait, suivi immédiatement d'une explosion de cris, de rires
 nerveux et d'exclamations diverses, envahit la pièce plongée dans le noir. Quelque
@@ -111,9 +110,9 @@ allumées, se cogna violemment contre une table et poussa un cri qui n'avait, su
 le moment, absolument rien de divin.
 
 Et dans l'obscurité totale, Souly, debout dans le sarcophage en carton, sentit la
-panique familière lui serrer la gorge — cette panique précise, ancienne, qu'il
-connaissait par cœur depuis toujours et qu'il détestait de tout son être — et,
-en voulant reculer d'un pas instinctif pour sortir de la boîte, se prit les pieds
+panique familière lui serrer la gorge. Cette panique-là, il la connaissait par
+cœur depuis toujours et la détestait de tout son être. En voulant reculer d'un
+pas instinctif pour sortir de la boîte, il se prit les pieds
 dans le rebord en carton du sarcophage et bascula en arrière avec un bruit sourd,
 entraînant dans sa chute tout l'accessoire, qui s'effondra sur lui dans un
 craquement spectaculaire de carton froissé.
@@ -132,8 +131,8 @@ pour que chacun puisse voir, également, Souly, allongé au milieu d'un tas de c
 doré, un couvercle de sarcophage peint posé de travers sur son visage, une jambe
 en l'air, le bandeau doré glissé sur un œil.
 
-Le rire qui suivit — un rire général, immédiat, à moitié soulagé et à moitié
-franchement hilare — fut probablement, songea Souly plus tard une fois remis de
+Le rire qui suivit fut général, immédiat, à moitié soulagé et à moitié
+franchement hilare. C'était, songea Souly plus tard une fois remis de
 l'expérience, le rire le plus fort jamais entendu dans l'histoire du musée de
 Bellerive-sur-Loire. Même Mme Bamba, qui accourait déjà avec sa lampe torche
 d'urgence, dut se mordre la lèvre très fort pour ne pas éclater de rire elle-même
@@ -176,11 +175,10 @@ suis fâché, et ce taboulé est la meilleure chose que j'aie vue de toute la
 soirée.
 
 Max, encore hilare, leur tendit machinalement son téléphone pour leur montrer la
-photo de plus près, et pour la première fois depuis leur rencontre sur le
-trottoir devant le musée, trois jours plus tôt, il n'y eut, l'espace d'un instant,
-plus la moindre trace de rivalité entre eux — juste trois enfants qui riaient
-ensemble d'un dieu égyptien couvert de persil, dans une salle qui allait, quelques
-minutes plus tard, redevenir beaucoup moins drôle.
+photo de plus près. Pour la première fois depuis leur rencontre sur le trottoir
+devant le musée, trois jours plus tôt, il n'y eut plus la moindre trace de
+rivalité entre eux : juste trois enfants qui riaient ensemble d'un dieu égyptien
+couvert de persil.
 
 ---
 
@@ -203,8 +201,7 @@ festif.
 entendu venir, avec l'air d'un gamin qui vient de repérer un animal rare dans son
 habitat naturel. Regarde comme il traîne près de la réserve. Encore.
 
-L'homme, remarquant sans doute qu'on l'observait, tourna brièvement la tête vers
-eux. Il avait un visage anguleux, des sourcils épais, et une expression qui aurait
+L'homme sentit leurs regards et tourna brièvement la tête vers eux. Il avait un visage anguleux, des sourcils épais, et une expression qui aurait
 pu vouloir dire absolument n'importe quoi — de l'ennui profond à la préparation
 minutieuse d'un crime — mais qui, dans le contexte d'une salle entière convaincue
 qu'une malédiction planait sur elle, ne pouvait évidemment vouloir dire qu'une
@@ -256,9 +253,9 @@ qu'elle vit l'expression sur le visage des deux enfants.
 Il n'est plus dans la vitrine.
 
 Mme Bamba se figea. Elle traversa la salle presque en courant, ses talons
-claquant sur le parquet, et se pencha sur la vitrine avec une expression qui
-passa, en l'espace de trois secondes, de l'espoir qu'il s'agissait d'une erreur, à
-la confirmation glaçante que non, ce n'en était pas une.
+claquant sur le parquet, et se pencha sur la vitrine. Son visage passa, en
+l'espace de trois secondes, de l'espoir qu'il s'agissait d'une erreur à la
+confirmation glaçante que non, ce n'en était pas une.
 
 — Il a disparu, souffla-t-elle. Il était là ce matin, je l'ai vérifié moi-même
 pendant l'inventaire de midi.
@@ -274,8 +271,8 @@ un truc bizarre depuis le début de la soirée, je vous jure, une sorte de
 présence », et, au milieu de cette agitation grandissante, une seule personne qui
 semblait totalement, remarquablement calme.
 
-Julien, un plateau vide à la main, s'approcha du petit groupe avec une expression
-de sincère consternation.
+Julien s'approcha du petit groupe, un plateau vide à la main, l'air sincèrement
+consterné.
 
 — C'est affreux, dit-il. Je peux vérifier les enregistrements de la caméra de
 sécurité, si vous voulez, Mme Bamba. Ça pourrait nous montrer exactement ce qui
@@ -284,18 +281,19 @@ s'est passé pendant la coupure.
 — Bonne idée, dit Mme Bamba, visiblement soulagée d'avoir enfin une action
 concrète à entreprendre. Fais ça dès ce soir, s'il te plaît, Julien.
 
-— Je m'en occupe personnellement, dit-il avec un sourire rassurant, avant de
-s'éloigner vers le bureau de sécurité d'un pas tranquille, absolument pas pressé,
-comme quelqu'un qui n'a strictement rien à craindre de ce que cette caméra
-pourrait avoir filmé.
+— Je m'en occupe personnellement, dit-il, rassurant, avant de s'éloigner vers le
+bureau de sécurité d'un pas tranquille.
 
-Souly le regarda s'éloigner, et pour la première fois depuis le début de cette
-histoire, une pensée précise, nette, presque inconfortable, se forma clairement
-dans son esprit — une pensée qu'il nota aussitôt, en lettres serrées, tout en bas
-d'une page de son Carnet des Preuves, entre le nom de Vasploix et la mention de la
-lumière allumée deux soirs plus tôt :
+Souly le regarda s'éloigner. C'était normal, après tout : Julien connaissait le
+système mieux que quiconque, il était logique que ce soit lui qui s'en occupe.
+Et pourtant, quelque chose dans cette logique-là le chiffonnait. Une pièce de
+puzzle qui rentre presque parfaitement à sa place, mais pas tout à fait. Il
+nota, en lettres serrées, tout en bas d'une page de son Carnet des Preuves,
+entre le nom de Vasploix et la
+mention de la lumière allumée deux soirs plus tôt :
 
-« Pourquoi Julien propose toujours de s'occuper personnellement de la caméra ? »
+« Julien : toujours celui qui s'occupe de la caméra. Vasploix : toujours celui
+qu'on accuse en premier. Un des deux, c'est trop pratique. Lequel ? »
 
 ---
 
@@ -305,9 +303,9 @@ enjouée, répétant que « tout cela avait sûrement une explication parfaiteme
 raisonnable », sans grande conviction, tandis que la journaliste de La Voix de la
 Loire griffonnait dans son carnet avec un enthousiasme qui ne présageait rien de
 bon pour le titre du prochain article. Sofia l'entendit même murmurer, toute
-seule, en essayant plusieurs formulations : « La malédiction du Nil frappe de
-nouveau à Bellerive »... non, trop long... « Bellerive maudite ? »... voilà, ça,
-c'était accrocheur.
+seule, en essayant plusieurs formulations : « La malédiction du jeune pharaon
+frappe de nouveau à Bellerive »... non, trop long... « Le pharaon se venge ? »...
+voilà, ça, c'était accrocheur.
 
 — Elle va vraiment écrire ça, la malédiction ? demanda Sofia, horrifiée.
 
@@ -326,11 +324,10 @@ musée. Après cent douze ans d'existence.
 
 Personne ne trouva rien à répondre à ça. Même Sofia, qui trouvait généralement
 quelque chose à dire à peu près n'importe quand, resta silencieuse, la couronne de
-pharaonne en plastique soudain un peu ridicule sur sa tête, tandis qu'autour
-d'eux, la soirée se vidait doucement, les invités costumés partant par petits
-groupes en chuchotant, jetant des regards inquiets vers la vitrine de Néfrit
-comme si la petite momie de chat, immobile depuis trois mille ans, pouvait à tout
-moment se redresser et exiger des comptes.
+pharaonne en plastique soudain un peu ridicule sur sa tête. Autour d'eux, la
+soirée se vidait doucement, les invités costumés partant par petits groupes en
+chuchotant, jetant des regards inquiets vers la vitrine de Néfrit, immobile
+depuis trois mille ans et parfaitement indifférente à tout ce raffut.
 
 Sofia glissa sa main dans celle de Souly, un geste qu'elle ne faisait presque
 plus jamais depuis qu'elle avait décrété, l'année précédente, qu'elle était « trop

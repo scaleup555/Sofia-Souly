@@ -23,10 +23,10 @@ mesdames et messieurs. »
 — Parce qu'elles n'existent pas, dit Souly. Concentre-toi. Feuille et feutres,
 tu fais la chronologie. Moi, je fais la liste des suspects.
 
-Mamie Rose, qui préparait des tartines à quelques pas de là en faisant semblant de
-ne pas écouter — ce qu'elle faisait très mal, puisqu'elle avait déjà arrêté de
-beurrer son pain depuis deux bonnes minutes pour mieux tendre l'oreille — laissa
-échapper un petit rire.
+Mamie Rose, qui préparait des tartines à quelques pas de là, faisait semblant de
+ne pas écouter. Elle le faisait très mal : elle avait arrêté de beurrer son pain
+depuis deux bonnes minutes pour mieux tendre l'oreille. Elle laissa échapper un
+petit rire.
 
 — Vous savez que ce n'est pas franchement votre travail, tout ça, dit-elle. Il y
 a des adultes pour s'occuper de ces choses.
@@ -37,9 +37,9 @@ fait de la science sur les hiéroglyphes.
 
 — Ce qui, remarqua Souly, laisse le champ libre pour une vraie enquête.
 
-Mamie Rose les regarda un moment, ses deux petits-enfants penchés sur la table,
-Sofia dessinant une frise chronologique avec un sérieux d'artiste, Souly
-griffonnant des noms dans son carnet en fronçant les sourcils, et elle sourit
+Mamie Rose les regarda un moment, ses deux petits-enfants penchés sur la table :
+Sofia, la langue coincée entre les dents, dessinait sa frise chronologique ;
+Souly griffonnait des noms dans son carnet en fronçant les sourcils. Elle sourit
 d'un sourire qu'elle ne montra à personne, un sourire un peu fier, un peu
 inquiet, celui d'une grand-mère qui sait très bien qu'elle ne pourra jamais les
 empêcher de suivre une piste une fois qu'ils en ont flairé une, et qui a
@@ -105,9 +105,9 @@ Ce qui, techniquement, n'était pas complètement faux.
 
 ---
 
-Ils passèrent l'après-midi à faire ce que Souly appelait, avec un sérieux qui
-frisait le ridicule sans jamais tout à fait basculer dedans, « une reconnaissance
-de terrain ». Le musée était fermé le samedi après-midi pour ce que Mme Bamba
+Ils passèrent l'après-midi à faire ce que Souly, sans le moindre sourire,
+appelait « une reconnaissance de terrain ». Le musée était fermé le samedi
+après-midi pour ce que Mme Bamba
 appelait officiellement « une inspection technique de l'installation
 électrique », et officieusement, tout le monde en ville savait qu'il s'agissait
 surtout de calmer une conservatrice au bord de la crise de nerfs.
@@ -202,9 +202,9 @@ l'ordinateur de son bureau.
 — Seulement, dit Max en levant un doigt solennel, si vous me laissez signer le
 Carnet des Preuves comme troisième enquêteur officiel.
 
-Souly hésita — c'était SON carnet, après tout, celui qu'il avait commencé bien
+Souly hésita. C'était SON carnet, après tout, celui qu'il avait commencé bien
 avant que Max ne devienne autre chose qu'un garçon agaçant avec une casquette à
-l'envers — mais Sofia, elle, n'hésita pas une seconde.
+l'envers. Sofia, elle, n'hésita pas une seconde.
 
 — Marché conclu, dit-elle en tendant la main pour sceller l'accord, avant même que
 Souly ait pu émettre le moindre avis sur la question.
@@ -330,11 +330,11 @@ Pendant de longues minutes, rien : des voitures qui se garaient, des invités
 costumés qui entraient dans le musée en riant, le boulanger déguisé en momie qui
 trébuchait sur le trottoir et se relevait tout seul avec dignité.
 
-Puis, à l'heure exacte de la deuxième coupure de courant — Souly vérifia trois
-fois l'horodatage affiché en bas de l'écran pour être absolument certain —, une
-silhouette apparut sur le côté du bâtiment, près de la fenêtre de la réserve,
-juste à l'endroit exact où ils avaient trouvé l'empreinte de chaussure quelques
-heures plus tôt.
+Souly vérifia trois fois l'horodatage affiché en bas de l'écran pour être
+absolument certain. Puis, à l'heure exacte de la deuxième coupure de courant,
+une silhouette apparut sur le côté du bâtiment, près de la fenêtre de la
+réserve, juste à l'endroit où ils avaient trouvé l'empreinte de chaussure
+quelques heures plus tôt.
 
 La qualité de l'image était mauvaise, grise et pixelisée, la silhouette à
 contre-jour, impossible à identifier avec certitude. Mais une chose, au moins,

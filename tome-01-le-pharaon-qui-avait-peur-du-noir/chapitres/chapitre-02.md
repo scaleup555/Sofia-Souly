@@ -1,8 +1,8 @@
 # Chapitre 2 — La chatte qui n'était pas un pharaon
 
 Le lendemain matin, il y avait plus de monde devant le musée de Bellerive-sur-Loire
-qu'il n'y en avait probablement jamais eu de toute l'histoire du bâtiment, cérémonies
-de mariage à la mairie voisine comprises.
+qu'il n'y en avait jamais eu de toute l'histoire du bâtiment, cérémonies de
+mariage à la mairie voisine comprises.
 
 Sofia comptait les têtes en silence, ce qui pour elle représentait un effort
 surhumain, et arriva à un chiffre qu'elle jugea impressionnant : au moins quarante
@@ -29,9 +29,9 @@ Sur le perron, une femme les attendait, un carnet serré contre sa poitrine, des
 boucles d'oreilles en forme de flamants roses qui se balançaient à chaque
 mouvement de tête. C'était Mme Bamba. Sofia la reconnut immédiatement pour l'avoir
 aperçue la veille derrière la vitre, mais de près, elle paraissait à la fois plus
-petite et plus impressionnante qu'à travers une fenêtre — elle avait cette façon de
-se tenir très droite, comme quelqu'un qui porte quelque chose de lourd sur les
-épaules sans jamais le montrer.
+petite et plus impressionnante qu'à travers une fenêtre. Elle se tenait très
+droite, de cette façon qu'ont certains adultes de porter quelque chose de lourd
+sur les épaules sans jamais le montrer.
 
 — Théo, s'il te plaît, dis-moi que tu as vérifié la température de transport, dit
 Mme Bamba en guise de bonjour, avant même que la caisse ait atteint la première
@@ -55,8 +55,9 @@ Souly, qui se tenait juste assez près, l'entendit très bien.
 À ce moment précis, un garçon fendit la foule en jouant des coudes, un appareil
 photo bon marché pendu autour du cou, une casquette vissée sur la tête à l'envers
 avec un air qu'il devait pratiquer devant son miroir. Il s'arrêta pile devant Sofia
-et Souly, les toisa de haut en bas, remarqua sans doute les baskets dépareillées de
-Sofia, et ne dit rien à ce sujet, ce qui était en soi suspect.
+et Souly, les toisa de haut en bas. Son regard s'arrêta une demi-seconde sur les
+baskets dépareillées de Sofia. Il ne dit rien à ce sujet, ce qui était en soi
+suspect.
 
 — C'est vous les petits-neveux du professeur Duchêne ? demanda-t-il. Mon père,
 c'est le maire. Maxence Ferron. On m'appelle Max.
@@ -95,9 +96,8 @@ que Théo avait lui-même prises pendant ses missions. Au centre de la salle, so
 grande vitrine vide, en attente.
 
 C'est là que la caisse fut ouverte, sur une table recouverte d'un drap noir, sous
-les yeux d'une foule qui retenait son souffle avec une intensité que Sofia trouvait
-presque comique — comme si les gens espéraient secrètement qu'un fantôme allait
-en jaillir.
+les yeux d'une foule qui retenait son souffle. Sofia trouvait ça presque
+comique : la moitié de la ville semblait prête à voir un fantôme en jaillir.
 
 Un jeune homme se tenait juste à côté de Mme Bamba, prêt à l'aider, un pied de
 biche léger à la main pour desserrer les dernières attaches. Il avait les cheveux
@@ -143,8 +143,14 @@ pour nos chercheurs. Un fragment couvert de hiéroglyphes, trouvé enroulé sép
 autour du corps de la momie, presque comme une lettre glissée dans une enveloppe.
 Nous n'avons pas encore eu le temps de le traduire entièrement.
 
-— Et si c'est une malédiction ? lança une voix dans la foule, mi-rieuse,
-mi-sérieuse.
+— C'est écrit sur son tombeau, à ce jeune pharaon ? lança une voix dans la foule,
+mi-rieuse, mi-sérieuse. Genre une malédiction ?
+
+— C'est pas un pharaon, c'est un chat, corrigea aussitôt un enfant au premier
+rang, mais personne ne l'écouta : le mot « pharaon » venait déjà de se répandre
+dans la salle plus vite que n'importe quelle correction, sautant d'une
+conversation à l'autre, gagnant à chaque fois un peu plus de certitude qu'il n'en
+avait au départ.
 
 Quelques rires. Théo leva les mains en un geste apaisant, amusé.
 
@@ -176,9 +182,8 @@ mais dont la main, posée sur le rebord de la vitrine, tremblait légèrement. L
 bâtiment est vieux, l'installation électrique aussi. Rien d'inquiétant.
 
 — C'est exactement ce que dirait quelqu'un qui essaie de cacher une malédiction,
-chuchota Max Ferron à l'oreille de Souly, avec un sourire qui montrait qu'il
-n'y croyait pas vraiment lui-même, mais qu'il trouvait la phrase trop bonne pour
-ne pas la dire.
+chuchota Max Ferron à l'oreille de Souly. Il n'y croyait visiblement pas
+lui-même, mais trouvait la phrase trop bonne pour ne pas la dire.
 
 — C'est exactement ce que dirait quelqu'un qui a raison à propos d'un
 court-circuit, répondit Souly.
@@ -360,24 +365,24 @@ théories reposaient sur autre chose que des impressions.
 
 Il nota quand même le nom dans son carnet, à toutes fins utiles, juste en dessous
 de « Indice n° 1 ». « Vasploix — collectionneur — pose des questions. » Une note
-sans conclusion. C'était, décida-t-il, le genre de note qu'un vrai enquêteur devait
-savoir garder de côté, sans se précipiter, jusqu'à ce qu'elle trouve — ou non — sa
-place dans le reste de l'histoire.
+sans conclusion, décida-t-il. Un vrai enquêteur savait garder ce genre de piste
+de côté, sans se précipiter, en attendant de voir si elle trouvait sa place dans
+le reste de l'histoire.
 
-Ce qu'aucun d'eux ne savait encore, en repartant vers la maison de Mamie Rose sous
-le soleil de fin d'après-midi, c'est qu'au moment précis de la coupure de courant,
-une seule personne, dans toute la salle bondée du musée, n'avait ni crié ni
-sursauté ni cherché son téléphone pour éclairer la pénombre. Une seule personne
-avait su exactement où aller, dans le noir complet, sans hésiter une seconde.
+Sofia, elle, pensait déjà à autre chose. Pendant la panne, dans la bousculade
+générale, elle avait remarqué une silhouette qui ne s'était pas cognée dans les
+tables ni mise à crier comme tout le monde — quelqu'un qui s'était simplement
+écarté du groupe, tranquillement, comme s'il connaissait la salle par cœur même
+sans lumière, avant de revenir se mêler aux invités quelques instants plus tard.
+Elle n'aurait pas su dire qui. Il y avait trop de monde, trop de costumes, trop
+de bousculade pour être certaine de quoi que ce soit.
 
-Derrière eux, dans le brouhaha général de la salle qui retrouvait peu à peu son
-calme, personne ne remarqua Julien s'écarter discrètement du cercle de ses
-admirateurs, se diriger vers le tableau électrique dissimulé derrière un rideau
-au fond de la salle, l'ouvrir, y jeter un rapide coup d'œil, et le refermer avec un
-petit sourire satisfait avant de revenir se mêler à la foule comme si de rien
-n'était.
+— Souly, dit-elle. Il y avait quelqu'un qui n'avait pas peur du noir, tout à
+l'heure. Je sais pas qui. Mais il savait où il allait.
 
-Personne ne le remarqua. Sauf, peut-être, une caméra de surveillance poussiéreuse
-installée dans un coin du plafond, que personne n'avait pensé à vérifier depuis au
-moins deux ans, et qui continuait d'enregistrer, silencieuse et fidèle, tout ce qui
-se passait dans la grande salle du musée de Bellerive-sur-Loire.
+— Plein de gens travaillent ici, dit Souly. Ça pourrait être n'importe qui.
+
+— Ouais, dit Sofia, pas très convaincue. N'importe qui.
+
+Elle ajouta quand même la phrase, mot pour mot, tout en bas d'une page de son
+propre carnet, sous la photo de l'inscription. On ne sait jamais.

@@ -29,10 +29,10 @@ partie compte des poteaux.
 — C'est plus utile que de parler de chewing-gum pendant vingt minutes.
 
 Sofia se laissa retomber contre le dossier de son siège avec un soupir théâtral,
-le genre de soupir qu'elle avait appris en regardant sa maîtresse soupirer quand la
-classe faisait trop de bruit. À huit ans, Sofia savait déjà soupirer comme une
-adulte fatiguée. C'était l'une de ses nombreuses spécialités, avec le fait de poser
-des questions auxquelles personne ne savait répondre, et le fait de ramasser des
+exactement celui de sa maîtresse quand la classe faisait trop de bruit. À huit
+ans, Sofia savait déjà soupirer comme une adulte fatiguée. C'était l'une de ses
+nombreuses spécialités, avec le fait de poser des questions auxquelles personne
+ne savait répondre, et le fait de ramasser des
 cailloux qu'elle jugeait « importants » sans jamais expliquer pourquoi.
 
 Elle en avait un, justement, dans la poche de son short. Un caillou gris, plat, avec
@@ -68,9 +68,9 @@ café sur son ordinateur portable. Souly marmonna une excuse dans sa direction, 
 il le faisait toujours quand Sofia créait une scène — c'était devenu un réflexe, au
 fil des années, presque un métier à plein temps : « excuse-toi pour Sofia ».
 
-Sur le quai, l'accolade de Mamie Rose sentait la lavande et le pain d'épices, comme
-toujours, comme si elle avait un stock secret de ces deux odeurs qu'elle rechargeait
-chaque matin.
+Sur le quai, l'accolade de Mamie Rose sentait la lavande et le pain d'épices.
+Comme toujours. Une réserve secrète, quelque part dans sa cuisine, semblait ne
+jamais s'épuiser.
 
 — Mes chatons ! Comme vous avez grandi, c'est une honte, vous n'aviez pas le droit
 de grandir sans ma permission.
@@ -81,10 +81,10 @@ de grandir sans ma permission.
 
 — Et j'ai marché sur un chewing-gum.
 
-— C'est la vie qui commence bien, alors, dit Mamie Rose avec un sérieux absolu, et
-Sofia hocha la tête comme si cette phrase avait un sens profond, ce qui n'était
-absolument pas le cas, mais Mamie Rose avait ce talent particulier de dire n'importe
-quoi avec un aplomb qui rendait tout crédible.
+— C'est la vie qui commence bien, alors, dit Mamie Rose, imperturbable. Sofia
+hocha la tête, convaincue que cette phrase avait un sens profond. Elle n'en
+avait aucun. Mais Mamie Rose avait ce talent particulier de dire n'importe quoi
+avec un aplomb qui rendait tout crédible.
 
 Elle attrapa la valise de Souly avant qu'il ait le temps de protester, la posa sur
 le petit chariot qu'elle avait apporté — un chariot à provisions à roulettes, avec
@@ -110,24 +110,24 @@ qu'il ne rentre pas les mains vides.
 ---
 
 Grand-oncle Théo — Théophile Duchêne pour l'état civil, mais personne ne l'appelait
-jamais comme ça, sauf le facteur — était le frère de Mamie Rose, et sans doute
-l'adulte le plus étrange que Sofia et Souly connaissaient, ce qui, dans leur famille,
+jamais comme ça, sauf le facteur — était le frère de Mamie Rose, et l'adulte le
+plus étrange que Sofia et Souly connaissaient, ce qui, dans leur famille,
 n'était pas un compliment léger. Il avait été archéologue toute sa vie, spécialiste
 de l'Égypte ancienne, et même à la retraite, il continuait à partir en mission
 « deux ou trois mois par-ci par-là », comme il disait, comme s'il parlait d'aller
 acheter du pain.
 
 Il portait toujours le même gilet, un gilet beige à environ mille poches, dont
-personne n'avait jamais réussi à compter le nombre exact — Souly avait tenté une
-fois, était arrivé à vingt-trois, avait perdu le compte à cause d'une poche cachée
-dans une autre poche, et avait abandonné avec la ferme intention de recommencer un
-jour avec une méthode plus rigoureuse.
+personne n'avait jamais réussi à compter le nombre exact. Souly avait tenté une
+fois. Il était arrivé à vingt-trois, avait perdu le compte à cause d'une poche
+cachée dans une autre poche, et avait abandonné avec la ferme intention de
+recommencer un jour avec une méthode plus rigoureuse.
 
-Il oubliait où il garait sa voiture avec une régularité impressionnante — une fois,
-il avait mis quatre jours à la retrouver, et elle était garée devant chez lui depuis
-le début — mais il pouvait réciter de mémoire la liste des pharaons de la
-dix-huitième dynastie égyptienne sans se tromper d'un seul nom, dans l'ordre, et à
-l'envers si on le lui demandait pour l'embêter.
+Il oubliait où il garait sa voiture avec une régularité impressionnante. Une
+fois, il avait mis quatre jours à la retrouver ; elle était garée devant chez
+lui depuis le début. Mais il pouvait réciter de mémoire la liste des pharaons
+de la dix-huitième dynastie égyptienne sans se tromper d'un seul nom, dans
+l'ordre, et à l'envers si on le lui demandait pour l'embêter.
 
 Sofia et Souly le trouvèrent, ce soir-là, assis à la table de la cuisine de Mamie
 Rose, en train de manger des sablés au beurre directement dans la boîte en fer sur
@@ -236,10 +236,10 @@ Mamie Rose resta à faire la vaisselle en affirmant qu'elle connaissait Belleriv
 la lumière orange du soir.
 
 Bellerive-sur-Loire n'était pas une grande ville. Elle avait une place principale
-avec une fontaine qui ne fonctionnait qu'un jour sur deux — personne n'avait jamais
-compris pourquoi, y compris le maire — une boulangerie qui fermait à treize heures
-précises même s'il restait des clients dans la file, et un fleuve large et lent qui
-coulait juste derrière les maisons comme s'il n'était pas pressé d'aller nulle part.
+avec une fontaine qui ne fonctionnait qu'un jour sur deux, sans que personne
+comprenne pourquoi, pas même le maire. Une boulangerie fermait à treize heures
+précises même s'il restait des clients dans la file. Et un fleuve large et lent
+coulait juste derrière les maisons, pas pressé d'aller nulle part.
 Le musée municipal occupait un ancien hôtel particulier en pierre blonde, avec des
 volets bleus et un perron de trois marches, coincé entre la mairie et un magasin de
 farces et attrapes qui vendait, en vitrine, un assortiment permanent de fausses
@@ -290,7 +290,10 @@ un vieux navire depuis le rivage.
 — Demain, dit-il en reprenant la route vers la maison de Mamie Rose, tout ça va
 changer. Vous verrez.
 
-Il avait raison. Simplement, pas tout à fait de la façon qu'il imaginait.
+— Changer comment ? demanda Sofia.
+
+— Je ne sais pas encore, admit Théo avec un grand sourire. C'est ça, le plus
+excitant.
 
 ---
 
@@ -329,10 +332,10 @@ que seule une petite sœur remarque et que seul un grand frère espère invisibl
 — Je l'allume pour toi, dit Souly d'un ton qu'il voulait détaché. Tu as huit ans,
 tu as peut-être encore un peu peur du noir.
 
-— J'ai jamais eu peur du noir, dit Sofia, absolument sincère, parce que c'était la
-pure vérité — Sofia n'avait peur de rien, sauf des araignées à sept pattes et
-demie, ce qui n'existait probablement même pas, mais elle avait vu une araignée une
-fois qui semblait clairement en avoir seulement sept et demie, et cette image ne
+— J'ai jamais eu peur du noir, dit Sofia, absolument sincère, parce que c'était
+la pure vérité. Sofia n'avait peur de rien, sauf des araignées à sept pattes et
+demie — une espèce que personne d'autre n'avait jamais vue, mais elle, si, une
+fois, et cette image ne
 l'avait jamais quittée. Mais bon. Allume-la pour toi alors.
 
 Souly tendit le bras vers la table de nuit et pressa le petit bouton sous la
@@ -346,12 +349,11 @@ Il avait douze ans. Il savait que douze ans, c'était un âge où on n'était pl
 censé avoir besoin d'une veilleuse en forme de grenouille. Il avait essayé, l'année
 dernière, de dormir sans elle, une nuit entière, les yeux fermés très fort, en
 comptant des poteaux électriques imaginaires jusqu'à quatre cents quelque chose. Il
-n'avait pas réussi à s'endormir avant trois heures du matin, et il n'en avait parlé
-à personne, pas même à Sofia, même si Sofia, justement, dormait à côté de lui à ce
-moment-là et avait probablement tout deviné sans rien dire, parce que c'était
-souvent comme ça, entre eux : elle devinait, et elle ne disait rien, et lui faisait
-semblant qu'elle n'avait rien deviné, et ça leur convenait très bien à tous les
-deux.
+n'avait pas réussi à s'endormir avant trois heures du matin, et il n'en avait
+parlé à personne, pas même à Sofia — même si Sofia, justement, dormait à côté
+de lui cette nuit-là. C'était souvent comme ça, entre eux : elle devinait, et
+elle ne disait rien, et lui faisait semblant qu'elle n'avait rien deviné, et ça
+leur convenait très bien à tous les deux.
 
 — Bonne nuit, Souly.
 
@@ -365,19 +367,17 @@ deux.
 
 — C'était terrifiant.
 
-Sofia rit dans le noir, un petit rire étouffé dans son oreiller, et Souly sourit
-au plafond sans que personne ne le voie, ce qui était bien pratique, parce qu'il
-n'aimait pas qu'on le voie sourire pour des bêtises pareilles.
+Sofia rit dans le noir, un petit rire étouffé dans son oreiller. Souly sourit au
+plafond sans que personne ne le voie — il n'aimait pas qu'on le voie sourire pour
+des bêtises pareilles — et ferma les yeux, bercé par le bourdonnement lointain
+d'une voiture sur la route, puis par rien du tout.
 
-Dehors, quelque part sur la route nationale qui menait à Bellerive-sur-Loire, un
-camion roulait dans la nuit avec, dans sa remorque, une caisse en bois soigneusement
-calée entre des couvertures, scellée avec des rubans officiels et des tampons de
-douane, et à l'intérieur de cette caisse, enveloppée dans du papier de soie, une
-petite momie vieille de trois mille ans continuait son voyage vers une ville qui
-n'avait pas la moindre idée de tout ce que cette caisse allait bientôt déclencher.
+Sofia, elle, ne dormait pas encore tout à fait. Dans le noir doux de la
+veilleuse-grenouille, elle sortit son caillou porte-bonheur de sous son
+oreiller, le tourna trois fois entre ses doigts comme elle le faisait chaque
+soir depuis qu'elle l'avait trouvé, et murmura, si bas que même Souly ne
+l'entendit pas :
 
-La grenouille de Souly veillait sur la chambre toute la nuit, comme d'habitude. Elle
-ne pouvait pas savoir qu'à quelques kilomètres de là, quelque chose de bien plus
-ancien qu'elle allait, dans les jours qui venaient, avoir une histoire à raconter
-sur la peur du noir. Une histoire vieille de trois mille ans. Une histoire que
-personne, pour l'instant, ne savait encore lire.
+— Fais que demain, la momie de chat ait vraiment l'air d'un chat.
+
+Elle s'endormit avant même d'avoir fini de formuler un deuxième vœu.

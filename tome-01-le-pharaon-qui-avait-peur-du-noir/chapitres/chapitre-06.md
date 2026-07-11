@@ -18,11 +18,11 @@ qu'ils restent dans le jardin, « pas plus loin que la haie, c'est bien compris 
 qui, chez les adultes avertis, aurait dû immédiatement éveiller les soupçons.
 
 Le musée, à cette heure, était censé être complètement vide. Mme Bamba rentrait
-toujours chez elle avant vingt heures le dimanche, Théo dînait chez Mamie Rose ce
-soir-là — il était d'ailleurs en train, à l'intérieur de la maison, de raconter
-pour la troisième fois à Mamie Rose l'histoire du monsieur déguisé en Anubis et du
-saladier de taboulé, avec un enthousiasme qui ne faiblissait pas — et Julien
-n'avait, en théorie, aucune raison de s'y trouver un dimanche soir.
+toujours chez elle avant vingt heures le dimanche. Théo dînait chez Mamie Rose ce
+soir-là ; à l'intérieur de la maison, il racontait pour la troisième fois,
+toujours aussi enthousiaste, l'histoire du monsieur déguisé en Anubis et du
+saladier de taboulé. Et Julien n'avait, en théorie, aucune raison de se trouver
+au musée un dimanche soir.
 
 En théorie.
 
@@ -30,9 +30,9 @@ En théorie.
 étage.
 
 Une lumière venait de s'allumer. Pas la lumière franche et blanche des néons du
-bureau, mais une lumière plus petite, plus mobile, plus jaune — le genre de
-lumière qu'on associe immédiatement à une lampe de poche tenue à la main, et non
-à un interrupteur actionné normalement.
+bureau, mais une lumière plus petite, plus mobile, plus jaune : une lampe de
+poche, tenue à la main, et certainement pas un interrupteur actionné
+normalement.
 
 Souly sentit son cœur s'accélérer, cette fois pour une raison qui n'avait rien à
 voir avec le noir lui-même, et tout à voir avec ce que ce noir, cette fois,
@@ -45,8 +45,8 @@ pouvait bien cacher.
 — C'est vrai que c'est bizarre.
 
 La petite lumière se déplaça lentement le long de la fenêtre, disparut un
-instant, réapparut plus loin, comme si quelqu'un explorait la pièce méthodiquement,
-étagère par étagère.
+instant, réapparut plus loin. Quelqu'un explorait la pièce, étagère par
+étagère, méthodiquement.
 
 — On devrait le dire à Théo, dit Souly.
 
@@ -76,15 +76,15 @@ qu'il avait développée depuis des années pour cacher exactement cette peur-l�
 même à sa petite sœur, même dans le noir d'un jardin où personne d'autre
 n'aurait pu les entendre.
 
-Mais quelque chose dans la voix de Sofia — ce soir-là, dans ce jardin, avec cette
+Mais quelque chose dans la voix de Sofia, ce soir-là, dans ce jardin, avec cette
 lumière étrange qui continuait de se déplacer derrière une fenêtre qu'ils
-n'auraient pas dû surveiller — le fit changer d'avis.
+n'auraient pas dû surveiller, le fit changer d'avis.
 
 — Un peu, admit-il. Enfin. Beaucoup, en vrai.
 
-Sofia se tourna vers lui, surprise — pas par la révélation elle-même, qu'elle
-avait sans doute devinée depuis longtemps sans jamais rien dire, à sa manière
-habituelle, mais par le fait qu'il l'admette enfin à voix haute.
+Sofia se tourna vers lui, surprise. Pas par la révélation elle-même : elle
+l'avait devinée depuis longtemps, sans jamais rien dire, à sa manière
+habituelle. Mais par le fait qu'il l'admette enfin à voix haute.
 
 — Depuis quand ?
 
@@ -127,9 +127,9 @@ poursuivait son exploration méthodique de la pièce.
 
 ---
 
-C'est en sortant, presque par hasard, son téléphone à écran fissuré pour vérifier
-l'heure — il restait encore vingt minutes avant le couvre-feu fixé par Mamie
-Rose — que Sofia rouvrit sans le vouloir la photo qu'elle avait prise, cinq jours
+Il restait encore vingt minutes avant le couvre-feu fixé par Mamie Rose. En
+sortant, presque par hasard, son téléphone à écran fissuré pour vérifier
+l'heure, Sofia rouvrit sans le vouloir la photo qu'elle avait prise, cinq jours
 plus tôt, du fragment de bandelette dans sa vitrine, le premier jour, avant même
 que Théo ne l'enferme dans le coffre-fort de la réserve.
 
@@ -174,14 +174,13 @@ Ils se retournèrent tous les deux, d'un même geste, vers la fenêtre du premie
 
 La lumière avait disparu.
 
-Pas éteinte progressivement, comme si quelqu'un avait fini son travail et
-refermé la pièce derrière lui. Disparue d'un coup, exactement au moment précis
-où ils avaient cessé de la surveiller pour regarder l'écran du téléphone —
-comme si quelqu'un, à l'intérieur, avait su, avec une précision presque
-impossible, exactement quand leur attention s'était détournée.
+Pas éteinte progressivement, comme quand on referme une pièce derrière soi.
+Disparue d'un coup, exactement au moment précis où ils avaient cessé de la
+surveiller pour regarder l'écran du téléphone. Comme si, à l'intérieur,
+quelqu'un avait su exactement quand leur attention s'était détournée.
 
-Un frisson remonta le long du dos de Souly, un frisson qu'il choisit, cette
-fois, de ne pas cacher, de ne pas nier, simplement de ressentir pleinement, là,
+Un frisson remonta le long du dos de Souly. Cette fois, il choisit de ne pas le
+cacher, de ne pas le nier, simplement de le ressentir pleinement, là,
 debout dans le jardin de sa grand-mère, à côté de sa petite sœur, face à un
 musée plongé dans une obscurité soudaine et totale qui, pour la première fois de
 la semaine, ne lui sembla plus être un simple problème de câbles électriques.
@@ -199,11 +198,10 @@ amusante, venait peut-être de devenir quelque chose de beaucoup plus sérieux.
 — Théo, dit Souly, en reprenant son souffle du mieux qu'il pouvait, il faut qu'on
 te montre un truc. Sur la bandelette. Et sur le musée. Ce soir. Maintenant.
 
-Théo, remarquant enfin l'expression sur leurs visages, reposa sa fourchette sans
-un mot, et pour la première fois depuis leur arrivée à Bellerive-sur-Loire,
-Souly le vit — lui, l'archéologue increvable, l'homme qui plaisantait de tout, y
-compris des malédictions égyptiennes — paraître, l'espace d'un instant, sincèrement
-inquiet.
+Théo remarqua enfin l'expression sur leurs visages et reposa sa fourchette sans
+un mot. Pour la première fois depuis leur arrivée à Bellerive-sur-Loire, Souly le
+vit paraître sincèrement inquiet, lui, l'archéologue increvable, l'homme qui
+plaisantait de tout, y compris des malédictions égyptiennes.
 
 Sofia lui tendit son téléphone sans un mot. Théo chaussa ses lunettes, prit
 l'appareil avec autant de précaution que s'il s'agissait d'un objet vieux de
@@ -259,9 +257,9 @@ cachette dans les dix minutes ».
 Pas d'exploration en solo, pas de fenêtre à escalader, rien. On regarde, on
 vérifie que tout va bien, et on rentre. C'est un accord, ou vous restez ici.
 
-— C'est un accord, dirent Sofia et Souly d'une seule voix, avec un enthousiasme
-qui laissait présager qu'ils comptaient bien réévaluer les termes exacts de cet
-accord une fois sur place.
+— C'est un accord, dirent Sofia et Souly d'une seule voix, un peu trop vite pour
+être totalement honnêtes : ils comptaient bien réévaluer les termes exacts de
+cet accord une fois sur place.
 
 ---
 
@@ -310,6 +308,19 @@ entre les deux battants.
 remarqué, quand la situation devenait sérieuse au point qu'il fallait absolument
 paraître calme, ce n'est pas un vieux câble électrique fatigué. Quelqu'un a
 forcé cette fenêtre. Peut-être ce soir. Peut-être avant.
+
+— Mais c'est bizarre, non ? dit Souly lentement, en fronçant les sourcils.
+Julien a un badge. Il peut entrer par la porte, allumer les lumières, personne
+ne trouverait ça suspect. Pourquoi quelqu'un qui travaille ici forcerait une
+fenêtre en pleine nuit, comme un cambrioleur de film ?
+
+— Sauf si c'est justement le but, dit Sofia après un silence. Faire croire que
+c'est un cambrioleur de film. Pour qu'on ne pense pas à quelqu'un qui a un
+badge.
+
+Personne, dans la réserve, ne trouva rien à répondre à ça, pas même Théo, qui
+regarda sa petite-nièce de huit ans avec ce qui ressemblait, chaque jour un peu
+plus, à du respect professionnel.
 
 — Mais le coffre est intact, répéta Mme Bamba, comme pour se rassurer elle-même.
 Rien n'a été volé cette fois.
@@ -410,7 +421,6 @@ m'inquiète le plus, dans cette phrase.
 — Nous, on sait, dirent Sofia et Souly en même temps, avec un aplomb qui, pour la
 première fois de la semaine, sembla presque légitime.
 
-Et cette fois, pour une fois, Théo ne trouva rien à répondre qui puisse les
-convaincre du contraire. L'enquête, la vraie, venait tout juste de commencer —
-et elle n'attendrait certainement pas qu'ils finissent de grandir pour continuer
-sans eux.
+Théo ouvrit la bouche pour répondre quelque chose, la referma, et se contenta,
+finalement, de leur ébouriffer les cheveux à tous les deux en même temps — ce qui,
+de la part de Théo, valait toutes les réponses du monde.

@@ -1,7 +1,7 @@
 # Sofia & Souly
 ## Tome 1 — Le Pharaon qui avait peur du noir
 
-*(Manuscrit en cours — Session 1 : chapitres 1 à 6 sur 12)*
+*(Manuscrit en cours — Session 1 : chapitres 1 à 6 sur 12, v3 après second passage jury)*
 
 # Chapitre 1 — Valise, veilleuse-grenouille et une caisse en bois
 
@@ -34,10 +34,10 @@ partie compte des poteaux.
 — C'est plus utile que de parler de chewing-gum pendant vingt minutes.
 
 Sofia se laissa retomber contre le dossier de son siège avec un soupir théâtral,
-le genre de soupir qu'elle avait appris en regardant sa maîtresse soupirer quand la
-classe faisait trop de bruit. À huit ans, Sofia savait déjà soupirer comme une
-adulte fatiguée. C'était l'une de ses nombreuses spécialités, avec le fait de poser
-des questions auxquelles personne ne savait répondre, et le fait de ramasser des
+exactement celui de sa maîtresse quand la classe faisait trop de bruit. À huit
+ans, Sofia savait déjà soupirer comme une adulte fatiguée. C'était l'une de ses
+nombreuses spécialités, avec le fait de poser des questions auxquelles personne
+ne savait répondre, et le fait de ramasser des
 cailloux qu'elle jugeait « importants » sans jamais expliquer pourquoi.
 
 Elle en avait un, justement, dans la poche de son short. Un caillou gris, plat, avec
@@ -73,9 +73,9 @@ café sur son ordinateur portable. Souly marmonna une excuse dans sa direction, 
 il le faisait toujours quand Sofia créait une scène — c'était devenu un réflexe, au
 fil des années, presque un métier à plein temps : « excuse-toi pour Sofia ».
 
-Sur le quai, l'accolade de Mamie Rose sentait la lavande et le pain d'épices, comme
-toujours, comme si elle avait un stock secret de ces deux odeurs qu'elle rechargeait
-chaque matin.
+Sur le quai, l'accolade de Mamie Rose sentait la lavande et le pain d'épices.
+Comme toujours. Une réserve secrète, quelque part dans sa cuisine, semblait ne
+jamais s'épuiser.
 
 — Mes chatons ! Comme vous avez grandi, c'est une honte, vous n'aviez pas le droit
 de grandir sans ma permission.
@@ -86,10 +86,10 @@ de grandir sans ma permission.
 
 — Et j'ai marché sur un chewing-gum.
 
-— C'est la vie qui commence bien, alors, dit Mamie Rose avec un sérieux absolu, et
-Sofia hocha la tête comme si cette phrase avait un sens profond, ce qui n'était
-absolument pas le cas, mais Mamie Rose avait ce talent particulier de dire n'importe
-quoi avec un aplomb qui rendait tout crédible.
+— C'est la vie qui commence bien, alors, dit Mamie Rose, imperturbable. Sofia
+hocha la tête, convaincue que cette phrase avait un sens profond. Elle n'en
+avait aucun. Mais Mamie Rose avait ce talent particulier de dire n'importe quoi
+avec un aplomb qui rendait tout crédible.
 
 Elle attrapa la valise de Souly avant qu'il ait le temps de protester, la posa sur
 le petit chariot qu'elle avait apporté — un chariot à provisions à roulettes, avec
@@ -115,24 +115,24 @@ qu'il ne rentre pas les mains vides.
 ---
 
 Grand-oncle Théo — Théophile Duchêne pour l'état civil, mais personne ne l'appelait
-jamais comme ça, sauf le facteur — était le frère de Mamie Rose, et sans doute
-l'adulte le plus étrange que Sofia et Souly connaissaient, ce qui, dans leur famille,
+jamais comme ça, sauf le facteur — était le frère de Mamie Rose, et l'adulte le
+plus étrange que Sofia et Souly connaissaient, ce qui, dans leur famille,
 n'était pas un compliment léger. Il avait été archéologue toute sa vie, spécialiste
 de l'Égypte ancienne, et même à la retraite, il continuait à partir en mission
 « deux ou trois mois par-ci par-là », comme il disait, comme s'il parlait d'aller
 acheter du pain.
 
 Il portait toujours le même gilet, un gilet beige à environ mille poches, dont
-personne n'avait jamais réussi à compter le nombre exact — Souly avait tenté une
-fois, était arrivé à vingt-trois, avait perdu le compte à cause d'une poche cachée
-dans une autre poche, et avait abandonné avec la ferme intention de recommencer un
-jour avec une méthode plus rigoureuse.
+personne n'avait jamais réussi à compter le nombre exact. Souly avait tenté une
+fois. Il était arrivé à vingt-trois, avait perdu le compte à cause d'une poche
+cachée dans une autre poche, et avait abandonné avec la ferme intention de
+recommencer un jour avec une méthode plus rigoureuse.
 
-Il oubliait où il garait sa voiture avec une régularité impressionnante — une fois,
-il avait mis quatre jours à la retrouver, et elle était garée devant chez lui depuis
-le début — mais il pouvait réciter de mémoire la liste des pharaons de la
-dix-huitième dynastie égyptienne sans se tromper d'un seul nom, dans l'ordre, et à
-l'envers si on le lui demandait pour l'embêter.
+Il oubliait où il garait sa voiture avec une régularité impressionnante. Une
+fois, il avait mis quatre jours à la retrouver ; elle était garée devant chez
+lui depuis le début. Mais il pouvait réciter de mémoire la liste des pharaons
+de la dix-huitième dynastie égyptienne sans se tromper d'un seul nom, dans
+l'ordre, et à l'envers si on le lui demandait pour l'embêter.
 
 Sofia et Souly le trouvèrent, ce soir-là, assis à la table de la cuisine de Mamie
 Rose, en train de manger des sablés au beurre directement dans la boîte en fer sur
@@ -241,10 +241,10 @@ Mamie Rose resta à faire la vaisselle en affirmant qu'elle connaissait Belleriv
 la lumière orange du soir.
 
 Bellerive-sur-Loire n'était pas une grande ville. Elle avait une place principale
-avec une fontaine qui ne fonctionnait qu'un jour sur deux — personne n'avait jamais
-compris pourquoi, y compris le maire — une boulangerie qui fermait à treize heures
-précises même s'il restait des clients dans la file, et un fleuve large et lent qui
-coulait juste derrière les maisons comme s'il n'était pas pressé d'aller nulle part.
+avec une fontaine qui ne fonctionnait qu'un jour sur deux, sans que personne
+comprenne pourquoi, pas même le maire. Une boulangerie fermait à treize heures
+précises même s'il restait des clients dans la file. Et un fleuve large et lent
+coulait juste derrière les maisons, pas pressé d'aller nulle part.
 Le musée municipal occupait un ancien hôtel particulier en pierre blonde, avec des
 volets bleus et un perron de trois marches, coincé entre la mairie et un magasin de
 farces et attrapes qui vendait, en vitrine, un assortiment permanent de fausses
@@ -295,7 +295,10 @@ un vieux navire depuis le rivage.
 — Demain, dit-il en reprenant la route vers la maison de Mamie Rose, tout ça va
 changer. Vous verrez.
 
-Il avait raison. Simplement, pas tout à fait de la façon qu'il imaginait.
+— Changer comment ? demanda Sofia.
+
+— Je ne sais pas encore, admit Théo avec un grand sourire. C'est ça, le plus
+excitant.
 
 ---
 
@@ -334,10 +337,10 @@ que seule une petite sœur remarque et que seul un grand frère espère invisibl
 — Je l'allume pour toi, dit Souly d'un ton qu'il voulait détaché. Tu as huit ans,
 tu as peut-être encore un peu peur du noir.
 
-— J'ai jamais eu peur du noir, dit Sofia, absolument sincère, parce que c'était la
-pure vérité — Sofia n'avait peur de rien, sauf des araignées à sept pattes et
-demie, ce qui n'existait probablement même pas, mais elle avait vu une araignée une
-fois qui semblait clairement en avoir seulement sept et demie, et cette image ne
+— J'ai jamais eu peur du noir, dit Sofia, absolument sincère, parce que c'était
+la pure vérité. Sofia n'avait peur de rien, sauf des araignées à sept pattes et
+demie — une espèce que personne d'autre n'avait jamais vue, mais elle, si, une
+fois, et cette image ne
 l'avait jamais quittée. Mais bon. Allume-la pour toi alors.
 
 Souly tendit le bras vers la table de nuit et pressa le petit bouton sous la
@@ -351,12 +354,11 @@ Il avait douze ans. Il savait que douze ans, c'était un âge où on n'était pl
 censé avoir besoin d'une veilleuse en forme de grenouille. Il avait essayé, l'année
 dernière, de dormir sans elle, une nuit entière, les yeux fermés très fort, en
 comptant des poteaux électriques imaginaires jusqu'à quatre cents quelque chose. Il
-n'avait pas réussi à s'endormir avant trois heures du matin, et il n'en avait parlé
-à personne, pas même à Sofia, même si Sofia, justement, dormait à côté de lui à ce
-moment-là et avait probablement tout deviné sans rien dire, parce que c'était
-souvent comme ça, entre eux : elle devinait, et elle ne disait rien, et lui faisait
-semblant qu'elle n'avait rien deviné, et ça leur convenait très bien à tous les
-deux.
+n'avait pas réussi à s'endormir avant trois heures du matin, et il n'en avait
+parlé à personne, pas même à Sofia — même si Sofia, justement, dormait à côté
+de lui cette nuit-là. C'était souvent comme ça, entre eux : elle devinait, et
+elle ne disait rien, et lui faisait semblant qu'elle n'avait rien deviné, et ça
+leur convenait très bien à tous les deux.
 
 — Bonne nuit, Souly.
 
@@ -370,29 +372,27 @@ deux.
 
 — C'était terrifiant.
 
-Sofia rit dans le noir, un petit rire étouffé dans son oreiller, et Souly sourit
-au plafond sans que personne ne le voie, ce qui était bien pratique, parce qu'il
-n'aimait pas qu'on le voie sourire pour des bêtises pareilles.
+Sofia rit dans le noir, un petit rire étouffé dans son oreiller. Souly sourit au
+plafond sans que personne ne le voie — il n'aimait pas qu'on le voie sourire pour
+des bêtises pareilles — et ferma les yeux, bercé par le bourdonnement lointain
+d'une voiture sur la route, puis par rien du tout.
 
-Dehors, quelque part sur la route nationale qui menait à Bellerive-sur-Loire, un
-camion roulait dans la nuit avec, dans sa remorque, une caisse en bois soigneusement
-calée entre des couvertures, scellée avec des rubans officiels et des tampons de
-douane, et à l'intérieur de cette caisse, enveloppée dans du papier de soie, une
-petite momie vieille de trois mille ans continuait son voyage vers une ville qui
-n'avait pas la moindre idée de tout ce que cette caisse allait bientôt déclencher.
+Sofia, elle, ne dormait pas encore tout à fait. Dans le noir doux de la
+veilleuse-grenouille, elle sortit son caillou porte-bonheur de sous son
+oreiller, le tourna trois fois entre ses doigts comme elle le faisait chaque
+soir depuis qu'elle l'avait trouvé, et murmura, si bas que même Souly ne
+l'entendit pas :
 
-La grenouille de Souly veillait sur la chambre toute la nuit, comme d'habitude. Elle
-ne pouvait pas savoir qu'à quelques kilomètres de là, quelque chose de bien plus
-ancien qu'elle allait, dans les jours qui venaient, avoir une histoire à raconter
-sur la peur du noir. Une histoire vieille de trois mille ans. Une histoire que
-personne, pour l'instant, ne savait encore lire.
+— Fais que demain, la momie de chat ait vraiment l'air d'un chat.
+
+Elle s'endormit avant même d'avoir fini de formuler un deuxième vœu.
 
 
 # Chapitre 2 — La chatte qui n'était pas un pharaon
 
 Le lendemain matin, il y avait plus de monde devant le musée de Bellerive-sur-Loire
-qu'il n'y en avait probablement jamais eu de toute l'histoire du bâtiment, cérémonies
-de mariage à la mairie voisine comprises.
+qu'il n'y en avait jamais eu de toute l'histoire du bâtiment, cérémonies de
+mariage à la mairie voisine comprises.
 
 Sofia comptait les têtes en silence, ce qui pour elle représentait un effort
 surhumain, et arriva à un chiffre qu'elle jugea impressionnant : au moins quarante
@@ -419,9 +419,9 @@ Sur le perron, une femme les attendait, un carnet serré contre sa poitrine, des
 boucles d'oreilles en forme de flamants roses qui se balançaient à chaque
 mouvement de tête. C'était Mme Bamba. Sofia la reconnut immédiatement pour l'avoir
 aperçue la veille derrière la vitre, mais de près, elle paraissait à la fois plus
-petite et plus impressionnante qu'à travers une fenêtre — elle avait cette façon de
-se tenir très droite, comme quelqu'un qui porte quelque chose de lourd sur les
-épaules sans jamais le montrer.
+petite et plus impressionnante qu'à travers une fenêtre. Elle se tenait très
+droite, de cette façon qu'ont certains adultes de porter quelque chose de lourd
+sur les épaules sans jamais le montrer.
 
 — Théo, s'il te plaît, dis-moi que tu as vérifié la température de transport, dit
 Mme Bamba en guise de bonjour, avant même que la caisse ait atteint la première
@@ -445,8 +445,9 @@ Souly, qui se tenait juste assez près, l'entendit très bien.
 À ce moment précis, un garçon fendit la foule en jouant des coudes, un appareil
 photo bon marché pendu autour du cou, une casquette vissée sur la tête à l'envers
 avec un air qu'il devait pratiquer devant son miroir. Il s'arrêta pile devant Sofia
-et Souly, les toisa de haut en bas, remarqua sans doute les baskets dépareillées de
-Sofia, et ne dit rien à ce sujet, ce qui était en soi suspect.
+et Souly, les toisa de haut en bas. Son regard s'arrêta une demi-seconde sur les
+baskets dépareillées de Sofia. Il ne dit rien à ce sujet, ce qui était en soi
+suspect.
 
 — C'est vous les petits-neveux du professeur Duchêne ? demanda-t-il. Mon père,
 c'est le maire. Maxence Ferron. On m'appelle Max.
@@ -485,9 +486,8 @@ que Théo avait lui-même prises pendant ses missions. Au centre de la salle, so
 grande vitrine vide, en attente.
 
 C'est là que la caisse fut ouverte, sur une table recouverte d'un drap noir, sous
-les yeux d'une foule qui retenait son souffle avec une intensité que Sofia trouvait
-presque comique — comme si les gens espéraient secrètement qu'un fantôme allait
-en jaillir.
+les yeux d'une foule qui retenait son souffle. Sofia trouvait ça presque
+comique : la moitié de la ville semblait prête à voir un fantôme en jaillir.
 
 Un jeune homme se tenait juste à côté de Mme Bamba, prêt à l'aider, un pied de
 biche léger à la main pour desserrer les dernières attaches. Il avait les cheveux
@@ -533,8 +533,14 @@ pour nos chercheurs. Un fragment couvert de hiéroglyphes, trouvé enroulé sép
 autour du corps de la momie, presque comme une lettre glissée dans une enveloppe.
 Nous n'avons pas encore eu le temps de le traduire entièrement.
 
-— Et si c'est une malédiction ? lança une voix dans la foule, mi-rieuse,
-mi-sérieuse.
+— C'est écrit sur son tombeau, à ce jeune pharaon ? lança une voix dans la foule,
+mi-rieuse, mi-sérieuse. Genre une malédiction ?
+
+— C'est pas un pharaon, c'est un chat, corrigea aussitôt un enfant au premier
+rang, mais personne ne l'écouta : le mot « pharaon » venait déjà de se répandre
+dans la salle plus vite que n'importe quelle correction, sautant d'une
+conversation à l'autre, gagnant à chaque fois un peu plus de certitude qu'il n'en
+avait au départ.
 
 Quelques rires. Théo leva les mains en un geste apaisant, amusé.
 
@@ -566,9 +572,8 @@ mais dont la main, posée sur le rebord de la vitrine, tremblait légèrement. L
 bâtiment est vieux, l'installation électrique aussi. Rien d'inquiétant.
 
 — C'est exactement ce que dirait quelqu'un qui essaie de cacher une malédiction,
-chuchota Max Ferron à l'oreille de Souly, avec un sourire qui montrait qu'il
-n'y croyait pas vraiment lui-même, mais qu'il trouvait la phrase trop bonne pour
-ne pas la dire.
+chuchota Max Ferron à l'oreille de Souly. Il n'y croyait visiblement pas
+lui-même, mais trouvait la phrase trop bonne pour ne pas la dire.
 
 — C'est exactement ce que dirait quelqu'un qui a raison à propos d'un
 court-circuit, répondit Souly.
@@ -750,37 +755,37 @@ théories reposaient sur autre chose que des impressions.
 
 Il nota quand même le nom dans son carnet, à toutes fins utiles, juste en dessous
 de « Indice n° 1 ». « Vasploix — collectionneur — pose des questions. » Une note
-sans conclusion. C'était, décida-t-il, le genre de note qu'un vrai enquêteur devait
-savoir garder de côté, sans se précipiter, jusqu'à ce qu'elle trouve — ou non — sa
-place dans le reste de l'histoire.
+sans conclusion, décida-t-il. Un vrai enquêteur savait garder ce genre de piste
+de côté, sans se précipiter, en attendant de voir si elle trouvait sa place dans
+le reste de l'histoire.
 
-Ce qu'aucun d'eux ne savait encore, en repartant vers la maison de Mamie Rose sous
-le soleil de fin d'après-midi, c'est qu'au moment précis de la coupure de courant,
-une seule personne, dans toute la salle bondée du musée, n'avait ni crié ni
-sursauté ni cherché son téléphone pour éclairer la pénombre. Une seule personne
-avait su exactement où aller, dans le noir complet, sans hésiter une seconde.
+Sofia, elle, pensait déjà à autre chose. Pendant la panne, dans la bousculade
+générale, elle avait remarqué une silhouette qui ne s'était pas cognée dans les
+tables ni mise à crier comme tout le monde — quelqu'un qui s'était simplement
+écarté du groupe, tranquillement, comme s'il connaissait la salle par cœur même
+sans lumière, avant de revenir se mêler aux invités quelques instants plus tard.
+Elle n'aurait pas su dire qui. Il y avait trop de monde, trop de costumes, trop
+de bousculade pour être certaine de quoi que ce soit.
 
-Derrière eux, dans le brouhaha général de la salle qui retrouvait peu à peu son
-calme, personne ne remarqua Julien s'écarter discrètement du cercle de ses
-admirateurs, se diriger vers le tableau électrique dissimulé derrière un rideau
-au fond de la salle, l'ouvrir, y jeter un rapide coup d'œil, et le refermer avec un
-petit sourire satisfait avant de revenir se mêler à la foule comme si de rien
-n'était.
+— Souly, dit-elle. Il y avait quelqu'un qui n'avait pas peur du noir, tout à
+l'heure. Je sais pas qui. Mais il savait où il allait.
 
-Personne ne le remarqua. Sauf, peut-être, une caméra de surveillance poussiéreuse
-installée dans un coin du plafond, que personne n'avait pensé à vérifier depuis au
-moins deux ans, et qui continuait d'enregistrer, silencieuse et fidèle, tout ce qui
-se passait dans la grande salle du musée de Bellerive-sur-Loire.
+— Plein de gens travaillent ici, dit Souly. Ça pourrait être n'importe qui.
+
+— Ouais, dit Sofia, pas très convaincue. N'importe qui.
+
+Elle ajouta quand même la phrase, mot pour mot, tout en bas d'une page de son
+propre carnet, sous la photo de l'inscription. On ne sait jamais.
 
 
 # Chapitre 3 — Le carnet des preuves
 
 Le musée, une fois les visiteurs partis et les volets à moitié fermés, ressemblait
-à un animal endormi. Les bruits de la journée — les pas sur le parquet, les
-discussions à voix basse, le cliquetis des appareils photo — avaient laissé place
-à un silence épais, seulement troublé par le tic-tac d'une vieille horloge dans le
-couloir et, de temps en temps, le grincement d'une latte de plancher qui se
-refroidissait.
+à un animal endormi. Les bruits de la journée avaient disparu : plus de pas sur
+le parquet, plus de discussions à voix basse, plus de cliquetis d'appareils
+photo. Seul restait un silence épais, troublé par le tic-tac d'une vieille
+horloge dans le couloir et, de temps en temps, le grincement d'une latte de
+plancher qui se refroidissait.
 
 — C'est vachement plus impressionnant sans personne dedans, chuchota Sofia.
 
@@ -798,8 +803,8 @@ La réserve n'avait rien à voir avec les salles d'exposition, si soigneusement
 bordée d'étagères métalliques jusqu'au plafond, chargées de caisses en bois, de
 boîtes en carton étiquetées d'une écriture serrée, de statuettes enveloppées dans
 du papier bulle, et d'un carton entier, dans un coin, qui semblait ne contenir que
-des boutons de porte anciens — vestiges, sans doute, d'une autre exposition,
-oubliée depuis longtemps.
+des boutons de porte anciens : vestiges d'une autre exposition, oubliée depuis
+longtemps.
 
 — Bienvenue dans les coulisses, dit Théo en allumant une rangée de néons qui
 clignotèrent avant de se stabiliser. C'est ici que vit tout ce qu'on ne montre
@@ -821,9 +826,9 @@ exactement comme ça qu'on retrouve les erreurs qui traînent depuis vingt ans.
 — Vous allez être des vrais documentalistes, corrigea Mme Bamba, ce qui est
 presque aussi important, et beaucoup moins salissant.
 
-Souly, qui aimait les tâches qui ressemblaient à des listes — c'est-à-dire
-pratiquement toutes les tâches qu'on pouvait lui confier —, se jeta sur le travail
-avec un enthousiasme presque suspect. Il vérifiait chaque numéro deux fois,
+Souly aimait les tâches qui ressemblaient à des listes, c'est-à-dire pratiquement
+toutes les tâches qu'on pouvait lui confier, et se jeta sur le travail avec un
+enthousiasme presque suspect. Il vérifiait chaque numéro deux fois,
 alignait les boîtes avec une précision militaire, et corrigeait même, à un moment,
 une étiquette où quelqu'un avait écrit « scarabé » au lieu de « scarabée », ce qui
 lui procura une joie disproportionnée.
@@ -924,7 +929,23 @@ finir par déchiffrer le code.
 
 — Ça a l'air facile, dit Sofia.
 
-— Ça a pris plus de vingt ans, dit Théo avec un petit rire. Des savants très
+Un fracas retentit soudain au fond de la réserve — une pile de boîtes en carton,
+mal empilée depuis le début de la soirée, venait de s'effondrer sur le sol dans
+un nuage de poussière, entraînant avec elle un carton entier de boutons de porte
+qui roulèrent dans toutes les directions avec un bruit de billes.
+
+— Ce n'est rien ! cria Mme Bamba depuis l'autre bout de la pièce, à quatre
+pattes en train de rattraper des boutons avant qu'ils ne disparaissent sous les
+étagères. Continuez, continuez, je gère.
+
+Sofia et Souly se précipitèrent quand même pour l'aider, ramassant des
+poignées entières de boutons de toutes les couleurs pendant que Théo, resté
+assis sur son tabouret, les regardait faire avec un amusement évident.
+
+— Bon, dit Sofia en se rasseyant, un peu essoufflée, les mains encore pleines de
+poussière. Où on en était ?
+
+— Ça a pris plus de vingt ans, reprit Théo avec un petit rire. Des savants très
 brillants s'y sont cassé les dents. Et c'est là qu'intervient notre jeune homme
 têtu : Jean-François Champollion. Passionné par l'Égypte depuis l'enfance — il
 apprenait des langues anciennes tout seul dès l'âge de onze ans, Sofia, comme je
@@ -970,9 +991,9 @@ table avec une détermination soudaine qui fit sursauter le gobelet de café fro
 de Mme Bamba. On pourra chercher avec toi. Deux paires d'yeux en plus, tu l'as dit
 toi-même !
 
-Théo échangea un regard avec Mme Bamba, qui haussa les épaules avec un sourire qui
-voulait clairement dire « pourquoi pas, on a déjà des enfants dans la réserve d'un
-musée un mardi soir, ça ne peut plus vraiment être plus étrange ».
+Théo échangea un regard avec Mme Bamba, qui haussa les épaules. Son sourire
+voulait clairement dire « pourquoi pas, on a déjà des enfants dans la réserve
+d'un musée un mardi soir, ça ne peut plus vraiment être plus étrange ».
 
 — D'accord, dit Théo. Une leçon. Une seule, ce soir, parce qu'il se fait tard et
 que votre grand-mère va s'inquiéter. Prenez vos carnets.
@@ -980,7 +1001,7 @@ que votre grand-mère va s'inquiéter. Prenez vos carnets.
 ---
 
 Il leur montra une douzaine de signes fondamentaux — l'œil qui représentait le
-son « ir » et aussi, dans certains contextes, le concept de « voir » ; le petit
+son « ir » et aussi, dans certains contextes, le verbe « faire » ; le petit
 carré qui se prononçait « pr » et signifiait « maison » ; l'oiseau appelé
 « poussin de caille » qui donnait le son « ou » ; le trait vertical simple, qu'on
 ajoutait souvent après un mot pour montrer qu'il s'agissait d'un seul objet.
@@ -1038,9 +1059,9 @@ millimètre. Fais le mien maintenant, Souly.
 Souly, qui prenait toujours un peu trop son temps sur ce genre de tâche, passa
 un quart d'heure entier à essayer de décomposer parfaitement les sons de
 « Soulaiman », consultant deux fois le tableau, biffant trois versions
-différentes, avant d'obtenir un cartouche qu'il jugea enfin acceptable — jusqu'à
-ce que Sofia, en l'examinant avec un sérieux terrible, pointe du doigt le
-troisième signe.
+différentes, avant d'obtenir un cartouche qu'il jugea enfin acceptable. Sofia
+l'examina en silence, plissant les yeux, puis pointa du doigt le troisième
+signe.
 
 — C'est pas un cobra, ça, Souly. Tu as dessiné un ver de terre avec des yeux.
 
@@ -1069,8 +1090,8 @@ trait, avec la grimace de quelqu'un qui regrette immédiatement son choix.
 
 — Alors, demanda Mamie Rose, cette réserve secrète ?
 
-— On apprend à lire les hiéroglyphes, dit Souly, avec un sérieux absolu, comme s'il
-venait d'annoncer qu'il avait résolu une équation compliquée.
+— On apprend à lire les hiéroglyphes, annonça Souly, aussi fier que s'il venait
+de résoudre une équation compliquée.
 
 — Et on va résoudre le mystère de la bandelette avant tout le monde, ajouta Sofia.
 
@@ -1079,11 +1100,11 @@ d'ironie, avec cette confiance absolue et un peu déroutante qu'elle avait toujo
 en eux. Maintenant, venez, la tarte aux pommes d'hier ne va pas se manger toute
 seule, et croyez-moi, elle en a très envie.
 
-Avant de partir, Théo rangea soigneusement le fragment de bandelette dans une boîte
-capitonnée, qu'il glissa lui-même dans le coffre-fort de la réserve — un vieux
-modèle massif, à roue de chiffres, qui datait sans doute des années soixante-dix
-et qui grinçait chaque fois qu'on le manipulait, comme s'il protestait contre le
-poids de sa propre responsabilité.
+Avant de partir, Théo rangea soigneusement le fragment de bandelette dans une
+boîte capitonnée, qu'il glissa lui-même dans le coffre-fort de la réserve. C'était
+un vieux modèle massif, à roue de chiffres, qui datait des années soixante-dix et
+grinçait chaque fois qu'on le manipulait, comme s'il protestait contre le poids
+de sa propre responsabilité.
 
 — Pourquoi tu le mets pas juste dans la vitrine avec la momie ? demanda Sofia.
 
@@ -1108,15 +1129,16 @@ rentré chez lui bien avant eux, en saluant tout le monde avec son sourire habit
 et sa promesse d'être « frais comme un gardon » pour la grande soirée
 d'inauguration du surlendemain.
 
-Il n'en parla à personne. Pas encore. Ce n'était, après tout, probablement rien —
-une lampe oubliée allumée, comme il en existe des milliers chaque soir dans des
-milliers de bureaux à travers le monde. Mais il le nota quand même, tout en bas
-d'une page de son Carnet des Preuves, sous la rubrique qu'il venait tout juste de
-créer et qu'il avait intitulée, avec toute la gravité de ses douze ans : « Choses
-bizarres qui sont peut-être rien. »
+Il n'en parla à personne. Une lampe oubliée allumée, ça arrive à n'importe qui,
+n'importe quel soir. Mais il le nota quand même, tout en bas d'une page de son
+Carnet des Preuves, sous une rubrique qu'il venait tout juste de créer et qu'il
+avait intitulée, avec toute la gravité de ses douze ans : « Choses bizarres qui
+sont peut-être rien. »
 
-La liste, pour l'instant, ne comptait que trois lignes. Elle allait beaucoup, beaucoup
-s'allonger.
+Trois lignes, pour l'instant. Il referma le carnet, le glissa sous son bras, et
+pressa le pas pour rattraper Sofia et Mamie Rose, déjà loin devant, en train de
+se disputer joyeusement pour savoir s'il restait, ou non, une part de tarte aux
+pommes.
 
 
 # Chapitre 4 — La malédiction et le sarcophage en carton
@@ -1145,9 +1167,9 @@ ridicule », avait-il annoncé, avant de passer quand même vingt bonnes minutes
 devant le miroir de la salle de bain à essayer différents angles pour le bandeau.
 
 Au centre de la grande salle, entre la vitrine de Néfrit et le buffet, Mme Bamba
-avait installé — sur une suggestion enthousiaste de Julien, qui avait promis de
-s'en occuper personnellement — un grand sarcophage en carton peint, assez large
-pour qu'un enfant y entre, doré et bleu, avec un visage stylisé peint sur le
+avait installé un grand sarcophage en carton peint, sur une suggestion
+enthousiaste de Julien, qui avait promis de s'en occuper personnellement. Assez
+large pour qu'un enfant y entre, doré et bleu, avec un visage stylisé peint sur le
 couvercle, destiné à servir de photobooth pour les visiteurs.
 
 Théo, déguisé en ce qu'il appelait fièrement « un archéologue du futur qui a
@@ -1220,9 +1242,8 @@ ans et je suis pas content ».
 sérieusement à regretter chaque décision de sa courte existence l'ayant mené
 jusqu'à ce carton.
 
-C'est à cet instant précis — comme si l'univers entier avait attendu ce moment
-exact pour organiser sa blague la plus cruelle — que toutes les lumières de la
-salle s'éteignirent d'un coup.
+C'est à cet instant précis, évidemment, que toutes les lumières de la salle
+s'éteignirent d'un coup.
 
 Un silence stupéfait, suivi immédiatement d'une explosion de cris, de rires
 nerveux et d'exclamations diverses, envahit la pièce plongée dans le noir. Quelque
@@ -1232,9 +1253,9 @@ allumées, se cogna violemment contre une table et poussa un cri qui n'avait, su
 le moment, absolument rien de divin.
 
 Et dans l'obscurité totale, Souly, debout dans le sarcophage en carton, sentit la
-panique familière lui serrer la gorge — cette panique précise, ancienne, qu'il
-connaissait par cœur depuis toujours et qu'il détestait de tout son être — et,
-en voulant reculer d'un pas instinctif pour sortir de la boîte, se prit les pieds
+panique familière lui serrer la gorge. Cette panique-là, il la connaissait par
+cœur depuis toujours et la détestait de tout son être. En voulant reculer d'un
+pas instinctif pour sortir de la boîte, il se prit les pieds
 dans le rebord en carton du sarcophage et bascula en arrière avec un bruit sourd,
 entraînant dans sa chute tout l'accessoire, qui s'effondra sur lui dans un
 craquement spectaculaire de carton froissé.
@@ -1253,8 +1274,8 @@ pour que chacun puisse voir, également, Souly, allongé au milieu d'un tas de c
 doré, un couvercle de sarcophage peint posé de travers sur son visage, une jambe
 en l'air, le bandeau doré glissé sur un œil.
 
-Le rire qui suivit — un rire général, immédiat, à moitié soulagé et à moitié
-franchement hilare — fut probablement, songea Souly plus tard une fois remis de
+Le rire qui suivit fut général, immédiat, à moitié soulagé et à moitié
+franchement hilare. C'était, songea Souly plus tard une fois remis de
 l'expérience, le rire le plus fort jamais entendu dans l'histoire du musée de
 Bellerive-sur-Loire. Même Mme Bamba, qui accourait déjà avec sa lampe torche
 d'urgence, dut se mordre la lèvre très fort pour ne pas éclater de rire elle-même
@@ -1297,11 +1318,10 @@ suis fâché, et ce taboulé est la meilleure chose que j'aie vue de toute la
 soirée.
 
 Max, encore hilare, leur tendit machinalement son téléphone pour leur montrer la
-photo de plus près, et pour la première fois depuis leur rencontre sur le
-trottoir devant le musée, trois jours plus tôt, il n'y eut, l'espace d'un instant,
-plus la moindre trace de rivalité entre eux — juste trois enfants qui riaient
-ensemble d'un dieu égyptien couvert de persil, dans une salle qui allait, quelques
-minutes plus tard, redevenir beaucoup moins drôle.
+photo de plus près. Pour la première fois depuis leur rencontre sur le trottoir
+devant le musée, trois jours plus tôt, il n'y eut plus la moindre trace de
+rivalité entre eux : juste trois enfants qui riaient ensemble d'un dieu égyptien
+couvert de persil.
 
 ---
 
@@ -1324,8 +1344,7 @@ festif.
 entendu venir, avec l'air d'un gamin qui vient de repérer un animal rare dans son
 habitat naturel. Regarde comme il traîne près de la réserve. Encore.
 
-L'homme, remarquant sans doute qu'on l'observait, tourna brièvement la tête vers
-eux. Il avait un visage anguleux, des sourcils épais, et une expression qui aurait
+L'homme sentit leurs regards et tourna brièvement la tête vers eux. Il avait un visage anguleux, des sourcils épais, et une expression qui aurait
 pu vouloir dire absolument n'importe quoi — de l'ennui profond à la préparation
 minutieuse d'un crime — mais qui, dans le contexte d'une salle entière convaincue
 qu'une malédiction planait sur elle, ne pouvait évidemment vouloir dire qu'une
@@ -1377,9 +1396,9 @@ qu'elle vit l'expression sur le visage des deux enfants.
 Il n'est plus dans la vitrine.
 
 Mme Bamba se figea. Elle traversa la salle presque en courant, ses talons
-claquant sur le parquet, et se pencha sur la vitrine avec une expression qui
-passa, en l'espace de trois secondes, de l'espoir qu'il s'agissait d'une erreur, à
-la confirmation glaçante que non, ce n'en était pas une.
+claquant sur le parquet, et se pencha sur la vitrine. Son visage passa, en
+l'espace de trois secondes, de l'espoir qu'il s'agissait d'une erreur à la
+confirmation glaçante que non, ce n'en était pas une.
 
 — Il a disparu, souffla-t-elle. Il était là ce matin, je l'ai vérifié moi-même
 pendant l'inventaire de midi.
@@ -1395,8 +1414,8 @@ un truc bizarre depuis le début de la soirée, je vous jure, une sorte de
 présence », et, au milieu de cette agitation grandissante, une seule personne qui
 semblait totalement, remarquablement calme.
 
-Julien, un plateau vide à la main, s'approcha du petit groupe avec une expression
-de sincère consternation.
+Julien s'approcha du petit groupe, un plateau vide à la main, l'air sincèrement
+consterné.
 
 — C'est affreux, dit-il. Je peux vérifier les enregistrements de la caméra de
 sécurité, si vous voulez, Mme Bamba. Ça pourrait nous montrer exactement ce qui
@@ -1405,18 +1424,19 @@ s'est passé pendant la coupure.
 — Bonne idée, dit Mme Bamba, visiblement soulagée d'avoir enfin une action
 concrète à entreprendre. Fais ça dès ce soir, s'il te plaît, Julien.
 
-— Je m'en occupe personnellement, dit-il avec un sourire rassurant, avant de
-s'éloigner vers le bureau de sécurité d'un pas tranquille, absolument pas pressé,
-comme quelqu'un qui n'a strictement rien à craindre de ce que cette caméra
-pourrait avoir filmé.
+— Je m'en occupe personnellement, dit-il, rassurant, avant de s'éloigner vers le
+bureau de sécurité d'un pas tranquille.
 
-Souly le regarda s'éloigner, et pour la première fois depuis le début de cette
-histoire, une pensée précise, nette, presque inconfortable, se forma clairement
-dans son esprit — une pensée qu'il nota aussitôt, en lettres serrées, tout en bas
-d'une page de son Carnet des Preuves, entre le nom de Vasploix et la mention de la
-lumière allumée deux soirs plus tôt :
+Souly le regarda s'éloigner. C'était normal, après tout : Julien connaissait le
+système mieux que quiconque, il était logique que ce soit lui qui s'en occupe.
+Et pourtant, quelque chose dans cette logique-là le chiffonnait. Une pièce de
+puzzle qui rentre presque parfaitement à sa place, mais pas tout à fait. Il
+nota, en lettres serrées, tout en bas d'une page de son Carnet des Preuves,
+entre le nom de Vasploix et la
+mention de la lumière allumée deux soirs plus tôt :
 
-« Pourquoi Julien propose toujours de s'occuper personnellement de la caméra ? »
+« Julien : toujours celui qui s'occupe de la caméra. Vasploix : toujours celui
+qu'on accuse en premier. Un des deux, c'est trop pratique. Lequel ? »
 
 ---
 
@@ -1426,9 +1446,9 @@ enjouée, répétant que « tout cela avait sûrement une explication parfaiteme
 raisonnable », sans grande conviction, tandis que la journaliste de La Voix de la
 Loire griffonnait dans son carnet avec un enthousiasme qui ne présageait rien de
 bon pour le titre du prochain article. Sofia l'entendit même murmurer, toute
-seule, en essayant plusieurs formulations : « La malédiction du Nil frappe de
-nouveau à Bellerive »... non, trop long... « Bellerive maudite ? »... voilà, ça,
-c'était accrocheur.
+seule, en essayant plusieurs formulations : « La malédiction du jeune pharaon
+frappe de nouveau à Bellerive »... non, trop long... « Le pharaon se venge ? »...
+voilà, ça, c'était accrocheur.
 
 — Elle va vraiment écrire ça, la malédiction ? demanda Sofia, horrifiée.
 
@@ -1447,11 +1467,10 @@ musée. Après cent douze ans d'existence.
 
 Personne ne trouva rien à répondre à ça. Même Sofia, qui trouvait généralement
 quelque chose à dire à peu près n'importe quand, resta silencieuse, la couronne de
-pharaonne en plastique soudain un peu ridicule sur sa tête, tandis qu'autour
-d'eux, la soirée se vidait doucement, les invités costumés partant par petits
-groupes en chuchotant, jetant des regards inquiets vers la vitrine de Néfrit
-comme si la petite momie de chat, immobile depuis trois mille ans, pouvait à tout
-moment se redresser et exiger des comptes.
+pharaonne en plastique soudain un peu ridicule sur sa tête. Autour d'eux, la
+soirée se vidait doucement, les invités costumés partant par petits groupes en
+chuchotant, jetant des regards inquiets vers la vitrine de Néfrit, immobile
+depuis trois mille ans et parfaitement indifférente à tout ce raffut.
 
 Sofia glissa sa main dans celle de Souly, un geste qu'elle ne faisait presque
 plus jamais depuis qu'elle avait décrété, l'année précédente, qu'elle était « trop
@@ -1484,10 +1503,10 @@ mesdames et messieurs. »
 — Parce qu'elles n'existent pas, dit Souly. Concentre-toi. Feuille et feutres,
 tu fais la chronologie. Moi, je fais la liste des suspects.
 
-Mamie Rose, qui préparait des tartines à quelques pas de là en faisant semblant de
-ne pas écouter — ce qu'elle faisait très mal, puisqu'elle avait déjà arrêté de
-beurrer son pain depuis deux bonnes minutes pour mieux tendre l'oreille — laissa
-échapper un petit rire.
+Mamie Rose, qui préparait des tartines à quelques pas de là, faisait semblant de
+ne pas écouter. Elle le faisait très mal : elle avait arrêté de beurrer son pain
+depuis deux bonnes minutes pour mieux tendre l'oreille. Elle laissa échapper un
+petit rire.
 
 — Vous savez que ce n'est pas franchement votre travail, tout ça, dit-elle. Il y
 a des adultes pour s'occuper de ces choses.
@@ -1498,9 +1517,9 @@ fait de la science sur les hiéroglyphes.
 
 — Ce qui, remarqua Souly, laisse le champ libre pour une vraie enquête.
 
-Mamie Rose les regarda un moment, ses deux petits-enfants penchés sur la table,
-Sofia dessinant une frise chronologique avec un sérieux d'artiste, Souly
-griffonnant des noms dans son carnet en fronçant les sourcils, et elle sourit
+Mamie Rose les regarda un moment, ses deux petits-enfants penchés sur la table :
+Sofia, la langue coincée entre les dents, dessinait sa frise chronologique ;
+Souly griffonnait des noms dans son carnet en fronçant les sourcils. Elle sourit
 d'un sourire qu'elle ne montra à personne, un sourire un peu fier, un peu
 inquiet, celui d'une grand-mère qui sait très bien qu'elle ne pourra jamais les
 empêcher de suivre une piste une fois qu'ils en ont flairé une, et qui a
@@ -1566,9 +1585,9 @@ Ce qui, techniquement, n'était pas complètement faux.
 
 ---
 
-Ils passèrent l'après-midi à faire ce que Souly appelait, avec un sérieux qui
-frisait le ridicule sans jamais tout à fait basculer dedans, « une reconnaissance
-de terrain ». Le musée était fermé le samedi après-midi pour ce que Mme Bamba
+Ils passèrent l'après-midi à faire ce que Souly, sans le moindre sourire,
+appelait « une reconnaissance de terrain ». Le musée était fermé le samedi
+après-midi pour ce que Mme Bamba
 appelait officiellement « une inspection technique de l'installation
 électrique », et officieusement, tout le monde en ville savait qu'il s'agissait
 surtout de calmer une conservatrice au bord de la crise de nerfs.
@@ -1663,9 +1682,9 @@ l'ordinateur de son bureau.
 — Seulement, dit Max en levant un doigt solennel, si vous me laissez signer le
 Carnet des Preuves comme troisième enquêteur officiel.
 
-Souly hésita — c'était SON carnet, après tout, celui qu'il avait commencé bien
+Souly hésita. C'était SON carnet, après tout, celui qu'il avait commencé bien
 avant que Max ne devienne autre chose qu'un garçon agaçant avec une casquette à
-l'envers — mais Sofia, elle, n'hésita pas une seconde.
+l'envers. Sofia, elle, n'hésita pas une seconde.
 
 — Marché conclu, dit-elle en tendant la main pour sceller l'accord, avant même que
 Souly ait pu émettre le moindre avis sur la question.
@@ -1791,11 +1810,11 @@ Pendant de longues minutes, rien : des voitures qui se garaient, des invités
 costumés qui entraient dans le musée en riant, le boulanger déguisé en momie qui
 trébuchait sur le trottoir et se relevait tout seul avec dignité.
 
-Puis, à l'heure exacte de la deuxième coupure de courant — Souly vérifia trois
-fois l'horodatage affiché en bas de l'écran pour être absolument certain —, une
-silhouette apparut sur le côté du bâtiment, près de la fenêtre de la réserve,
-juste à l'endroit exact où ils avaient trouvé l'empreinte de chaussure quelques
-heures plus tôt.
+Souly vérifia trois fois l'horodatage affiché en bas de l'écran pour être
+absolument certain. Puis, à l'heure exacte de la deuxième coupure de courant,
+une silhouette apparut sur le côté du bâtiment, près de la fenêtre de la
+réserve, juste à l'endroit où ils avaient trouvé l'empreinte de chaussure
+quelques heures plus tôt.
 
 La qualité de l'image était mauvaise, grise et pixelisée, la silhouette à
 contre-jour, impossible à identifier avec certitude. Mais une chose, au moins,
@@ -1873,11 +1892,11 @@ qu'ils restent dans le jardin, « pas plus loin que la haie, c'est bien compris 
 qui, chez les adultes avertis, aurait dû immédiatement éveiller les soupçons.
 
 Le musée, à cette heure, était censé être complètement vide. Mme Bamba rentrait
-toujours chez elle avant vingt heures le dimanche, Théo dînait chez Mamie Rose ce
-soir-là — il était d'ailleurs en train, à l'intérieur de la maison, de raconter
-pour la troisième fois à Mamie Rose l'histoire du monsieur déguisé en Anubis et du
-saladier de taboulé, avec un enthousiasme qui ne faiblissait pas — et Julien
-n'avait, en théorie, aucune raison de s'y trouver un dimanche soir.
+toujours chez elle avant vingt heures le dimanche. Théo dînait chez Mamie Rose ce
+soir-là ; à l'intérieur de la maison, il racontait pour la troisième fois,
+toujours aussi enthousiaste, l'histoire du monsieur déguisé en Anubis et du
+saladier de taboulé. Et Julien n'avait, en théorie, aucune raison de se trouver
+au musée un dimanche soir.
 
 En théorie.
 
@@ -1885,9 +1904,9 @@ En théorie.
 étage.
 
 Une lumière venait de s'allumer. Pas la lumière franche et blanche des néons du
-bureau, mais une lumière plus petite, plus mobile, plus jaune — le genre de
-lumière qu'on associe immédiatement à une lampe de poche tenue à la main, et non
-à un interrupteur actionné normalement.
+bureau, mais une lumière plus petite, plus mobile, plus jaune : une lampe de
+poche, tenue à la main, et certainement pas un interrupteur actionné
+normalement.
 
 Souly sentit son cœur s'accélérer, cette fois pour une raison qui n'avait rien à
 voir avec le noir lui-même, et tout à voir avec ce que ce noir, cette fois,
@@ -1900,8 +1919,8 @@ pouvait bien cacher.
 — C'est vrai que c'est bizarre.
 
 La petite lumière se déplaça lentement le long de la fenêtre, disparut un
-instant, réapparut plus loin, comme si quelqu'un explorait la pièce méthodiquement,
-étagère par étagère.
+instant, réapparut plus loin. Quelqu'un explorait la pièce, étagère par
+étagère, méthodiquement.
 
 — On devrait le dire à Théo, dit Souly.
 
@@ -1931,15 +1950,15 @@ qu'il avait développée depuis des années pour cacher exactement cette peur-l�
 même à sa petite sœur, même dans le noir d'un jardin où personne d'autre
 n'aurait pu les entendre.
 
-Mais quelque chose dans la voix de Sofia — ce soir-là, dans ce jardin, avec cette
+Mais quelque chose dans la voix de Sofia, ce soir-là, dans ce jardin, avec cette
 lumière étrange qui continuait de se déplacer derrière une fenêtre qu'ils
-n'auraient pas dû surveiller — le fit changer d'avis.
+n'auraient pas dû surveiller, le fit changer d'avis.
 
 — Un peu, admit-il. Enfin. Beaucoup, en vrai.
 
-Sofia se tourna vers lui, surprise — pas par la révélation elle-même, qu'elle
-avait sans doute devinée depuis longtemps sans jamais rien dire, à sa manière
-habituelle, mais par le fait qu'il l'admette enfin à voix haute.
+Sofia se tourna vers lui, surprise. Pas par la révélation elle-même : elle
+l'avait devinée depuis longtemps, sans jamais rien dire, à sa manière
+habituelle. Mais par le fait qu'il l'admette enfin à voix haute.
 
 — Depuis quand ?
 
@@ -1982,9 +2001,9 @@ poursuivait son exploration méthodique de la pièce.
 
 ---
 
-C'est en sortant, presque par hasard, son téléphone à écran fissuré pour vérifier
-l'heure — il restait encore vingt minutes avant le couvre-feu fixé par Mamie
-Rose — que Sofia rouvrit sans le vouloir la photo qu'elle avait prise, cinq jours
+Il restait encore vingt minutes avant le couvre-feu fixé par Mamie Rose. En
+sortant, presque par hasard, son téléphone à écran fissuré pour vérifier
+l'heure, Sofia rouvrit sans le vouloir la photo qu'elle avait prise, cinq jours
 plus tôt, du fragment de bandelette dans sa vitrine, le premier jour, avant même
 que Théo ne l'enferme dans le coffre-fort de la réserve.
 
@@ -2029,14 +2048,13 @@ Ils se retournèrent tous les deux, d'un même geste, vers la fenêtre du premie
 
 La lumière avait disparu.
 
-Pas éteinte progressivement, comme si quelqu'un avait fini son travail et
-refermé la pièce derrière lui. Disparue d'un coup, exactement au moment précis
-où ils avaient cessé de la surveiller pour regarder l'écran du téléphone —
-comme si quelqu'un, à l'intérieur, avait su, avec une précision presque
-impossible, exactement quand leur attention s'était détournée.
+Pas éteinte progressivement, comme quand on referme une pièce derrière soi.
+Disparue d'un coup, exactement au moment précis où ils avaient cessé de la
+surveiller pour regarder l'écran du téléphone. Comme si, à l'intérieur,
+quelqu'un avait su exactement quand leur attention s'était détournée.
 
-Un frisson remonta le long du dos de Souly, un frisson qu'il choisit, cette
-fois, de ne pas cacher, de ne pas nier, simplement de ressentir pleinement, là,
+Un frisson remonta le long du dos de Souly. Cette fois, il choisit de ne pas le
+cacher, de ne pas le nier, simplement de le ressentir pleinement, là,
 debout dans le jardin de sa grand-mère, à côté de sa petite sœur, face à un
 musée plongé dans une obscurité soudaine et totale qui, pour la première fois de
 la semaine, ne lui sembla plus être un simple problème de câbles électriques.
@@ -2054,11 +2072,10 @@ amusante, venait peut-être de devenir quelque chose de beaucoup plus sérieux.
 — Théo, dit Souly, en reprenant son souffle du mieux qu'il pouvait, il faut qu'on
 te montre un truc. Sur la bandelette. Et sur le musée. Ce soir. Maintenant.
 
-Théo, remarquant enfin l'expression sur leurs visages, reposa sa fourchette sans
-un mot, et pour la première fois depuis leur arrivée à Bellerive-sur-Loire,
-Souly le vit — lui, l'archéologue increvable, l'homme qui plaisantait de tout, y
-compris des malédictions égyptiennes — paraître, l'espace d'un instant, sincèrement
-inquiet.
+Théo remarqua enfin l'expression sur leurs visages et reposa sa fourchette sans
+un mot. Pour la première fois depuis leur arrivée à Bellerive-sur-Loire, Souly le
+vit paraître sincèrement inquiet, lui, l'archéologue increvable, l'homme qui
+plaisantait de tout, y compris des malédictions égyptiennes.
 
 Sofia lui tendit son téléphone sans un mot. Théo chaussa ses lunettes, prit
 l'appareil avec autant de précaution que s'il s'agissait d'un objet vieux de
@@ -2114,9 +2131,9 @@ cachette dans les dix minutes ».
 Pas d'exploration en solo, pas de fenêtre à escalader, rien. On regarde, on
 vérifie que tout va bien, et on rentre. C'est un accord, ou vous restez ici.
 
-— C'est un accord, dirent Sofia et Souly d'une seule voix, avec un enthousiasme
-qui laissait présager qu'ils comptaient bien réévaluer les termes exacts de cet
-accord une fois sur place.
+— C'est un accord, dirent Sofia et Souly d'une seule voix, un peu trop vite pour
+être totalement honnêtes : ils comptaient bien réévaluer les termes exacts de
+cet accord une fois sur place.
 
 ---
 
@@ -2165,6 +2182,19 @@ entre les deux battants.
 remarqué, quand la situation devenait sérieuse au point qu'il fallait absolument
 paraître calme, ce n'est pas un vieux câble électrique fatigué. Quelqu'un a
 forcé cette fenêtre. Peut-être ce soir. Peut-être avant.
+
+— Mais c'est bizarre, non ? dit Souly lentement, en fronçant les sourcils.
+Julien a un badge. Il peut entrer par la porte, allumer les lumières, personne
+ne trouverait ça suspect. Pourquoi quelqu'un qui travaille ici forcerait une
+fenêtre en pleine nuit, comme un cambrioleur de film ?
+
+— Sauf si c'est justement le but, dit Sofia après un silence. Faire croire que
+c'est un cambrioleur de film. Pour qu'on ne pense pas à quelqu'un qui a un
+badge.
+
+Personne, dans la réserve, ne trouva rien à répondre à ça, pas même Théo, qui
+regarda sa petite-nièce de huit ans avec ce qui ressemblait, chaque jour un peu
+plus, à du respect professionnel.
 
 — Mais le coffre est intact, répéta Mme Bamba, comme pour se rassurer elle-même.
 Rien n'a été volé cette fois.
@@ -2265,9 +2295,8 @@ m'inquiète le plus, dans cette phrase.
 — Nous, on sait, dirent Sofia et Souly en même temps, avec un aplomb qui, pour la
 première fois de la semaine, sembla presque légitime.
 
-Et cette fois, pour une fois, Théo ne trouva rien à répondre qui puisse les
-convaincre du contraire. L'enquête, la vraie, venait tout juste de commencer —
-et elle n'attendrait certainement pas qu'ils finissent de grandir pour continuer
-sans eux.
+Théo ouvrit la bouche pour répondre quelque chose, la referma, et se contenta,
+finalement, de leur ébouriffer les cheveux à tous les deux en même temps — ce qui,
+de la part de Théo, valait toutes les réponses du monde.
 
 

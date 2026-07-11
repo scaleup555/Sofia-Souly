@@ -1,11 +1,11 @@
 # Chapitre 3 — Le carnet des preuves
 
 Le musée, une fois les visiteurs partis et les volets à moitié fermés, ressemblait
-à un animal endormi. Les bruits de la journée — les pas sur le parquet, les
-discussions à voix basse, le cliquetis des appareils photo — avaient laissé place
-à un silence épais, seulement troublé par le tic-tac d'une vieille horloge dans le
-couloir et, de temps en temps, le grincement d'une latte de plancher qui se
-refroidissait.
+à un animal endormi. Les bruits de la journée avaient disparu : plus de pas sur
+le parquet, plus de discussions à voix basse, plus de cliquetis d'appareils
+photo. Seul restait un silence épais, troublé par le tic-tac d'une vieille
+horloge dans le couloir et, de temps en temps, le grincement d'une latte de
+plancher qui se refroidissait.
 
 — C'est vachement plus impressionnant sans personne dedans, chuchota Sofia.
 
@@ -23,8 +23,8 @@ La réserve n'avait rien à voir avec les salles d'exposition, si soigneusement
 bordée d'étagères métalliques jusqu'au plafond, chargées de caisses en bois, de
 boîtes en carton étiquetées d'une écriture serrée, de statuettes enveloppées dans
 du papier bulle, et d'un carton entier, dans un coin, qui semblait ne contenir que
-des boutons de porte anciens — vestiges, sans doute, d'une autre exposition,
-oubliée depuis longtemps.
+des boutons de porte anciens : vestiges d'une autre exposition, oubliée depuis
+longtemps.
 
 — Bienvenue dans les coulisses, dit Théo en allumant une rangée de néons qui
 clignotèrent avant de se stabiliser. C'est ici que vit tout ce qu'on ne montre
@@ -46,9 +46,9 @@ exactement comme ça qu'on retrouve les erreurs qui traînent depuis vingt ans.
 — Vous allez être des vrais documentalistes, corrigea Mme Bamba, ce qui est
 presque aussi important, et beaucoup moins salissant.
 
-Souly, qui aimait les tâches qui ressemblaient à des listes — c'est-à-dire
-pratiquement toutes les tâches qu'on pouvait lui confier —, se jeta sur le travail
-avec un enthousiasme presque suspect. Il vérifiait chaque numéro deux fois,
+Souly aimait les tâches qui ressemblaient à des listes, c'est-à-dire pratiquement
+toutes les tâches qu'on pouvait lui confier, et se jeta sur le travail avec un
+enthousiasme presque suspect. Il vérifiait chaque numéro deux fois,
 alignait les boîtes avec une précision militaire, et corrigeait même, à un moment,
 une étiquette où quelqu'un avait écrit « scarabé » au lieu de « scarabée », ce qui
 lui procura une joie disproportionnée.
@@ -149,7 +149,23 @@ finir par déchiffrer le code.
 
 — Ça a l'air facile, dit Sofia.
 
-— Ça a pris plus de vingt ans, dit Théo avec un petit rire. Des savants très
+Un fracas retentit soudain au fond de la réserve — une pile de boîtes en carton,
+mal empilée depuis le début de la soirée, venait de s'effondrer sur le sol dans
+un nuage de poussière, entraînant avec elle un carton entier de boutons de porte
+qui roulèrent dans toutes les directions avec un bruit de billes.
+
+— Ce n'est rien ! cria Mme Bamba depuis l'autre bout de la pièce, à quatre
+pattes en train de rattraper des boutons avant qu'ils ne disparaissent sous les
+étagères. Continuez, continuez, je gère.
+
+Sofia et Souly se précipitèrent quand même pour l'aider, ramassant des
+poignées entières de boutons de toutes les couleurs pendant que Théo, resté
+assis sur son tabouret, les regardait faire avec un amusement évident.
+
+— Bon, dit Sofia en se rasseyant, un peu essoufflée, les mains encore pleines de
+poussière. Où on en était ?
+
+— Ça a pris plus de vingt ans, reprit Théo avec un petit rire. Des savants très
 brillants s'y sont cassé les dents. Et c'est là qu'intervient notre jeune homme
 têtu : Jean-François Champollion. Passionné par l'Égypte depuis l'enfance — il
 apprenait des langues anciennes tout seul dès l'âge de onze ans, Sofia, comme je
@@ -195,9 +211,9 @@ table avec une détermination soudaine qui fit sursauter le gobelet de café fro
 de Mme Bamba. On pourra chercher avec toi. Deux paires d'yeux en plus, tu l'as dit
 toi-même !
 
-Théo échangea un regard avec Mme Bamba, qui haussa les épaules avec un sourire qui
-voulait clairement dire « pourquoi pas, on a déjà des enfants dans la réserve d'un
-musée un mardi soir, ça ne peut plus vraiment être plus étrange ».
+Théo échangea un regard avec Mme Bamba, qui haussa les épaules. Son sourire
+voulait clairement dire « pourquoi pas, on a déjà des enfants dans la réserve
+d'un musée un mardi soir, ça ne peut plus vraiment être plus étrange ».
 
 — D'accord, dit Théo. Une leçon. Une seule, ce soir, parce qu'il se fait tard et
 que votre grand-mère va s'inquiéter. Prenez vos carnets.
@@ -205,7 +221,7 @@ que votre grand-mère va s'inquiéter. Prenez vos carnets.
 ---
 
 Il leur montra une douzaine de signes fondamentaux — l'œil qui représentait le
-son « ir » et aussi, dans certains contextes, le concept de « voir » ; le petit
+son « ir » et aussi, dans certains contextes, le verbe « faire » ; le petit
 carré qui se prononçait « pr » et signifiait « maison » ; l'oiseau appelé
 « poussin de caille » qui donnait le son « ou » ; le trait vertical simple, qu'on
 ajoutait souvent après un mot pour montrer qu'il s'agissait d'un seul objet.
@@ -263,9 +279,9 @@ millimètre. Fais le mien maintenant, Souly.
 Souly, qui prenait toujours un peu trop son temps sur ce genre de tâche, passa
 un quart d'heure entier à essayer de décomposer parfaitement les sons de
 « Soulaiman », consultant deux fois le tableau, biffant trois versions
-différentes, avant d'obtenir un cartouche qu'il jugea enfin acceptable — jusqu'à
-ce que Sofia, en l'examinant avec un sérieux terrible, pointe du doigt le
-troisième signe.
+différentes, avant d'obtenir un cartouche qu'il jugea enfin acceptable. Sofia
+l'examina en silence, plissant les yeux, puis pointa du doigt le troisième
+signe.
 
 — C'est pas un cobra, ça, Souly. Tu as dessiné un ver de terre avec des yeux.
 
@@ -294,8 +310,8 @@ trait, avec la grimace de quelqu'un qui regrette immédiatement son choix.
 
 — Alors, demanda Mamie Rose, cette réserve secrète ?
 
-— On apprend à lire les hiéroglyphes, dit Souly, avec un sérieux absolu, comme s'il
-venait d'annoncer qu'il avait résolu une équation compliquée.
+— On apprend à lire les hiéroglyphes, annonça Souly, aussi fier que s'il venait
+de résoudre une équation compliquée.
 
 — Et on va résoudre le mystère de la bandelette avant tout le monde, ajouta Sofia.
 
@@ -304,11 +320,11 @@ d'ironie, avec cette confiance absolue et un peu déroutante qu'elle avait toujo
 en eux. Maintenant, venez, la tarte aux pommes d'hier ne va pas se manger toute
 seule, et croyez-moi, elle en a très envie.
 
-Avant de partir, Théo rangea soigneusement le fragment de bandelette dans une boîte
-capitonnée, qu'il glissa lui-même dans le coffre-fort de la réserve — un vieux
-modèle massif, à roue de chiffres, qui datait sans doute des années soixante-dix
-et qui grinçait chaque fois qu'on le manipulait, comme s'il protestait contre le
-poids de sa propre responsabilité.
+Avant de partir, Théo rangea soigneusement le fragment de bandelette dans une
+boîte capitonnée, qu'il glissa lui-même dans le coffre-fort de la réserve. C'était
+un vieux modèle massif, à roue de chiffres, qui datait des années soixante-dix et
+grinçait chaque fois qu'on le manipulait, comme s'il protestait contre le poids
+de sa propre responsabilité.
 
 — Pourquoi tu le mets pas juste dans la vitrine avec la momie ? demanda Sofia.
 
@@ -333,12 +349,13 @@ rentré chez lui bien avant eux, en saluant tout le monde avec son sourire habit
 et sa promesse d'être « frais comme un gardon » pour la grande soirée
 d'inauguration du surlendemain.
 
-Il n'en parla à personne. Pas encore. Ce n'était, après tout, probablement rien —
-une lampe oubliée allumée, comme il en existe des milliers chaque soir dans des
-milliers de bureaux à travers le monde. Mais il le nota quand même, tout en bas
-d'une page de son Carnet des Preuves, sous la rubrique qu'il venait tout juste de
-créer et qu'il avait intitulée, avec toute la gravité de ses douze ans : « Choses
-bizarres qui sont peut-être rien. »
+Il n'en parla à personne. Une lampe oubliée allumée, ça arrive à n'importe qui,
+n'importe quel soir. Mais il le nota quand même, tout en bas d'une page de son
+Carnet des Preuves, sous une rubrique qu'il venait tout juste de créer et qu'il
+avait intitulée, avec toute la gravité de ses douze ans : « Choses bizarres qui
+sont peut-être rien. »
 
-La liste, pour l'instant, ne comptait que trois lignes. Elle allait beaucoup, beaucoup
-s'allonger.
+Trois lignes, pour l'instant. Il referma le carnet, le glissa sous son bras, et
+pressa le pas pour rattraper Sofia et Mamie Rose, déjà loin devant, en train de
+se disputer joyeusement pour savoir s'il restait, ou non, une part de tarte aux
+pommes.
