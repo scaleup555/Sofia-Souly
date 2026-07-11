@@ -166,9 +166,9 @@ derrière les rideaux fermés pour protéger les objets. Il y eut un cri, puis u
 autre, un bruit de chaise renversée, quelqu'un qui riait nerveusement, quelqu'un
 d'autre qui disait « c'est bon, c'est bon, c'est juste les plombs ».
 
-Souly sentit son cœur cogner d'une façon qu'il détestait profondément, cette
-sensation familière et détestée qui montait chaque fois que le noir tombait trop
-vite, trop complètement — mais il serra les dents, respira, et compta. Un. Deux.
+Souly sentit monter cette panique familière et détestée, celle qui arrivait
+chaque fois que le noir tombait trop vite, trop complètement — mais il serra
+les dents, respira, et compta. Un. Deux.
 Trois. Quatre. Cinq. À huit, une lumière de secours orangée s'alluma au-dessus de
 la sortie de secours, suffisante pour distinguer les silhouettes, et quelques
 secondes plus tard, les plafonniers principaux revinrent, clignotèrent deux fois,

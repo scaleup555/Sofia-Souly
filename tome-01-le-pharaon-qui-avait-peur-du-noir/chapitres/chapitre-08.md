@@ -151,7 +151,7 @@ persistant.
 — Il va nous aider ? demanda-t-elle.
 
 — Il m'a dit qu'il aimerait beaucoup consulter les mêmes preuves que vous
-avez accumulées, dit Théo, avec un sourire qu'il ne put entièrement retenir.
+avez accumulées, dit Théo, un sourire lui échappant malgré lui.
 Apparemment, il a été assez impressionné par votre... méthode. Même si le
 lieu et le moment choisis pour l'accusation laissaient un peu à désirer.
 
@@ -237,7 +237,7 @@ même temps. Pour une fois, personne ne feignait rien.
 habituelle.
 
 Vasploix se leva, rangea son carnet, et s'arrêta un instant sur le pas de la
-porte, se retournant vers eux avec une expression presque amusée.
+porte, se retournant vers eux, presque amusé.
 
 — Une dernière chose, dit-il. La prochaine fois que vous accusez quelqu'un en
 public, assurez-vous d'abord qu'il n'a pas de badge officiel dans la poche.

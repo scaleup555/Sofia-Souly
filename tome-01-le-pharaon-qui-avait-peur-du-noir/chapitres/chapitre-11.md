@@ -1,8 +1,8 @@
 # Chapitre 11 — Ce que disait vraiment la bandelette
 
 Le vendredi soir, veille de la cérémonie, Théo les convoqua dans son petit
-bureau du musée avec une expression si sérieuse que Sofia se demanda un
-instant s'il n'y avait pas eu un nouvel incident.
+bureau du musée, si sérieux que Sofia se demanda un instant s'il n'y avait
+pas eu un nouvel incident.
 
 — J'ai terminé la traduction, annonça-t-il, en refermant la porte derrière
 eux avec un soin inhabituel, comme s'il craignait que les murs eux-mêmes
@@ -247,9 +247,8 @@ la rénovation complète du musée — Souly se retrouva un instant seul avec
 Théo, à l'écart de la foule qui se dispersait lentement vers le buffet
 installé sur la place.
 
-— Ça va ? demanda Théo, qui avait remarqué, avec cette attention
-particulière qu'il portait toujours à ses petits-neveux, quelque chose de
-différent dans l'expression de Souly.
+— Ça va ? demanda Théo, qui, comme toujours avec ses petits-neveux, avait
+tout de suite remarqué que quelque chose clochait chez Souly.
 
 — Un prince avait peur du noir, répéta Souly, comme s'il avait besoin de se
 le redire une troisième fois pour vraiment y croire. Un vrai prince. Et sa

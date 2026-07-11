@@ -34,8 +34,8 @@ Une lumière venait de s'allumer. Pas la lumière franche et blanche des néons 
 bureau : une lumière plus petite, plus mobile, plus jaune. Une lampe de poche,
 tenue à la main.
 
-Le cœur de Souly se mit à battre plus vite. Pas à cause du noir, cette fois.
-À cause de ce qu'il pouvait cacher.
+Souly se redressa d'un coup. Pas à cause du noir, cette fois. À cause de ce
+que cette lumière-là pouvait bien cacher.
 
 — C'est peut-être Julien, chuchota-t-il. Qui a oublié un truc.
 
@@ -178,8 +178,8 @@ Disparue d'un coup, exactement au moment précis où ils avaient cessé de la
 surveiller pour regarder l'écran du téléphone. Comme si, à l'intérieur,
 quelqu'un avait su exactement quand leur attention s'était détournée.
 
-Un frisson remonta le long du dos de Souly. Cette fois, il choisit de ne pas le
-cacher, de ne pas le nier, simplement de le ressentir pleinement, là,
+Souly sentit sa peur familière revenir d'un coup. Cette fois, il choisit de
+ne pas la cacher, de ne pas la nier, simplement de la laisser être là,
 debout dans le jardin de sa grand-mère, à côté de sa petite sœur, face à un
 musée plongé dans une obscurité soudaine et totale qui, pour la première fois de
 la semaine, ne lui sembla plus être un simple problème de câbles électriques.

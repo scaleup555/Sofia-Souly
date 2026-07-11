@@ -255,7 +255,7 @@ POINTEUR — TOURNOI DE BELLERIVE 2019 » — qui rebondit deux fois avant de ro
 sous une bibliothèque.
 
 Sofia et Souly, n'ayant nulle part où se cacher aussi vite, adoptèrent la
-stratégie qui leur avait toujours plus ou moins réussi dans ce genre de
+stratégie qui leur avait toujours plus ou moins réussi en pareille
 situation : ils s'immobilisèrent complètement, debout au milieu de la pièce,
 avec l'expression de deux enfants qui n'ont absolument rien à cacher, ce qui,
 statistiquement, ne trompe jamais personne, mais qu'ils tentèrent quand même.

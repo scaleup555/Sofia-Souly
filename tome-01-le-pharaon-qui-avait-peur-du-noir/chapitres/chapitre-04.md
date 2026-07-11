@@ -309,10 +309,10 @@ voilà, ça, c'était accrocheur.
 
 — Elle va vraiment écrire ça, la malédiction ? demanda Sofia, horrifiée.
 
-— Les journaux aiment les histoires qui font peur, dit Théo, apparu derrière eux
-avec une expression grave qui avait remplacé son enthousiasme de la soirée. Elles
-se vendent mieux que les histoires de câbles électriques défectueux, même quand
-les câbles électriques défectueux sont la vraie explication.
+— Les journaux aiment les histoires qui font peur, dit Théo, apparu derrière
+eux, tout son enthousiasme de la soirée envolé. Elles se vendent mieux que
+les histoires de câbles électriques défectueux, même quand les câbles
+électriques défectueux sont la vraie explication.
 
 — Mais si les gens croient vraiment à une malédiction, dit Souly lentement, en
 assemblant les pièces à voix haute, ils vont arrêter de venir au musée. Par peur.

@@ -206,10 +206,9 @@ pas de version en grec pour nous aider.
 connaît déjà des hiéroglyphes classiques, signe par signe, comme un puzzle
 incomplet.
 
-— Alors apprends-nous les signes qu'on connaît déjà, dit Sofia, en tapant sur la
-table avec une détermination soudaine qui fit sursauter le gobelet de café froid
-de Mme Bamba. On pourra chercher avec toi. Deux paires d'yeux en plus, tu l'as dit
-toi-même !
+— Alors apprends-nous les signes qu'on connaît déjà, dit Sofia, en tapant sur
+la table si fort que le gobelet de café froid de Mme Bamba en sursauta. On
+pourra chercher avec toi. Deux paires d'yeux en plus, tu l'as dit toi-même !
 
 Théo échangea un regard avec Mme Bamba, qui haussa les épaules. Son sourire
 voulait clairement dire « pourquoi pas, on a déjà des enfants dans la réserve

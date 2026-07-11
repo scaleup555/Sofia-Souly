@@ -11,8 +11,8 @@ momie. Les trois premiers jours durent une éternité, et les trois derniers
 disparaissent en un clin d'œil. Personne n'a jamais réussi à comprendre
 pourquoi.
 
-— C'est peut-être une malédiction, dit Sofia, avec un sourire qui montrait
-bien qu'elle plaisantait, cette fois.
+— C'est peut-être une malédiction, dit Sofia, un sourire en coin trahissant
+qu'elle plaisantait, cette fois.
 
 — Ne recommence jamais avec ce mot-là, dit Mamie Rose, mi-sévère mi-amusée.
 On en a eu pour toute la saison.

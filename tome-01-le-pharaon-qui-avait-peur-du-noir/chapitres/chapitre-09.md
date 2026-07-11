@@ -224,8 +224,7 @@ le petit scarabée doré du 14, trois autres pièces que personne n'avait encore
 remarquées disparues.
 
 Vasploix s'accroupit un instant près de Julien, toujours assis contre le mur,
-et examina ses chaussures avec une attention professionnelle avant de se
-tourner vers Souly.
+et examina longuement ses chaussures avant de se tourner vers Souly.
 
 — Pointure quarante-trois, dit-il. Ça correspond à l'empreinte que vous avez
 relevée sous la fenêtre de la réserve, la semaine dernière. Bon travail,
@@ -253,8 +252,8 @@ failli provoquer.
 
 Sofia hocha la tête, satisfaite d'avoir enfin sa réponse, même si celle-ci
 n'était pas exactement celle qu'elle avait imaginée, et retourna s'asseoir
-contre le mur, à côté de Souly. Elle le regardait avec une expression qu'il
-ne lui connaissait pas — un mélange de fierté et d'une inquiétude qu'elle ne
+contre le mur, à côté de Souly. Elle le dévisageait comme elle ne l'avait
+jamais fait avant — un mélange de fierté et d'une inquiétude qu'elle ne
 cherchait même pas à cacher.
 
 — Tu as bloqué la porte, dit-elle. Dans le noir complet. Tout seul.

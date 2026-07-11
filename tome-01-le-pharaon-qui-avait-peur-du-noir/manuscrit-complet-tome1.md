@@ -1,7 +1,7 @@
 # Sofia & Souly
 ## Tome 1 — Le Pharaon qui avait peur du noir
 
-*(Manuscrit complet — 12 chapitres — v2 après corrections post-jury 8,0/10)*
+*(Manuscrit complet — 12 chapitres — v3 après corrections post-jury 8,4/10)*
 
 # Chapitre 1 — Valise, veilleuse-grenouille et une caisse en bois
 
@@ -555,9 +555,9 @@ derrière les rideaux fermés pour protéger les objets. Il y eut un cri, puis u
 autre, un bruit de chaise renversée, quelqu'un qui riait nerveusement, quelqu'un
 d'autre qui disait « c'est bon, c'est bon, c'est juste les plombs ».
 
-Souly sentit son cœur cogner d'une façon qu'il détestait profondément, cette
-sensation familière et détestée qui montait chaque fois que le noir tombait trop
-vite, trop complètement — mais il serra les dents, respira, et compta. Un. Deux.
+Souly sentit monter cette panique familière et détestée, celle qui arrivait
+chaque fois que le noir tombait trop vite, trop complètement — mais il serra
+les dents, respira, et compta. Un. Deux.
 Trois. Quatre. Cinq. À huit, une lumière de secours orangée s'alluma au-dessus de
 la sortie de secours, suffisante pour distinguer les silhouettes, et quelques
 secondes plus tard, les plafonniers principaux revinrent, clignotèrent deux fois,
@@ -983,10 +983,9 @@ pas de version en grec pour nous aider.
 connaît déjà des hiéroglyphes classiques, signe par signe, comme un puzzle
 incomplet.
 
-— Alors apprends-nous les signes qu'on connaît déjà, dit Sofia, en tapant sur la
-table avec une détermination soudaine qui fit sursauter le gobelet de café froid
-de Mme Bamba. On pourra chercher avec toi. Deux paires d'yeux en plus, tu l'as dit
-toi-même !
+— Alors apprends-nous les signes qu'on connaît déjà, dit Sofia, en tapant sur
+la table si fort que le gobelet de café froid de Mme Bamba en sursauta. On
+pourra chercher avec toi. Deux paires d'yeux en plus, tu l'as dit toi-même !
 
 Théo échangea un regard avec Mme Bamba, qui haussa les épaules. Son sourire
 voulait clairement dire « pourquoi pas, on a déjà des enfants dans la réserve
@@ -1449,10 +1448,10 @@ voilà, ça, c'était accrocheur.
 
 — Elle va vraiment écrire ça, la malédiction ? demanda Sofia, horrifiée.
 
-— Les journaux aiment les histoires qui font peur, dit Théo, apparu derrière eux
-avec une expression grave qui avait remplacé son enthousiasme de la soirée. Elles
-se vendent mieux que les histoires de câbles électriques défectueux, même quand
-les câbles électriques défectueux sont la vraie explication.
+— Les journaux aiment les histoires qui font peur, dit Théo, apparu derrière
+eux, tout son enthousiasme de la soirée envolé. Elles se vendent mieux que
+les histoires de câbles électriques défectueux, même quand les câbles
+électriques défectueux sont la vraie explication.
 
 — Mais si les gens croient vraiment à une malédiction, dit Souly lentement, en
 assemblant les pièces à voix haute, ils vont arrêter de venir au musée. Par peur.
@@ -1732,7 +1731,7 @@ POINTEUR — TOURNOI DE BELLERIVE 2019 » — qui rebondit deux fois avant de ro
 sous une bibliothèque.
 
 Sofia et Souly, n'ayant nulle part où se cacher aussi vite, adoptèrent la
-stratégie qui leur avait toujours plus ou moins réussi dans ce genre de
+stratégie qui leur avait toujours plus ou moins réussi en pareille
 situation : ils s'immobilisèrent complètement, debout au milieu de la pièce,
 avec l'expression de deux enfants qui n'ont absolument rien à cacher, ce qui,
 statistiquement, ne trompe jamais personne, mais qu'ils tentèrent quand même.
@@ -1905,8 +1904,8 @@ Une lumière venait de s'allumer. Pas la lumière franche et blanche des néons 
 bureau : une lumière plus petite, plus mobile, plus jaune. Une lampe de poche,
 tenue à la main.
 
-Le cœur de Souly se mit à battre plus vite. Pas à cause du noir, cette fois.
-À cause de ce qu'il pouvait cacher.
+Souly se redressa d'un coup. Pas à cause du noir, cette fois. À cause de ce
+que cette lumière-là pouvait bien cacher.
 
 — C'est peut-être Julien, chuchota-t-il. Qui a oublié un truc.
 
@@ -2049,8 +2048,8 @@ Disparue d'un coup, exactement au moment précis où ils avaient cessé de la
 surveiller pour regarder l'écran du téléphone. Comme si, à l'intérieur,
 quelqu'un avait su exactement quand leur attention s'était détournée.
 
-Un frisson remonta le long du dos de Souly. Cette fois, il choisit de ne pas le
-cacher, de ne pas le nier, simplement de le ressentir pleinement, là,
+Souly sentit sa peur familière revenir d'un coup. Cette fois, il choisit de
+ne pas la cacher, de ne pas la nier, simplement de la laisser être là,
 debout dans le jardin de sa grand-mère, à côté de sa petite sœur, face à un
 musée plongé dans une obscurité soudaine et totale qui, pour la première fois de
 la semaine, ne lui sembla plus être un simple problème de câbles électriques.
@@ -2364,8 +2363,8 @@ plus s'offusquer.
 C'est alors qu'une ombre traversa la cour arrière du musée.
 
 Pas une lumière, cette fois. Une silhouette entière, se déplaçant vite, rasant
-le mur, contournant la benne à ordures municipale avec une aisance qui
-trahissait, encore une fois, une bonne connaissance des lieux.
+le mur, contournant la benne à ordures municipale sans même y jeter un
+regard — encore une fois, une bonne connaissance des lieux.
 
 — Souly, souffla Sofia.
 
@@ -2842,7 +2841,7 @@ persistant.
 — Il va nous aider ? demanda-t-elle.
 
 — Il m'a dit qu'il aimerait beaucoup consulter les mêmes preuves que vous
-avez accumulées, dit Théo, avec un sourire qu'il ne put entièrement retenir.
+avez accumulées, dit Théo, un sourire lui échappant malgré lui.
 Apparemment, il a été assez impressionné par votre... méthode. Même si le
 lieu et le moment choisis pour l'accusation laissaient un peu à désirer.
 
@@ -2928,7 +2927,7 @@ même temps. Pour une fois, personne ne feignait rien.
 habituelle.
 
 Vasploix se leva, rangea son carnet, et s'arrêta un instant sur le pas de la
-porte, se retournant vers eux avec une expression presque amusée.
+porte, se retournant vers eux, presque amusé.
 
 — Une dernière chose, dit-il. La prochaine fois que vous accusez quelqu'un en
 public, assurez-vous d'abord qu'il n'a pas de badge officiel dans la poche.
@@ -3279,8 +3278,7 @@ le petit scarabée doré du 14, trois autres pièces que personne n'avait encore
 remarquées disparues.
 
 Vasploix s'accroupit un instant près de Julien, toujours assis contre le mur,
-et examina ses chaussures avec une attention professionnelle avant de se
-tourner vers Souly.
+et examina longuement ses chaussures avant de se tourner vers Souly.
 
 — Pointure quarante-trois, dit-il. Ça correspond à l'empreinte que vous avez
 relevée sous la fenêtre de la réserve, la semaine dernière. Bon travail,
@@ -3308,8 +3306,8 @@ failli provoquer.
 
 Sofia hocha la tête, satisfaite d'avoir enfin sa réponse, même si celle-ci
 n'était pas exactement celle qu'elle avait imaginée, et retourna s'asseoir
-contre le mur, à côté de Souly. Elle le regardait avec une expression qu'il
-ne lui connaissait pas — un mélange de fierté et d'une inquiétude qu'elle ne
+contre le mur, à côté de Souly. Elle le dévisageait comme elle ne l'avait
+jamais fait avant — un mélange de fierté et d'une inquiétude qu'elle ne
 cherchait même pas à cacher.
 
 — Tu as bloqué la porte, dit-elle. Dans le noir complet. Tout seul.
@@ -3738,8 +3736,8 @@ avait vraiment voulu dire. »
 # Chapitre 11 — Ce que disait vraiment la bandelette
 
 Le vendredi soir, veille de la cérémonie, Théo les convoqua dans son petit
-bureau du musée avec une expression si sérieuse que Sofia se demanda un
-instant s'il n'y avait pas eu un nouvel incident.
+bureau du musée, si sérieux que Sofia se demanda un instant s'il n'y avait
+pas eu un nouvel incident.
 
 — J'ai terminé la traduction, annonça-t-il, en refermant la porte derrière
 eux avec un soin inhabituel, comme s'il craignait que les murs eux-mêmes
@@ -3984,9 +3982,8 @@ la rénovation complète du musée — Souly se retrouva un instant seul avec
 Théo, à l'écart de la foule qui se dispersait lentement vers le buffet
 installé sur la place.
 
-— Ça va ? demanda Théo, qui avait remarqué, avec cette attention
-particulière qu'il portait toujours à ses petits-neveux, quelque chose de
-différent dans l'expression de Souly.
+— Ça va ? demanda Théo, qui, comme toujours avec ses petits-neveux, avait
+tout de suite remarqué que quelque chose clochait chez Souly.
 
 — Un prince avait peur du noir, répéta Souly, comme s'il avait besoin de se
 le redire une troisième fois pour vraiment y croire. Un vrai prince. Et sa
@@ -4026,8 +4023,8 @@ momie. Les trois premiers jours durent une éternité, et les trois derniers
 disparaissent en un clin d'œil. Personne n'a jamais réussi à comprendre
 pourquoi.
 
-— C'est peut-être une malédiction, dit Sofia, avec un sourire qui montrait
-bien qu'elle plaisantait, cette fois.
+— C'est peut-être une malédiction, dit Sofia, un sourire en coin trahissant
+qu'elle plaisantait, cette fois.
 
 — Ne recommence jamais avec ce mot-là, dit Mamie Rose, mi-sévère mi-amusée.
 On en a eu pour toute la saison.

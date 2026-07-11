@@ -66,8 +66,8 @@ plus s'offusquer.
 C'est alors qu'une ombre traversa la cour arrière du musée.
 
 Pas une lumière, cette fois. Une silhouette entière, se déplaçant vite, rasant
-le mur, contournant la benne à ordures municipale avec une aisance qui
-trahissait, encore une fois, une bonne connaissance des lieux.
+le mur, contournant la benne à ordures municipale sans même y jeter un
+regard — encore une fois, une bonne connaissance des lieux.
 
 — Souly, souffla Sofia.
 
