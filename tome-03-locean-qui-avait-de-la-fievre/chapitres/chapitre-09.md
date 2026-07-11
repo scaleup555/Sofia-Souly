@@ -81,8 +81,8 @@ portait par-dessus le vent avec une clarté presque irréelle.
 qui scrutait déjà l'obscurité dans la direction du cri, son instinct de
 marin plus fort, en cet instant, que sa prudence.
 
-Fara hésita une fraction de seconde à peine, puis vira sec vers le
-bateau en détresse plutôt que vers le port.
+Fara serra les dents et vira sec vers le bateau en détresse plutôt que
+vers le port.
 
 — Accrochez-vous, tous les trois. On ne laisse personne se noyer, même
 un capitaine de Lagon Bleu Excursions.
@@ -98,9 +98,10 @@ toujours crispée sur la chaîne d'ancre récalcitrante.
 
 — Lâchez la chaîne ! cria Noah. On s'en fiche, de votre ancre ! Montez !
 
-Le jeune homme hésita une seconde de trop, comme si l'idée d'abandonner
-une preuve compromettante lui coûtait plus que le danger réel, avant de
-finalement lâcher prise et de se hisser, tremblant, à bord du hors-bord,
+Le jeune homme resserra d'abord sa prise sur la chaîne, comme si l'idée
+d'abandonner une preuve compromettante lui coûtait plus que le danger
+réel, avant de finalement lâcher prise et de se hisser, tremblant, à
+bord du hors-bord,
 juste au moment où une vague plus haute que les autres soulevait le
 bateau blanc d'un coup brutal.
 

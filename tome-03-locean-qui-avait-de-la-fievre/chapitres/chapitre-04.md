@@ -45,7 +45,7 @@ sort très bien. Allez, jeune homme, ça vous dit ?
 
 Souly, pris entre l'envie irrépressible de dire non fermement et la
 tentation, tout aussi irrépressible, de conduire un vrai jet-ski pour la
-première fois de sa vie, hésita une demi-seconde de trop.
+première fois de sa vie, resta muet, incapable de choisir entre les deux.
 
 — Je... commença-t-il.
 

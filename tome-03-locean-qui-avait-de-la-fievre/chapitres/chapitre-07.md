@@ -93,9 +93,9 @@ démonter. Ça, on l'a bien compris, et c'est déjà assez grave comme ça.
 Mais le corail cassé, avec des marques de chaîne dessus, ce n'est pas la
 même chose. Ça, quelqu'un l'a fait.
 
-Christophe marqua une pause, à peine une fraction de seconde de trop,
-que Sofia, qui ne cherchait jamais rien de particulier mais remarquait
-tout, ne manqua pas de saisir.
+La mâchoire de Christophe se crispa, à peine — un détail que Sofia, qui
+ne cherchait jamais rien de particulier mais remarquait tout, ne manqua
+pas de saisir.
 
 — Les enfants ont beaucoup d'imagination, dit-il finalement, en
 retrouvant son aplomb. C'est tout à leur honneur. Mais accuser une
