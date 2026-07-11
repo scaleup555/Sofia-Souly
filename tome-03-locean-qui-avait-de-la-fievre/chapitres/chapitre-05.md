@@ -102,8 +102,8 @@ Noah la regarda, surpris par la franchise directe de la déclaration.
 
 — Vous le dites juste pour être gentils ? demanda-t-il, méfiant.
 
-— Je mens jamais, dit Sofia, avec un sérieux absolu. Jamais. Demande à
-Souly, c'est même un problème, des fois.
+— Je mens jamais, dit Sofia, le menton levé, sans l'ombre d'une hésitation.
+Jamais. Demande à Souly, c'est même un problème, des fois.
 
 — C'est vrai, confirma Souly, qui les avait rejoints. C'est un vrai
 problème, en fait. Une fois, à l'école, elle a dit à la maîtresse que son

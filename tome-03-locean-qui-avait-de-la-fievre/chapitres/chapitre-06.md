@@ -33,8 +33,8 @@ les bords sont irréguliers, arrondis par endroits. Celle-là, plus
 récente, les bords sont nets, presque droits, avec des marques parallèles
 qui reviennent à intervalles réguliers.
 
-Fara, qui les rejoignait avec un café encore fumant, se pencha sur les
-photos avec une attention immédiate.
+Fara, qui les rejoignait un café encore fumant à la main, se pencha
+aussitôt sur les photos.
 
 — Des marques parallèles et régulières, répéta-t-elle. Montre-moi ça de
 plus près.
@@ -64,8 +64,8 @@ de se former plus vite qu'elle ne pouvait la formuler à voix haute.
 personnes, dit Souly, terminant la phrase de sa sœur avec la même
 excitation contenue. Un bateau d'excursion touristique, par exemple.
 
-Un silence tomba sur la table, chargé de tout ce que personne n'osait
-encore affirmer complètement à voix haute.
+Personne, autour de la table, n'osa affirmer tout haut ce que chacun
+pensait déjà tout bas.
 
 — On n'a aucune preuve que c'est Lagon Bleu Excursions, dit Fara,
 prudente malgré l'excitation visible qui perçait dans sa propre voix.

@@ -22,8 +22,8 @@ jours, remarqua Souly, incrédule.
 
 — C'est exactement le moment où il en a le plus besoin, dit Fara, sombre.
 
-Christophe, apercevant Fara accompagnée des enfants, se dirigea vers eux
-avec un sourire commercial d'une largeur presque inquiétante.
+Christophe, apercevant Fara accompagnée des enfants, se dirigea vers eux,
+un sourire commercial si large qu'il en devenait presque inquiétant.
 
 — Fara ! Toujours à surveiller mon petit commerce d'un œil noir, à ce
 que je vois. Et ces jeunes gens, ce sont vos assistants scientifiques ?
@@ -121,8 +121,8 @@ un peu figé de quelqu'un qui calcule déjà, mentalement, le prix de
 plusieurs caisses de fruits de mer détruites. Nos machines restent
 parmi les plus sûres du marché, je vous assure.
 
-La mère de Noah, elle, contemplait son stand dévasté avec une expression
-qui n'annonçait rien de bon pour la suite de la soirée.
+La mère de Noah, elle, contemplait son stand dévasté en silence, les bras
+croisés, ce qui n'annonçait rien de bon pour la suite de la soirée.
 
 C'est le lendemain matin, alors que Sofia et Souly aidaient Fara à
 préparer le matériel pour une nouvelle sortie d'inspection du récif,

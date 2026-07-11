@@ -130,8 +130,9 @@ bas, ajouta Sofia, sans qu'on le lui demande.
 — On avait remarqué, dit Noah, et cette fois, le sourire alla jusqu'au
 bout, un vrai sourire, le premier de toute la matinée.
 
-Fara, qui les observait depuis son propre bateau, sentit quelque chose se
-détendre dans sa poitrine — pas seulement le soulagement de voir Noah
-enfin détendu, mais aussi, déjà, la certitude grandissante qu'elle venait
-de recruter, sans vraiment l'avoir prévu, la meilleure équipe d'enquête
-que ce lagon ait jamais connue.
+— Alors, dit Fara depuis son propre bateau, en démarrant le moteur pour
+le retour, on la trouve, cette preuve, ou on rentre tous les quatre les
+mains vides ce soir ?
+
+— On la trouve, dirent les trois enfants presque à l'unisson, avec un
+aplomb qu'aucun d'eux, une heure plus tôt, n'aurait cru possible.

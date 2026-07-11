@@ -1,7 +1,7 @@
 # Sofia & Souly
 ## Tome 3 — L'Océan qui avait de la fièvre
 
-*(Manuscrit en cours — Session 1 (tome 3), chapitres 1 à 6, v2 après jury 7,8/10)*
+*(Session 1 (tome 3) — chapitres 1 à 6 sur 12 — v3 après jury 8,6/10)*
 
 # Chapitre 1 — Le bleu qui n'était pas net
 
@@ -519,11 +519,12 @@ bas, ajouta Sofia, sans qu'on le lui demande.
 — On avait remarqué, dit Noah, et cette fois, le sourire alla jusqu'au
 bout, un vrai sourire, le premier de toute la matinée.
 
-Fara, qui les observait depuis son propre bateau, sentit quelque chose se
-détendre dans sa poitrine — pas seulement le soulagement de voir Noah
-enfin détendu, mais aussi, déjà, la certitude grandissante qu'elle venait
-de recruter, sans vraiment l'avoir prévu, la meilleure équipe d'enquête
-que ce lagon ait jamais connue.
+— Alors, dit Fara depuis son propre bateau, en démarrant le moteur pour
+le retour, on la trouve, cette preuve, ou on rentre tous les quatre les
+mains vides ce soir ?
+
+— On la trouve, dirent les trois enfants presque à l'unisson, avec un
+aplomb qu'aucun d'eux, une heure plus tôt, n'aurait cru possible.
 
 
 # Chapitre 4 — La fête du lagon et le jet-ski égaré
@@ -550,8 +551,8 @@ jours, remarqua Souly, incrédule.
 
 — C'est exactement le moment où il en a le plus besoin, dit Fara, sombre.
 
-Christophe, apercevant Fara accompagnée des enfants, se dirigea vers eux
-avec un sourire commercial d'une largeur presque inquiétante.
+Christophe, apercevant Fara accompagnée des enfants, se dirigea vers eux,
+un sourire commercial si large qu'il en devenait presque inquiétant.
 
 — Fara ! Toujours à surveiller mon petit commerce d'un œil noir, à ce
 que je vois. Et ces jeunes gens, ce sont vos assistants scientifiques ?
@@ -649,8 +650,8 @@ un peu figé de quelqu'un qui calcule déjà, mentalement, le prix de
 plusieurs caisses de fruits de mer détruites. Nos machines restent
 parmi les plus sûres du marché, je vous assure.
 
-La mère de Noah, elle, contemplait son stand dévasté avec une expression
-qui n'annonçait rien de bon pour la suite de la soirée.
+La mère de Noah, elle, contemplait son stand dévasté en silence, les bras
+croisés, ce qui n'annonçait rien de bon pour la suite de la soirée.
 
 C'est le lendemain matin, alors que Sofia et Souly aidaient Fara à
 préparer le matériel pour une nouvelle sortie d'inspection du récif,
@@ -766,8 +767,8 @@ Noah la regarda, surpris par la franchise directe de la déclaration.
 
 — Vous le dites juste pour être gentils ? demanda-t-il, méfiant.
 
-— Je mens jamais, dit Sofia, avec un sérieux absolu. Jamais. Demande à
-Souly, c'est même un problème, des fois.
+— Je mens jamais, dit Sofia, le menton levé, sans l'ombre d'une hésitation.
+Jamais. Demande à Souly, c'est même un problème, des fois.
 
 — C'est vrai, confirma Souly, qui les avait rejoints. C'est un vrai
 problème, en fait. Une fois, à l'école, elle a dit à la maîtresse que son
@@ -824,8 +825,8 @@ les bords sont irréguliers, arrondis par endroits. Celle-là, plus
 récente, les bords sont nets, presque droits, avec des marques parallèles
 qui reviennent à intervalles réguliers.
 
-Fara, qui les rejoignait avec un café encore fumant, se pencha sur les
-photos avec une attention immédiate.
+Fara, qui les rejoignait un café encore fumant à la main, se pencha
+aussitôt sur les photos.
 
 — Des marques parallèles et régulières, répéta-t-elle. Montre-moi ça de
 plus près.
@@ -855,8 +856,8 @@ de se former plus vite qu'elle ne pouvait la formuler à voix haute.
 personnes, dit Souly, terminant la phrase de sa sœur avec la même
 excitation contenue. Un bateau d'excursion touristique, par exemple.
 
-Un silence tomba sur la table, chargé de tout ce que personne n'osait
-encore affirmer complètement à voix haute.
+Personne, autour de la table, n'osa affirmer tout haut ce que chacun
+pensait déjà tout bas.
 
 — On n'a aucune preuve que c'est Lagon Bleu Excursions, dit Fara,
 prudente malgré l'excitation visible qui perçait dans sa propre voix.
