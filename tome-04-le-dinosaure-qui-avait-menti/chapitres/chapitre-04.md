@@ -276,7 +276,7 @@ grave et concentré.
 
 Marion, une fois les journalistes repartis vers d'autres stands plus
 photogéniques, s'approcha d'Inès avec un mélange d'inquiétude et
-d'espoir mal dissimulé.
+d'espoir.
 
 — Il y a quelque chose là-dedans, au moins ? demanda-t-elle, à voix
 basse, en désignant le bloc du menton. Quelque chose qu'on pourra

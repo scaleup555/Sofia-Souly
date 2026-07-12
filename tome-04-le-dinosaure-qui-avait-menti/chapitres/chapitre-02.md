@@ -1,10 +1,11 @@
 # Chapitre 2 — Comment mentir avec un caillou
 
 Le lendemain matin, Inès rassembla toute l'équipe sous la tente
-principale, une grande table couverte de plateaux compartimentés où
-s'alignaient des dizaines de fragments soigneusement étiquetés, pour ce
-qu'elle appelait, avec un clin d'œil, « la leçon obligatoire pour tout
+principale, autour d'une grande table couverte de plateaux
+compartimentés où s'alignaient des dizaines de fragments soigneusement
+étiquetés. C'était, avec un clin d'œil, « la leçon obligatoire pour tout
 nouveau visiteur qui touche à mes fossiles sans savoir ce que c'est ».
+
 Sofia s'installa au premier rang improvisé, sur une caisse retournée,
 son caillou porte-bonheur bien calé dans sa poche comme s'il avait, lui
 aussi, le droit d'assister au cours.
@@ -73,7 +74,7 @@ Très joli, très ancien à sa façon, mais un galet. « Lourd » ne veut pas
 dire « fossile » — ça veut juste dire « lourd ». Un bon scientifique ne
 s'arrête jamais au premier indice.
 
-Sofia rempocha son caillou, un peu vexée, mais nota tout de même
+Sofia rempocha son caillou, vexée, mais nota tout de même
 l'information dans un coin de sa tête — juste au cas où quelqu'un, un
 jour, tenterait de lui vendre un galet au prix d'un dinosaure.
 
@@ -94,7 +95,7 @@ qu'une seule belle pièce isolée.
 trouvées avant, résuma Sofia.
 
 — Oui, dit Inès, ravie. C'est même toute la beauté de ce métier :
-chaque nouvelle trouvaille rend toutes les précédentes un peu plus
+chaque nouvelle trouvaille rend toutes les précédentes plus
 intelligentes.
 
 — Et comment on sait l'âge exact d'un fossile ? demanda Sofia. Vous avez
@@ -194,7 +195,7 @@ en a une bien trop belle pour être vraie.
 Sofia leva les deux fragments à la lumière de la tente, les tournant
 lentement, comparant leur surface centimètre par centimètre.
 
-— Celui-là est un peu plus foncé, dit-elle finalement, en désignant le
+— Celui-là est plus foncé, dit-elle finalement, en désignant le
 second.
 
 — Voilà, dit Inès. Ils viennent de deux carrés différents,
@@ -205,8 +206,8 @@ faussaire pressé, ou pas assez soigneux, oublie toujours ce détail-là.
 Tomas, qui les avait rejoints entre-temps, s'essuya les mains sur son
 tablier de travail avant de reprendre la parole.
 
-— C'est un peu comme un mensonge trop bien préparé, dit-il. Plus une
-histoire semble parfaite, plus elle mérite qu'on la vérifie deux fois.
+— C'est comme un mensonge trop bien préparé, dit-il. Trop parfait pour
+être honnête.
 
 — J'aime beaucoup cette phrase, dit Inès. Je vais te la voler pour mes
 prochains cours.
@@ -245,7 +246,7 @@ long de l'ancien lit d'une rivière fossile ? Ce n'est pas un hasard :
 c'est là, précisément, que les carcasses d'animaux avaient le plus de
 chances d'être rapidement recouvertes de sédiments avant de pourrir.
 Sans cette carte, sans ces vingt années de relevés minutieux, on
-creuserait un peu partout, au petit bonheur la chance.
+creuserait au petit bonheur la chance.
 
 — Donc la carte elle-même, c'est presque une découverte, dit Souly,
 fasciné.
@@ -297,7 +298,7 @@ visibilité qu'on obtient cette année. On a besoin d'une vraie découverte
 à présenter, Inès. Quelque chose qui fasse parler, quelque chose qui
 donne envie aux gens de venir jusqu'ici plutôt qu'à la plage.
 
-— La science ne se commande pas à la demande, Marion, dit Inès, un peu
+— La science ne se commande pas à la demande, Marion, dit Inès,
 sèchement. On trouve ce qu'on trouve, quand on le trouve. Ça fait vingt
 ans que je fouille ce vallon, je ne vais pas commencer à inventer des
 résultats parce qu'un calendrier municipal l'exige.
@@ -315,9 +316,9 @@ plus qu'un ruban et deux panneaux.
 
 — On a déjà contacté les pompiers volontaires pour le balisage, et le
 boulanger a accepté de fermer sa camionnette une journée pour servir de
-poste de secours improvisé, dit Marion, en comptant sur ses doigts avec
-une énergie qui trahissait des nuits entières passées à organiser
-l'événement. On a même une buvette prévue, tenue par les parents
+poste de secours improvisé, dit Marion, en comptant sur ses doigts, les
+yeux cernés de plusieurs nuits trop courtes. On a même une buvette
+prévue, tenue par les parents
 d'élèves. Tout est prêt, sauf la seule chose qui compte vraiment : une
 raison pour que les gens viennent jusqu'ici plutôt qu'ailleurs.
 
@@ -348,8 +349,7 @@ le faire.
 — Alors fais-moi confiance encore un peu, dit Inès. Jusqu'à samedi.
 
 — On y travaille, dit Marion, d'une voix qui manquait singulièrement
-d'assurance, avant de se tourner brièvement vers les enfants, un peu
-gênée. Vous devez me
+d'assurance, avant de se tourner brièvement vers les enfants, gênée. Vous devez me
 trouver bien ennuyeuse, avec mes histoires de budget.
 
 — Pas du tout, dit Sofia, très sérieuse. On adore les histoires où
@@ -391,7 +391,7 @@ pour la fabriquer plutôt que de la trouver.
 
 Marion repartie, promettant de revenir le lendemain pour « caler les
 détails de samedi », Inès se tourna vers l'équipe rassemblée, son
-sourire masquant mal une réelle inquiétude.
+sourire qui ne trompait personne.
 
 — Bon, dit-elle. Vous avez tous entendu. Ce qui ne change rien à notre
 travail : on continue comme avant, méthodiquement, sans
@@ -451,7 +451,7 @@ Il rouvrit son carnet à une page vierge et commença, sans que personne
 ne le lui demande, une nouvelle colonne qu'il intitula simplement, en
 lettres capitales bien nettes : *PERSONNES À SURVEILLER*. Sofia,
 penchée par-dessus son épaule, ajouta elle-même, de sa propre écriture
-un peu moins soignée, une première ligne juste en dessous : « L'homme à
+moins appliquée, une première ligne juste en dessous : « L'homme à
 la veste beige. Ne se salit jamais les mains. »
 
 L'après-midi se poursuivit dans une atmosphère étrangement studieuse,
@@ -493,7 +493,7 @@ répond déjà à une vraie question qu'on vient de se poser.
 — Genre comment reconnaître un vrai fossile d'un faux, dit Sofia.
 
 — Genre ça, oui, lâcha Souly, en jetant un dernier regard vers
-le sentier par où avait disparu, un peu plus tôt, l'homme à la veste
+le sentier par où avait disparu, plus tôt, l'homme à la veste
 beige.
 
 Sur la page de son carnet, juste sous « L'homme à la veste beige. Ne

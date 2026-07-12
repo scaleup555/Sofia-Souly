@@ -122,10 +122,8 @@ qui ne lui ressemblait guère d'ordinaire.
 — Tu fais toujours ça, remarqua-t-elle. Deux piles. Toujours deux
 piles, pour tout.
 
-— C'est plus facile de réfléchir quand il n'y a que deux options à la
-fois, dit Souly, les yeux sur ses deux piles. Après, on peut toujours
-recombiner, séparer autrement. Mais il faut bien commencer quelque
-part.
+— Deux options, c'est plus facile à trier, dit Souly, les yeux sur ses
+deux piles. On recombine après, si besoin.
 
 — Et si la vérité est entre les deux piles ? demanda Sofia.
 

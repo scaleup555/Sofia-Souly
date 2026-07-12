@@ -1,8 +1,8 @@
 # Chapitre 5 — Ce que le carnet ne dit pas
 
 Le lendemain de la foire, Inès réunit les enfants et Milo autour de la
-tente principale, une expression sérieuse qui contrastait nettement avec
-la bonne humeur poussiéreuse de la veille. Ses cheveux gris,
+tente principale, le visage grave, plus rien de la bonne humeur
+poussiéreuse de la veille. Ses cheveux gris,
 habituellement bien coiffés, partaient dans tous les sens, et une
 deuxième tasse de café, déjà vide, trônait à côté de la première sur la
 table de travail — le signe d'une nuit courte, sinon d'une nuit
@@ -388,8 +388,8 @@ traces-là.
 — Alors pourquoi tout le monde va continuer à me soupçonner ? demanda
 Elsa, sans trop y croire.
 
-— Parce que les gens préfèrent souvent une explication simple à une
-explication vraie, dit Sofia sans détour. Mais nous, on préfère la vraie.
+— Parce que c'est plus simple, dit Sofia sans détour. Mais nous, on
+préfère la vraie explication à la simple.
 
 — Il faudrait quand même le dire à Inès, pour les mesures, ajouta
 Souly. Officiellement, pas juste entre nous. Comme ça, si les rumeurs

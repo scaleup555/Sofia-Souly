@@ -28,8 +28,8 @@ toujours été le cas.
 
 Il les observa un moment de plus, un chien roux couché à ses pieds
 levant à peine une oreille au passage de deux inconnus, avant de se
-laisser glisser du muret avec une souplesse qui trahissait des années
-entières passées à grimper dans les arbres et sur les rochers du champ.
+laisser glisser du muret d'un bond souple, du genre qu'on n'attrape
+qu'après des années à grimper dans les arbres et sur les rochers du champ.
 
 — Vous êtes les deux qui logent avec la Doctoresse Castellane, dit-il.
 J'ai entendu parler de vous, au marché.
@@ -59,10 +59,9 @@ devant un vieil olivier tordu, grimpa dessus avec une agilité
 déconcertante, et redescendit une poignée de petites olives encore
 vertes qu'il tendit aux enfants sans autre explication.
 
-— Elles sont amères, prévint-il, un sourire en coin. Personne ne les
-mange comme ça, jamais. Faut les laisser tremper des semaines dans la
-saumure avant qu'elles soient bonnes. Papet dit que c'est pareil pour
-la confiance : ça ne se cueille jamais tout de suite.
+— Elles sont amères, prévint-il, un sourire en coin. Faut les laisser
+tremper des semaines dans la saumure avant qu'elles soient bonnes.
+Comme la confiance, dit Papet. Ça ne se cueille pas tout de suite.
 
 Sofia mordit quand même dans la sienne, par pure curiosité, et fit une
 grimace si spectaculaire que Milo éclata d'un rire franc, le premier
@@ -133,8 +132,8 @@ montra du doigt les limites de leurs terres, un vaste triangle
 d'oliviers et de vignes basses descendant jusqu'au bord du vallon.
 
 — Tout ça, c'est à nous depuis mon arrière-arrière-grand-père, dit-il,
-avec une fierté tranquille qui contrastait nettement avec sa méfiance
-du début. On a jamais rien vendu, même dans les mauvaises années. Papet
+la fierté dans la voix, sa méfiance du début envolée. On a jamais rien
+vendu, même dans les mauvaises années. Papet
 dit toujours que la terre, une fois vendue, elle ne revient jamais.
 
 — Même à ce collectionneur qui rôde autour du chantier ? demanda
@@ -462,4 +461,5 @@ pas de questions.
 — C'est la stagiaire, chuchota Sofia. Elsa. Qu'est-ce qu'elle fait
 dehors toute seule, à cette heure-là, avec son carnet ?
 
-Souly rouvrit le sien sans un mot.
+La silhouette disparut derrière un roncier, et le silence retomba sur
+le sentier comme si personne n'était jamais passé par là.

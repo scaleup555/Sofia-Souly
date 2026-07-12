@@ -1,11 +1,13 @@
 # Chapitre 1 — La pierre qui n'était pas une pierre
 
 La route qui menait à Roc-Rouge grimpait en lacets serrés entre des
-collines couvertes de lavande fanée et de chênes rabougris, traversant
-de temps à autre un hameau de trois maisons et d'une fontaine, avant de
-replonger dans une garrigue odorante de thym et de résine chauffée par
-le soleil. Grand-oncle Théo, au volant de sa vieille voiture couleur
-d'olive, racontait depuis vingt bonnes minutes une histoire de fouille
+collines couvertes de lavande fanée et de chênes rabougris. Elle
+traversait de temps à autre un hameau de trois maisons et d'une
+fontaine, avant de replonger dans une garrigue odorante de thym et de
+résine chauffée par le soleil.
+
+Grand-oncle Théo, au volant de sa vieille voiture couleur d'olive,
+racontait depuis vingt bonnes minutes une histoire de fouille
 égyptienne. Ni Sofia ni Souly n'avait le cœur de l'interrompre, tant il
 semblait heureux de la raconter, les mains lâchant régulièrement le
 volant pour mimer l'ampleur d'un geste ou la profondeur d'une tranchée.
@@ -141,7 +143,7 @@ plus dangereux que de fouiller une couche instable.
 C'est toujours les histoires qui nous trouvent, nous.
 
 — On verra bien si celle-ci fait exception, dit Inès, un sourire en coin
-qui n'annonçait, à cet instant précis, absolument rien de particulier.
+aux lèvres.
 
 ---
 
@@ -181,9 +183,7 @@ timide, avant de se replonger dans sa tâche sans un mot de plus.
 
 — Elle parle pas beaucoup, remarqua Sofia, à voix basse.
 
-— Personne ne parle beaucoup, le premier mois, dit Inès. Ça viendra. Le
-chantier a cet effet-là sur les gens : on arrive silencieux, on repart
-avec trop d'histoires à raconter.
+— Personne ne parle beaucoup, le premier mois, dit Inès. Ça viendra.
 
 — Chaque carré a son numéro, poursuivit-elle, en s'arrêtant devant le
 premier. On ne creuse jamais au hasard. Chaque centimètre qu'on retire,
@@ -256,10 +256,9 @@ trouver.
 
 — C'est pas pareil ? demanda Sofia.
 
-— Pas du tout, dit Jean, en riant doucement. Chercher, c'est
-accepter de passer des jours entiers à ne rien trouver, juste pour le
-plaisir de la méthode bien faite. Trouver, sans vouloir chercher, ça
-mène en général droit vers les ennuis.
+— Pas du tout, dit Jean, en riant doucement. Chercher, ça veut dire
+passer des jours entiers à ne rien trouver, et aimer ça quand même.
+Trouver sans avoir cherché, ça mène droit vers les ennuis.
 
 — Vous avez déjà vu des ennuis, justement ? demanda Souly, toujours
 prêt à recueillir une bonne histoire.

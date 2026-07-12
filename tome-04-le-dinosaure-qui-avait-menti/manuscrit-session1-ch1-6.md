@@ -1,11 +1,13 @@
 # Chapitre 1 — La pierre qui n'était pas une pierre
 
 La route qui menait à Roc-Rouge grimpait en lacets serrés entre des
-collines couvertes de lavande fanée et de chênes rabougris, traversant
-de temps à autre un hameau de trois maisons et d'une fontaine, avant de
-replonger dans une garrigue odorante de thym et de résine chauffée par
-le soleil. Grand-oncle Théo, au volant de sa vieille voiture couleur
-d'olive, racontait depuis vingt bonnes minutes une histoire de fouille
+collines couvertes de lavande fanée et de chênes rabougris. Elle
+traversait de temps à autre un hameau de trois maisons et d'une
+fontaine, avant de replonger dans une garrigue odorante de thym et de
+résine chauffée par le soleil.
+
+Grand-oncle Théo, au volant de sa vieille voiture couleur d'olive,
+racontait depuis vingt bonnes minutes une histoire de fouille
 égyptienne. Ni Sofia ni Souly n'avait le cœur de l'interrompre, tant il
 semblait heureux de la raconter, les mains lâchant régulièrement le
 volant pour mimer l'ampleur d'un geste ou la profondeur d'une tranchée.
@@ -141,7 +143,7 @@ plus dangereux que de fouiller une couche instable.
 C'est toujours les histoires qui nous trouvent, nous.
 
 — On verra bien si celle-ci fait exception, dit Inès, un sourire en coin
-qui n'annonçait, à cet instant précis, absolument rien de particulier.
+aux lèvres.
 
 ---
 
@@ -181,9 +183,7 @@ timide, avant de se replonger dans sa tâche sans un mot de plus.
 
 — Elle parle pas beaucoup, remarqua Sofia, à voix basse.
 
-— Personne ne parle beaucoup, le premier mois, dit Inès. Ça viendra. Le
-chantier a cet effet-là sur les gens : on arrive silencieux, on repart
-avec trop d'histoires à raconter.
+— Personne ne parle beaucoup, le premier mois, dit Inès. Ça viendra.
 
 — Chaque carré a son numéro, poursuivit-elle, en s'arrêtant devant le
 premier. On ne creuse jamais au hasard. Chaque centimètre qu'on retire,
@@ -256,10 +256,9 @@ trouver.
 
 — C'est pas pareil ? demanda Sofia.
 
-— Pas du tout, dit Jean, en riant doucement. Chercher, c'est
-accepter de passer des jours entiers à ne rien trouver, juste pour le
-plaisir de la méthode bien faite. Trouver, sans vouloir chercher, ça
-mène en général droit vers les ennuis.
+— Pas du tout, dit Jean, en riant doucement. Chercher, ça veut dire
+passer des jours entiers à ne rien trouver, et aimer ça quand même.
+Trouver sans avoir cherché, ça mène droit vers les ennuis.
 
 — Vous avez déjà vu des ennuis, justement ? demanda Souly, toujours
 prêt à recueillir une bonne histoire.
@@ -536,10 +535,11 @@ s'endormit avant même d'avoir fini sa phrase.
 # Chapitre 2 — Comment mentir avec un caillou
 
 Le lendemain matin, Inès rassembla toute l'équipe sous la tente
-principale, une grande table couverte de plateaux compartimentés où
-s'alignaient des dizaines de fragments soigneusement étiquetés, pour ce
-qu'elle appelait, avec un clin d'œil, « la leçon obligatoire pour tout
+principale, autour d'une grande table couverte de plateaux
+compartimentés où s'alignaient des dizaines de fragments soigneusement
+étiquetés. C'était, avec un clin d'œil, « la leçon obligatoire pour tout
 nouveau visiteur qui touche à mes fossiles sans savoir ce que c'est ».
+
 Sofia s'installa au premier rang improvisé, sur une caisse retournée,
 son caillou porte-bonheur bien calé dans sa poche comme s'il avait, lui
 aussi, le droit d'assister au cours.
@@ -608,7 +608,7 @@ Très joli, très ancien à sa façon, mais un galet. « Lourd » ne veut pas
 dire « fossile » — ça veut juste dire « lourd ». Un bon scientifique ne
 s'arrête jamais au premier indice.
 
-Sofia rempocha son caillou, un peu vexée, mais nota tout de même
+Sofia rempocha son caillou, vexée, mais nota tout de même
 l'information dans un coin de sa tête — juste au cas où quelqu'un, un
 jour, tenterait de lui vendre un galet au prix d'un dinosaure.
 
@@ -629,7 +629,7 @@ qu'une seule belle pièce isolée.
 trouvées avant, résuma Sofia.
 
 — Oui, dit Inès, ravie. C'est même toute la beauté de ce métier :
-chaque nouvelle trouvaille rend toutes les précédentes un peu plus
+chaque nouvelle trouvaille rend toutes les précédentes plus
 intelligentes.
 
 — Et comment on sait l'âge exact d'un fossile ? demanda Sofia. Vous avez
@@ -729,7 +729,7 @@ en a une bien trop belle pour être vraie.
 Sofia leva les deux fragments à la lumière de la tente, les tournant
 lentement, comparant leur surface centimètre par centimètre.
 
-— Celui-là est un peu plus foncé, dit-elle finalement, en désignant le
+— Celui-là est plus foncé, dit-elle finalement, en désignant le
 second.
 
 — Voilà, dit Inès. Ils viennent de deux carrés différents,
@@ -740,8 +740,8 @@ faussaire pressé, ou pas assez soigneux, oublie toujours ce détail-là.
 Tomas, qui les avait rejoints entre-temps, s'essuya les mains sur son
 tablier de travail avant de reprendre la parole.
 
-— C'est un peu comme un mensonge trop bien préparé, dit-il. Plus une
-histoire semble parfaite, plus elle mérite qu'on la vérifie deux fois.
+— C'est comme un mensonge trop bien préparé, dit-il. Trop parfait pour
+être honnête.
 
 — J'aime beaucoup cette phrase, dit Inès. Je vais te la voler pour mes
 prochains cours.
@@ -780,7 +780,7 @@ long de l'ancien lit d'une rivière fossile ? Ce n'est pas un hasard :
 c'est là, précisément, que les carcasses d'animaux avaient le plus de
 chances d'être rapidement recouvertes de sédiments avant de pourrir.
 Sans cette carte, sans ces vingt années de relevés minutieux, on
-creuserait un peu partout, au petit bonheur la chance.
+creuserait au petit bonheur la chance.
 
 — Donc la carte elle-même, c'est presque une découverte, dit Souly,
 fasciné.
@@ -832,7 +832,7 @@ visibilité qu'on obtient cette année. On a besoin d'une vraie découverte
 à présenter, Inès. Quelque chose qui fasse parler, quelque chose qui
 donne envie aux gens de venir jusqu'ici plutôt qu'à la plage.
 
-— La science ne se commande pas à la demande, Marion, dit Inès, un peu
+— La science ne se commande pas à la demande, Marion, dit Inès,
 sèchement. On trouve ce qu'on trouve, quand on le trouve. Ça fait vingt
 ans que je fouille ce vallon, je ne vais pas commencer à inventer des
 résultats parce qu'un calendrier municipal l'exige.
@@ -850,9 +850,9 @@ plus qu'un ruban et deux panneaux.
 
 — On a déjà contacté les pompiers volontaires pour le balisage, et le
 boulanger a accepté de fermer sa camionnette une journée pour servir de
-poste de secours improvisé, dit Marion, en comptant sur ses doigts avec
-une énergie qui trahissait des nuits entières passées à organiser
-l'événement. On a même une buvette prévue, tenue par les parents
+poste de secours improvisé, dit Marion, en comptant sur ses doigts, les
+yeux cernés de plusieurs nuits trop courtes. On a même une buvette
+prévue, tenue par les parents
 d'élèves. Tout est prêt, sauf la seule chose qui compte vraiment : une
 raison pour que les gens viennent jusqu'ici plutôt qu'ailleurs.
 
@@ -883,8 +883,7 @@ le faire.
 — Alors fais-moi confiance encore un peu, dit Inès. Jusqu'à samedi.
 
 — On y travaille, dit Marion, d'une voix qui manquait singulièrement
-d'assurance, avant de se tourner brièvement vers les enfants, un peu
-gênée. Vous devez me
+d'assurance, avant de se tourner brièvement vers les enfants, gênée. Vous devez me
 trouver bien ennuyeuse, avec mes histoires de budget.
 
 — Pas du tout, dit Sofia, très sérieuse. On adore les histoires où
@@ -926,7 +925,7 @@ pour la fabriquer plutôt que de la trouver.
 
 Marion repartie, promettant de revenir le lendemain pour « caler les
 détails de samedi », Inès se tourna vers l'équipe rassemblée, son
-sourire masquant mal une réelle inquiétude.
+sourire qui ne trompait personne.
 
 — Bon, dit-elle. Vous avez tous entendu. Ce qui ne change rien à notre
 travail : on continue comme avant, méthodiquement, sans
@@ -986,7 +985,7 @@ Il rouvrit son carnet à une page vierge et commença, sans que personne
 ne le lui demande, une nouvelle colonne qu'il intitula simplement, en
 lettres capitales bien nettes : *PERSONNES À SURVEILLER*. Sofia,
 penchée par-dessus son épaule, ajouta elle-même, de sa propre écriture
-un peu moins soignée, une première ligne juste en dessous : « L'homme à
+moins appliquée, une première ligne juste en dessous : « L'homme à
 la veste beige. Ne se salit jamais les mains. »
 
 L'après-midi se poursuivit dans une atmosphère étrangement studieuse,
@@ -1028,7 +1027,7 @@ répond déjà à une vraie question qu'on vient de se poser.
 — Genre comment reconnaître un vrai fossile d'un faux, dit Sofia.
 
 — Genre ça, oui, lâcha Souly, en jetant un dernier regard vers
-le sentier par où avait disparu, un peu plus tôt, l'homme à la veste
+le sentier par où avait disparu, plus tôt, l'homme à la veste
 beige.
 
 Sur la page de son carnet, juste sous « L'homme à la veste beige. Ne
@@ -1065,8 +1064,8 @@ toujours été le cas.
 
 Il les observa un moment de plus, un chien roux couché à ses pieds
 levant à peine une oreille au passage de deux inconnus, avant de se
-laisser glisser du muret avec une souplesse qui trahissait des années
-entières passées à grimper dans les arbres et sur les rochers du champ.
+laisser glisser du muret d'un bond souple, du genre qu'on n'attrape
+qu'après des années à grimper dans les arbres et sur les rochers du champ.
 
 — Vous êtes les deux qui logent avec la Doctoresse Castellane, dit-il.
 J'ai entendu parler de vous, au marché.
@@ -1096,10 +1095,9 @@ devant un vieil olivier tordu, grimpa dessus avec une agilité
 déconcertante, et redescendit une poignée de petites olives encore
 vertes qu'il tendit aux enfants sans autre explication.
 
-— Elles sont amères, prévint-il, un sourire en coin. Personne ne les
-mange comme ça, jamais. Faut les laisser tremper des semaines dans la
-saumure avant qu'elles soient bonnes. Papet dit que c'est pareil pour
-la confiance : ça ne se cueille jamais tout de suite.
+— Elles sont amères, prévint-il, un sourire en coin. Faut les laisser
+tremper des semaines dans la saumure avant qu'elles soient bonnes.
+Comme la confiance, dit Papet. Ça ne se cueille pas tout de suite.
 
 Sofia mordit quand même dans la sienne, par pure curiosité, et fit une
 grimace si spectaculaire que Milo éclata d'un rire franc, le premier
@@ -1170,8 +1168,8 @@ montra du doigt les limites de leurs terres, un vaste triangle
 d'oliviers et de vignes basses descendant jusqu'au bord du vallon.
 
 — Tout ça, c'est à nous depuis mon arrière-arrière-grand-père, dit-il,
-avec une fierté tranquille qui contrastait nettement avec sa méfiance
-du début. On a jamais rien vendu, même dans les mauvaises années. Papet
+la fierté dans la voix, sa méfiance du début envolée. On a jamais rien
+vendu, même dans les mauvaises années. Papet
 dit toujours que la terre, une fois vendue, elle ne revient jamais.
 
 — Même à ce collectionneur qui rôde autour du chantier ? demanda
@@ -1499,7 +1497,8 @@ pas de questions.
 — C'est la stagiaire, chuchota Sofia. Elsa. Qu'est-ce qu'elle fait
 dehors toute seule, à cette heure-là, avec son carnet ?
 
-Souly rouvrit le sien sans un mot.
+La silhouette disparut derrière un roncier, et le silence retomba sur
+le sentier comme si personne n'était jamais passé par là.
 
 # Chapitre 4 — La Foire aux Vieilles Pierres et la mésaventure du treuil
 
@@ -1779,7 +1778,7 @@ grave et concentré.
 
 Marion, une fois les journalistes repartis vers d'autres stands plus
 photogéniques, s'approcha d'Inès avec un mélange d'inquiétude et
-d'espoir mal dissimulé.
+d'espoir.
 
 — Il y a quelque chose là-dedans, au moins ? demanda-t-elle, à voix
 basse, en désignant le bloc du menton. Quelque chose qu'on pourra
@@ -1960,8 +1959,8 @@ de longues minutes, chacun perdu dans ses propres soupçons.
 # Chapitre 5 — Ce que le carnet ne dit pas
 
 Le lendemain de la foire, Inès réunit les enfants et Milo autour de la
-tente principale, une expression sérieuse qui contrastait nettement avec
-la bonne humeur poussiéreuse de la veille. Ses cheveux gris,
+tente principale, le visage grave, plus rien de la bonne humeur
+poussiéreuse de la veille. Ses cheveux gris,
 habituellement bien coiffés, partaient dans tous les sens, et une
 deuxième tasse de café, déjà vide, trônait à côté de la première sur la
 table de travail — le signe d'une nuit courte, sinon d'une nuit
@@ -2347,8 +2346,8 @@ traces-là.
 — Alors pourquoi tout le monde va continuer à me soupçonner ? demanda
 Elsa, sans trop y croire.
 
-— Parce que les gens préfèrent souvent une explication simple à une
-explication vraie, dit Sofia sans détour. Mais nous, on préfère la vraie.
+— Parce que c'est plus simple, dit Sofia sans détour. Mais nous, on
+préfère la vraie explication à la simple.
 
 — Il faudrait quand même le dire à Inès, pour les mesures, ajouta
 Souly. Officiellement, pas juste entre nous. Comme ça, si les rumeurs
@@ -2552,10 +2551,8 @@ qui ne lui ressemblait guère d'ordinaire.
 — Tu fais toujours ça, remarqua-t-elle. Deux piles. Toujours deux
 piles, pour tout.
 
-— C'est plus facile de réfléchir quand il n'y a que deux options à la
-fois, dit Souly, les yeux sur ses deux piles. Après, on peut toujours
-recombiner, séparer autrement. Mais il faut bien commencer quelque
-part.
+— Deux options, c'est plus facile à trier, dit Souly, les yeux sur ses
+deux piles. On recombine après, si besoin.
 
 — Et si la vérité est entre les deux piles ? demanda Sofia.
 
