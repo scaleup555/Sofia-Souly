@@ -130,7 +130,7 @@ part.
 
 — Et si la vérité est entre les deux piles ? demanda Sofia.
 
-Souly s'arrêta un instant, la question le prenant visiblement de court.
+Souly s'arrêta un instant, la question le prenant de court.
 
 — Alors on fait une troisième pile, dit-il finalement. On n'est pas
 obligés de choisir entre deux réponses si aucune des deux n'est la
@@ -269,8 +269,8 @@ mal l'excitation qui perçait dans sa propre voix. Ce serait une erreur
 de sauter directement à une conclusion, juste parce qu'elle nous arrange
 après ce qu'on a découvert ce matin.
 
-— C'est vrai, admit Souly, à contrecœur, en rangeant les fragments avec
-un soin renouvelé. On a juste une différence de texture suspecte. Pas un
+— C'est vrai, admit Souly, à contrecœur, en rangeant les fragments un
+par un dans la boîte. On a juste une différence de texture suspecte. Pas un
 nom. Pas une preuve formelle.
 
 — Mais ça élimine sûrement l'idée que c'est juste un accident de terrain,
@@ -326,7 +326,7 @@ presque suspicieuse, en le regardant du coin de l'œil.
 vite aux conclusions, répondit Souly, parfaitement sérieux.
 
 Milo, qui observait le bloc depuis un pas de recul, pencha la tête,
-visiblement en train de calculer quelque chose.
+en train d'évaluer quelque chose du regard.
 
 — Il est petit, pour un bloc « exceptionnel », remarqua-t-il. Regardez
 la taille. Les vrais blocs importants qu'on a vus sortir d'ici, cet

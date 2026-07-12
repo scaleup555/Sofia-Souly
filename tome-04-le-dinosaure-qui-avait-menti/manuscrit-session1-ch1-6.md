@@ -230,7 +230,7 @@ sur le papier. C'est... c'est presque impossible à imaginer.
 il faudrait marcher soixante-dix kilomètres pour remonter jusqu'à cette
 coquille. Roc-Rouge à la mer, à peu près, et retour.
 
-Souly resta silencieux quelques secondes, visiblement occupé à calculer
+Souly resta silencieux quelques secondes, occupé à calculer
 la distance exacte entre le village et la côte la plus proche.
 
 — C'est exactement pour ça que j'adore ce métier, dit Inès, tout son
@@ -450,8 +450,8 @@ semaines de travail minutieux pour découvrir qu'on était arrivés
 environ deux mille ans
 trop tard.
 
-— Et vous avez fait quoi ? demanda Souly, toujours friand de ce genre
-de détail pratique que les histoires oublient souvent de raconter.
+— Et vous avez fait quoi ? demanda Souly, toujours friand des détails
+pratiques que les histoires oublient souvent de raconter.
 
 — On a documenté le sarcophage vide exactement comme s'il avait été
 plein, dit Théo. Parce qu'un sarcophage vide, ça raconte aussi une
@@ -491,7 +491,6 @@ d'aider Sofia, presque endormie, à se relever de sa chaise.
 basse pour ne pas achever de la réveiller tout à fait. Profitez bien de
 cette dernière nuit tranquille. Je sens qu'on n'en aura plus beaucoup,
 cette semaine.
-
 
 # Chapitre 2 — Comment mentir avec un caillou
 
@@ -644,7 +643,7 @@ contexte à sa couche d'origine.
 Un jeune homme au fond de la tente, occupé à nettoyer des instruments
 dans une bassine, leva soudain la tête.
 
-— Ça arrive vraiment, ce genre de fraude ? demanda-t-il.
+— Ça arrive vraiment, des fraudes pareilles ? demanda-t-il.
 
 — Plus que tu ne le crois, Tomas, dit Inès, avec un soupir qui semblait
 raconter une longue histoire. Des collectionneurs privés paient des
@@ -752,15 +751,15 @@ racines profondes typiques d'un climat bien plus arrosé.
 vallon aride par l'ouverture de la tente. Même les endroits qui
 paraissent immobiles.
 
-— Surtout les endroits qui paraissent immobiles, corrigea Léa, avec un
-sourire. Ils changent juste trop lentement pour qu'on le remarque de
+— Surtout les endroits qui paraissent immobiles, corrigea Léa, amusée.
+Ils changent juste trop lentement pour qu'on le remarque de
 notre vivant.
 
 ---
 
 La leçon fut interrompue par l'arrivée essoufflée d'une femme d'une
 cinquantaine d'années, une écharpe tricolore mal nouée autour de la
-taille, visiblement pressée, ses sandales couvertes de la même poussière
+taille, manifestement pressée, ses sandales couvertes de la même poussière
 rouge que tout le reste du chantier.
 
 — Inès ! Il faut qu'on parle de la Fête de la Pierre, dit-elle, sans même
@@ -975,7 +974,6 @@ répond déjà à une vraie question qu'on vient de se poser.
 le sentier par où avait disparu, un peu plus tôt, l'homme à la veste
 beige. Et je crois qu'on va en avoir besoin plus tôt qu'on ne le
 pensait.
-
 
 # Chapitre 3 — Milo
 
@@ -1362,7 +1360,7 @@ l'animal. Et d'habitude, il aime tout le monde, ce chien-là. Même le
 facteur, qui pourtant lui a marché sur la queue deux fois cet été.
 
 — Les chiens se trompent jamais, dit Sofia, avec le sérieux absolu
-qu'elle réservait toujours à ce genre d'affirmation.
+qu'elle réservait toujours à ses convictions les plus solides.
 
 — Les chiens réagissent à des odeurs et à des habitudes, corrigea
 Souly, sans se laisser convaincre trop vite. Pas forcément à une
@@ -1427,7 +1425,6 @@ histoire de terre qui rougit.
 bon. On compte à partir d'hier, avec le fragment brun-rouge. Il faut
 toujours compter depuis le tout premier indice, sinon on fausse toute
 la chronologie de l'enquête.
-
 
 # Chapitre 4 — La Foire aux Vieilles Pierres et la mésaventure du treuil
 
@@ -1886,7 +1883,6 @@ Le soleil finit de disparaître derrière les collines, laissant le
 vallon dans une pénombre bleutée où les dernières lanternes de la foire
 s'allumaient une à une. Aucun des trois enfants ne dit plus rien pendant
 de longues minutes, chacun perdu dans ses propres soupçons.
-
 
 # Chapitre 5 — Ce que le carnet ne dit pas
 
@@ -2349,7 +2345,6 @@ c'est le terrain de mon grand-père.
 — Tu as toujours été utile, dit Sofia. On avait juste pas encore
 trouvé la bonne enquête pour te le prouver.
 
-
 # Chapitre 6 — La différence que personne ne veut voir
 
 La nouvelle des empreintes mystérieuses et de la pelle sans numéro fit,
@@ -2482,7 +2477,7 @@ part.
 
 — Et si la vérité est entre les deux piles ? demanda Sofia.
 
-Souly s'arrêta un instant, la question le prenant visiblement de court.
+Souly s'arrêta un instant, la question le prenant de court.
 
 — Alors on fait une troisième pile, dit-il finalement. On n'est pas
 obligés de choisir entre deux réponses si aucune des deux n'est la
@@ -2621,8 +2616,8 @@ mal l'excitation qui perçait dans sa propre voix. Ce serait une erreur
 de sauter directement à une conclusion, juste parce qu'elle nous arrange
 après ce qu'on a découvert ce matin.
 
-— C'est vrai, admit Souly, à contrecœur, en rangeant les fragments avec
-un soin renouvelé. On a juste une différence de texture suspecte. Pas un
+— C'est vrai, admit Souly, à contrecœur, en rangeant les fragments un
+par un dans la boîte. On a juste une différence de texture suspecte. Pas un
 nom. Pas une preuve formelle.
 
 — Mais ça élimine sûrement l'idée que c'est juste un accident de terrain,
@@ -2678,7 +2673,7 @@ presque suspicieuse, en le regardant du coin de l'œil.
 vite aux conclusions, répondit Souly, parfaitement sérieux.
 
 Milo, qui observait le bloc depuis un pas de recul, pencha la tête,
-visiblement en train de calculer quelque chose.
+en train d'évaluer quelque chose du regard.
 
 — Il est petit, pour un bloc « exceptionnel », remarqua-t-il. Regardez
 la taille. Les vrais blocs importants qu'on a vus sortir d'ici, cet
@@ -2802,3 +2797,4 @@ mystérieux resta là, seul dans l'obscurité de la tente fermée, sa gaze
 protectrice immobile, gardant son secret pour quelques jours encore —
 jusqu'à ce que quelqu'un, dans les règles cette fois, se décide enfin à
 l'ouvrir devant témoins.
+

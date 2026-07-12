@@ -383,7 +383,7 @@ l'animal. Et d'habitude, il aime tout le monde, ce chien-là. Même le
 facteur, qui pourtant lui a marché sur la queue deux fois cet été.
 
 — Les chiens se trompent jamais, dit Sofia, avec le sérieux absolu
-qu'elle réservait toujours à ce genre d'affirmation.
+qu'elle réservait toujours à ses convictions les plus solides.
 
 — Les chiens réagissent à des odeurs et à des habitudes, corrigea
 Souly, sans se laisser convaincre trop vite. Pas forcément à une

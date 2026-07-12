@@ -149,7 +149,7 @@ contexte à sa couche d'origine.
 Un jeune homme au fond de la tente, occupé à nettoyer des instruments
 dans une bassine, leva soudain la tête.
 
-— Ça arrive vraiment, ce genre de fraude ? demanda-t-il.
+— Ça arrive vraiment, des fraudes pareilles ? demanda-t-il.
 
 — Plus que tu ne le crois, Tomas, dit Inès, avec un soupir qui semblait
 raconter une longue histoire. Des collectionneurs privés paient des
@@ -257,15 +257,15 @@ racines profondes typiques d'un climat bien plus arrosé.
 vallon aride par l'ouverture de la tente. Même les endroits qui
 paraissent immobiles.
 
-— Surtout les endroits qui paraissent immobiles, corrigea Léa, avec un
-sourire. Ils changent juste trop lentement pour qu'on le remarque de
+— Surtout les endroits qui paraissent immobiles, corrigea Léa, amusée.
+Ils changent juste trop lentement pour qu'on le remarque de
 notre vivant.
 
 ---
 
 La leçon fut interrompue par l'arrivée essoufflée d'une femme d'une
 cinquantaine d'années, une écharpe tricolore mal nouée autour de la
-taille, visiblement pressée, ses sandales couvertes de la même poussière
+taille, manifestement pressée, ses sandales couvertes de la même poussière
 rouge que tout le reste du chantier.
 
 — Inès ! Il faut qu'on parle de la Fête de la Pierre, dit-elle, sans même

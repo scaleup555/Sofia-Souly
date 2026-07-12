@@ -230,7 +230,7 @@ sur le papier. C'est... c'est presque impossible à imaginer.
 il faudrait marcher soixante-dix kilomètres pour remonter jusqu'à cette
 coquille. Roc-Rouge à la mer, à peu près, et retour.
 
-Souly resta silencieux quelques secondes, visiblement occupé à calculer
+Souly resta silencieux quelques secondes, occupé à calculer
 la distance exacte entre le village et la côte la plus proche.
 
 — C'est exactement pour ça que j'adore ce métier, dit Inès, tout son
@@ -450,8 +450,8 @@ semaines de travail minutieux pour découvrir qu'on était arrivés
 environ deux mille ans
 trop tard.
 
-— Et vous avez fait quoi ? demanda Souly, toujours friand de ce genre
-de détail pratique que les histoires oublient souvent de raconter.
+— Et vous avez fait quoi ? demanda Souly, toujours friand des détails
+pratiques que les histoires oublient souvent de raconter.
 
 — On a documenté le sarcophage vide exactement comme s'il avait été
 plein, dit Théo. Parce qu'un sarcophage vide, ça raconte aussi une
