@@ -1,13 +1,29 @@
 # Chapitre 4 — La Foire aux Vieilles Pierres et la mésaventure du treuil
 
+Le matin de la foire, le village entier semblait s'être donné le mot
+pour se lever plus tôt que d'habitude. Depuis la terrasse du gîte,
+Sofia et Souly regardaient, un bol de chocolat chaud entre les mains,
+les camions de la mairie décharger tables pliantes et guirlandes de
+fanions le long de la rue principale, tandis que Théo, déjà debout
+depuis l'aube pour on ne savait quelle raison archéologique urgente,
+finissait de préparer un panier de pique-nique bien trop copieux pour
+trois personnes.
+
+— Inès nous a réservé une place au premier rang pour la démonstration,
+annonça-t-il, en refermant le panier d'un coup sec. Elle a l'air de
+tenir beaucoup à ce que la fouille fasse bonne impression, aujourd'hui.
+
+— Elle a plutôt l'air inquiète, corrigea Souly, qui avait discrètement
+observé la paléontologue la veille au soir, allant et venant entre les
+tentes bien après que tout le monde soit rentré se coucher.
+
 La Foire aux Vieilles Pierres, organisée chaque année pour célébrer le
 patrimoine géologique du village et lancer la semaine qui menait à la
 grande Fête de la Pierre du samedi suivant, prit cette année-là une
-ampleur inhabituelle : la
-mairie avait fait installer des stands tout le long de la place, une
-estrade pour les discours officiels, et, au centre de tout, un grand
-panneau annonçant en lettres peintes à la main « ROC-ROUGE — TERRE DE
-DÉCOUVERTES ».
+ampleur inhabituelle : la mairie avait fait installer des stands tout
+le long de la place, une estrade pour les discours officiels, et, au
+centre de tout, un grand panneau annonçant en lettres peintes à la main
+« ROC-ROUGE — TERRE DE DÉCOUVERTES ».
 
 — Marion a mis le paquet, cette année, remarqua Inès, en observant les
 préparatifs depuis le bord de la place. J'espère qu'on ne va pas décevoir
@@ -44,6 +60,24 @@ seulement gentil.
 
 — C'est une excellente observation, dit Souly, en la notant sans même
 lever les yeux de son carnet.
+
+Ils déambulèrent le reste de la matinée entre les stands installés sur
+la place, où l'école primaire exposait des dessins d'enfants représentant
+des dinosaures aux proportions généreusement fantaisistes, où le club de
+randonnée local proposait des cartes du vallon annotées à la main, et où
+Papet Fabre lui-même, installé sur un tabouret pliant devant un panier de
+figues, échangeait des sourires complices avec les enfants sans jamais
+mentionner leur rencontre de la veille.
+
+— Il est là aussi, remarqua Sofia, en désignant Papet Fabre du menton.
+
+— Il vient toujours vendre ses figues, à la foire, dit Milo, qui les
+avait rejoints entre-temps, un sachet de bonbons acidulés déjà entamé à
+la main. C'est une tradition. Il dit que les figues du champ, au moins,
+personne ne peut prétendre qu'elles ne sont pas vraies.
+
+Sofia éclata de rire, un rire si soudain et si franc que plusieurs
+têtes se tournèrent brièvement vers elle.
 
 ---
 
@@ -129,6 +163,25 @@ grave et concentré.
 
 — Rien de cassé, dit-elle finalement, soulagée. On a eu de la chance.
 
+Marion, une fois les journalistes repartis vers d'autres stands plus
+photogéniques, s'approcha d'Inès avec un mélange d'inquiétude et
+d'espoir mal dissimulé.
+
+— Il y a quelque chose là-dedans, au moins ? demanda-t-elle, à voix
+basse, en désignant le bloc du menton. Quelque chose qu'on pourra
+montrer samedi ?
+
+— Il y a des fossiles, Marion, dit Inès. Comme il y en a dans presque
+tous les blocs de cette taille, dans ce vallon. Mais « quelque chose »,
+au sens où tu l'entends, ça prendra des semaines de dégagement minutieux
+avant qu'on sache vraiment ce qu'on a. Peut-être une belle pièce.
+Peut-être trois fragments sans grand intérêt. La science n'accélère pas
+parce qu'un calendrier l'exige, je te l'ai déjà dit.
+
+Marion hocha la tête, les épaules un peu basses, et s'éloigna vers
+l'estrade où l'attendait déjà un autre groupe de villageois impatients
+d'obtenir des nouvelles.
+
 C'est en fin d'après-midi, alors que la foire touchait à sa fin et que
 l'équipe rangeait le matériel de démonstration, qu'un des assistants
 remarqua un détail troublant : plusieurs outils de fouille, rangés
@@ -154,7 +207,7 @@ qu'il faudrait pour fabriquer quelque chose qui ressemble à un fossile,
 sans en être un.
 
 — C'est peut-être juste quelqu'un de l'équipe qui les a déplacés, dit
-Tomas, sans grande conviction.
+Tomas, en évitant soigneusement le regard d'Inès.
 
 Inès ne répondit pas tout de suite. Elle se contenta d'ouvrir le
 registre du chantier, de le feuilleter deux fois de suite, page après
@@ -189,3 +242,20 @@ demanda-t-il, sans une once de moquerie dans la voix, cette fois.
 — On dirait bien qu'on va avoir besoin de tout le monde, cette semaine,
 répondit Souly, en refermant son carnet sur une liste qui s'allongeait
 déjà bien plus vite qu'il ne l'aurait souhaité.
+
+Milo s'assit avec eux sur les marches de la tente, partageant ce qui
+restait de son sachet de bonbons acidulés sans qu'on le lui demande.
+
+— Papet dit toujours que les foires, c'est là qu'on voit vraiment les
+gens, dit-il, la bouche pleine. Ceux qui viennent pour le village, et
+ceux qui viennent juste pour eux-mêmes.
+
+— Dans quelle catégorie tu ranges Vasseur ? demanda Sofia.
+
+— T'as vraiment besoin de demander ? répondit Milo, avec un petit
+sourire qui n'avait pas besoin de mots pour être clair.
+
+Le soleil finit de disparaître derrière les collines, laissant le
+vallon dans une pénombre bleutée où les dernières lanternes de la foire
+s'allumaient une à une. Aucun des trois enfants ne dit plus rien pendant
+de longues minutes, chacun perdu dans ses propres soupçons.

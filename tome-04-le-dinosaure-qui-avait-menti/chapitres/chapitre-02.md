@@ -62,6 +62,25 @@ du plastique.
 synthétique. Excellente pour l'enseignement. Catastrophique si quelqu'un
 essaie de la vendre comme une vraie découverte.
 
+— Et comment on sait qu'un fossile est vraiment d'un dinosaure, et pas
+d'un autre animal ? demanda Souly, qui n'avait toujours pas reposé l'os
+authentique, comme s'il craignait qu'on ne le lui reprenne trop vite.
+
+— Excellente question, et beaucoup plus compliquée qu'elle n'en a l'air,
+dit Inès. On compare la forme avec tout ce qu'on connaît déjà : la
+structure des os, la texture de la surface, parfois même des traces
+microscopiques de vaisseaux sanguins fossilisés. Plus on a de squelettes
+de référence, plus on devient précis. C'est pour ça qu'un site comme
+celui-ci, avec des dizaines d'années de fouilles, vaut infiniment plus
+qu'une seule belle pièce isolée.
+
+— Donc plus on trouve de choses, mieux on comprend celles qu'on a déjà
+trouvées avant, résuma Sofia.
+
+— Exactement, dit Inès, ravie. C'est même toute la beauté de ce métier :
+chaque nouvelle trouvaille rend toutes les précédentes un peu plus
+intelligentes.
+
 ---
 
 Un jeune homme au fond de la tente, occupé à nettoyer des instruments
@@ -149,8 +168,28 @@ l'automne si cette saison ne rattrape pas les deux précédentes.
 la fête ? demanda Inès. Parce que si on attend du monde, il va falloir
 plus qu'un ruban et deux panneaux.
 
-— On y travaille, dit Marion, sans grande conviction dans la voix, avant
-de se tourner brièvement vers les enfants, un peu gênée. Vous devez me
+— On a déjà contacté les pompiers volontaires pour le balisage, et le
+boulanger a accepté de fermer sa camionnette une journée pour servir de
+poste de secours improvisé, dit Marion, en comptant sur ses doigts avec
+une énergie qui trahissait des nuits entières passées à organiser
+l'événement. On a même une buvette prévue, tenue par les parents
+d'élèves. Tout est prêt, sauf la seule chose qui compte vraiment : une
+raison pour que les gens viennent jusqu'ici plutôt qu'ailleurs.
+
+— Une raison scientifique, précisa Inès, pas une mise en scène.
+
+— Je ne te demande pas de mise en scène, Inès, dit Marion, sa voix
+perdant soudain toute la précipitation du début. Je te demande juste de
+croire, un peu, que ce vallon a encore quelque
+chose à nous montrer. Vingt ans de fouilles, ça mérite peut-être un peu
+de foi, de temps en temps, en plus de la méthode.
+
+Inès resta silencieuse un instant, occupée à retourner un fragment
+entre ses doigts sans vraiment le regarder.
+
+— On y travaille, dit Marion, d'une voix qui manquait singulièrement
+d'assurance, avant de se tourner brièvement vers les enfants, un peu
+gênée. Vous devez me
 trouver bien ennuyeuse, avec mes histoires de budget.
 
 — Pas du tout, dit Sofia, très sérieuse. On adore les histoires où
@@ -203,6 +242,26 @@ ville manifestement peu adaptées au terrain caillouteux du vallon.
 
 — Aucune idée, dit Souly. Mais je parie qu'on va le revoir.
 
+Sofia s'approcha de Tomas, qui rangeait ses instruments non loin de là,
+et désigna discrètement la silhouette qui s'éloignait sur le sentier.
+
+— Tu le connais, toi, cet homme à la veste beige ?
+
+Tomas suivit son regard, le visage soudain moins avenant qu'un instant
+plus tôt.
+
+— De vue, seulement, dit-il. Il traîne dans le coin depuis quelques
+jours. Inès n'aime pas trop qu'il s'approche du chantier, mais elle ne
+peut pas non plus l'empêcher de marcher sur un sentier public.
+
+— Il a un nom ? demanda Souly.
+
+— Aucune idée, dit Tomas, en haussant les épaules. On l'appelle juste
+« le monsieur à la veste », entre nous. Pas très original, je sais.
+
 Il rouvrit son carnet à une page vierge et commença, sans que personne
 ne le lui demande, une nouvelle colonne qu'il intitula simplement, en
-lettres capitales bien nettes : *PERSONNES À SURVEILLER*.
+lettres capitales bien nettes : *PERSONNES À SURVEILLER*. Sofia,
+penchée par-dessus son épaule, ajouta elle-même, de sa propre écriture
+un peu moins soignée, une première ligne juste en dessous : « L'homme à
+la veste beige. Ne se salit jamais les mains. »

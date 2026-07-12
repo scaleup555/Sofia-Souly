@@ -2,7 +2,15 @@
 
 Le lendemain de la foire, Inès réunit les enfants et Milo autour de la
 tente principale, une expression sérieuse qui contrastait nettement avec
-la bonne humeur poussiéreuse de la veille.
+la bonne humeur poussiéreuse de la veille. Ses cheveux gris,
+habituellement bien coiffés, partaient dans tous les sens, et une
+deuxième tasse de café, déjà vide, trônait à côté de la première sur la
+table de travail — le signe d'une nuit courte, sinon d'une nuit
+blanche.
+
+— J'ai fait l'inventaire ce matin, à l'aube, dit-elle, sans préambule.
+Rien d'autre ne manque, pour l'instant. Mais je n'aime pas du tout ce
+« pour l'instant ».
 
 — On va inspecter le chantier ensemble, dit-elle. Méthodiquement, comme
 on ferait pour n'importe quelle fouille. Si quelqu'un est venu ici
@@ -59,6 +67,30 @@ chercher à cacher l'inquiétude qui lui plissait le front.
 — Il va falloir en parler à la gendarmerie du patrimoine, dit-elle. Je
 n'aime pas du tout ça.
 
+Ils continuèrent l'inspection jusqu'à la limite du chantier, vérifiant
+chaque piquet, chaque corde délimitant les carrés, sans rien trouver de
+plus jusqu'à ce que Sofia, en longeant la clôture provisoire du côté
+nord, remarque un fil de fer légèrement écarté, juste assez pour
+laisser passer une personne peu soucieuse d'emprunter l'entrée
+officielle.
+
+— Regardez, dit-elle. Quelqu'un est passé par ici, pas par le sentier
+principal.
+
+Inès examina l'endroit, les sourcils froncés.
+
+— C'est du côté du champ des Fabre, remarqua-t-elle. Presque exactement
+en face de la maison de Milo.
+
+— C'est pas mon père qui a fait ça, dit Milo, immédiatement sur ses
+gardes. Il dort à côté de la fenêtre qui donne sur le chantier. Il
+aurait entendu quelque chose.
+
+— Personne n'a dit que c'était ton père, dit Inès, doucement. Mais ça
+confirme que quelqu'un connaissait suffisamment bien le terrain pour
+éviter l'entrée surveillée. Quelqu'un qui est déjà venu ici plusieurs
+fois, de jour, pour repérer les lieux.
+
 ---
 
 Ce fut Milo, en explorant le côté est du carré numéro sept, qui remarqua
@@ -82,6 +114,15 @@ qu'elle comprit le sujet de leur venue.
 
 — Je n'ai touché à rien, dit-elle, immédiatement sur la défensive. Je
 sais ce que ça a l'air, mais je n'ai rien pris, rien déplacé.
+
+— Personne n'a dit que c'était vous, dit Sofia, d'un ton qu'elle voulait
+rassurant.
+
+— On n'a pas besoin de le dire, répliqua Elsa, avec une amertume
+soudaine dans la voix. Je vois bien comment Farida et Léa évitent mon
+regard depuis ce matin. Je suis la petite nouvelle, celle qui vient
+d'ailleurs, celle qui traîne toujours seule. C'est toujours plus simple
+de soupçonner quelqu'un comme moi.
 
 — Pourquoi vous venez si tôt, alors ? demanda Souly, prudent mais direct.
 
@@ -163,7 +204,7 @@ numéro, et quelqu'un qui a beaucoup trop hâte de voir une belle
 découverte samedi.
 
 — Trois indices, dit Milo, en comptant sur ses doigts. Ça fait beaucoup
-pour trois jours, mais pas encore assez pour accuser qui que ce soit.
+pour quatre jours, mais pas encore assez pour accuser qui que ce soit.
 
 — Alors on continue à chercher, dit Elsa, en se redressant, le droit de
 participer pleinement à l'enquête, et pas seulement de la subir.

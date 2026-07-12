@@ -41,7 +41,8 @@ Souly et Sofia échangèrent un regard, un peu déstabilisés à l'idée que
 leur découverte du fragment brun-rouge ait déjà voyagé jusqu'à ce champ
 d'oliviers isolé.
 
-— On a surtout posé beaucoup de questions, corrigea Souly, prudemment.
+— On a surtout posé beaucoup de questions, corrigea Souly, choisissant
+ses mots avec soin.
 
 — Ça, ça vous ressemble déjà bien, à en croire ce qu'on raconte de vous
 deux, dit Milo, sa méfiance de tout à l'heure visiblement retombée.
@@ -77,6 +78,30 @@ C'est déjà mieux que la plupart des visiteurs qui passent par ici.
 
 — On aime bien vérifier avant de croire quoi que ce soit, dit Sofia, avec
 une sincérité totale. Dans un sens ou dans l'autre.
+
+Milo les entraîna vers une petite maison de pierre à l'ombre d'un
+figuier immense, où une femme d'une quarantaine d'années étendait du
+linge sur une corde tendue entre deux platanes.
+
+— Maman, je te présente Sofia et Souly, dit Milo. Ils sont chez la
+Doctoresse Castellane.
+
+— Ah, les fameux enfants de la fouille, dit la mère de Milo, un sourire
+franc éclairant son visage tanné par le soleil. On m'a déjà parlé de
+vous, au marché de ce matin. Vous voulez un peu d'eau fraîche ? Il fait
+une chaleur à ne pas laisser un chat dehors.
+
+Elle leur tendit deux verres remplis à ras bord d'une eau si froide
+qu'elle embua immédiatement le métal, avant de retourner à son linge
+avec la tranquillité de quelqu'un habitué à voir son fils traîner des
+inconnus jusqu'à la maison.
+
+— Elle a l'air gentille, ta mère, dit Sofia, en buvant à grandes
+gorgées.
+
+— Elle l'est, dit Milo. C'est mon père qui travaille à l'extérieur du
+village, à l'usine d'embouteillage, deux vallées plus loin. Alors c'est
+elle et Papet qui s'occupent des terres, la plupart du temps.
 
 ---
 
@@ -162,8 +187,8 @@ pas rien, même sans microscope.*
 vérifier plutôt que de juste ignorer, dit-il, pensif.
 
 — Essaie de le dire à ceux qui se sont moqués de mon grand-père, dit
-Milo, avec une amertume qui n'avait, visiblement, rien perdu de sa force
-malgré les années.
+Milo, une amertume dans la voix que les années n'avaient pas adoucie
+d'un pouce.
 
 ---
 
@@ -206,6 +231,17 @@ moteur ne s'éteigne complètement au loin.
 — Moi non plus, dit Milo. Il traîne dans le coin depuis une semaine. Il
 demande toujours où sont les meilleurs coins à fossiles, mais il n'a
 jamais l'air de vraiment creuser lui-même.
+
+— Il a dit « ce sera prêt pour samedi », répéta Souly, en relisant sa
+propre note. Prêt comme dans « fini », pas comme dans « trouvé ». Ça
+sonne bizarre, pour quelqu'un qui prétend juste acheter et vendre ce
+que les autres découvrent.
+
+— Peut-être qu'il prépare une vitrine, suggéra Sofia. Pour exposer ce
+qu'il a déjà.
+
+— Peut-être, dit Souly, pas franchement convaincu. Ou peut-être qu'il
+prépare autre chose.
 
 — Alors qu'est-ce qu'il vient faire ici, tous les jours, sans jamais se
 salir les mains ? demanda Sofia, à personne en particulier — et personne,

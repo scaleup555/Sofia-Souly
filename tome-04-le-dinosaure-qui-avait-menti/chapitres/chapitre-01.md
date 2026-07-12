@@ -14,8 +14,8 @@ volant pour mimer l'ampleur d'un geste ou la profondeur d'une tranchée.
 « Théo, si tu casses encore une pelle sur une pierre qui n'en est pas
 une, je t'envoie creuser les tombes plutôt que les fouiller », acheva-t-il,
 avec un tel éclat de rire que la voiture fit une embardée discrète sur
-le bas-côté, faisant sursauter un troupeau de chèvres qui broutait sans
-grande conviction au bord du fossé.
+le bas-côté, faisant sursauter un troupeau de chèvres somnolentes le
+long du fossé.
 
 — C'est qui, Inès ? demanda Sofia, qui n'avait retenu que ce nom au
 milieu de l'histoire, malgré les cinq bonnes minutes qu'elle venait de
@@ -45,7 +45,7 @@ stagiaire qui débarque sur son chantier.
 sentait qu'il y avait encore une histoire à extraire de ce sourire un
 peu nostalgique.
 
-— Rien du tout, avoua Théo, avec un large sourire. Trois mois à quatre
+— Rien du tout, avoua Théo, sans la moindre gêne. Trois mois à quatre
 pattes dans la poussière, et pour tout trésor, une dent de requin
 fossile pas plus grosse qu'un ongle. Mais c'est là que j'ai compris que
 je préférais les pierres qui racontent une histoire humaine — un
@@ -131,6 +131,28 @@ couverte d'instruments — est mon assistant depuis trois ans. Vous le
 recroiserez souvent, il ne quitte jamais vraiment le chantier, même
 pour dormir, je crois.
 
+Elle les guida un peu plus loin, vers deux femmes accroupies côte à
+côte, l'une penchée sur un carnet de terrain, l'autre en train de
+photographier une série de fragments alignés sur un linge blanc.
+
+— Léa et Farida, mes deux doctorantes cette année, dit Inès. Léa
+travaille sur la datation des couches, Farida sur l'inventaire complet
+du site. Et là-bas — elle désigna une dernière silhouette, une jeune
+femme brune penchée sur une caisse à l'écart des autres, une mèche de
+cheveux échappée de sa tresse lui barrant le visage — c'est Elsa, ma
+petite dernière, arrivée en stage il y a trois semaines. Un peu
+solitaire, mais douée. Elle préfère travailler seule, la plupart du
+temps.
+
+Elsa leva brièvement les yeux vers eux, adressa un signe de tête bref,
+presque timide, avant de se replonger dans sa tâche sans un mot de plus.
+
+— Elle parle pas beaucoup, remarqua Sofia, à voix basse.
+
+— Personne ne parle beaucoup, le premier mois, dit Inès. Ça viendra. Le
+chantier a cet effet-là sur les gens : on arrive silencieux, on repart
+avec trop d'histoires à raconter.
+
 — Chaque carré a son numéro, poursuivit-elle, en s'arrêtant devant le
 premier. On ne creuse jamais au hasard. Chaque centimètre qu'on retire,
 on le note : profondeur, position exacte, orientation. Un fossile sans
@@ -199,6 +221,42 @@ presque automatique chez lui.
 le croit, et jamais assez pour rattraper une erreur. Mieux vaut passer
 une heure de trop sur un centimètre carré qu'une seconde de trop avec
 un outil pointu.
+
+Il leur laissa essayer, sous sa surveillance directe, sur un carré déjà
+en grande partie dégagé où le risque d'abîmer quelque chose de précieux
+restait faible. Souly s'appliqua avec une concentration presque
+comique, la langue légèrement sortie, son pinceau balayant la terre par
+petits mouvements réguliers, tandis que Sofia, moins patiente, dut se
+faire rappeler trois fois à l'ordre pour ne pas gratter trop vite.
+
+— Doucement, répéta Tomas, pour la troisième fois. On n'est pas en
+train de nettoyer une vieille casserole.
+
+— C'est difficile d'être patiente quand on sait qu'il y a peut-être un
+dinosaure entier juste en dessous, se défendit Sofia, sans ralentir le
+moins du monde pour autant.
+
+— La plupart du temps, il n'y a rien du tout en dessous, dit Tomas, en
+riant doucement. C'est même le plus gros du travail, ici : creuser
+pendant des heures pour ne trouver que de la roche vide. Il faut aimer
+ça aussi, pas seulement le moment où on trouve quelque chose.
+
+Souly, qui n'avait pas levé le nez de son propre carré depuis dix bonnes
+minutes, laissa échapper un petit cri étouffé.
+
+— J'ai touché quelque chose de dur !
+
+Tomas se pencha aussitôt, examina la zone avec sa propre loupe, puis
+sourit, un peu amusé.
+
+— C'est un caillou, dit-il. Un vrai. Sans intérêt scientifique
+particulier. Bienvenue dans la vraie vie d'un chantier de fouille.
+
+Souly parut un instant déçu, avant de hausser les épaules et de
+reprendre son pinceau avec la même application qu'avant.
+
+— Au moins, je sais reconnaître un caillou maintenant, dit-il. C'est
+déjà un début.
 
 Sofia, chargée de trier de menus débris dans une bassine remplie d'eau et
 de tamis fins, remarqua bientôt un détail qui la fit s'arrêter net.
@@ -269,5 +327,37 @@ façon ou d'une autre.
 — Quel genre de chose ? demanda Sofia.
 
 — Vous le saurez bien assez tôt, dit Inès, sans en révéler davantage,
-occupée déjà à couper le fromage en parts égales
-pour tout le monde.
+occupée déjà à couper le fromage en parts égales pour tout le monde.
+
+— Elle fait toujours ça, confia Théo aux enfants, à voix basse mais pas
+assez pour qu'Inès ne l'entende pas. Distiller l'information comme une
+bonne nouvelle qu'elle veut garder pour elle le plus longtemps possible.
+
+— J'appelle ça du sens du rythme, corrigea Inès, sans lever les yeux du
+plateau de fromages. Vous les archéologues, vous racontez tout, tout de
+suite, dans le désordre. Nous les paléontologues, on sait qu'une bonne
+découverte se révèle couche par couche.
+
+— C'est vrai que le tombeau que j'ai fouillé l'an dernier n'a pas
+attendu le bon moment pour s'effondrer à moitié sur mon assistant, admit
+Théo, songeur. Peut-être qu'il y a quelque chose à apprendre de ta
+méthode, finalement.
+
+La conversation se poursuivit tard dans la soirée, ponctuée par le
+chant des grillons montant du vallon et par les récits croisés de Théo
+et d'Inès, chacun cherchant à surpasser l'autre en anecdotes de terrain
+plus improbables les unes que les autres. Sofia, la tête posée sur la
+table entre deux olives, luttait ouvertement contre le sommeil, tandis
+que Souly, lui, continuait de noter dans son carnet, sous la lumière
+vacillante d'une bougie anti-moustiques, chaque détail de la journée
+qu'il jugeait digne d'être conservé.
+
+— Tu ne devrais pas plutôt dormir ? lui demanda Inès, en désignant
+d'un signe de tête sa sœur déjà à moitié endormie.
+
+— Presque fini, dit Souly, sans lever les yeux. Un bon carnet, ça se
+remplit le soir même, jamais le lendemain. Sinon on oublie les petits
+détails, et ce sont souvent les petits détails qui comptent le plus.
+
+— Tu vas vraiment bien t'entendre avec moi, dit Inès, avec un
+hochement de tête approbateur. Beaucoup trop bien, peut-être.

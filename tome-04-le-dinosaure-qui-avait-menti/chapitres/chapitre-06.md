@@ -59,6 +59,23 @@ regardez, il ne ressemble pas du tout à son voisin de pile. Deux
 fragments censés venir du même endroit, et ils n'ont presque rien en
 commun.
 
+Milo retourna les fiches d'accompagnement, cherchant qui avait signé
+l'entrée de chaque fragment dans l'inventaire.
+
+— Les deux fiches du carré douze sont signées par deux personnes
+différentes, remarqua-t-il. La première par Farida, la seconde par...
+personne, en fait. Juste des initiales, D.V.
+
+— D.V., répéta Souly, en écrivant les initiales en toutes lettres à
+côté du numéro du carré. Dorian Vasseur.
+
+— Ça ne prouve toujours rien, tempéra Sofia, qui avait appris la leçon
+de son frère plus vite qu'elle ne l'aurait admis. Il a peut-être eu le
+droit d'aider à l'inventaire, un jour où l'équipe manquait de bras.
+
+— C'est vrai, admit Souly. Mais ça commence à faire beaucoup de
+coïncidences qui tournent toutes autour du même nom.
+
 ---
 
 Elsa les rejoignit à cet instant, un café encore fumant à la main, et se
@@ -144,7 +161,7 @@ seul membre du chantier.
 dans notre propre inventaire.
 
 Sofia s'approcha à son tour, examinant la gaze protectrice qui
-enveloppait le bloc avec un mélange de curiosité et de méfiance.
+enveloppait le bloc, curieuse mais gardant ses distances.
 
 — On l'ouvre ? demanda-t-elle, la main déjà tendue.
 
@@ -185,3 +202,30 @@ Sofia et Souly échangèrent un regard qui n'avait plus rien d'incertain.
 — Il vient de nous voler une demi-journée sans même s'en rendre compte,
 dit Sofia. Et je crois qu'il vient aussi de nous dire, sans le savoir,
 pourquoi il est si pressé.
+
+Inès s'assit lourdement sur une caisse retournée, le téléphone encore
+dans la main, et se passa l'autre main sur le visage, comme pour
+effacer d'un geste toute la fatigue accumulée depuis le matin.
+
+— Vingt ans que je fouille ce vallon, dit-elle, sans s'adresser
+vraiment à personne en particulier. Vingt ans à faire les choses
+lentement, méthodiquement, sans jamais tricher avec les résultats. Et
+voilà qu'un vendeur en veste beige menace de tout gâcher en une seule
+semaine.
+
+— On ne va pas le laisser faire, dit Souly, avec une détermination
+qu'il ne cherchait pas à dissimuler.
+
+Inès leva les yeux vers lui, un sourire fatigué mais sincère éclairant
+enfin son visage.
+
+— Non, dit-elle. Je ne crois pas qu'on va le laisser faire, en effet.
+Pas avec vous trois sur le coup.
+
+Elle se leva, rangea son téléphone, et regarda une dernière fois le
+bloc mystérieux, toujours enveloppé de sa gaze protectrice, avant
+d'éteindre la lampe de la tente.
+
+— Demain, dit-elle, on prévient officiellement la gendarmerie du
+patrimoine. Assez de suppositions. Il est temps que quelqu'un d'autre
+que nous se penche sérieusement sur ce Dorian Vasseur.
