@@ -55,8 +55,8 @@ premier indice, avant même de sortir une loupe.
 Sofia soupesa les deux objets l'un après l'autre, les sourcils froncés
 par la concentration.
 
-— Celui-là est vraiment plus léger, dit-elle, surprise. On dirait presque
-du plastique.
+— Celui-là est vraiment plus léger, dit-elle, surprise. On dirait du
+plastique.
 
 — C'est un peu ça, en partie, dit Inès. De la résine
 synthétique. Excellente pour l'enseignement. Catastrophique si quelqu'un
@@ -178,8 +178,8 @@ supercherie, parfois des dizaines d'années plus tard.
 
 — Comment on peut savoir que c'est un faux ? demanda Sofia, fascinée.
 
-Inès attrapa deux fragments d'os sur la table, presque identiques en
-apparence, et les tendit à Sofia.
+Inès attrapa deux fragments d'os sur la table, d'apparence très proche,
+et les tendit à Sofia.
 
 — Regarde bien, dit-elle. La couleur, d'abord. Chaque couche de terre a
 sa propre chimie, donc sa propre teinte de fossilisation. Deux os

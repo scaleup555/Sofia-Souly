@@ -177,7 +177,7 @@ la vallée, et bien moins chers.
 ---
 
 Ils marchèrent un moment en silence, Milo un peu moins raide qu'au début,
-jusqu'à un gros rocher fendu en deux, presque exactement au milieu,
+jusqu'à un gros rocher fendu en deux, presque au milieu,
 comme si un géant l'avait un jour frappé d'un coup de hache.
 
 — C'est là que mon grand-père trouvait le plus de trucs, dit Milo, en
@@ -255,7 +255,7 @@ c'était son mot à elle pour désigner ce coin du champ — se réveillait
 d'un coup, certaines années, plus que d'autres.
 
 — Vous pourriez me montrer ce carnet de mémoire un jour ? demanda
-Souly, presque avec révérence. Toutes ces années d'observations,
+Souly, avec révérence. Toutes ces années d'observations,
 même sans mesure précise, ça vaut vraiment quelque chose.
 
 Papet Fabre le regarda un long moment, une expression indéchiffrable

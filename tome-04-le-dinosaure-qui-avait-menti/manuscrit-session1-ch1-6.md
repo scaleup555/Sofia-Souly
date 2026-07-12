@@ -38,7 +38,7 @@ Théo lui adressa un regard dans le rétroviseur, un mélange de surprise et
 de fierté difficile à cacher.
 
 — Voilà, dit-il. Tu vas t'entendre à merveille avec Inès. Elle
-dit exactement la même phrase, presque mot pour mot, à chaque nouveau
+dit la même phrase, presque mot pour mot, à chaque nouveau
 stagiaire qui débarque sur son chantier.
 
 — Et vous avez trouvé quoi, avec elle, cet été-là ? demanda Sofia, qui
@@ -123,7 +123,7 @@ toujours en retard.
 — Toi si. Tu as encore plus de poches à ton gilet que la dernière fois.
 Un jour, tu vas finir par en avoir plus que de vêtement.
 
-Elle se tourna vers Sofia et Souly et les évalua du regard, exactement
+Elle se tourna vers Sofia et Souly et les évalua du regard,
 comme elle aurait jaugé un nouveau fragment avant de décider s'il
 méritait qu'on s'y attarde.
 
@@ -591,8 +591,8 @@ premier indice, avant même de sortir une loupe.
 Sofia soupesa les deux objets l'un après l'autre, les sourcils froncés
 par la concentration.
 
-— Celui-là est vraiment plus léger, dit-elle, surprise. On dirait presque
-du plastique.
+— Celui-là est vraiment plus léger, dit-elle, surprise. On dirait du
+plastique.
 
 — C'est un peu ça, en partie, dit Inès. De la résine
 synthétique. Excellente pour l'enseignement. Catastrophique si quelqu'un
@@ -714,8 +714,8 @@ supercherie, parfois des dizaines d'années plus tard.
 
 — Comment on peut savoir que c'est un faux ? demanda Sofia, fascinée.
 
-Inès attrapa deux fragments d'os sur la table, presque identiques en
-apparence, et les tendit à Sofia.
+Inès attrapa deux fragments d'os sur la table, d'apparence très proche,
+et les tendit à Sofia.
 
 — Regarde bien, dit-elle. La couleur, d'abord. Chaque couche de terre a
 sa propre chimie, donc sa propre teinte de fossilisation. Deux os
@@ -1215,7 +1215,7 @@ la vallée, et bien moins chers.
 ---
 
 Ils marchèrent un moment en silence, Milo un peu moins raide qu'au début,
-jusqu'à un gros rocher fendu en deux, presque exactement au milieu,
+jusqu'à un gros rocher fendu en deux, presque au milieu,
 comme si un géant l'avait un jour frappé d'un coup de hache.
 
 — C'est là que mon grand-père trouvait le plus de trucs, dit Milo, en
@@ -1293,7 +1293,7 @@ c'était son mot à elle pour désigner ce coin du champ — se réveillait
 d'un coup, certaines années, plus que d'autres.
 
 — Vous pourriez me montrer ce carnet de mémoire un jour ? demanda
-Souly, presque avec révérence. Toutes ces années d'observations,
+Souly, avec révérence. Toutes ces années d'observations,
 même sans mesure précise, ça vaut vraiment quelque chose.
 
 Papet Fabre le regarda un long moment, une expression indéchiffrable
@@ -1897,7 +1897,7 @@ pour cette nuit-là.
 Nadia hocha la tête, sans quitter des yeux la caisse
 qu'elle finissait de refermer.
 
-— C'est vrai, dit-elle. On a discuté jusqu'à presque minuit. Elle
+— C'est vrai, dit-elle. On a discuté jusqu'à près de minuit. Elle
 n'a pas pu quitter la maison sans que je le remarque, ma chambre est
 juste à côté de la sienne.
 
@@ -2463,7 +2463,7 @@ mains à plat sur la table couverte de fiches. On a un problème de
 sécurité sérieux, et je préfère qu'on en parle tous ensemble plutôt que
 de laisser les rumeurs s'en charger à notre place.
 
-Tomas, qui d'ordinaire gardait un silence presque monacal pendant les
+Tomas, qui d'ordinaire gardait un silence de moine pendant les
 réunions, leva la main le premier.
 
 — On a vérifié les serrures de la remise ? demanda-t-il. Si quelqu'un
@@ -2662,7 +2662,7 @@ sur un coin du fragment suspect, à un endroit déjà légèrement écaillé.
 légèrement collante, presque poisseuse. Une vraie pierre ne réagirait
 jamais comme ça. Une résine synthétique, si.
 
-Milo se pencha si près que son nez frôla presque le fragment.
+Milo se pencha si près que son nez frôla le fragment.
 
 — Et sur l'autre morceau ? demanda-t-il.
 
@@ -2751,7 +2751,7 @@ Sofia retira sa main, un peu à contrecœur, mais consciente que son
 frère avait raison.
 
 — Depuis quand tu es aussi raisonnable, toi, exactement ? demanda-t-elle,
-presque suspicieuse, en le regardant du coin de l'œil.
+un peu suspicieuse, en le regardant du coin de l'œil.
 
 — Depuis que j'ai vu ce qui arrive à Elsa quand les gens sautent trop
 vite aux conclusions, répondit Souly, parfaitement sérieux.

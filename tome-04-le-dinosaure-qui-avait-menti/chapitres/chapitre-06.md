@@ -30,7 +30,7 @@ mains à plat sur la table couverte de fiches. On a un problème de
 sécurité sérieux, et je préfère qu'on en parle tous ensemble plutôt que
 de laisser les rumeurs s'en charger à notre place.
 
-Tomas, qui d'ordinaire gardait un silence presque monacal pendant les
+Tomas, qui d'ordinaire gardait un silence de moine pendant les
 réunions, leva la main le premier.
 
 — On a vérifié les serrures de la remise ? demanda-t-il. Si quelqu'un
@@ -229,7 +229,7 @@ sur un coin du fragment suspect, à un endroit déjà légèrement écaillé.
 légèrement collante, presque poisseuse. Une vraie pierre ne réagirait
 jamais comme ça. Une résine synthétique, si.
 
-Milo se pencha si près que son nez frôla presque le fragment.
+Milo se pencha si près que son nez frôla le fragment.
 
 — Et sur l'autre morceau ? demanda-t-il.
 
@@ -318,7 +318,7 @@ Sofia retira sa main, un peu à contrecœur, mais consciente que son
 frère avait raison.
 
 — Depuis quand tu es aussi raisonnable, toi, exactement ? demanda-t-elle,
-presque suspicieuse, en le regardant du coin de l'œil.
+un peu suspicieuse, en le regardant du coin de l'œil.
 
 — Depuis que j'ai vu ce qui arrive à Elsa quand les gens sautent trop
 vite aux conclusions, répondit Souly, parfaitement sérieux.

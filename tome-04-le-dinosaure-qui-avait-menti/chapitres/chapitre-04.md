@@ -393,7 +393,7 @@ pour cette nuit-là.
 Nadia hocha la tête, sans quitter des yeux la caisse
 qu'elle finissait de refermer.
 
-— C'est vrai, dit-elle. On a discuté jusqu'à presque minuit. Elle
+— C'est vrai, dit-elle. On a discuté jusqu'à près de minuit. Elle
 n'a pas pu quitter la maison sans que je le remarque, ma chambre est
 juste à côté de la sienne.
 

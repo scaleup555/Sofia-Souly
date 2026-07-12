@@ -38,7 +38,7 @@ Théo lui adressa un regard dans le rétroviseur, un mélange de surprise et
 de fierté difficile à cacher.
 
 — Voilà, dit-il. Tu vas t'entendre à merveille avec Inès. Elle
-dit exactement la même phrase, presque mot pour mot, à chaque nouveau
+dit la même phrase, presque mot pour mot, à chaque nouveau
 stagiaire qui débarque sur son chantier.
 
 — Et vous avez trouvé quoi, avec elle, cet été-là ? demanda Sofia, qui
@@ -123,7 +123,7 @@ toujours en retard.
 — Toi si. Tu as encore plus de poches à ton gilet que la dernière fois.
 Un jour, tu vas finir par en avoir plus que de vêtement.
 
-Elle se tourna vers Sofia et Souly et les évalua du regard, exactement
+Elle se tourna vers Sofia et Souly et les évalua du regard,
 comme elle aurait jaugé un nouveau fragment avant de décider s'il
 méritait qu'on s'y attarde.
 
