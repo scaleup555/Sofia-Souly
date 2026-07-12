@@ -15,6 +15,17 @@ la table de la tente. Des dizaines de gens du village pourraient avoir
 laissé ces traces. Mais c'est plus facile de soupçonner Elsa, qui n'est
 même pas d'ici.
 
+— C'est toujours plus facile de soupçonner quelqu'un qui n'est pas là
+pour se défendre, dit Sofia, avec une conviction qui ne laissait aucune
+place au doute. On l'a déjà vu, avec ton grand-père.
+
+Milo la regarda un instant, visiblement surpris qu'elle ait fait ce
+rapprochement toute seule.
+
+— C'est exactement ça, dit-il, après un silence. Sauf que cette fois,
+j'ai bien l'intention qu'on trouve le vrai coupable avant que ça
+n'aille trop loin.
+
 — Alors on va leur montrer les vraies preuves, dit Souly, concentré sur
 les fragments d'os étalés devant lui — une douzaine de morceaux prêtés
 par Inès pour un examen comparatif, chacun accompagné de sa fiche
@@ -131,6 +142,25 @@ seul membre du chantier.
 
 — Vasseur, dit-il. Il a réussi à faire enregistrer un bloc à son nom,
 dans notre propre inventaire.
+
+Sofia s'approcha à son tour, examinant la gaze protectrice qui
+enveloppait le bloc avec un mélange de curiosité et de méfiance.
+
+— On l'ouvre ? demanda-t-elle, la main déjà tendue.
+
+— Non, dit fermement Souly, en l'arrêtant d'un geste. Si on l'ouvre
+maintenant, sans témoin et sans Inès, on ne pourra jamais prouver qu'on
+n'a pas nous-mêmes changé quelque chose à l'intérieur. Il faut faire ça
+dans les règles, sinon toutes nos preuves ne vaudront plus rien.
+
+Sofia retira sa main, un peu à contrecœur, mais visiblement consciente
+que son frère avait raison.
+
+— Depuis quand tu es aussi raisonnable ? demanda-t-elle.
+
+— Depuis que j'ai vu ce qui arrive à Elsa quand les gens sautent trop
+vite aux conclusions, répondit Souly, sans une once d'ironie dans la
+voix.
 
 De l'autre côté de la tente, la voix d'Inès s'éleva soudain, tendue,
 répondant à un appel téléphonique que ni Sofia ni Souly n'avaient

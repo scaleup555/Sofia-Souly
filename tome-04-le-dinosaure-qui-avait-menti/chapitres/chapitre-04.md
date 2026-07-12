@@ -27,6 +27,24 @@ tout un marché privé de fossiles, à condition qu'ils ne proviennent pas
 d'un site protégé comme le nôtre. Je n'ai jamais aimé ces gens-là, mais
 je ne peux rien leur reprocher sans preuve.
 
+Sofia, curieuse malgré les réticences évidentes d'Inès, s'approcha du
+stand de Vasseur pour l'observer accueillir un couple de touristes en
+tenue de randonnée, débitant avec de grands gestes bien rodés l'origine
+d'une dent fossile montée sur un petit socle de bois verni.
+
+— Une pièce exceptionnelle, disait-il, venue d'une collection privée du
+Sud-Ouest, authentifiée par des experts reconnus... Un investissement,
+mesdames et messieurs, pas seulement un souvenir de vacances.
+
+Sofia revint vers Souly, un peu songeuse.
+
+— Il parle exactement comme les vendeurs de calendriers qui viennent
+sonner chez Mamie Rose, dit-elle. Beaucoup trop gentil pour être
+seulement gentil.
+
+— C'est une excellente observation, dit Souly, en la notant sans même
+lever les yeux de son carnet.
+
 ---
 
 L'attraction centrale de la foire, organisée à quinze heures précises,
@@ -142,3 +160,32 @@ Inès ne répondit pas tout de suite. Elle se contenta d'ouvrir le
 registre du chantier, de le feuilleter deux fois de suite, page après
 page, et de le refermer sans y avoir rien trouvé qui explique quoi que
 ce soit.
+
+— Je vais faire l'inventaire complet demain matin, à la première heure,
+dit-elle finalement. Si quelque chose d'autre a disparu, je veux le
+savoir avant que ça devienne un vrai problème plutôt qu'un simple
+désagrément.
+
+Sofia, qui avait ramassé au passage une poignée de confettis rouges
+tombés d'un des stands de la foire, les laissa filer entre ses doigts
+d'un air distrait.
+
+— Vasseur était là, cet après-midi, pendant tout le treuil, dit-elle. Je
+l'ai vu applaudir avec tout le monde.
+
+— Ce qui ne veut rien dire du tout, fit remarquer Souly. Le vol des
+outils a eu lieu la nuit dernière, pas cet après-midi. Il pouvait très
+bien être ici pour la foire et avoir fait autre chose avant.
+
+— Je sais, dit Sofia. Mais ça me travaille quand même.
+
+Le soir tombait sur la place à moitié désertée, les stands
+progressivement démontés, quand Milo les retrouva près de la tente,
+encore couvert de la poussière rouge de l'après-midi.
+
+— Alors, ce club des catastrophes officielles, ça recrute toujours ?
+demanda-t-il, sans une once de moquerie dans la voix, cette fois.
+
+— On dirait bien qu'on va avoir besoin de tout le monde, cette semaine,
+répondit Souly, en refermant son carnet sur une liste qui s'allongeait
+déjà bien plus vite qu'il ne l'aurait souhaité.

@@ -5,6 +5,9 @@ principale, une grande table couverte de plateaux compartimentés où
 s'alignaient des dizaines de fragments soigneusement étiquetés, pour ce
 qu'elle appelait, avec un clin d'œil, « la leçon obligatoire pour tout
 nouveau visiteur qui touche à mes fossiles sans savoir ce que c'est ».
+Sofia s'installa au premier rang improvisé, sur une caisse retournée,
+son caillou porte-bonheur bien calé dans sa poche comme s'il avait, lui
+aussi, le droit d'assister au cours.
 
 — Un fossile, commença-t-elle, en tenant devant elle un os brunâtre de la
 taille d'un avant-bras, ce n'est presque jamais un vrai os. C'est de la
@@ -39,6 +42,26 @@ raisonnable. C'est utile, honnête, et toujours annoncé clairement. Le
 problème, ce n'est jamais le moulage lui-même — c'est quand quelqu'un
 essaie de le faire passer pour un vrai fossile.
 
+Elle sortit d'un tiroir un petit moulage grisâtre, étiqueté en toutes
+lettres « RÉPLIQUE — usage pédagogique », et le posa à côté de l'os
+authentique pour comparaison.
+
+— Regardez la différence de poids, d'abord, dit-elle, en les faisant
+peser tour à tour dans les mains des enfants. Une vraie pierre
+fossilisée est presque toujours plus lourde qu'un moulage en résine, à
+volume égal. Ce n'est pas une règle absolue, mais c'est souvent le tout
+premier indice, avant même de sortir une loupe.
+
+Sofia soupesa les deux objets l'un après l'autre, les sourcils froncés
+par la concentration.
+
+— Celui-là est vraiment plus léger, dit-elle, surprise. On dirait presque
+du plastique.
+
+— C'est exactement ce que c'est, en partie, confirma Inès. De la résine
+synthétique. Excellente pour l'enseignement. Catastrophique si quelqu'un
+essaie de la vendre comme une vraie découverte.
+
 ---
 
 Un jeune homme au fond de la tente, occupé à nettoyer des instruments
@@ -51,7 +74,9 @@ raconter une longue histoire. Des collectionneurs privés paient des
 sommes folles pour des « nouvelles espèces », et certains marchands
 n'hésitent pas à assembler des morceaux de plusieurs squelettes
 différents pour créer quelque chose de plus spectaculaire à vendre. Ça
-s'est vu, à plusieurs reprises, dans le monde entier.
+s'est vu, à plusieurs reprises, dans le monde entier. Des musées entiers
+se sont fait avoir, avant que des analyses plus poussées ne révèlent la
+supercherie, parfois des dizaines d'années plus tard.
 
 — Comment on peut savoir que c'est un faux ? demanda Sofia, fascinée.
 
@@ -76,13 +101,24 @@ second.
 
 — Exactement, confirma Inès. Ils viennent de deux carrés différents,
 distants d'à peine trois mètres. La nature n'est jamais tout à fait
-uniforme. C'est ce qui la rend difficile à imiter parfaitement.
+uniforme. C'est ce qui la rend difficile à imiter parfaitement — un
+faussaire pressé, ou pas assez soigneux, oublie toujours ce détail-là.
+
+Tomas, qui les avait rejoints entre-temps, s'essuya les mains sur son
+tablier de travail avant de reprendre la parole.
+
+— C'est un peu comme un mensonge trop bien préparé, dit-il. Plus une
+histoire semble parfaite, plus elle mérite qu'on la vérifie deux fois.
+
+— J'aime beaucoup cette phrase, dit Inès. Je vais te la voler pour mes
+prochains cours.
 
 ---
 
 La leçon fut interrompue par l'arrivée essoufflée d'une femme d'une
 cinquantaine d'années, une écharpe tricolore mal nouée autour de la
-taille, visiblement pressée.
+taille, visiblement pressée, ses sandales couvertes de la même poussière
+rouge que tout le reste du chantier.
 
 — Inès ! Il faut qu'on parle de la Fête de la Pierre, dit-elle, sans même
 reprendre son souffle.
@@ -94,24 +130,47 @@ tourner vers la nouvelle venue. Qu'est-ce qu'il y a encore ?
 samedi prochain. Le tourisme du village est au plus bas, la subvention
 régionale pour continuer la fouille l'an prochain dépend en partie de la
 visibilité qu'on obtient cette année. On a besoin d'une vraie découverte
-à présenter, Inès. Quelque chose qui fasse parler.
+à présenter, Inès. Quelque chose qui fasse parler, quelque chose qui
+donne envie aux gens de venir jusqu'ici plutôt qu'à la plage.
 
 — La science ne se commande pas à la demande, Marion, dit Inès, un peu
-sèchement. On trouve ce qu'on trouve, quand on le trouve.
+sèchement. On trouve ce qu'on trouve, quand on le trouve. Ça fait vingt
+ans que je fouille ce vallon, je ne vais pas commencer à inventer des
+résultats parce qu'un calendrier municipal l'exige.
 
-— Je sais, dit Marion, en se radoucissant. Mais tu comprends l'enjeu.
-Sans argent, pas de fouille l'an prochain. Sans fouille, pas de touristes,
-pas de petits restaurants qui rouvrent, pas d'école qui garde ses deux
-classes au lieu d'une.
+— Je sais, dit Marion, en se radoucissant, visiblement consciente
+d'avoir un peu forcé le ton. Mais tu comprends l'enjeu. Sans argent, pas
+de fouille l'an prochain. Sans fouille, pas de touristes, pas de petits
+restaurants qui rouvrent, pas d'école qui garde ses deux classes au lieu
+d'une. J'ai déjà trois commerçants qui menacent de fermer avant
+l'automne si cette saison ne rattrape pas les deux précédentes.
 
-Sofia, qui écoutait attentivement cet échange sans oser intervenir, tira
-discrètement Souly par la manche.
+— Et le budget prévu pour la sécurité et l'assurance du chantier pendant
+la fête ? demanda Inès. Parce que si on attend du monde, il va falloir
+plus qu'un ruban et deux panneaux.
+
+— On y travaille, dit Marion, sans grande conviction dans la voix, avant
+de se tourner brièvement vers les enfants, un peu gênée. Vous devez me
+trouver bien ennuyeuse, avec mes histoires de budget.
+
+— Pas du tout, dit Sofia, très sérieuse. On adore les histoires où
+quelqu'un a besoin d'être aidé.
+
+Marion parut un instant décontenancée par cette réponse, avant d'éclater
+d'un rire bref, sincère.
+
+— J'espère juste ne pas avoir besoin d'aide au point où vous
+l'imaginez, dit-elle.
+
+Sofia, qui écoutait attentivement cet échange sans oser intervenir
+davantage, tira discrètement Souly par la manche.
 
 — Souly, chuchota-t-elle. Tu as entendu ? Beaucoup d'argent dépend d'une
 belle découverte.
 
 — J'ai entendu, dit Souly, déjà en train d'écrire dans son carnet. Ça
-fait beaucoup de pression sur beaucoup de monde différent.
+fait beaucoup de pression sur beaucoup de monde différent. Assez pour
+pousser certains à prendre des raccourcis, si l'occasion se présente.
 
 ---
 
@@ -125,8 +184,11 @@ raccourci. Si on trouve quelque chose d'important pour samedi, tant
 mieux. Sinon, tant pis — je préfère annoncer zéro découverte plutôt
 qu'une découverte qu'on n'a pas vraiment faite.
 
-Un murmure d'approbation parcourut la tente, sauf, remarqua Sofia, du
-côté d'un homme qu'elle n'avait pas encore vu ce matin-là — élégamment
+L'équipe se dispersa peu à peu vers les différents carrés, chacun
+reprenant sa tâche de la veille, les pinceaux un peu plus appliqués, les
+voix un peu plus basses qu'à l'accoutumée. Un
+murmure d'approbation parcourut la tente, sauf, remarqua Sofia, du côté
+d'un homme qu'elle n'avait pas encore vu ce matin-là — élégamment
 habillé pour un chantier de fouille, une veste beige impeccable qui
 tranchait nettement avec les vêtements couverts de poussière du reste de
 l'équipe, occupé à photographier discrètement la table de fragments
@@ -136,6 +198,11 @@ depuis l'entrée de la tente.
 
 Son frère suivit son regard juste à temps pour voir l'homme, remarquant
 qu'on l'observait, ranger son téléphone dans sa veste et s'éloigner
-vers le sentier sans un mot ni un regard en arrière.
+vers le sentier sans un mot ni un regard en arrière, ses chaussures de
+ville manifestement peu adaptées au terrain caillouteux du vallon.
 
 — Aucune idée, dit Souly. Mais je parie qu'on va le revoir.
+
+Il rouvrit son carnet à une page vierge et commença, sans que personne
+ne le lui demande, une nouvelle colonne qu'il intitula simplement, en
+lettres capitales bien nettes : *PERSONNES À SURVEILLER*.

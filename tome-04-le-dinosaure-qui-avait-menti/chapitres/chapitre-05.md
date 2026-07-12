@@ -15,9 +15,12 @@ touche rien avant de l'avoir noté et photographié. C'est comme ça qu'on
 travaille, ici.
 
 Ils se répartirent le chantier en secteurs, un carnet dans une main et
-un appareil photo emprunté à l'équipe dans l'autre. Milo, qui connaissait
-chaque recoin du terrain mieux que quiconque, repéra le premier indice,
-près du carré numéro sept.
+un appareil photo emprunté à l'équipe dans l'autre. Le vallon, si
+paisible d'ordinaire à cette heure matinale, prenait une allure presque
+inquiétante sous cet examen minutieux : chaque trace de pas, chaque
+caillou déplacé devenait soudain suspect, digne d'être photographié et
+consigné. Milo, qui connaissait chaque recoin du terrain mieux que
+quiconque, repéra le premier indice, près du carré numéro sept.
 
 — Regardez ça, dit-il, accroupi devant une empreinte nette dans la terre
 encore humide de rosée. Une chaussure. Pas une des nôtres — j'ai vu tout
@@ -73,8 +76,8 @@ Sofia haussa les sourcils vers Souly, qui haussa les siens en retour.
 — Plusieurs fois cette semaine, dit Milo. Toujours seule, toujours très
 tôt. Je pensais pas que c'était important, avant aujourd'hui.
 
-Ils retrouvèrent Elsa un peu plus tard, occupée à nettoyer des
-instruments près de la tente principale, visiblement mal à l'aise dès
+Ils retrouvèrent Elsa un peu plus tard, penchée sur une caisse de
+fragments qu'elle reclassait un par un, visiblement mal à l'aise dès
 qu'elle comprit le sujet de leur venue.
 
 — Je n'ai touché à rien, dit-elle, immédiatement sur la défensive. Je
@@ -95,9 +98,23 @@ ridicules.
 — Ils sont pas ridicules du tout, dit Sofia, en feuilletant le carnet
 avec un intérêt sincère. Ils sont même très beaux.
 
-— Merci, dit Elsa, surprise et visiblement touchée. Mais ça n'explique
-toujours pas pourquoi tout le monde va penser que c'est moi qui ai
-déplacé les outils.
+Elle s'arrêta sur un croquis particulièrement détaillé, une vertèbre
+fossilisée reproduite trait pour trait, chaque strie de la texture
+rendue avec une précision presque photographique.
+
+— Regarde, Souly, celui-là ressemble presque plus à une vraie photo
+qu'à un dessin.
+
+Souly se pencha à son tour, visiblement impressionné malgré lui.
+
+— Vous devriez montrer ça à Inès, dit-il. Pas parce que vous devez vous
+justifier. Juste parce que c'est du très bon travail, et que ça
+mériterait d'être vu.
+
+— Peut-être, dit Elsa, sans grande conviction, en refermant
+délicatement le carnet. Un jour, peut-être. Ça n'explique quand même pas
+pourquoi tout le monde va penser que c'est moi qui ai déplacé les
+outils.
 
 ---
 
@@ -136,13 +153,23 @@ tendrement, comme si le simple fait d'avoir été crue par deux enfants
 suffisait à en changer la valeur.
 
 — Il reste quatre jours avant la présentation officielle de samedi
-prochain, dit Inès, qui les avait rejoints entre-temps. Quatre jours pour
-comprendre ce qui se passe vraiment sur mon chantier.
+prochain, dit Inès, qui les avait rejoints entre-temps, un gobelet de
+café à moitié froid dans la main. Quatre jours pour comprendre ce qui se
+passe vraiment sur mon chantier, avant que ça ne devienne officiellement
+un problème pour tout le village, pas seulement pour moi.
 
 — On va vous aider, dit Souly. Deux séries d'empreintes, une pelle sans
 numéro, et quelqu'un qui a beaucoup trop hâte de voir une belle
 découverte samedi.
 
-Il rouvrit son carnet, traça une ligne bien droite sous ses dernières
-notes, et se mit aussitôt à dresser, sans attendre l'accord de personne,
-la liste de tout ce qu'il restait à vérifier avant la fin de la semaine.
+— Trois indices, dit Milo, en comptant sur ses doigts. Ça fait beaucoup
+pour trois jours, mais pas encore assez pour accuser qui que ce soit.
+
+— Alors on continue à chercher, dit Elsa, en se redressant, le droit de
+participer pleinement à l'enquête, et pas seulement de la subir.
+
+Souly rouvrit son carnet, traça une ligne bien droite sous ses
+dernières notes, et se mit aussitôt à dresser, sans attendre l'accord de
+personne, la liste de tout ce qu'il restait à vérifier avant la fin de
+la semaine — une liste qui, en quelques minutes à peine, occupa deux
+pages entières.

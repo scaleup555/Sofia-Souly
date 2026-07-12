@@ -23,6 +23,29 @@ Milo eut un petit rire sec, sans grande joie dedans.
 — Ça, tout le monde le sait, dans le coin, dit-il. Sauf que ça n'a pas
 toujours été le cas.
 
+Il les observa un moment de plus, un chien roux couché à ses pieds
+levant à peine une oreille au passage de deux inconnus, avant de se
+laisser glisser du muret avec une souplesse qui trahissait des années
+entières passées à grimper dans les arbres et sur les rochers du champ.
+
+— Vous êtes les deux qui logent avec la Doctoresse Castellane, dit-il.
+J'ai entendu parler de vous, au marché.
+
+— Déjà ? s'étonna Sofia. On est arrivés hier.
+
+— Ici, une nouvelle met moins de temps à circuler qu'un coup de vent,
+dit Milo, presque amusé malgré lui. On m'a dit que vous aviez trouvé un
+fragment bizarre, dès le premier jour.
+
+Souly et Sofia échangèrent un regard, un peu déstabilisés à l'idée que
+leur découverte du fragment brun-rouge ait déjà voyagé jusqu'à ce champ
+d'oliviers isolé.
+
+— On a surtout posé beaucoup de questions, corrigea Souly, prudemment.
+
+— Ça, ça vous ressemble déjà bien, à en croire ce qu'on raconte de vous
+deux, dit Milo, sa méfiance de tout à l'heure visiblement retombée.
+
 ---
 
 Il finit par accepter, après un long silence hésitant, de leur montrer le
@@ -187,3 +210,29 @@ jamais l'air de vraiment creuser lui-même.
 — Alors qu'est-ce qu'il vient faire ici, tous les jours, sans jamais se
 salir les mains ? demanda Sofia, à personne en particulier — et personne,
 sur le chemin poussiéreux, n'eut de réponse à lui offrir.
+
+Milo les raccompagna jusqu'à la limite de son champ, là où le muret de
+pierres sèches cédait la place au sentier public menant au chantier,
+son chien roux trottinant devant eux comme s'il connaissait déjà le
+chemin par cœur.
+
+— Vous revenez demain ? demanda-t-il, avec une décontraction un peu trop
+étudiée pour être totalement naturelle.
+
+— Si tu veux bien de nous, dit Sofia, sans une once d'hésitation.
+
+— Je veux bien, dit Milo. Mais seulement si vous continuez à poser des
+questions plutôt que des sentences.
+
+— C'est notre spécialité, confirma Souly, en refermant son carnet.
+
+En redescendant vers le chantier, le soleil déjà bas sur les collines,
+Sofia se retourna une dernière fois vers le rocher fendu, minuscule au
+loin, une simple entaille sombre dans la roche rouge du champ.
+
+— Tu crois que Papet Fabre a raison ? demanda-t-elle. Pour la terre qui
+rougit ?
+
+— Je crois qu'on n'a aucune raison de penser le contraire, dit Souly,
+après réflexion. Et beaucoup de raisons de vouloir vérifier par
+nous-mêmes, dès qu'il pleuvra vraiment.
