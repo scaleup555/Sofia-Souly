@@ -495,3 +495,85 @@ tics ci-dessus, pas seulement sur la liste de formulations bannies —
 et envisager une relecture dédiée "chasse aux gabarits" avant la toute
 première soumission au jury, plutôt que de laisser chaque gabarit être
 découvert un par un sur des passages successifs.
+
+## Tome 4 — session 1 (chapitres 1-6) : ACCEPTÉ à 9,05/10 après 11 passages jury
+
+**Le pire score de la série jusqu'ici (11 passages cumulés sur les
+chapitres 1-6 seuls, contre 4 à 9 pour les tomes précédents sur un lot
+comparable), à cause d'un seul mécanisme récurrent identifié trop
+tard : un gabarit lié au trait de caractère signature d'un personnage
+(Souly et son carnet) se reformule à la marge à chaque correction —
+un mot changé, un synonyme, un déplacement vers un autre chapitre ou
+un autre personnage — au lieu d'être réellement éliminé comme famille.**
+
+Chronologie du défaut, rapport par rapport (v6 → v11, notes 8,6 → 8,9 →
+8,75 → 8,9 → 8,95 → 9,05) :
+- v6/v7 : le gabarit « Souly + carnet + déjà + [état/participe] »
+  (« son carnet déjà ouvert », « son carnet déjà sorti », etc.) est
+  cité avec des phrases exactes. Les corrections ne traitent QUE les
+  phrases citées mot pour mot : le gabarit survit ailleurs dans le même
+  chapitre, jamais vérifié par un grep élargi à la famille.
+- v8 : les phrases citées ont bien changé, mais un grep plus large
+  révèle que le total n'a pas baissé — le gabarit a simplement migré
+  vers deux chapitres qui ne l'avaient pas encore. Le même passage
+  découvre EN PLUS trois nouvelles familles jamais documentées, toutes
+  centrées sur Souly : « referma/refermant son carnet » comme geste de
+  fin de chapitre (7 occurrences, 3 chapitres se terminaient dessus),
+  « dit Souly, sans lever les yeux » (x3 identiques), « qui les avait
+  rejoints entre-temps » (x3 identiques, personnages différents),
+  « pensif »/« songeur » comme étiquette par défaut (6 occurrences).
+- v9 : le point n°1 est enfin vraiment corrigé. Mais la phrase de fin
+  de chapitre 3, citée mot pour mot par v8, n'a reçu AUCUNE retouche
+  (deuxième citation verbatim sans effet) ; le geste « refermer le
+  carnet » a migré vers un second personnage, Elsa.
+- v10 : la phrase de fin de ch.3 est enfin corrigée après deux
+  citations verbatim consécutives sans effet. Mais un grep élargi
+  découvre un jumeau à UN SEUL MOT PRÈS resté invisible à cinq
+  rapports précédents : « sans lever les yeux de son carnet » (ch.3)
+  vs « sans MÊME lever les yeux de son carnet » (ch.4) — le mot
+  « même » suffisait à casser un grep sur la chaîne exacte. Un tic
+  volontairement laissé « à surveiller, non bloquant » depuis trois
+  rapports consécutifs (« exactement ») empire de +26 % au lieu de
+  s'améliorer pendant que l'attention se concentre ailleurs.
+- v11 : les trois dernières corrections sont enfin toutes vérifiées
+  une par une par grep sur texte aplati (pas seulement par relecture)
+  — ACCEPTÉ à 9,05/10.
+
+**Leçon la plus importante de ce tome, à appliquer systématiquement dès
+le tome 5 :** un gabarit n'est vraiment corrigé que lorsqu'un grep sur
+la FAMILLE COMPLÈTE (pas la phrase exacte citée) renvoie au maximum une
+occurrence sur l'ensemble du manuscrit — pas seulement quand les
+phrases explicitement citées par le rapport précédent ont changé de
+mots. Trois pièges précis, tous rencontrés dans ce tome, à vérifier
+activement à CHAQUE correction de gabarit :
+1. **Migration inter-chapitre** — le gabarit corrigé ici réapparaît
+   ailleurs dans le manuscrit, dans un chapitre qui n'était pas encore
+   contaminé (« carnet déjà » : corrigé au ch.1, réapparu au ch.2 et
+   ch.4).
+2. **Migration inter-personnage** — le même squelette syntaxique migre
+   vers un second personnage qui n'avait pas encore ce tic (le geste
+   « refermer le carnet » de Souly, retrouvé identique chez Elsa).
+3. **Variation minimale invisible au grep exact** — l'ajout ou le
+   retrait d'un seul mot (« sans lever les yeux » vs « sans MÊME lever
+   les yeux ») suffit à rendre une répétition invisible à un grep sur
+   la chaîne littérale. **Après toute correction de gabarit, refaire un
+   grep élargi sur le SQUELETTE du motif (mots clés séparés par
+   `.{0,40}` plutôt que la phrase exacte), pas seulement sur la
+   citation d'origine.**
+
+**Règle méthodologique ajoutée pour la série :** un personnage doté
+d'un objet ou d'un geste signature (le carnet de Souly, mais cela
+s'appliquera à tout futur running gag comparable) est le point du
+manuscrit le plus à risque de gabarits répétés, précisément parce que
+cet objet/geste revient légitimement très souvent. Dès l'écriture,
+tenir un inventaire mental (ou un grep dédié) de toutes les variantes
+déjà utilisées pour décrire ce geste, et ne jamais réutiliser la même
+construction narrative (dialogue + gérondif décrivant le geste) plus
+d'une fois par chapitre pour ce personnage.
+
+**Point non bloquant laissé en vigilance pour la session 2 du tome 4 :**
+densité du gabarit « [verbe de parole] Personnage, en [gérondif] »
+(51 occurrences relevées en v10, dont 21 pour Souly seul, soit une
+fois toutes les 400 mots) — jamais une répétition de formulation
+exacte, donc jamais bloquant, mais un effet de ronron à surveiller
+lors d'une future passe de polish.

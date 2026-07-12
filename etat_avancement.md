@@ -1,9 +1,11 @@
 # État d'avancement — Série Sofia & Souly
 
-*Dernière mise à jour : Tomes 1, 2 ET 3 entièrement terminés — 2026-07-11*
+*Dernière mise à jour : Tome 4, session 1 (chapitres 1-6) ACCEPTÉE — 2026-07-12*
 
 **À LIRE INTÉGRALEMENT avant de démarrer toute nouvelle session d'écriture**,
-avec `bible/personnages.md` et `bible/lecons_apprises.md`.
+avec `bible/personnages.md` et `bible/lecons_apprises.md` (section
+« Tome 4 — session 1 » en particulier : leçon méthodologique majeure sur
+les gabarits liés à un objet/geste signature de personnage).
 
 ## Vue d'ensemble de la série
 
@@ -12,6 +14,7 @@ avec `bible/personnages.md` et `bible/lecons_apprises.md`.
 | 1 | Le Pharaon qui avait peur du noir | Égypte antique | **12/12 chapitres, .docx livré** | **9,1/10 — ACCEPTÉ** |
 | 2 | Le Volcan qui avait la migraine | Volcanologie / sismologie / intégrité scientifique | **12/12 chapitres, .docx livré** | **9,1/10 — ACCEPTÉ** |
 | 3 | L'Océan qui avait de la fièvre | Biologie marine / récifs coralliens / savoir traditionnel | **12/12 chapitres, .docx livré** | **9,1/10 — ACCEPTÉ** |
+| 4 | Le Dinosaure qui avait menti | Paléontologie / authentification d'un fossile | **6/12 chapitres (session 1 ACCEPTÉE), session 2 (ch.7-12) à venir** | **9,05/10 (ch.1-6) — ACCEPTÉ** |
 
 ## Tome 1 — ENTIÈREMENT TERMINÉ
 
@@ -76,42 +79,69 @@ avec `bible/personnages.md` et `bible/lecons_apprises.md`.
   ce type de tic ; il faut chercher activement des FAMILLES de tics.
   Détail complet dans `bible/lecons_apprises.md` (section « Tome 3 »).
 
-## Bilan méthodologique de la série (pour le tome 4 et au-delà)
+## Tome 4 — session 1 (chapitres 1-6) ACCEPTÉE, session 2 (chapitres 7-12) À FAIRE
 
-- Tome 1 : 6 passages cumulés.
-- Tome 2 : 4 passages cumulés (méthode consolidée, climax vécus dès l'écriture).
-- Tome 3 : 9 passages cumulés — pas de régression sur les catégories déjà
-  bannies, mais une série de gabarits syntaxiques inédits découverts un
-  par un. Voir la leçon méthodologique majeure ci-dessus.
-- **Pour le tome 4 : avant la toute première soumission au jury, faire une
-  relecture dédiée « chasse aux gabarits » (pas seulement un grep sur les
-  formulations déjà bannies) — chercher spécifiquement les phrases qui
-  suivent un même schéma grammatical pour des personnages/scènes
-  différents (silences, regards, gestes de tension, émotions mises en
-  scène comme un objet qui se déplace dans le corps).**
-- Voir `bible/lecons_apprises.md` (section finale) pour la checklist grep de
-  contrôle qualité et l'historique complet des leçons.
+- Dossier : `tome-04-le-dinosaure-qui-avait-menti/`
+- Thème : paléontologie (formation d'un fossile, authentification d'une
+  découverte par la stratigraphie et l'étude comparative, différence
+  entre un vrai fossile et un assemblage frauduleux). Lieu : Roc-Rouge,
+  village fictif de Haute-Provence.
+- Plan complet des 12 chapitres dans `tome-04-le-dinosaure-qui-avait-menti/outline.md`
+  (à relire avant d'écrire la session 2 : les deux twists, les indices
+  fair-play déjà posés en session 1, et le résumé chapitre par chapitre
+  prévu pour les chapitres 7 à 12).
+- Nouveaux personnages récurrents secondaires (déjà ajoutés à
+  `bible/personnages.md`) : **Dr. Inès Castellane** (paléontologue,
+  vieille amie de Théo), **Milo Fabre** (12 ans, petit-fils d'exploitant
+  agricole), **Papet Fabre**, **Dorian Vasseur** (le coupable du twist 1),
+  **Elsa Roussel** (stagiaire, fausse piste du twist 1).
+- Manuscrit des chapitres 1-6 :
+  `tome-04-le-dinosaure-qui-avait-menti/manuscrit-session1-ch1-6.md`
+  (20 203 mots — cible de longueur respectée dès la session 1, contrairement
+  aux tomes 2 et 3).
+- **11 passages jury cumulés pour les seuls chapitres 1-6** (record de la
+  série, contre 4 à 9 pour les tomes précédents sur un lot comparable) :
+  progression 8,2 → 8,4 → 8,6 → 8,8 → 8,8 (v5, longueur bloquante) → 7,8
+  (v6, POV/tics) → 8,6 (v6 relu) → 8,9 (v7) → 8,75 (v8) → 8,9 (v9) → 8,95
+  (v10) → **9,05/10 (v11) — ACCEPTÉ**. Rapport final :
+  `tome-04-le-dinosaure-qui-avait-menti/jury/rapport-v11.md`.
+- **Cause du nombre élevé de passages, documentée en détail dans
+  `bible/lecons_apprises.md` (section « Tome 4 — session 1 ») : un
+  gabarit lié à l'objet signature d'un personnage (le carnet de Souly)
+  n'a été traité que citation par citation pendant plusieurs passages
+  consécutifs, au lieu d'être recherché comme famille complète sur tout
+  le manuscrit — il migrait à chaque correction (vers un autre chapitre,
+  un autre personnage, ou une variante à un seul mot près invisible à un
+  grep exact). Leçon méthodologique à appliquer dès le tome 5, résumée
+  dans la bible : après toute correction de gabarit, refaire un grep
+  élargi sur le SQUELETTE du motif, pas seulement sur la phrase citée.**
+- Twist 1 (Dorian Vasseur fabrique un faux fossile composite pour le
+  vendre, laisse soupçonner la stagiaire Elsa) et twist 2 (le repère
+  familial des Fabre, moqué autrefois, s'avère être un vrai marqueur
+  stratigraphique) : indices fair-play posés et validés par le jury dans
+  les chapitres 1-6, résolution prévue en session 2 selon l'outline.
 
-## Prochaine étape : démarrer le tome 4
+## Prochaine étape : tome 4, session 2 (chapitres 7-12)
 
-1. Choisir une nouvelle thématique éducative importante, sans lien
-   d'intrigue avec les tomes 1, 2 et 3.
-2. Relire `bible/lecons_apprises.md` en entier avant d'écrire, en
-   particulier la section « Tome 3 » sur les gabarits syntaxiques et la
-   leçon sur les climax vécus (pas racontés).
-3. Ajouter au besoin de nouveaux personnages récurrents secondaires à
-   `bible/personnages.md`, en réutilisant Sofia, Souly, Mamie Rose,
-   Camille, Théo, Karim, Fara et Noah tels que définis, sans jamais
-   contredire les faits déjà établis.
-4. Structure de session identique : 6 chapitres par session, jury à la fin
-   de chaque session, correction jusqu'à ≥ 9/10, grep de contrôle (sur
-   texte aplati, pas seulement ligne par ligne) après chaque chapitre.
-5. Arbitrer consciemment la longueur des chapitres (viser plus près de
-   ~3 300 mots/chapitre) plutôt que de laisser la dérive vers des
-   chapitres de plus en plus courts se poursuivre.
-6. Une fois les 12 chapitres validés : livrer le `.docx` final avec le
-   script `build_docx.py` (adapté pour chaque tome — voir méthode utilisée
-   pour les tomes 1, 2 et 3).
+1. Relire intégralement `tome-04-le-dinosaure-qui-avait-menti/outline.md`
+   (résumé chapitre par chapitre déjà prévu pour 7-12) et
+   `bible/lecons_apprises.md` en entier, en particulier la nouvelle
+   section « Tome 4 — session 1 » sur les gabarits liés à un objet/geste
+   signature de personnage.
+2. Avant toute rédaction, noter consciemment les formulations déjà
+   utilisées pour le geste du carnet de Souly (voir chapitres 1-6) pour
+   ne pas les réutiliser à l'identique ni sous une variante à un mot
+   près en session 2.
+3. Rédiger les chapitres 7 à 12 (~3 300 mots/chapitre, cible ~19
+   800-20 000 mots pour la session comme en session 1).
+4. Après CHAQUE correction de gabarit signalée par le jury, refaire un
+   grep élargi sur le squelette du motif (mots clés séparés par
+   `.{0,40}`) sur l'ensemble du manuscrit — pas seulement sur la phrase
+   citée — avant de resoumettre.
+5. Une fois les 12 chapitres validés à ≥ 9/10 sur le livre complet :
+   livrer le `.docx` final avec un script `build_docx.py` adapté (voir
+   méthode utilisée pour les tomes 1, 2 et 3), et mettre à jour ce
+   fichier ainsi que le tableau de la série en début de document.
 
 ## Historique des sessions
 
