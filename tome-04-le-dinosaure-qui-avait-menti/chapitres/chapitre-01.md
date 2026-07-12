@@ -37,8 +37,8 @@ forme d'un os. Pas un os.
 Théo lui adressa un regard dans le rétroviseur, un mélange de surprise et
 de fierté difficile à cacher.
 
-— Exactement ça, dit-il. Tu vas t'entendre à merveille avec Inès. Elle
-dit exactement la même phrase, presque mot pour mot, à chaque nouveau
+— Tout juste, dit-il. Tu vas t'entendre à merveille avec Inès. Elle dit
+exactement la même phrase, presque mot pour mot, à chaque nouveau
 stagiaire qui débarque sur son chantier.
 
 — Et vous avez trouvé quoi, avec elle, cet été-là ? demanda Sofia, qui
@@ -295,7 +295,7 @@ accident.
 — C'est pour ça qu'Inès est si stricte sur les fiches et les
 photographies, remarqua Sofia.
 
-— Exactement pour ça, confirma Jean. Une fouille honnête, ça se prouve
+— C'est bien pour ça, confirma Jean. Une fouille honnête, ça se prouve
 étape par étape, jamais sur la seule bonne foi de celui qui raconte
 l'histoire. C'est même la première chose qu'elle nous a dite, la toute
 première année où on est venus l'aider.
@@ -464,8 +464,8 @@ plein, dit Théo. Parce qu'un sarcophage vide, ça raconte aussi une
 histoire : qui l'a pillé, quand, comment. L'absence, en archéologie,
 ça compte parfois presque autant que la présence.
 
-— C'est exactement la même chose chez nous, intervint Inès. Une couche
-sans fossile, ce n'est jamais vraiment « rien ». Ça nous dit que les
+— C'est la même chose chez nous, intervint Inès. Une couche sans
+fossile, ce n'est jamais vraiment « rien ». Ça nous dit que les
 conditions n'étaient pas favorables à la fossilisation à ce moment-là,
 ou que quelque chose a détruit ce qui s'y trouvait. Même le vide a une
 histoire, si on prend la peine de la lire correctement.

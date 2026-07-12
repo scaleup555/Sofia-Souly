@@ -64,8 +64,8 @@ Sofia revint vers Souly, un peu songeuse.
 sonner chez Mamie Rose, dit-elle. Beaucoup trop gentil pour être
 seulement gentil.
 
-— C'est une excellente observation, dit Souly, en la notant sans même
-lever les yeux de son carnet.
+— C'est une excellente observation, dit Souly, déjà en train de la
+noter mot pour mot.
 
 Ils déambulèrent le reste de la matinée entre les stands installés sur
 la place, où l'école primaire exposait des dessins d'enfants représentant

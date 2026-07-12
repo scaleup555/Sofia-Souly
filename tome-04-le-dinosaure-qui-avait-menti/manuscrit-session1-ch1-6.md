@@ -37,8 +37,8 @@ forme d'un os. Pas un os.
 Théo lui adressa un regard dans le rétroviseur, un mélange de surprise et
 de fierté difficile à cacher.
 
-— Exactement ça, dit-il. Tu vas t'entendre à merveille avec Inès. Elle
-dit exactement la même phrase, presque mot pour mot, à chaque nouveau
+— Tout juste, dit-il. Tu vas t'entendre à merveille avec Inès. Elle dit
+exactement la même phrase, presque mot pour mot, à chaque nouveau
 stagiaire qui débarque sur son chantier.
 
 — Et vous avez trouvé quoi, avec elle, cet été-là ? demanda Sofia, qui
@@ -295,7 +295,7 @@ accident.
 — C'est pour ça qu'Inès est si stricte sur les fiches et les
 photographies, remarqua Sofia.
 
-— Exactement pour ça, confirma Jean. Une fouille honnête, ça se prouve
+— C'est bien pour ça, confirma Jean. Une fouille honnête, ça se prouve
 étape par étape, jamais sur la seule bonne foi de celui qui raconte
 l'histoire. C'est même la première chose qu'elle nous a dite, la toute
 première année où on est venus l'aider.
@@ -464,8 +464,8 @@ plein, dit Théo. Parce qu'un sarcophage vide, ça raconte aussi une
 histoire : qui l'a pillé, quand, comment. L'absence, en archéologie,
 ça compte parfois presque autant que la présence.
 
-— C'est exactement la même chose chez nous, intervint Inès. Une couche
-sans fossile, ce n'est jamais vraiment « rien ». Ça nous dit que les
+— C'est la même chose chez nous, intervint Inès. Une couche sans
+fossile, ce n'est jamais vraiment « rien ». Ça nous dit que les
 conditions n'étaient pas favorables à la fossilisation à ce moment-là,
 ou que quelque chose a détruit ce qui s'y trouvait. Même le vide a une
 histoire, si on prend la peine de la lire correctement.
@@ -518,7 +518,7 @@ pierre qui a pris la forme d'un os.
 — Vous l'avez déjà dit hier, remarqua Sofia, pas peu fière de s'en
 souvenir.
 
-— Exactement, dit Inès. Mais aujourd'hui je vous explique comment ça
+— Voilà, dit Inès. Mais aujourd'hui je vous explique comment ça
 marche. Un animal meurt, ses tissus mous disparaissent, il ne reste que
 l'os ou la coquille. Si cet os est très vite recouvert de sédiments —
 boue, sable, cendre — avant de pourrir complètement, l'eau qui s'infiltre
@@ -530,8 +530,8 @@ Elle posa l'os sur la table et le fit glisser vers Souly, qui le
 réceptionna à deux mains, comme s'il craignait qu'un geste trop brusque
 ne le réduise en poussière.
 
-— C'est exactement la forme de l'os d'origine, dit-elle, mais ce n'est
-plus l'os d'origine. C'est une copie minérale, parfois plus dure que la
+— C'est la forme exacte de l'os d'origine, dit-elle, mais ce n'est plus
+l'os d'origine. C'est une copie minérale, parfois plus dure que la
 roche autour.
 
 — Et un moulage, c'est quoi la différence ? demanda Souly, l'os toujours
@@ -560,9 +560,9 @@ par la concentration.
 — Celui-là est vraiment plus léger, dit-elle, surprise. On dirait presque
 du plastique.
 
-— C'est exactement ce que c'est, en partie, confirma Inès. De la résine
-synthétique. Excellente pour l'enseignement. Catastrophique si quelqu'un
-essaie de la vendre comme une vraie découverte.
+— C'est bien ça, en partie, confirma Inès. De la résine synthétique.
+Excellente pour l'enseignement. Catastrophique si quelqu'un essaie de
+la vendre comme une vraie découverte.
 
 — Et comment on sait qu'un fossile est vraiment d'un dinosaure, et pas
 d'un autre animal ? demanda Souly, qui n'avait toujours pas reposé l'os
@@ -579,8 +579,9 @@ qu'une seule belle pièce isolée.
 — Donc plus on trouve de choses, mieux on comprend celles qu'on a déjà
 trouvées avant, résuma Sofia.
 
-— Exactement, dit Inès, ravie. C'est même toute la beauté de ce métier :
-chaque nouvelle trouvaille rend toutes les précédentes un peu plus
+— Tu as tout compris, dit Inès, ravie. C'est même toute la beauté de ce
+métier : chaque nouvelle trouvaille rend toutes les précédentes un peu
+plus
 intelligentes.
 
 — Et comment on sait l'âge exact d'un fossile ? demanda Sofia. Vous avez
@@ -685,7 +686,7 @@ lentement, comparant leur surface centimètre par centimètre.
 — Celui-là est un peu plus foncé, dit-elle finalement, en désignant le
 second.
 
-— Exactement, confirma Inès. Ils viennent de deux carrés différents,
+— C'est ça, confirma Inès. Ils viennent de deux carrés différents,
 distants d'à peine trois mètres. La nature n'est jamais tout à fait
 uniforme. C'est ce qui la rend difficile à imiter parfaitement — un
 faussaire pressé, ou pas assez soigneux, oublie toujours ce détail-là.
@@ -1510,8 +1511,8 @@ Sofia revint vers Souly, un peu songeuse.
 sonner chez Mamie Rose, dit-elle. Beaucoup trop gentil pour être
 seulement gentil.
 
-— C'est une excellente observation, dit Souly, en la notant sans même
-lever les yeux de son carnet.
+— C'est une excellente observation, dit Souly, déjà en train de la
+noter mot pour mot.
 
 Ils déambulèrent le reste de la matinée entre les stands installés sur
 la place, où l'école primaire exposait des dessins d'enfants représentant
@@ -2403,9 +2404,10 @@ réunions, leva la main le premier.
 — On a vérifié les serrures de la remise ? demanda-t-il. Si quelqu'un
 est entré sans forcer, ça change beaucoup de choses.
 
-— Rien n'a été forcé, confirma Inès. Ce qui veut dire que soit
-quelqu'un avait un double des clés, soit quelqu'un connaissait
-suffisamment bien nos habitudes pour profiter d'un moment où la remise
+— Rien n'a été forcé, confirma Inès. Il n'y a que deux explications
+possibles : quelqu'un avait un double des clés, ou quelqu'un
+connaissait suffisamment bien nos habitudes pour profiter d'un moment
+où la remise
 restait ouverte.
 
 Farida proposa alors, d'une voix mal assurée, ce que personne n'osait

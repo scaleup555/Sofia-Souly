@@ -16,7 +16,7 @@ pierre qui a pris la forme d'un os.
 — Vous l'avez déjà dit hier, remarqua Sofia, pas peu fière de s'en
 souvenir.
 
-— Exactement, dit Inès. Mais aujourd'hui je vous explique comment ça
+— Voilà, dit Inès. Mais aujourd'hui je vous explique comment ça
 marche. Un animal meurt, ses tissus mous disparaissent, il ne reste que
 l'os ou la coquille. Si cet os est très vite recouvert de sédiments —
 boue, sable, cendre — avant de pourrir complètement, l'eau qui s'infiltre
@@ -28,8 +28,8 @@ Elle posa l'os sur la table et le fit glisser vers Souly, qui le
 réceptionna à deux mains, comme s'il craignait qu'un geste trop brusque
 ne le réduise en poussière.
 
-— C'est exactement la forme de l'os d'origine, dit-elle, mais ce n'est
-plus l'os d'origine. C'est une copie minérale, parfois plus dure que la
+— C'est la forme exacte de l'os d'origine, dit-elle, mais ce n'est plus
+l'os d'origine. C'est une copie minérale, parfois plus dure que la
 roche autour.
 
 — Et un moulage, c'est quoi la différence ? demanda Souly, l'os toujours
@@ -58,9 +58,9 @@ par la concentration.
 — Celui-là est vraiment plus léger, dit-elle, surprise. On dirait presque
 du plastique.
 
-— C'est exactement ce que c'est, en partie, confirma Inès. De la résine
-synthétique. Excellente pour l'enseignement. Catastrophique si quelqu'un
-essaie de la vendre comme une vraie découverte.
+— C'est bien ça, en partie, confirma Inès. De la résine synthétique.
+Excellente pour l'enseignement. Catastrophique si quelqu'un essaie de
+la vendre comme une vraie découverte.
 
 — Et comment on sait qu'un fossile est vraiment d'un dinosaure, et pas
 d'un autre animal ? demanda Souly, qui n'avait toujours pas reposé l'os
@@ -77,8 +77,9 @@ qu'une seule belle pièce isolée.
 — Donc plus on trouve de choses, mieux on comprend celles qu'on a déjà
 trouvées avant, résuma Sofia.
 
-— Exactement, dit Inès, ravie. C'est même toute la beauté de ce métier :
-chaque nouvelle trouvaille rend toutes les précédentes un peu plus
+— Tu as tout compris, dit Inès, ravie. C'est même toute la beauté de ce
+métier : chaque nouvelle trouvaille rend toutes les précédentes un peu
+plus
 intelligentes.
 
 — Et comment on sait l'âge exact d'un fossile ? demanda Sofia. Vous avez
@@ -183,7 +184,7 @@ lentement, comparant leur surface centimètre par centimètre.
 — Celui-là est un peu plus foncé, dit-elle finalement, en désignant le
 second.
 
-— Exactement, confirma Inès. Ils viennent de deux carrés différents,
+— C'est ça, confirma Inès. Ils viennent de deux carrés différents,
 distants d'à peine trois mètres. La nature n'est jamais tout à fait
 uniforme. C'est ce qui la rend difficile à imiter parfaitement — un
 faussaire pressé, ou pas assez soigneux, oublie toujours ce détail-là.
