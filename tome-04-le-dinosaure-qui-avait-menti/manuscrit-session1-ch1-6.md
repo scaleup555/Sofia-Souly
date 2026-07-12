@@ -109,7 +109,8 @@ instant, plus important que n'importe quel objet qu'elle ait jamais tenu
 tout de sa poche pour comparer sérieusement les deux, avant de conclure
 que celui-ci n'avait vraiment rien à craindre de la comparaison.
 
-— Il a quel âge ? demanda-t-elle, la voix presque respectueuse.
+— Il a quel âge ? demanda-t-elle, presque à voix basse, comme si parler
+trop fort risquait d'abîmer quelque chose.
 
 — On ne le sait pas encore exactement pour celui-là, dit Inès. Mais les
 couches de marne de ce vallon datent d'environ soixante-dix millions
@@ -145,7 +146,8 @@ rouge foncé, presque noir par endroits.
 — On demande à Inès ? proposa Sofia.
 
 Elle appela la paléontologue, qui vint examiner le fragment sous sa
-loupe, silencieuse un long moment avant de répondre.
+loupe, tournant et retournant le morceau sans dire un mot avant de
+répondre.
 
 — Intéressant, dit-elle finalement. Ce fragment ne vient pas du carré où
 tu l'as trouvé, ça, j'en suis certaine — la coloration ne correspond pas
@@ -211,7 +213,7 @@ essaie de le faire passer pour un vrai fossile.
 ---
 
 Un jeune homme au fond de la tente, occupé à nettoyer des instruments
-dans une bassine, leva la tête à ce moment précis.
+dans une bassine, leva soudain la tête.
 
 — Ça arrive vraiment, ce genre de fraude ? demanda-t-il.
 
@@ -237,8 +239,8 @@ fossile scientifique a une histoire de découverte documentée, carré par
 carré, couche par couche. Un faux, en général, n'a pas cette histoire, ou
 en a une bien trop belle pour être vraie.
 
-Sofia examina les deux fragments un long moment, comparant leur surface
-sous la lumière de la tente.
+Sofia leva les deux fragments à la lumière de la tente, les tournant
+lentement, comparant leur surface centimètre par centimètre.
 
 — Celui-là est un peu plus foncé, dit-elle finalement, en désignant le
 second.
@@ -303,8 +305,8 @@ depuis l'entrée de la tente.
 
 — C'est qui, lui ? demanda-t-elle à Souly, à voix basse.
 
-Son frère suivit son regard au moment précis où l'homme, remarquant
-qu'on l'observait, rangeait son téléphone dans sa veste et s'éloignait
+Son frère suivit son regard juste à temps pour voir l'homme, remarquant
+qu'on l'observait, ranger son téléphone dans sa veste et s'éloigner
 vers le sentier sans un mot ni un regard en arrière.
 
 — Aucune idée, dit Souly. Mais je parie qu'on va le revoir.
@@ -487,7 +489,8 @@ avec un sourire qui n'atteignait jamais tout à fait ses yeux. C'est un
 métier tout à fait honorable, je vous assure. Sur ce, bonne promenade.
 
 Il remonta dans sa camionnette et s'éloigna sur le chemin caillouteux,
-laissant les trois enfants silencieux un long moment.
+et aucun des trois enfants ne trouva rien à dire avant que le bruit du
+moteur ne s'éteigne complètement au loin.
 
 — Il me plaît pas, ce type, dit Sofia, la première à rompre le silence.
 
@@ -825,8 +828,8 @@ patine correspondait bien à leur carré d'origine déclaré, de l'autre une
 poignée de morceaux qui, à l'œil nu déjà, semblaient légèrement
 différents.
 
-— Regardez, dit-il, après un long moment de silence studieux, en
-alignant trois fragments côte à côte sous la loupe empruntée à Inès.
+— Regardez, dit-il enfin, en alignant trois fragments côte à côte sous
+la loupe empruntée à Inès.
 Celui-ci, étiqueté carré numéro douze, a une patine presque noire, très
 minéralisée. Celui-là, étiqueté carré numéro sept, à peine trois mètres
 plus loin, est nettement plus clair, presque gris-beige.

@@ -106,7 +106,8 @@ instant, plus important que n'importe quel objet qu'elle ait jamais tenu
 tout de sa poche pour comparer sérieusement les deux, avant de conclure
 que celui-ci n'avait vraiment rien à craindre de la comparaison.
 
-— Il a quel âge ? demanda-t-elle, la voix presque respectueuse.
+— Il a quel âge ? demanda-t-elle, presque à voix basse, comme si parler
+trop fort risquait d'abîmer quelque chose.
 
 — On ne le sait pas encore exactement pour celui-là, dit Inès. Mais les
 couches de marne de ce vallon datent d'environ soixante-dix millions
@@ -142,7 +143,8 @@ rouge foncé, presque noir par endroits.
 — On demande à Inès ? proposa Sofia.
 
 Elle appela la paléontologue, qui vint examiner le fragment sous sa
-loupe, silencieuse un long moment avant de répondre.
+loupe, tournant et retournant le morceau sans dire un mot avant de
+répondre.
 
 — Intéressant, dit-elle finalement. Ce fragment ne vient pas du carré où
 tu l'as trouvé, ça, j'en suis certaine — la coloration ne correspond pas

@@ -175,7 +175,8 @@ avec un sourire qui n'atteignait jamais tout à fait ses yeux. C'est un
 métier tout à fait honorable, je vous assure. Sur ce, bonne promenade.
 
 Il remonta dans sa camionnette et s'éloigna sur le chemin caillouteux,
-laissant les trois enfants silencieux un long moment.
+et aucun des trois enfants ne trouva rien à dire avant que le bruit du
+moteur ne s'éteigne complètement au loin.
 
 — Il me plaît pas, ce type, dit Sofia, la première à rompre le silence.
 

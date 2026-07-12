@@ -27,8 +27,8 @@ patine correspondait bien à leur carré d'origine déclaré, de l'autre une
 poignée de morceaux qui, à l'œil nu déjà, semblaient légèrement
 différents.
 
-— Regardez, dit-il, après un long moment de silence studieux, en
-alignant trois fragments côte à côte sous la loupe empruntée à Inès.
+— Regardez, dit-il enfin, en alignant trois fragments côte à côte sous
+la loupe empruntée à Inès.
 Celui-ci, étiqueté carré numéro douze, a une patine presque noire, très
 minéralisée. Celui-là, étiqueté carré numéro sept, à peine trois mètres
 plus loin, est nettement plus clair, presque gris-beige.

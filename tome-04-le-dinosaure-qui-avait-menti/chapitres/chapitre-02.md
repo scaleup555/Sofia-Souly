@@ -42,7 +42,7 @@ essaie de le faire passer pour un vrai fossile.
 ---
 
 Un jeune homme au fond de la tente, occupé à nettoyer des instruments
-dans une bassine, leva la tête à ce moment précis.
+dans une bassine, leva soudain la tête.
 
 — Ça arrive vraiment, ce genre de fraude ? demanda-t-il.
 
@@ -68,8 +68,8 @@ fossile scientifique a une histoire de découverte documentée, carré par
 carré, couche par couche. Un faux, en général, n'a pas cette histoire, ou
 en a une bien trop belle pour être vraie.
 
-Sofia examina les deux fragments un long moment, comparant leur surface
-sous la lumière de la tente.
+Sofia leva les deux fragments à la lumière de la tente, les tournant
+lentement, comparant leur surface centimètre par centimètre.
 
 — Celui-là est un peu plus foncé, dit-elle finalement, en désignant le
 second.
@@ -134,8 +134,8 @@ depuis l'entrée de la tente.
 
 — C'est qui, lui ? demanda-t-elle à Souly, à voix basse.
 
-Son frère suivit son regard au moment précis où l'homme, remarquant
-qu'on l'observait, rangeait son téléphone dans sa veste et s'éloignait
+Son frère suivit son regard juste à temps pour voir l'homme, remarquant
+qu'on l'observait, ranger son téléphone dans sa veste et s'éloigner
 vers le sentier sans un mot ni un regard en arrière.
 
 — Aucune idée, dit Souly. Mais je parie qu'on va le revoir.
