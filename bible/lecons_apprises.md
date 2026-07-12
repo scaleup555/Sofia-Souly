@@ -577,3 +577,110 @@ densité du gabarit « [verbe de parole] Personnage, en [gérondif] »
 fois toutes les 400 mots) — jamais une répétition de formulation
 exacte, donc jamais bloquant, mais un effet de ronron à surveiller
 lors d'une future passe de polish.
+
+## Tome 4 — session 2 (chapitres 7-12, puis livre complet) : ACCEPTÉ à 9,1/10 après 5 passages jury sur le livre entier (v12 → v16)
+
+**Contexte : cette fois la leçon "famille complète, pas citation exacte"
+de la session 1 a été appliquée dès l'écriture (sweeps grep+awk après
+quasi chaque édition, avant même la première soumission jury). Résultat
+mesurable : le gabarit signature du tome (carnet de Souly) est resté à
+0 occurrence bloquante sur tout le livre du premier jury au dernier —
+la leçon a fonctionné. Mais le score a quand même mis 5 passages à
+franchir le seuil (7,7 → 8,5 → 8,4 → 7,6 → 9,1), pour des raisons
+différentes de la session 1, résumées ci-dessous.**
+
+Chronologie du défaut, rapport par rapport :
+- v12 (7,7) : premier passage sur le livre COMPLET (12 chapitres), pas
+  seulement les 6 nouveaux. Défaut majeur détecté : le compte à rebours
+  « jours avant samedi », établi et validé chapitre par chapitre pendant
+  l'écriture de la session 2 (ch.7→8→9→10→11), n'avait jamais été
+  recoupé avec l'ANCRE posée dans un chapitre de la session 1 déjà
+  ACCEPTÉ (ch.5, « quatre jours »). Deux jours narratifs s'écoulent
+  entre ch.5 et ch.7, mais ch.7 répétait le même chiffre « quatre » —
+  cohérent en apparence à l'intérieur de la session 2, incohérent avec
+  la session 1. **Leçon : une chronologie relative (compte à rebours,
+  âges, dates) vérifiée uniquement à l'intérieur des chapitres NOUVEAUX
+  d'une session ne suffit pas — elle doit être recoupée avec les
+  ancres posées dans les chapitres déjà acceptés d'une session
+  précédente, dès la première relecture du livre complet.**
+- v13 (8,5) : la chronologie interne est maintenant un sans-faute
+  vérifié sur 12 chapitres. Mais deux nouveaux types de défauts
+  émergent, invisibles quand on relit chapitre par chapitre : une
+  collision de nom avec un personnage récurrent d'un TOME PRÉCÉDENT
+  (une doctorante nommée « Farida », alors que « Farida "Fara" Payet »
+  est un personnage établi au tome 3) et une contradiction factuelle
+  entre deux chapitres écrits à des moments différents (le passé
+  d'Elsa, tantôt stagiaire expérimentée, tantôt néophyte). **Leçon :
+  avant la première soumission jury, relire le manuscrit complet en le
+  confrontant explicitement à bible/personnages.md pour les NOMS
+  PROPRES des personnages secondaires nouvellement inventés — pas
+  seulement pour les personnages récurrents déjà connus — un simple
+  grep du prénom contre la bible aurait suffi.**
+- v14 (8,4) : nouveau cluster de tics (verbes de citation « confirma »/
+  « corrigea » utilisés comme substituts systématiques de « dit »,
+  gabarit « avec un/une + nom abstrait », fuites ponctuelles de point
+  de vue vers l'intériorité de l'antagoniste). Aucun de ces motifs
+  n'avait été surveillé activement pendant l'écriture (contrairement au
+  carnet de Souly) — ils n'étaient pas sur la liste de vigilance issue
+  de la session 1. **Leçon : la liste de tics à surveiller n'est jamais
+  complète a priori ; chaque jury sur un livre complet en révèle de
+  nouveaux, et il faut les ajouter à la liste de vigilance active du
+  tome EN COURS, pas seulement les corriger une fois.**
+- v15 (7,6 — score en baisse malgré des corrections réelles) : un jury
+  plus sévère sur la densité résiduelle des mêmes tics (listés en v14,
+  seulement réduits de moitié) fait chuter la note, ET révèle en même
+  temps deux défauts de fond jamais vus par les 3 jurys précédents : un
+  indice narratif planté au chapitre 1 (le « fragment brun-rouge »)
+  jamais payé nulle part dans le livre (Chekhov's gun non tenu), et un
+  élément de la bible des personnages (le nom du carnet de Souly, « le
+  Carnet des Preuves ») jamais utilisé dans 40 000 mots alors que
+  l'objet est central. **Leçon : la note d'un jury indépendant sur un
+  texte de cette longueur n'est PAS monotone même quand le texte
+  s'améliore réellement — deux jurys différents appliquent des sévérités
+  différentes et trouvent des sous-ensembles différents de défauts
+  réels. Ne pas interpréter une baisse de score comme un signal que la
+  correction précédente était mauvaise ; continuer à traiter
+  méthodiquement chaque liste de points au lieu de chercher à
+  "deviner" ce qui ferait remonter la note.**
+- v16 (9,1) : ACCEPTÉ. Toutes les corrections cumulées (chronologie
+  recoupée avec la session précédente, collision de nom résolue,
+  contradiction factuelle réconciliée, ligne orpheline supprimée,
+  scène dupliquée détectée et coupée pendant une simple recherche de
+  tic — voir ci-dessous —, indice non payé rattaché au twist 2, nom de
+  bible réintroduit, densité de « confirma »/« corrigea » réduite de
+  moitié, fuites de POV corrigées) suffisent à dépasser le seuil.
+
+**Découverte inattendue à documenter :** en cherchant à varier deux
+occurrences du gabarit « la voix un peu + adjectif » au chapitre 7, la
+relecture rapprochée a révélé que les deux occurrences appartenaient à
+DEUX SCÈNES QUASI IDENTIQUES à 35 lignes d'intervalle (Elsa remerciant
+les enfants de l'avoir défendue, deux fois, dans des termes presque
+identiques) — un vrai doublon de contenu resté invisible à 3 jurys
+précédents et à toutes les relectures de continuité, parce qu'aucun
+grep de tic stylistique ne cherche spécifiquement les scènes
+dupliquées. **Nouvelle règle de vigilance pour la série : une
+correction de tic stylistique portant sur un dialogue ou une
+didascalie doit systématiquement s'accompagner d'une lecture du
+paragraphe entier autour de la citation — pas seulement de la phrase
+ciblée — car les scènes dupliquées (reliquat d'une passe d'expansion
+pour atteindre le palier de mots) se cachent précisément dans ce texte
+adjacent que le grep ne fait pas remonter.**
+
+**Règle méthodologique confirmée pour la série (à partir du tome 5) :**
+1. Appliquer les sweeps grep+awk DÈS l'écriture (pas seulement avant
+   jury) — cela a fonctionné : le gabarit carnet est resté à 0 du
+   premier au dernier jury de ce tome, contre 11 passages nécessaires
+   à la session précédente pour le même type de défaut.
+2. Avant la première soumission jury d'une session N+1 (chapitres 7+),
+   toujours recouper toute chronologie relative avec les ancres posées
+   dans les chapitres de la session N déjà acceptés — pas seulement en
+   interne aux nouveaux chapitres.
+3. Avant la première soumission jury, grep chaque prénom de personnage
+   secondaire nouvellement inventé contre bible/personnages.md.
+4. Ne pas interpréter une baisse de score d'un jury à l'autre comme un
+   échec des corrections précédentes ; les scores de jurys indépendants
+   sur un texte de 40 000 mots ne sont pas monotones. Continuer à
+   traiter la liste de points avec méthode.
+5. Toute correction de tic touchant un dialogue doit s'accompagner
+   d'une lecture du paragraphe entier autour, pour détecter d'éventuels
+   doublons de scène cachés dans le texte adjacent.

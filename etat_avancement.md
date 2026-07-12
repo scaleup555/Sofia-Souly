@@ -1,11 +1,13 @@
 # État d'avancement — Série Sofia & Souly
 
-*Dernière mise à jour : Tome 4, session 1 (chapitres 1-6) ACCEPTÉE — 2026-07-12*
+*Dernière mise à jour : Tome 4 ENTIÈREMENT TERMINÉ (12/12 chapitres, .docx livré) — 2026-07-12*
 
 **À LIRE INTÉGRALEMENT avant de démarrer toute nouvelle session d'écriture**,
-avec `bible/personnages.md` et `bible/lecons_apprises.md` (section
-« Tome 4 — session 1 » en particulier : leçon méthodologique majeure sur
-les gabarits liés à un objet/geste signature de personnage).
+avec `bible/personnages.md` et `bible/lecons_apprises.md` (sections
+« Tome 4 — session 1 » et « Tome 4 — session 2 » en particulier : leçons
+méthodologiques majeures sur les gabarits liés à un objet/geste signature
+de personnage, le recoupement de chronologie entre sessions, et la
+détection de scènes dupliquées).
 
 ## Vue d'ensemble de la série
 
@@ -14,7 +16,7 @@ les gabarits liés à un objet/geste signature de personnage).
 | 1 | Le Pharaon qui avait peur du noir | Égypte antique | **12/12 chapitres, .docx livré** | **9,1/10 — ACCEPTÉ** |
 | 2 | Le Volcan qui avait la migraine | Volcanologie / sismologie / intégrité scientifique | **12/12 chapitres, .docx livré** | **9,1/10 — ACCEPTÉ** |
 | 3 | L'Océan qui avait de la fièvre | Biologie marine / récifs coralliens / savoir traditionnel | **12/12 chapitres, .docx livré** | **9,1/10 — ACCEPTÉ** |
-| 4 | Le Dinosaure qui avait menti | Paléontologie / authentification d'un fossile | **6/12 chapitres (session 1 ACCEPTÉE), session 2 (ch.7-12) à venir** | **9,05/10 (ch.1-6) — ACCEPTÉ** |
+| 4 | Le Dinosaure qui avait menti | Paléontologie / authentification d'un fossile | **12/12 chapitres, .docx livré** | **9,1/10 — ACCEPTÉ** |
 
 ## Tome 1 — ENTIÈREMENT TERMINÉ
 
@@ -79,69 +81,55 @@ les gabarits liés à un objet/geste signature de personnage).
   ce type de tic ; il faut chercher activement des FAMILLES de tics.
   Détail complet dans `bible/lecons_apprises.md` (section « Tome 3 »).
 
-## Tome 4 — session 1 (chapitres 1-6) ACCEPTÉE, session 2 (chapitres 7-12) À FAIRE
+## Tome 4 — ENTIÈREMENT TERMINÉ
 
 - Dossier : `tome-04-le-dinosaure-qui-avait-menti/`
 - Thème : paléontologie (formation d'un fossile, authentification d'une
   découverte par la stratigraphie et l'étude comparative, différence
   entre un vrai fossile et un assemblage frauduleux). Lieu : Roc-Rouge,
   village fictif de Haute-Provence.
-- Plan complet des 12 chapitres dans `tome-04-le-dinosaure-qui-avait-menti/outline.md`
-  (à relire avant d'écrire la session 2 : les deux twists, les indices
-  fair-play déjà posés en session 1, et le résumé chapitre par chapitre
-  prévu pour les chapitres 7 à 12).
-- Nouveaux personnages récurrents secondaires (déjà ajoutés à
+- Manuscrit final : `tome-04-le-dinosaure-qui-avait-menti/manuscrit-complet-tome4.md`
+  (~40 340 mots — cible de longueur respectée dans les deux sessions,
+  contrairement aux tomes 2 et 3).
+- Fichier livré : `tome-04-le-dinosaure-qui-avait-menti/Sofia-et-Souly-Tome-4-Le-Dinosaure-qui-avait-menti.docx`
+  (même mise en page que les tomes 1-3 : 5,5 × 8,5 pouces, page de titre,
+  table des matières, 12 chapitres, police Georgia), généré par
+  `tome-04-le-dinosaure-qui-avait-menti/build_docx.py`.
+- Nouveaux personnages récurrents secondaires (ajoutés à
   `bible/personnages.md`) : **Dr. Inès Castellane** (paléontologue,
-  vieille amie de Théo), **Milo Fabre** (12 ans, petit-fils d'exploitant
+  vieille amie de Théo), **Milo Fabre** (11 ans, petit-fils d'exploitant
   agricole), **Papet Fabre**, **Dorian Vasseur** (le coupable du twist 1),
   **Elsa Roussel** (stagiaire, fausse piste du twist 1).
-- Manuscrit des chapitres 1-6 :
-  `tome-04-le-dinosaure-qui-avait-menti/manuscrit-session1-ch1-6.md`
-  (20 203 mots — cible de longueur respectée dès la session 1, contrairement
-  aux tomes 2 et 3).
-- **11 passages jury cumulés pour les seuls chapitres 1-6** (record de la
-  série, contre 4 à 9 pour les tomes précédents sur un lot comparable) :
-  progression 8,2 → 8,4 → 8,6 → 8,8 → 8,8 (v5, longueur bloquante) → 7,8
-  (v6, POV/tics) → 8,6 (v6 relu) → 8,9 (v7) → 8,75 (v8) → 8,9 (v9) → 8,95
-  (v10) → **9,05/10 (v11) — ACCEPTÉ**. Rapport final :
-  `tome-04-le-dinosaure-qui-avait-menti/jury/rapport-v11.md`.
-- **Cause du nombre élevé de passages, documentée en détail dans
-  `bible/lecons_apprises.md` (section « Tome 4 — session 1 ») : un
-  gabarit lié à l'objet signature d'un personnage (le carnet de Souly)
-  n'a été traité que citation par citation pendant plusieurs passages
-  consécutifs, au lieu d'être recherché comme famille complète sur tout
-  le manuscrit — il migrait à chaque correction (vers un autre chapitre,
-  un autre personnage, ou une variante à un seul mot près invisible à un
-  grep exact). Leçon méthodologique à appliquer dès le tome 5, résumée
-  dans la bible : après toute correction de gabarit, refaire un grep
-  élargi sur le SQUELETTE du motif, pas seulement sur la phrase citée.**
+- **Session 1 (chapitres 1-6) : 11 passages jury cumulés** (record de la
+  série pour un lot de 6 chapitres) : progression 8,2 → 8,4 → 8,6 → 8,8 →
+  8,8 (v5, longueur bloquante) → 7,8 (v6, POV/tics) → 8,6 (v6 relu) → 8,9
+  (v7) → 8,75 (v8) → 8,9 (v9) → 8,95 (v10) → **9,05/10 (v11) — ACCEPTÉ**.
+- **Session 2 (chapitres 7-12, puis livre complet) : 5 passages jury
+  cumulés sur les 12 chapitres** : progression 7,7 (v12, chronologie
+  inter-session incohérente) → 8,5 (v13, collision de nom + contradiction
+  factuelle) → 8,4 (v14, cluster de tics « confirma »/« corrigea » +
+  fuite de POV) → 7,6 (v15, indice non payé + détail de bible manqué) →
+  **9,1/10 (v16) — ACCEPTÉ**. Rapports :
+  `tome-04-le-dinosaure-qui-avait-menti/jury/rapport-v12.md` à `rapport-v16.md`.
+- **16 passages jury cumulés au total pour le tome entier** — le plus
+  grand nombre de la série. Deux leçons méthodologiques majeures en
+  ressortent, détaillées dans `bible/lecons_apprises.md` (sections
+  « Tome 4 — session 1 » et « Tome 4 — session 2 ») : (1) un gabarit lié
+  à l'objet signature d'un personnage doit être recherché comme famille
+  complète sur tout le manuscrit après chaque correction, pas seulement
+  sur la phrase citée ; (2) une chronologie relative établie dans une
+  session doit être recoupée avec les ancres posées dans les chapitres
+  déjà acceptés d'une session précédente, dès la première relecture du
+  livre complet — et une correction de tic touchant un dialogue doit
+  s'accompagner d'une lecture du paragraphe entier autour, pour détecter
+  d'éventuelles scènes dupliquées (un vrai doublon de scène a été trouvé
+  et corrigé au chapitre 7 par ce biais).
 - Twist 1 (Dorian Vasseur fabrique un faux fossile composite pour le
   vendre, laisse soupçonner la stagiaire Elsa) et twist 2 (le repère
   familial des Fabre, moqué autrefois, s'avère être un vrai marqueur
-  stratigraphique) : indices fair-play posés et validés par le jury dans
-  les chapitres 1-6, résolution prévue en session 2 selon l'outline.
-
-## Prochaine étape : tome 4, session 2 (chapitres 7-12)
-
-1. Relire intégralement `tome-04-le-dinosaure-qui-avait-menti/outline.md`
-   (résumé chapitre par chapitre déjà prévu pour 7-12) et
-   `bible/lecons_apprises.md` en entier, en particulier la nouvelle
-   section « Tome 4 — session 1 » sur les gabarits liés à un objet/geste
-   signature de personnage.
-2. Avant toute rédaction, noter consciemment les formulations déjà
-   utilisées pour le geste du carnet de Souly (voir chapitres 1-6) pour
-   ne pas les réutiliser à l'identique ni sous une variante à un mot
-   près en session 2.
-3. Rédiger les chapitres 7 à 12 (~3 300 mots/chapitre, cible ~19
-   800-20 000 mots pour la session comme en session 1).
-4. Après CHAQUE correction de gabarit signalée par le jury, refaire un
-   grep élargi sur le squelette du motif (mots clés séparés par
-   `.{0,40}`) sur l'ensemble du manuscrit — pas seulement sur la phrase
-   citée — avant de resoumettre.
-5. Une fois les 12 chapitres validés à ≥ 9/10 sur le livre complet :
-   livrer le `.docx` final avec un script `build_docx.py` adapté (voir
-   méthode utilisée pour les tomes 1, 2 et 3), et mettre à jour ce
-   fichier ainsi que le tableau de la série en début de document.
+  stratigraphique) : tous deux résolus et validés par le jury comme
+  fair-play (indices posés dès les premiers chapitres, payés sans
+  triche).
 
 ## Historique des sessions
 
@@ -178,3 +166,22 @@ les gabarits liés à un objet/geste signature de personnage).
   **9,1/10 — ACCEPTÉ**. Découverte et correction de plusieurs gabarits
   syntaxiques inédits (voir bilan méthodologique ci-dessus).
 - Livraison du fichier `.docx` final. **Tomes 1, 2 et 3 entièrement terminés.**
+
+### Session 7 (tome 4, session 1) — 2026-07-12
+- Nouveaux personnages Dr. Inès Castellane, Milo Fabre, Papet Fabre,
+  Dorian Vasseur, Elsa Roussel ajoutés à la bible. Plan complet du
+  tome 4 (paléontologie, Roc-Rouge).
+- Chapitres 1-6 du tome 4 (~20 200 mots).
+- 11 passages jury cumulés : 8,2 → 8,4 → 8,6 → 8,8 → 8,8 → 7,8 → 8,6 →
+  8,9 → 8,75 → 8,9 → 8,95 → **9,05/10 — ACCEPTÉ**. Leçon méthodologique
+  majeure sur les gabarits liés à un objet signature de personnage (voir
+  bible/lecons_apprises.md).
+
+### Session 8 (tome 4, session 2) — 2026-07-12
+- Chapitres 7-12 du tome 4 (~20 100 mots). Tome 4 complet.
+- 5 passages jury sur le livre complet : 7,7 → 8,5 → 8,4 → 7,6 →
+  **9,1/10 — ACCEPTÉ**. Leçons méthodologiques sur le recoupement de
+  chronologie inter-session et la détection de scènes dupliquées (voir
+  bible/lecons_apprises.md).
+- Livraison du fichier `.docx` final. **Tomes 1, 2, 3 et 4 entièrement
+  terminés.**
