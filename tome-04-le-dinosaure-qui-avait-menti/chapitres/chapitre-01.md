@@ -374,8 +374,8 @@ tu l'as trouvé, ça, j'en suis certaine — la coloration ne correspond pas
 du tout à la marne de cette zone. Il a dû être mélangé par erreur, ou
 transporté depuis un autre secteur du chantier.
 
-— Ou apporté depuis ailleurs, dit Souly, pensif, en notant l'observation
-dans son carnet à côté d'un petit croquis du fragment.
+— Ou apporté depuis ailleurs, dit Souly, pensif. Il traça un petit
+croquis du fragment dans la marge, juste à côté de l'observation.
 
 Inès haussa les épaules, pas franchement inquiète.
 

@@ -345,8 +345,8 @@ entré, ça s'est passé quelque part entre ces deux heures-là, pendant
 que tout le village dormait, la veille d'une foire où tout le monde
 était censé se coucher tôt pour être frais le lendemain.
 
-— Une belle fenêtre pour agir tranquillement, remarqua Souly, en notant
-soigneusement les deux horaires.
+— Une belle fenêtre pour agir tranquillement, remarqua Souly. Il
+souligna les deux horaires d'un même trait, pour bien marquer le lien.
 
 Inès se contenta d'ouvrir le registre du chantier, de le feuilleter
 deux fois de suite, page après page, et de le refermer sans y avoir

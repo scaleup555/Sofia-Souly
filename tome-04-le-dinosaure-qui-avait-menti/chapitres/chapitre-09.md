@@ -469,10 +469,10 @@ particulièrement à Milo.
 air faussement détaché, sa voix trahissant surtout un mélange de
 fierté et d'épuisement bien mérité.
 
-— On en reparlera à la lumière du jour, dit-il enfin, mi-amusé, mi-
-impressionné. Pour l'instant, tout le monde rentre se sécher. Sauf
-monsieur, ajouta-t-il, en désignant Vasseur d'un signe de tête. Lui,
-il vient avec moi.
+— On en reparlera à la lumière du jour, dit-il enfin, sans réussir à
+cacher tout à fait son sourire. Pour l'instant, tout le monde rentre
+se sécher. Sauf monsieur, ajouta-t-il, en désignant Vasseur d'un signe
+de tête. Lui, il vient avec moi.
 
 La pluie, plus douce désormais, continuait de tomber sur le vallon
 tandis que le petit groupe reprenait, épuisé mais soulagé, le chemin

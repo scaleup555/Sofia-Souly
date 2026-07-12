@@ -26,8 +26,8 @@ toujours été le cas.
 
 Il les observa un moment de plus, un chien roux couché à ses pieds
 levant à peine une oreille au passage de deux inconnus, avant de se
-laisser glisser du muret avec une souplesse qui trahissait des années
-entières passées à grimper dans les arbres et sur les rochers du champ.
+laisser glisser du muret sans un bruit, comme il devait le faire
+depuis qu'il savait marcher.
 
 — Vous êtes les deux qui logent avec la Doctoresse Castellane, dit-il.
 J'ai entendu parler de vous, au marché.
@@ -99,8 +99,8 @@ en pesant chaque mot. Tu as peur qu'on se moque encore de ta famille.
 — Un peu, admit Milo. Mais vous, au moins, vous demandez avant de juger.
 C'est déjà mieux que la plupart des visiteurs qui passent par ici.
 
-— On aime bien vérifier avant de croire quoi que ce soit, dit Sofia, avec
-une sincérité totale. Dans un sens ou dans l'autre.
+— On aime bien vérifier avant de croire quoi que ce soit, dit Sofia,
+en le regardant droit dans les yeux. Dans un sens ou dans l'autre.
 
 Milo les entraîna vers une petite maison de pierre à l'ombre d'un
 figuier immense, où une femme d'une quarantaine d'années étendait du

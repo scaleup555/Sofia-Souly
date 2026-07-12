@@ -439,8 +439,9 @@ vol.
 — « Exactement », répéta Théo, amusé. Vous parlez comme Inès,
 maintenant.
 
-— C'est contagieux, dit Souly, très sérieux, en notant l'idée dans son
-carnet avant de l'oublier.
+— C'est contagieux, dit Souly, très sérieux. Il tapota sa tempe,
+comme pour s'assurer que l'idée ne s'échapperait pas avant qu'il ait
+trouvé son carnet.
 
 — Tant que ça reste seulement le vocabulaire qui est contagieux, dit
 Camille, depuis le téléphone, et pas les manières de traiter les

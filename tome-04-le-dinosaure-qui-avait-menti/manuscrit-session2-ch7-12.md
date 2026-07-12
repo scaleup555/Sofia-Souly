@@ -439,8 +439,9 @@ vol.
 — « Exactement », répéta Théo, amusé. Vous parlez comme Inès,
 maintenant.
 
-— C'est contagieux, dit Souly, très sérieux, en notant l'idée dans son
-carnet avant de l'oublier.
+— C'est contagieux, dit Souly, très sérieux. Il tapota sa tempe,
+comme pour s'assurer que l'idée ne s'échapperait pas avant qu'il ait
+trouvé son carnet.
 
 — Tant que ça reste seulement le vocabulaire qui est contagieux, dit
 Camille, depuis le téléphone, et pas les manières de traiter les
@@ -1431,10 +1432,10 @@ particulièrement à Milo.
 air faussement détaché, sa voix trahissant surtout un mélange de
 fierté et d'épuisement bien mérité.
 
-— On en reparlera à la lumière du jour, dit-il enfin, mi-amusé, mi-
-impressionné. Pour l'instant, tout le monde rentre se sécher. Sauf
-monsieur, ajouta-t-il, en désignant Vasseur d'un signe de tête. Lui,
-il vient avec moi.
+— On en reparlera à la lumière du jour, dit-il enfin, sans réussir à
+cacher tout à fait son sourire. Pour l'instant, tout le monde rentre
+se sécher. Sauf monsieur, ajouta-t-il, en désignant Vasseur d'un signe
+de tête. Lui, il vient avec moi.
 
 La pluie, plus douce désormais, continuait de tomber sur le vallon
 tandis que le petit groupe reprenait, épuisé mais soulagé, le chemin
@@ -1613,8 +1614,8 @@ Le gendarme, qui avait cessé d'écrire depuis un moment pour se
 contenter d'écouter, referma lentement son propre carnet.
 
 — C'est la déposition la plus organisée que j'aie reçue depuis mon
-entrée en service, dit-il, mi-amusé, mi-sincèrement impressionné.
-Vous comptiez devenir enquêteur, jeune homme ?
+entrée en service, dit-il, un sourire perçant sous son sérieux
+professionnel. Vous comptiez devenir enquêteur, jeune homme ?
 
 — Paléontologue, corrigea Souly, très sérieux. Mais on dirait que les
 deux se ressemblent plus que je ne le pensais.
@@ -2353,8 +2354,8 @@ regarda ses dernières notes, satisfait comme rarement d'avoir
 consigné quelque chose qui comptait vraiment, et ne put s'empêcher de
 sourire.
 
-— Deux jours avant samedi, dit-il, en regardant le ciel dégagé. Et
-cette fois, on a vraiment quelque chose à montrer.
+— Demain, samedi, dit-il, en regardant le ciel dégagé. Et cette
+fois, on a vraiment quelque chose à montrer.
 
 Sofia s'assit à côté de lui sur le muret encore tiède de soleil,
 regardant le vallon s'étirer devant eux, aussi calme que si l'orage de
@@ -2458,10 +2459,10 @@ l'école venus admirer le fragment sous vitrine, trébucha sur le câble
 du micro et manqua de justesse d'entraîner toute l'estrade dans sa
 chute, sauvé in extremis par un Tomas aux réflexes remarquables.
 
-— Le club des catastrophes officielles de Roc-Rouge tient à féliciter
-son plus récent membre honoraire, annonça Milo, depuis le premier
-rang, ce qui déclencha un fou rire général dans lequel même Marion,
-pourtant survoltée depuis l'aube, finit par se laisser entraîner.
+— À ce rythme, il va falloir lui tailler une place fixe dans le club,
+annonça Milo, depuis le premier rang, ce qui déclencha un fou rire
+général dans lequel même Marion, pourtant survoltée depuis l'aube,
+finit par se laisser entraîner.
 
 Elsa, invitée à présenter ses croquis d'enquête sur un petit stand
 voisin de l'estrade, vit défiler toute la matinée un flot ininterrompu
@@ -2620,7 +2621,7 @@ sourire espiègle aux lèvres, en référence à peine voilée à une
 histoire vieille de plusieurs étés.
 
 — C'est un site de dinosaures, pas de pharaons, protesta faiblement
-Théo, mi-choqué, mi-amusé.
+Théo, entre indignation et fou rire.
 
 — Justement, dit Souly. Ça prouvera à tout le monde, dans cent ans,
 qu'on avait le sens de l'humour.
@@ -2648,7 +2649,8 @@ avant de juger.
 
 Le gâteau, malgré son apparence douteuse, se révéla délicieux, et
 personne ne le fit remarquer plus fort que Théo, qui en reprit trois
-parts sous le regard mi-amusé, mi-atterré de Sofia.
+parts sous le regard consterné de Sofia, qui ne savait plus si elle
+devait rire ou s'inquiéter pour lui.
 
 Farida et Léa, assises côte à côte sur une caisse retournée, se
 lancèrent dans un concours d'anecdotes sur les pires théories qu'on

@@ -433,8 +433,8 @@ regarda ses dernières notes, satisfait comme rarement d'avoir
 consigné quelque chose qui comptait vraiment, et ne put s'empêcher de
 sourire.
 
-— Deux jours avant samedi, dit-il, en regardant le ciel dégagé. Et
-cette fois, on a vraiment quelque chose à montrer.
+— Demain, samedi, dit-il, en regardant le ciel dégagé. Et cette
+fois, on a vraiment quelque chose à montrer.
 
 Sofia s'assit à côté de lui sur le muret encore tiède de soleil,
 regardant le vallon s'étirer devant eux, aussi calme que si l'orage de

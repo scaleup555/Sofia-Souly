@@ -90,10 +90,10 @@ l'école venus admirer le fragment sous vitrine, trébucha sur le câble
 du micro et manqua de justesse d'entraîner toute l'estrade dans sa
 chute, sauvé in extremis par un Tomas aux réflexes remarquables.
 
-— Le club des catastrophes officielles de Roc-Rouge tient à féliciter
-son plus récent membre honoraire, annonça Milo, depuis le premier
-rang, ce qui déclencha un fou rire général dans lequel même Marion,
-pourtant survoltée depuis l'aube, finit par se laisser entraîner.
+— À ce rythme, il va falloir lui tailler une place fixe dans le club,
+annonça Milo, depuis le premier rang, ce qui déclencha un fou rire
+général dans lequel même Marion, pourtant survoltée depuis l'aube,
+finit par se laisser entraîner.
 
 Elsa, invitée à présenter ses croquis d'enquête sur un petit stand
 voisin de l'estrade, vit défiler toute la matinée un flot ininterrompu
@@ -252,7 +252,7 @@ sourire espiègle aux lèvres, en référence à peine voilée à une
 histoire vieille de plusieurs étés.
 
 — C'est un site de dinosaures, pas de pharaons, protesta faiblement
-Théo, mi-choqué, mi-amusé.
+Théo, entre indignation et fou rire.
 
 — Justement, dit Souly. Ça prouvera à tout le monde, dans cent ans,
 qu'on avait le sens de l'humour.
@@ -280,7 +280,8 @@ avant de juger.
 
 Le gâteau, malgré son apparence douteuse, se révéla délicieux, et
 personne ne le fit remarquer plus fort que Théo, qui en reprit trois
-parts sous le regard mi-amusé, mi-atterré de Sofia.
+parts sous le regard consterné de Sofia, qui ne savait plus si elle
+devait rire ou s'inquiéter pour lui.
 
 Farida et Léa, assises côte à côte sur une caisse retournée, se
 lancèrent dans un concours d'anecdotes sur les pires théories qu'on

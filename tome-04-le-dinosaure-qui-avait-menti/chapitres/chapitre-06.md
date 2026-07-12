@@ -70,7 +70,7 @@ même pas d'ici.
 Ils étaient passés, un peu plus tôt, devant l'épicerie de Frédéric, où
 deux clientes discutaient à voix pas si basse que ça de la « fille de
 la fouille qui rôdait la nuit ». Frédéric, en les voyant entrer, avait
-haussé les épaules avec un air désolé.
+haussé les épaules, comme pour s'excuser sans oser le dire tout haut.
 
 — Les gens s'ennuient, avait-il dit, en leur tendant malgré tout deux
 nouveaux esquimaux « pour la peine ». Une rumeur, ici, ça circule plus
@@ -269,13 +269,13 @@ mal l'excitation qui perçait dans sa propre voix. Ce serait une erreur
 de sauter directement à une conclusion, juste parce qu'elle nous arrange
 après ce qu'on a découvert ce matin.
 
-— C'est vrai, admit Souly, à contrecœur, en rangeant les fragments avec
-une prudence redoublée. On a juste une différence de texture suspecte. Pas un
-nom. Pas une preuve formelle.
+— C'est vrai, admit Souly, à contrecœur, en rangeant les fragments un
+par un, presque au ralenti. On a juste une différence de texture
+suspecte. Pas un nom. Pas une preuve formelle.
 
-— Mais ça élimine sûrement l'idée que c'est juste un accident de terrain,
-dit Sofia, avec un aplomb qu'elle ne cherchait pas à masquer. Personne
-ne fabrique une résine qui ressemble à de l'os par hasard.
+— Mais ça élimine sûrement l'idée que c'est juste un accident de
+terrain, dit Sofia, sans se laisser démonter. Personne ne fabrique une
+résine qui ressemble à de l'os par hasard.
 
 ---
 

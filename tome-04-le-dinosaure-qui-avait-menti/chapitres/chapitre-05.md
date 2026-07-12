@@ -121,9 +121,9 @@ genre-là, plutôt destinées à la fouille ou au chantier. Et une plus
 grande, du côté de Sainte-Cabanis, à vingt minutes en voiture. Celle-là,
 elle vend du matériel professionnel.
 
-— Sainte-Cabanis, répéta Souly, en notant le nom. C'est justement ce
-qu'on devrait vérifier discrètement, la prochaine fois qu'on croisera
-la camionnette de Vasseur.
+— Sainte-Cabanis, répéta Souly, le nom déjà gravé dans sa mémoire.
+C'est justement ce qu'on devrait vérifier discrètement, la prochaine
+fois qu'on croisera la camionnette de Vasseur.
 
 — Comment on vérifie ça sans lui demander directement ? demanda Sofia.
 
@@ -307,7 +307,7 @@ est tellement rigoureuse que j'ai peur qu'elle trouve mes croquis
 ridicules.
 
 — Ils sont pas ridicules du tout, dit Sofia, en feuilletant le carnet
-avec un intérêt sincère. Ils sont même très beaux.
+page après page, sans se presser. Ils sont même très beaux.
 
 Elle s'arrêta sur une double page consacrée entièrement à un même
 fragment, dessiné sous cinq angles différents, chaque croquis
@@ -389,8 +389,8 @@ traces-là.
 Elsa, sans grand espoir dans la voix.
 
 — Parce que les gens préfèrent souvent une explication simple à une
-explication vraie, dit Sofia, avec une franchise qui la caractérisait.
-Mais nous, on préfère la vraie.
+explication vraie, dit Sofia, sans détour, comme toujours. Mais nous,
+on préfère la vraie.
 
 — Il faudrait quand même le dire à Inès, pour les mesures, ajouta
 Souly. Officiellement, pas juste entre nous. Comme ça, si les rumeurs
@@ -408,10 +408,10 @@ conversation, et rangea son carnet de croquis dans son sac, presque
 tendrement, comme si le simple fait d'avoir été crue par deux enfants
 suffisait à en changer la valeur.
 
-— Il reste quatre jours avant la présentation officielle de samedi
+— Il reste six jours avant la présentation officielle de samedi
 prochain, dit Inès, un gobelet de café à moitié froid dans la main,
 plantée devant eux depuis quelques secondes déjà sans qu'ils l'aient
-remarquée. Quatre jours pour comprendre ce qui se
+remarquée. Six jours pour comprendre ce qui se
 passe vraiment sur mon chantier, avant que ça ne devienne officiellement
 un problème pour tout le village, pas seulement pour moi.
 
@@ -420,7 +420,7 @@ numéro, et quelqu'un qui a beaucoup trop hâte de voir une belle
 découverte samedi.
 
 — Trois indices, dit Milo, en comptant sur ses doigts. Ça fait beaucoup
-pour quatre jours, mais pas encore assez pour accuser qui que ce soit.
+pour six jours, mais pas encore assez pour accuser qui que ce soit.
 
 — Alors on continue à chercher, dit Elsa, en se redressant, le droit de
 participer pleinement à l'enquête, et pas seulement de la subir.
@@ -446,7 +446,7 @@ sérieuse. Ça sonne bien.
 Elsa rougit légèrement, mais un vrai sourire lui échappa, débarrassé de
 toute la méfiance du début de la matinée.
 
-— Quatre jours, répéta-t-elle, en refermant son propre carnet à son
+— Six jours, répéta-t-elle, en refermant son propre carnet à son
 tour. On ferait mieux de ne pas en perdre une seule minute.
 
 Milo se leva le premier, époussetant la terre rouge collée à son

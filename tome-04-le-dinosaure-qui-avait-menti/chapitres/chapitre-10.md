@@ -168,8 +168,8 @@ Le gendarme, qui avait cessé d'écrire depuis un moment pour se
 contenter d'écouter, referma lentement son propre carnet.
 
 — C'est la déposition la plus organisée que j'aie reçue depuis mon
-entrée en service, dit-il, mi-amusé, mi-sincèrement impressionné.
-Vous comptiez devenir enquêteur, jeune homme ?
+entrée en service, dit-il, un sourire perçant sous son sérieux
+professionnel. Vous comptiez devenir enquêteur, jeune homme ?
 
 — Paléontologue, corrigea Souly, très sérieux. Mais on dirait que les
 deux se ressemblent plus que je ne le pensais.

@@ -374,8 +374,8 @@ tu l'as trouvé, ça, j'en suis certaine — la coloration ne correspond pas
 du tout à la marne de cette zone. Il a dû être mélangé par erreur, ou
 transporté depuis un autre secteur du chantier.
 
-— Ou apporté depuis ailleurs, dit Souly, pensif, en notant l'observation
-dans son carnet à côté d'un petit croquis du fragment.
+— Ou apporté depuis ailleurs, dit Souly, pensif. Il traça un petit
+croquis du fragment dans la marge, juste à côté de l'observation.
 
 Inès haussa les épaules, pas franchement inquiète.
 
@@ -1017,8 +1017,8 @@ toujours été le cas.
 
 Il les observa un moment de plus, un chien roux couché à ses pieds
 levant à peine une oreille au passage de deux inconnus, avant de se
-laisser glisser du muret avec une souplesse qui trahissait des années
-entières passées à grimper dans les arbres et sur les rochers du champ.
+laisser glisser du muret sans un bruit, comme il devait le faire
+depuis qu'il savait marcher.
 
 — Vous êtes les deux qui logent avec la Doctoresse Castellane, dit-il.
 J'ai entendu parler de vous, au marché.
@@ -1090,8 +1090,8 @@ en pesant chaque mot. Tu as peur qu'on se moque encore de ta famille.
 — Un peu, admit Milo. Mais vous, au moins, vous demandez avant de juger.
 C'est déjà mieux que la plupart des visiteurs qui passent par ici.
 
-— On aime bien vérifier avant de croire quoi que ce soit, dit Sofia, avec
-une sincérité totale. Dans un sens ou dans l'autre.
+— On aime bien vérifier avant de croire quoi que ce soit, dit Sofia,
+en le regardant droit dans les yeux. Dans un sens ou dans l'autre.
 
 Milo les entraîna vers une petite maison de pierre à l'ombre d'un
 figuier immense, où une femme d'une quarantaine d'années étendait du
@@ -1792,8 +1792,8 @@ entré, ça s'est passé quelque part entre ces deux heures-là, pendant
 que tout le village dormait, la veille d'une foire où tout le monde
 était censé se coucher tôt pour être frais le lendemain.
 
-— Une belle fenêtre pour agir tranquillement, remarqua Souly, en notant
-soigneusement les deux horaires.
+— Une belle fenêtre pour agir tranquillement, remarqua Souly. Il
+souligna les deux horaires d'un même trait, pour bien marquer le lien.
 
 Inès se contenta d'ouvrir le registre du chantier, de le feuilleter
 deux fois de suite, page après page, et de le refermer sans y avoir
@@ -2026,9 +2026,9 @@ genre-là, plutôt destinées à la fouille ou au chantier. Et une plus
 grande, du côté de Sainte-Cabanis, à vingt minutes en voiture. Celle-là,
 elle vend du matériel professionnel.
 
-— Sainte-Cabanis, répéta Souly, en notant le nom. C'est justement ce
-qu'on devrait vérifier discrètement, la prochaine fois qu'on croisera
-la camionnette de Vasseur.
+— Sainte-Cabanis, répéta Souly, le nom déjà gravé dans sa mémoire.
+C'est justement ce qu'on devrait vérifier discrètement, la prochaine
+fois qu'on croisera la camionnette de Vasseur.
 
 — Comment on vérifie ça sans lui demander directement ? demanda Sofia.
 
@@ -2212,7 +2212,7 @@ est tellement rigoureuse que j'ai peur qu'elle trouve mes croquis
 ridicules.
 
 — Ils sont pas ridicules du tout, dit Sofia, en feuilletant le carnet
-avec un intérêt sincère. Ils sont même très beaux.
+page après page, sans se presser. Ils sont même très beaux.
 
 Elle s'arrêta sur une double page consacrée entièrement à un même
 fragment, dessiné sous cinq angles différents, chaque croquis
@@ -2294,8 +2294,8 @@ traces-là.
 Elsa, sans grand espoir dans la voix.
 
 — Parce que les gens préfèrent souvent une explication simple à une
-explication vraie, dit Sofia, avec une franchise qui la caractérisait.
-Mais nous, on préfère la vraie.
+explication vraie, dit Sofia, sans détour, comme toujours. Mais nous,
+on préfère la vraie.
 
 — Il faudrait quand même le dire à Inès, pour les mesures, ajouta
 Souly. Officiellement, pas juste entre nous. Comme ça, si les rumeurs
@@ -2313,10 +2313,10 @@ conversation, et rangea son carnet de croquis dans son sac, presque
 tendrement, comme si le simple fait d'avoir été crue par deux enfants
 suffisait à en changer la valeur.
 
-— Il reste quatre jours avant la présentation officielle de samedi
+— Il reste six jours avant la présentation officielle de samedi
 prochain, dit Inès, un gobelet de café à moitié froid dans la main,
 plantée devant eux depuis quelques secondes déjà sans qu'ils l'aient
-remarquée. Quatre jours pour comprendre ce qui se
+remarquée. Six jours pour comprendre ce qui se
 passe vraiment sur mon chantier, avant que ça ne devienne officiellement
 un problème pour tout le village, pas seulement pour moi.
 
@@ -2325,7 +2325,7 @@ numéro, et quelqu'un qui a beaucoup trop hâte de voir une belle
 découverte samedi.
 
 — Trois indices, dit Milo, en comptant sur ses doigts. Ça fait beaucoup
-pour quatre jours, mais pas encore assez pour accuser qui que ce soit.
+pour six jours, mais pas encore assez pour accuser qui que ce soit.
 
 — Alors on continue à chercher, dit Elsa, en se redressant, le droit de
 participer pleinement à l'enquête, et pas seulement de la subir.
@@ -2351,7 +2351,7 @@ sérieuse. Ça sonne bien.
 Elsa rougit légèrement, mais un vrai sourire lui échappa, débarrassé de
 toute la méfiance du début de la matinée.
 
-— Quatre jours, répéta-t-elle, en refermant son propre carnet à son
+— Six jours, répéta-t-elle, en refermant son propre carnet à son
 tour. On ferait mieux de ne pas en perdre une seule minute.
 
 Milo se leva le premier, époussetant la terre rouge collée à son
@@ -2438,7 +2438,7 @@ même pas d'ici.
 Ils étaient passés, un peu plus tôt, devant l'épicerie de Frédéric, où
 deux clientes discutaient à voix pas si basse que ça de la « fille de
 la fouille qui rôdait la nuit ». Frédéric, en les voyant entrer, avait
-haussé les épaules avec un air désolé.
+haussé les épaules, comme pour s'excuser sans oser le dire tout haut.
 
 — Les gens s'ennuient, avait-il dit, en leur tendant malgré tout deux
 nouveaux esquimaux « pour la peine ». Une rumeur, ici, ça circule plus
@@ -2637,13 +2637,13 @@ mal l'excitation qui perçait dans sa propre voix. Ce serait une erreur
 de sauter directement à une conclusion, juste parce qu'elle nous arrange
 après ce qu'on a découvert ce matin.
 
-— C'est vrai, admit Souly, à contrecœur, en rangeant les fragments avec
-une prudence redoublée. On a juste une différence de texture suspecte. Pas un
-nom. Pas une preuve formelle.
+— C'est vrai, admit Souly, à contrecœur, en rangeant les fragments un
+par un, presque au ralenti. On a juste une différence de texture
+suspecte. Pas un nom. Pas une preuve formelle.
 
-— Mais ça élimine sûrement l'idée que c'est juste un accident de terrain,
-dit Sofia, avec un aplomb qu'elle ne cherchait pas à masquer. Personne
-ne fabrique une résine qui ressemble à de l'os par hasard.
+— Mais ça élimine sûrement l'idée que c'est juste un accident de
+terrain, dit Sofia, sans se laisser démonter. Personne ne fabrique une
+résine qui ressemble à de l'os par hasard.
 
 ---
 
@@ -3261,8 +3261,9 @@ vol.
 — « Exactement », répéta Théo, amusé. Vous parlez comme Inès,
 maintenant.
 
-— C'est contagieux, dit Souly, très sérieux, en notant l'idée dans son
-carnet avant de l'oublier.
+— C'est contagieux, dit Souly, très sérieux. Il tapota sa tempe,
+comme pour s'assurer que l'idée ne s'échapperait pas avant qu'il ait
+trouvé son carnet.
 
 — Tant que ça reste seulement le vocabulaire qui est contagieux, dit
 Camille, depuis le téléphone, et pas les manières de traiter les
@@ -4253,10 +4254,10 @@ particulièrement à Milo.
 air faussement détaché, sa voix trahissant surtout un mélange de
 fierté et d'épuisement bien mérité.
 
-— On en reparlera à la lumière du jour, dit-il enfin, mi-amusé, mi-
-impressionné. Pour l'instant, tout le monde rentre se sécher. Sauf
-monsieur, ajouta-t-il, en désignant Vasseur d'un signe de tête. Lui,
-il vient avec moi.
+— On en reparlera à la lumière du jour, dit-il enfin, sans réussir à
+cacher tout à fait son sourire. Pour l'instant, tout le monde rentre
+se sécher. Sauf monsieur, ajouta-t-il, en désignant Vasseur d'un signe
+de tête. Lui, il vient avec moi.
 
 La pluie, plus douce désormais, continuait de tomber sur le vallon
 tandis que le petit groupe reprenait, épuisé mais soulagé, le chemin
@@ -4435,8 +4436,8 @@ Le gendarme, qui avait cessé d'écrire depuis un moment pour se
 contenter d'écouter, referma lentement son propre carnet.
 
 — C'est la déposition la plus organisée que j'aie reçue depuis mon
-entrée en service, dit-il, mi-amusé, mi-sincèrement impressionné.
-Vous comptiez devenir enquêteur, jeune homme ?
+entrée en service, dit-il, un sourire perçant sous son sérieux
+professionnel. Vous comptiez devenir enquêteur, jeune homme ?
 
 — Paléontologue, corrigea Souly, très sérieux. Mais on dirait que les
 deux se ressemblent plus que je ne le pensais.
@@ -5175,8 +5176,8 @@ regarda ses dernières notes, satisfait comme rarement d'avoir
 consigné quelque chose qui comptait vraiment, et ne put s'empêcher de
 sourire.
 
-— Deux jours avant samedi, dit-il, en regardant le ciel dégagé. Et
-cette fois, on a vraiment quelque chose à montrer.
+— Demain, samedi, dit-il, en regardant le ciel dégagé. Et cette
+fois, on a vraiment quelque chose à montrer.
 
 Sofia s'assit à côté de lui sur le muret encore tiède de soleil,
 regardant le vallon s'étirer devant eux, aussi calme que si l'orage de
@@ -5280,10 +5281,10 @@ l'école venus admirer le fragment sous vitrine, trébucha sur le câble
 du micro et manqua de justesse d'entraîner toute l'estrade dans sa
 chute, sauvé in extremis par un Tomas aux réflexes remarquables.
 
-— Le club des catastrophes officielles de Roc-Rouge tient à féliciter
-son plus récent membre honoraire, annonça Milo, depuis le premier
-rang, ce qui déclencha un fou rire général dans lequel même Marion,
-pourtant survoltée depuis l'aube, finit par se laisser entraîner.
+— À ce rythme, il va falloir lui tailler une place fixe dans le club,
+annonça Milo, depuis le premier rang, ce qui déclencha un fou rire
+général dans lequel même Marion, pourtant survoltée depuis l'aube,
+finit par se laisser entraîner.
 
 Elsa, invitée à présenter ses croquis d'enquête sur un petit stand
 voisin de l'estrade, vit défiler toute la matinée un flot ininterrompu
@@ -5442,7 +5443,7 @@ sourire espiègle aux lèvres, en référence à peine voilée à une
 histoire vieille de plusieurs étés.
 
 — C'est un site de dinosaures, pas de pharaons, protesta faiblement
-Théo, mi-choqué, mi-amusé.
+Théo, entre indignation et fou rire.
 
 — Justement, dit Souly. Ça prouvera à tout le monde, dans cent ans,
 qu'on avait le sens de l'humour.
@@ -5470,7 +5471,8 @@ avant de juger.
 
 Le gâteau, malgré son apparence douteuse, se révéla délicieux, et
 personne ne le fit remarquer plus fort que Théo, qui en reprit trois
-parts sous le regard mi-amusé, mi-atterré de Sofia.
+parts sous le regard consterné de Sofia, qui ne savait plus si elle
+devait rire ou s'inquiéter pour lui.
 
 Farida et Léa, assises côte à côte sur une caisse retournée, se
 lancèrent dans un concours d'anecdotes sur les pires théories qu'on
