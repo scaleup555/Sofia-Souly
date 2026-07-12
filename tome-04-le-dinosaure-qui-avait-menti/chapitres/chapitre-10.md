@@ -331,7 +331,7 @@ convaincante.
 — Un puzzle avec des pièces qui ne viennent même pas de la même
 boîte, résuma Sofia, dégoûtée.
 
-— C'est exactement ça, confirma Inès. Et c'est justement pour ça
+— C'est exactement ça, dit Inès. Et c'est justement pour ça
 qu'un vrai fossile documenté, même modeste, vaudra toujours plus
 qu'un assemblage spectaculaire sans histoire vérifiable derrière.
 

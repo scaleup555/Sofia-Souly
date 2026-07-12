@@ -263,8 +263,9 @@ démonter. On note juste les faits. C'est ce qu'on fait.
 — Quelle pointure, monsieur Vasseur ? demanda Sofia, sans lâcher prise.
 
 Un rire nerveux échappa à quelqu'un dans la petite foule, vite étouffé.
-Vasseur, pris au dépourvu par la simplicité même de la question,
-chercha visiblement une échappatoire, avant de se résoudre à répondre.
+Vasseur resta silencieux une seconde de trop, ses yeux balayant la
+foule comme s'il y cherchait une échappatoire, avant de se résoudre à
+répondre.
 
 — Quarante et un, dit-il, d'un ton qu'il voulait détaché. Comme des
 milliers d'autres hommes dans ce pays. Je ne vois pas où vous voulez
@@ -283,8 +284,9 @@ l'épicier, arrivé entre-temps, un panier de courses sous le bras et un
 sourire à peine dissimulé sous sa moustache. Moi, en trente ans, je
 n'ai vu personne s'habiller comme ça pour marcher dans la marne.
 
-Cette fois, tout le petit attroupement éclata d'un rire franc. Vasseur,
-sentant le vent tourner, tenta une dernière manœuvre.
+Cette fois, tout le petit attroupement éclata d'un rire franc. Le
+sourire commercial de Vasseur se craquela visiblement, et il tenta
+une dernière manœuvre.
 
 — Je trouve regrettable, dit-il, d'un ton légèrement plus sec, qu'on
 préfère interroger un homme d'affaires respectable plutôt qu'une
@@ -333,18 +335,6 @@ nous a un peu échappé.
 
 — Un peu, répéta Sofia, pas désolée pour un sou.
 
-Elsa, restée silencieuse pendant tout l'échange, s'approcha enfin des
-deux enfants, les yeux brillants.
-
-— Personne ne m'avait jamais défendue comme ça devant tout un village,
-dit-elle, la voix un peu tremblante. Merci.
-
-— On n'a fait que dire ce qu'on avait mesuré, dit Souly, mal à l'aise
-devant tant de gratitude. C'est vous qui aviez raison depuis le début.
-
-— C'est gentil de le formuler comme ça, dit Elsa. Mais on sait tous
-les deux que ça ne se serait jamais dit sans vous.
-
 Milo, qui avait suivi toute la scène en jubilant de plus en plus
 ouvertement, donna une claque amicale dans le dos de Souly, un peu
 trop forte, manquant de le faire trébucher sur une caisse.
@@ -357,6 +347,13 @@ rouges. Je compte tout court. C'est différent.
 
 — Un, deux, trois, imita Milo, hilare, avant d'esquiver de justesse le
 coup de coude que lui destinait Souly.
+
+— C'est même utile, parfois, dit Sofia, en défense de son frère.
+Personne ne remarque qu'on a menti quand on est occupé à écouter
+compter jusqu'à dix.
+
+— Merci pour ce vote de confiance, dit Souly, sombre, mais je crois
+que je vais m'en passer la prochaine fois.
 
 Inès, une fois la petite foule dispersée, prit les enfants à part,
 loin des oreilles indiscrètes.

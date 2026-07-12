@@ -42,7 +42,7 @@ Souly et Sofia échangèrent un regard, un peu déstabilisés à l'idée que
 leur découverte du fragment brun-rouge ait déjà voyagé jusqu'à ce champ
 d'oliviers isolé.
 
-— On a surtout posé beaucoup de questions, corrigea Souly, choisissant
+— On a surtout posé beaucoup de questions, tempéra Souly, choisissant
 ses mots avec soin.
 
 — Ça, ça vous ressemble déjà bien, à en croire ce qu'on raconte de vous
@@ -67,15 +67,15 @@ Sofia mordit quand même dans la sienne, par pure curiosité, et fit une
 grimace si spectaculaire que Milo éclata d'un rire franc, le premier
 depuis leur rencontre.
 
-— Je t'avais prévenue, dit-il, avec une satisfaction non dissimulée.
+— Je t'avais prévenue, dit-il, ravi de lui-même.
 
-— C'est vraiment, vraiment amer, confirma Sofia, en recrachant
+— C'est vraiment, vraiment amer, dit Sofia, en recrachant
 discrètement dans sa paume. Mais bon à savoir.
 
 — La plupart des visiteurs me croient sur parole, dit Milo, encore
 amusé. Toi, apparemment, il faut te laisser vérifier par toi-même.
 
-— Toujours, confirma Sofia, sans la moindre gêne.
+— Toujours, dit Sofia, sans la moindre gêne.
 
 — Mon grand-père trouvait des trucs, ici, dit-il, en donnant un coup de
 pied distrait dans une pierre du chemin. Quand il était petit. Des bouts
@@ -290,8 +290,9 @@ Il fouilla dans la poche arrière de son short et en sortit un morceau
 de papier journal, jauni et plié en quatre depuis si longtemps que les
 plis menaçaient de se déchirer.
 
-— Tenez, regardez ça, dit-il, en le dépliant avec un soin presque
-religieux. Papet le garde dans le tiroir de la cuisine. Je l'ai pris ce
+— Tenez, regardez ça, dit-il, en dépliant lentement les plis fragiles,
+un geste presque cérémonieux. Papet le garde dans le tiroir de la
+cuisine. Je l'ai pris ce
 matin, avant que vous arriviez, je savais pas trop pourquoi sur le
 coup.
 

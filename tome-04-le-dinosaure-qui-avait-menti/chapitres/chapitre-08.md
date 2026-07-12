@@ -27,7 +27,7 @@ livrer une camionnette blanche, il y a trois semaines.
 
 — Vasseur, dirent Sofia et Souly d'une seule voix.
 
-— Vasseur, confirma Milo, ravi de son effet. Le vendeur se souvenait de
+— Vasseur, répéta Milo, ravi de son effet. Le vendeur se souvenait de
 lui parce qu'il avait payé en liquide, ce que presque personne ne fait
 plus pour un achat pareil. Deux pelles, un rouleau de gaze de
 protection, et un gros pot de résine industrielle. Le genre qu'on

@@ -36,7 +36,7 @@ réunions, leva la main le premier.
 — On a vérifié les serrures de la remise ? demanda-t-il. Si quelqu'un
 est entré sans forcer, ça change beaucoup de choses.
 
-— Rien n'a été forcé, confirma Inès. Il n'y a que deux explications
+— Rien n'a été forcé, dit Inès. Il n'y a que deux explications
 possibles : quelqu'un avait un double des clés, ou quelqu'un
 connaissait suffisamment bien nos habitudes pour profiter d'un moment
 où la remise

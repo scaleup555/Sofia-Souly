@@ -286,10 +286,9 @@ enveloppé encore à moitié sorti de son sac.
 — Ne bougez plus, cria Inès, en se levant, suivie de Tomas et des
 enfants. On vous a vu.
 
-Vasseur, pris totalement au dépourvu, hésita une fraction de seconde
-avant de tenter de refermer précipitamment le sac, ses gestes trahis
-par la lumière tremblante de la lampe et par l'urgence soudaine de sa
-respiration.
+Vasseur se figea une fraction de seconde avant de tenter de refermer
+précipitamment le sac, ses gestes trahis par la lumière tremblante de
+la lampe et par sa respiration devenue soudain audible.
 
 — Je... commença-t-il, avant de s'interrompre, incapable de trouver
 une explication qui tienne face à la scène qu'ils venaient tous de

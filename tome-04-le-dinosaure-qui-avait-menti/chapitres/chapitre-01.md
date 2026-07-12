@@ -70,7 +70,7 @@ Théo d'un signe de tête familier.
 
 — Toujours là, Frédéric ? demanda Théo, en descendant de voiture.
 
-— Toujours là, confirma l'épicier, sans grand enthousiasme. Même si
+— Toujours là, répondit l'épicier, sans grand enthousiasme. Même si
 « toujours » risque de plus durer très longtemps, à ce rythme. Trois
 commerces ont déjà fermé sur la place depuis l'an dernier. Les gens
 viennent de moins en moins, depuis que la route de la côte a été

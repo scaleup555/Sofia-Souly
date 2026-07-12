@@ -79,7 +79,7 @@ une pluie.
 souvenant aussitôt de la toute première leçon, le premier matin sur
 le chantier. Chaque couche a sa propre chimie.
 
-— Le même principe, confirma Inès, à ceci près qu'ici, c'est une
+— Le même principe, dit Inès, à ceci près qu'ici, c'est une
 seule et même couche qui affleure juste sous la surface, à cet
 endroit précis du champ, et nulle part ailleurs sur des dizaines de
 mètres alentour. Ce n'est pas un hasard. C'est un vrai marqueur

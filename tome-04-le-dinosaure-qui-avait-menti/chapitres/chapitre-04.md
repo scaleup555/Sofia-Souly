@@ -13,7 +13,7 @@ trois personnes.
 annonça-t-il, en refermant le panier d'un coup sec. Elle a l'air de
 tenir beaucoup à ce que la fouille fasse bonne impression, aujourd'hui.
 
-— Elle a plutôt l'air inquiète, corrigea Souly, qui avait discrètement
+— Elle a plutôt l'air inquiète, nuança Souly, qui avait discrètement
 observé la paléontologue la veille au soir, allant et venant entre les
 tentes bien après que tout le monde soit rentré se coucher.
 

@@ -70,7 +70,7 @@ Théo d'un signe de tête familier.
 
 — Toujours là, Frédéric ? demanda Théo, en descendant de voiture.
 
-— Toujours là, confirma l'épicier, sans grand enthousiasme. Même si
+— Toujours là, répondit l'épicier, sans grand enthousiasme. Même si
 « toujours » risque de plus durer très longtemps, à ce rythme. Trois
 commerces ont déjà fermé sur la place depuis l'an dernier. Les gens
 viennent de moins en moins, depuis que la route de la côte a été
@@ -560,7 +560,7 @@ par la concentration.
 — Celui-là est vraiment plus léger, dit-elle, surprise. On dirait presque
 du plastique.
 
-— C'est bien ça, en partie, confirma Inès. De la résine synthétique.
+— C'est bien ça, en partie, dit Inès. De la résine synthétique.
 Excellente pour l'enseignement. Catastrophique si quelqu'un essaie de
 la vendre comme une vraie découverte.
 
@@ -643,7 +643,7 @@ mélanger.
 
 — On dirait une horloge, dit-elle, fascinée.
 
-— C'en est une, en quelque sorte, confirma Inès. Une horloge qu'on ne
+— C'en est une, en quelque sorte, répondit Inès. Une horloge qu'on ne
 peut lire qu'une seule fois, dans le bon ordre. C'est pour ça que
 chaque carré, chaque centimètre de profondeur qu'on documente
 soigneusement vaut tellement plus qu'un fossile isolé, arraché sans
@@ -686,7 +686,7 @@ lentement, comparant leur surface centimètre par centimètre.
 — Celui-là est un peu plus foncé, dit-elle finalement, en désignant le
 second.
 
-— C'est ça, confirma Inès. Ils viennent de deux carrés différents,
+— C'est ça, dit Inès. Ils viennent de deux carrés différents,
 distants d'à peine trois mètres. La nature n'est jamais tout à fait
 uniforme. C'est ce qui la rend difficile à imiter parfaitement — un
 faussaire pressé, ou pas assez soigneux, oublie toujours ce détail-là.
@@ -779,8 +779,9 @@ reprendre son souffle.
 — Marion, la maire de Roc-Rouge, présenta Inès aux enfants, avant de se
 tourner vers la nouvelle venue. Qu'est-ce qu'il y a encore ?
 
-— Le conseil municipal veut absolument une belle annonce pour la fête de
-samedi prochain. Le tourisme du village est au plus bas, la subvention
+— Le conseil municipal veut absolument une belle annonce pour la Fête
+de la Pierre, dans une dizaine de jours. Le tourisme du village est au
+plus bas, la subvention
 régionale pour continuer la fouille l'an prochain dépend en partie de la
 visibilité qu'on obtient cette année. On a besoin d'une vraie découverte
 à présenter, Inès. Quelque chose qui fasse parler, quelque chose qui
@@ -1033,7 +1034,7 @@ Souly et Sofia échangèrent un regard, un peu déstabilisés à l'idée que
 leur découverte du fragment brun-rouge ait déjà voyagé jusqu'à ce champ
 d'oliviers isolé.
 
-— On a surtout posé beaucoup de questions, corrigea Souly, choisissant
+— On a surtout posé beaucoup de questions, tempéra Souly, choisissant
 ses mots avec soin.
 
 — Ça, ça vous ressemble déjà bien, à en croire ce qu'on raconte de vous
@@ -1058,15 +1059,15 @@ Sofia mordit quand même dans la sienne, par pure curiosité, et fit une
 grimace si spectaculaire que Milo éclata d'un rire franc, le premier
 depuis leur rencontre.
 
-— Je t'avais prévenue, dit-il, avec une satisfaction non dissimulée.
+— Je t'avais prévenue, dit-il, ravi de lui-même.
 
-— C'est vraiment, vraiment amer, confirma Sofia, en recrachant
+— C'est vraiment, vraiment amer, dit Sofia, en recrachant
 discrètement dans sa paume. Mais bon à savoir.
 
 — La plupart des visiteurs me croient sur parole, dit Milo, encore
 amusé. Toi, apparemment, il faut te laisser vérifier par toi-même.
 
-— Toujours, confirma Sofia, sans la moindre gêne.
+— Toujours, dit Sofia, sans la moindre gêne.
 
 — Mon grand-père trouvait des trucs, ici, dit-il, en donnant un coup de
 pied distrait dans une pierre du chemin. Quand il était petit. Des bouts
@@ -1281,8 +1282,9 @@ Il fouilla dans la poche arrière de son short et en sortit un morceau
 de papier journal, jauni et plié en quatre depuis si longtemps que les
 plis menaçaient de se déchirer.
 
-— Tenez, regardez ça, dit-il, en le dépliant avec un soin presque
-religieux. Papet le garde dans le tiroir de la cuisine. Je l'ai pris ce
+— Tenez, regardez ça, dit-il, en dépliant lentement les plis fragiles,
+un geste presque cérémonieux. Papet le garde dans le tiroir de la
+cuisine. Je l'ai pris ce
 matin, avant que vous arriviez, je savais pas trop pourquoi sur le
 coup.
 
@@ -1461,7 +1463,7 @@ trois personnes.
 annonça-t-il, en refermant le panier d'un coup sec. Elle a l'air de
 tenir beaucoup à ce que la fouille fasse bonne impression, aujourd'hui.
 
-— Elle a plutôt l'air inquiète, corrigea Souly, qui avait discrètement
+— Elle a plutôt l'air inquiète, nuança Souly, qui avait discrètement
 observé la paléontologue la veille au soir, allant et venant entre les
 tentes bien après que tout le monde soit rentré se coucher.
 
@@ -2406,7 +2408,7 @@ réunions, leva la main le premier.
 — On a vérifié les serrures de la remise ? demanda-t-il. Si quelqu'un
 est entré sans forcer, ça change beaucoup de choses.
 
-— Rien n'a été forcé, confirma Inès. Il n'y a que deux explications
+— Rien n'a été forcé, dit Inès. Il n'y a que deux explications
 possibles : quelqu'un avait un double des clés, ou quelqu'un
 connaissait suffisamment bien nos habitudes pour profiter d'un moment
 où la remise
@@ -3086,8 +3088,9 @@ démonter. On note juste les faits. C'est ce qu'on fait.
 — Quelle pointure, monsieur Vasseur ? demanda Sofia, sans lâcher prise.
 
 Un rire nerveux échappa à quelqu'un dans la petite foule, vite étouffé.
-Vasseur, pris au dépourvu par la simplicité même de la question,
-chercha visiblement une échappatoire, avant de se résoudre à répondre.
+Vasseur resta silencieux une seconde de trop, ses yeux balayant la
+foule comme s'il y cherchait une échappatoire, avant de se résoudre à
+répondre.
 
 — Quarante et un, dit-il, d'un ton qu'il voulait détaché. Comme des
 milliers d'autres hommes dans ce pays. Je ne vois pas où vous voulez
@@ -3106,8 +3109,9 @@ l'épicier, arrivé entre-temps, un panier de courses sous le bras et un
 sourire à peine dissimulé sous sa moustache. Moi, en trente ans, je
 n'ai vu personne s'habiller comme ça pour marcher dans la marne.
 
-Cette fois, tout le petit attroupement éclata d'un rire franc. Vasseur,
-sentant le vent tourner, tenta une dernière manœuvre.
+Cette fois, tout le petit attroupement éclata d'un rire franc. Le
+sourire commercial de Vasseur se craquela visiblement, et il tenta
+une dernière manœuvre.
 
 — Je trouve regrettable, dit-il, d'un ton légèrement plus sec, qu'on
 préfère interroger un homme d'affaires respectable plutôt qu'une
@@ -3156,18 +3160,6 @@ nous a un peu échappé.
 
 — Un peu, répéta Sofia, pas désolée pour un sou.
 
-Elsa, restée silencieuse pendant tout l'échange, s'approcha enfin des
-deux enfants, les yeux brillants.
-
-— Personne ne m'avait jamais défendue comme ça devant tout un village,
-dit-elle, la voix un peu tremblante. Merci.
-
-— On n'a fait que dire ce qu'on avait mesuré, dit Souly, mal à l'aise
-devant tant de gratitude. C'est vous qui aviez raison depuis le début.
-
-— C'est gentil de le formuler comme ça, dit Elsa. Mais on sait tous
-les deux que ça ne se serait jamais dit sans vous.
-
 Milo, qui avait suivi toute la scène en jubilant de plus en plus
 ouvertement, donna une claque amicale dans le dos de Souly, un peu
 trop forte, manquant de le faire trébucher sur une caisse.
@@ -3180,6 +3172,13 @@ rouges. Je compte tout court. C'est différent.
 
 — Un, deux, trois, imita Milo, hilare, avant d'esquiver de justesse le
 coup de coude que lui destinait Souly.
+
+— C'est même utile, parfois, dit Sofia, en défense de son frère.
+Personne ne remarque qu'on a menti quand on est occupé à écouter
+compter jusqu'à dix.
+
+— Merci pour ce vote de confiance, dit Souly, sombre, mais je crois
+que je vais m'en passer la prochaine fois.
 
 Inès, une fois la petite foule dispersée, prit les enfants à part,
 loin des oreilles indiscrètes.
@@ -3339,7 +3338,7 @@ livrer une camionnette blanche, il y a trois semaines.
 
 — Vasseur, dirent Sofia et Souly d'une seule voix.
 
-— Vasseur, confirma Milo, ravi de son effet. Le vendeur se souvenait de
+— Vasseur, répéta Milo, ravi de son effet. Le vendeur se souvenait de
 lui parce qu'il avait payé en liquide, ce que presque personne ne fait
 plus pour un achat pareil. Deux pelles, un rouleau de gaze de
 protection, et un gros pot de résine industrielle. Le genre qu'on
@@ -4071,10 +4070,9 @@ enveloppé encore à moitié sorti de son sac.
 — Ne bougez plus, cria Inès, en se levant, suivie de Tomas et des
 enfants. On vous a vu.
 
-Vasseur, pris totalement au dépourvu, hésita une fraction de seconde
-avant de tenter de refermer précipitamment le sac, ses gestes trahis
-par la lumière tremblante de la lampe et par l'urgence soudaine de sa
-respiration.
+Vasseur se figea une fraction de seconde avant de tenter de refermer
+précipitamment le sac, ses gestes trahis par la lumière tremblante de
+la lampe et par sa respiration devenue soudain audible.
 
 — Je... commença-t-il, avant de s'interrompre, incapable de trouver
 une explication qui tienne face à la scène qu'ils venaient tous de
@@ -4599,7 +4597,7 @@ convaincante.
 — Un puzzle avec des pièces qui ne viennent même pas de la même
 boîte, résuma Sofia, dégoûtée.
 
-— C'est exactement ça, confirma Inès. Et c'est justement pour ça
+— C'est exactement ça, dit Inès. Et c'est justement pour ça
 qu'un vrai fossile documenté, même modeste, vaudra toujours plus
 qu'un assemblage spectaculaire sans histoire vérifiable derrière.
 
@@ -4822,7 +4820,7 @@ une pluie.
 souvenant aussitôt de la toute première leçon, le premier matin sur
 le chantier. Chaque couche a sa propre chimie.
 
-— Le même principe, confirma Inès, à ceci près qu'ici, c'est une
+— Le même principe, dit Inès, à ceci près qu'ici, c'est une
 seule et même couche qui affleure juste sous la surface, à cet
 endroit précis du champ, et nulle part ailleurs sur des dizaines de
 mètres alentour. Ce n'est pas un hasard. C'est un vrai marqueur
@@ -5433,7 +5431,7 @@ choisir le nom provisoire du site, avant la publication officielle.
 
 — Et c'est nous ? demanda Sofia, les yeux ronds.
 
-— C'est vous, confirma Inès. Alors, « Roc-Rouge » tout court, ou vous
+— C'est vous, dit Inès. Alors, « Roc-Rouge » tout court, ou vous
 avez une meilleure idée ?
 
 Sofia et Souly se consultèrent à voix basse pendant un instant, avant

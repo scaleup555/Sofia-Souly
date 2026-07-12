@@ -241,7 +241,7 @@ choisir le nom provisoire du site, avant la publication officielle.
 
 — Et c'est nous ? demanda Sofia, les yeux ronds.
 
-— C'est vous, confirma Inès. Alors, « Roc-Rouge » tout court, ou vous
+— C'est vous, dit Inès. Alors, « Roc-Rouge » tout court, ou vous
 avez une meilleure idée ?
 
 Sofia et Souly se consultèrent à voix basse pendant un instant, avant

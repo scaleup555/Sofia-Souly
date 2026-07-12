@@ -58,7 +58,7 @@ par la concentration.
 — Celui-là est vraiment plus léger, dit-elle, surprise. On dirait presque
 du plastique.
 
-— C'est bien ça, en partie, confirma Inès. De la résine synthétique.
+— C'est bien ça, en partie, dit Inès. De la résine synthétique.
 Excellente pour l'enseignement. Catastrophique si quelqu'un essaie de
 la vendre comme une vraie découverte.
 
@@ -141,7 +141,7 @@ mélanger.
 
 — On dirait une horloge, dit-elle, fascinée.
 
-— C'en est une, en quelque sorte, confirma Inès. Une horloge qu'on ne
+— C'en est une, en quelque sorte, répondit Inès. Une horloge qu'on ne
 peut lire qu'une seule fois, dans le bon ordre. C'est pour ça que
 chaque carré, chaque centimètre de profondeur qu'on documente
 soigneusement vaut tellement plus qu'un fossile isolé, arraché sans
@@ -184,7 +184,7 @@ lentement, comparant leur surface centimètre par centimètre.
 — Celui-là est un peu plus foncé, dit-elle finalement, en désignant le
 second.
 
-— C'est ça, confirma Inès. Ils viennent de deux carrés différents,
+— C'est ça, dit Inès. Ils viennent de deux carrés différents,
 distants d'à peine trois mètres. La nature n'est jamais tout à fait
 uniforme. C'est ce qui la rend difficile à imiter parfaitement — un
 faussaire pressé, ou pas assez soigneux, oublie toujours ce détail-là.
@@ -277,8 +277,9 @@ reprendre son souffle.
 — Marion, la maire de Roc-Rouge, présenta Inès aux enfants, avant de se
 tourner vers la nouvelle venue. Qu'est-ce qu'il y a encore ?
 
-— Le conseil municipal veut absolument une belle annonce pour la fête de
-samedi prochain. Le tourisme du village est au plus bas, la subvention
+— Le conseil municipal veut absolument une belle annonce pour la Fête
+de la Pierre, dans une dizaine de jours. Le tourisme du village est au
+plus bas, la subvention
 régionale pour continuer la fouille l'an prochain dépend en partie de la
 visibilité qu'on obtient cette année. On a besoin d'une vraie découverte
 à présenter, Inès. Quelque chose qui fasse parler, quelque chose qui
