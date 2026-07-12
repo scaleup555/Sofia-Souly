@@ -119,9 +119,11 @@ tout en haut.
 — Chaque couleur représente une couche de terre différente, dit-elle,
 en faisant tourner le bocal entre ses mains pour que tout le monde
 puisse voir. Celle du fond, c'est la plus ancienne. Celle du dessus, la
-plus récente. Si je trouve un fossile ici — elle posa le doigt sur la
-bande rouge sombre, tout au fond — je sais qu'il est plus vieux qu'un
-fossile trouvé ici — son doigt remonta jusqu'à la bande beige.
+plus récente. Si je trouve un fossile ici, dit-elle en posant le doigt
+sur la bande rouge sombre, tout au fond, je sais qu'il est plus vieux
+qu'un fossile trouvé plus haut. Son doigt remonta jusqu'à la bande
+beige, presque au sommet du bocal. Celui-là, forcément, serait plus
+récent.
 
 — Et si quelqu'un mélangeait le bocal ? demanda Souly.
 
@@ -146,8 +148,8 @@ contexte à sa couche d'origine.
 
 ---
 
-Un jeune homme au fond de la tente, occupé à nettoyer des instruments
-dans une bassine, leva soudain la tête.
+Un jeune homme au fond de la tente, penché sur une bassine où il
+nettoyait des instruments, leva soudain la tête.
 
 — Ça arrive vraiment, ce genre de fraude ? demanda-t-il.
 
@@ -257,9 +259,9 @@ racines profondes typiques d'un climat bien plus arrosé.
 vallon aride par l'ouverture de la tente. Même les endroits qui
 paraissent immobiles.
 
-— Surtout les endroits qui paraissent immobiles, corrigea Léa, avec un
-sourire. Ils changent juste trop lentement pour qu'on le remarque de
-notre vivant.
+— Surtout les endroits qui paraissent immobiles, corrigea Léa, un
+sourire flottant sur ses lèvres. Ils changent juste trop lentement pour
+qu'on le remarque de notre vivant.
 
 ---
 
@@ -313,7 +315,7 @@ croire, un peu, que ce vallon a encore quelque
 chose à nous montrer. Vingt ans de fouilles, ça mérite peut-être un peu
 de foi, de temps en temps, en plus de la méthode.
 
-Inès resta silencieuse un instant, occupée à retourner un fragment
+Inès resta silencieuse un instant, tournant et retournant un fragment
 entre ses doigts sans vraiment le regarder.
 
 — Tu te souviens de mon premier été ici, Marion ? dit-elle finalement.
@@ -360,9 +362,10 @@ soudain préoccupée par un aspect de l'affaire auquel elle n'avait pas
 songé jusque-là.
 
 — Je crois surtout qu'Inès ne laissera jamais cette pression changer
-sa façon de travailler, dit Souly, d'un ton qui trahissait déjà une
-belle confiance en la paléontologue. Mais ça ne veut pas dire
-que tout le monde, autour d'elle, résistera aussi bien.
+sa façon de travailler, dit Souly, avec une confiance dans la
+paléontologue qu'il n'aurait pas su expliquer autrement que par
+l'instinct. Mais ça ne veut pas dire que tout le monde, autour d'elle,
+résistera aussi bien.
 
 — Tu penses à quelqu'un en particulier ?
 

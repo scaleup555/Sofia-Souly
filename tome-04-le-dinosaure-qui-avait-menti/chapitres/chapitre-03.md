@@ -1,10 +1,11 @@
 # Chapitre 3 — Milo
 
-Le chemin qui longeait le bord du vallon, côté est, traversait un champ
-d'oliviers appartenant à la famille Fabre depuis, disait-on au village,
-plus de temps que quiconque pouvait vraiment se rappeler. C'est là, assis
-sur un muret de pierres sèches, qu'un garçon d'à peu près l'âge de Souly
-les regarda approcher avec une méfiance qu'il ne cherchait pas
+Le lendemain matin, Sofia et Souly partirent explorer le chemin qui
+longeait le bord du vallon, côté est, à travers un champ d'oliviers
+appartenant à la famille Fabre depuis, disait-on au village, plus de
+temps que quiconque pouvait vraiment se rappeler. C'est là, assis sur un
+muret de pierres sèches, qu'un garçon d'à peu près l'âge de Souly les
+regarda approcher avec une méfiance qu'il ne cherchait pas
 particulièrement à dissimuler.
 
 — C'est chez moi, ici, dit-il, en guise de salut. Enfin, chez mon
@@ -31,7 +32,7 @@ entières passées à grimper dans les arbres et sur les rochers du champ.
 — Vous êtes les deux qui logent avec la Doctoresse Castellane, dit-il.
 J'ai entendu parler de vous, au marché.
 
-— Déjà ? s'étonna Sofia. On est arrivés hier.
+— Déjà ? s'étonna Sofia. On est arrivés avant-hier.
 
 — Ici, une nouvelle met moins de temps à circuler qu'un coup de vent,
 dit Milo, presque amusé malgré lui. On m'a dit que vous aviez trouvé un
@@ -440,11 +441,12 @@ propres calculs, jusqu'à ce que les premières tentes du chantier
 apparaissent, éclairées de l'intérieur par les lampes de travail de
 l'équipe qui finissait sa journée.
 
-— Première vraie journée d'enquête, dit Sofia, en apercevant enfin les
+— Deuxième vraie journée d'enquête, dit Sofia, en apercevant enfin les
 tentes. Et on a déjà un suspect, un mystère de rocher fendu, et une
 histoire de terre qui rougit.
 
-— Deuxième journée, corrigea Souly, en refermant son carnet pour de
-bon. On compte à partir d'hier, avec le fragment brun-rouge. Il faut
-toujours compter depuis le tout premier indice, sinon on fausse toute
-la chronologie de l'enquête.
+— Troisième journée en tout, corrigea Souly, en refermant son carnet
+pour de bon. On compte depuis le premier jour, avec le fragment
+brun-rouge, pas seulement depuis qu'on a commencé à vraiment enquêter.
+Il faut toujours compter depuis le tout premier indice, sinon on fausse
+toute la chronologie de l'enquête.

@@ -135,8 +135,9 @@ plus quelle histoire de volcan, ajouta Inès, un sourcil levé. Je
 commence à me demander si passer des vacances avec vous deux n'est pas
 plus dangereux que de fouiller une couche instable.
 
-— On n'a jamais rien cherché, se défendit Sofia, la main sur le cœur.
-C'est toujours les histoires qui nous trouvent, nous.
+— On n'a jamais rien cherché, se défendit Sofia, l'air aussi offensé que
+si on venait de l'accuser d'avoir volé un fossile. C'est toujours les
+histoires qui nous trouvent, nous.
 
 — On verra bien si celle-ci fait exception, dit Inès, un sourire en coin
 qui n'annonçait, à cet instant précis, absolument rien de particulier.
@@ -189,7 +190,8 @@ on le note : profondeur, position exacte, orientation. Un fossile sans
 ces informations perd presque toute sa valeur scientifique, même s'il
 reste joli à regarder.
 
-— Pourquoi ? demanda Souly, son carnet déjà couvert de notes.
+— Pourquoi ? demanda Souly, qui griffonnait déjà la question avant même
+d'avoir entendu la réponse.
 
 — Parce que la position raconte une histoire, dit Inès. Un os retrouvé
 seul, ce n'est qu'un os. Le même os retrouvé à côté de trois autres, à la
@@ -262,8 +264,9 @@ mène en général droit vers les ennuis.
 — Vous avez déjà vu des ennuis, justement ? demanda Souly, toujours
 prêt à recueillir une bonne histoire.
 
-Jean et Odile échangèrent un regard, le genre de regard qui précède
-généralement une anecdote racontée plus d'une fois.
+Jean et Odile se consultèrent du coin de l'œil, avec la lenteur
+particulière de deux personnes qui s'apprêtent à raconter, une fois de
+plus, la même histoire.
 
 — Il y a une dizaine d'années, sur un autre chantier, pas très loin
 d'ici, dit Odile, en baissant un peu la voix. Toute une équipe avait
@@ -279,7 +282,8 @@ recollés ensemble pour faire un squelette plus impressionnant qu'il ne
 l'était vraiment. Le responsable du chantier a perdu son poste. Toute
 sa carrière, envolée en une seule mauvaise annonce.
 
-— Il avait fait exprès ? demanda Souly, son carnet déjà ressorti.
+— Il avait fait exprès ? demanda Souly, qui avait ressorti son carnet dès
+les premiers mots de l'histoire.
 
 — Ça, personne ne l'a jamais vraiment su avec certitude, dit Odile. Il
 a toujours juré que c'était une erreur d'assemblage honnête, pas une
@@ -403,7 +407,7 @@ la moindre hésitation, la bouche déjà pleine.
 carnet couvert de croquis de la journée. Mais ça
 commence très, très bien.
 
-Théo échangea un regard amusé avec Inès, qui venait de les rejoindre
+Théo jeta un coup d'œil amusé vers Inès, qui venait de les rejoindre
 pour le dîner, un plateau de fromages sous le bras.
 
 — Je vous préviens tout de suite, dit-elle, en s'installant. La semaine
@@ -413,8 +417,9 @@ façon ou d'une autre.
 
 — Quoi, comme grande chose ? demanda Sofia.
 
-— Vous le saurez bien assez tôt, dit Inès, sans en révéler davantage,
-occupée déjà à couper le fromage en parts égales pour tout le monde.
+— Vous le saurez bien assez tôt, dit Inès, sans en révéler davantage, et
+elle se mit à couper le fromage en parts égales pour tout le monde comme
+si la question n'avait jamais été posée.
 
 — Elle fait toujours ça, confia Théo aux enfants, à voix basse mais pas
 assez pour qu'Inès ne l'entende pas. Distiller l'information comme une
@@ -614,9 +619,11 @@ tout en haut.
 — Chaque couleur représente une couche de terre différente, dit-elle,
 en faisant tourner le bocal entre ses mains pour que tout le monde
 puisse voir. Celle du fond, c'est la plus ancienne. Celle du dessus, la
-plus récente. Si je trouve un fossile ici — elle posa le doigt sur la
-bande rouge sombre, tout au fond — je sais qu'il est plus vieux qu'un
-fossile trouvé ici — son doigt remonta jusqu'à la bande beige.
+plus récente. Si je trouve un fossile ici, dit-elle en posant le doigt
+sur la bande rouge sombre, tout au fond, je sais qu'il est plus vieux
+qu'un fossile trouvé plus haut. Son doigt remonta jusqu'à la bande
+beige, presque au sommet du bocal. Celui-là, forcément, serait plus
+récent.
 
 — Et si quelqu'un mélangeait le bocal ? demanda Souly.
 
@@ -641,8 +648,8 @@ contexte à sa couche d'origine.
 
 ---
 
-Un jeune homme au fond de la tente, occupé à nettoyer des instruments
-dans une bassine, leva soudain la tête.
+Un jeune homme au fond de la tente, penché sur une bassine où il
+nettoyait des instruments, leva soudain la tête.
 
 — Ça arrive vraiment, ce genre de fraude ? demanda-t-il.
 
@@ -752,9 +759,9 @@ racines profondes typiques d'un climat bien plus arrosé.
 vallon aride par l'ouverture de la tente. Même les endroits qui
 paraissent immobiles.
 
-— Surtout les endroits qui paraissent immobiles, corrigea Léa, avec un
-sourire. Ils changent juste trop lentement pour qu'on le remarque de
-notre vivant.
+— Surtout les endroits qui paraissent immobiles, corrigea Léa, un
+sourire flottant sur ses lèvres. Ils changent juste trop lentement pour
+qu'on le remarque de notre vivant.
 
 ---
 
@@ -808,7 +815,7 @@ croire, un peu, que ce vallon a encore quelque
 chose à nous montrer. Vingt ans de fouilles, ça mérite peut-être un peu
 de foi, de temps en temps, en plus de la méthode.
 
-Inès resta silencieuse un instant, occupée à retourner un fragment
+Inès resta silencieuse un instant, tournant et retournant un fragment
 entre ses doigts sans vraiment le regarder.
 
 — Tu te souviens de mon premier été ici, Marion ? dit-elle finalement.
@@ -855,9 +862,10 @@ soudain préoccupée par un aspect de l'affaire auquel elle n'avait pas
 songé jusque-là.
 
 — Je crois surtout qu'Inès ne laissera jamais cette pression changer
-sa façon de travailler, dit Souly, d'un ton qui trahissait déjà une
-belle confiance en la paléontologue. Mais ça ne veut pas dire
-que tout le monde, autour d'elle, résistera aussi bien.
+sa façon de travailler, dit Souly, avec une confiance dans la
+paléontologue qu'il n'aurait pas su expliquer autrement que par
+l'instinct. Mais ça ne veut pas dire que tout le monde, autour d'elle,
+résistera aussi bien.
 
 — Tu penses à quelqu'un en particulier ?
 
@@ -979,11 +987,12 @@ pensait.
 
 # Chapitre 3 — Milo
 
-Le chemin qui longeait le bord du vallon, côté est, traversait un champ
-d'oliviers appartenant à la famille Fabre depuis, disait-on au village,
-plus de temps que quiconque pouvait vraiment se rappeler. C'est là, assis
-sur un muret de pierres sèches, qu'un garçon d'à peu près l'âge de Souly
-les regarda approcher avec une méfiance qu'il ne cherchait pas
+Le lendemain matin, Sofia et Souly partirent explorer le chemin qui
+longeait le bord du vallon, côté est, à travers un champ d'oliviers
+appartenant à la famille Fabre depuis, disait-on au village, plus de
+temps que quiconque pouvait vraiment se rappeler. C'est là, assis sur un
+muret de pierres sèches, qu'un garçon d'à peu près l'âge de Souly les
+regarda approcher avec une méfiance qu'il ne cherchait pas
 particulièrement à dissimuler.
 
 — C'est chez moi, ici, dit-il, en guise de salut. Enfin, chez mon
@@ -1010,7 +1019,7 @@ entières passées à grimper dans les arbres et sur les rochers du champ.
 — Vous êtes les deux qui logent avec la Doctoresse Castellane, dit-il.
 J'ai entendu parler de vous, au marché.
 
-— Déjà ? s'étonna Sofia. On est arrivés hier.
+— Déjà ? s'étonna Sofia. On est arrivés avant-hier.
 
 — Ici, une nouvelle met moins de temps à circuler qu'un coup de vent,
 dit Milo, presque amusé malgré lui. On m'a dit que vous aviez trouvé un
@@ -1419,14 +1428,15 @@ propres calculs, jusqu'à ce que les premières tentes du chantier
 apparaissent, éclairées de l'intérieur par les lampes de travail de
 l'équipe qui finissait sa journée.
 
-— Première vraie journée d'enquête, dit Sofia, en apercevant enfin les
+— Deuxième vraie journée d'enquête, dit Sofia, en apercevant enfin les
 tentes. Et on a déjà un suspect, un mystère de rocher fendu, et une
 histoire de terre qui rougit.
 
-— Deuxième journée, corrigea Souly, en refermant son carnet pour de
-bon. On compte à partir d'hier, avec le fragment brun-rouge. Il faut
-toujours compter depuis le tout premier indice, sinon on fausse toute
-la chronologie de l'enquête.
+— Troisième journée en tout, corrigea Souly, en refermant son carnet
+pour de bon. On compte depuis le premier jour, avec le fragment
+brun-rouge, pas seulement depuis qu'on a commencé à vraiment enquêter.
+Il faut toujours compter depuis le tout premier indice, sinon on fausse
+toute la chronologie de l'enquête.
 
 
 # Chapitre 4 — La Foire aux Vieilles Pierres et la mésaventure du treuil
@@ -2448,10 +2458,9 @@ sommeil.
 directement à Inès. Ça ne va pas arranger l'ambiance avant samedi, si
 les gens commencent à se méfier de toute l'équipe.
 
-— Les rumeurs ne sont pas des preuves, Marion, dit Inès, d'un ton qui
-ne laissait aucune place à la discussion. Et je ne vais certainement
-pas sacrifier une stagiaire innocente pour calmer des inquiétudes mal
-placées.
+— Les rumeurs ne sont pas des preuves, Marion, trancha Inès, sans la
+moindre hésitation. Et je ne vais certainement pas sacrifier une
+stagiaire innocente pour calmer des inquiétudes mal placées.
 
 — Je ne te demande pas de la sacrifier, dit Marion, un peu piquée. Je
 te demande juste de faire attention. Les gens sont nerveux, en ce
@@ -2718,7 +2727,9 @@ Elle raccrocha et se tourna vers les enfants, qui n'avaient pas bougé.
 a lui-même suggéré le changement à Marion, ce matin. Officiellement,
 pour laisser plus de temps à la fête ensuite.
 
-Sofia et Souly échangèrent un regard qui n'avait plus rien d'incertain.
+Sofia et Souly se regardèrent, et pour la première fois depuis le début
+de la semaine, ni l'un ni l'autre n'eut besoin de dire à voix haute ce
+qu'ils pensaient tous les deux.
 
 — Il vient de nous voler une demi-journée sans même s'en rendre compte,
 dit Sofia. Et je crois qu'il vient aussi de nous dire, sans le savoir,
@@ -2802,3 +2813,5 @@ mystérieux resta là, seul dans l'obscurité de la tente fermée, sa gaze
 protectrice immobile, gardant son secret pour quelques jours encore —
 jusqu'à ce que quelqu'un, dans les règles cette fois, se décide enfin à
 l'ouvrir devant témoins.
+
+

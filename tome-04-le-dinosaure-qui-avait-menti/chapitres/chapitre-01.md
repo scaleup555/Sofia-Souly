@@ -135,8 +135,9 @@ plus quelle histoire de volcan, ajouta Inès, un sourcil levé. Je
 commence à me demander si passer des vacances avec vous deux n'est pas
 plus dangereux que de fouiller une couche instable.
 
-— On n'a jamais rien cherché, se défendit Sofia, la main sur le cœur.
-C'est toujours les histoires qui nous trouvent, nous.
+— On n'a jamais rien cherché, se défendit Sofia, l'air aussi offensé que
+si on venait de l'accuser d'avoir volé un fossile. C'est toujours les
+histoires qui nous trouvent, nous.
 
 — On verra bien si celle-ci fait exception, dit Inès, un sourire en coin
 qui n'annonçait, à cet instant précis, absolument rien de particulier.
@@ -189,7 +190,8 @@ on le note : profondeur, position exacte, orientation. Un fossile sans
 ces informations perd presque toute sa valeur scientifique, même s'il
 reste joli à regarder.
 
-— Pourquoi ? demanda Souly, son carnet déjà couvert de notes.
+— Pourquoi ? demanda Souly, qui griffonnait déjà la question avant même
+d'avoir entendu la réponse.
 
 — Parce que la position raconte une histoire, dit Inès. Un os retrouvé
 seul, ce n'est qu'un os. Le même os retrouvé à côté de trois autres, à la
@@ -262,8 +264,9 @@ mène en général droit vers les ennuis.
 — Vous avez déjà vu des ennuis, justement ? demanda Souly, toujours
 prêt à recueillir une bonne histoire.
 
-Jean et Odile échangèrent un regard, le genre de regard qui précède
-généralement une anecdote racontée plus d'une fois.
+Jean et Odile se consultèrent du coin de l'œil, avec la lenteur
+particulière de deux personnes qui s'apprêtent à raconter, une fois de
+plus, la même histoire.
 
 — Il y a une dizaine d'années, sur un autre chantier, pas très loin
 d'ici, dit Odile, en baissant un peu la voix. Toute une équipe avait
@@ -279,7 +282,8 @@ recollés ensemble pour faire un squelette plus impressionnant qu'il ne
 l'était vraiment. Le responsable du chantier a perdu son poste. Toute
 sa carrière, envolée en une seule mauvaise annonce.
 
-— Il avait fait exprès ? demanda Souly, son carnet déjà ressorti.
+— Il avait fait exprès ? demanda Souly, qui avait ressorti son carnet dès
+les premiers mots de l'histoire.
 
 — Ça, personne ne l'a jamais vraiment su avec certitude, dit Odile. Il
 a toujours juré que c'était une erreur d'assemblage honnête, pas une
@@ -403,7 +407,7 @@ la moindre hésitation, la bouche déjà pleine.
 carnet couvert de croquis de la journée. Mais ça
 commence très, très bien.
 
-Théo échangea un regard amusé avec Inès, qui venait de les rejoindre
+Théo jeta un coup d'œil amusé vers Inès, qui venait de les rejoindre
 pour le dîner, un plateau de fromages sous le bras.
 
 — Je vous préviens tout de suite, dit-elle, en s'installant. La semaine
@@ -413,8 +417,9 @@ façon ou d'une autre.
 
 — Quoi, comme grande chose ? demanda Sofia.
 
-— Vous le saurez bien assez tôt, dit Inès, sans en révéler davantage,
-occupée déjà à couper le fromage en parts égales pour tout le monde.
+— Vous le saurez bien assez tôt, dit Inès, sans en révéler davantage, et
+elle se mit à couper le fromage en parts égales pour tout le monde comme
+si la question n'avait jamais été posée.
 
 — Elle fait toujours ça, confia Théo aux enfants, à voix basse mais pas
 assez pour qu'Inès ne l'entende pas. Distiller l'information comme une

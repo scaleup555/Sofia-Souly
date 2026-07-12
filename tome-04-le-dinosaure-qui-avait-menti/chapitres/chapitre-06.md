@@ -96,10 +96,9 @@ sommeil.
 directement à Inès. Ça ne va pas arranger l'ambiance avant samedi, si
 les gens commencent à se méfier de toute l'équipe.
 
-— Les rumeurs ne sont pas des preuves, Marion, dit Inès, d'un ton qui
-ne laissait aucune place à la discussion. Et je ne vais certainement
-pas sacrifier une stagiaire innocente pour calmer des inquiétudes mal
-placées.
+— Les rumeurs ne sont pas des preuves, Marion, trancha Inès, sans la
+moindre hésitation. Et je ne vais certainement pas sacrifier une
+stagiaire innocente pour calmer des inquiétudes mal placées.
 
 — Je ne te demande pas de la sacrifier, dit Marion, un peu piquée. Je
 te demande juste de faire attention. Les gens sont nerveux, en ce
@@ -366,7 +365,9 @@ Elle raccrocha et se tourna vers les enfants, qui n'avaient pas bougé.
 a lui-même suggéré le changement à Marion, ce matin. Officiellement,
 pour laisser plus de temps à la fête ensuite.
 
-Sofia et Souly échangèrent un regard qui n'avait plus rien d'incertain.
+Sofia et Souly se regardèrent, et pour la première fois depuis le début
+de la semaine, ni l'un ni l'autre n'eut besoin de dire à voix haute ce
+qu'ils pensaient tous les deux.
 
 — Il vient de nous voler une demi-journée sans même s'en rendre compte,
 dit Sofia. Et je crois qu'il vient aussi de nous dire, sans le savoir,
