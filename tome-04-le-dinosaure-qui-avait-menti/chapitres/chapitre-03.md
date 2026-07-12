@@ -18,7 +18,7 @@ vous aussi ?
 
 — Des fossiles, corrigea Sofia, du tac au tac. C'est pas pareil.
 
-Milo eut un petit rire sec, sans grande joie dedans.
+Milo eut un petit rire sec, plus amer qu'amusé.
 
 — Ça, tout le monde le sait, dans le coin, dit-il. Sauf que ça n'a pas
 toujours été le cas.
@@ -51,7 +51,29 @@ deux, dit Milo, sa méfiance de tout à l'heure visiblement retombée.
 
 Il finit par accepter, après un long silence hésitant, de leur montrer le
 reste du champ, où des rangées d'oliviers argentés descendaient en
-pente douce vers le fond rouge du vallon.
+pente douce vers le fond rouge du vallon. En chemin, il s'arrêta net
+devant un vieil olivier tordu, grimpa dessus avec une agilité
+déconcertante, et redescendit une poignée de petites olives encore
+vertes qu'il tendit aux enfants sans autre explication.
+
+— Elles sont amères, prévint-il, un sourire en coin. Personne ne les
+mange comme ça, jamais. Faut les laisser tremper des semaines dans la
+saumure avant qu'elles soient bonnes. Papet dit que c'est exactement
+pareil pour la confiance : ça ne se cueille jamais tout de suite.
+
+Sofia mordit quand même dans la sienne, par pure curiosité, et fit une
+grimace si spectaculaire que Milo éclata d'un rire franc, le premier
+depuis leur rencontre.
+
+— Je t'avais prévenue, dit-il, avec une satisfaction non dissimulée.
+
+— C'est vraiment, vraiment amer, confirma Sofia, en recrachant
+discrètement dans sa paume. Mais bon à savoir.
+
+— La plupart des visiteurs me croient sur parole, dit Milo, encore
+amusé. Toi, apparemment, il faut te laisser vérifier par toi-même.
+
+— Toujours, confirma Sofia, sans la moindre gêne.
 
 — Mon grand-père trouvait des trucs, ici, dit-il, en donnant un coup de
 pied distrait dans une pierre du chemin. Quand il était petit. Des bouts
@@ -103,6 +125,51 @@ gorgées.
 village, à l'usine d'embouteillage, deux vallées plus loin. Alors c'est
 elle et Papet qui s'occupent des terres, la plupart du temps.
 
+Assis sur le muret devant la maison, à l'ombre du figuier, Milo leur
+montra du doigt les limites de leurs terres, un vaste triangle
+d'oliviers et de vignes basses descendant jusqu'au bord du vallon.
+
+— Tout ça, c'est à nous depuis mon arrière-arrière-grand-père, dit-il,
+avec une fierté tranquille qui contrastait nettement avec sa méfiance
+du début. On a jamais rien vendu, même dans les mauvaises années. Papet
+dit toujours que la terre, une fois vendue, elle ne revient jamais.
+
+— Même à Vasseur ? demanda Souly, qui avait remarqué que la
+camionnette blanche croisée plus tôt semblait rôder précisément dans
+cette direction du vallon.
+
+— Surtout pas à lui, dit Milo, avec une grimace de dégoût qui répondait
+mieux qu'aucun mot. Il est venu proposer un prix, l'an dernier. Papet
+l'a raccompagné jusqu'à sa voiture sans dire un mot de tout le trajet.
+Ça, à Roc-Rouge, c'est à peu près la pire insulte qu'on puisse faire à
+quelqu'un.
+
+La mère de Milo, qui avait fini d'étendre son linge et s'était
+approchée sans bruit pendant la conversation, s'assit sur le muret à
+côté d'eux, une expression pensive sur le visage.
+
+— Il avait proposé trois fois le prix du marché, dit-elle, en repliant
+un torchon sur ses genoux. Je m'en souviens très bien, c'était juste
+après la récolte. Papet n'a même pas discuté le chiffre. Il a juste
+dit : « Cette terre n'est pas à vendre, et elle ne le sera jamais tant
+que je respire encore. »
+
+— Trois fois le prix, répéta Souly, en notant le chiffre. C'est
+énorme, pour un terrain agricole.
+
+— C'est ce qui m'a le plus étonnée, dit la mère de Milo. Un
+collectionneur de cailloux, aussi passionné soit-il, n'a normalement
+pas ce genre de moyens. J'ai demandé à Papet ce qu'il en pensait, il
+m'a juste répondu que certaines personnes trouvaient toujours l'argent
+quand elles voulaient vraiment quelque chose.
+
+— Vous croyez qu'il voulait la terre elle-même, ou ce qu'il y a
+dessous ? demanda Sofia.
+
+— Je ne sais pas, dit-elle, en haussant les épaules. Mais s'il avait
+juste voulu profiter de la vue, il y a des coins bien plus jolis dans
+la vallée, et bien moins chers.
+
 ---
 
 Ils marchèrent un moment en silence, Milo un peu moins raide qu'au début,
@@ -125,6 +192,13 @@ histoire de grand-mère plus qu'une vraie observation.
 — Aucune idée, dit Milo, en haussant les épaules. Personne n'a jamais
 vraiment cherché à comprendre. C'est juste ce qu'on raconte, depuis
 toujours, dans la famille.
+
+— Vous avez toujours des « pierres-œufs » chez vous ? demanda Sofia,
+qui n'avait pas pu retenir la question plus longtemps.
+
+— Une ou deux, dit Milo, un peu gêné. Papet en garde une dans un tiroir
+de sa commode, enveloppée dans un vieux mouchoir. Il dit que c'est la
+première qu'il a trouvée. Il ne la montre presque jamais.
 
 Une silhouette apparut au sommet du sentier, un homme âgé au dos
 légèrement voûté, un chapeau de paille élimé enfoncé jusqu'aux
@@ -167,6 +241,24 @@ comme du sang séché. Et c'est là, systématiquement, qu'on retrouve le
 plus de coquilles. Ça ne fait pas de moi un scientifique. Mais ça fait
 de moi quelqu'un qui a regardé, longtemps, au même endroit.
 
+— Il y a eu une année, en particulier, dit-il, les yeux plissés par le
+souvenir, où l'orage est tombé trois nuits de suite, en plein été.
+J'avais peur pour les oliviers, pour tout le reste. Mais le matin
+suivant, la terre sous ce rocher était rouge comme je ne l'avais jamais
+vue. On a trouvé plus de coquilles cette année-là que pendant les dix
+précédentes réunies. Ma mère disait toujours que le lagon — enfin,
+c'était son mot à elle pour désigner ce coin du champ — se réveillait
+d'un coup, certaines années, plus que d'autres.
+
+— Vous pourriez me montrer ce carnet de mémoire un jour ? demanda
+Souly, presque avec révérence. Toutes ces années d'observations,
+même sans mesure précise, ça vaut vraiment quelque chose.
+
+Papet Fabre le regarda un long moment, une expression indéchiffrable
+sur son visage buriné.
+
+— Personne ne m'a jamais demandé ça, dit-il finalement. On verra.
+
 Il tapota le rocher une dernière fois, comme on salue un vieil ami,
 avant de reprendre son chemin vers le bas du champ.
 
@@ -183,12 +275,46 @@ mot « rougit » deux fois, puis ajouta, en dessous, une ligne qu'il
 souligna avec la même application : *soixante ans d'observation ne sont
 pas rien, même sans microscope.*
 
-— C'est exactement le genre de détail qu'un vrai scientifique devrait
-vérifier plutôt que de juste ignorer, dit-il, pensif.
+— C'est exactement ce qu'un vrai scientifique devrait vérifier plutôt
+que de juste ignorer, dit-il, pensif.
 
 — Essaie de le dire à ceux qui se sont moqués de mon grand-père, dit
 Milo, une amertume dans la voix que les années n'avaient pas adoucie
 d'un pouce.
+
+Il fouilla dans la poche arrière de son short et en sortit un morceau
+de papier journal, jauni et plié en quatre depuis si longtemps que les
+plis menaçaient de se déchirer.
+
+— Tenez, regardez ça, dit-il, en le dépliant avec un soin presque
+religieux. Papet le garde dans le tiroir de la cuisine. Je l'ai pris ce
+matin, avant que vous arriviez, je savais pas trop pourquoi sur le
+coup.
+
+Sofia se pencha sur l'article, un entrefilet de quelques lignes datant
+de plusieurs décennies, accompagné d'une photo en noir et blanc d'un
+homme plus jeune tenant fièrement un fragment devant l'objectif.
+
+— « Un fermier de Roc-Rouge affirme avoir découvert des œufs de
+dinosaure », lut Souly à voix haute. « Selon un expert consulté par
+notre rédaction, il s'agit très probablement de simples concrétions
+naturelles sans intérêt scientifique. »
+
+— Ils ont même pas donné le nom de l'expert, remarqua Milo, la mâchoire
+serrée. Juste « un expert consulté ». Personne n'a jamais pu vérifier
+qui c'était, ni s'il avait vraiment regardé les pierres de près, ou
+juste écouté quelqu'un d'autre lui raconter l'histoire au téléphone.
+
+— Ça, c'est exactement ce qui devrait déranger n'importe qui d'un peu
+rigoureux, dit Souly, en examinant l'article de plus près.
+Une affirmation sans nom, sans méthode expliquée, ce n'est pas de la
+science. C'est juste une opinion qu'on a habillée pour qu'elle en ait
+l'air.
+
+— Essaie de dire ça aux gens du village qui s'en souviennent encore,
+dit Milo, en repliant soigneusement l'article pour le remettre dans sa
+poche. Une fois qu'un journal a écrit un truc, tout le monde préfère
+y croire plutôt que de vérifier par eux-mêmes.
 
 ---
 
@@ -247,6 +373,27 @@ prépare autre chose.
 salir les mains ? demanda Sofia, à personne en particulier — et personne,
 sur le chemin poussiéreux, n'eut de réponse à lui offrir.
 
+Le chien roux de Milo, resté silencieux pendant toute la rencontre,
+laissa échapper un grognement bas en direction du nuage de poussière
+que soulevait encore la camionnette au loin.
+
+— Même lui, il l'aime pas, remarqua Milo, en flattant la tête de
+l'animal. Et d'habitude, il aime tout le monde, ce chien-là. Même le
+facteur, qui pourtant lui a marché sur la queue deux fois cet été.
+
+— Les chiens se trompent jamais, dit Sofia, avec le sérieux absolu
+qu'elle réservait toujours à ce genre d'affirmation.
+
+— Les chiens réagissent à des odeurs et à des habitudes, corrigea
+Souly, sans se laisser convaincre trop vite. Pas forcément à une
+intention cachée. Mais je note quand même l'observation.
+
+— Tu notes tout, remarqua Milo, à moitié amusé, à moitié impressionné.
+
+— C'est souvent la seule différence entre se souvenir de quelque chose
+d'important et l'oublier complètement, dit Souly, sans lever les yeux
+de son carnet.
+
 Milo les raccompagna jusqu'à la limite de son champ, là où le muret de
 pierres sèches cédait la place au sentier public menant au chantier,
 son chien roux trottinant devant eux comme s'il connaissait déjà le
@@ -272,3 +419,31 @@ rougit ?
 — Je crois qu'on n'a aucune raison de penser le contraire, dit Souly,
 après réflexion. Et beaucoup de raisons de vouloir vérifier par
 nous-mêmes, dès qu'il pleuvra vraiment.
+
+— Et pour Vasseur ? Tu crois qu'il essaie encore d'acheter les terres
+des Fabre ?
+
+— Je crois surtout, dit Souly, en s'arrêtant un instant pour regarder
+le vallon s'étendre devant eux dans la lumière déclinante, qu'un homme
+qui a déjà essayé d'acheter un terrain refusé, et qui traîne
+maintenant tout autour sans jamais y toucher, a peut-être trouvé un
+autre moyen d'obtenir ce qu'il veut.
+
+— Genre quoi ?
+
+— Aucune idée, admit Souly. Mais je parie que ça a un rapport avec ce
+« sera prêt pour samedi ».
+
+Ils marchèrent le reste du chemin en silence, chacun perdu dans ses
+propres calculs, jusqu'à ce que les premières tentes du chantier
+apparaissent, éclairées de l'intérieur par les lampes de travail de
+l'équipe qui finissait sa journée.
+
+— Première vraie journée d'enquête, dit Sofia, en apercevant enfin les
+tentes. Et on a déjà un suspect, un mystère de rocher fendu, et une
+histoire de terre qui rougit.
+
+— Deuxième journée, corrigea Souly, en refermant son carnet pour de
+bon. On compte à partir d'hier, avec le fragment brun-rouge. Il faut
+toujours compter depuis le tout premier indice, sinon on fausse toute
+la chronologie de l'enquête.

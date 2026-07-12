@@ -17,6 +17,12 @@ tenir beaucoup à ce que la fouille fasse bonne impression, aujourd'hui.
 observé la paléontologue la veille au soir, allant et venant entre les
 tentes bien après que tout le monde soit rentré se coucher.
 
+— Inquiète de quoi ? demanda Sofia, la bouche encore pleine de
+chocolat chaud.
+
+— Aucune idée, admit Souly. Mais une paléontologue qui n'arrive pas à
+dormir la veille d'une simple foire de village, ça mérite d'être noté.
+
 La Foire aux Vieilles Pierres, organisée chaque année pour célébrer le
 patrimoine géologique du village et lancer la semaine qui menait à la
 grande Fête de la Pierre du samedi suivant, prit cette année-là une
@@ -79,6 +85,70 @@ personne ne peut prétendre qu'elles ne sont pas vraies.
 Sofia éclata de rire, un rire si soudain et si franc que plusieurs
 têtes se tournèrent brièvement vers elle.
 
+Un peu plus loin, près du stand de l'école, Elsa avait installé un
+petit bac de sable où une dizaine d'enfants du village s'agitaient
+avec des pinceaux et de fausses répliques de fossiles, sous sa
+surveillance attentive et patiente.
+
+— Doucement, doucement, disait-elle à une fillette qui s'acharnait un
+peu trop vigoureusement sur une réplique en plâtre. Un vrai
+paléontologue ne se presse jamais. On dégage millimètre par
+millimètre, sinon on risque d'abîmer ce qu'on cherche à sauver.
+
+— C'est vous qui avez eu l'idée du bac à fouilles ? demanda Sofia, en
+s'approchant.
+
+— Marion me l'a proposé la semaine dernière, dit Elsa, sans quitter des
+yeux ses jeunes fouilleurs. J'ai dit oui tout de suite. C'est exactement
+comme ça que j'ai découvert ce métier, moi aussi, à leur âge, dans un
+bac à sable pas très différent de celui-là.
+
+— Vous restez là toute la journée ? demanda Souly.
+
+— Toute la journée, confirma Elsa, en aidant un petit garçon à
+redresser son pinceau. Marion voulait quelqu'un de fiable pour
+surveiller les enfants sans interruption. Je crois que c'est la
+première fois qu'on me confie une vraie responsabilité, ici. Je ne
+vais sûrement pas la laisser filer pour aller me promener ailleurs.
+
+Elle se pencha vers une petite fille qui venait de dégager, non sans
+fierté, une réplique de dent fossilisée.
+
+— Regardez ça, une découverte magnifique, dit-elle, avec un
+enthousiasme qui n'avait rien de feint. Vous voyez, on peut être
+rigoureux et s'amuser en même temps. C'est même comme ça que ça
+marche le mieux.
+
+Ils poursuivirent leur tour de la place jusqu'au stand de la mairie,
+où Marion, en pleine effervescence, coordonnait une demi-douzaine de
+bénévoles en même temps, un talkie-walkie grésillant accroché à sa
+ceinture.
+
+— Tout va bien se passer, répétait-elle, davantage pour elle-même que
+pour quiconque autour d'elle. Tout va très bien se passer.
+
+En apercevant les enfants, elle s'interrompit une seconde, un sourire
+un peu crispé remplaçant son air affairé.
+
+— Alors, cette foire vous plaît ? demanda-t-elle.
+
+— Beaucoup, dit Sofia. Mais on a une question. C'est quoi, exactement,
+qui va se passer samedi, à la Fête de la Pierre ?
+
+— Une grande présentation publique, dit Marion, en jetant un œil rapide
+vers l'estrade encore vide. Inès doit annoncer les résultats de la
+saison de fouilles devant tout le village, les journalistes régionaux,
+peut-être même une chaîne de télévision locale si on a de la chance.
+C'est notre unique chance de vraiment relancer l'intérêt pour le site.
+
+— Et si elle n'a rien à annoncer ? demanda Souly.
+
+Marion ne répondit pas tout de suite, ses doigts pianotant
+nerveusement sur son talkie-walkie.
+
+— Alors on improvisera, dit-elle enfin, avant de s'éclipser vers un
+stand de fanions qui menaçait de s'effondrer sous le vent.
+
 ---
 
 L'attraction centrale de la foire, organisée à quinze heures précises,
@@ -87,6 +157,20 @@ semaines auparavant, un gros bloc de marne contenant plusieurs fossiles
 prometteurs, trop lourd pour être manipulé à la main, et Inès avait
 accepté, sur l'insistance de Marion, d'en faire une opération publique
 pour remonter le bloc jusqu'au village.
+
+La foule s'était massée en nombre autour de la tranchée aménagée pour
+l'occasion, plus dense que Sofia et Souly ne l'auraient imaginé pour un
+village aussi petit : des familles entières, des touristes de passage
+attirés par les banderoles, et jusqu'au maître d'école, reconnaissable
+à sa chemise à carreaux, qui avait amené sa classe entière pour
+l'occasion.
+
+— Toute cette agitation pour un bloc de pierre, remarqua Souly, un peu
+impressionné malgré lui par l'ampleur de l'événement.
+
+— Toute cette agitation pour l'espoir de ce qu'il y a peut-être dedans,
+corrigea Sofia, en désignant les regards fixés sur la tranchée. C'est
+pas pareil.
 
 — On a besoin d'un volontaire pour actionner le treuil, annonça Tomas, le
 jeune assistant, un large sourire aux lèvres. Rien de dangereux, juste
@@ -146,6 +230,36 @@ en avait justement besoin d'une nouvelle, cette année.
 
 — Génial, dit Souly, en époussetant sa chemise couverte de poussière
 rouge. J'adore déjà ce club.
+
+Le maître d'école, qui avait suivi toute la scène au premier rang,
+applaudit à son tour, imité par sa classe entière, ravie de ce
+spectacle imprévu bien plus mémorable que n'importe quelle sortie
+scolaire habituelle.
+
+— On se souviendra de cette foire, cria un des élèves, hilare, en
+levant les bras vers le ciel poussiéreux.
+
+— On s'en souviendra tous, marmonna Souly, en retirant enfin la
+dernière trace de poussière rouge coincée dans son col.
+
+Non loin de là, sur son propre stand resté miraculeusement épargné par
+le nuage de poussière, Dorian Vasseur observait la scène avec un
+détachement qui n'échappa pas à Sofia.
+
+— Un accident regrettable, commenta-t-il, assez fort pour être entendu
+de la petite foule encore rassemblée. Ça arrive, quand on manipule des
+blocs aussi lourds sans matériel vraiment professionnel. Chez moi, ce
+genre de mésaventure n'arrive jamais.
+
+— Vous n'avez jamais soulevé le moindre bloc de votre vie, répliqua
+Sofia, sans même chercher à masquer son agacement.
+
+Vasseur lui adressa un sourire condescendant, du genre qu'on réserve
+d'ordinaire à un enfant qu'on ne prend pas tout à fait au sérieux.
+
+— C'est bien pour ça que je ne me retrouve jamais couvert de poussière,
+répondit-il, avant de se retourner vers un nouveau groupe de touristes
+qui approchait de son stand.
 
 ---
 
@@ -209,6 +323,32 @@ sans en être un.
 — C'est peut-être juste quelqu'un de l'équipe qui les a déplacés, dit
 Tomas, en évitant soigneusement le regard d'Inès.
 
+Farida, qui rangeait son propre matériel de photographie non loin de
+là, s'approcha, l'air préoccupé.
+
+— J'ai vérifié le registre des sorties de matériel, dit-elle. Personne
+n'a signé pour la résine ni pour le pigment, hier. Ce qui veut dire que
+soit quelqu'un a oublié de signer, ce qui n'arrive presque jamais avec
+un produit pareil, soit quelqu'un ne voulait justement pas laisser de
+trace écrite.
+
+— À quelle heure la tente a-t-elle été fermée, hier soir ? demanda
+Souly.
+
+— Vers vingt-deux heures, dit Farida. Tout le monde était épuisé après
+les préparatifs de la foire. Je me souviens l'avoir fermée moi-même,
+parce que j'étais la dernière à partir.
+
+— Et rouverte ce matin ?
+
+— À six heures, par moi encore, dit Farida. Donc si quelqu'un est
+entré, ça s'est passé quelque part entre ces deux heures-là, pendant
+que tout le village dormait, la veille d'une foire où tout le monde
+était censé se coucher tôt pour être frais le lendemain.
+
+— Une belle fenêtre pour agir tranquillement, remarqua Souly, en notant
+soigneusement les deux horaires.
+
 Inès ne répondit pas tout de suite. Elle se contenta d'ouvrir le
 registre du chantier, de le feuilleter deux fois de suite, page après
 page, et de le refermer sans y avoir rien trouvé qui explique quoi que
@@ -218,6 +358,50 @@ ce soit.
 dit-elle finalement. Si quelque chose d'autre a disparu, je veux le
 savoir avant que ça devienne un vrai problème plutôt qu'un simple
 désagrément.
+
+— Est-ce qu'on devrait pas prévenir la police, tout de suite ? demanda
+l'assistante qui avait signalé le pot de résine manquant.
+
+— Avec quoi comme preuve ? dit Inès, en soupirant. Des outils déplacés
+et un peu de matériel disparu, ça pourrait aussi bien être un
+cambriolage banal, ou même une erreur d'inventaire de ma part. Je
+préfère avoir quelque chose de plus solide avant d'aller déranger la
+gendarmerie du patrimoine. On surveille, on note tout, et on avise si
+ça continue.
+
+Tomas referma la caisse à moitié vide d'un geste sec, visiblement peu
+convaincu par cette prudence.
+
+— Et si ça continue justement pendant la nuit précédant la fête ? dit-il.
+
+— Alors on aura une bonne raison de s'inquiéter vraiment, dit Inès. Mais
+pas avant.
+
+Elsa, qui rangeait son bac à fouilles pédagogique non loin de la tente,
+s'approcha timidement du groupe en entendant la conversation.
+
+— Vous parlez du vol de la nuit dernière ? demanda-t-elle. Je peux
+vous dire où j'étais, si ça peut aider. J'ai dormi chez Farida, hier
+soir, on préparait les explications pour le bac à sable des enfants
+jusqu'à pas d'heure.
+
+— Personne ne t'a rien demandé, Elsa, dit Inès, avec douceur.
+
+— Je sais, dit Elsa. Mais je préfère le dire maintenant, plutôt que
+plus tard, si jamais quelqu'un se met à chercher qui n'a pas d'alibi
+pour cette nuit-là.
+
+Farida confirma d'un signe de tête, sans quitter des yeux la caisse
+qu'elle finissait de refermer.
+
+— C'est vrai, dit-elle. On a discuté jusqu'à presque minuit. Elle
+n'a pas pu quitter la maison sans que je le remarque, ma chambre est
+juste à côté de la sienne.
+
+— Merci, dit Inès, avec un sourire un peu fatigué. Mais garde ça pour
+toi, pour l'instant. Je ne veux pas que tout le monde se sente obligé
+de justifier chaque heure de son emploi du temps. Ça sentirait trop
+l'interrogatoire, et on n'en est pas encore là.
 
 Sofia, qui avait ramassé au passage une poignée de confettis rouges
 tombés d'un des stands de la foire, les laissa filer entre ses doigts
@@ -232,12 +416,25 @@ bien être ici pour la foire et avoir fait autre chose avant.
 
 — Je sais, dit Sofia. Mais ça me travaille quand même.
 
+— Ce qui me travaille, moi, dit Souly, en reprenant son carnet, c'est
+qu'il n'a strictement rien à gagner personnellement à ce que le treuil
+tourne mal aujourd'hui. Ce vol d'outils, en revanche, ça ressemble
+beaucoup plus à quelqu'un qui prépare tranquillement quelque chose,
+loin des regards, pendant que tout le village a les yeux tournés vers
+une foire.
+
+— Une diversion, dit Sofia, en écarquillant les yeux.
+
+— Peut-être pas volontaire de sa part, tempéra Souly. Mais une
+diversion quand même. Personne ne surveille un chantier vide un jour
+de fête.
+
 Le soir tombait sur la place à moitié désertée, les stands
 progressivement démontés, quand Milo les retrouva près de la tente,
 encore couvert de la poussière rouge de l'après-midi.
 
 — Alors, ce club des catastrophes officielles, ça recrute toujours ?
-demanda-t-il, sans une once de moquerie dans la voix, cette fois.
+demanda-t-il, sans la moindre moquerie dans la voix, cette fois.
 
 — On dirait bien qu'on va avoir besoin de tout le monde, cette semaine,
 répondit Souly, en refermant son carnet sur une liste qui s'allongeait

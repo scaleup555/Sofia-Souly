@@ -81,6 +81,69 @@ trouvées avant, résuma Sofia.
 chaque nouvelle trouvaille rend toutes les précédentes un peu plus
 intelligentes.
 
+— Et comment on sait l'âge exact d'un fossile ? demanda Sofia. Vous avez
+dit soixante-dix millions d'années, hier. Comment on peut être aussi
+précis sur quelque chose d'aussi vieux ?
+
+— On ne l'est jamais vraiment, à l'année près, admit Inès. Mais on a
+plusieurs méthodes qui se complètent. La plus simple, c'est la position
+dans les couches de terre : plus une couche est profonde, plus
+généralement elle est ancienne, sauf accident géologique particulier.
+On appelle ça la stratigraphie. Ensuite, il existe des méthodes plus
+précises, basées sur la façon dont certains éléments chimiques se
+transforment lentement, à vitesse connue, au fil du temps — un peu
+comme un sablier qui s'écoule extrêmement, extrêmement lentement.
+
+— Comme un sablier de plusieurs millions d'années, dit Souly, fasciné
+par l'image.
+
+— Exactement ça, confirma Inès. Sauf qu'au lieu de sable, ce sont des
+atomes qui se transforment les uns en les autres, à un rythme si
+régulier qu'on peut calculer, presque comme une horloge, combien de
+temps s'est écoulé depuis la mort de l'animal.
+
+— Ça doit être hyper compliqué à mesurer, dit Sofia.
+
+— Ça demande un vrai laboratoire, avec des machines que nous n'avons
+pas ici, dit Inès. C'est pour ça qu'on envoie certains échantillons à
+l'université, pour analyse. Mais la stratigraphie, elle, on peut la
+faire nous-mêmes, sur le terrain, tous les jours. C'est souvent
+suffisant pour se faire une bonne idée.
+
+Pour illustrer son propos, Inès attrapa sur l'étagère un grand bocal de
+verre qu'elle utilisait, expliqua-t-elle, pour toutes les nouvelles
+recrues du chantier : à l'intérieur, des couches bien distinctes de
+sable coloré s'empilaient, du rouge sombre au fond jusqu'au beige clair
+tout en haut.
+
+— Chaque couleur représente une couche de terre différente, dit-elle,
+en faisant tourner le bocal entre ses mains pour que tout le monde
+puisse voir. Celle du fond, c'est la plus ancienne. Celle du dessus, la
+plus récente. Si je trouve un fossile ici — elle posa le doigt sur la
+bande rouge sombre, tout au fond — je sais qu'il est plus vieux qu'un
+fossile trouvé ici — son doigt remonta jusqu'à la bande beige.
+
+— Et si quelqu'un mélangeait le bocal ? demanda Souly.
+
+— Alors toute l'information serait perdue, dit Inès, un peu grave.
+C'est exactement pour ça qu'on ne creuse jamais à la va-vite, et qu'on
+ne remue jamais la terre au hasard. Une fois qu'une couche est
+dérangée, on ne peut plus jamais reconstituer l'ordre d'origine. C'est
+irréversible. C'est même la pire erreur qu'un fouilleur puisse
+commettre, bien pire que casser un fossile.
+
+Sofia prit le bocal à son tour, l'inclinant légèrement pour observer
+les grains de sable glisser doucement le long des couches sans les
+mélanger.
+
+— On dirait un genre d'horloge, dit-elle, fascinée.
+
+— C'en est une, en quelque sorte, confirma Inès. Une horloge qu'on ne
+peut lire qu'une seule fois, dans le bon ordre. C'est pour ça que
+chaque carré, chaque centimètre de profondeur qu'on documente
+soigneusement vaut tellement plus qu'un fossile isolé, arraché sans
+contexte à sa couche d'origine.
+
 ---
 
 Un jeune homme au fond de la tente, occupé à nettoyer des instruments
@@ -131,6 +194,55 @@ histoire semble parfaite, plus elle mérite qu'on la vérifie deux fois.
 
 — J'aime beaucoup cette phrase, dit Inès. Je vais te la voler pour mes
 prochains cours.
+
+Léa, l'une des deux doctorantes croisées la veille, s'approcha à son
+tour, un dossier cartonné sous le bras, couvert de graphiques et de
+colonnes de chiffres.
+
+— Pendant qu'on y est, dit-elle, je peux vous montrer quelque chose
+d'utile pour comprendre à quel point le contexte compte vraiment ?
+
+Elle déplia sur la table une carte détaillée du vallon, ponctuée de
+petits symboles colorés représentant chaque découverte majeure faite
+sur le site depuis vingt ans.
+
+— Regardez, dit-elle. Chaque point représente un fossile important.
+Vous voyez comme ils se concentrent surtout dans cette bande, ici, le
+long de l'ancien lit d'une rivière fossile ? Ce n'est pas un hasard :
+c'est exactement là que les carcasses d'animaux avaient le plus de
+chances d'être rapidement recouvertes de sédiments avant de pourrir.
+Sans cette carte, sans ces vingt années de relevés minutieux, on
+creuserait un peu partout, au petit bonheur la chance.
+
+— Donc la carte elle-même, c'est presque une découverte, dit Souly,
+fasciné.
+
+— Exactement, confirma Léa. Une carte comme celle-ci vaut plus cher,
+scientifiquement, que n'importe quel fossile isolé qu'on pourrait
+acheter chez un marchand. Elle, personne ne peut la fabriquer du jour
+au lendemain. Il faut vingt ans de travail honnête pour l'obtenir.
+
+Sofia se pencha sur la carte, suivant du doigt le tracé sinueux de
+l'ancienne rivière fossile, imaginant sans peine l'eau qui avait coulé
+là, des dizaines de millions d'années plus tôt, charriant boue et
+sédiments sur les carcasses des animaux disparus.
+
+— Ça devait ressembler à quoi, ici, à l'époque ? demanda-t-elle.
+
+— Beaucoup plus humide, dit Léa. Une plaine traversée de rivières, avec
+une végétation dense, presque tropicale. Difficile à imaginer, en
+regardant ce paysage aride aujourd'hui, mais c'est exactement ce que
+les fossiles eux-mêmes nous racontent : des plantes qui n'existent plus
+dans la région, des coquilles d'animaux d'eau douce, des traces de
+racines profondes typiques d'un climat bien plus arrosé.
+
+— Le monde change tout le temps, dit Souly, songeur, en observant le
+vallon aride par l'ouverture de la tente. Même les endroits qui
+paraissent immobiles.
+
+— Surtout les endroits qui paraissent immobiles, corrigea Léa, avec un
+sourire. Ils changent juste trop lentement pour qu'on le remarque de
+notre vivant.
 
 ---
 
@@ -187,6 +299,20 @@ de foi, de temps en temps, en plus de la méthode.
 Inès resta silencieuse un instant, occupée à retourner un fragment
 entre ses doigts sans vraiment le regarder.
 
+— Tu te souviens de mon premier été ici, Marion ? dit-elle finalement.
+Personne ne croyait qu'on trouverait quoi que ce soit dans ce vallon.
+On me prenait pour une folle, une étudiante venue perdre son temps dans
+la poussière. Il a fallu trois ans avant la première vraie découverte.
+Trois ans où j'aurais pu tout abandonner, cent fois.
+
+— Je m'en souviens très bien, dit Marion, avec un sourire qui trahissait
+une vraie tendresse sous la fatigue. C'est même pour ça que je te fais
+confiance aujourd'hui, malgré toute la pression que je te mets. Tu n'as
+jamais menti sur ce que tu trouvais, même quand ça t'aurait arrangée de
+le faire.
+
+— Alors fais-moi confiance encore un peu, dit Inès. Jusqu'à samedi.
+
 — On y travaille, dit Marion, d'une voix qui manquait singulièrement
 d'assurance, avant de se tourner brièvement vers les enfants, un peu
 gênée. Vous devez me
@@ -210,6 +336,22 @@ belle découverte.
 — J'ai entendu, dit Souly, déjà en train d'écrire dans son carnet. Ça
 fait beaucoup de pression sur beaucoup de monde différent. Assez pour
 pousser certains à prendre des raccourcis, si l'occasion se présente.
+
+— Vous croyez que la fouille pourrait vraiment fermer ? demanda Sofia,
+soudain préoccupée par un aspect de l'affaire auquel elle n'avait pas
+songé jusque-là.
+
+— Je crois surtout qu'Inès ne laissera jamais cette pression changer
+sa façon de travailler, dit Souly, avec une conviction qui trahissait
+déjà une belle confiance en la paléontologue. Mais ça ne veut pas dire
+que tout le monde, autour d'elle, résistera aussi bien.
+
+— Tu penses à quelqu'un en particulier ?
+
+— Je pense à n'importe qui d'assez malin pour comprendre qu'une
+« découverte » pourrait résoudre tous les problèmes de tout le monde
+d'un coup, dit Souly, pensif. Et à n'importe qui d'assez peu scrupuleux
+pour la fabriquer plutôt que de la trouver.
 
 ---
 
@@ -259,9 +401,64 @@ peut pas non plus l'empêcher de marcher sur un sentier public.
 — Aucune idée, dit Tomas, en haussant les épaules. On l'appelle juste
 « le monsieur à la veste », entre nous. Pas très original, je sais.
 
+— Il achète, il vend, ou il regarde juste ? demanda Souly, cherchant à
+préciser les contours de cette silhouette encore floue.
+
+— Un peu des trois, je crois, dit Tomas. Il pose beaucoup de questions
+sur ce qu'on trouve, mais jamais directement à Inès. Toujours à
+quelqu'un d'autre, comme s'il évitait exprès de croiser trop souvent
+son regard.
+
+— Ça, c'est intéressant, dit Souly, en griffonnant la remarque. Éviter
+quelqu'un exprès, ça veut souvent dire qu'on n'a pas envie que cette
+personne pose, elle, des questions en retour.
+
 Il rouvrit son carnet à une page vierge et commença, sans que personne
 ne le lui demande, une nouvelle colonne qu'il intitula simplement, en
 lettres capitales bien nettes : *PERSONNES À SURVEILLER*. Sofia,
 penchée par-dessus son épaule, ajouta elle-même, de sa propre écriture
 un peu moins soignée, une première ligne juste en dessous : « L'homme à
 la veste beige. Ne se salit jamais les mains. »
+
+L'après-midi se poursuivit dans une atmosphère étrangement studieuse,
+chacun s'affairant sur son propre carré avec une concentration presque
+palpable, comme si la conversation de la matinée avait rappelé à tout
+le monde combien chaque heure passée sur le chantier comptait
+désormais. Inès elle-même, d'ordinaire disposée à s'arrêter pour
+répondre longuement à la moindre question, restait cette fois penchée
+sur son propre secteur, absorbée dans un travail qu'elle ne semblait
+pas vouloir partager tout de suite.
+
+— Elle est comme ça, les jours où quelque chose la préoccupe vraiment,
+confia Tomas aux enfants, en les voyant observer leur hôtesse à
+distance respectueuse. Elle disparaît dans son travail. C'est sa façon
+à elle de ne pas paniquer devant tout le monde.
+
+— Et ça marche ? demanda Sofia.
+
+— La plupart du temps, dit Tomas, avec un demi-sourire. Sauf quand
+quelqu'un vient lui rappeler, toutes les heures, qu'un calendrier
+municipal ne va pas s'arrêter de tourner juste parce qu'elle préfère
+prendre son temps.
+
+Souly referma finalement son carnet, satisfait de sa première vraie
+journée d'enquête, tandis que le soleil commençait sa lente descente
+vers les collines, allongeant les ombres des tentes sur la terre rouge
+du vallon.
+
+— Deux jours, dit Sofia, en s'étirant longuement après des heures
+passées accroupie devant son tamis. On est là depuis deux jours à
+peine, et j'ai déjà l'impression d'avoir appris plus de choses qu'en un
+trimestre entier à l'école.
+
+— C'est parce qu'ici, tout ce qu'on apprend sert tout de suite à
+quelque chose, dit Souly, pensif, en rangeant son carnet dans son sac.
+À l'école, on apprend souvent sans savoir pourquoi. Ici, chaque leçon
+répond déjà à une vraie question qu'on vient de se poser.
+
+— Genre comment reconnaître un vrai fossile d'un faux, dit Sofia.
+
+— Genre exactement ça, confirma Souly, en jetant un dernier regard vers
+le sentier par où avait disparu, un peu plus tôt, l'homme à la veste
+beige. Et je crois qu'on va en avoir besoin plus tôt qu'on ne le
+pensait.

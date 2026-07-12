@@ -9,11 +9,75 @@ enfants suffisamment éloignés pour ne plus entendre — ce qui ne les
 empêchait absolument pas de deviner très exactement de quoi il
 retournait.
 
+— On dirait que tout le village sait déjà tout, avant même nous, remarqua
+Sofia, un peu agacée, en pressant le pas sur le chemin de la place.
+
+— Le village sait toujours tout avant tout le monde, dit Souly. C'est
+juste que la moitié de ce qu'il sait est faux.
+
+— Et l'autre moitié ? demanda Sofia.
+
+— L'autre moitié, c'est justement ce qu'on est en train d'essayer de
+démêler, dit Souly, en accélérant à son tour le pas.
+
+Ce matin-là, avant même que les enfants n'arrivent, Inès avait réuni
+toute l'équipe sous la grande tente pour une discussion qui ne
+ressemblait à aucune des habituelles réunions de chantier.
+
+— Je ne vais pas vous mentir, avait-elle commencé, en posant les deux
+mains à plat sur la table couverte de fiches. On a un problème de
+sécurité sérieux, et je préfère qu'on en parle tous ensemble plutôt que
+de laisser les rumeurs s'en charger à notre place.
+
+Tomas, qui d'ordinaire gardait un silence presque monacal pendant les
+réunions, avait levé la main le premier.
+
+— On a vérifié les serrures de la remise ? avait-il demandé. Si
+quelqu'un est entré sans forcer, ça change beaucoup de choses.
+
+— Rien n'a été forcé, avait confirmé Inès. Ce qui veut dire que soit
+quelqu'un avait un double des clés, soit quelqu'un connaissait
+suffisamment bien nos habitudes pour profiter d'un moment où la remise
+restait ouverte.
+
+Farida avait alors proposé, d'une voix mal assurée, ce que personne
+n'osait dire tout haut :
+
+— Ça veut dire que ça vient de quelqu'un de l'équipe. Ou de quelqu'un
+qui passe assez de temps ici pour connaître nos habitudes aussi bien
+que nous.
+
+Sofia et Souly, arrivés entretemps, s'étaient glissés discrètement au
+fond de la tente pour écouter la suite sans interrompre.
+
+— À partir d'aujourd'hui, avait annoncé Inès, chaque fiche d'inventaire
+devra être recroisée avec le registre des signatures. Je veux qu'on
+sache exactement qui a manipulé quoi, et quand. Ce n'est pas une
+question de confiance, c'est une question de rigueur. Une bonne fouille
+scientifique laisse toujours une trace vérifiable, à chaque étape.
+
+C'était cette phrase, prononcée sans y penser plus que ça, qui allait
+donner à Souly, un peu plus tard dans la matinée, l'idée de comparer
+systématiquement les fragments suspects à leurs fiches d'origine — et
+c'était cette même rigueur qui allait, sans qu'il le sache encore, le
+mener tout droit vers deux initiales griffonnées au coin d'une carte.
+
 — Ils sont déjà en train de chercher un coupable parmi nous, dit Milo,
 amer, en aidant les deux enfants à trier des photographies imprimées sur
 la table de la tente. Des dizaines de gens du village pourraient avoir
 laissé ces traces. Mais c'est plus facile de soupçonner Elsa, qui n'est
 même pas d'ici.
+
+Ils étaient passés, un peu plus tôt, devant l'épicerie de Frédéric, où
+deux clientes discutaient à voix pas si basse que ça de la « fille de
+la fouille qui rôdait la nuit ». Frédéric, en les voyant entrer, avait
+haussé les épaules avec un air désolé.
+
+— Les gens s'ennuient, avait-il dit, en leur tendant malgré tout deux
+nouveaux esquimaux « pour la peine ». Une rumeur, ici, ça circule plus
+vite que n'importe quelle vraie nouvelle. Ne vous inquiétez pas trop
+pour votre stagiaire. Ça retombera vite, ces choses-là. Ou alors ça ne
+retombera jamais, ce qui serait dommage.
 
 — C'est toujours plus facile de soupçonner quelqu'un qui n'est pas là
 pour se défendre, dit Sofia, avec une conviction qui ne laissait aucune
@@ -26,6 +90,23 @@ rapprochement toute seule.
 j'ai bien l'intention qu'on trouve le vrai coupable avant que ça
 n'aille trop loin.
 
+Marion elle-même passa devant la tente en fin de matinée, un dossier
+d'organisation sous le bras, le visage marqué par le manque de
+sommeil.
+
+— J'ai entendu parler des rumeurs sur votre stagiaire, dit-elle,
+directement à Inès. Ça ne va pas arranger l'ambiance avant samedi, si
+les gens commencent à se méfier de toute l'équipe.
+
+— Les rumeurs ne sont pas des preuves, Marion, dit Inès, d'un ton qui
+ne laissait aucune place à la discussion. Et je ne vais certainement
+pas sacrifier une stagiaire innocente pour calmer des inquiétudes mal
+placées.
+
+— Je ne te demande pas de la sacrifier, dit Marion, un peu piquée. Je
+te demande juste de faire attention. Les gens sont nerveux, en ce
+moment. Nerveux et prêts à croire n'importe quoi qui les rassure.
+
 — Alors on va leur montrer les vraies preuves, dit Souly, concentré sur
 les fragments d'os étalés devant lui — une douzaine de morceaux prêtés
 par Inès pour un examen comparatif, chacun accompagné de sa fiche
@@ -37,6 +118,25 @@ tenir dans une seule pensée à la fois — d'un côté les fragments dont la
 patine correspondait bien à leur carré d'origine déclaré, de l'autre une
 poignée de morceaux qui, à l'œil nu déjà, semblaient légèrement
 différents.
+
+Sofia, assise en face de lui, l'observait travailler avec une patience
+qui ne lui ressemblait guère d'ordinaire.
+
+— Tu fais toujours ça, remarqua-t-elle. Deux piles. Toujours deux
+piles, pour tout.
+
+— C'est plus facile de réfléchir quand il n'y a que deux options à la
+fois, dit Souly, sans lever les yeux. Après, on peut toujours
+recombiner, séparer autrement. Mais il faut bien commencer quelque
+part.
+
+— Et si la vérité est entre les deux piles ? demanda Sofia.
+
+Souly s'arrêta un instant, la question le prenant visiblement de court.
+
+— Alors on fait une troisième pile, dit-il finalement. On n'est pas
+obligés de choisir entre deux réponses si aucune des deux n'est la
+bonne.
 
 — Regardez, dit-il enfin, en alignant trois fragments côte à côte sous
 la loupe empruntée à Inès.
@@ -76,6 +176,35 @@ droit d'aider à l'inventaire, un jour où l'équipe manquait de bras.
 — C'est vrai, admit Souly. Mais ça commence à faire beaucoup de
 coïncidences qui tournent toutes autour du même nom.
 
+Farida, qui passait justement avec une nouvelle caisse de fragments à
+étiqueter, s'arrêta net en voyant les deux fiches côte à côte.
+
+— Attendez, dit-elle, en prenant la fiche signée D.V. entre ses doigts.
+Je me souviens de cette entrée. C'était il y a une dizaine de jours,
+Inès manquait de bras pour finir l'inventaire avant la pluie annoncée.
+Vasseur traînait justement dans le coin, et il a proposé de nous aider
+à porter des caisses. Personne n'a pensé à mal, sur le moment.
+
+— Il a eu accès aux fragments sans que personne le surveille vraiment,
+dit Milo, sombre.
+
+— Une dizaine de minutes, tout au plus, précisa Farida. Le temps de
+déplacer trois ou quatre caisses. Ça paraissait tellement anodin qu'on
+n'y a même pas repensé depuis.
+
+— Une dizaine de minutes, ça suffit largement pour glisser un fragment
+dans une caisse, ou en sortir un, dit Souly, en ajoutant l'information
+à son carnet. Surtout pour quelqu'un qui savait exactement ce qu'il
+cherchait.
+
+— Je m'en veux un peu, avoua Farida, en reposant la fiche. J'aurais dû
+vérifier son travail avant de le laisser signer quoi que ce soit. On
+fait confiance trop facilement, sur un chantier comme celui-ci. Tout le
+monde se connaît, ou croit se connaître.
+
+— Ce n'est pas votre faute, dit Sofia, avec conviction. C'est plutôt la
+sienne, d'avoir profité de cette confiance.
+
 ---
 
 Elsa les rejoignit à cet instant, un café encore fumant à la main, et se
@@ -110,6 +239,25 @@ Elsa répéta l'opération sur le fragment voisin, plus sombre, celui
 qu'elle jugeait authentique. Rien ne se produisit : la surface resta
 sèche, inchangée, aussi indifférente à l'acétone qu'à n'importe quel
 autre liquide.
+
+— Attendez, dit Souly. Pour être vraiment sûrs, on devrait tester un
+troisième fragment. Un dont on est certains qu'il est vrai, mais qui
+vient d'un tout autre carré, juste pour vérifier que le test marche
+pareil partout.
+
+— Bonne idée, dit Elsa, visiblement impressionnée par le réflexe. C'est
+exactement ce qu'on appelle un témoin, en sciences. Un élément de
+comparaison qu'on sait déjà fiable, pour être sûr que le résultat
+qu'on observe vient bien de ce qu'on teste, et pas d'autre chose.
+
+Ils répétèrent l'opération sur un fragment pris au hasard dans une
+caisse d'origine incontestable, provenant d'un carré fouillé et
+documenté depuis des années. Le résultat fut identique à celui du
+fragment sombre : aucune réaction, aucune trace collante.
+
+— Le test tient, confirma Elsa. Ce n'est pas un hasard de matériel, ni
+une erreur de manipulation. Le fragment lisse du carré douze est
+vraiment différent de tout le reste.
 
 — Rien du tout, confirma-t-elle. Exactement ce qu'on attend d'une vraie
 pierre. La différence n'est plus juste une impression, maintenant.
@@ -173,11 +321,34 @@ dans les règles, sinon toutes nos preuves ne vaudront plus rien.
 Sofia retira sa main, un peu à contrecœur, mais visiblement consciente
 que son frère avait raison.
 
-— Depuis quand tu es aussi raisonnable ? demanda-t-elle.
+— Depuis quand tu es aussi raisonnable, toi, exactement ? demanda-t-elle,
+presque suspicieuse, en le regardant du coin de l'œil.
 
 — Depuis que j'ai vu ce qui arrive à Elsa quand les gens sautent trop
-vite aux conclusions, répondit Souly, sans une once d'ironie dans la
-voix.
+vite aux conclusions, répondit Souly, parfaitement sérieux.
+
+Milo, qui observait le bloc depuis un pas de recul, pencha la tête,
+visiblement en train de calculer quelque chose.
+
+— Il est petit, pour un bloc « exceptionnel », remarqua-t-il. Regardez
+la taille. Les vrais blocs importants qu'on a vus sortir d'ici, cet
+été, faisaient au moins trois fois cette taille-là. Celui-ci tiendrait
+presque dans un sac à dos.
+
+— Un fragment composite n'a pas besoin d'être gros pour impressionner,
+dit Souly, songeur. Juste assez présentable pour la photo qui passera
+dans le journal, samedi.
+
+— Facile à fabriquer en cachette, aussi, ajouta Sofia. Facile à cacher
+dans une camionnette, facile à sortir discrètement un soir sans que
+personne remarque qu'un objet aussi petit a changé de place.
+
+— Tout colle un peu trop bien, dit Milo, mal à l'aise. J'aime pas ça.
+
+— Moi non plus, admit Souly, en refermant son carnet sur cette dernière
+observation. Mais « coller un peu trop bien », ce n'est toujours pas
+une preuve. Juste une raison de plus d'attendre Inès avant d'ouvrir
+quoi que ce soit.
 
 De l'autre côté de la tente, la voix d'Inès s'éleva soudain, tendue,
 répondant à un appel téléphonique que ni Sofia ni Souly n'avaient
@@ -213,6 +384,33 @@ lentement, méthodiquement, sans jamais tricher avec les résultats. Et
 voilà qu'un vendeur en veste beige menace de tout gâcher en une seule
 semaine.
 
+— Vous n'avez rien à vous reprocher, dit Elsa, doucement. Ce n'est pas
+vous qui trichez.
+
+Elle hésita, la tasse vide entre les mains, avant d'ajouter, dans un
+souffle :
+
+— Vous savez, la première fois que Marion a parlé de « rumeurs sur la
+stagiaire », j'ai vraiment cru qu'on allait me renvoyer avant même
+d'avoir eu le temps de m'expliquer quoi que ce soit. C'est mon premier
+vrai chantier. Si ça se termine comme ça, personne ne voudra plus
+jamais me faire confiance sur un site de fouilles.
+
+— Ça n'arrivera pas, dit fermement Souly. Pas tant qu'on aura quelque
+chose à dire là-dessus.
+
+Elsa lui adressa un sourire tremblant, le premier depuis le début de
+la soirée.
+
+— C'est la première fois depuis mon arrivée qu'on me croit sur parole,
+reprit-elle. Alors merci. Vraiment.
+
+— Je sais, dit Inès. Mais c'est mon chantier, mon équipe, mon nom sur
+chaque publication scientifique qui en sortira un jour. Si quelqu'un
+salit tout ça avec un faux, c'est moi qu'on regardera d'abord, pas lui.
+C'est toujours plus facile d'accuser la personne responsable que celle
+qui a vraiment triché.
+
 — On ne va pas le laisser faire, dit Souly, avec une détermination
 qu'il ne cherchait pas à dissimuler.
 
@@ -229,3 +427,28 @@ d'éteindre la lampe de la tente.
 — Demain, dit-elle, on prévient officiellement la gendarmerie du
 patrimoine. Assez de suppositions. Il est temps que quelqu'un d'autre
 que nous se penche sérieusement sur ce Dorian Vasseur.
+
+— Ils vont nous croire ? demanda Sofia. On n'a que des empreintes, une
+pelle sans numéro, et un morceau de résine collante.
+
+— Ils vont au moins nous écouter, dit Inès. Et si Milo peut confirmer
+l'histoire de la clôture, et Elsa celle du fragment suspect, ça fait
+déjà trois témoins indépendants qui pointent tous dans la même
+direction. Ce n'est plus une intuition d'enfants, à ce stade. C'est un
+vrai dossier.
+
+Souly referma son carnet une dernière fois pour la soirée, un sourire
+satisfait qu'il ne cherchait pas à cacher.
+
+— Un vrai dossier, répéta-t-il, en savourant chaque mot. J'aime
+beaucoup comment ça sonne.
+
+— Ne t'emballe pas trop vite, dit Inès, en éteignant la dernière lampe
+de la tente. On n'a encore rien prouvé du tout. On a juste de très
+bonnes raisons de continuer à chercher.
+
+Dehors, la nuit était tombée tout à fait sur le vallon, et le bloc
+mystérieux resta là, seul dans l'obscurité de la tente fermée, sa gaze
+protectrice immobile, gardant son secret pour quelques jours encore —
+jusqu'à ce que quelqu'un, dans les règles cette fois, se décide enfin à
+l'ouvrir devant témoins.

@@ -63,11 +63,41 @@ lavoir de pierre, quelques tables de café désertes à cette heure, et un
 panneau municipal fraîchement repeint annonçant, en lettres encore un
 peu dégoulinantes : « BIENVENUE À ROC-ROUGE, VILLAGE DE CARACTÈRE ».
 
-— C'est la couleur de la marne, expliqua Théo, en garant la voiture près
-d'une tente blanche plantée au bord du vallon. Une roche argileuse riche
-en oxyde de fer. C'est justement ce qui rend cet endroit si intéressant
-pour les fossiles : la marne conserve très bien les traces, et sa couleur
-raconte beaucoup de choses à qui sait la lire.
+Avant de rejoindre le chantier, Théo insista pour s'arrêter cinq
+minutes devant l'épicerie de la place, où un homme d'un certain âge,
+assis sur une chaise pliante devant sa vitrine à moitié vide, salua
+Théo d'un signe de tête familier.
+
+— Toujours là, Frédéric ? demanda Théo, en descendant de voiture.
+
+— Toujours là, confirma l'épicier, sans grand enthousiasme. Même si
+« toujours » risque de plus durer très longtemps, à ce rythme. Trois
+commerces ont déjà fermé sur la place depuis l'an dernier. Les gens
+viennent de moins en moins, depuis que la route de la côte a été
+refaite. Pourquoi s'arrêter à Roc-Rouge quand on peut être à la plage
+vingt minutes plus tard ?
+
+— La fouille attire encore du monde, non ? demanda Souly, en observant
+les rayons clairsemés du magasin.
+
+— Un peu. Surtout des curieux de passage, une heure ou deux, pas de
+quoi remplir un hôtel. On a besoin d'une vraie raison de rester plus
+longtemps. Une vraie attraction. Sofia et Souly se regardèrent, la même
+pensée les traversant sans qu'ils aient besoin de la dire à voix haute
+: c'était donc de ça que Marion allait parler, un peu plus tard.
+
+Frédéric leur offrit malgré tout deux esquimaux à la framboise avant
+qu'ils ne reprennent la route, « pour la bonne bouche, et pour que vous
+gardiez un bon souvenir de mon magasin, au cas où ». Sofia le remercia avec un enthousiasme si débordant que l'épicier, peu
+habitué à tant de gratitude pour un simple esquimau, ne sut pas
+vraiment quoi répondre.
+
+— C'est la couleur de la marne, expliqua Théo, une fois remontés en
+voiture, en garant la voiture près d'une tente blanche plantée au bord
+du vallon. Une roche argileuse riche en oxyde de fer. C'est justement ce
+qui rend cet endroit si intéressant pour les fossiles : la marne
+conserve très bien les traces, et sa couleur raconte beaucoup de choses
+à qui sait la lire.
 
 — Et personne ne sait la lire, à part Inès ? demanda Souly, en
 descendant de voiture, son carnet déjà sorti et son sac à dos encore à
@@ -209,10 +239,67 @@ imaginer, et pourtant, il est là, dans notre main.
 
 ---
 
-Ils passèrent le reste de la matinée à observer le travail méticuleux de
-l'équipe, chacun muni d'un petit pinceau et de gants en coton pour ne pas
-abîmer les fragments les plus fragiles. Tomas leur montra comment
-dégager la terre autour d'un os sans jamais gratter directement dessus,
+Le déjeuner rassembla toute l'équipe à l'ombre d'une grande bâche
+tendue entre quatre piquets, chacun venant se servir dans une immense
+marmite de ratatouille préparée à tour de rôle par les bénévoles. Sofia
+et Souly se retrouvèrent assis entre deux techniciens de conservation,
+un couple d'une soixantaine d'années nommé Jean et Odile, qui
+revenaient sur ce chantier chaque été depuis près de quinze ans.
+
+— On a vu passer des dizaines de stagiaires, dit Odile, en resservant
+généreusement les enfants. Certains repartent après une semaine,
+dégoûtés par la poussière. D'autres reviennent chaque année, comme
+nous. Ça dépend si on aime vraiment chercher, ou si on veut juste
+trouver.
+
+— C'est pas pareil ? demanda Sofia.
+
+— Pas du tout, dit Jean, en riant doucement. Chercher, c'est
+accepter de passer des jours entiers à ne rien trouver, juste pour le
+plaisir de la méthode bien faite. Trouver, sans vouloir chercher, ça
+mène en général droit vers les ennuis.
+
+— Vous avez déjà vu des ennuis, justement ? demanda Souly, toujours
+prêt à recueillir une bonne histoire.
+
+Jean et Odile échangèrent un regard, le genre de regard qui précède
+généralement une anecdote racontée plus d'une fois.
+
+— Il y a une dizaine d'années, sur un autre chantier, pas très loin
+d'ici, dit Odile, en baissant un peu la voix. Toute une équipe avait
+cru tenir la découverte de sa carrière. Un squelette presque complet,
+annoncé en grande pompe dans les journaux régionaux.
+
+— Et alors ? demanda Sofia, suspendue à ses lèvres.
+
+— Et alors, six mois plus tard, un laboratoire indépendant a fait des
+tests plus poussés, dit Jean. Une bonne moitié des os avaient été...
+disons, arrangés. Des fragments de plusieurs individus différents,
+recollés ensemble pour faire un squelette plus impressionnant qu'il ne
+l'était vraiment. Le responsable du chantier a perdu son poste. Toute
+sa carrière, envolée en une seule mauvaise annonce.
+
+— Il avait fait exprès ? demanda Souly, son carnet déjà ressorti.
+
+— Ça, personne ne l'a jamais vraiment su avec certitude, dit Odile. Il
+a toujours juré que c'était une erreur d'assemblage honnête, pas une
+tromperie voulue. Mais dans ce métier, l'intention compte moins qu'on
+ne le croit. Une fois qu'on a présenté quelque chose de faux comme
+vrai, la confiance ne revient jamais complètement, même si c'était un
+accident.
+
+— C'est pour ça qu'Inès est si stricte sur les fiches et les
+photographies, remarqua Sofia.
+
+— Exactement pour ça, confirma Jean. Une fouille honnête, ça se prouve
+étape par étape, jamais sur la seule bonne foi de celui qui raconte
+l'histoire. C'est même la première chose qu'elle nous a dite, la toute
+première année où on est venus l'aider.
+
+L'après-midi se poursuivit dans la même veine studieuse, chacun muni
+d'un petit pinceau et de gants en coton pour ne pas abîmer les
+fragments les plus fragiles. Tomas leur montra comment dégager la terre
+autour d'un os sans jamais gratter directement dessus,
 d'abord au pinceau large, puis à l'aiguille fine à mesure qu'on
 approchait de la surface, un geste répété tant de fois qu'il semblait
 presque automatique chez lui.
@@ -324,7 +411,7 @@ qui vient s'annonce chargée. La mairie prépare quelque chose de grand
 pour le week-end, et je sens que ça va occuper tout le monde, d'une
 façon ou d'une autre.
 
-— Quel genre de chose ? demanda Sofia.
+— Quoi, comme grande chose ? demanda Sofia.
 
 — Vous le saurez bien assez tôt, dit Inès, sans en révéler davantage,
 occupée déjà à couper le fromage en parts égales pour tout le monde.
@@ -342,6 +429,39 @@ découverte se révèle couche par couche.
 attendu le bon moment pour s'effondrer à moitié sur mon assistant, admit
 Théo, songeur. Peut-être qu'il y a quelque chose à apprendre de ta
 méthode, finalement.
+
+— Raconte celle du sarcophage vide, demanda Sofia, qui connaissait
+déjà l'histoire par cœur mais ne se lassait jamais de la réentendre.
+
+Théo se redressa, visiblement ravi qu'on le lui demande, et prit une
+grande inspiration théâtrale avant de commencer.
+
+— Trois semaines à dégager centimètre par centimètre un sarcophage
+qu'on annonçait déjà, dans mon esprit, comme la découverte de ma
+carrière, dit-il. Toute l'équipe retenait son souffle le jour où on a
+enfin soulevé le couvercle. Et là...
+
+— Rien, compléta Sofia, en imitant la tête déconfite que Théo faisait
+toujours à ce moment de l'histoire. Complètement vide.
+
+— Complètement vide, confirma Théo, avec un soupir théâtral. Pillé,
+sans doute, des siècles avant notre arrivée. Trois semaines de travail
+minutieux pour découvrir qu'on était arrivés environ deux mille ans
+trop tard.
+
+— Et vous avez fait quoi ? demanda Souly, toujours friand de ce genre
+de détail pratique que les histoires oublient souvent de raconter.
+
+— On a documenté le sarcophage vide exactement comme s'il avait été
+plein, dit Théo. Parce qu'un sarcophage vide, ça raconte aussi une
+histoire : qui l'a pillé, quand, comment. L'absence, en archéologie,
+ça compte parfois presque autant que la présence.
+
+— C'est exactement la même chose chez nous, intervint Inès. Une couche
+sans fossile, ce n'est jamais vraiment « rien ». Ça nous dit que les
+conditions n'étaient pas favorables à la fossilisation à ce moment-là,
+ou que quelque chose a détruit ce qui s'y trouvait. Même le vide a une
+histoire, si on prend la peine de la lire correctement.
 
 La conversation se poursuivit tard dans la soirée, ponctuée par le
 chant des grillons montant du vallon et par les récits croisés de Théo
@@ -361,3 +481,12 @@ détails, et ce sont souvent les petits détails qui comptent le plus.
 
 — Tu vas vraiment bien t'entendre avec moi, dit Inès, avec un
 hochement de tête approbateur. Beaucoup trop bien, peut-être.
+
+Théo souffla la bougie anti-moustiques d'un geste tranquille, laissant
+la terrasse baigner un instant dans la seule lumière des étoiles, avant
+d'aider Sofia, presque endormie, à se relever de sa chaise.
+
+— Demain, une vraie journée de fouille vous attend, dit-il, à voix
+basse pour ne pas achever de la réveiller tout à fait. Profitez bien de
+cette dernière nuit tranquille. Je sens qu'on n'en aura plus beaucoup,
+cette semaine.
