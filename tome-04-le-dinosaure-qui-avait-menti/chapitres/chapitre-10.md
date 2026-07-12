@@ -209,7 +209,7 @@ de faux sarcophage, il y a une dizaine d'années, dans un musée que je
 ne nommerai pas. Sauf qu'eux, ils n'avaient pas deux détectives de
 douze et huit ans pour les démasquer avant l'inauguration.
 
-— Douze et huit ans et demi, corrigea Sofia, du tac au tac.
+— Douze et huit ans et demi, rectifia Sofia, sans une seconde d'hésitation.
 
 — Tu n'as pas huit ans et demi, fit remarquer Souly.
 

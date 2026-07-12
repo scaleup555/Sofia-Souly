@@ -79,6 +79,18 @@ une pluie.
 souvenant aussitôt de la toute première leçon, le premier matin sur
 le chantier. Chaque couche a sa propre chimie.
 
+Il s'arrêta net, son crayon suspendu au-dessus de la page.
+
+— Le fragment brun-rouge, dit-il soudain. Celui qu'on avait trouvé le
+tout premier jour, mélangé avec les autres. Vous aviez dit qu'il ne
+venait pas du carré principal. Il venait d'ici, non ? De cette même
+strate ?
+
+— Probablement, dit Inès, impressionnée. Quelqu'un aura marché d'ici
+jusqu'au chantier avec un peu de cette terre collée sous une semelle,
+et un petit fragment aura fini par se détacher en chemin. Ça arrive
+plus souvent qu'on ne le croit.
+
 — Le même principe, dit Inès, à ceci près qu'ici, c'est une
 seule et même couche qui affleure juste sous la surface, à cet
 endroit précis du champ, et nulle part ailleurs sur des dizaines de

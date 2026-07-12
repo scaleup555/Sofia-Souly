@@ -79,8 +79,8 @@ pour votre stagiaire. Ça retombera vite, ces choses-là. Ou alors ça ne
 retombera jamais, ce qui serait dommage.
 
 — C'est toujours plus facile de soupçonner quelqu'un qui n'est pas là
-pour se défendre, dit Sofia, avec une conviction qui ne laissait aucune
-place au doute. On l'a déjà vu, avec ton grand-père.
+pour se défendre, dit Sofia, sans la moindre hésitation dans la voix.
+On l'a déjà vu, avec ton grand-père.
 
 Milo la regarda un instant, visiblement surpris qu'elle ait fait ce
 rapprochement toute seule.

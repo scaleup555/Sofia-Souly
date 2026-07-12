@@ -4,9 +4,9 @@ Le lendemain matin, Sofia et Souly partirent explorer le chemin qui
 longeait le bord du vallon, côté est, à travers un champ d'oliviers
 appartenant à la famille Fabre depuis, disait-on au village, plus de
 temps que quiconque pouvait vraiment se rappeler. C'est là, assis sur un
-muret de pierres sèches, qu'un garçon d'à peu près l'âge de Souly les
-regarda approcher avec une méfiance qu'il ne cherchait pas
-particulièrement à dissimuler.
+muret de pierres sèches, qu'un garçon de onze ans les regarda
+approcher d'un œil méfiant, sans faire le moindre effort pour le
+cacher.
 
 — C'est chez moi, ici, dit-il, en guise de salut. Enfin, chez mon
 grand-père. Vous êtes de la fouille ?

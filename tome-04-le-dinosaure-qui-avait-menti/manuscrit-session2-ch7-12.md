@@ -655,9 +655,11 @@ n'a rien d'un homme qui se contente d'« admirer le paysage », comme il
 prétend.
 
 Elsa regarda longuement le petit rectangle qu'elle avait dessiné sans
-y penser. Elle avait capturé une preuve sans le savoir — et la réponse
-avait été sous ses yeux, sur sa propre page, depuis des semaines,
-sans qu'elle la voie jamais.
+y penser, la bouche entrouverte.
+
+— J'avais la réponse sous les yeux depuis des semaines, dit-elle
+enfin, presque pour elle-même. Sur ma propre page. Et je ne l'ai
+jamais vue.
 
 — J'aurais dû vous montrer ce carnet dès le premier jour, dit-elle.
 
@@ -750,8 +752,8 @@ d'indices, jamais une preuve incontestable.
 l'histoire racontée au premier soir. Documenter avant de conclure,
 même quand on est presque sûr d'avoir déjà compris.
 
-— Exactement comme ça, confirma Inès. La certitude n'a jamais remplacé
-la preuve, dans aucun métier sérieux.
+— Voilà, dit Inès. La certitude n'a jamais remplacé la preuve, dans
+aucun métier sérieux.
 
 Souly hocha la tête, la mâchoire serrée par une détermination qui
 faisait un peu peur, chez un garçon de douze ans qui comptait
@@ -1650,7 +1652,7 @@ de faux sarcophage, il y a une dizaine d'années, dans un musée que je
 ne nommerai pas. Sauf qu'eux, ils n'avaient pas deux détectives de
 douze et huit ans pour les démasquer avant l'inauguration.
 
-— Douze et huit ans et demi, corrigea Sofia, du tac au tac.
+— Douze et huit ans et demi, rectifia Sofia, sans une seconde d'hésitation.
 
 — Tu n'as pas huit ans et demi, fit remarquer Souly.
 
@@ -1994,6 +1996,18 @@ une pluie.
 — Comme le bocal de sable que vous nous avez montré, dit Souly, se
 souvenant aussitôt de la toute première leçon, le premier matin sur
 le chantier. Chaque couche a sa propre chimie.
+
+Il s'arrêta net, son crayon suspendu au-dessus de la page.
+
+— Le fragment brun-rouge, dit-il soudain. Celui qu'on avait trouvé le
+tout premier jour, mélangé avec les autres. Vous aviez dit qu'il ne
+venait pas du carré principal. Il venait d'ici, non ? De cette même
+strate ?
+
+— Probablement, dit Inès, impressionnée. Quelqu'un aura marché d'ici
+jusqu'au chantier avec un peu de cette terre collée sous une semelle,
+et un petit fragment aura fini par se détacher en chemin. Ça arrive
+plus souvent qu'on ne le croit.
 
 — Le même principe, dit Inès, à ceci près qu'ici, c'est une
 seule et même couche qui affleure juste sous la surface, à cet

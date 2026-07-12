@@ -83,8 +83,7 @@ les rayons clairsemés du magasin.
 — Un peu. Surtout des curieux de passage, une heure ou deux, pas de
 quoi remplir un hôtel. On a besoin d'une vraie raison de rester plus
 longtemps. Une vraie attraction. Souly griffonna aussitôt trois mots
-dans son carnet, sans qu'on ait besoin de lui expliquer : c'était donc
-de ça que Marion allait parler, un peu plus tard.
+dans son carnet, sans qu'on ait besoin de lui expliquer pourquoi.
 
 Frédéric leur offrit malgré tout deux esquimaux à la framboise avant
 qu'ils ne reprennent la route, « pour la bonne bouche, et pour que vous
@@ -125,8 +124,8 @@ comme elle aurait jaugé un nouveau fragment avant de décider s'il
 méritait qu'on s'y attarde.
 
 — Alors voilà les fameux enquêteurs dont Théo n'arrête pas de parler
-depuis des années, dit-elle. Souly, le carnet. Sofia, les questions qui
-dérangent. J'ai bon ?
+depuis des années, dit-elle. Souly, le fameux Carnet des Preuves.
+Sofia, les questions qui dérangent. J'ai bon ?
 
 — Vous avez tout bon, dit Sofia, impressionnée malgré elle.
 
@@ -425,8 +424,8 @@ si la question n'avait jamais été posée.
 assez pour qu'Inès ne l'entende pas. Distiller l'information comme une
 bonne nouvelle qu'elle veut garder pour elle le plus longtemps possible.
 
-— J'appelle ça du sens du rythme, corrigea Inès, découpant son plateau
-de fromages avec une lenteur qui n'avait rien d'accidentel. Vous les
+— J'appelle ça du sens du rythme, dit Inès, découpant délibérément son
+plateau de fromages tranche par tranche, sans se presser. Vous les
 archéologues, vous racontez tout, tout de suite, dans le désordre.
 Nous les paléontologues, on sait qu'une bonne
 découverte se révèle couche par couche.
@@ -600,9 +599,9 @@ comme un sablier qui s'écoule extrêmement, extrêmement lentement.
 — Comme un sablier de plusieurs millions d'années, dit Souly, fasciné
 par l'image.
 
-— Exactement ça, confirma Inès. Sauf qu'au lieu de sable, ce sont des
+— C'est tout à fait ça, dit Inès. Sauf qu'au lieu de sable, ce sont des
 atomes qui se transforment les uns en les autres, à un rythme si
-régulier qu'on peut calculer, presque comme une horloge, combien de
+régulier qu'on peut calculer, comme une horloge, combien de
 temps s'est écoulé depuis la mort de l'animal.
 
 — Ça doit être hyper compliqué à mesurer, dit Sofia.
@@ -739,7 +738,7 @@ creuserait un peu partout, au petit bonheur la chance.
 — Donc la carte elle-même, c'est presque une découverte, dit Souly,
 fasciné.
 
-— Exactement, confirma Léa. Une carte comme celle-ci vaut plus cher,
+— Tu as tout compris, dit Léa. Une carte comme celle-ci vaut plus cher,
 scientifiquement, que n'importe quel fossile isolé qu'on pourrait
 acheter chez un marchand. Elle, personne ne peut la fabriquer du jour
 au lendemain. Il faut vingt ans de travail honnête pour l'obtenir.
@@ -835,7 +834,9 @@ confiance aujourd'hui, malgré toute la pression que je te mets. Tu n'as
 jamais menti sur ce que tu trouvais, même quand ça t'aurait arrangée de
 le faire.
 
-— Alors fais-moi confiance encore un peu, dit Inès. Jusqu'à samedi.
+— Alors fais-moi confiance encore un peu, dit Inès. Jusqu'à la Foire
+de ce samedi, au moins — la vraie Fête, elle, peut attendre encore un
+peu.
 
 — On y travaille, dit Marion, d'une voix qui manquait singulièrement
 d'assurance, avant de se tourner brièvement vers les enfants, un peu
@@ -996,9 +997,9 @@ Le lendemain matin, Sofia et Souly partirent explorer le chemin qui
 longeait le bord du vallon, côté est, à travers un champ d'oliviers
 appartenant à la famille Fabre depuis, disait-on au village, plus de
 temps que quiconque pouvait vraiment se rappeler. C'est là, assis sur un
-muret de pierres sèches, qu'un garçon d'à peu près l'âge de Souly les
-regarda approcher avec une méfiance qu'il ne cherchait pas
-particulièrement à dissimuler.
+muret de pierres sèches, qu'un garçon de onze ans les regarda
+approcher d'un œil méfiant, sans faire le moindre effort pour le
+cacher.
 
 — C'est chez moi, ici, dit-il, en guise de salut. Enfin, chez mon
 grand-père. Vous êtes de la fouille ?
@@ -1693,8 +1694,9 @@ levant les bras vers le ciel poussiéreux.
 dernière trace de poussière rouge coincée dans son col.
 
 Non loin de là, sur son propre stand resté miraculeusement épargné par
-le nuage de poussière, Dorian Vasseur observait la scène avec un
-détachement qui n'échappa pas à Sofia.
+le nuage de poussière, Dorian Vasseur observait la scène sans bouger
+d'un pas pour aider — un détail que Sofia nota, sans trop savoir
+pourquoi.
 
 — Un accident regrettable, commenta-t-il, assez fort pour être entendu
 de la petite foule encore rassemblée. Ça arrive, quand on manipule des
@@ -2254,7 +2256,7 @@ os eux-mêmes. Les histoires qu'ils nous permettent de raconter.
 
 Elle s'arrêta sur un croquis particulièrement détaillé, une vertèbre
 fossilisée reproduite trait pour trait, chaque strie de la texture
-rendue avec une précision presque photographique.
+visible comme sur une photographie.
 
 — Regarde, Souly, celui-là ressemble presque plus à une vraie photo
 qu'à un dessin.
@@ -2451,8 +2453,8 @@ pour votre stagiaire. Ça retombera vite, ces choses-là. Ou alors ça ne
 retombera jamais, ce qui serait dommage.
 
 — C'est toujours plus facile de soupçonner quelqu'un qui n'est pas là
-pour se défendre, dit Sofia, avec une conviction qui ne laissait aucune
-place au doute. On l'a déjà vu, avec ton grand-père.
+pour se défendre, dit Sofia, sans la moindre hésitation dans la voix.
+On l'a déjà vu, avec ton grand-père.
 
 Milo la regarda un instant, visiblement surpris qu'elle ait fait ce
 rapprochement toute seule.
@@ -3480,9 +3482,11 @@ n'a rien d'un homme qui se contente d'« admirer le paysage », comme il
 prétend.
 
 Elsa regarda longuement le petit rectangle qu'elle avait dessiné sans
-y penser. Elle avait capturé une preuve sans le savoir — et la réponse
-avait été sous ses yeux, sur sa propre page, depuis des semaines,
-sans qu'elle la voie jamais.
+y penser, la bouche entrouverte.
+
+— J'avais la réponse sous les yeux depuis des semaines, dit-elle
+enfin, presque pour elle-même. Sur ma propre page. Et je ne l'ai
+jamais vue.
 
 — J'aurais dû vous montrer ce carnet dès le premier jour, dit-elle.
 
@@ -3575,8 +3579,8 @@ d'indices, jamais une preuve incontestable.
 l'histoire racontée au premier soir. Documenter avant de conclure,
 même quand on est presque sûr d'avoir déjà compris.
 
-— Exactement comme ça, confirma Inès. La certitude n'a jamais remplacé
-la preuve, dans aucun métier sérieux.
+— Voilà, dit Inès. La certitude n'a jamais remplacé la preuve, dans
+aucun métier sérieux.
 
 Souly hocha la tête, la mâchoire serrée par une détermination qui
 faisait un peu peur, chez un garçon de douze ans qui comptait
@@ -4475,7 +4479,7 @@ de faux sarcophage, il y a une dizaine d'années, dans un musée que je
 ne nommerai pas. Sauf qu'eux, ils n'avaient pas deux détectives de
 douze et huit ans pour les démasquer avant l'inauguration.
 
-— Douze et huit ans et demi, corrigea Sofia, du tac au tac.
+— Douze et huit ans et demi, rectifia Sofia, sans une seconde d'hésitation.
 
 — Tu n'as pas huit ans et demi, fit remarquer Souly.
 
@@ -4819,6 +4823,18 @@ une pluie.
 — Comme le bocal de sable que vous nous avez montré, dit Souly, se
 souvenant aussitôt de la toute première leçon, le premier matin sur
 le chantier. Chaque couche a sa propre chimie.
+
+Il s'arrêta net, son crayon suspendu au-dessus de la page.
+
+— Le fragment brun-rouge, dit-il soudain. Celui qu'on avait trouvé le
+tout premier jour, mélangé avec les autres. Vous aviez dit qu'il ne
+venait pas du carré principal. Il venait d'ici, non ? De cette même
+strate ?
+
+— Probablement, dit Inès, impressionnée. Quelqu'un aura marché d'ici
+jusqu'au chantier avec un peu de cette terre collée sous une semelle,
+et un petit fragment aura fini par se détacher en chemin. Ça arrive
+plus souvent qu'on ne le croit.
 
 — Le même principe, dit Inès, à ceci près qu'ici, c'est une
 seule et même couche qui affleure juste sous la surface, à cet

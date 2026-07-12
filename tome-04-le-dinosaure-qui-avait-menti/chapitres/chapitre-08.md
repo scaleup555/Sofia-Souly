@@ -169,9 +169,11 @@ n'a rien d'un homme qui se contente d'« admirer le paysage », comme il
 prétend.
 
 Elsa regarda longuement le petit rectangle qu'elle avait dessiné sans
-y penser. Elle avait capturé une preuve sans le savoir — et la réponse
-avait été sous ses yeux, sur sa propre page, depuis des semaines,
-sans qu'elle la voie jamais.
+y penser, la bouche entrouverte.
+
+— J'avais la réponse sous les yeux depuis des semaines, dit-elle
+enfin, presque pour elle-même. Sur ma propre page. Et je ne l'ai
+jamais vue.
 
 — J'aurais dû vous montrer ce carnet dès le premier jour, dit-elle.
 
@@ -264,8 +266,8 @@ d'indices, jamais une preuve incontestable.
 l'histoire racontée au premier soir. Documenter avant de conclure,
 même quand on est presque sûr d'avoir déjà compris.
 
-— Exactement comme ça, confirma Inès. La certitude n'a jamais remplacé
-la preuve, dans aucun métier sérieux.
+— Voilà, dit Inès. La certitude n'a jamais remplacé la preuve, dans
+aucun métier sérieux.
 
 Souly hocha la tête, la mâchoire serrée par une détermination qui
 faisait un peu peur, chez un garçon de douze ans qui comptait

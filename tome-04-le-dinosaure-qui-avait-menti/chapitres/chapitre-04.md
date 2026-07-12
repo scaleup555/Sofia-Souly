@@ -243,8 +243,9 @@ levant les bras vers le ciel poussiéreux.
 dernière trace de poussière rouge coincée dans son col.
 
 Non loin de là, sur son propre stand resté miraculeusement épargné par
-le nuage de poussière, Dorian Vasseur observait la scène avec un
-détachement qui n'échappa pas à Sofia.
+le nuage de poussière, Dorian Vasseur observait la scène sans bouger
+d'un pas pour aider — un détail que Sofia nota, sans trop savoir
+pourquoi.
 
 — Un accident regrettable, commenta-t-il, assez fort pour être entendu
 de la petite foule encore rassemblée. Ça arrive, quand on manipule des

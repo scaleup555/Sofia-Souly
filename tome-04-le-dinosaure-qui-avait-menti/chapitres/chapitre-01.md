@@ -83,8 +83,7 @@ les rayons clairsemés du magasin.
 — Un peu. Surtout des curieux de passage, une heure ou deux, pas de
 quoi remplir un hôtel. On a besoin d'une vraie raison de rester plus
 longtemps. Une vraie attraction. Souly griffonna aussitôt trois mots
-dans son carnet, sans qu'on ait besoin de lui expliquer : c'était donc
-de ça que Marion allait parler, un peu plus tard.
+dans son carnet, sans qu'on ait besoin de lui expliquer pourquoi.
 
 Frédéric leur offrit malgré tout deux esquimaux à la framboise avant
 qu'ils ne reprennent la route, « pour la bonne bouche, et pour que vous
@@ -125,8 +124,8 @@ comme elle aurait jaugé un nouveau fragment avant de décider s'il
 méritait qu'on s'y attarde.
 
 — Alors voilà les fameux enquêteurs dont Théo n'arrête pas de parler
-depuis des années, dit-elle. Souly, le carnet. Sofia, les questions qui
-dérangent. J'ai bon ?
+depuis des années, dit-elle. Souly, le fameux Carnet des Preuves.
+Sofia, les questions qui dérangent. J'ai bon ?
 
 — Vous avez tout bon, dit Sofia, impressionnée malgré elle.
 
@@ -425,8 +424,8 @@ si la question n'avait jamais été posée.
 assez pour qu'Inès ne l'entende pas. Distiller l'information comme une
 bonne nouvelle qu'elle veut garder pour elle le plus longtemps possible.
 
-— J'appelle ça du sens du rythme, corrigea Inès, découpant son plateau
-de fromages avec une lenteur qui n'avait rien d'accidentel. Vous les
+— J'appelle ça du sens du rythme, dit Inès, découpant délibérément son
+plateau de fromages tranche par tranche, sans se presser. Vous les
 archéologues, vous racontez tout, tout de suite, dans le désordre.
 Nous les paléontologues, on sait qu'une bonne
 découverte se révèle couche par couche.

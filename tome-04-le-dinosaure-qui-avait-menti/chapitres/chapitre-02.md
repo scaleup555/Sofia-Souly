@@ -98,9 +98,9 @@ comme un sablier qui s'écoule extrêmement, extrêmement lentement.
 — Comme un sablier de plusieurs millions d'années, dit Souly, fasciné
 par l'image.
 
-— Exactement ça, confirma Inès. Sauf qu'au lieu de sable, ce sont des
+— C'est tout à fait ça, dit Inès. Sauf qu'au lieu de sable, ce sont des
 atomes qui se transforment les uns en les autres, à un rythme si
-régulier qu'on peut calculer, presque comme une horloge, combien de
+régulier qu'on peut calculer, comme une horloge, combien de
 temps s'est écoulé depuis la mort de l'animal.
 
 — Ça doit être hyper compliqué à mesurer, dit Sofia.
@@ -237,7 +237,7 @@ creuserait un peu partout, au petit bonheur la chance.
 — Donc la carte elle-même, c'est presque une découverte, dit Souly,
 fasciné.
 
-— Exactement, confirma Léa. Une carte comme celle-ci vaut plus cher,
+— Tu as tout compris, dit Léa. Une carte comme celle-ci vaut plus cher,
 scientifiquement, que n'importe quel fossile isolé qu'on pourrait
 acheter chez un marchand. Elle, personne ne peut la fabriquer du jour
 au lendemain. Il faut vingt ans de travail honnête pour l'obtenir.
@@ -333,7 +333,9 @@ confiance aujourd'hui, malgré toute la pression que je te mets. Tu n'as
 jamais menti sur ce que tu trouvais, même quand ça t'aurait arrangée de
 le faire.
 
-— Alors fais-moi confiance encore un peu, dit Inès. Jusqu'à samedi.
+— Alors fais-moi confiance encore un peu, dit Inès. Jusqu'à la Foire
+de ce samedi, au moins — la vraie Fête, elle, peut attendre encore un
+peu.
 
 — On y travaille, dit Marion, d'une voix qui manquait singulièrement
 d'assurance, avant de se tourner brièvement vers les enfants, un peu

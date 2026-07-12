@@ -345,7 +345,7 @@ os eux-mêmes. Les histoires qu'ils nous permettent de raconter.
 
 Elle s'arrêta sur un croquis particulièrement détaillé, une vertèbre
 fossilisée reproduite trait pour trait, chaque strie de la texture
-rendue avec une précision presque photographique.
+visible comme sur une photographie.
 
 — Regarde, Souly, celui-là ressemble presque plus à une vraie photo
 qu'à un dessin.
