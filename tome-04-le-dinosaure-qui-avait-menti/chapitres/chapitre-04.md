@@ -114,10 +114,9 @@ vais sûrement pas la laisser filer pour aller me promener ailleurs.
 Elle se pencha vers une petite fille qui venait de dégager, non sans
 fierté, une réplique de dent fossilisée.
 
-— Regardez ça, une découverte magnifique, dit-elle, avec un
-enthousiasme qui n'avait rien de feint. Vous voyez, on peut être
-rigoureux et s'amuser en même temps. C'est même comme ça que ça
-marche le mieux.
+— Regardez ça, une découverte magnifique, dit-elle, sincèrement
+enthousiaste. Vous voyez, on peut être rigoureux et s'amuser en même
+temps. C'est même comme ça que ça marche le mieux.
 
 Ils poursuivirent leur tour de la place jusqu'au stand de la mairie,
 où Marion, en pleine effervescence, coordonnait une demi-douzaine de
@@ -450,7 +449,7 @@ ceux qui viennent juste pour eux-mêmes.
 — Dans quelle catégorie tu ranges Vasseur ? demanda Sofia.
 
 — T'as vraiment besoin de demander ? répondit Milo, avec un petit
-sourire qui n'avait pas besoin de mots pour être clair.
+sourire éloquent.
 
 Le soleil finit de disparaître derrière les collines, laissant le
 vallon dans une pénombre bleutée où les dernières lanternes de la foire

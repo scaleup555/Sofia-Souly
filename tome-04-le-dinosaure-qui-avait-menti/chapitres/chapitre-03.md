@@ -345,8 +345,9 @@ par ce que trouve l'équipe de la Doctoresse Castellane.
 yeux.
 
 — Je facilite leur rencontre avec des amateurs éclairés, dit Vasseur,
-avec un sourire qui n'atteignait jamais tout à fait ses yeux. C'est un
-métier tout à fait honorable, je vous assure. Sur ce, bonne promenade.
+un sourire poli plaqué sur le visage, sans qu'il atteigne vraiment ses
+yeux. C'est un métier tout à fait honorable, je vous assure. Sur ce,
+bonne promenade.
 
 Il remonta dans sa camionnette et s'éloigna sur le chemin caillouteux,
 et aucun des trois enfants ne trouva rien à dire avant que le bruit du

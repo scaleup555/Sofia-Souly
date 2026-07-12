@@ -278,8 +278,8 @@ qu'on doit lui demander. On vérifie avant de juger, pas après.
 Pas de l'accuser. De lui demander.
 
 Ils retrouvèrent Elsa un peu plus tard, penchée sur une caisse de
-fragments qu'elle reclassait un par un, visiblement mal à l'aise dès
-qu'elle comprit le sujet de leur venue.
+fragments qu'elle reclassait un par un, mal à l'aise dès qu'elle
+comprit le sujet de leur venue.
 
 — Je n'ai touché à rien, dit-elle, immédiatement sur la défensive. Je
 sais ce que ça a l'air, mais je n'ai rien pris, rien déplacé.
@@ -337,7 +337,7 @@ justement le caillou en question de sa poche pour le montrer à Elsa. Il
 a une histoire.
 
 Elsa observa le petit caillou gris, tourné et retourné dans la paume de
-Sofia, avec une attention qui n'avait rien de moqueur.
+Sofia, avec une attention sincère, sans la moindre trace de moquerie.
 
 — Je vous crois, dit-elle simplement. Je crois même que c'est
 exactement ça, le vrai sujet de la paléontologie, au fond. Pas les
@@ -350,7 +350,7 @@ rendue avec une précision presque photographique.
 — Regarde, Souly, celui-là ressemble presque plus à une vraie photo
 qu'à un dessin.
 
-Souly se pencha à son tour, visiblement impressionné malgré lui.
+Souly se pencha à son tour, impressionné malgré lui.
 
 — Vous devriez montrer ça à Inès, dit-il. Pas parce que vous devez vous
 justifier. Juste parce que c'est du très bon travail, et que ça
@@ -435,7 +435,7 @@ timidement. Ça vaudrait peut-être mieux qu'une simple photo, pour
 certains détails de texture. Personne ne pourra dire qu'on a
 retouché un dessin fait sur le vif, devant témoins.
 
-— C'est une excellente idée, dit Inès, avec une fierté non dissimulée
+— C'est une excellente idée, dit Inès, une pointe de fierté dans la voix
 pour sa jeune stagiaire. Tu viens de t'inventer un vrai rôle dans cette
 enquête, Elsa. J'espère que tu t'en rends compte.
 

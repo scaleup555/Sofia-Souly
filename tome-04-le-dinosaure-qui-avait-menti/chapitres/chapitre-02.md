@@ -195,7 +195,24 @@ histoire semble parfaite, plus elle mérite qu'on la vérifie deux fois.
 — J'aime beaucoup cette phrase, dit Inès. Je vais te la voler pour mes
 prochains cours.
 
-Léa, l'une des deux doctorantes croisées la veille, s'approcha à son
+Un frelon, attiré par le pot de confiture resté ouvert sur le coin de
+la table, choisit cet instant précis pour plonger droit sur le groupe,
+provoquant une dispersion générale ponctuée de cris et de bras agités
+dans tous les sens. Sofia, la plus vive, referma le pot d'un geste sec
+tandis que Souly, statue immobile au milieu de l'agitation, comptait
+tout bas jusqu'à ce que l'insecte s'éloigne enfin vers l'extérieur de
+la tente.
+
+— Toujours aussi calme sous la panique générale, remarqua Tomas, un
+sourcil levé, en le voyant reprendre son carnet comme si de rien
+n'était.
+
+— Il n'y avait pas de vraie urgence, dit Souly, en haussant les
+épaules. Juste un frelon. On ne panique que pour de bonnes raisons.
+
+Une fois le calme revenu et le pot de confiture rangé loin de la table
+de travail, Léa, l'une des deux doctorantes croisées la veille,
+s'approcha à son
 tour, un dossier cartonné sous le bras, couvert de graphiques et de
 colonnes de chiffres.
 
@@ -305,8 +322,9 @@ On me prenait pour une folle, une étudiante venue perdre son temps dans
 la poussière. Il a fallu trois ans avant la première vraie découverte.
 Trois ans où j'aurais pu tout abandonner, cent fois.
 
-— Je m'en souviens très bien, dit Marion, avec un sourire qui trahissait
-une vraie tendresse sous la fatigue. C'est même pour ça que je te fais
+— Je m'en souviens très bien, dit Marion, d'une voix radoucie où
+perçait une vraie tendresse sous la fatigue. C'est même pour ça que je
+te fais
 confiance aujourd'hui, malgré toute la pression que je te mets. Tu n'as
 jamais menti sur ce que tu trouvais, même quand ça t'aurait arrangée de
 le faire.
@@ -342,8 +360,8 @@ soudain préoccupée par un aspect de l'affaire auquel elle n'avait pas
 songé jusque-là.
 
 — Je crois surtout qu'Inès ne laissera jamais cette pression changer
-sa façon de travailler, dit Souly, avec une conviction qui trahissait
-déjà une belle confiance en la paléontologue. Mais ça ne veut pas dire
+sa façon de travailler, dit Souly, d'un ton qui trahissait déjà une
+belle confiance en la paléontologue. Mais ça ne veut pas dire
 que tout le monde, autour d'elle, résistera aussi bien.
 
 — Tu penses à quelqu'un en particulier ?
@@ -421,8 +439,8 @@ un peu moins soignée, une première ligne juste en dessous : « L'homme à
 la veste beige. Ne se salit jamais les mains. »
 
 L'après-midi se poursuivit dans une atmosphère étrangement studieuse,
-chacun s'affairant sur son propre carré avec une concentration presque
-palpable, comme si la conversation de la matinée avait rappelé à tout
+chacun penché sur son propre carré, silencieux et appliqué, comme si la
+conversation de la matinée avait rappelé à tout
 le monde combien chaque heure passée sur le chantier comptait
 désormais. Inès elle-même, d'ordinaire disposée à s'arrêter pour
 répondre longuement à la moindre question, restait cette fois penchée

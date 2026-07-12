@@ -20,47 +20,45 @@ juste que la moitié de ce qu'il sait est faux.
 — L'autre moitié, c'est justement ce qu'on est en train d'essayer de
 démêler, dit Souly, en accélérant à son tour le pas.
 
-Ce matin-là, avant même que les enfants n'arrivent, Inès avait réuni
-toute l'équipe sous la grande tente pour une discussion qui ne
-ressemblait à aucune des habituelles réunions de chantier.
+Ce matin-là, Sofia et Souly étaient arrivés au chantier assez tôt pour
+trouver toute l'équipe déjà réunie sous la grande tente, pour une
+discussion qui ne ressemblait à aucune des habituelles réunions de
+chantier. Ils se glissèrent discrètement au fond, sans interrompre.
 
-— Je ne vais pas vous mentir, avait-elle commencé, en posant les deux
+— Je ne vais pas vous mentir, disait justement Inès, en posant les deux
 mains à plat sur la table couverte de fiches. On a un problème de
 sécurité sérieux, et je préfère qu'on en parle tous ensemble plutôt que
 de laisser les rumeurs s'en charger à notre place.
 
 Tomas, qui d'ordinaire gardait un silence presque monacal pendant les
-réunions, avait levé la main le premier.
+réunions, leva la main le premier.
 
-— On a vérifié les serrures de la remise ? avait-il demandé. Si
-quelqu'un est entré sans forcer, ça change beaucoup de choses.
+— On a vérifié les serrures de la remise ? demanda-t-il. Si quelqu'un
+est entré sans forcer, ça change beaucoup de choses.
 
-— Rien n'a été forcé, avait confirmé Inès. Ce qui veut dire que soit
+— Rien n'a été forcé, confirma Inès. Ce qui veut dire que soit
 quelqu'un avait un double des clés, soit quelqu'un connaissait
 suffisamment bien nos habitudes pour profiter d'un moment où la remise
 restait ouverte.
 
-Farida avait alors proposé, d'une voix mal assurée, ce que personne
-n'osait dire tout haut :
+Farida proposa alors, d'une voix mal assurée, ce que personne n'osait
+dire tout haut :
 
 — Ça veut dire que ça vient de quelqu'un de l'équipe. Ou de quelqu'un
 qui passe assez de temps ici pour connaître nos habitudes aussi bien
 que nous.
 
-Sofia et Souly, arrivés entretemps, s'étaient glissés discrètement au
-fond de la tente pour écouter la suite sans interrompre.
+Souly avait déjà sorti son carnet sans même s'en rendre compte,
+notant chaque phrase au fur et à mesure.
 
-— À partir d'aujourd'hui, avait annoncé Inès, chaque fiche d'inventaire
-devra être recroisée avec le registre des signatures. Je veux qu'on
-sache exactement qui a manipulé quoi, et quand. Ce n'est pas une
-question de confiance, c'est une question de rigueur. Une bonne fouille
+— À partir d'aujourd'hui, annonça Inès, chaque fiche d'inventaire devra
+être recroisée avec le registre des signatures. Je veux qu'on sache
+exactement qui a manipulé quoi, et quand. Ce n'est pas une question de
+confiance, c'est une question de rigueur. Une bonne fouille
 scientifique laisse toujours une trace vérifiable, à chaque étape.
 
-C'était cette phrase, prononcée sans y penser plus que ça, qui allait
-donner à Souly, un peu plus tard dans la matinée, l'idée de comparer
-systématiquement les fragments suspects à leurs fiches d'origine — et
-c'était cette même rigueur qui allait, sans qu'il le sache encore, le
-mener tout droit vers deux initiales griffonnées au coin d'une carte.
+Souly souligna cette dernière phrase deux fois dans son carnet, sans
+trop savoir encore à quoi elle allait lui servir.
 
 — Ils sont déjà en train de chercher un coupable parmi nous, dit Milo,
 amer, en aidant les deux enfants à trier des photographies imprimées sur
@@ -245,7 +243,7 @@ troisième fragment. Un dont on est certains qu'il est vrai, mais qui
 vient d'un tout autre carré, juste pour vérifier que le test marche
 pareil partout.
 
-— Bonne idée, dit Elsa, visiblement impressionnée par le réflexe. C'est
+— Bonne idée, dit Elsa, impressionnée par le réflexe. C'est
 exactement ce qu'on appelle un témoin, en sciences. Un élément de
 comparaison qu'on sait déjà fiable, pour être sûr que le résultat
 qu'on observe vient bien de ce qu'on teste, et pas d'autre chose.
@@ -318,8 +316,8 @@ maintenant, sans témoin et sans Inès, on ne pourra jamais prouver qu'on
 n'a pas nous-mêmes changé quelque chose à l'intérieur. Il faut faire ça
 dans les règles, sinon toutes nos preuves ne vaudront plus rien.
 
-Sofia retira sa main, un peu à contrecœur, mais visiblement consciente
-que son frère avait raison.
+Sofia retira sa main, un peu à contrecœur, mais consciente que son
+frère avait raison.
 
 — Depuis quand tu es aussi raisonnable, toi, exactement ? demanda-t-elle,
 presque suspicieuse, en le regardant du coin de l'œil.

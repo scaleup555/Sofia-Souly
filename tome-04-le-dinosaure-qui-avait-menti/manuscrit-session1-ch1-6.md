@@ -444,9 +444,10 @@ enfin soulevé le couvercle. Et là...
 — Rien, compléta Sofia, en imitant la tête déconfite que Théo faisait
 toujours à ce moment de l'histoire. Complètement vide.
 
-— Complètement vide, confirma Théo, avec un soupir théâtral. Pillé,
-sans doute, des siècles avant notre arrivée. Trois semaines de travail
-minutieux pour découvrir qu'on était arrivés environ deux mille ans
+— Complètement vide, confirma Théo, la main sur le cœur en un geste
+théâtral. Pillé, sans doute, des siècles avant notre arrivée. Trois
+semaines de travail minutieux pour découvrir qu'on était arrivés
+environ deux mille ans
 trop tard.
 
 — Et vous avez fait quoi ? demanda Souly, toujours friand de ce genre
@@ -689,7 +690,24 @@ histoire semble parfaite, plus elle mérite qu'on la vérifie deux fois.
 — J'aime beaucoup cette phrase, dit Inès. Je vais te la voler pour mes
 prochains cours.
 
-Léa, l'une des deux doctorantes croisées la veille, s'approcha à son
+Un frelon, attiré par le pot de confiture resté ouvert sur le coin de
+la table, choisit cet instant précis pour plonger droit sur le groupe,
+provoquant une dispersion générale ponctuée de cris et de bras agités
+dans tous les sens. Sofia, la plus vive, referma le pot d'un geste sec
+tandis que Souly, statue immobile au milieu de l'agitation, comptait
+tout bas jusqu'à ce que l'insecte s'éloigne enfin vers l'extérieur de
+la tente.
+
+— Toujours aussi calme sous la panique générale, remarqua Tomas, un
+sourcil levé, en le voyant reprendre son carnet comme si de rien
+n'était.
+
+— Il n'y avait pas de vraie urgence, dit Souly, en haussant les
+épaules. Juste un frelon. On ne panique que pour de bonnes raisons.
+
+Une fois le calme revenu et le pot de confiture rangé loin de la table
+de travail, Léa, l'une des deux doctorantes croisées la veille,
+s'approcha à son
 tour, un dossier cartonné sous le bras, couvert de graphiques et de
 colonnes de chiffres.
 
@@ -799,8 +817,9 @@ On me prenait pour une folle, une étudiante venue perdre son temps dans
 la poussière. Il a fallu trois ans avant la première vraie découverte.
 Trois ans où j'aurais pu tout abandonner, cent fois.
 
-— Je m'en souviens très bien, dit Marion, avec un sourire qui trahissait
-une vraie tendresse sous la fatigue. C'est même pour ça que je te fais
+— Je m'en souviens très bien, dit Marion, d'une voix radoucie où
+perçait une vraie tendresse sous la fatigue. C'est même pour ça que je
+te fais
 confiance aujourd'hui, malgré toute la pression que je te mets. Tu n'as
 jamais menti sur ce que tu trouvais, même quand ça t'aurait arrangée de
 le faire.
@@ -836,8 +855,8 @@ soudain préoccupée par un aspect de l'affaire auquel elle n'avait pas
 songé jusque-là.
 
 — Je crois surtout qu'Inès ne laissera jamais cette pression changer
-sa façon de travailler, dit Souly, avec une conviction qui trahissait
-déjà une belle confiance en la paléontologue. Mais ça ne veut pas dire
+sa façon de travailler, dit Souly, d'un ton qui trahissait déjà une
+belle confiance en la paléontologue. Mais ça ne veut pas dire
 que tout le monde, autour d'elle, résistera aussi bien.
 
 — Tu penses à quelqu'un en particulier ?
@@ -915,8 +934,8 @@ un peu moins soignée, une première ligne juste en dessous : « L'homme à
 la veste beige. Ne se salit jamais les mains. »
 
 L'après-midi se poursuivit dans une atmosphère étrangement studieuse,
-chacun s'affairant sur son propre carré avec une concentration presque
-palpable, comme si la conversation de la matinée avait rappelé à tout
+chacun penché sur son propre carré, silencieux et appliqué, comme si la
+conversation de la matinée avait rappelé à tout
 le monde combien chaque heure passée sur le chantier comptait
 désormais. Inès elle-même, d'ordinaire disposée à s'arrêter pour
 répondre longuement à la moindre question, restait cette fois penchée
@@ -1305,8 +1324,9 @@ par ce que trouve l'équipe de la Doctoresse Castellane.
 yeux.
 
 — Je facilite leur rencontre avec des amateurs éclairés, dit Vasseur,
-avec un sourire qui n'atteignait jamais tout à fait ses yeux. C'est un
-métier tout à fait honorable, je vous assure. Sur ce, bonne promenade.
+un sourire poli plaqué sur le visage, sans qu'il atteigne vraiment ses
+yeux. C'est un métier tout à fait honorable, je vous assure. Sur ce,
+bonne promenade.
 
 Il remonta dans sa camionnette et s'éloigna sur le chemin caillouteux,
 et aucun des trois enfants ne trouva rien à dire avant que le bruit du
@@ -1525,10 +1545,9 @@ vais sûrement pas la laisser filer pour aller me promener ailleurs.
 Elle se pencha vers une petite fille qui venait de dégager, non sans
 fierté, une réplique de dent fossilisée.
 
-— Regardez ça, une découverte magnifique, dit-elle, avec un
-enthousiasme qui n'avait rien de feint. Vous voyez, on peut être
-rigoureux et s'amuser en même temps. C'est même comme ça que ça
-marche le mieux.
+— Regardez ça, une découverte magnifique, dit-elle, sincèrement
+enthousiaste. Vous voyez, on peut être rigoureux et s'amuser en même
+temps. C'est même comme ça que ça marche le mieux.
 
 Ils poursuivirent leur tour de la place jusqu'au stand de la mairie,
 où Marion, en pleine effervescence, coordonnait une demi-douzaine de
@@ -1861,7 +1880,7 @@ ceux qui viennent juste pour eux-mêmes.
 — Dans quelle catégorie tu ranges Vasseur ? demanda Sofia.
 
 — T'as vraiment besoin de demander ? répondit Milo, avec un petit
-sourire qui n'avait pas besoin de mots pour être clair.
+sourire éloquent.
 
 Le soleil finit de disparaître derrière les collines, laissant le
 vallon dans une pénombre bleutée où les dernières lanternes de la foire
@@ -2149,8 +2168,8 @@ qu'on doit lui demander. On vérifie avant de juger, pas après.
 Pas de l'accuser. De lui demander.
 
 Ils retrouvèrent Elsa un peu plus tard, penchée sur une caisse de
-fragments qu'elle reclassait un par un, visiblement mal à l'aise dès
-qu'elle comprit le sujet de leur venue.
+fragments qu'elle reclassait un par un, mal à l'aise dès qu'elle
+comprit le sujet de leur venue.
 
 — Je n'ai touché à rien, dit-elle, immédiatement sur la défensive. Je
 sais ce que ça a l'air, mais je n'ai rien pris, rien déplacé.
@@ -2208,7 +2227,7 @@ justement le caillou en question de sa poche pour le montrer à Elsa. Il
 a une histoire.
 
 Elsa observa le petit caillou gris, tourné et retourné dans la paume de
-Sofia, avec une attention qui n'avait rien de moqueur.
+Sofia, avec une attention sincère, sans la moindre trace de moquerie.
 
 — Je vous crois, dit-elle simplement. Je crois même que c'est
 exactement ça, le vrai sujet de la paléontologie, au fond. Pas les
@@ -2221,7 +2240,7 @@ rendue avec une précision presque photographique.
 — Regarde, Souly, celui-là ressemble presque plus à une vraie photo
 qu'à un dessin.
 
-Souly se pencha à son tour, visiblement impressionné malgré lui.
+Souly se pencha à son tour, impressionné malgré lui.
 
 — Vous devriez montrer ça à Inès, dit-il. Pas parce que vous devez vous
 justifier. Juste parce que c'est du très bon travail, et que ça
@@ -2306,7 +2325,7 @@ timidement. Ça vaudrait peut-être mieux qu'une simple photo, pour
 certains détails de texture. Personne ne pourra dire qu'on a
 retouché un dessin fait sur le vif, devant témoins.
 
-— C'est une excellente idée, dit Inès, avec une fierté non dissimulée
+— C'est une excellente idée, dit Inès, une pointe de fierté dans la voix
 pour sa jeune stagiaire. Tu viens de t'inventer un vrai rôle dans cette
 enquête, Elsa. J'espère que tu t'en rends compte.
 
@@ -2353,47 +2372,45 @@ juste que la moitié de ce qu'il sait est faux.
 — L'autre moitié, c'est justement ce qu'on est en train d'essayer de
 démêler, dit Souly, en accélérant à son tour le pas.
 
-Ce matin-là, avant même que les enfants n'arrivent, Inès avait réuni
-toute l'équipe sous la grande tente pour une discussion qui ne
-ressemblait à aucune des habituelles réunions de chantier.
+Ce matin-là, Sofia et Souly étaient arrivés au chantier assez tôt pour
+trouver toute l'équipe déjà réunie sous la grande tente, pour une
+discussion qui ne ressemblait à aucune des habituelles réunions de
+chantier. Ils se glissèrent discrètement au fond, sans interrompre.
 
-— Je ne vais pas vous mentir, avait-elle commencé, en posant les deux
+— Je ne vais pas vous mentir, disait justement Inès, en posant les deux
 mains à plat sur la table couverte de fiches. On a un problème de
 sécurité sérieux, et je préfère qu'on en parle tous ensemble plutôt que
 de laisser les rumeurs s'en charger à notre place.
 
 Tomas, qui d'ordinaire gardait un silence presque monacal pendant les
-réunions, avait levé la main le premier.
+réunions, leva la main le premier.
 
-— On a vérifié les serrures de la remise ? avait-il demandé. Si
-quelqu'un est entré sans forcer, ça change beaucoup de choses.
+— On a vérifié les serrures de la remise ? demanda-t-il. Si quelqu'un
+est entré sans forcer, ça change beaucoup de choses.
 
-— Rien n'a été forcé, avait confirmé Inès. Ce qui veut dire que soit
+— Rien n'a été forcé, confirma Inès. Ce qui veut dire que soit
 quelqu'un avait un double des clés, soit quelqu'un connaissait
 suffisamment bien nos habitudes pour profiter d'un moment où la remise
 restait ouverte.
 
-Farida avait alors proposé, d'une voix mal assurée, ce que personne
-n'osait dire tout haut :
+Farida proposa alors, d'une voix mal assurée, ce que personne n'osait
+dire tout haut :
 
 — Ça veut dire que ça vient de quelqu'un de l'équipe. Ou de quelqu'un
 qui passe assez de temps ici pour connaître nos habitudes aussi bien
 que nous.
 
-Sofia et Souly, arrivés entretemps, s'étaient glissés discrètement au
-fond de la tente pour écouter la suite sans interrompre.
+Souly avait déjà sorti son carnet sans même s'en rendre compte,
+notant chaque phrase au fur et à mesure.
 
-— À partir d'aujourd'hui, avait annoncé Inès, chaque fiche d'inventaire
-devra être recroisée avec le registre des signatures. Je veux qu'on
-sache exactement qui a manipulé quoi, et quand. Ce n'est pas une
-question de confiance, c'est une question de rigueur. Une bonne fouille
+— À partir d'aujourd'hui, annonça Inès, chaque fiche d'inventaire devra
+être recroisée avec le registre des signatures. Je veux qu'on sache
+exactement qui a manipulé quoi, et quand. Ce n'est pas une question de
+confiance, c'est une question de rigueur. Une bonne fouille
 scientifique laisse toujours une trace vérifiable, à chaque étape.
 
-C'était cette phrase, prononcée sans y penser plus que ça, qui allait
-donner à Souly, un peu plus tard dans la matinée, l'idée de comparer
-systématiquement les fragments suspects à leurs fiches d'origine — et
-c'était cette même rigueur qui allait, sans qu'il le sache encore, le
-mener tout droit vers deux initiales griffonnées au coin d'une carte.
+Souly souligna cette dernière phrase deux fois dans son carnet, sans
+trop savoir encore à quoi elle allait lui servir.
 
 — Ils sont déjà en train de chercher un coupable parmi nous, dit Milo,
 amer, en aidant les deux enfants à trier des photographies imprimées sur
@@ -2578,7 +2595,7 @@ troisième fragment. Un dont on est certains qu'il est vrai, mais qui
 vient d'un tout autre carré, juste pour vérifier que le test marche
 pareil partout.
 
-— Bonne idée, dit Elsa, visiblement impressionnée par le réflexe. C'est
+— Bonne idée, dit Elsa, impressionnée par le réflexe. C'est
 exactement ce qu'on appelle un témoin, en sciences. Un élément de
 comparaison qu'on sait déjà fiable, pour être sûr que le résultat
 qu'on observe vient bien de ce qu'on teste, et pas d'autre chose.
@@ -2651,8 +2668,8 @@ maintenant, sans témoin et sans Inès, on ne pourra jamais prouver qu'on
 n'a pas nous-mêmes changé quelque chose à l'intérieur. Il faut faire ça
 dans les règles, sinon toutes nos preuves ne vaudront plus rien.
 
-Sofia retira sa main, un peu à contrecœur, mais visiblement consciente
-que son frère avait raison.
+Sofia retira sa main, un peu à contrecœur, mais consciente que son
+frère avait raison.
 
 — Depuis quand tu es aussi raisonnable, toi, exactement ? demanda-t-elle,
 presque suspicieuse, en le regardant du coin de l'œil.

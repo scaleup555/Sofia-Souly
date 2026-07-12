@@ -444,9 +444,10 @@ enfin soulevé le couvercle. Et là...
 — Rien, compléta Sofia, en imitant la tête déconfite que Théo faisait
 toujours à ce moment de l'histoire. Complètement vide.
 
-— Complètement vide, confirma Théo, avec un soupir théâtral. Pillé,
-sans doute, des siècles avant notre arrivée. Trois semaines de travail
-minutieux pour découvrir qu'on était arrivés environ deux mille ans
+— Complètement vide, confirma Théo, la main sur le cœur en un geste
+théâtral. Pillé, sans doute, des siècles avant notre arrivée. Trois
+semaines de travail minutieux pour découvrir qu'on était arrivés
+environ deux mille ans
 trop tard.
 
 — Et vous avez fait quoi ? demanda Souly, toujours friand de ce genre
