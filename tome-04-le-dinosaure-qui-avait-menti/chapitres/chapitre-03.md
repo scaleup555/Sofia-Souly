@@ -1,6 +1,9 @@
 # Chapitre 3 — Milo
 
-Le chemin qui longeait le bord du vallon, côté est, traversait un champ
+Le lendemain de la grande leçon sous la tente, pendant qu'Inès et son
+équipe rattrapaient le retard pris sur l'inventaire, Sofia et Souly
+obtinrent la permission d'explorer un peu les alentours du chantier. Le
+chemin qui longeait le bord du vallon, côté est, traversait un champ
 d'oliviers appartenant à la famille Fabre depuis, disait-on au village,
 plus de temps que quiconque pouvait vraiment se rappeler. C'est là, assis
 sur un muret de pierres sèches, qu'un garçon d'à peu près l'âge de Souly
@@ -31,7 +34,7 @@ entières passées à grimper dans les arbres et sur les rochers du champ.
 — Vous êtes les deux qui logent avec la Doctoresse Castellane, dit-il.
 J'ai entendu parler de vous, au marché.
 
-— Déjà ? s'étonna Sofia. On est arrivés hier.
+— Déjà ? s'étonna Sofia. On est arrivés avant-hier.
 
 — Ici, une nouvelle met moins de temps à circuler qu'un coup de vent,
 dit Milo, presque amusé malgré lui. On m'a dit que vous aviez trouvé un
@@ -41,7 +44,7 @@ Souly et Sofia échangèrent un regard, un peu déstabilisés à l'idée que
 leur découverte du fragment brun-rouge ait déjà voyagé jusqu'à ce champ
 d'oliviers isolé.
 
-— On a surtout posé beaucoup de questions, corrigea Souly, choisissant
+— On a surtout posé beaucoup de questions, dit Souly, en choisissant
 ses mots avec soin.
 
 — Ça, ça vous ressemble déjà bien, à en croire ce qu'on raconte de vous
@@ -67,7 +70,7 @@ depuis leur rencontre.
 
 — Je t'avais prévenue, dit-il, franchement content de son coup.
 
-— C'est vraiment, vraiment amer, renchérit Sofia, en recrachant
+— C'est vraiment, vraiment amer, dit Sofia, en recrachant
 discrètement dans sa paume. Mais bon à savoir.
 
 — La plupart des visiteurs me croient sur parole, dit Milo, encore
@@ -330,7 +333,7 @@ n'en avez jamais vu... oui, le prix sera à la hauteur, faites-moi
 confiance...
 
 Il raccrocha en apercevant les trois enfants et rangea aussitôt son
-téléphone, un sourire professionnel un peu trop rapide venant remplacer
+téléphone, un sourire professionnel venant aussitôt remplacer
 ce qu'il y avait, une seconde plus tôt, sur son visage.
 
 — Bonjour, les jeunes, dit-il. Vous vous baladez sur des terres privées,
@@ -385,7 +388,7 @@ facteur, qui pourtant lui a marché sur la queue deux fois cet été.
 — Les chiens se trompent jamais, dit Sofia, avec le sérieux absolu
 qu'elle réservait toujours à ses convictions les plus solides.
 
-— Les chiens réagissent à des odeurs et à des habitudes, corrigea
+— Les chiens réagissent à des odeurs et à des habitudes, objecta
 Souly, sans se laisser convaincre trop vite. Pas forcément à une
 intention cachée. Mais je note quand même l'observation.
 
@@ -440,11 +443,23 @@ propres calculs, jusqu'à ce que les premières tentes du chantier
 apparaissent, éclairées de l'intérieur par les lampes de travail de
 l'équipe qui finissait sa journée.
 
-— Première vraie journée d'enquête, dit Sofia, en apercevant enfin les
-tentes. Et on a déjà un suspect, un mystère de rocher fendu, et une
-histoire de terre qui rougit.
+— Un suspect, un mystère de rocher fendu et une histoire de terre qui
+rougit, énuméra Sofia en apercevant enfin les tentes. Pas mal, pour un
+seul après-midi.
 
-— Deuxième journée, corrigea Souly, en refermant son carnet pour de
-bon. On compte à partir d'hier, avec le fragment brun-rouge. Il faut
-toujours compter depuis le tout premier indice, sinon on fausse toute
-la chronologie de l'enquête.
+— Troisième jour, dit Souly, en refermant son carnet. Mais l'enquête,
+elle, compte depuis le premier, avec le fragment brun-rouge. Il faut
+toujours partir du tout premier indice, sinon on fausse toute la
+chronologie.
+
+Comme ils approchaient des tentes, Sofia s'arrêta net et retint son
+frère par la manche. À l'écart des lampes de travail, une silhouette
+fine se faufilait hors du chantier, dans la direction opposée au
+village, un carnet serré contre la poitrine et un dernier regard jeté
+par-dessus l'épaule, celui de quelqu'un qui préfère qu'on ne lui pose
+pas de questions.
+
+— C'est la stagiaire, chuchota Sofia. Elsa. Qu'est-ce qu'elle fait
+dehors toute seule, à cette heure-là, avec son carnet ?
+
+Souly rouvrit le sien sans un mot.

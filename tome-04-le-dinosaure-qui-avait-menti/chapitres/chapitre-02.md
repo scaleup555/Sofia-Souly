@@ -273,7 +273,7 @@ racines profondes typiques d'un climat bien plus arrosé.
 vallon aride par l'ouverture de la tente. Même les endroits qui
 paraissent immobiles.
 
-— Surtout les endroits qui paraissent immobiles, corrigea Léa, amusée.
+— Surtout les endroits qui paraissent immobiles, nuança Léa, amusée.
 Ils changent juste trop lentement pour qu'on le remarque de
 notre vivant.
 

@@ -77,7 +77,7 @@ vite que n'importe quelle vraie nouvelle. Ne vous inquiétez pas trop
 pour votre stagiaire. Ça retombera vite, ces choses-là. Ou alors ça ne
 retombera jamais, ce qui serait dommage.
 
-— C'est toujours plus facile de soupçonner quelqu'un qui n'est pas là
+— C'est toujours commode d'accuser quelqu'un qui n'est pas là
 pour se défendre, dit Sofia, et il n'y avait pas l'ombre d'un doute dans
 sa voix. On l'a déjà vu, avec ton grand-père.
 
@@ -298,7 +298,7 @@ n'a le droit de le déballer avant la fête. C'est écrit là, en gros.
 
 Le faisceau de sa lampe frontale glissa sur la fiche, et il n'eut pas
 besoin de lire la signature en bas pour deviner de qui elle venait :
-l'écriture élégante et un peu trop soignée ne pouvait appartenir qu'à un
+l'écriture élégante et soignée ne pouvait appartenir qu'à un
 seul membre du chantier.
 
 — Vasseur, dit-il. Il a réussi à faire enregistrer un bloc à son nom,
@@ -421,17 +421,20 @@ bloc mystérieux, toujours enveloppé de sa gaze protectrice, avant
 d'éteindre la lampe de la tente.
 
 — Demain, dit-elle, on prévient officiellement la gendarmerie du
-patrimoine. Assez de suppositions. Il est temps que quelqu'un d'autre
-que nous se penche sérieusement sur ce Dorian Vasseur.
+patrimoine. Pas pour accuser qui que ce soit — on n'en est pas là, et
+une signature dans un registre n'a jamais prouvé qu'on entre la nuit par
+une clôture. Simplement pour signaler qu'un faux fragment s'est retrouvé
+dans mon inventaire, et qu'on ignore encore qui l'y a glissé, et quand.
 
 — Ils vont nous croire ? demanda Sofia. On n'a que des empreintes, une
 pelle sans numéro, et un morceau de résine collante.
 
-— Ils vont au moins nous écouter, dit Inès. Et si Milo peut confirmer
+— Ils vont au moins nous écouter, dit Inès. Un faux dans un inventaire
+officiel, ça les regarde directement. Et si Milo peut confirmer
 l'histoire de la clôture, et Elsa celle du fragment suspect, ça fait
-déjà trois témoins indépendants qui pointent tous dans la même
-direction. Ce n'est plus une intuition d'enfants, à ce stade. C'est un
-vrai dossier.
+déjà trois observations indépendantes qui vont dans le même sens. Ce
+n'est plus une intuition d'enfants, à ce stade. Reste à savoir de qui,
+exactement, elles parlent.
 
 Souly referma son carnet une dernière fois pour la soirée, le sourire
 aux lèvres.

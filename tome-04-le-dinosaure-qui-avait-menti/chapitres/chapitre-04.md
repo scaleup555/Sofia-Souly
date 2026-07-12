@@ -13,7 +13,7 @@ trois personnes.
 annonça-t-il, en refermant le panier d'un coup sec. Elle a l'air de
 tenir beaucoup à ce que la fouille fasse bonne impression, aujourd'hui.
 
-— Elle a plutôt l'air inquiète, corrigea Souly, qui avait discrètement
+— Elle a plutôt l'air inquiète, rectifia Souly, qui avait discrètement
 observé la paléontologue la veille au soir, allant et venant entre les
 tentes bien après que tout le monde soit rentré se coucher.
 
@@ -168,7 +168,7 @@ l'occasion.
 impressionné malgré lui par l'ampleur de l'événement.
 
 — Toute cette agitation pour l'espoir de ce qu'il y a peut-être dedans,
-corrigea Sofia, en désignant les regards fixés sur la tranchée. C'est
+dit Sofia, en désignant les regards fixés sur la tranchée. C'est
 pas pareil.
 
 — On a besoin d'un volontaire pour actionner le treuil, annonça Tomas, le
@@ -184,7 +184,7 @@ trouver de mot pour répondre tout de suite.
 
 — Je... commença-t-il.
 
-— Parfait, allons-y ! trancha Tomas, déjà en train de l'installer devant
+— Parfait, allons-y ! lança Tomas, déjà en train de l'installer devant
 la manivelle avant que quiconque n'ait vraiment le temps de vérifier son
 consentement.
 
@@ -238,7 +238,7 @@ scolaire habituelle.
 — On se souviendra de cette foire, cria un des élèves, hilare, en
 levant les bras vers le ciel poussiéreux.
 
-— On s'en souviendra tous, marmonna Souly, en retirant enfin la
+— On s'en souviendra tous, dit Souly, en retirant enfin la
 dernière trace de poussière rouge coincée dans son col.
 
 Non loin de là, sur son propre stand resté miraculeusement épargné par
@@ -424,7 +424,7 @@ une foire.
 
 — Une diversion, dit Sofia, en écarquillant les yeux.
 
-— Peut-être pas volontaire de sa part, tempéra Souly. Mais une
+— Peut-être pas volontaire de sa part, dit Souly. Mais une
 diversion quand même. Personne ne surveille un chantier vide un jour
 de fête.
 

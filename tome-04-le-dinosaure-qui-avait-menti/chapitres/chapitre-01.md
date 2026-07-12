@@ -434,7 +434,7 @@ table un plat de tomates et d'olives qu'un voisin leur avait offert.
 — C'est le meilleur endroit qu'on ait jamais visité, déclara Sofia, la
 bouche déjà pleine, entre deux tomates.
 
-— C'est trop tôt pour le dire, corrigea Souly, en feuilletant son
+— C'est trop tôt pour le dire, dit Souly, en feuilletant son
 carnet couvert de croquis de la journée. Mais ça
 commence très, très bien.
 
@@ -455,7 +455,7 @@ occupée déjà à couper le fromage en parts égales pour tout le monde.
 assez pour qu'Inès ne l'entende pas. Distiller l'information au
 compte-gouttes, garder sa bonne nouvelle pour elle le plus longtemps possible.
 
-— J'appelle ça du sens du rythme, corrigea Inès, sans lever les yeux du
+— J'appelle ça du sens du rythme, répondit Inès, sans lever les yeux du
 plateau de fromages. Vous les archéologues, vous racontez tout, tout de
 suite, dans le désordre. Nous les paléontologues, on sait qu'une bonne
 découverte se révèle couche par couche.
@@ -479,7 +479,7 @@ enfin soulevé le couvercle. Et là...
 — Rien, compléta Sofia, en imitant la tête déconfite que Théo faisait
 toujours à ce moment de l'histoire. Complètement vide.
 
-— Complètement vide, renchérit Théo, la main sur le cœur en un geste
+— Complètement vide, répéta Théo, la main sur le cœur en un geste
 théâtral. Pillé, sans doute, des siècles avant notre arrivée. Trois
 semaines de travail minutieux pour découvrir qu'on était arrivés
 environ deux mille ans

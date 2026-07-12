@@ -434,7 +434,7 @@ table un plat de tomates et d'olives qu'un voisin leur avait offert.
 — C'est le meilleur endroit qu'on ait jamais visité, déclara Sofia, la
 bouche déjà pleine, entre deux tomates.
 
-— C'est trop tôt pour le dire, corrigea Souly, en feuilletant son
+— C'est trop tôt pour le dire, dit Souly, en feuilletant son
 carnet couvert de croquis de la journée. Mais ça
 commence très, très bien.
 
@@ -455,7 +455,7 @@ occupée déjà à couper le fromage en parts égales pour tout le monde.
 assez pour qu'Inès ne l'entende pas. Distiller l'information au
 compte-gouttes, garder sa bonne nouvelle pour elle le plus longtemps possible.
 
-— J'appelle ça du sens du rythme, corrigea Inès, sans lever les yeux du
+— J'appelle ça du sens du rythme, répondit Inès, sans lever les yeux du
 plateau de fromages. Vous les archéologues, vous racontez tout, tout de
 suite, dans le désordre. Nous les paléontologues, on sait qu'une bonne
 découverte se révèle couche par couche.
@@ -479,7 +479,7 @@ enfin soulevé le couvercle. Et là...
 — Rien, compléta Sofia, en imitant la tête déconfite que Théo faisait
 toujours à ce moment de l'histoire. Complètement vide.
 
-— Complètement vide, renchérit Théo, la main sur le cœur en un geste
+— Complètement vide, répéta Théo, la main sur le cœur en un geste
 théâtral. Pillé, sans doute, des siècles avant notre arrivée. Trois
 semaines de travail minutieux pour découvrir qu'on était arrivés
 environ deux mille ans
@@ -809,7 +809,7 @@ racines profondes typiques d'un climat bien plus arrosé.
 vallon aride par l'ouverture de la tente. Même les endroits qui
 paraissent immobiles.
 
-— Surtout les endroits qui paraissent immobiles, corrigea Léa, amusée.
+— Surtout les endroits qui paraissent immobiles, nuança Léa, amusée.
 Ils changent juste trop lentement pour qu'on le remarque de
 notre vivant.
 
@@ -1038,7 +1038,10 @@ si appuyé qu'il marqua les trois pages suivantes.
 
 # Chapitre 3 — Milo
 
-Le chemin qui longeait le bord du vallon, côté est, traversait un champ
+Le lendemain de la grande leçon sous la tente, pendant qu'Inès et son
+équipe rattrapaient le retard pris sur l'inventaire, Sofia et Souly
+obtinrent la permission d'explorer un peu les alentours du chantier. Le
+chemin qui longeait le bord du vallon, côté est, traversait un champ
 d'oliviers appartenant à la famille Fabre depuis, disait-on au village,
 plus de temps que quiconque pouvait vraiment se rappeler. C'est là, assis
 sur un muret de pierres sèches, qu'un garçon d'à peu près l'âge de Souly
@@ -1069,7 +1072,7 @@ entières passées à grimper dans les arbres et sur les rochers du champ.
 — Vous êtes les deux qui logent avec la Doctoresse Castellane, dit-il.
 J'ai entendu parler de vous, au marché.
 
-— Déjà ? s'étonna Sofia. On est arrivés hier.
+— Déjà ? s'étonna Sofia. On est arrivés avant-hier.
 
 — Ici, une nouvelle met moins de temps à circuler qu'un coup de vent,
 dit Milo, presque amusé malgré lui. On m'a dit que vous aviez trouvé un
@@ -1079,7 +1082,7 @@ Souly et Sofia échangèrent un regard, un peu déstabilisés à l'idée que
 leur découverte du fragment brun-rouge ait déjà voyagé jusqu'à ce champ
 d'oliviers isolé.
 
-— On a surtout posé beaucoup de questions, corrigea Souly, choisissant
+— On a surtout posé beaucoup de questions, dit Souly, en choisissant
 ses mots avec soin.
 
 — Ça, ça vous ressemble déjà bien, à en croire ce qu'on raconte de vous
@@ -1105,7 +1108,7 @@ depuis leur rencontre.
 
 — Je t'avais prévenue, dit-il, franchement content de son coup.
 
-— C'est vraiment, vraiment amer, renchérit Sofia, en recrachant
+— C'est vraiment, vraiment amer, dit Sofia, en recrachant
 discrètement dans sa paume. Mais bon à savoir.
 
 — La plupart des visiteurs me croient sur parole, dit Milo, encore
@@ -1368,7 +1371,7 @@ n'en avez jamais vu... oui, le prix sera à la hauteur, faites-moi
 confiance...
 
 Il raccrocha en apercevant les trois enfants et rangea aussitôt son
-téléphone, un sourire professionnel un peu trop rapide venant remplacer
+téléphone, un sourire professionnel venant aussitôt remplacer
 ce qu'il y avait, une seconde plus tôt, sur son visage.
 
 — Bonjour, les jeunes, dit-il. Vous vous baladez sur des terres privées,
@@ -1423,7 +1426,7 @@ facteur, qui pourtant lui a marché sur la queue deux fois cet été.
 — Les chiens se trompent jamais, dit Sofia, avec le sérieux absolu
 qu'elle réservait toujours à ses convictions les plus solides.
 
-— Les chiens réagissent à des odeurs et à des habitudes, corrigea
+— Les chiens réagissent à des odeurs et à des habitudes, objecta
 Souly, sans se laisser convaincre trop vite. Pas forcément à une
 intention cachée. Mais je note quand même l'observation.
 
@@ -1478,14 +1481,26 @@ propres calculs, jusqu'à ce que les premières tentes du chantier
 apparaissent, éclairées de l'intérieur par les lampes de travail de
 l'équipe qui finissait sa journée.
 
-— Première vraie journée d'enquête, dit Sofia, en apercevant enfin les
-tentes. Et on a déjà un suspect, un mystère de rocher fendu, et une
-histoire de terre qui rougit.
+— Un suspect, un mystère de rocher fendu et une histoire de terre qui
+rougit, énuméra Sofia en apercevant enfin les tentes. Pas mal, pour un
+seul après-midi.
 
-— Deuxième journée, corrigea Souly, en refermant son carnet pour de
-bon. On compte à partir d'hier, avec le fragment brun-rouge. Il faut
-toujours compter depuis le tout premier indice, sinon on fausse toute
-la chronologie de l'enquête.
+— Troisième jour, dit Souly, en refermant son carnet. Mais l'enquête,
+elle, compte depuis le premier, avec le fragment brun-rouge. Il faut
+toujours partir du tout premier indice, sinon on fausse toute la
+chronologie.
+
+Comme ils approchaient des tentes, Sofia s'arrêta net et retint son
+frère par la manche. À l'écart des lampes de travail, une silhouette
+fine se faufilait hors du chantier, dans la direction opposée au
+village, un carnet serré contre la poitrine et un dernier regard jeté
+par-dessus l'épaule, celui de quelqu'un qui préfère qu'on ne lui pose
+pas de questions.
+
+— C'est la stagiaire, chuchota Sofia. Elsa. Qu'est-ce qu'elle fait
+dehors toute seule, à cette heure-là, avec son carnet ?
+
+Souly rouvrit le sien sans un mot.
 
 # Chapitre 4 — La Foire aux Vieilles Pierres et la mésaventure du treuil
 
@@ -1502,7 +1517,7 @@ trois personnes.
 annonça-t-il, en refermant le panier d'un coup sec. Elle a l'air de
 tenir beaucoup à ce que la fouille fasse bonne impression, aujourd'hui.
 
-— Elle a plutôt l'air inquiète, corrigea Souly, qui avait discrètement
+— Elle a plutôt l'air inquiète, rectifia Souly, qui avait discrètement
 observé la paléontologue la veille au soir, allant et venant entre les
 tentes bien après que tout le monde soit rentré se coucher.
 
@@ -1657,7 +1672,7 @@ l'occasion.
 impressionné malgré lui par l'ampleur de l'événement.
 
 — Toute cette agitation pour l'espoir de ce qu'il y a peut-être dedans,
-corrigea Sofia, en désignant les regards fixés sur la tranchée. C'est
+dit Sofia, en désignant les regards fixés sur la tranchée. C'est
 pas pareil.
 
 — On a besoin d'un volontaire pour actionner le treuil, annonça Tomas, le
@@ -1673,7 +1688,7 @@ trouver de mot pour répondre tout de suite.
 
 — Je... commença-t-il.
 
-— Parfait, allons-y ! trancha Tomas, déjà en train de l'installer devant
+— Parfait, allons-y ! lança Tomas, déjà en train de l'installer devant
 la manivelle avant que quiconque n'ait vraiment le temps de vérifier son
 consentement.
 
@@ -1727,7 +1742,7 @@ scolaire habituelle.
 — On se souviendra de cette foire, cria un des élèves, hilare, en
 levant les bras vers le ciel poussiéreux.
 
-— On s'en souviendra tous, marmonna Souly, en retirant enfin la
+— On s'en souviendra tous, dit Souly, en retirant enfin la
 dernière trace de poussière rouge coincée dans son col.
 
 Non loin de là, sur son propre stand resté miraculeusement épargné par
@@ -1913,7 +1928,7 @@ une foire.
 
 — Une diversion, dit Sofia, en écarquillant les yeux.
 
-— Peut-être pas volontaire de sa part, tempéra Souly. Mais une
+— Peut-être pas volontaire de sa part, dit Souly. Mais une
 diversion quand même. Personne ne surveille un chantier vide un jour
 de fête.
 
@@ -2118,7 +2133,7 @@ large pour une petite voiture, mais ça correspondrait à un
 utilitaire. Une camionnette, par exemple.
 
 — La moitié des fermiers du coin ont des camionnettes de ce
-gabarit-là, tempéra Milo, peu convaincu. Ça pourrait être n'importe
+gabarit-là, dit Milo, peu convaincu. Ça pourrait être n'importe
 qui.
 
 — C'est vrai, admit Souly. Mais associé au fil de fer écarté juste à
@@ -2174,7 +2189,7 @@ qu'on ne connaissait pas avant.
 
 — Celle de Vasseur, dit Milo, sans hésiter.
 
-— Je ne pourrais pas jurer que c'est la sienne, tempéra Jean. Mais elle
+— Je ne pourrais pas jurer que c'est la sienne, dit Jean. Mais elle
 est garée pas mal de fois près du chemin qui longe le champ des Fabre,
 tôt le matin, quand normalement personne ne circule encore par là.
 
@@ -2336,8 +2351,7 @@ traces-là.
 Elsa, sans trop y croire.
 
 — Parce que les gens préfèrent souvent une explication simple à une
-explication vraie, dit Sofia, avec une franchise qui la caractérisait.
-Mais nous, on préfère la vraie.
+explication vraie, dit Sofia sans détour. Mais nous, on préfère la vraie.
 
 — Il faudrait quand même le dire à Inès, pour les mesures, ajouta
 Souly. Officiellement, pas juste entre nous. Comme ça, si les rumeurs
@@ -2405,6 +2419,17 @@ c'est le terrain de mon grand-père.
 
 — Tu as toujours été utile, dit Sofia. On avait juste pas encore
 trouvé la bonne enquête pour te le prouver.
+
+Souly, lui, n'écoutait déjà plus tout à fait. Il relisait une note
+entourée trois fois dans son carnet : la première série d'empreintes,
+celle du carré numéro sept, laissait une semelle lisse, presque neuve.
+Une chaussure de ville. Pas une chaussure de chantier.
+
+— Ici, personne ne fouille en chaussures de ville, dit-il lentement.
+Donc celui qui a laissé ces traces-là n'était pas venu pour travailler.
+
+Il souligna le mot « travailler », et, pour une fois, ne trouva rien à
+ajouter en dessous.
 
 # Chapitre 6 — La différence que personne ne veut voir
 
@@ -2485,7 +2510,7 @@ vite que n'importe quelle vraie nouvelle. Ne vous inquiétez pas trop
 pour votre stagiaire. Ça retombera vite, ces choses-là. Ou alors ça ne
 retombera jamais, ce qui serait dommage.
 
-— C'est toujours plus facile de soupçonner quelqu'un qui n'est pas là
+— C'est toujours commode d'accuser quelqu'un qui n'est pas là
 pour se défendre, dit Sofia, et il n'y avait pas l'ombre d'un doute dans
 sa voix. On l'a déjà vu, avec ton grand-père.
 
@@ -2706,7 +2731,7 @@ n'a le droit de le déballer avant la fête. C'est écrit là, en gros.
 
 Le faisceau de sa lampe frontale glissa sur la fiche, et il n'eut pas
 besoin de lire la signature en bas pour deviner de qui elle venait :
-l'écriture élégante et un peu trop soignée ne pouvait appartenir qu'à un
+l'écriture élégante et soignée ne pouvait appartenir qu'à un
 seul membre du chantier.
 
 — Vasseur, dit-il. Il a réussi à faire enregistrer un bloc à son nom,
@@ -2829,17 +2854,20 @@ bloc mystérieux, toujours enveloppé de sa gaze protectrice, avant
 d'éteindre la lampe de la tente.
 
 — Demain, dit-elle, on prévient officiellement la gendarmerie du
-patrimoine. Assez de suppositions. Il est temps que quelqu'un d'autre
-que nous se penche sérieusement sur ce Dorian Vasseur.
+patrimoine. Pas pour accuser qui que ce soit — on n'en est pas là, et
+une signature dans un registre n'a jamais prouvé qu'on entre la nuit par
+une clôture. Simplement pour signaler qu'un faux fragment s'est retrouvé
+dans mon inventaire, et qu'on ignore encore qui l'y a glissé, et quand.
 
 — Ils vont nous croire ? demanda Sofia. On n'a que des empreintes, une
 pelle sans numéro, et un morceau de résine collante.
 
-— Ils vont au moins nous écouter, dit Inès. Et si Milo peut confirmer
+— Ils vont au moins nous écouter, dit Inès. Un faux dans un inventaire
+officiel, ça les regarde directement. Et si Milo peut confirmer
 l'histoire de la clôture, et Elsa celle du fragment suspect, ça fait
-déjà trois témoins indépendants qui pointent tous dans la même
-direction. Ce n'est plus une intuition d'enfants, à ce stade. C'est un
-vrai dossier.
+déjà trois observations indépendantes qui vont dans le même sens. Ce
+n'est plus une intuition d'enfants, à ce stade. Reste à savoir de qui,
+exactement, elles parlent.
 
 Souly referma son carnet une dernière fois pour la soirée, le sourire
 aux lèvres.

@@ -171,7 +171,7 @@ large pour une petite voiture, mais ça correspondrait à un
 utilitaire. Une camionnette, par exemple.
 
 — La moitié des fermiers du coin ont des camionnettes de ce
-gabarit-là, tempéra Milo, peu convaincu. Ça pourrait être n'importe
+gabarit-là, dit Milo, peu convaincu. Ça pourrait être n'importe
 qui.
 
 — C'est vrai, admit Souly. Mais associé au fil de fer écarté juste à
@@ -227,7 +227,7 @@ qu'on ne connaissait pas avant.
 
 — Celle de Vasseur, dit Milo, sans hésiter.
 
-— Je ne pourrais pas jurer que c'est la sienne, tempéra Jean. Mais elle
+— Je ne pourrais pas jurer que c'est la sienne, dit Jean. Mais elle
 est garée pas mal de fois près du chemin qui longe le champ des Fabre,
 tôt le matin, quand normalement personne ne circule encore par là.
 
@@ -389,8 +389,7 @@ traces-là.
 Elsa, sans trop y croire.
 
 — Parce que les gens préfèrent souvent une explication simple à une
-explication vraie, dit Sofia, avec une franchise qui la caractérisait.
-Mais nous, on préfère la vraie.
+explication vraie, dit Sofia sans détour. Mais nous, on préfère la vraie.
 
 — Il faudrait quand même le dire à Inès, pour les mesures, ajouta
 Souly. Officiellement, pas juste entre nous. Comme ça, si les rumeurs
@@ -458,3 +457,14 @@ c'est le terrain de mon grand-père.
 
 — Tu as toujours été utile, dit Sofia. On avait juste pas encore
 trouvé la bonne enquête pour te le prouver.
+
+Souly, lui, n'écoutait déjà plus tout à fait. Il relisait une note
+entourée trois fois dans son carnet : la première série d'empreintes,
+celle du carré numéro sept, laissait une semelle lisse, presque neuve.
+Une chaussure de ville. Pas une chaussure de chantier.
+
+— Ici, personne ne fouille en chaussures de ville, dit-il lentement.
+Donc celui qui a laissé ces traces-là n'était pas venu pour travailler.
+
+Il souligna le mot « travailler », et, pour une fois, ne trouva rien à
+ajouter en dessous.
