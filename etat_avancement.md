@@ -1,6 +1,6 @@
 # État d'avancement — Série Sofia & Souly
 
-*Dernière mise à jour : Tomes 1, 2 ET 3 entièrement terminés — 2026-07-11*
+*Dernière mise à jour : Tome 4 — 12/12 chapitres rédigés, jury EN ATTENTE sur le livre complet — 2026-07-12*
 
 **À LIRE INTÉGRALEMENT avant de démarrer toute nouvelle session d'écriture**,
 avec `bible/personnages.md` et `bible/lecons_apprises.md`.
@@ -12,6 +12,7 @@ avec `bible/personnages.md` et `bible/lecons_apprises.md`.
 | 1 | Le Pharaon qui avait peur du noir | Égypte antique | **12/12 chapitres, .docx livré** | **9,1/10 — ACCEPTÉ** |
 | 2 | Le Volcan qui avait la migraine | Volcanologie / sismologie / intégrité scientifique | **12/12 chapitres, .docx livré** | **9,1/10 — ACCEPTÉ** |
 | 3 | L'Océan qui avait de la fièvre | Biologie marine / récifs coralliens / savoir traditionnel | **12/12 chapitres, .docx livré** | **9,1/10 — ACCEPTÉ** |
+| 4 | Le Dinosaure qui avait menti | Paléontologie (fossiles, authentification, savoir de terrain) | **12/12 chapitres rédigés, .docx PAS ENCORE livré** | **Ch.1-6 : 7,4/10 après 10 passages (À CORRIGER). Ch.7-12 : rédigés sans passage jury (instruction utilisateur exceptionnelle). Livre complet jamais évalué.** |
 
 ## Tome 1 — ENTIÈREMENT TERMINÉ
 
@@ -92,26 +93,77 @@ avec `bible/personnages.md` et `bible/lecons_apprises.md`.
 - Voir `bible/lecons_apprises.md` (section finale) pour la checklist grep de
   contrôle qualité et l'historique complet des leçons.
 
-## Prochaine étape : démarrer le tome 4
+## Tome 4 — EN COURS (12/12 chapitres rédigés, jury livre complet à faire)
 
-1. Choisir une nouvelle thématique éducative importante, sans lien
-   d'intrigue avec les tomes 1, 2 et 3.
-2. Relire `bible/lecons_apprises.md` en entier avant d'écrire, en
-   particulier la section « Tome 3 » sur les gabarits syntaxiques et la
-   leçon sur les climax vécus (pas racontés).
-3. Ajouter au besoin de nouveaux personnages récurrents secondaires à
-   `bible/personnages.md`, en réutilisant Sofia, Souly, Mamie Rose,
-   Camille, Théo, Karim, Fara et Noah tels que définis, sans jamais
-   contredire les faits déjà établis.
-4. Structure de session identique : 6 chapitres par session, jury à la fin
-   de chaque session, correction jusqu'à ≥ 9/10, grep de contrôle (sur
-   texte aplati, pas seulement ligne par ligne) après chaque chapitre.
-5. Arbitrer consciemment la longueur des chapitres (viser plus près de
-   ~3 300 mots/chapitre) plutôt que de laisser la dérive vers des
-   chapitres de plus en plus courts se poursuivre.
-6. Une fois les 12 chapitres validés : livrer le `.docx` final avec le
-   script `build_docx.py` (adapté pour chaque tome — voir méthode utilisée
-   pour les tomes 1, 2 et 3).
+- Dossier : `tome-04-le-dinosaure-qui-avait-menti/`
+- Thème : paléontologie (formation des fossiles, authentification d'une
+  découverte, stratigraphie, vrai fossile vs assemblage composite frauduleux,
+  savoir de terrain transmis sur plusieurs générations). Lieu : Roc-Rouge,
+  village fictif de Haute-Provence. Aucun lien d'intrigue avec les tomes
+  1, 2 et 3.
+- Manuscrit complet : `tome-04-le-dinosaure-qui-avait-menti/manuscrit-complet-tome4.md`
+  (**34 055 mots** — sous la cible de 40 000, à surveiller en priorité à la
+  prochaine session : voir points bloquants ci-dessous).
+- Nouveaux personnages récurrents secondaires : **Dr. Inès Castellane**
+  (paléontologue, collègue de longue date de Grand-oncle Théo) et
+  **Milo Fabre** (11 ans, petit-fils de Papet Fabre) — ajoutés à
+  `bible/personnages.md`.
+- Twist 1 (Dorian Vasseur, marchand de fossiles, fabrique un faux
+  composite et laisse accuser la stagiaire Elsa Roussel) et twist 2 (le
+  repère familial des Fabre — « sous le rocher fendu, la terre rougit
+  plus après la pluie » — s'avère être un vrai marqueur stratigraphique
+  de strate de nidification) : les deux sont résolus en scènes vécues
+  (confrontation nocturne sous l'orage pour le twist 1 ; sondage devant
+  témoins puis annonce publique à la Fête pour le twist 2).
+
+### Session 1 (chapitres 1-6) — 10 passages jury cumulés, jamais accepté
+
+**6,5 → 7,0 → 7,3 → 7,4/10** sur les 4 derniers passages (10 au total en
+comptant les versions antérieures à cette session) : la note a stagné
+autour de 7,3-7,4/10 sans jamais franchir le seuil de 9/10, malgré des
+corrections répétées. Rapports complets dans `jury/rapport-v1.md` à
+`rapport-v11` (voir aussi `bible/lecons_apprises.md`, section « Tome 4 —
+session 1 », pour l'analyse détaillée). **Cause principale identifiée au
+10e passage : un ton sentencieux généralisé (répliques-maximes mises
+dans la bouche de n'importe quel personnage, y compris Sofia à 8 ans) et
+une densité élevée de « toujours »/« jamais », jamais traités comme
+catégorie de tic à part avant ce passage.**
+
+### Session 2 (chapitres 7-12) — RÉDIGÉS SANS PASSAGE JURY (instruction utilisateur exceptionnelle, 2026-07-12)
+
+Sur instruction explicite de l'utilisateur, les chapitres 7 à 12 ont été
+rédigés directement, sans le cycle habituel de passages devant le jury
+indépendant, pour accélérer la session. Les leçons accumulées pendant les
+10 passages de la session 1 (voir `bible/lecons_apprises.md`) ont été
+appliquées proactivement pendant l'écriture : verbes de dialogue variés
+dès le premier jet, climax vécu (pas raconté) pour le twist 1, réduction
+active de « presque »/« exactement »/« un peu »/« toujours »/« jamais »,
+auto-relecture et grep de contrôle après chaque chapitre. **Mais aucune
+évaluation indépendante n'a validé le résultat** — la qualité réelle des
+chapitres 7-12, et du livre complet, reste à vérifier.
+
+### Points bloquants pour la prochaine session (dans l'ordre de priorité)
+
+1. **Faire passer le jury indépendant sur le LIVRE COMPLET (12 chapitres)**
+   — jamais fait pour ce tome. Utiliser le même format de rapport que les
+   sessions précédentes (critères 1-7, dont le critère bloquant de
+   longueur ≥ 20 000 mots par lot n'a plus vraiment de sens une fois le
+   livre complet évalué ; utiliser plutôt ~40 000 mots comme référence
+   pour le livre entier).
+2. **Longueur** : 34 055 mots, sous la cible de ~40 000. Étoffer
+   consciemment quelques scènes (chapitres 8, 10, 11, 12 sont les plus
+   courts, entre ~1 900 et ~2 400 mots) avant ou pendant la correction,
+   en respectant la contrainte anti-remplissage habituelle.
+3. **Chasse aux tics/gabarits sur l'ensemble du livre** : les chapitres
+   7-12 n'ont subi qu'une auto-relecture, pas un jury indépendant. Traiter
+   en priorité le ton sentencieux (maximes) et la densité de
+   « toujours »/« jamais », identifiés comme le point faible principal de
+   la session 1 — vérifier qu'ils n'ont pas resurgi dans les chapitres
+   7-12 écrits sans supervision jury.
+4. Une fois le livre complet ≥ 9/10 : livrer le fichier `.docx` final
+   (méthode utilisée pour les tomes 1, 2 et 3 — page de titre, table des
+   matières, 5,5 × 8,5 pouces, police Georgia). **Ne pas livrer le .docx
+   avant cette validation.**
 
 ## Historique des sessions
 
@@ -148,3 +200,20 @@ avec `bible/personnages.md` et `bible/lecons_apprises.md`.
   **9,1/10 — ACCEPTÉ**. Découverte et correction de plusieurs gabarits
   syntaxiques inédits (voir bilan méthodologique ci-dessus).
 - Livraison du fichier `.docx` final. **Tomes 1, 2 et 3 entièrement terminés.**
+
+### Session 7 (tome 4, session 1) — 2026-07-12
+- Nouveaux personnages Dr. Inès Castellane et Milo Fabre ajoutés à la
+  bible. Plan complet du tome 4 (paléontologie, faux fossile vs vrai
+  marqueur stratigraphique familial).
+- Chapitres 1-6 du tome 4 rédigés puis corrigés sur **10 passages jury
+  cumulés** (comptant les versions antérieures à cette reprise de
+  session) : 6,5 → 7,0 → 7,3 → **7,4/10 — jamais accepté**, session
+  interrompue avant d'atteindre 9/10 sur décision utilisateur (voir
+  points bloquants ci-dessus et leçon détaillée dans
+  `bible/lecons_apprises.md`).
+- Chapitres 7-12 rédigés dans la foulée, **sans passage devant le jury**,
+  sur instruction explicite de l'utilisateur (accélérer la session,
+  appliquer proactivement les leçons accumulées). Manuscrit complet du
+  tome 4 : 34 055 mots. **Aucune validation indépendante du livre
+  complet — à faire en priorité à la prochaine session, avant toute
+  livraison de fichier `.docx`.**

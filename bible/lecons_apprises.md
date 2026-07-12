@@ -543,3 +543,42 @@ progrès/passages de toute la série. Deux causes structurelles identifiées :
   montrer par une action ou de la laisser porter par la réplique seule.
   Ces deux réflexes, une fois pris dès le premier jet, évitent la
   majorité des allers-retours coûteux constatés sur ce tome.
+
+**Complément (10e passage jury, ch1-6, 7,3/10, session interrompue par
+décision utilisateur avant d'atteindre 9/10) : le tic le plus coûteux et
+le plus tenace de tout le tome n'a été identifié qu'au 10e passage.**
+Il s'agit des RÉPLIQUES-MAXIMES : des phrases à structure binaire
+generalisante (« X, c'est Y. Z, en revanche, c'est W » / « [personnage]
+ne fait jamais A sans B ») mises dans la bouche de N'IMPORTE QUEL
+personnage, y compris et surtout Sofia (8 ans). Une enfant de 8 ans qui
+parle par aphorismes ciselés casse sa propre crédibilité de personnage
+plus sûrement qu'une répétition lexicale. ~28 répliques de ce type sur
+6 chapitres n'avaient encore jamais été comptées comme un défaut
+homogène par les 9 passages précédents — chacun avait salué telle ou
+telle maxime comme une « belle réplique » ou une leçon pédagogique bien
+tournée, sans additionner leur fréquence cumulée. **Règle désormais
+active pour tous les tomes futurs : dès l'écriture, limiter au strict
+minimum les répliques qui formulent une vérité générale à structure
+« X, c'est Y » — remplacer par une réaction physique, une phrase
+interrompue, ou laisser l'implicite porter le sens. Se méfier
+particulièrement des répliques pédagogiques qui « sonnent bien » : leur
+qualité individuelle masque leur effet cumulatif négatif sur la voix
+des personnages, surtout le plus jeune.**
+
+**Complément 2 : « toujours » et « jamais » sont des tics d'IA à part
+entière, pas seulement des mots-outils neutres.** Sur ce tome, 44
+« toujours » + 62 « jamais » ont été comptés sur ~20 500 mots (un
+toutes les 190 mots), sans qu'aucun rapport jury avant le 9e/10e passage
+ne les identifie comme catégorie à part — ils étaient noyés dans le
+compte de « presque »/« exactement »/« un peu ». Ils alimentent
+directement le ton sentencieux ci-dessus (la plupart des maximes
+s'appuient sur l'un des deux). **Ajouter « toujours » et « jamais » à la
+liste de contrôle grep systématique, au même titre que « presque » et
+« exactement », dès la première session d'écriture d'un nouveau tome.**
+
+**Décision utilisateur (2026-07-12) : pour la session 2 de ce tome
+(chapitres 7-12), écriture directe sans passage devant le jury, en
+appliquant proactivement toutes les leçons ci-dessus dès le premier
+jet — la vérification qualité se fait par auto-relecture et grep de
+contrôle, pas par un jury indépendant, exceptionnellement pour cette
+session.**
