@@ -10,6 +10,37 @@ pourquoi c'est un problème, et la règle concrète à appliquer désormais.
 
 ---
 
+## RÈGLE NON NÉGOCIABLE — longueur (instruction utilisateur, 2026-07-12)
+
+**La longueur cible (~3 300 mots/chapitre, ~19 800 mots pour 6 chapitres,
+~39 600-40 000 mots pour un tome complet) est désormais un critère
+PRIORITAIRE ET BLOQUANT, au même titre que la note jury ≥ 9/10.** Un
+manuscrit qui note ≥ 9/10 mais reste très en dessous de cette longueur
+NE DOIT PAS être accepté — la longueur doit être vérifiée et signalée
+comme point bloquant par le jury à chaque passage, exactement comme les
+tics ou la cohérence chronologique.
+
+**Contrainte absolue : tout ajout de mots doit être du vrai contenu qui
+enrichit l'histoire (scène développée, détail sensoriel, dialogue qui
+approfondit un personnage, indice supplémentaire fair-play), JAMAIS du
+remplissage qui dilue la qualité.** Interdiction stricte de :
+- répéter/paraphraser une information déjà donnée juste pour gonfler le
+  compte de mots,
+- ajouter des descriptions génériques sans fonction narrative,
+- délayer un dialogue avec des répliques qui n'apportent rien.
+
+Méthode à appliquer dès l'écriture (pas seulement en correction) :
+développer davantage chaque scène prévue à l'outline — plus de sensoriel,
+plus de sous-texte dans les dialogues, plus de scènes secondaires
+courtes mais utiles (donnant de la texture au lieu et aux personnages
+secondaires) — plutôt que d'écrire les scènes au minimum narratif puis
+d'essayer de les gonfler après coup. Le rapport jury doit désormais
+donner une note explicite au critère de longueur et refuser le verdict
+ACCEPTÉ si le total reste très en dessous de la cible, même si tous les
+autres critères sont excellents.
+
+---
+
 ## Règles actives de vigilance (mises à jour au fil des sessions)
 
 ### Tics d'IA à bannir systématiquement (liste consolidée après validation 9,0/10 en session 1)
