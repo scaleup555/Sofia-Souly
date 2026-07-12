@@ -100,8 +100,8 @@ conserve très bien les traces, et sa couleur raconte beaucoup de choses
 à qui sait la lire.
 
 — Et personne ne sait la lire, à part Inès ? demanda Souly, en
-descendant de voiture, son carnet déjà sorti et son sac à dos encore à
-moitié accroché à la portière.
+descendant de voiture, un pied encore coincé dans la portière et le sac
+à dos glissant de son épaule.
 
 — Beaucoup de gens la lisent un peu, dit Théo. Peu de gens la lisent
 vraiment.
@@ -232,8 +232,8 @@ sur le papier. C'est... c'est presque impossible à imaginer.
 il faudrait marcher soixante-dix kilomètres pour remonter jusqu'à cette
 coquille. Roc-Rouge à la mer, à peu près, et retour.
 
-Souly resta silencieux quelques secondes, visiblement occupé à calculer
-la distance exacte entre le village et la côte la plus proche.
+Souly resta silencieux quelques secondes, le temps de calculer, tout
+bas, la distance exacte entre le village et la côte la plus proche.
 
 — C'est exactement pour ça que j'adore ce métier, dit Inès, tout son
 visage plissé de plaisir devant sa réaction. On touche l'impossible à
@@ -638,7 +638,7 @@ Sofia prit le bocal à son tour, l'inclinant légèrement pour observer
 les grains de sable glisser doucement le long des couches sans les
 mélanger.
 
-— On dirait un genre d'horloge, dit-elle, fascinée.
+— On dirait une horloge, dit-elle, fascinée.
 
 — C'en est une, en quelque sorte, confirma Inès. Une horloge qu'on ne
 peut lire qu'une seule fois, dans le bon ordre. C'est pour ça que
@@ -1147,7 +1147,8 @@ que je respire encore. »
 
 — C'est ce qui m'a le plus étonnée, dit la mère de Milo. Un
 collectionneur de cailloux, aussi passionné soit-il, n'a normalement
-pas ce genre de moyens. J'ai demandé à Papet ce qu'il en pensait, il
+pas les moyens de payer un prix pareil. J'ai demandé à Papet ce qu'il
+en pensait, il
 m'a juste répondu que certaines personnes trouvaient toujours l'argent
 quand elles voulaient vraiment quelque chose.
 
@@ -1220,7 +1221,8 @@ qu'elle lui fasse encore mal. Il n'est resté qu'une demi-journée. Il n'a
 même pas attendu la prochaine pluie pour vérifier ce que ma mère
 répétait depuis toujours.
 
-— Et vous, vous l'avez vérifié ? demanda Souly, son carnet déjà en main.
+— Et vous, vous l'avez vérifié ? demanda Souly, penchant la tête,
+soudain tout à fait sérieux.
 
 — Vérifié, non, admit le vieil homme. Observé, oui, chaque année, depuis
 soixante ans. Après une bonne pluie d'orage, la terre sous ce rocher
@@ -2410,8 +2412,8 @@ dire tout haut :
 qui passe assez de temps ici pour connaître nos habitudes aussi bien
 que nous.
 
-Souly avait déjà sorti son carnet sans même s'en rendre compte,
-notant chaque phrase au fur et à mesure.
+Souly notait déjà chaque phrase au fur et à mesure, la main plus rapide
+que la pensée.
 
 — À partir d'aujourd'hui, annonça Inès, chaque fiche d'inventaire devra
 être recroisée avec le registre des signatures. Je veux qu'on sache
@@ -2631,7 +2633,7 @@ de sauter directement à une conclusion, juste parce qu'elle nous arrange
 après ce qu'on a découvert ce matin.
 
 — C'est vrai, admit Souly, à contrecœur, en rangeant les fragments avec
-un soin renouvelé. On a juste une différence de texture suspecte. Pas un
+une prudence redoublée. On a juste une différence de texture suspecte. Pas un
 nom. Pas une preuve formelle.
 
 — Mais ça élimine sûrement l'idée que c'est juste un accident de terrain,

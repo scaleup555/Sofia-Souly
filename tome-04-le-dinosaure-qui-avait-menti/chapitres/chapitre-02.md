@@ -138,7 +138,7 @@ Sofia prit le bocal à son tour, l'inclinant légèrement pour observer
 les grains de sable glisser doucement le long des couches sans les
 mélanger.
 
-— On dirait un genre d'horloge, dit-elle, fascinée.
+— On dirait une horloge, dit-elle, fascinée.
 
 — C'en est une, en quelque sorte, confirma Inès. Une horloge qu'on ne
 peut lire qu'une seule fois, dans le bon ordre. C'est pour ça que

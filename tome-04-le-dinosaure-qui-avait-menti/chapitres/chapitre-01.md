@@ -100,8 +100,8 @@ conserve très bien les traces, et sa couleur raconte beaucoup de choses
 à qui sait la lire.
 
 — Et personne ne sait la lire, à part Inès ? demanda Souly, en
-descendant de voiture, son carnet déjà sorti et son sac à dos encore à
-moitié accroché à la portière.
+descendant de voiture, un pied encore coincé dans la portière et le sac
+à dos glissant de son épaule.
 
 — Beaucoup de gens la lisent un peu, dit Théo. Peu de gens la lisent
 vraiment.
@@ -232,8 +232,8 @@ sur le papier. C'est... c'est presque impossible à imaginer.
 il faudrait marcher soixante-dix kilomètres pour remonter jusqu'à cette
 coquille. Roc-Rouge à la mer, à peu près, et retour.
 
-Souly resta silencieux quelques secondes, visiblement occupé à calculer
-la distance exacte entre le village et la côte la plus proche.
+Souly resta silencieux quelques secondes, le temps de calculer, tout
+bas, la distance exacte entre le village et la côte la plus proche.
 
 — C'est exactement pour ça que j'adore ce métier, dit Inès, tout son
 visage plissé de plaisir devant sa réaction. On touche l'impossible à

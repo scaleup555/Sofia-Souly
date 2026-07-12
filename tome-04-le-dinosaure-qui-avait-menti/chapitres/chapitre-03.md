@@ -160,7 +160,8 @@ que je respire encore. »
 
 — C'est ce qui m'a le plus étonnée, dit la mère de Milo. Un
 collectionneur de cailloux, aussi passionné soit-il, n'a normalement
-pas ce genre de moyens. J'ai demandé à Papet ce qu'il en pensait, il
+pas les moyens de payer un prix pareil. J'ai demandé à Papet ce qu'il
+en pensait, il
 m'a juste répondu que certaines personnes trouvaient toujours l'argent
 quand elles voulaient vraiment quelque chose.
 
@@ -233,7 +234,8 @@ qu'elle lui fasse encore mal. Il n'est resté qu'une demi-journée. Il n'a
 même pas attendu la prochaine pluie pour vérifier ce que ma mère
 répétait depuis toujours.
 
-— Et vous, vous l'avez vérifié ? demanda Souly, son carnet déjà en main.
+— Et vous, vous l'avez vérifié ? demanda Souly, penchant la tête,
+soudain tout à fait sérieux.
 
 — Vérifié, non, admit le vieil homme. Observé, oui, chaque année, depuis
 soixante ans. Après une bonne pluie d'orage, la terre sous ce rocher

@@ -48,8 +48,8 @@ dire tout haut :
 qui passe assez de temps ici pour connaître nos habitudes aussi bien
 que nous.
 
-Souly avait déjà sorti son carnet sans même s'en rendre compte,
-notant chaque phrase au fur et à mesure.
+Souly notait déjà chaque phrase au fur et à mesure, la main plus rapide
+que la pensée.
 
 — À partir d'aujourd'hui, annonça Inès, chaque fiche d'inventaire devra
 être recroisée avec le registre des signatures. Je veux qu'on sache
@@ -269,7 +269,7 @@ de sauter directement à une conclusion, juste parce qu'elle nous arrange
 après ce qu'on a découvert ce matin.
 
 — C'est vrai, admit Souly, à contrecœur, en rangeant les fragments avec
-un soin renouvelé. On a juste une différence de texture suspecte. Pas un
+une prudence redoublée. On a juste une différence de texture suspecte. Pas un
 nom. Pas une preuve formelle.
 
 — Mais ça élimine sûrement l'idée que c'est juste un accident de terrain,
