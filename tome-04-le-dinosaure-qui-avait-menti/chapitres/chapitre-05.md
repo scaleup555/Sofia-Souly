@@ -409,8 +409,9 @@ tendrement, comme si le simple fait d'avoir été crue par deux enfants
 suffisait à en changer la valeur.
 
 — Il reste quatre jours avant la présentation officielle de samedi
-prochain, dit Inès, qui les avait rejoints entre-temps, un gobelet de
-café à moitié froid dans la main. Quatre jours pour comprendre ce qui se
+prochain, dit Inès, un gobelet de café à moitié froid dans la main,
+plantée devant eux depuis quelques secondes déjà sans qu'ils l'aient
+remarquée. Quatre jours pour comprendre ce qui se
 passe vraiment sur mon chantier, avant que ça ne devienne officiellement
 un problème pour tout le village, pas seulement pour moi.
 

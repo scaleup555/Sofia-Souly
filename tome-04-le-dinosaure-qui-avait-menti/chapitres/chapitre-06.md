@@ -123,9 +123,9 @@ qui ne lui ressemblait guère d'ordinaire.
 piles, pour tout.
 
 — C'est plus facile de réfléchir quand il n'y a que deux options à la
-fois, dit Souly, sans lever les yeux. Après, on peut toujours
-recombiner, séparer autrement. Mais il faut bien commencer quelque
-part.
+fois, dit Souly, tout entier concentré sur ses fragments. Après, on
+peut toujours recombiner, séparer autrement. Mais il faut bien
+commencer quelque part.
 
 — Et si la vérité est entre les deux piles ? demanda Sofia.
 
@@ -333,7 +333,7 @@ la taille. Les vrais blocs importants qu'on a vus sortir d'ici, cet
 presque dans un sac à dos.
 
 — Un fragment composite n'a pas besoin d'être gros pour impressionner,
-dit Souly, songeur. Juste assez présentable pour la photo qui passera
+fit remarquer Souly. Juste assez présentable pour la photo qui passera
 dans le journal, samedi.
 
 — Facile à fabriquer en cachette, aussi, ajouta Sofia. Facile à cacher
@@ -342,10 +342,9 @@ personne remarque qu'un objet aussi petit a changé de place.
 
 — Tout colle un peu trop bien, dit Milo, mal à l'aise. J'aime pas ça.
 
-— Moi non plus, admit Souly, en refermant son carnet sur cette dernière
-observation. Mais « coller un peu trop bien », ce n'est toujours pas
-une preuve. Juste une raison de plus d'attendre Inès avant d'ouvrir
-quoi que ce soit.
+— Moi non plus, admit Souly. Mais « coller un peu trop bien », ce
+n'est toujours pas une preuve. Juste une raison de plus d'attendre
+Inès avant d'ouvrir quoi que ce soit.
 
 De l'autre côté de la tente, la voix d'Inès s'éleva soudain, tendue,
 répondant à un appel téléphonique que ni Sofia ni Souly n'avaient
@@ -436,8 +435,8 @@ déjà trois témoins indépendants qui pointent tous dans la même
 direction. Ce n'est plus une intuition d'enfants, à ce stade. C'est un
 vrai dossier.
 
-Souly referma son carnet une dernière fois pour la soirée, un sourire
-satisfait qu'il ne cherchait pas à cacher.
+Un sourire satisfait, que Souly ne cherchait pas à cacher, lui traversa
+le visage.
 
 — Un vrai dossier, répéta-t-il, en savourant chaque mot. J'aime
 beaucoup comment ça sonne.

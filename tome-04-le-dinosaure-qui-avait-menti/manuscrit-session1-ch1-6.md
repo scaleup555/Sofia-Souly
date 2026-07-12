@@ -31,8 +31,8 @@ je me suis dit que vous seriez ravis de venir aussi.
 vrais dinosaures ?
 
 — Des vrais fossiles de dinosaures, corrigea Souly, du fond de la
-voiture, son carnet déjà ouvert sur les genoux. C'est pas pareil. Un
-fossile, c'est de la pierre qui a pris la forme d'un os. Pas un os.
+voiture. C'est pas pareil. Un fossile, c'est de la pierre qui a pris la
+forme d'un os. Pas un os.
 
 Théo lui adressa un regard dans le rétroviseur, un mélange de surprise et
 de fierté difficile à cacher.
@@ -82,9 +82,9 @@ les rayons clairsemés du magasin.
 
 — Un peu. Surtout des curieux de passage, une heure ou deux, pas de
 quoi remplir un hôtel. On a besoin d'une vraie raison de rester plus
-longtemps. Une vraie attraction. Sofia et Souly se regardèrent, la même
-pensée les traversant sans qu'ils aient besoin de la dire à voix haute
-: c'était donc de ça que Marion allait parler, un peu plus tard.
+longtemps. Une vraie attraction. Sofia haussa un sourcil vers Souly, qui
+lui répondit d'un petit hochement de tête entendu : c'était donc de ça
+que Marion allait parler, un peu plus tard.
 
 Frédéric leur offrit malgré tout deux esquimaux à la framboise avant
 qu'ils ne reprennent la route, « pour la bonne bouche, et pour que vous
@@ -384,9 +384,9 @@ au cas où. Bon travail d'observation, tous les deux — la plupart des
 visiteurs ne l'auraient même pas remarqué.
 
 Sofia rangea le petit fragment dans un sachet en plastique étiqueté avec
-soin par Souly, qui referma son carnet d'un coup sec. Ce n'était que la
-toute première ligne d'une enquête qui, tous deux le sentaient déjà, ne
-faisait que commencer.
+soin par Souly, qui glissa le carnet dans la poche arrière de son short
+sans dire un mot de plus. Ce n'était que la toute première ligne d'une
+enquête qui, tous deux le sentaient déjà, ne faisait que commencer.
 
 ---
 
@@ -481,9 +481,10 @@ qu'il jugeait digne d'être conservé.
 — Tu ne devrais pas plutôt dormir ? lui demanda Inès, en désignant
 d'un signe de tête sa sœur déjà à moitié endormie.
 
-— Presque fini, dit Souly, sans lever les yeux. Un bon carnet, ça se
-remplit le soir même, jamais le lendemain. Sinon on oublie les petits
-détails, et ce sont souvent les petits détails qui comptent le plus.
+— Presque fini, dit Souly, le nez toujours penché sur sa page. Un bon
+carnet, ça se remplit le soir même, jamais le lendemain. Sinon on
+oublie les petits détails, et ce sont souvent les petits détails qui
+comptent le plus.
 
 — Tu vas vraiment bien t'entendre avec moi, dit Inès, avec un
 hochement de tête approbateur. Beaucoup trop bien, peut-être.
@@ -532,8 +533,8 @@ ne le réduise en poussière.
 plus l'os d'origine. C'est une copie minérale, parfois plus dure que la
 roche autour.
 
-— Et un moulage, c'est quoi la différence ? demanda Souly, sans lever les
-yeux de l'objet.
+— Et un moulage, c'est quoi la différence ? demanda Souly, l'os toujours
+tourné et retourné entre ses doigts.
 
 — Bonne question. Un moulage, c'est une copie artificielle qu'on fabrique
 en résine ou en plâtre, à partir d'un vrai fossile, pour l'exposer sans
@@ -755,7 +756,7 @@ les fossiles eux-mêmes nous racontent : des plantes qui n'existent plus
 dans la région, des coquilles d'animaux d'eau douce, des traces de
 racines profondes typiques d'un climat bien plus arrosé.
 
-— Le monde change tout le temps, dit Souly, songeur, en observant le
+— Le monde change tout le temps, dit Souly, les yeux perdus sur le
 vallon aride par l'ouverture de la tente. Même les endroits qui
 paraissent immobiles.
 
@@ -853,8 +854,9 @@ davantage, tira discrètement Souly par la manche.
 — Souly, chuchota-t-elle. Tu as entendu ? Beaucoup d'argent dépend d'une
 belle découverte.
 
-— J'ai entendu, dit Souly, déjà en train d'écrire dans son carnet. Ça
-fait beaucoup de pression sur beaucoup de monde différent. Assez pour
+— J'ai entendu, dit Souly, la pointe de son crayon crissant sur la
+page. Ça fait beaucoup de pression sur beaucoup de monde différent.
+Assez pour
 pousser certains à prendre des raccourcis, si l'occasion se présente.
 
 — Vous croyez que la fouille pourrait vraiment fermer ? demanda Sofia,
@@ -871,8 +873,8 @@ résistera aussi bien.
 
 — Je pense à n'importe qui d'assez malin pour comprendre qu'une
 « découverte » pourrait résoudre tous les problèmes de tout le monde
-d'un coup, dit Souly, pensif. Et à n'importe qui d'assez peu scrupuleux
-pour la fabriquer plutôt que de la trouver.
+d'un coup, dit Souly, en choisissant ses mots un par un. Et à n'importe
+qui d'assez peu scrupuleux pour la fabriquer plutôt que de la trouver.
 
 ---
 
@@ -962,7 +964,7 @@ quelqu'un vient lui rappeler, toutes les heures, qu'un calendrier
 municipal ne va pas s'arrêter de tourner juste parce qu'elle préfère
 prendre son temps.
 
-Souly referma finalement son carnet, satisfait de sa première vraie
+Souly resta un long moment silencieux, satisfait de sa première vraie
 journée d'enquête, tandis que le soleil commençait sa lente descente
 vers les collines, allongeant les ombres des tentes sur la terre rouge
 du vallon.
@@ -973,8 +975,8 @@ peine, et j'ai déjà l'impression d'avoir appris plus de choses qu'en un
 trimestre entier à l'école.
 
 — C'est parce qu'ici, tout ce qu'on apprend sert tout de suite à
-quelque chose, dit Souly, pensif, en rangeant son carnet dans son sac.
-À l'école, on apprend souvent sans savoir pourquoi. Ici, chaque leçon
+quelque chose, dit Souly, en rangeant enfin son carnet dans son sac. À
+l'école, on apprend souvent sans savoir pourquoi. Ici, chaque leçon
 répond déjà à une vraie question qu'on vient de se poser.
 
 — Genre comment reconnaître un vrai fossile d'un faux, dit Sofia.
@@ -1266,7 +1268,7 @@ souligna avec la même application : *soixante ans d'observation ne sont
 pas rien, même sans microscope.*
 
 — C'est exactement ce qu'un vrai scientifique devrait vérifier plutôt
-que de juste ignorer, dit-il, pensif.
+que de juste ignorer, dit-il, en tapotant la page de son index.
 
 — Essaie de le dire à ceux qui se sont moqués de mon grand-père, dit
 Milo, une amertume dans la voix que les années n'avaient pas adoucie
@@ -1398,7 +1400,7 @@ chemin par cœur.
 — Je veux bien, dit Milo. Mais seulement si vous continuez à poser des
 questions plutôt que des sentences.
 
-— C'est notre spécialité, confirma Souly, en refermant son carnet.
+— C'est notre spécialité, confirma Souly, très sérieux.
 
 En redescendant vers le chantier, le soleil déjà bas sur les collines,
 Sofia se retourna une dernière fois vers le rocher fendu, minuscule au
@@ -1520,9 +1522,9 @@ mentionner leur rencontre de la veille.
 
 — Il est là aussi, remarqua Sofia, en désignant Papet Fabre du menton.
 
-— Il vient toujours vendre ses figues, à la foire, dit Milo, qui les
-avait rejoints entre-temps, un sachet de bonbons acidulés déjà entamé à
-la main. C'est une tradition. Il dit que les figues du champ, au moins,
+— Il vient toujours vendre ses figues, à la foire, dit Milo, apparu
+sans bruit à côté d'eux, un sachet de bonbons acidulés déjà entamé à la
+main. C'est une tradition. Il dit que les figues du champ, au moins,
 personne ne peut prétendre qu'elles ne sont pas vraies.
 
 Sofia éclata de rire, un rire si soudain et si franc que plusieurs
@@ -1755,8 +1757,8 @@ tour dans une caisse à moitié vide. De quoi teinter du plâtre pour
 qu'il ressemble à de la roche. On garde ça pour les moulages
 pédagogiques destinés aux écoles, jamais pour de vraies pièces.
 
-Souly, qui écoutait depuis un coin de la tente, avait déjà son carnet
-ouvert avant même de décider consciemment de le sortir.
+Souly, qui écoutait depuis un coin de la tente, s'immobilisa net, tout
+ouïe.
 
 — De la résine et du pigment, répéta-t-il, lentement. Exactement ce
 qu'il faudrait pour fabriquer quelque chose qui ressemble à un fossile,
@@ -1879,8 +1881,8 @@ encore couvert de la poussière rouge de l'après-midi.
 demanda-t-il, sans la moindre moquerie dans la voix, cette fois.
 
 — On dirait bien qu'on va avoir besoin de tout le monde, cette semaine,
-répondit Souly, en refermant son carnet sur une liste qui s'allongeait
-déjà bien plus vite qu'il ne l'aurait souhaité.
+répondit Souly, en regardant sa liste s'allonger déjà bien plus vite
+qu'il ne l'aurait souhaité.
 
 Milo s'assit avec eux sur les marches de la tente, partageant ce qui
 restait de son sachet de bonbons acidulés sans qu'on le lui demande.
@@ -2311,8 +2313,9 @@ tendrement, comme si le simple fait d'avoir été crue par deux enfants
 suffisait à en changer la valeur.
 
 — Il reste quatre jours avant la présentation officielle de samedi
-prochain, dit Inès, qui les avait rejoints entre-temps, un gobelet de
-café à moitié froid dans la main. Quatre jours pour comprendre ce qui se
+prochain, dit Inès, un gobelet de café à moitié froid dans la main,
+plantée devant eux depuis quelques secondes déjà sans qu'ils l'aient
+remarquée. Quatre jours pour comprendre ce qui se
 passe vraiment sur mon chantier, avant que ça ne devienne officiellement
 un problème pour tout le village, pas seulement pour moi.
 
@@ -2487,9 +2490,9 @@ qui ne lui ressemblait guère d'ordinaire.
 piles, pour tout.
 
 — C'est plus facile de réfléchir quand il n'y a que deux options à la
-fois, dit Souly, sans lever les yeux. Après, on peut toujours
-recombiner, séparer autrement. Mais il faut bien commencer quelque
-part.
+fois, dit Souly, tout entier concentré sur ses fragments. Après, on
+peut toujours recombiner, séparer autrement. Mais il faut bien
+commencer quelque part.
 
 — Et si la vérité est entre les deux piles ? demanda Sofia.
 
@@ -2697,7 +2700,7 @@ la taille. Les vrais blocs importants qu'on a vus sortir d'ici, cet
 presque dans un sac à dos.
 
 — Un fragment composite n'a pas besoin d'être gros pour impressionner,
-dit Souly, songeur. Juste assez présentable pour la photo qui passera
+fit remarquer Souly. Juste assez présentable pour la photo qui passera
 dans le journal, samedi.
 
 — Facile à fabriquer en cachette, aussi, ajouta Sofia. Facile à cacher
@@ -2706,10 +2709,9 @@ personne remarque qu'un objet aussi petit a changé de place.
 
 — Tout colle un peu trop bien, dit Milo, mal à l'aise. J'aime pas ça.
 
-— Moi non plus, admit Souly, en refermant son carnet sur cette dernière
-observation. Mais « coller un peu trop bien », ce n'est toujours pas
-une preuve. Juste une raison de plus d'attendre Inès avant d'ouvrir
-quoi que ce soit.
+— Moi non plus, admit Souly. Mais « coller un peu trop bien », ce
+n'est toujours pas une preuve. Juste une raison de plus d'attendre
+Inès avant d'ouvrir quoi que ce soit.
 
 De l'autre côté de la tente, la voix d'Inès s'éleva soudain, tendue,
 répondant à un appel téléphonique que ni Sofia ni Souly n'avaient
@@ -2800,8 +2802,8 @@ déjà trois témoins indépendants qui pointent tous dans la même
 direction. Ce n'est plus une intuition d'enfants, à ce stade. C'est un
 vrai dossier.
 
-Souly referma son carnet une dernière fois pour la soirée, un sourire
-satisfait qu'il ne cherchait pas à cacher.
+Un sourire satisfait, que Souly ne cherchait pas à cacher, lui traversa
+le visage.
 
 — Un vrai dossier, répéta-t-il, en savourant chaque mot. J'aime
 beaucoup comment ça sonne.

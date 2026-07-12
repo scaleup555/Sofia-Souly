@@ -279,7 +279,7 @@ souligna avec la même application : *soixante ans d'observation ne sont
 pas rien, même sans microscope.*
 
 — C'est exactement ce qu'un vrai scientifique devrait vérifier plutôt
-que de juste ignorer, dit-il, pensif.
+que de juste ignorer, dit-il, en tapotant la page de son index.
 
 — Essaie de le dire à ceux qui se sont moqués de mon grand-père, dit
 Milo, une amertume dans la voix que les années n'avaient pas adoucie
@@ -411,7 +411,7 @@ chemin par cœur.
 — Je veux bien, dit Milo. Mais seulement si vous continuez à poser des
 questions plutôt que des sentences.
 
-— C'est notre spécialité, confirma Souly, en refermant son carnet.
+— C'est notre spécialité, confirma Souly, très sérieux.
 
 En redescendant vers le chantier, le soleil déjà bas sur les collines,
 Sofia se retourna une dernière fois vers le rocher fendu, minuscule au

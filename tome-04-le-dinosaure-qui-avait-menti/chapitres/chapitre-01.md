@@ -31,8 +31,8 @@ je me suis dit que vous seriez ravis de venir aussi.
 vrais dinosaures ?
 
 — Des vrais fossiles de dinosaures, corrigea Souly, du fond de la
-voiture, son carnet déjà ouvert sur les genoux. C'est pas pareil. Un
-fossile, c'est de la pierre qui a pris la forme d'un os. Pas un os.
+voiture. C'est pas pareil. Un fossile, c'est de la pierre qui a pris la
+forme d'un os. Pas un os.
 
 Théo lui adressa un regard dans le rétroviseur, un mélange de surprise et
 de fierté difficile à cacher.
@@ -82,9 +82,9 @@ les rayons clairsemés du magasin.
 
 — Un peu. Surtout des curieux de passage, une heure ou deux, pas de
 quoi remplir un hôtel. On a besoin d'une vraie raison de rester plus
-longtemps. Une vraie attraction. Sofia et Souly se regardèrent, la même
-pensée les traversant sans qu'ils aient besoin de la dire à voix haute
-: c'était donc de ça que Marion allait parler, un peu plus tard.
+longtemps. Une vraie attraction. Sofia haussa un sourcil vers Souly, qui
+lui répondit d'un petit hochement de tête entendu : c'était donc de ça
+que Marion allait parler, un peu plus tard.
 
 Frédéric leur offrit malgré tout deux esquimaux à la framboise avant
 qu'ils ne reprennent la route, « pour la bonne bouche, et pour que vous
@@ -384,9 +384,9 @@ au cas où. Bon travail d'observation, tous les deux — la plupart des
 visiteurs ne l'auraient même pas remarqué.
 
 Sofia rangea le petit fragment dans un sachet en plastique étiqueté avec
-soin par Souly, qui referma son carnet d'un coup sec. Ce n'était que la
-toute première ligne d'une enquête qui, tous deux le sentaient déjà, ne
-faisait que commencer.
+soin par Souly, qui glissa le carnet dans la poche arrière de son short
+sans dire un mot de plus. Ce n'était que la toute première ligne d'une
+enquête qui, tous deux le sentaient déjà, ne faisait que commencer.
 
 ---
 
@@ -481,9 +481,10 @@ qu'il jugeait digne d'être conservé.
 — Tu ne devrais pas plutôt dormir ? lui demanda Inès, en désignant
 d'un signe de tête sa sœur déjà à moitié endormie.
 
-— Presque fini, dit Souly, sans lever les yeux. Un bon carnet, ça se
-remplit le soir même, jamais le lendemain. Sinon on oublie les petits
-détails, et ce sont souvent les petits détails qui comptent le plus.
+— Presque fini, dit Souly, le nez toujours penché sur sa page. Un bon
+carnet, ça se remplit le soir même, jamais le lendemain. Sinon on
+oublie les petits détails, et ce sont souvent les petits détails qui
+comptent le plus.
 
 — Tu vas vraiment bien t'entendre avec moi, dit Inès, avec un
 hochement de tête approbateur. Beaucoup trop bien, peut-être.

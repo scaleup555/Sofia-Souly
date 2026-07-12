@@ -32,8 +32,8 @@ ne le réduise en poussière.
 plus l'os d'origine. C'est une copie minérale, parfois plus dure que la
 roche autour.
 
-— Et un moulage, c'est quoi la différence ? demanda Souly, sans lever les
-yeux de l'objet.
+— Et un moulage, c'est quoi la différence ? demanda Souly, l'os toujours
+tourné et retourné entre ses doigts.
 
 — Bonne question. Un moulage, c'est une copie artificielle qu'on fabrique
 en résine ou en plâtre, à partir d'un vrai fossile, pour l'exposer sans
@@ -255,7 +255,7 @@ les fossiles eux-mêmes nous racontent : des plantes qui n'existent plus
 dans la région, des coquilles d'animaux d'eau douce, des traces de
 racines profondes typiques d'un climat bien plus arrosé.
 
-— Le monde change tout le temps, dit Souly, songeur, en observant le
+— Le monde change tout le temps, dit Souly, les yeux perdus sur le
 vallon aride par l'ouverture de la tente. Même les endroits qui
 paraissent immobiles.
 
@@ -353,8 +353,9 @@ davantage, tira discrètement Souly par la manche.
 — Souly, chuchota-t-elle. Tu as entendu ? Beaucoup d'argent dépend d'une
 belle découverte.
 
-— J'ai entendu, dit Souly, déjà en train d'écrire dans son carnet. Ça
-fait beaucoup de pression sur beaucoup de monde différent. Assez pour
+— J'ai entendu, dit Souly, la pointe de son crayon crissant sur la
+page. Ça fait beaucoup de pression sur beaucoup de monde différent.
+Assez pour
 pousser certains à prendre des raccourcis, si l'occasion se présente.
 
 — Vous croyez que la fouille pourrait vraiment fermer ? demanda Sofia,
@@ -371,8 +372,8 @@ résistera aussi bien.
 
 — Je pense à n'importe qui d'assez malin pour comprendre qu'une
 « découverte » pourrait résoudre tous les problèmes de tout le monde
-d'un coup, dit Souly, pensif. Et à n'importe qui d'assez peu scrupuleux
-pour la fabriquer plutôt que de la trouver.
+d'un coup, dit Souly, en choisissant ses mots un par un. Et à n'importe
+qui d'assez peu scrupuleux pour la fabriquer plutôt que de la trouver.
 
 ---
 
@@ -462,7 +463,7 @@ quelqu'un vient lui rappeler, toutes les heures, qu'un calendrier
 municipal ne va pas s'arrêter de tourner juste parce qu'elle préfère
 prendre son temps.
 
-Souly referma finalement son carnet, satisfait de sa première vraie
+Souly resta un long moment silencieux, satisfait de sa première vraie
 journée d'enquête, tandis que le soleil commençait sa lente descente
 vers les collines, allongeant les ombres des tentes sur la terre rouge
 du vallon.
@@ -473,8 +474,8 @@ peine, et j'ai déjà l'impression d'avoir appris plus de choses qu'en un
 trimestre entier à l'école.
 
 — C'est parce qu'ici, tout ce qu'on apprend sert tout de suite à
-quelque chose, dit Souly, pensif, en rangeant son carnet dans son sac.
-À l'école, on apprend souvent sans savoir pourquoi. Ici, chaque leçon
+quelque chose, dit Souly, en rangeant enfin son carnet dans son sac. À
+l'école, on apprend souvent sans savoir pourquoi. Ici, chaque leçon
 répond déjà à une vraie question qu'on vient de se poser.
 
 — Genre comment reconnaître un vrai fossile d'un faux, dit Sofia.

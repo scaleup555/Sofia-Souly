@@ -77,9 +77,9 @@ mentionner leur rencontre de la veille.
 
 — Il est là aussi, remarqua Sofia, en désignant Papet Fabre du menton.
 
-— Il vient toujours vendre ses figues, à la foire, dit Milo, qui les
-avait rejoints entre-temps, un sachet de bonbons acidulés déjà entamé à
-la main. C'est une tradition. Il dit que les figues du champ, au moins,
+— Il vient toujours vendre ses figues, à la foire, dit Milo, apparu
+sans bruit à côté d'eux, un sachet de bonbons acidulés déjà entamé à la
+main. C'est une tradition. Il dit que les figues du champ, au moins,
 personne ne peut prétendre qu'elles ne sont pas vraies.
 
 Sofia éclata de rire, un rire si soudain et si franc que plusieurs
@@ -312,8 +312,8 @@ tour dans une caisse à moitié vide. De quoi teinter du plâtre pour
 qu'il ressemble à de la roche. On garde ça pour les moulages
 pédagogiques destinés aux écoles, jamais pour de vraies pièces.
 
-Souly, qui écoutait depuis un coin de la tente, avait déjà son carnet
-ouvert avant même de décider consciemment de le sortir.
+Souly, qui écoutait depuis un coin de la tente, s'immobilisa net, tout
+ouïe.
 
 — De la résine et du pigment, répéta-t-il, lentement. Exactement ce
 qu'il faudrait pour fabriquer quelque chose qui ressemble à un fossile,
@@ -436,8 +436,8 @@ encore couvert de la poussière rouge de l'après-midi.
 demanda-t-il, sans la moindre moquerie dans la voix, cette fois.
 
 — On dirait bien qu'on va avoir besoin de tout le monde, cette semaine,
-répondit Souly, en refermant son carnet sur une liste qui s'allongeait
-déjà bien plus vite qu'il ne l'aurait souhaité.
+répondit Souly, en regardant sa liste s'allonger déjà bien plus vite
+qu'il ne l'aurait souhaité.
 
 Milo s'assit avec eux sur les marches de la tente, partageant ce qui
 restait de son sachet de bonbons acidulés sans qu'on le lui demande.
