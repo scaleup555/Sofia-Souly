@@ -39,6 +39,25 @@ donner une note explicite au critère de longueur et refuser le verdict
 ACCEPTÉ si le total reste très en dessous de la cible, même si tous les
 autres critères sont excellents.
 
+### GATE OBLIGATOIRE avant toute soumission au jury (instruction utilisateur, 2026-07-12)
+
+**Ne JAMAIS soumettre un lot de 6 chapitres au jury avant d'avoir vérifié
+par `wc -w` que le total atteint au moins 20 000 mots.** Concrètement,
+pour chaque tome à partir de maintenant :
+- Session 1 (chapitres 1-6) : n'envoyer au jury qu'une fois le total
+  `wc -w` du manuscrit compilé ≥ 20 000 mots. En dessous de ce seuil,
+  continuer à écrire/développer du contenu réel — ne pas lancer de
+  passage jury, quel que soit l'état d'avancement des corrections de
+  tics.
+- Session 2 (chapitres 7-12) : même règle, ≥ 20 000 mots pour ce second
+  lot, avant toute soumission au jury sur le livre complet.
+- Objectif final du tome complet : ~40 000 mots (deux fois ~20 000).
+- Cette vérification de longueur doit être la TOUTE PREMIÈRE étape avant
+  de lancer un agent jury, avant même de relire les tics — inutile de
+  faire tourner un passage jury complet (coûteux) sur un texte dont on
+  sait déjà, par un simple `wc -w`, qu'il ne passera pas la barre de
+  longueur. Gagner du temps en vérifiant le chiffre en premier.
+
 ---
 
 ## Règles actives de vigilance (mises à jour au fil des sessions)
