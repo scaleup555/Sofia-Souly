@@ -37,7 +37,7 @@ fossile, c'est de la pierre qui a pris la forme d'un os. Pas un os.
 Théo lui adressa un regard dans le rétroviseur, un mélange de surprise et
 de fierté difficile à cacher.
 
-— Exactement ça, dit-il. Tu vas t'entendre à merveille avec Inès. Elle
+— Voilà, dit-il. Tu vas t'entendre à merveille avec Inès. Elle
 dit exactement la même phrase, presque mot pour mot, à chaque nouveau
 stagiaire qui débarque sur son chantier.
 
@@ -45,7 +45,7 @@ stagiaire qui débarque sur son chantier.
 sentait qu'il y avait encore une histoire à extraire de ce sourire un
 peu nostalgique.
 
-— Rien du tout, avoua Théo, sans la moindre gêne. Trois mois à quatre
+— Rien du tout, avoua Théo, pas gêné pour un sou. Trois mois à quatre
 pattes dans la poussière, et pour tout trésor, une dent de requin
 fossile pas plus grosse qu'un ongle. Mais c'est là que j'ai compris que
 je préférais les pierres qui racontent une histoire humaine — un
@@ -70,7 +70,7 @@ Théo d'un signe de tête familier.
 
 — Toujours là, Frédéric ? demanda Théo, en descendant de voiture.
 
-— Toujours là, confirma l'épicier, sans grand enthousiasme. Même si
+— Toujours là, marmonna l'épicier, du bout des lèvres. Même si
 « toujours » risque de plus durer très longtemps, à ce rythme. Trois
 commerces ont déjà fermé sur la place depuis l'an dernier. Les gens
 viennent de moins en moins, depuis que la route de la côte a été
@@ -82,13 +82,16 @@ les rayons clairsemés du magasin.
 
 — Un peu. Surtout des curieux de passage, une heure ou deux, pas de
 quoi remplir un hôtel. On a besoin d'une vraie raison de rester plus
-longtemps. Une vraie attraction. Sofia et Souly se regardèrent, la même
-pensée les traversant sans qu'ils aient besoin de la dire à voix haute
-: c'était donc de ça que Marion allait parler, un peu plus tard.
+longtemps. Une vraie attraction.
+
+Sofia et Souly se regardèrent, la même pensée les traversant sans
+qu'ils aient besoin de la dire à voix haute.
 
 Frédéric leur offrit malgré tout deux esquimaux à la framboise avant
 qu'ils ne reprennent la route, « pour la bonne bouche, et pour que vous
-gardiez un bon souvenir de mon magasin, au cas où ». Sofia le remercia avec un enthousiasme si débordant que l'épicier, peu
+gardiez un bon souvenir de mon magasin, au cas où ».
+
+Sofia le remercia avec tant de ferveur que l'épicier, peu
 habitué à tant de gratitude pour un simple esquimau, ne sut pas
 vraiment quoi répondre.
 
@@ -135,7 +138,7 @@ plus quelle histoire de volcan, ajouta Inès, un sourcil levé. Je
 commence à me demander si passer des vacances avec vous deux n'est pas
 plus dangereux que de fouiller une couche instable.
 
-— On n'a jamais rien cherché, se défendit Sofia, la main sur le cœur.
+— On n'a jamais rien cherché, se défendit Sofia, l'air offusqué.
 C'est toujours les histoires qui nous trouvent, nous.
 
 — On verra bien si celle-ci fait exception, dit Inès, un sourire en coin
@@ -165,8 +168,8 @@ Elle les guida un peu plus loin, vers deux femmes accroupies côte à
 côte, l'une penchée sur un carnet de terrain, l'autre en train de
 photographier une série de fragments alignés sur un linge blanc.
 
-— Léa et Farida, mes deux doctorantes cette année, dit Inès. Léa
-travaille sur la datation des couches, Farida sur l'inventaire complet
+— Léa et Nadia, mes deux doctorantes cette année, dit Inès. Léa
+travaille sur la datation des couches, Nadia sur l'inventaire complet
 du site. Et là-bas — elle désigna une dernière silhouette, une jeune
 femme brune penchée sur une caisse à l'écart des autres, une mèche de
 cheveux échappée de sa tresse lui barrant le visage — c'est Elsa, ma
@@ -200,7 +203,7 @@ collectionneur privé qui achète un bel os tout seul, sans savoir d'où il
 vient exactement, achète en réalité beaucoup moins que ce qu'il croit.
 
 Elle s'accroupit devant un carré marqué du numéro sept et souleva, avec
-une délicatesse presque cérémonieuse, un fragment gris-beige de la taille
+une délicatesse cérémonieuse, un fragment gris-beige de la taille
 d'un poing.
 
 — Ça, par exemple, dit-elle. Un fragment de coquille d'œuf fossilisé.
@@ -208,15 +211,15 @@ Peut-être un dinosaure, peut-être un très grand oiseau ancien — on ne sait
 pas encore, il faudra le comparer à d'autres trouvailles similaires. Vous
 voulez toucher ?
 
-Sofia tendit la main sans hésiter une seconde, et le contact de la pierre
+Sofia tendit la main aussitôt, et le contact de la pierre
 froide et légèrement rugueuse contre sa paume lui parut, l'espace d'un
 instant, plus important que n'importe quel objet qu'elle ait jamais tenu
 — y compris son caillou porte-bonheur habituel, qu'elle sortit malgré
 tout de sa poche pour comparer sérieusement les deux, avant de conclure
 que celui-ci n'avait vraiment rien à craindre de la comparaison.
 
-— Il a quel âge ? demanda-t-elle, presque à voix basse, comme si parler
-trop fort risquait d'abîmer quelque chose.
+— Il a quel âge ? demanda-t-elle, presque à voix basse, de peur
+d'abîmer quelque chose en parlant trop fort.
 
 — On ne le sait pas encore exactement pour celui-là, dit Inès. Mais les
 couches de marne de ce vallon datent d'environ soixante-dix millions
@@ -291,7 +294,7 @@ accident.
 — C'est pour ça qu'Inès est si stricte sur les fiches et les
 photographies, remarqua Sofia.
 
-— Exactement pour ça, confirma Jean. Une fouille honnête, ça se prouve
+— C'est bien pour ça, approuva Jean. Une fouille honnête, ça se prouve
 étape par étape, jamais sur la seule bonne foi de celui qui raconte
 l'histoire. C'est même la première chose qu'elle nous a dite, la toute
 première année où on est venus l'aider.
@@ -302,7 +305,7 @@ fragments les plus fragiles. Tomas leur montra comment dégager la terre
 autour d'un os sans jamais gratter directement dessus,
 d'abord au pinceau large, puis à l'aiguille fine à mesure qu'on
 approchait de la surface, un geste répété tant de fois qu'il semblait
-presque automatique chez lui.
+automatique chez lui.
 
 — La règle d'or, dit-il, c'est qu'on a toujours plus de temps qu'on ne
 le croit, et jamais assez pour rattraper une erreur. Mieux vaut passer
@@ -313,8 +316,9 @@ Il leur laissa essayer, sous sa surveillance directe, sur un carré déjà
 en grande partie dégagé où le risque d'abîmer quelque chose de précieux
 restait faible. Souly s'appliqua avec une concentration presque
 comique, la langue légèrement sortie, son pinceau balayant la terre par
-petits mouvements réguliers, tandis que Sofia, moins patiente, dut se
-faire rappeler trois fois à l'ordre pour ne pas gratter trop vite.
+petits mouvements réguliers, tandis que Sofia, moins patiente, une
+basket rouge et une basket bleue repliées sous elle, dut se faire
+rappeler trois fois à l'ordre pour ne pas gratter trop vite.
 
 — Doucement, répéta Tomas, pour la troisième fois. On n'est pas en
 train de nettoyer une vieille casserole.
@@ -323,8 +327,39 @@ train de nettoyer une vieille casserole.
 dinosaure entier juste en dessous, se défendit Sofia, sans ralentir le
 moins du monde pour autant.
 
-— La plupart du temps, il n'y a rien du tout en dessous, dit Tomas, en
-riant doucement. C'est même le plus gros du travail, ici : creuser
+Elle grattait encore, penchée si près du sol que son nez frôlait
+la terre, quand une petite araignée brune détala de sous une
+motte fraîchement retournée. Sofia bondit en arrière avec un cri qui
+fit se redresser d'un coup la moitié des fouilleurs du vallon.
+
+— Elle a huit pattes et DEMIE ! glapit-elle, déjà réfugiée derrière son
+frère, un doigt tremblant pointé vers la bestiole qui, elle, avait
+depuis longtemps disparu sous une pierre.
+
+— Une araignée, ça a huit pattes, pas plus, dit Tomas, complètement
+dérouté.
+
+— Justement, les pires en ont une de plus, affirma Sofia, catégorique.
+J'en ai vu une, un jour. Sept pattes et demie rien que d'un côté. Je
+les ai comptées deux fois.
+
+— Sept et demie, ça fait moins que huit, hasarda Tomas, qui commençait
+à regretter d'avoir posé la moindre question.
+
+— Chez les araignées normales, oui, conclut Sofia, souveraine, en
+énonçant cette évidence que le monde entier devrait déjà connaître.
+
+Souly ne leva même pas le nez de son carré.
+
+— N'essayez pas de comprendre, conseilla-t-il à Tomas, très sérieux
+pour son âge. Personne n'y arrive. Moi le premier, et pourtant j'ai un
+carnet exprès pour ça.
+
+Tomas les regarda l'un après l'autre, ouvrit la bouche, la referma, et
+décida très sagement de retourner à son propre carré.
+
+— La plupart du temps, il n'y a rien du tout en dessous, dit-il enfin,
+en riant doucement. C'est même le plus gros du travail, ici : creuser
 pendant des heures pour ne trouver que de la roche vide. Il faut aimer
 ça aussi, pas seulement le moment où on trouve quelque chose.
 
@@ -356,8 +391,8 @@ Souly s'accroupit à côté d'elle et tourna le fragment entre ses doigts,
 le tenant à la lumière sous plusieurs angles avant de se prononcer.
 
 — Il n'est pas de la même couleur que les autres, dit-il. Regarde. Tous
-les fragments d'aujourd'hui sont plutôt gris ou beige. Celui-là est presque
-rouge foncé, presque noir par endroits.
+les fragments d'aujourd'hui sont plutôt gris ou beige. Celui-là tire sur
+le rouge foncé, noir par endroits.
 
 — On demande à Inès ? proposa Sofia.
 
@@ -396,8 +431,8 @@ avalés par l'ombre.
 — Alors, verdict de la première journée ? demanda Théo, en posant sur la
 table un plat de tomates et d'olives qu'un voisin leur avait offert.
 
-— C'est le meilleur endroit qu'on ait jamais visité, déclara Sofia, sans
-la moindre hésitation, la bouche déjà pleine.
+— C'est le meilleur endroit qu'on ait jamais visité, déclara Sofia, la
+bouche déjà pleine, entre deux tomates.
 
 — C'est trop tôt pour le dire, corrigea Souly, en feuilletant son
 carnet couvert de croquis de la journée. Mais ça
@@ -417,8 +452,8 @@ façon ou d'une autre.
 occupée déjà à couper le fromage en parts égales pour tout le monde.
 
 — Elle fait toujours ça, confia Théo aux enfants, à voix basse mais pas
-assez pour qu'Inès ne l'entende pas. Distiller l'information comme une
-bonne nouvelle qu'elle veut garder pour elle le plus longtemps possible.
+assez pour qu'Inès ne l'entende pas. Distiller l'information au
+compte-gouttes, garder sa bonne nouvelle pour elle le plus longtemps possible.
 
 — J'appelle ça du sens du rythme, corrigea Inès, sans lever les yeux du
 plateau de fromages. Vous les archéologues, vous racontez tout, tout de
@@ -433,7 +468,7 @@ méthode, finalement.
 — Raconte celle du sarcophage vide, demanda Sofia, qui connaissait
 déjà l'histoire par cœur mais ne se lassait jamais de la réentendre.
 
-Théo se redressa, visiblement ravi qu'on le lui demande, et prit une
+Théo se redressa, ravi qu'on le lui demande, et prit une
 grande inspiration théâtrale avant de commencer.
 
 — Trois semaines à dégager centimètre par centimètre un sarcophage
@@ -444,7 +479,7 @@ enfin soulevé le couvercle. Et là...
 — Rien, compléta Sofia, en imitant la tête déconfite que Théo faisait
 toujours à ce moment de l'histoire. Complètement vide.
 
-— Complètement vide, confirma Théo, la main sur le cœur en un geste
+— Complètement vide, renchérit Théo, la main sur le cœur en un geste
 théâtral. Pillé, sans doute, des siècles avant notre arrivée. Trois
 semaines de travail minutieux pour découvrir qu'on était arrivés
 environ deux mille ans
@@ -458,7 +493,7 @@ plein, dit Théo. Parce qu'un sarcophage vide, ça raconte aussi une
 histoire : qui l'a pillé, quand, comment. L'absence, en archéologie,
 ça compte parfois presque autant que la présence.
 
-— C'est exactement la même chose chez nous, intervint Inès. Une couche
+— C'est la même chose chez nous, intervint Inès. Une couche
 sans fossile, ce n'est jamais vraiment « rien ». Ça nous dit que les
 conditions n'étaient pas favorables à la fossilisation à ce moment-là,
 ou que quelque chose a détruit ce qui s'y trouvait. Même le vide a une
@@ -488,6 +523,13 @@ la terrasse baigner un instant dans la seule lumière des étoiles, avant
 d'aider Sofia, presque endormie, à se relever de sa chaise.
 
 — Demain, une vraie journée de fouille vous attend, dit-il, à voix
-basse pour ne pas achever de la réveiller tout à fait. Profitez bien de
-cette dernière nuit tranquille. Je sens qu'on n'en aura plus beaucoup,
-cette semaine.
+basse pour ne pas achever de la réveiller tout à fait.
+
+Sofia, déjà à moitié portée vers son lit, entrouvrit un œil.
+
+— Est-ce que les dinosaures, ils ronflaient ? marmonna-t-elle.
+
+— Personne n'en sait rien, avoua Théo.
+
+— Alors je vais y réfléchir cette nuit, décida-t-elle — et elle
+s'endormit avant même d'avoir fini sa phrase.

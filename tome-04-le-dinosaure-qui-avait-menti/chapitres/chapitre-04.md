@@ -105,7 +105,7 @@ bac à sable pas très différent de celui-là.
 
 — Vous restez là toute la journée ? demanda Souly.
 
-— Toute la journée, confirma Elsa, en aidant un petit garçon à
+— Toute la journée, dit Elsa, en aidant un petit garçon à
 redresser son pinceau. Marion voulait quelqu'un de fiable pour
 surveiller les enfants sans interruption. Je crois que c'est la
 première fois qu'on me confie une vraie responsabilité, ici. Je ne
@@ -210,7 +210,7 @@ qui redescendait brutalement.
 — ELLE VEUT PAS SE LÂCHER ! hurla Souly en retour, une main coincée entre
 deux poignées, l'autre cherchant frénétiquement le frein que Tomas avait
 pourtant mentionné — et, presque malgré lui, il se surprit à compter tout
-haut, un, deux, trois, comme si ça allait ralentir quoi que ce soit.
+haut, un, deux, trois, sans que ça ralentisse quoi que ce soit.
 
 Le bloc heurta le rebord de sa tranchée avec un fracas sourd,
 libérant un nuage de poussière rouge qui recouvrit instantanément la
@@ -251,7 +251,7 @@ blocs aussi lourds sans matériel vraiment professionnel. Chez moi, ce
 genre de mésaventure n'arrive jamais.
 
 — Vous n'avez jamais soulevé le moindre bloc de votre vie, répliqua
-Sofia, sans même chercher à masquer son agacement.
+Sofia, qui ne cachait pas son agacement.
 
 Vasseur lui adressa un sourire condescendant, du genre qu'on réserve
 d'ordinaire à un enfant qu'on ne prend pas tout à fait au sérieux.
@@ -288,7 +288,7 @@ montrer samedi ?
 tous les blocs de cette taille, dans ce vallon. Mais « quelque chose »,
 au sens où tu l'entends, ça prendra des semaines de dégagement minutieux
 avant qu'on sache vraiment ce qu'on a. Peut-être une belle pièce.
-Peut-être trois fragments sans grand intérêt. La science n'accélère pas
+Peut-être trois fragments quelconques. La science n'accélère pas
 parce qu'un calendrier l'exige, je te l'ai déjà dit.
 
 Marion hocha la tête, les épaules un peu basses, et s'éloigna vers
@@ -322,7 +322,7 @@ sans en être un.
 — C'est peut-être juste quelqu'un de l'équipe qui les a déplacés, dit
 Tomas, en évitant soigneusement le regard d'Inès.
 
-Farida, qui rangeait son propre matériel de photographie non loin de
+Nadia, qui rangeait son propre matériel de photographie non loin de
 là, s'approcha, l'air préoccupé.
 
 — J'ai vérifié le registre des sorties de matériel, dit-elle. Personne
@@ -334,13 +334,13 @@ trace écrite.
 — À quelle heure la tente a-t-elle été fermée, hier soir ? demanda
 Souly.
 
-— Vers vingt-deux heures, dit Farida. Tout le monde était épuisé après
+— Vers vingt-deux heures, dit Nadia. Tout le monde était épuisé après
 les préparatifs de la foire. Je me souviens l'avoir fermée moi-même,
 parce que j'étais la dernière à partir.
 
 — Et rouverte ce matin ?
 
-— À six heures, par moi encore, dit Farida. Donc si quelqu'un est
+— À six heures, par moi encore, dit Nadia. Donc si quelqu'un est
 entré, ça s'est passé quelque part entre ces deux heures-là, pendant
 que tout le village dormait, la veille d'une foire où tout le monde
 était censé se coucher tôt pour être frais le lendemain.
@@ -368,7 +368,7 @@ préfère avoir quelque chose de plus solide avant d'aller déranger la
 gendarmerie du patrimoine. On surveille, on note tout, et on avise si
 ça continue.
 
-Tomas referma la caisse à moitié vide d'un geste sec, visiblement peu
+Tomas referma la caisse à moitié vide d'un geste sec, peu
 convaincu par cette prudence.
 
 — Et si ça continue justement pendant la nuit précédant la fête ? dit-il.
@@ -380,7 +380,7 @@ Elsa, qui rangeait son bac à fouilles pédagogique non loin de la tente,
 s'approcha timidement du groupe en entendant la conversation.
 
 — Vous parlez du vol de la nuit dernière ? demanda-t-elle. Je peux
-vous dire où j'étais, si ça peut aider. J'ai dormi chez Farida, hier
+vous dire où j'étais, si ça peut aider. J'ai dormi chez Nadia, hier
 soir, on préparait les explications pour le bac à sable des enfants
 jusqu'à pas d'heure.
 
@@ -390,7 +390,7 @@ jusqu'à pas d'heure.
 plus tard, si jamais quelqu'un se met à chercher qui n'a pas d'alibi
 pour cette nuit-là.
 
-Farida confirma d'un signe de tête, sans quitter des yeux la caisse
+Nadia hocha la tête, sans quitter des yeux la caisse
 qu'elle finissait de refermer.
 
 — C'est vrai, dit-elle. On a discuté jusqu'à presque minuit. Elle
@@ -433,7 +433,7 @@ progressivement démontés, quand Milo les retrouva près de la tente,
 encore couvert de la poussière rouge de l'après-midi.
 
 — Alors, ce club des catastrophes officielles, ça recrute toujours ?
-demanda-t-il, sans la moindre moquerie dans la voix, cette fois.
+demanda-t-il, sans une trace d'ironie, cette fois.
 
 — On dirait bien qu'on va avoir besoin de tout le monde, cette semaine,
 répondit Souly, en refermant son carnet sur une liste qui s'allongeait

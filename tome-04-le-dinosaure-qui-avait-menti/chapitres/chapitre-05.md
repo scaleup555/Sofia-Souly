@@ -168,7 +168,7 @@ notant soigneusement le chiffre.
 
 — Un peu plus d'un mètre quarante entre les deux traces, dit-il. C'est
 large pour une petite voiture, mais ça correspondrait à un
-utilitaire, comme une camionnette.
+utilitaire. Une camionnette, par exemple.
 
 — La moitié des fermiers du coin ont des camionnettes de ce
 gabarit-là, tempéra Milo, peu convaincu. Ça pourrait être n'importe
@@ -288,14 +288,14 @@ sais ce que ça a l'air, mais je n'ai rien pris, rien déplacé.
 rassurant.
 
 — On n'a pas besoin de le dire, répliqua Elsa, avec une amertume
-soudaine dans la voix. Je vois bien comment Farida et Léa évitent mon
+soudaine dans la voix. Je vois bien comment Nadia et Léa évitent mon
 regard depuis ce matin. Je suis la petite nouvelle, celle qui vient
 d'ailleurs, celle qui traîne toujours seule. C'est toujours plus simple
 de soupçonner quelqu'un comme moi.
 
 — Pourquoi vous venez si tôt, alors ? demanda Souly, prudent mais direct.
 
-Elsa marqua une pause, cherchant visiblement ses mots, avant de sortir
+Elsa marqua une pause, cherchant ses mots, avant de sortir
 de son sac un carnet de
 croquis usé, couvert de dessins minutieux de fossiles, certains
 accompagnés de notes techniques serrées.
@@ -316,8 +316,8 @@ estimée.
 
 — C'est quoi, celui-là ? demanda-t-elle. Il revient plusieurs fois.
 
-Elsa hésita avant de répondre, comme si la question touchait à quelque
-chose de plus personnel qu'elle ne l'aurait voulu.
+Elsa hésita avant de répondre ; la question touchait manifestement à
+quelque chose de plus personnel qu'elle ne l'aurait voulu.
 
 — C'est le premier fragment que j'ai jamais dégagé moi-même, dit-elle
 enfin. Mon tout premier jour de stage, l'an dernier, sur un autre
@@ -337,7 +337,7 @@ justement le caillou en question de sa poche pour le montrer à Elsa. Il
 a une histoire.
 
 Elsa observa le petit caillou gris, tourné et retourné dans la paume de
-Sofia, avec une attention sincère, sans la moindre trace de moquerie.
+Sofia, avec une curiosité franche, sans rien de moqueur.
 
 — Je vous crois, dit-elle simplement. Je crois même que c'est
 exactement ça, le vrai sujet de la paléontologie, au fond. Pas les
@@ -356,7 +356,7 @@ Souly se pencha à son tour, impressionné malgré lui.
 justifier. Juste parce que c'est du très bon travail, et que ça
 mériterait d'être vu.
 
-— Peut-être, dit Elsa, sans grande conviction, en refermant
+— Peut-être, dit Elsa, d'une voix hésitante, en refermant
 délicatement le carnet. Un jour, peut-être. Ça n'explique quand même pas
 pourquoi tout le monde va penser que c'est moi qui ai déplacé les
 outils.
@@ -386,7 +386,7 @@ sans numéro. Vous n'êtes probablement pas la personne qui a laissé ces
 traces-là.
 
 — Alors pourquoi tout le monde va continuer à me soupçonner ? demanda
-Elsa, sans grand espoir dans la voix.
+Elsa, sans trop y croire.
 
 — Parce que les gens préfèrent souvent une explication simple à une
 explication vraie, dit Sofia, avec une franchise qui la caractérisait.
@@ -405,7 +405,7 @@ personnes.
 
 Elsa esquissa un sourire timide, le premier depuis le début de la
 conversation, et rangea son carnet de croquis dans son sac, presque
-tendrement, comme si le simple fait d'avoir été crue par deux enfants
+tendrement, désormais convaincue qu'avoir été crue par deux enfants
 suffisait à en changer la valeur.
 
 — Il reste quatre jours avant la présentation officielle de samedi

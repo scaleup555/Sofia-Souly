@@ -65,15 +65,15 @@ Sofia mordit quand même dans la sienne, par pure curiosité, et fit une
 grimace si spectaculaire que Milo éclata d'un rire franc, le premier
 depuis leur rencontre.
 
-— Je t'avais prévenue, dit-il, avec une satisfaction non dissimulée.
+— Je t'avais prévenue, dit-il, franchement content de son coup.
 
-— C'est vraiment, vraiment amer, confirma Sofia, en recrachant
+— C'est vraiment, vraiment amer, renchérit Sofia, en recrachant
 discrètement dans sa paume. Mais bon à savoir.
 
 — La plupart des visiteurs me croient sur parole, dit Milo, encore
 amusé. Toi, apparemment, il faut te laisser vérifier par toi-même.
 
-— Toujours, confirma Sofia, sans la moindre gêne.
+— Toujours, dit Sofia, la bouche encore tordue par le goût.
 
 — Mon grand-père trouvait des trucs, ici, dit-il, en donnant un coup de
 pied distrait dans une pierre du chemin. Quand il était petit. Des bouts
@@ -98,8 +98,8 @@ en pesant chaque mot. Tu as peur qu'on se moque encore de ta famille.
 — Un peu, admit Milo. Mais vous, au moins, vous demandez avant de juger.
 C'est déjà mieux que la plupart des visiteurs qui passent par ici.
 
-— On aime bien vérifier avant de croire quoi que ce soit, dit Sofia, avec
-une sincérité totale. Dans un sens ou dans l'autre.
+— On aime bien vérifier avant de croire quoi que ce soit, dit Sofia, et
+elle le pensait de tout son cœur. Dans un sens ou dans l'autre.
 
 Milo les entraîna vers une petite maison de pierre à l'ombre d'un
 figuier immense, où une femme d'une quarantaine d'années étendait du
@@ -134,12 +134,13 @@ avec une fierté tranquille qui contrastait nettement avec sa méfiance
 du début. On a jamais rien vendu, même dans les mauvaises années. Papet
 dit toujours que la terre, une fois vendue, elle ne revient jamais.
 
-— Même à Vasseur ? demanda Souly, qui avait remarqué que la
-camionnette blanche croisée plus tôt semblait rôder précisément dans
-cette direction du vallon.
+— Même à ce collectionneur qui rôde autour du chantier ? demanda
+Souly, qui avait remarqué, la veille déjà, combien l'homme à la veste
+beige semblait s'intéresser à ce coin précis du vallon.
 
-— Surtout pas à lui, dit Milo, avec une grimace de dégoût qui répondait
-mieux qu'aucun mot. Il est venu proposer un prix, l'an dernier. Papet
+— Surtout pas à Vasseur, dit Milo, avec une grimace de dégoût qui
+répondait mieux qu'aucun mot. Dorian Vasseur, le marchand de fossiles.
+Il est venu proposer un prix, l'an dernier. Papet
 l'a raccompagné jusqu'à sa voiture sans dire un mot de tout le trajet.
 Ça, à Roc-Rouge, c'est à peu près la pire insulte qu'on puisse faire à
 quelqu'un.
@@ -214,7 +215,7 @@ Castellane.
 
 Le vieil homme s'arrêta devant le rocher fendu, posa sa main libre sur
 la pierre exactement à l'endroit où celle de son petit-fils s'était
-posée un instant plus tôt, comme un geste répété depuis si longtemps
+posée un instant plus tôt, d'un geste répété depuis si longtemps
 qu'il en était devenu automatique.
 
 — Alors comme ça, on parle de mes pierres-œufs, dit-il, un sourire en
@@ -223,7 +224,7 @@ fois que j'en ai trouvé une. Toute une couvée, presque intacte, juste
 là, sous cette fente.
 
 — Et le paléontologue de l'époque a dit que c'était rien du tout, dit
-Milo, sans réussir tout à fait à masquer sa contrariété.
+Milo, la contrariété perçant sous chaque mot.
 
 — Il a dit que c'étaient des cailloux d'érosion, confirma Papet Fabre,
 sans amertume apparente, seulement une pointe de fatigue dans la voix,
@@ -275,7 +276,7 @@ mot « rougit » deux fois, puis ajouta, en dessous, une ligne qu'il
 souligna avec la même application : *soixante ans d'observation ne sont
 pas rien, même sans microscope.*
 
-— C'est exactement ce qu'un vrai scientifique devrait vérifier plutôt
+— C'est justement ce qu'un vrai scientifique devrait vérifier plutôt
 que de juste ignorer, dit-il, pensif.
 
 — Essaie de le dire à ceux qui se sont moqués de mon grand-père, dit
@@ -345,9 +346,8 @@ par ce que trouve l'équipe de la Doctoresse Castellane.
 yeux.
 
 — Je facilite leur rencontre avec des amateurs éclairés, dit Vasseur,
-un sourire poli plaqué sur le visage, sans qu'il atteigne vraiment ses
-yeux. C'est un métier tout à fait honorable, je vous assure. Sur ce,
-bonne promenade.
+un sourire poli qui s'effaça aussi vite qu'il était venu. C'est un
+métier tout à fait honorable, je vous assure. Sur ce, bonne promenade.
 
 Il remonta dans sa camionnette et s'éloigna sur le chemin caillouteux,
 et aucun des trois enfants ne trouva rien à dire avant que le bruit du
@@ -367,7 +367,7 @@ que les autres découvrent.
 — Peut-être qu'il prépare une vitrine, suggéra Sofia. Pour exposer ce
 qu'il a déjà.
 
-— Peut-être, dit Souly, pas franchement convaincu. Ou peut-être qu'il
+— Peut-être, dit Souly, à moitié convaincu. Ou peut-être qu'il
 prépare autre chose.
 
 — Alors qu'est-ce qu'il vient faire ici, tous les jours, sans jamais se
@@ -392,8 +392,8 @@ intention cachée. Mais je note quand même l'observation.
 — Tu notes tout, remarqua Milo, à moitié amusé, à moitié impressionné.
 
 — C'est souvent la seule différence entre se souvenir de quelque chose
-d'important et l'oublier complètement, dit Souly, sans lever les yeux
-de son carnet.
+d'important et l'oublier complètement, dit Souly, le nez toujours dans
+son carnet.
 
 Milo les raccompagna jusqu'à la limite de son champ, là où le muret de
 pierres sèches cédait la place au sentier public menant au chantier,
@@ -403,12 +403,12 @@ chemin par cœur.
 — Vous revenez demain ? demanda-t-il, avec une décontraction un peu trop
 étudiée pour être totalement naturelle.
 
-— Si tu veux bien de nous, dit Sofia, sans une once d'hésitation.
+— Si tu veux bien de nous, dit Sofia, sans hésiter une seconde.
 
 — Je veux bien, dit Milo. Mais seulement si vous continuez à poser des
 questions plutôt que des sentences.
 
-— C'est notre spécialité, confirma Souly, en refermant son carnet.
+— C'est notre spécialité, trancha Souly, en refermant son carnet.
 
 En redescendant vers le chantier, le soleil déjà bas sur les collines,
 Sofia se retourna une dernière fois vers le rocher fendu, minuscule au

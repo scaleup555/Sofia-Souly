@@ -41,7 +41,7 @@ quelqu'un avait un double des clés, soit quelqu'un connaissait
 suffisamment bien nos habitudes pour profiter d'un moment où la remise
 restait ouverte.
 
-Farida proposa alors, d'une voix mal assurée, ce que personne n'osait
+Nadia proposa alors, d'une voix mal assurée, ce que personne n'osait
 dire tout haut :
 
 — Ça veut dire que ça vient de quelqu'un de l'équipe. Ou de quelqu'un
@@ -78,8 +78,8 @@ pour votre stagiaire. Ça retombera vite, ces choses-là. Ou alors ça ne
 retombera jamais, ce qui serait dommage.
 
 — C'est toujours plus facile de soupçonner quelqu'un qui n'est pas là
-pour se défendre, dit Sofia, avec une conviction qui ne laissait aucune
-place au doute. On l'a déjà vu, avec ton grand-père.
+pour se défendre, dit Sofia, et il n'y avait pas l'ombre d'un doute dans
+sa voix. On l'a déjà vu, avec ton grand-père.
 
 Milo la regarda un instant, visiblement surpris qu'elle ait fait ce
 rapprochement toute seule.
@@ -96,8 +96,8 @@ sommeil.
 directement à Inès. Ça ne va pas arranger l'ambiance avant samedi, si
 les gens commencent à se méfier de toute l'équipe.
 
-— Les rumeurs ne sont pas des preuves, Marion, dit Inès, d'un ton qui
-ne laissait aucune place à la discussion. Et je ne vais certainement
+— Les rumeurs ne sont pas des preuves, Marion, dit Inès, sur un ton
+sans réplique. Et je ne vais certainement
 pas sacrifier une stagiaire innocente pour calmer des inquiétudes mal
 placées.
 
@@ -124,7 +124,7 @@ qui ne lui ressemblait guère d'ordinaire.
 piles, pour tout.
 
 — C'est plus facile de réfléchir quand il n'y a que deux options à la
-fois, dit Souly, sans lever les yeux. Après, on peut toujours
+fois, dit Souly, les yeux sur ses deux piles. Après, on peut toujours
 recombiner, séparer autrement. Mais il faut bien commencer quelque
 part.
 
@@ -161,7 +161,7 @@ Milo retourna les fiches d'accompagnement, cherchant qui avait signé
 l'entrée de chaque fragment dans l'inventaire.
 
 — Les deux fiches du carré douze sont signées par deux personnes
-différentes, remarqua-t-il. La première par Farida, la seconde par...
+différentes, remarqua-t-il. La première par Nadia, la seconde par...
 personne, en fait. Juste des initiales, D.V.
 
 — D.V., répéta Souly, en écrivant les initiales en toutes lettres à
@@ -174,7 +174,7 @@ droit d'aider à l'inventaire, un jour où l'équipe manquait de bras.
 — C'est vrai, admit Souly. Mais ça commence à faire beaucoup de
 coïncidences qui tournent toutes autour du même nom.
 
-Farida, qui passait justement avec une nouvelle caisse de fragments à
+Nadia, qui passait justement avec une nouvelle caisse de fragments à
 étiqueter, s'arrêta net en voyant les deux fiches côte à côte.
 
 — Attendez, dit-elle, en prenant la fiche signée D.V. entre ses doigts.
@@ -186,7 +186,7 @@ Vasseur traînait justement dans le coin, et il a proposé de nous aider
 — Il a eu accès aux fragments sans que personne le surveille vraiment,
 dit Milo, sombre.
 
-— Une dizaine de minutes, tout au plus, précisa Farida. Le temps de
+— Une dizaine de minutes, tout au plus, précisa Nadia. Le temps de
 déplacer trois ou quatre caisses. Ça paraissait tellement anodin qu'on
 n'y a même pas repensé depuis.
 
@@ -195,7 +195,7 @@ dans une caisse, ou en sortir un, dit Souly, en ajoutant l'information
 à son carnet. Surtout pour quelqu'un qui savait exactement ce qu'il
 cherchait.
 
-— Je m'en veux un peu, avoua Farida, en reposant la fiche. J'aurais dû
+— Je m'en veux un peu, avoua Nadia, en reposant la fiche. J'aurais dû
 vérifier son travail avant de le laisser signer quoi que ce soit. On
 fait confiance trop facilement, sur un chantier comme celui-ci. Tout le
 monde se connaît, ou croit se connaître.
@@ -253,13 +253,11 @@ caisse d'origine incontestable, provenant d'un carré fouillé et
 documenté depuis des années. Le résultat fut identique à celui du
 fragment sombre : aucune réaction, aucune trace collante.
 
-— Le test tient, confirma Elsa. Ce n'est pas un hasard de matériel, ni
+— Le test tient, dit Elsa. Ce n'est pas un hasard de matériel, ni
 une erreur de manipulation. Le fragment lisse du carré douze est
-vraiment différent de tout le reste.
-
-— Rien du tout, confirma-t-elle. Exactement ce qu'on attend d'une vraie
-pierre. La différence n'est plus juste une impression, maintenant.
-C'est un résultat qu'on peut refaire, vérifier, montrer à n'importe qui.
+vraiment différent de tout le reste. La différence n'est plus juste une
+impression, maintenant : c'est un résultat qu'on peut refaire, vérifier,
+montrer à n'importe qui.
 
 — Un faux, dit Milo, sombre. Mêlé aux vrais fragments, avec
 la même étiquette.
@@ -274,7 +272,7 @@ par un dans la boîte. On a juste une différence de texture suspecte. Pas un
 nom. Pas une preuve formelle.
 
 — Mais ça élimine sûrement l'idée que c'est juste un accident de terrain,
-dit Sofia, avec un aplomb qu'elle ne cherchait pas à masquer. Personne
+dit Sofia, sans se troubler le moins du monde. Personne
 ne fabrique une résine qui ressemble à de l'os par hasard.
 
 ---
@@ -397,8 +395,8 @@ jamais me faire confiance sur un site de fouilles.
 — Ça n'arrivera pas, dit fermement Souly. Pas tant qu'on aura quelque
 chose à dire là-dessus.
 
-Elsa lui adressa un sourire tremblant, le premier depuis le début de
-la soirée.
+Pour la première fois de la soirée, Elsa esquissa un sourire, encore
+un peu tremblant.
 
 — C'est la première fois depuis mon arrivée qu'on me croit sur parole,
 reprit-elle. Alors merci. Vraiment.
@@ -409,8 +407,8 @@ salit tout ça avec un faux, c'est moi qu'on regardera d'abord, pas lui.
 C'est toujours plus facile d'accuser la personne responsable que celle
 qui a vraiment triché.
 
-— On ne va pas le laisser faire, dit Souly, avec une détermination
-qu'il ne cherchait pas à dissimuler.
+— On ne va pas le laisser faire, dit Souly, d'une voix ferme qui le
+surprit lui-même.
 
 Inès leva les yeux vers lui, un sourire fatigué mais sincère éclairant
 enfin son visage.
@@ -435,8 +433,8 @@ déjà trois témoins indépendants qui pointent tous dans la même
 direction. Ce n'est plus une intuition d'enfants, à ce stade. C'est un
 vrai dossier.
 
-Souly referma son carnet une dernière fois pour la soirée, un sourire
-satisfait qu'il ne cherchait pas à cacher.
+Souly referma son carnet une dernière fois pour la soirée, le sourire
+aux lèvres.
 
 — Un vrai dossier, répéta-t-il, en savourant chaque mot. J'aime
 beaucoup comment ça sonne.

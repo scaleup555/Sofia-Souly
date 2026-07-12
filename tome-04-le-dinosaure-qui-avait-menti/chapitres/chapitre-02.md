@@ -16,7 +16,7 @@ pierre qui a pris la forme d'un os.
 — Vous l'avez déjà dit hier, remarqua Sofia, pas peu fière de s'en
 souvenir.
 
-— Exactement, dit Inès. Mais aujourd'hui je vous explique comment ça
+— Tout juste, dit Inès. Mais aujourd'hui je vous explique comment ça
 marche. Un animal meurt, ses tissus mous disparaissent, il ne reste que
 l'os ou la coquille. Si cet os est très vite recouvert de sédiments —
 boue, sable, cendre — avant de pourrir complètement, l'eau qui s'infiltre
@@ -28,12 +28,12 @@ Elle posa l'os sur la table et le fit glisser vers Souly, qui le
 réceptionna à deux mains, comme s'il craignait qu'un geste trop brusque
 ne le réduise en poussière.
 
-— C'est exactement la forme de l'os d'origine, dit-elle, mais ce n'est
+— Ça a la forme exacte de l'os d'origine, dit-elle, mais ce n'est
 plus l'os d'origine. C'est une copie minérale, parfois plus dure que la
 roche autour.
 
-— Et un moulage, c'est quoi la différence ? demanda Souly, sans lever les
-yeux de l'objet.
+— Et un moulage, c'est quoi la différence ? demanda Souly, les yeux
+rivés sur l'objet.
 
 — Bonne question. Un moulage, c'est une copie artificielle qu'on fabrique
 en résine ou en plâtre, à partir d'un vrai fossile, pour l'exposer sans
@@ -58,13 +58,29 @@ par la concentration.
 — Celui-là est vraiment plus léger, dit-elle, surprise. On dirait presque
 du plastique.
 
-— C'est exactement ce que c'est, en partie, confirma Inès. De la résine
+— C'est un peu ça, en partie, dit Inès. De la résine
 synthétique. Excellente pour l'enseignement. Catastrophique si quelqu'un
 essaie de la vendre comme une vraie découverte.
 
+Pour être bien sûre d'avoir tout compris, Sofia sortit de sa poche son
+caillou porte-bonheur et le soupesa gravement, à côté du vrai fossile
+et du moulage, avant de rendre son verdict avec l'aplomb d'une experte :
+
+— Le mien est lourd. Donc c'est un vrai fossile.
+
+— C'est un vrai galet de rivière, dit Inès, en retenant un sourire.
+Très joli, très ancien à sa façon, mais un galet. « Lourd » ne veut pas
+dire « fossile » — ça veut juste dire « lourd ». Un bon scientifique ne
+s'arrête jamais au premier indice.
+
+Sofia rempocha son caillou, un peu vexée, mais nota tout de même
+l'information dans un coin de sa tête — juste au cas où quelqu'un, un
+jour, tenterait de lui vendre un galet au prix d'un dinosaure.
+
 — Et comment on sait qu'un fossile est vraiment d'un dinosaure, et pas
 d'un autre animal ? demanda Souly, qui n'avait toujours pas reposé l'os
-authentique, comme s'il craignait qu'on ne le lui reprenne trop vite.
+authentique, peu disposé à s'en séparer une seconde plus tôt que
+nécessaire.
 
 — Excellente question, et beaucoup plus compliquée qu'elle n'en a l'air,
 dit Inès. On compare la forme avec tout ce qu'on connaît déjà : la
@@ -77,7 +93,7 @@ qu'une seule belle pièce isolée.
 — Donc plus on trouve de choses, mieux on comprend celles qu'on a déjà
 trouvées avant, résuma Sofia.
 
-— Exactement, dit Inès, ravie. C'est même toute la beauté de ce métier :
+— Oui, dit Inès, ravie. C'est même toute la beauté de ce métier :
 chaque nouvelle trouvaille rend toutes les précédentes un peu plus
 intelligentes.
 
@@ -97,9 +113,9 @@ comme un sablier qui s'écoule extrêmement, extrêmement lentement.
 — Comme un sablier de plusieurs millions d'années, dit Souly, fasciné
 par l'image.
 
-— Exactement ça, confirma Inès. Sauf qu'au lieu de sable, ce sont des
+— Tu y es, dit Inès. Sauf qu'au lieu de sable, ce sont des
 atomes qui se transforment les uns en les autres, à un rythme si
-régulier qu'on peut calculer, presque comme une horloge, combien de
+régulier qu'on peut calculer, presque à la seconde près, combien de
 temps s'est écoulé depuis la mort de l'animal.
 
 — Ça doit être hyper compliqué à mesurer, dit Sofia.
@@ -138,7 +154,7 @@ mélanger.
 
 — On dirait un genre d'horloge, dit-elle, fascinée.
 
-— C'en est une, en quelque sorte, confirma Inès. Une horloge qu'on ne
+— C'en est une, en quelque sorte, acquiesça Inès. Une horloge qu'on ne
 peut lire qu'une seule fois, dans le bon ordre. C'est pour ça que
 chaque carré, chaque centimètre de profondeur qu'on documente
 soigneusement vaut tellement plus qu'un fossile isolé, arraché sans
@@ -181,7 +197,7 @@ lentement, comparant leur surface centimètre par centimètre.
 — Celui-là est un peu plus foncé, dit-elle finalement, en désignant le
 second.
 
-— Exactement, confirma Inès. Ils viennent de deux carrés différents,
+— Voilà, dit Inès. Ils viennent de deux carrés différents,
 distants d'à peine trois mètres. La nature n'est jamais tout à fait
 uniforme. C'est ce qui la rend difficile à imiter parfaitement — un
 faussaire pressé, ou pas assez soigneux, oublie toujours ce détail-là.
@@ -234,7 +250,7 @@ creuserait un peu partout, au petit bonheur la chance.
 — Donc la carte elle-même, c'est presque une découverte, dit Souly,
 fasciné.
 
-— Exactement, confirma Léa. Une carte comme celle-ci vaut plus cher,
+— C'est ça, dit Léa. Une carte comme celle-ci vaut plus cher,
 scientifiquement, que n'importe quel fossile isolé qu'on pourrait
 acheter chez un marchand. Elle, personne ne peut la fabriquer du jour
 au lendemain. Il faut vingt ans de travail honnête pour l'obtenir.
@@ -286,7 +302,7 @@ sèchement. On trouve ce qu'on trouve, quand on le trouve. Ça fait vingt
 ans que je fouille ce vallon, je ne vais pas commencer à inventer des
 résultats parce qu'un calendrier municipal l'exige.
 
-— Je sais, dit Marion, en se radoucissant, visiblement consciente
+— Je sais, dit Marion, en se radoucissant, consciente
 d'avoir un peu forcé le ton. Mais tu comprends l'enjeu. Sans argent, pas
 de fouille l'an prochain. Sans fouille, pas de touristes, pas de petits
 restaurants qui rouvrent, pas d'école qui garde ses deux classes au lieu
@@ -439,7 +455,7 @@ un peu moins soignée, une première ligne juste en dessous : « L'homme à
 la veste beige. Ne se salit jamais les mains. »
 
 L'après-midi se poursuivit dans une atmosphère étrangement studieuse,
-chacun penché sur son propre carré, silencieux et appliqué, comme si la
+chacun penché sur son propre carré, silencieux et appliqué : la
 conversation de la matinée avait rappelé à tout
 le monde combien chaque heure passée sur le chantier comptait
 désormais. Inès elle-même, d'ordinaire disposée à s'arrêter pour
@@ -476,7 +492,10 @@ répond déjà à une vraie question qu'on vient de se poser.
 
 — Genre comment reconnaître un vrai fossile d'un faux, dit Sofia.
 
-— Genre exactement ça, confirma Souly, en jetant un dernier regard vers
+— Genre ça, oui, lâcha Souly, en jetant un dernier regard vers
 le sentier par où avait disparu, un peu plus tôt, l'homme à la veste
-beige. Et je crois qu'on va en avoir besoin plus tôt qu'on ne le
-pensait.
+beige.
+
+Sur la page de son carnet, juste sous « L'homme à la veste beige. Ne
+se salit jamais les mains », il traça un petit point d'interrogation,
+si appuyé qu'il marqua les trois pages suivantes.
