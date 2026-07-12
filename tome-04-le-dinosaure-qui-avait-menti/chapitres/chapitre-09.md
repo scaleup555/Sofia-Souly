@@ -410,9 +410,9 @@ Vraiment peur. Mais j'avais plus peur pour vous tous que pour moi,
 alors ça m'a aidé à avancer quand même.
 
 — C'est exactement comme ça que fonctionne le vrai courage, dit Inès,
-qui les avait rejoints, un sourire épuisé mais sincère éclairant son
-visage trempé. Pas l'absence de peur. Juste la décision d'agir malgré
-elle.
+qui les avait rejoints, la pluie encore dégoulinant de ses cheveux
+plaqués et un vrai sourire aux lèvres, malgré tout. Pas l'absence de
+peur. Juste la décision d'agir malgré elle.
 
 Milo, assis dans la boue à côté de son chien qu'il félicitait à voix
 basse, leva les yeux vers Souly comme s'il le voyait pour la première fois.
@@ -466,8 +466,8 @@ l'encre.
 particulièrement à Milo.
 
 — On avait de bonnes raisons, dit Milo, en haussant les épaules d'un
-air faussement détaché, sa voix trahissant surtout un mélange de
-fierté et d'épuisement bien mérité.
+air faussement détaché, sa voix rauque trahissant surtout un
+épuisement fier de lui-même.
 
 — On en reparlera à la lumière du jour, dit-il enfin, sans réussir à
 cacher tout à fait son sourire. Pour l'instant, tout le monde rentre

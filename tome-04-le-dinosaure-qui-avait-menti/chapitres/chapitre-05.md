@@ -288,7 +288,7 @@ sais ce que ça a l'air, mais je n'ai rien pris, rien déplacé.
 rassurant.
 
 — On n'a pas besoin de le dire, répliqua Elsa, avec une amertume
-soudaine dans la voix. Je vois bien comment Farida et Léa évitent mon
+soudaine dans la voix. Je vois bien comment Naïma et Léa évitent mon
 regard depuis ce matin. Je suis la petite nouvelle, celle qui vient
 d'ailleurs, celle qui traîne toujours seule. C'est toujours plus simple
 de soupçonner quelqu'un comme moi.

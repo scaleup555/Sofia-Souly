@@ -11,7 +11,7 @@ annonçait-elle, un tableau de présence griffonné à la hâte posé sur la
 table principale. Ce n'est pas une question de confiance. C'est une
 question de méthode.
 
-Un murmure de protestation modérée parcourut l'assemblée, vite étouffé
+Quelques protestations modérées s'élevèrent ici et là, vite étouffées
 par le regard sans appel d'Inès. Même Tomas, pourtant le premier
 arrivé chaque matin depuis le début de l'été, s'exécuta sans discuter,
 signant son nom en tête de la nouvelle liste sans faire d'histoire.
@@ -45,9 +45,9 @@ n'avait besoin que d'un peu plus, pour finir quelque chose de précis.
 — Ça, dit Souly, en fronçant les sourcils, c'est justement ce qu'on ne
 sait pas encore.
 
-— Ma mère a demandé autre chose au vendeur, ajouta Milo, un sourire en
-coin qui annonçait qu'il gardait le meilleur pour la fin. Si Vasseur
-avait laissé une adresse de facturation.
+— Ma mère a demandé autre chose au vendeur, ajouta Milo, en gardant
+manifestement le meilleur pour la fin. Si Vasseur avait laissé une
+adresse de facturation.
 
 — Et alors ? demanda Sofia, suspendue à ses lèvres.
 
@@ -102,7 +102,7 @@ Souly feuilleta les pages avec le sérieux qu'il réservait d'ordinaire
 aux relevés de fouille, s'arrêtant sur chaque croquis assez longtemps
 pour en apprécier les détails : des fragments dessinés sous tous les
 angles, des visages de l'équipe croqués en quelques traits pendant les
-pauses déjeuner — Tomas concentré sur son établi, Farida riant à une
+pauses déjeuner — Tomas concentré sur son établi, Naïma riant à une
 blague qu'on ne pouvait plus entendre, Inès penchée sur sa loupe,
 reconnaissable entre mille rien qu'à la façon dont elle plissait les
 yeux — et, vers le milieu du carnet, une double page consacrée à une
@@ -169,10 +169,9 @@ n'a rien d'un homme qui se contente d'« admirer le paysage », comme il
 prétend.
 
 Elsa regarda longuement le petit rectangle qu'elle avait dessiné sans
-y penser, partagée entre la fierté d'avoir, sans le savoir, capturé
-une preuve, et un vague malaise à l'idée d'avoir eu la réponse sous
-les yeux depuis des semaines sans jamais la
-voir.
+y penser. Elle avait capturé une preuve sans le savoir — et la réponse
+avait été sous ses yeux, sur sa propre page, depuis des semaines,
+sans qu'elle la voie jamais.
 
 — J'aurais dû vous montrer ce carnet dès le premier jour, dit-elle.
 
@@ -236,7 +235,7 @@ viennent probablement pas tous du même endroit — comme le fragment
 qu'on a testé à l'acétone.
 
 — Et il l'a fait enregistrer sous son propre nom dans notre inventaire,
-dit Inès, la voix tendue. Sous prétexte d'aider Farida à porter des
+dit Inès, la voix tendue. Sous prétexte d'aider Naïma à porter des
 caisses.
 
 — Pourquoi il prendrait un tel risque ? demanda Sofia. Il aurait pu

@@ -283,7 +283,7 @@ personne ne le fit remarquer plus fort que Théo, qui en reprit trois
 parts sous le regard consterné de Sofia, qui ne savait plus si elle
 devait rire ou s'inquiéter pour lui.
 
-Farida et Léa, assises côte à côte sur une caisse retournée, se
+Naïma et Léa, assises côte à côte sur une caisse retournée, se
 lancèrent dans un concours d'anecdotes sur les pires théories qu'on
 leur avait un jour présentées comme des « découvertes majeures » — un
 supposé œuf de dinosaure qui s'était révélé être une pierre ronde
@@ -296,7 +296,7 @@ nouveau carnet.
 — On ne sait jamais quand ça peut resservir, se défendit Souly, sans
 pour autant ranger son crayon.
 
-— Il a raison, dit Farida, avec un clin d'œil vers Sofia. On ne sait
+— Il a raison, dit Naïma, avec un clin d'œil vers Sofia. On ne sait
 jamais.
 
 Au milieu du repas, le téléphone de Théo sonna, et il décrocha avant

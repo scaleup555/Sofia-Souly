@@ -166,8 +166,8 @@ Elle les guida un peu plus loin, vers deux femmes accroupies côte à
 côte, l'une penchée sur un carnet de terrain, l'autre en train de
 photographier une série de fragments alignés sur un linge blanc.
 
-— Léa et Farida, mes deux doctorantes cette année, dit Inès. Léa
-travaille sur la datation des couches, Farida sur l'inventaire complet
+— Léa et Naïma, mes deux doctorantes cette année, dit Inès. Léa
+travaille sur la datation des couches, Naïma sur l'inventaire complet
 du site. Et là-bas — elle désigna une dernière silhouette, une jeune
 femme brune penchée sur une caisse à l'écart des autres, une mèche de
 cheveux échappée de sa tresse lui barrant le visage — c'est Elsa, ma

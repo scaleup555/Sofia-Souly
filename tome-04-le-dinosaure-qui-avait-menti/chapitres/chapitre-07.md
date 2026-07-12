@@ -178,7 +178,7 @@ soit pas d'ici.
 preuves, ils réclament une explication. N'importe laquelle. Et en ce
 moment, Elsa est la seule qui en offre une, même fausse.
 
-Farida et Léa, à la périphérie du cercle, échangeaient des murmures
+Naïma et Léa, à la périphérie du cercle, échangeaient des murmures
 inquiets, tandis que Tomas, les bras chargés de matériel qu'il
 n'avait pas encore rangé, écoutait la scène, les épaules raides.
 
@@ -204,9 +204,8 @@ avait balayé toutes ses craintes le jour du treuil.
 — Elle n'a rien fait, dit-il, en s'avançant au milieu du cercle. On a
 des preuves.
 
-Tous les regards se tournèrent vers lui, y compris celui d'Inès, à mi-
-chemin entre la surprise et l'inquiétude de le voir s'exposer ainsi
-devant tout le monde.
+Tous les regards se tournèrent vers lui, y compris celui d'Inès, les
+sourcils froncés de le voir s'exposer ainsi devant tout le monde.
 
 — Souly, commença-t-elle, prudente.
 
@@ -224,10 +223,10 @@ le genre qu'on porte en ville, pas sur un chantier de fouille.
 
 Sa voix avait tremblé sur les deux premiers mots, avant de se
 raffermir peu à peu, portée par les chiffres eux-mêmes plutôt que par
-une assurance qu'il n'avait pas vraiment. Un murmure parcourut
-l'assemblée. Marion se pencha vers Inès, une question muette sur le
-visage, et Inès hocha la tête, confirmant sans un mot que les mesures
-étaient réelles.
+une assurance qu'il n'avait pas vraiment. Des chuchotements montèrent
+un peu partout dans l'assemblée. Marion se pencha vers Inès, une
+question muette sur le visage, et Inès hocha la tête, confirmant sans
+un mot que les mesures étaient réelles.
 
 — Elsa fait du trente-six, ajouta Sofia, incapable de rester silencieuse
 plus longtemps. Vingt-trois centimètres, ça correspond. Vingt-sept, ça
@@ -284,7 +283,7 @@ l'épicier, arrivé entre-temps, un panier de courses sous le bras et un
 sourire à peine dissimulé sous sa moustache. Moi, en trente ans, je
 n'ai vu personne s'habiller comme ça pour marcher dans la marne.
 
-Un rire, franc celui-là, parcourut le petit attroupement. Vasseur,
+Cette fois, tout le petit attroupement éclata d'un rire franc. Vasseur,
 sentant le vent tourner, tenta une dernière manœuvre.
 
 — Je trouve regrettable, dit-il, d'un ton légèrement plus sec, qu'on
@@ -322,8 +321,9 @@ de se raviser en croisant le regard sévère d'Inès.
 dans la voix. Elsa n'a jamais été suspectée par moi, et j'espère que
 c'est désormais clair pour tout le monde.
 
-Marion, encore secouée, s'approcha des enfants, visiblement partagée
-entre le soulagement et l'envie de les gronder un peu.
+Marion, encore secouée, s'approcha des enfants et poussa un long
+soupir, index pointé vers eux comme pour une leçon de morale qu'elle
+n'arrivait pas tout à fait à formuler.
 
 — Vous auriez pu m'en parler avant, dit-elle. J'aurais pu préparer
 tout ça un peu mieux.

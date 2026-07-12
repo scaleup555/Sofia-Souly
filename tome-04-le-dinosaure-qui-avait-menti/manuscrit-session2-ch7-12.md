@@ -178,7 +178,7 @@ soit pas d'ici.
 preuves, ils réclament une explication. N'importe laquelle. Et en ce
 moment, Elsa est la seule qui en offre une, même fausse.
 
-Farida et Léa, à la périphérie du cercle, échangeaient des murmures
+Naïma et Léa, à la périphérie du cercle, échangeaient des murmures
 inquiets, tandis que Tomas, les bras chargés de matériel qu'il
 n'avait pas encore rangé, écoutait la scène, les épaules raides.
 
@@ -204,9 +204,8 @@ avait balayé toutes ses craintes le jour du treuil.
 — Elle n'a rien fait, dit-il, en s'avançant au milieu du cercle. On a
 des preuves.
 
-Tous les regards se tournèrent vers lui, y compris celui d'Inès, à mi-
-chemin entre la surprise et l'inquiétude de le voir s'exposer ainsi
-devant tout le monde.
+Tous les regards se tournèrent vers lui, y compris celui d'Inès, les
+sourcils froncés de le voir s'exposer ainsi devant tout le monde.
 
 — Souly, commença-t-elle, prudente.
 
@@ -224,10 +223,10 @@ le genre qu'on porte en ville, pas sur un chantier de fouille.
 
 Sa voix avait tremblé sur les deux premiers mots, avant de se
 raffermir peu à peu, portée par les chiffres eux-mêmes plutôt que par
-une assurance qu'il n'avait pas vraiment. Un murmure parcourut
-l'assemblée. Marion se pencha vers Inès, une question muette sur le
-visage, et Inès hocha la tête, confirmant sans un mot que les mesures
-étaient réelles.
+une assurance qu'il n'avait pas vraiment. Des chuchotements montèrent
+un peu partout dans l'assemblée. Marion se pencha vers Inès, une
+question muette sur le visage, et Inès hocha la tête, confirmant sans
+un mot que les mesures étaient réelles.
 
 — Elsa fait du trente-six, ajouta Sofia, incapable de rester silencieuse
 plus longtemps. Vingt-trois centimètres, ça correspond. Vingt-sept, ça
@@ -284,7 +283,7 @@ l'épicier, arrivé entre-temps, un panier de courses sous le bras et un
 sourire à peine dissimulé sous sa moustache. Moi, en trente ans, je
 n'ai vu personne s'habiller comme ça pour marcher dans la marne.
 
-Un rire, franc celui-là, parcourut le petit attroupement. Vasseur,
+Cette fois, tout le petit attroupement éclata d'un rire franc. Vasseur,
 sentant le vent tourner, tenta une dernière manœuvre.
 
 — Je trouve regrettable, dit-il, d'un ton légèrement plus sec, qu'on
@@ -322,8 +321,9 @@ de se raviser en croisant le regard sévère d'Inès.
 dans la voix. Elsa n'a jamais été suspectée par moi, et j'espère que
 c'est désormais clair pour tout le monde.
 
-Marion, encore secouée, s'approcha des enfants, visiblement partagée
-entre le soulagement et l'envie de les gronder un peu.
+Marion, encore secouée, s'approcha des enfants et poussa un long
+soupir, index pointé vers eux comme pour une leçon de morale qu'elle
+n'arrivait pas tout à fait à formuler.
 
 — Vous auriez pu m'en parler avant, dit-elle. J'aurais pu préparer
 tout ça un peu mieux.
@@ -500,7 +500,7 @@ annonçait-elle, un tableau de présence griffonné à la hâte posé sur la
 table principale. Ce n'est pas une question de confiance. C'est une
 question de méthode.
 
-Un murmure de protestation modérée parcourut l'assemblée, vite étouffé
+Quelques protestations modérées s'élevèrent ici et là, vite étouffées
 par le regard sans appel d'Inès. Même Tomas, pourtant le premier
 arrivé chaque matin depuis le début de l'été, s'exécuta sans discuter,
 signant son nom en tête de la nouvelle liste sans faire d'histoire.
@@ -534,9 +534,9 @@ n'avait besoin que d'un peu plus, pour finir quelque chose de précis.
 — Ça, dit Souly, en fronçant les sourcils, c'est justement ce qu'on ne
 sait pas encore.
 
-— Ma mère a demandé autre chose au vendeur, ajouta Milo, un sourire en
-coin qui annonçait qu'il gardait le meilleur pour la fin. Si Vasseur
-avait laissé une adresse de facturation.
+— Ma mère a demandé autre chose au vendeur, ajouta Milo, en gardant
+manifestement le meilleur pour la fin. Si Vasseur avait laissé une
+adresse de facturation.
 
 — Et alors ? demanda Sofia, suspendue à ses lèvres.
 
@@ -591,7 +591,7 @@ Souly feuilleta les pages avec le sérieux qu'il réservait d'ordinaire
 aux relevés de fouille, s'arrêtant sur chaque croquis assez longtemps
 pour en apprécier les détails : des fragments dessinés sous tous les
 angles, des visages de l'équipe croqués en quelques traits pendant les
-pauses déjeuner — Tomas concentré sur son établi, Farida riant à une
+pauses déjeuner — Tomas concentré sur son établi, Naïma riant à une
 blague qu'on ne pouvait plus entendre, Inès penchée sur sa loupe,
 reconnaissable entre mille rien qu'à la façon dont elle plissait les
 yeux — et, vers le milieu du carnet, une double page consacrée à une
@@ -658,10 +658,9 @@ n'a rien d'un homme qui se contente d'« admirer le paysage », comme il
 prétend.
 
 Elsa regarda longuement le petit rectangle qu'elle avait dessiné sans
-y penser, partagée entre la fierté d'avoir, sans le savoir, capturé
-une preuve, et un vague malaise à l'idée d'avoir eu la réponse sous
-les yeux depuis des semaines sans jamais la
-voir.
+y penser. Elle avait capturé une preuve sans le savoir — et la réponse
+avait été sous ses yeux, sur sa propre page, depuis des semaines,
+sans qu'elle la voie jamais.
 
 — J'aurais dû vous montrer ce carnet dès le premier jour, dit-elle.
 
@@ -725,7 +724,7 @@ viennent probablement pas tous du même endroit — comme le fragment
 qu'on a testé à l'acétone.
 
 — Et il l'a fait enregistrer sous son propre nom dans notre inventaire,
-dit Inès, la voix tendue. Sous prétexte d'aider Farida à porter des
+dit Inès, la voix tendue. Sous prétexte d'aider Naïma à porter des
 caisses.
 
 — Pourquoi il prendrait un tel risque ? demanda Sofia. Il aurait pu
@@ -1373,9 +1372,9 @@ Vraiment peur. Mais j'avais plus peur pour vous tous que pour moi,
 alors ça m'a aidé à avancer quand même.
 
 — C'est exactement comme ça que fonctionne le vrai courage, dit Inès,
-qui les avait rejoints, un sourire épuisé mais sincère éclairant son
-visage trempé. Pas l'absence de peur. Juste la décision d'agir malgré
-elle.
+qui les avait rejoints, la pluie encore dégoulinant de ses cheveux
+plaqués et un vrai sourire aux lèvres, malgré tout. Pas l'absence de
+peur. Juste la décision d'agir malgré elle.
 
 Milo, assis dans la boue à côté de son chien qu'il félicitait à voix
 basse, leva les yeux vers Souly comme s'il le voyait pour la première fois.
@@ -1429,8 +1428,8 @@ l'encre.
 particulièrement à Milo.
 
 — On avait de bonnes raisons, dit Milo, en haussant les épaules d'un
-air faussement détaché, sa voix trahissant surtout un mélange de
-fierté et d'épuisement bien mérité.
+air faussement détaché, sa voix rauque trahissant surtout un
+épuisement fier de lui-même.
 
 — On en reparlera à la lumière du jour, dit-il enfin, sans réussir à
 cacher tout à fait son sourire. Pour l'instant, tout le monde rentre
@@ -1781,7 +1780,7 @@ boîte, résuma Sofia, dégoûtée.
 qu'un vrai fossile documenté, même modeste, vaudra toujours plus
 qu'un assemblage spectaculaire sans histoire vérifiable derrière.
 
-Farida, qui venait de terminer l'inventaire du matériel retrouvé dans
+Naïma, qui venait de terminer l'inventaire du matériel retrouvé dans
 la camionnette, entra sous la tente avec une dernière liste à la main.
 
 — Rien d'autre de notre inventaire à nous, annonça-t-elle,
@@ -2048,7 +2047,7 @@ avec des mots plus compliqués.
 Toute l'équipe se mit au travail méthodiquement, sous la supervision
 attentive de Léa, chargée de documenter chaque centimètre avant qu'on
 y touche, exactement comme Inès l'avait enseigné le tout premier jour.
-Farida photographiait, Tomas creusait au pinceau large puis à
+Naïma photographiait, Tomas creusait au pinceau large puis à
 l'aiguille fine, tandis que Souly, installé juste à côté avec son
 propre carnet, consignait chaque étape avec la solennité d'un
 scientifique en chef.
@@ -2145,7 +2144,7 @@ pour venir voir de ses propres yeux, « au cas où il se passerait
 vraiment quelque chose d'historique », comme il l'expliqua à qui
 voulait l'entendre.
 
-Ce fut Farida qui, la première, laissa échapper un petit cri étouffé,
+Ce fut Naïma qui, la première, laissa échapper un petit cri étouffé,
 la main figée au-dessus d'un fragment blanchâtre à peine dégagé, de
 forme presque parfaitement ovale.
 
@@ -2153,7 +2152,7 @@ forme presque parfaitement ovale.
 plus à contenir. Inès. Regarde.
 
 Toute l'équipe se figea instantanément. Inès s'approcha, s'agenouilla
-à côté de Farida, et observa longuement, sans un mot, avant de sortir
+à côté de Naïma, et observa longuement, sans un mot, avant de sortir
 sa loupe de poche d'une main qui, pour la première fois depuis le
 début du tome, ne semblait pas tout à fait assurée.
 
@@ -2166,8 +2165,9 @@ presque intactes.
 suspendu au-dessus de la page.
 
 — Une couvée entière, confirma Inès, en se redressant lentement. Sofia
-ne lui avait encore jamais vu ce visage-là, mélange de rigueur
-professionnelle et d'émerveillement pur, presque enfantin. C'était
+ne lui avait encore jamais vu ce visage-là — la rigueur professionnelle
+toujours présente, mais quelque chose d'enfantin s'y était glissé, un
+sourire qu'elle ne cherchait même plus à discipliner. C'était
 exactement à l'endroit décrit par trois générations de la famille
 Fabre, dans une strate que personne n'avait jamais pris la peine de
 vérifier.
@@ -2179,7 +2179,7 @@ observer, puis se releva en secouant la tête, incrédule.
 jamais imaginé qu'on trouverait quelque chose d'aussi complet à deux
 pas d'un champ cultivé.
 
-— Personne ne l'avait imaginé, dit Farida, encore agenouillée près de
+— Personne ne l'avait imaginé, dit Naïma, encore agenouillée près de
 sa découverte, un sourire qu'elle n'essayait plus de contenir. C'est
 bien tout le problème. On imagine toujours les grandes découvertes
 loin de tout, dans des endroits difficiles d'accès. Celle-là attendait
@@ -2278,9 +2278,9 @@ craindre qu'on se moque de lui.
 
 La mère de Milo, qui n'avait jusque-là suivi l'affaire que de loin,
 monta un après-midi entier au champ pour observer le travail, appuyée
-contre le muret, un mélange de fierté et d'incrédulité sur le visage
-en regardant son beau-père devenir, du jour au lendemain, la personne
-la plus recherchée du village.
+contre le muret, secouant doucement la tête en regardant son beau-père
+devenir, du jour au lendemain, la personne la plus recherchée du
+village.
 
 — Soixante ans qu'on le croyait juste un peu tête en l'air, avec ses
 histoires de pierres-œufs, dit-elle à Sofia, en secouant la tête. Je
@@ -2652,7 +2652,7 @@ personne ne le fit remarquer plus fort que Théo, qui en reprit trois
 parts sous le regard consterné de Sofia, qui ne savait plus si elle
 devait rire ou s'inquiéter pour lui.
 
-Farida et Léa, assises côte à côte sur une caisse retournée, se
+Naïma et Léa, assises côte à côte sur une caisse retournée, se
 lancèrent dans un concours d'anecdotes sur les pires théories qu'on
 leur avait un jour présentées comme des « découvertes majeures » — un
 supposé œuf de dinosaure qui s'était révélé être une pierre ronde
@@ -2665,7 +2665,7 @@ nouveau carnet.
 — On ne sait jamais quand ça peut resservir, se défendit Souly, sans
 pour autant ranger son crayon.
 
-— Il a raison, dit Farida, avec un clin d'œil vers Sofia. On ne sait
+— Il a raison, dit Naïma, avec un clin d'œil vers Sofia. On ne sait
 jamais.
 
 Au milieu du repas, le téléphone de Théo sonna, et il décrocha avant

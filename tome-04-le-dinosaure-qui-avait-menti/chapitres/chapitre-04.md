@@ -178,9 +178,10 @@ tourner la manivelle au bon rythme pendant qu'on guide le bloc.
 — Souly, tu veux essayer ? proposa Inès, l'œil taquin. Ça ferait une
 belle photo pour le journal local.
 
-Souly, pris entre l'envie de refuser fermement et la tentation, tout aussi
-forte, de participer à une vraie opération de fouille, hésita sans
-trouver de mot pour répondre tout de suite.
+Souly ouvrit la bouche pour refuser fermement, puis la referma, puis la
+rouvrit sans trouver de mot pour répondre tout de suite — la tentation
+de participer à une vraie opération de fouille était visiblement trop
+forte pour son propre refus.
 
 — Je... commença-t-il.
 
@@ -277,8 +278,8 @@ grave et concentré.
 — Rien de cassé, dit-elle finalement, soulagée. On a eu de la chance.
 
 Marion, une fois les journalistes repartis vers d'autres stands plus
-photogéniques, s'approcha d'Inès avec un mélange d'inquiétude et
-d'espoir mal dissimulé.
+photogéniques, s'approcha d'Inès en se tordant les mains, cherchant
+visiblement une bonne nouvelle à se raccrocher.
 
 — Il y a quelque chose là-dedans, au moins ? demanda-t-elle, à voix
 basse, en désignant le bloc du menton. Quelque chose qu'on pourra
@@ -322,7 +323,7 @@ sans en être un.
 — C'est peut-être juste quelqu'un de l'équipe qui les a déplacés, dit
 Tomas, en évitant soigneusement le regard d'Inès.
 
-Farida, qui rangeait son propre matériel de photographie non loin de
+Naïma, qui rangeait son propre matériel de photographie non loin de
 là, s'approcha, l'air préoccupé.
 
 — J'ai vérifié le registre des sorties de matériel, dit-elle. Personne
@@ -334,13 +335,13 @@ trace écrite.
 — À quelle heure la tente a-t-elle été fermée, hier soir ? demanda
 Souly.
 
-— Vers vingt-deux heures, dit Farida. Tout le monde était épuisé après
+— Vers vingt-deux heures, dit Naïma. Tout le monde était épuisé après
 les préparatifs de la foire. Je me souviens l'avoir fermée moi-même,
 parce que j'étais la dernière à partir.
 
 — Et rouverte ce matin ?
 
-— À six heures, par moi encore, dit Farida. Donc si quelqu'un est
+— À six heures, par moi encore, dit Naïma. Donc si quelqu'un est
 entré, ça s'est passé quelque part entre ces deux heures-là, pendant
 que tout le village dormait, la veille d'une foire où tout le monde
 était censé se coucher tôt pour être frais le lendemain.
@@ -379,7 +380,7 @@ Elsa, qui rangeait son bac à fouilles pédagogique non loin de la tente,
 s'approcha timidement du groupe en entendant la conversation.
 
 — Vous parlez du vol de la nuit dernière ? demanda-t-elle. Je peux
-vous dire où j'étais, si ça peut aider. J'ai dormi chez Farida, hier
+vous dire où j'étais, si ça peut aider. J'ai dormi chez Naïma, hier
 soir, on préparait les explications pour le bac à sable des enfants
 jusqu'à pas d'heure.
 
@@ -389,7 +390,7 @@ jusqu'à pas d'heure.
 plus tard, si jamais quelqu'un se met à chercher qui n'a pas d'alibi
 pour cette nuit-là.
 
-Farida confirma d'un signe de tête, sans quitter des yeux la caisse
+Naïma confirma d'un signe de tête, sans quitter des yeux la caisse
 qu'elle finissait de refermer.
 
 — C'est vrai, dit-elle. On a discuté jusqu'à presque minuit. Elle

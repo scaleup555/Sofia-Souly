@@ -127,7 +127,7 @@ avec des mots plus compliqués.
 Toute l'équipe se mit au travail méthodiquement, sous la supervision
 attentive de Léa, chargée de documenter chaque centimètre avant qu'on
 y touche, exactement comme Inès l'avait enseigné le tout premier jour.
-Farida photographiait, Tomas creusait au pinceau large puis à
+Naïma photographiait, Tomas creusait au pinceau large puis à
 l'aiguille fine, tandis que Souly, installé juste à côté avec son
 propre carnet, consignait chaque étape avec la solennité d'un
 scientifique en chef.
@@ -224,7 +224,7 @@ pour venir voir de ses propres yeux, « au cas où il se passerait
 vraiment quelque chose d'historique », comme il l'expliqua à qui
 voulait l'entendre.
 
-Ce fut Farida qui, la première, laissa échapper un petit cri étouffé,
+Ce fut Naïma qui, la première, laissa échapper un petit cri étouffé,
 la main figée au-dessus d'un fragment blanchâtre à peine dégagé, de
 forme presque parfaitement ovale.
 
@@ -232,7 +232,7 @@ forme presque parfaitement ovale.
 plus à contenir. Inès. Regarde.
 
 Toute l'équipe se figea instantanément. Inès s'approcha, s'agenouilla
-à côté de Farida, et observa longuement, sans un mot, avant de sortir
+à côté de Naïma, et observa longuement, sans un mot, avant de sortir
 sa loupe de poche d'une main qui, pour la première fois depuis le
 début du tome, ne semblait pas tout à fait assurée.
 
@@ -245,8 +245,9 @@ presque intactes.
 suspendu au-dessus de la page.
 
 — Une couvée entière, confirma Inès, en se redressant lentement. Sofia
-ne lui avait encore jamais vu ce visage-là, mélange de rigueur
-professionnelle et d'émerveillement pur, presque enfantin. C'était
+ne lui avait encore jamais vu ce visage-là — la rigueur professionnelle
+toujours présente, mais quelque chose d'enfantin s'y était glissé, un
+sourire qu'elle ne cherchait même plus à discipliner. C'était
 exactement à l'endroit décrit par trois générations de la famille
 Fabre, dans une strate que personne n'avait jamais pris la peine de
 vérifier.
@@ -258,7 +259,7 @@ observer, puis se releva en secouant la tête, incrédule.
 jamais imaginé qu'on trouverait quelque chose d'aussi complet à deux
 pas d'un champ cultivé.
 
-— Personne ne l'avait imaginé, dit Farida, encore agenouillée près de
+— Personne ne l'avait imaginé, dit Naïma, encore agenouillée près de
 sa découverte, un sourire qu'elle n'essayait plus de contenir. C'est
 bien tout le problème. On imagine toujours les grandes découvertes
 loin de tout, dans des endroits difficiles d'accès. Celle-là attendait
@@ -357,9 +358,9 @@ craindre qu'on se moque de lui.
 
 La mère de Milo, qui n'avait jusque-là suivi l'affaire que de loin,
 monta un après-midi entier au champ pour observer le travail, appuyée
-contre le muret, un mélange de fierté et d'incrédulité sur le visage
-en regardant son beau-père devenir, du jour au lendemain, la personne
-la plus recherchée du village.
+contre le muret, secouant doucement la tête en regardant son beau-père
+devenir, du jour au lendemain, la personne la plus recherchée du
+village.
 
 — Soixante ans qu'on le croyait juste un peu tête en l'air, avec ses
 histoires de pierres-œufs, dit-elle à Sofia, en secouant la tête. Je

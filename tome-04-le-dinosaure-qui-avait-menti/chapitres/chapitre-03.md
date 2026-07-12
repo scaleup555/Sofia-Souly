@@ -57,10 +57,11 @@ devant un vieil olivier tordu, grimpa dessus avec une agilité
 déconcertante, et redescendit une poignée de petites olives encore
 vertes qu'il tendit aux enfants sans autre explication.
 
-— Elles sont amères, prévint-il, un sourire en coin. Personne ne les
-mange comme ça, jamais. Faut les laisser tremper des semaines dans la
-saumure avant qu'elles soient bonnes. Papet dit que c'est exactement
-pareil pour la confiance : ça ne se cueille jamais tout de suite.
+— Elles sont amères, prévint-il, les yeux pétillants de malice.
+Personne ne les mange comme ça, jamais. Faut les laisser tremper des
+semaines dans la saumure avant qu'elles soient bonnes. Papet dit que
+c'est exactement pareil pour la confiance : ça ne se cueille jamais
+tout de suite.
 
 Sofia mordit quand même dans la sienne, par pure curiosité, et fit une
 grimace si spectaculaire que Milo éclata d'un rire franc, le premier
@@ -219,10 +220,10 @@ la pierre exactement à l'endroit où celle de son petit-fils s'était
 posée un instant plus tôt, comme un geste répété depuis si longtemps
 qu'il en était devenu automatique.
 
-— Alors comme ça, on parle de mes pierres-œufs, dit-il, un sourire en
-coin qui n'avait rien d'amer, cette fois. J'avais votre âge la première
-fois que j'en ai trouvé une. Toute une couvée, presque intacte, juste
-là, sous cette fente.
+— Alors comme ça, on parle de mes pierres-œufs, dit-il, presque
+joyeusement, cette fois. J'avais votre âge la première fois que j'en
+ai trouvé une. Toute une couvée, presque intacte, juste là, sous cette
+fente.
 
 — Et le paléontologue de l'époque a dit que c'était rien du tout, dit
 Milo, sans réussir tout à fait à masquer sa contrariété.

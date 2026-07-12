@@ -335,7 +335,7 @@ boîte, résuma Sofia, dégoûtée.
 qu'un vrai fossile documenté, même modeste, vaudra toujours plus
 qu'un assemblage spectaculaire sans histoire vérifiable derrière.
 
-Farida, qui venait de terminer l'inventaire du matériel retrouvé dans
+Naïma, qui venait de terminer l'inventaire du matériel retrouvé dans
 la camionnette, entra sous la tente avec une dernière liste à la main.
 
 — Rien d'autre de notre inventaire à nous, annonça-t-elle,

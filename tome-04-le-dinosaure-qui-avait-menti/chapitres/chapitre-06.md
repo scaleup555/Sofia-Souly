@@ -42,7 +42,7 @@ connaissait suffisamment bien nos habitudes pour profiter d'un moment
 où la remise
 restait ouverte.
 
-Farida proposa alors, d'une voix mal assurée, ce que personne n'osait
+Naïma proposa alors, d'une voix mal assurée, ce que personne n'osait
 dire tout haut :
 
 — Ça veut dire que ça vient de quelqu'un de l'équipe. Ou de quelqu'un
@@ -161,7 +161,7 @@ Milo retourna les fiches d'accompagnement, cherchant qui avait signé
 l'entrée de chaque fragment dans l'inventaire.
 
 — Les deux fiches du carré douze sont signées par deux personnes
-différentes, remarqua-t-il. La première par Farida, la seconde par...
+différentes, remarqua-t-il. La première par Naïma, la seconde par...
 personne, en fait. Juste des initiales, D.V.
 
 — D.V., répéta Souly, en écrivant les initiales en toutes lettres à
@@ -174,7 +174,7 @@ droit d'aider à l'inventaire, un jour où l'équipe manquait de bras.
 — C'est vrai, admit Souly. Mais ça commence à faire beaucoup de
 coïncidences qui tournent toutes autour du même nom.
 
-Farida, qui passait justement avec une nouvelle caisse de fragments à
+Naïma, qui passait justement avec une nouvelle caisse de fragments à
 étiqueter, s'arrêta net en voyant les deux fiches côte à côte.
 
 — Attendez, dit-elle, en prenant la fiche signée D.V. entre ses doigts.
@@ -186,7 +186,7 @@ Vasseur traînait justement dans le coin, et il a proposé de nous aider
 — Il a eu accès aux fragments sans que personne le surveille vraiment,
 dit Milo, sombre.
 
-— Une dizaine de minutes, tout au plus, précisa Farida. Le temps de
+— Une dizaine de minutes, tout au plus, précisa Naïma. Le temps de
 déplacer trois ou quatre caisses. Ça paraissait tellement anodin qu'on
 n'y a même pas repensé depuis.
 
@@ -195,7 +195,7 @@ dans une caisse, ou en sortir un, dit Souly, en ajoutant l'information
 à son carnet. Surtout pour quelqu'un qui savait exactement ce qu'il
 cherchait.
 
-— Je m'en veux un peu, avoua Farida, en reposant la fiche. J'aurais dû
+— Je m'en veux un peu, avoua Naïma, en reposant la fiche. J'aurais dû
 vérifier son travail avant de le laisser signer quoi que ce soit. On
 fait confiance trop facilement, sur un chantier comme celui-ci. Tout le
 monde se connaît, ou croit se connaître.
@@ -255,11 +255,10 @@ fragment sombre : aucune réaction, aucune trace collante.
 
 — Le test tient, confirma Elsa. Ce n'est pas un hasard de matériel, ni
 une erreur de manipulation. Le fragment lisse du carré douze est
-vraiment différent de tout le reste.
-
-— Rien du tout, confirma-t-elle. Exactement ce qu'on attend d'une vraie
-pierre. La différence n'est plus juste une impression, maintenant.
-C'est un résultat qu'on peut refaire, vérifier, montrer à n'importe qui.
+vraiment différent de tout le reste. Exactement ce qu'on attend d'une
+vraie pierre, à l'inverse. La différence n'est plus juste une
+impression, maintenant. C'est un résultat qu'on peut refaire, vérifier,
+montrer à n'importe qui.
 
 — Un faux, dit Milo, sombre. Mêlé aux vrais fragments, avec
 la même étiquette.
@@ -392,8 +391,8 @@ souffle :
 — Vous savez, la première fois que Marion a parlé de « rumeurs sur la
 stagiaire », j'ai vraiment cru qu'on allait me renvoyer avant même
 d'avoir eu le temps de m'expliquer quoi que ce soit. C'est mon premier
-vrai chantier. Si ça se termine comme ça, personne ne voudra plus
-jamais me faire confiance sur un site de fouilles.
+chantier d'une telle ampleur. Si ça se termine comme ça, personne ne
+voudra plus jamais me faire confiance sur un site de fouilles.
 
 — Ça n'arrivera pas, dit fermement Souly. Pas tant qu'on aura quelque
 chose à dire là-dessus.
