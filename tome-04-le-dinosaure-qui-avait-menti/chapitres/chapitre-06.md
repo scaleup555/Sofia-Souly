@@ -397,8 +397,7 @@ jamais me faire confiance sur un site de fouilles.
 — Ça n'arrivera pas, dit fermement Souly. Pas tant qu'on aura quelque
 chose à dire là-dessus.
 
-Elsa lui adressa un sourire tremblant, le premier depuis le début de
-la soirée.
+Elsa lui adressa un sourire tremblant, les yeux un peu brillants.
 
 — C'est la première fois depuis mon arrivée qu'on me croit sur parole,
 reprit-elle. Alors merci. Vraiment.

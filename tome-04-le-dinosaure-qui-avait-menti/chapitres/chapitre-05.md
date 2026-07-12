@@ -356,8 +356,8 @@ Souly se pencha à son tour, impressionné malgré lui.
 justifier. Juste parce que c'est du très bon travail, et que ça
 mériterait d'être vu.
 
-— Peut-être, dit Elsa, sans grande conviction, en refermant
-délicatement le carnet. Un jour, peut-être. Ça n'explique quand même pas
+— Peut-être, dit Elsa, sans grande conviction, en rangeant le carnet au
+fond de son sac. Un jour, peut-être. Ça n'explique quand même pas
 pourquoi tout le monde va penser que c'est moi qui ai déplacé les
 outils.
 

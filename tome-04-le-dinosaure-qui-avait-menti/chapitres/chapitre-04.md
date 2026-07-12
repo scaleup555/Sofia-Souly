@@ -348,10 +348,9 @@ que tout le village dormait, la veille d'une foire où tout le monde
 — Une belle fenêtre pour agir tranquillement, remarqua Souly, en notant
 soigneusement les deux horaires.
 
-Inès ne répondit pas tout de suite. Elle se contenta d'ouvrir le
-registre du chantier, de le feuilleter deux fois de suite, page après
-page, et de le refermer sans y avoir rien trouvé qui explique quoi que
-ce soit.
+Inès se contenta d'ouvrir le registre du chantier, de le feuilleter
+deux fois de suite, page après page, et de le refermer sans y avoir
+rien trouvé qui explique quoi que ce soit.
 
 — Je vais faire l'inventaire complet demain matin, à la première heure,
 dit-elle finalement. Si quelque chose d'autre a disparu, je veux le

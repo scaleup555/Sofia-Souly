@@ -425,9 +425,10 @@ si la question n'avait jamais été posée.
 assez pour qu'Inès ne l'entende pas. Distiller l'information comme une
 bonne nouvelle qu'elle veut garder pour elle le plus longtemps possible.
 
-— J'appelle ça du sens du rythme, corrigea Inès, sans lever les yeux du
-plateau de fromages. Vous les archéologues, vous racontez tout, tout de
-suite, dans le désordre. Nous les paléontologues, on sait qu'une bonne
+— J'appelle ça du sens du rythme, corrigea Inès, découpant son plateau
+de fromages avec une lenteur qui n'avait rien d'accidentel. Vous les
+archéologues, vous racontez tout, tout de suite, dans le désordre.
+Nous les paléontologues, on sait qu'une bonne
 découverte se révèle couche par couche.
 
 — C'est vrai que le tombeau que j'ai fouillé l'an dernier n'a pas

@@ -447,8 +447,8 @@ l'équipe qui finissait sa journée.
 tentes. Et on a déjà un suspect, un mystère de rocher fendu, et une
 histoire de terre qui rougit.
 
-— Troisième journée en tout, corrigea Souly, en refermant son carnet
-pour de bon. On compte depuis le premier jour, avec le fragment
+— Troisième journée en tout, corrigea Souly, le doigt levé comme un
+maître d'école. On compte depuis le premier jour, avec le fragment
 brun-rouge, pas seulement depuis qu'on a commencé à vraiment enquêter.
 Il faut toujours compter depuis le tout premier indice, sinon on fausse
 toute la chronologie de l'enquête.

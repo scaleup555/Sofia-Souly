@@ -425,9 +425,10 @@ si la question n'avait jamais été posée.
 assez pour qu'Inès ne l'entende pas. Distiller l'information comme une
 bonne nouvelle qu'elle veut garder pour elle le plus longtemps possible.
 
-— J'appelle ça du sens du rythme, corrigea Inès, sans lever les yeux du
-plateau de fromages. Vous les archéologues, vous racontez tout, tout de
-suite, dans le désordre. Nous les paléontologues, on sait qu'une bonne
+— J'appelle ça du sens du rythme, corrigea Inès, découpant son plateau
+de fromages avec une lenteur qui n'avait rien d'accidentel. Vous les
+archéologues, vous racontez tout, tout de suite, dans le désordre.
+Nous les paléontologues, on sait qu'une bonne
 découverte se révèle couche par couche.
 
 — C'est vrai que le tombeau que j'ai fouillé l'an dernier n'a pas
@@ -1436,8 +1437,8 @@ l'équipe qui finissait sa journée.
 tentes. Et on a déjà un suspect, un mystère de rocher fendu, et une
 histoire de terre qui rougit.
 
-— Troisième journée en tout, corrigea Souly, en refermant son carnet
-pour de bon. On compte depuis le premier jour, avec le fragment
+— Troisième journée en tout, corrigea Souly, le doigt levé comme un
+maître d'école. On compte depuis le premier jour, avec le fragment
 brun-rouge, pas seulement depuis qu'on a commencé à vraiment enquêter.
 Il faut toujours compter depuis le tout premier indice, sinon on fausse
 toute la chronologie de l'enquête.
@@ -1793,10 +1794,9 @@ que tout le village dormait, la veille d'une foire où tout le monde
 — Une belle fenêtre pour agir tranquillement, remarqua Souly, en notant
 soigneusement les deux horaires.
 
-Inès ne répondit pas tout de suite. Elle se contenta d'ouvrir le
-registre du chantier, de le feuilleter deux fois de suite, page après
-page, et de le refermer sans y avoir rien trouvé qui explique quoi que
-ce soit.
+Inès se contenta d'ouvrir le registre du chantier, de le feuilleter
+deux fois de suite, page après page, et de le refermer sans y avoir
+rien trouvé qui explique quoi que ce soit.
 
 — Je vais faire l'inventaire complet demain matin, à la première heure,
 dit-elle finalement. Si quelque chose d'autre a disparu, je veux le
@@ -2260,8 +2260,8 @@ Souly se pencha à son tour, impressionné malgré lui.
 justifier. Juste parce que c'est du très bon travail, et que ça
 mériterait d'être vu.
 
-— Peut-être, dit Elsa, sans grande conviction, en refermant
-délicatement le carnet. Un jour, peut-être. Ça n'explique quand même pas
+— Peut-être, dit Elsa, sans grande conviction, en rangeant le carnet au
+fond de son sac. Un jour, peut-être. Ça n'explique quand même pas
 pourquoi tout le monde va penser que c'est moi qui ai déplacé les
 outils.
 
@@ -2764,8 +2764,7 @@ jamais me faire confiance sur un site de fouilles.
 — Ça n'arrivera pas, dit fermement Souly. Pas tant qu'on aura quelque
 chose à dire là-dessus.
 
-Elsa lui adressa un sourire tremblant, le premier depuis le début de
-la soirée.
+Elsa lui adressa un sourire tremblant, les yeux un peu brillants.
 
 — C'est la première fois depuis mon arrivée qu'on me croit sur parole,
 reprit-elle. Alors merci. Vraiment.
