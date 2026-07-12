@@ -82,9 +82,9 @@ les rayons clairsemés du magasin.
 
 — Un peu. Surtout des curieux de passage, une heure ou deux, pas de
 quoi remplir un hôtel. On a besoin d'une vraie raison de rester plus
-longtemps. Une vraie attraction. Sofia haussa un sourcil vers Souly, qui
-lui répondit d'un petit hochement de tête entendu : c'était donc de ça
-que Marion allait parler, un peu plus tard.
+longtemps. Une vraie attraction. Souly griffonna aussitôt trois mots
+dans son carnet, sans qu'on ait besoin de lui expliquer : c'était donc
+de ça que Marion allait parler, un peu plus tard.
 
 Frédéric leur offrit malgré tout deux esquimaux à la framboise avant
 qu'ils ne reprennent la route, « pour la bonne bouche, et pour que vous
