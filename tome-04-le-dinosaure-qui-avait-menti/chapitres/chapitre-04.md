@@ -1,7 +1,8 @@
 # Chapitre 4 — La Foire aux Vieilles Pierres et la mésaventure du treuil
 
-Le matin de la foire, le village entier semblait s'être donné le mot
-pour se lever plus tôt que d'habitude. Depuis la terrasse du gîte, un bol
+Deux jours plus tard, le matin de la foire, le village entier semblait
+s'être donné le mot pour se lever plus tôt que d'habitude. Depuis la
+terrasse du gîte, un bol
 de chocolat chaud entre les mains, Sofia et Souly regardaient les camions
 de la mairie décharger tables pliantes et guirlandes de fanions le long
 de la rue principale. Théo, lui, était debout depuis l'aube pour on ne

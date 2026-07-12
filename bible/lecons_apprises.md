@@ -495,3 +495,51 @@ tics ci-dessus, pas seulement sur la liste de formulations bannies —
 et envisager une relecture dédiée "chasse aux gabarits" avant la toute
 première soumission au jury, plutôt que de laisser chaque gabarit être
 découvert un par un sur des passages successifs.
+
+## Tome 4 — session 1 (chapitres 1-6) : LEÇON CRITIQUE méthodologique (instruction utilisateur, 2026-07-12)
+
+**10 passages jury cumulés sur les seuls chapitres 1-6 (6,5 → 7,0 → 7,3
+→ 7,4/10 sur les 4 derniers), sans jamais atteindre 9/10 avant que la
+session soit interrompue pour raison de temps.** C'est le pire ratio
+progrès/passages de toute la série. Deux causes structurelles identifiées :
+
+1. **Sous-longueur de départ.** Les chapitres 1-6 ont été écrits une
+   première fois à ~11 600 mots (58 % de la cible), obligeant deux
+   vagues d'expansion a posteriori rien que pour franchir le gate de
+   20 000 mots — AVANT même de commencer à corriger les tics. Écrire
+   trop court dès le départ inverse l'ordre logique du travail : on
+   gonfle un texte qu'on n'a pas encore purgé de ses tics, ce qui
+   revient à devoir chasser les tics deux fois (une fois sur le texte
+   initial, une fois sur le texte gonflé). **Règle désormais impérative :
+   viser ~3300 mots par chapitre DÈS LE PREMIER JET**, pas seulement
+   au moment du gate de vérification — un chapitre trop court doit être
+   développé par plus de scène et de sensoriel avant d'être considéré
+   "terminé", jamais après coup une fois toute la session rédigée.
+
+2. **Tics qui migrent au lieu de disparaître.** Corriger une catégorie
+   de tics signalée par le jury (ex. "confirma" en boucle) a fait migrer
+   le même besoin structurel — varier les incises de dialogue — vers une
+   nouvelle catégorie non encore signalée (ex. "corrigea" ×10). Même
+   phénomène avec les gabarits d'émotion ("trahissait/n'annonçait/
+   contrastait" a remplacé "avec un(e) + nom" une fois ce dernier purgé).
+   **Un correctif qui ne traite qu'un symptôme cité par le jury, sans
+   s'attaquer au réflexe rédactionnel sous-jacent (ex. "toujours étiqueter
+   l'émotion par une glose plutôt que par un geste"), fait réapparaître
+   un tic cousin ailleurs.** La bonne pratique est de réduire drastiquement
+   la fréquence GLOBALE des incises explicatives de dialogue et de
+   description d'émotion dès l'écriture, plutôt que de remplacer une
+   formule par une autre à chaque passage.
+
+**Deux règles concrètes pour tous les tomes futurs, dès le premier jet :**
+- **Longueur d'abord, qualité ensuite ne marche pas — il faut les deux
+  en même temps dès le départ.** Écrire chaque chapitre à sa longueur
+  cible complète (~3300 mots) au moment même de la rédaction, avec des
+  scènes déjà développées (sensoriel, sous-texte, scènes secondaires),
+  jamais un chapitre minimal qu'on gonflera plus tard.
+- **Limiter dès l'écriture, pas seulement en correction, la densité
+  d'adverbes de hedging et d'intensité** (« un peu », « presque »,
+  « exactement », « toujours », « jamais », « visiblement ») et le
+  réflexe de gloser une émotion après un dialogue plutôt que de la
+  montrer par une action ou de la laisser porter par la réplique seule.
+  Ces deux réflexes, une fois pris dès le premier jet, évitent la
+  majorité des allers-retours coûteux constatés sur ce tome.
