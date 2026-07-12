@@ -6,16 +6,15 @@ de temps à autre un hameau de trois maisons et d'une fontaine, avant de
 replonger dans une garrigue odorante de thym et de résine chauffée par
 le soleil. Grand-oncle Théo, au volant de sa vieille voiture couleur
 d'olive, racontait depuis vingt bonnes minutes une histoire de fouille
-égyptienne que ni Sofia ni Souly n'avait le cœur d'interrompre, tant il
+égyptienne. Ni Sofia ni Souly n'avait le cœur de l'interrompre, tant il
 semblait heureux de la raconter, les mains lâchant régulièrement le
 volant pour mimer l'ampleur d'un geste ou la profondeur d'une tranchée.
 
 — ...et c'est là qu'Inès m'a dit, je m'en souviens comme si c'était hier,
 « Théo, si tu casses encore une pelle sur une pierre qui n'en est pas
-une, je t'envoie creuser les tombes plutôt que les fouiller », acheva-t-il,
-avec un tel éclat de rire que la voiture fit une embardée discrète sur
-le bas-côté, faisant sursauter un troupeau de chèvres somnolentes le
-long du fossé.
+une, je t'envoie creuser les tombes plutôt que les fouiller », acheva-t-il.
+Il riait si fort que la voiture fit une embardée sur le bas-côté. Le long
+du fossé, un troupeau de chèvres somnolentes en sursauta.
 
 — C'est qui, Inès ? demanda Sofia, qui n'avait retenu que ce nom au
 milieu de l'histoire, malgré les cinq bonnes minutes qu'elle venait de
@@ -50,7 +49,7 @@ pattes dans la poussière, et pour tout trésor, une dent de requin
 fossile pas plus grosse qu'un ongle. Mais c'est là que j'ai compris que
 je préférais les pierres qui racontent une histoire humaine — un
 hiéroglyphe, un sarcophage — aux pierres qui racontent une histoire
-d'avant les humains. Inès, elle, a fait exactement le choix inverse.
+d'avant les humains. Inès, elle, a fait le choix inverse.
 
 ---
 
@@ -109,11 +108,11 @@ moitié accroché à la portière.
 — Beaucoup de gens la lisent un peu, dit Théo. Peu de gens la lisent
 vraiment.
 
-Une femme aux cheveux gris coupés courts émergea de la tente, une loupe
-de poche accrochée à une cordelette autour du cou et un petit pinceau
-glissé derrière l'oreille comme d'autres y glissent un crayon, la peau
-tannée par des années de plein air et les avant-bras couverts d'une fine
-pellicule de poussière rouge qu'elle ne semblait même plus remarquer.
+Une femme aux cheveux gris coupés courts émergea de la tente. Une loupe
+de poche pendait à une cordelette autour de son cou, un petit pinceau
+glissé derrière l'oreille comme d'autres y glissent un crayon. Elle avait
+la peau tannée par des années de plein air, et les avant-bras couverts
+d'une fine pellicule de poussière rouge qu'elle ne remarquait même plus.
 
 — Théophile Duchêne, dit-elle, en écartant les bras. Toujours vivant,
 toujours en retard.
@@ -131,7 +130,7 @@ méritait qu'on s'y attarde.
 depuis des années, dit-elle. Souly, le carnet. Sofia, les questions qui
 dérangent. J'ai bon ?
 
-— Vous avez tout bon, dit Sofia, impressionnée malgré elle.
+— Vous avez tout bon, dit Sofia, bluffée.
 
 — Il m'a aussi raconté l'histoire du marché, la momie, et je ne sais
 plus quelle histoire de volcan, ajouta Inès, un sourcil levé. Je
@@ -164,7 +163,7 @@ couverte d'instruments — est mon assistant depuis trois ans. Vous le
 recroiserez souvent, il ne quitte jamais vraiment le chantier, même
 pour dormir, je crois.
 
-Elle les guida un peu plus loin, vers deux femmes accroupies côte à
+Elle les guida plus loin, vers deux femmes accroupies côte à
 côte, l'une penchée sur un carnet de terrain, l'autre en train de
 photographier une série de fragments alignés sur un linge blanc.
 
@@ -178,7 +177,7 @@ solitaire, mais douée. Elle préfère travailler seule, la plupart du
 temps.
 
 Elsa leva brièvement les yeux vers eux, adressa un signe de tête bref,
-presque timide, avant de se replonger dans sa tâche sans un mot de plus.
+timide, avant de se replonger dans sa tâche sans un mot de plus.
 
 — Elle parle pas beaucoup, remarqua Sofia, à voix basse.
 
@@ -211,12 +210,12 @@ Peut-être un dinosaure, peut-être un très grand oiseau ancien — on ne sait
 pas encore, il faudra le comparer à d'autres trouvailles similaires. Vous
 voulez toucher ?
 
-Sofia tendit la main aussitôt, et le contact de la pierre
-froide et légèrement rugueuse contre sa paume lui parut, l'espace d'un
-instant, plus important que n'importe quel objet qu'elle ait jamais tenu
-— y compris son caillou porte-bonheur habituel, qu'elle sortit malgré
-tout de sa poche pour comparer sérieusement les deux, avant de conclure
-que celui-ci n'avait vraiment rien à craindre de la comparaison.
+Sofia tendit la main aussitôt. Le contact de la pierre froide et
+légèrement rugueuse contre sa paume lui parut, l'espace d'un instant,
+plus important que n'importe quel objet qu'elle ait jamais tenu. Elle
+sortit tout de même son caillou porte-bonheur de sa poche, pour comparer
+sérieusement les deux — avant de conclure que celui-ci n'avait rien à
+craindre de la comparaison.
 
 — Il a quel âge ? demanda-t-elle, presque à voix basse, de peur
 d'abîmer quelque chose en parlant trop fort.
@@ -236,7 +235,7 @@ coquille. Roc-Rouge à la mer, à peu près, et retour.
 Souly resta silencieux quelques secondes, occupé à calculer
 la distance exacte entre le village et la côte la plus proche.
 
-— C'est exactement pour ça que j'adore ce métier, dit Inès, tout son
+— Voilà pourquoi j'adore ce métier, dit Inès, tout son
 visage plissé de plaisir devant sa réaction. On touche l'impossible à
 imaginer, et pourtant, il est là, dans notre main.
 
@@ -269,7 +268,7 @@ Jean et Odile échangèrent un regard, le genre de regard qui précède
 généralement une anecdote racontée plus d'une fois.
 
 — Il y a une dizaine d'années, sur un autre chantier, pas très loin
-d'ici, dit Odile, en baissant un peu la voix. Toute une équipe avait
+d'ici, dit Odile, en baissant la voix. Toute une équipe avait
 cru tenir la découverte de sa carrière. Un squelette presque complet,
 annoncé en grande pompe dans les journaux régionaux.
 
@@ -369,7 +368,7 @@ minutes, laissa échapper un petit cri étouffé.
 — J'ai touché quelque chose de dur !
 
 Tomas se pencha aussitôt, examina la zone avec sa propre loupe, puis
-sourit, un peu amusé.
+sourit, amusé.
 
 — C'est un caillou, dit-il. Un vrai. Sans intérêt scientifique
 particulier. Bienvenue dans la vraie vie d'un chantier de fouille.
@@ -488,7 +487,7 @@ trop tard.
 — Et vous avez fait quoi ? demanda Souly, toujours friand des détails
 pratiques que les histoires oublient souvent de raconter.
 
-— On a documenté le sarcophage vide exactement comme s'il avait été
+— On a documenté le sarcophage vide comme s'il avait été
 plein, dit Théo. Parce qu'un sarcophage vide, ça raconte aussi une
 histoire : qui l'a pillé, quand, comment. L'absence, en archéologie,
 ça compte parfois presque autant que la présence.
@@ -520,7 +519,7 @@ hochement de tête approbateur. Beaucoup trop bien, peut-être.
 
 Théo souffla la bougie anti-moustiques d'un geste tranquille, laissant
 la terrasse baigner un instant dans la seule lumière des étoiles, avant
-d'aider Sofia, presque endormie, à se relever de sa chaise.
+d'aider Sofia, ensommeillée, à se relever de sa chaise.
 
 — Demain, une vraie journée de fouille vous attend, dit-il, à voix
 basse pour ne pas achever de la réveiller tout à fait.
@@ -677,9 +676,9 @@ fossile trouvé ici — son doigt remonta jusqu'à la bande beige.
 
 — Et si quelqu'un mélangeait le bocal ? demanda Souly.
 
-— Alors toute l'information serait perdue, dit Inès, un peu grave.
-C'est exactement pour ça qu'on ne creuse jamais à la va-vite, et qu'on
-ne remue jamais la terre au hasard. Une fois qu'une couche est
+— Alors toute l'information serait perdue, dit Inès, gravement.
+C'est bien pour ça qu'on ne creuse jamais à la va-vite, et qu'on
+ne remue pas la terre au hasard. Une fois qu'une couche est
 dérangée, on ne peut plus jamais reconstituer l'ordre d'origine. C'est
 irréversible. C'est même la pire erreur qu'un fouilleur puisse
 commettre, bien pire que casser un fossile.
@@ -778,7 +777,7 @@ sur le site depuis vingt ans.
 — Regardez, dit-elle. Chaque point représente un fossile important.
 Vous voyez comme ils se concentrent surtout dans cette bande, ici, le
 long de l'ancien lit d'une rivière fossile ? Ce n'est pas un hasard :
-c'est exactement là que les carcasses d'animaux avaient le plus de
+c'est là, précisément, que les carcasses d'animaux avaient le plus de
 chances d'être rapidement recouvertes de sédiments avant de pourrir.
 Sans cette carte, sans ces vingt années de relevés minutieux, on
 creuserait un peu partout, au petit bonheur la chance.
@@ -800,7 +799,7 @@ sédiments sur les carcasses des animaux disparus.
 
 — Beaucoup plus humide, dit Léa. Une plaine traversée de rivières, avec
 une végétation dense, presque tropicale. Difficile à imaginer, en
-regardant ce paysage aride aujourd'hui, mais c'est exactement ce que
+regardant ce paysage aride aujourd'hui, mais c'est bien ce que
 les fossiles eux-mêmes nous racontent : des plantes qui n'existent plus
 dans la région, des coquilles d'animaux d'eau douce, des traces de
 racines profondes typiques d'un climat bien plus arrosé.
@@ -930,20 +929,20 @@ détails de samedi », Inès se tourna vers l'équipe rassemblée, son
 sourire masquant mal une réelle inquiétude.
 
 — Bon, dit-elle. Vous avez tous entendu. Ce qui ne change rien à notre
-travail : on continue exactement comme avant, méthodiquement, sans
+travail : on continue comme avant, méthodiquement, sans
 raccourci. Si on trouve quelque chose d'important pour samedi, tant
 mieux. Sinon, tant pis — je préfère annoncer zéro découverte plutôt
 qu'une découverte qu'on n'a pas vraiment faite.
 
 L'équipe se dispersa peu à peu vers les différents carrés, chacun
-reprenant sa tâche de la veille, les pinceaux un peu plus appliqués, les
-voix un peu plus basses qu'à l'accoutumée. Un
-murmure d'approbation parcourut la tente, sauf, remarqua Sofia, du côté
-d'un homme qu'elle n'avait pas encore vu ce matin-là — élégamment
+reprenant sa tâche de la veille, les pinceaux plus appliqués, les
+voix plus basses qu'à l'accoutumée. Un
+murmure d'approbation parcourut la tente. Sauf, remarqua Sofia, du côté
+d'un homme qu'elle n'avait pas encore vu ce matin-là. Élégamment
 habillé pour un chantier de fouille, une veste beige impeccable qui
-tranchait nettement avec les vêtements couverts de poussière du reste de
-l'équipe, occupé à photographier discrètement la table de fragments
-depuis l'entrée de la tente.
+tranchait avec les vêtements poussiéreux du reste de l'équipe, il
+photographiait discrètement la table de fragments depuis l'entrée de la
+tente.
 
 — C'est qui, lui ? demanda-t-elle à Souly, à voix basse.
 
@@ -1075,7 +1074,7 @@ J'ai entendu parler de vous, au marché.
 — Déjà ? s'étonna Sofia. On est arrivés avant-hier.
 
 — Ici, une nouvelle met moins de temps à circuler qu'un coup de vent,
-dit Milo, presque amusé malgré lui. On m'a dit que vous aviez trouvé un
+dit Milo, amusé malgré lui. On m'a dit que vous aviez trouvé un
 fragment bizarre, dès le premier jour.
 
 Souly et Sofia échangèrent un regard, un peu déstabilisés à l'idée que
@@ -1099,8 +1098,8 @@ vertes qu'il tendit aux enfants sans autre explication.
 
 — Elles sont amères, prévint-il, un sourire en coin. Personne ne les
 mange comme ça, jamais. Faut les laisser tremper des semaines dans la
-saumure avant qu'elles soient bonnes. Papet dit que c'est exactement
-pareil pour la confiance : ça ne se cueille jamais tout de suite.
+saumure avant qu'elles soient bonnes. Papet dit que c'est pareil pour
+la confiance : ça ne se cueille jamais tout de suite.
 
 Sofia mordit quand même dans la sienne, par pure curiosité, et fit une
 grimace si spectaculaire que Milo éclata d'un rire franc, le premier
@@ -1255,7 +1254,7 @@ deviner.
 Castellane.
 
 Le vieil homme s'arrêta devant le rocher fendu, posa sa main libre sur
-la pierre exactement à l'endroit où celle de son petit-fils s'était
+la pierre à l'endroit précis où celle de son petit-fils s'était
 posée un instant plus tôt, d'un geste répété depuis si longtemps
 qu'il en était devenu automatique.
 
@@ -1347,7 +1346,7 @@ serrée. Juste « un expert consulté ». Personne n'a jamais pu vérifier
 qui c'était, ni s'il avait vraiment regardé les pierres de près, ou
 juste écouté quelqu'un d'autre lui raconter l'histoire au téléphone.
 
-— Ça, c'est exactement ce qui devrait déranger n'importe qui d'un peu
+— Ça, c'est justement ce qui devrait déranger n'importe qui d'un peu
 rigoureux, dit Souly, en examinant l'article de plus près.
 Une affirmation sans nom, sans méthode expliquée, ce n'est pas de la
 science. C'est juste une opinion qu'on a habillée pour qu'elle en ait
@@ -1505,13 +1504,12 @@ Souly rouvrit le sien sans un mot.
 # Chapitre 4 — La Foire aux Vieilles Pierres et la mésaventure du treuil
 
 Le matin de la foire, le village entier semblait s'être donné le mot
-pour se lever plus tôt que d'habitude. Depuis la terrasse du gîte,
-Sofia et Souly regardaient, un bol de chocolat chaud entre les mains,
-les camions de la mairie décharger tables pliantes et guirlandes de
-fanions le long de la rue principale, tandis que Théo, déjà debout
-depuis l'aube pour on ne savait quelle raison archéologique urgente,
-finissait de préparer un panier de pique-nique bien trop copieux pour
-trois personnes.
+pour se lever plus tôt que d'habitude. Depuis la terrasse du gîte, un bol
+de chocolat chaud entre les mains, Sofia et Souly regardaient les camions
+de la mairie décharger tables pliantes et guirlandes de fanions le long
+de la rue principale. Théo, lui, était debout depuis l'aube pour on ne
+savait quelle raison archéologique urgente, et finissait de préparer un
+panier de pique-nique bien trop copieux pour trois personnes.
 
 — Inès nous a réservé une place au premier rang pour la démonstration,
 annonça-t-il, en refermant le panier d'un coup sec. Elle a l'air de
@@ -1528,12 +1526,12 @@ chocolat chaud.
 dormir la veille d'une simple foire de village, ça mérite d'être noté.
 
 La Foire aux Vieilles Pierres, organisée chaque année pour célébrer le
-patrimoine géologique du village et lancer la semaine qui menait à la
-grande Fête de la Pierre du samedi suivant, prit cette année-là une
-ampleur inhabituelle : la mairie avait fait installer des stands tout
-le long de la place, une estrade pour les discours officiels, et, au
-centre de tout, un grand panneau annonçant en lettres peintes à la main
-« ROC-ROUGE — TERRE DE DÉCOUVERTES ».
+patrimoine géologique du village, lançait la semaine qui menait à la
+grande Fête de la Pierre du samedi suivant. Cette année-là, elle prit une
+ampleur inhabituelle. La mairie avait fait installer des stands tout le
+long de la place, une estrade pour les discours officiels, et, au centre
+de tout, un grand panneau peint à la main : « ROC-ROUGE — TERRE DE
+DÉCOUVERTES ».
 
 — Marion a mis le paquet, cette année, remarqua Inès, en observant les
 préparatifs depuis le bord de la place. J'espère qu'on ne va pas décevoir
@@ -1562,9 +1560,9 @@ d'une dent fossile montée sur un petit socle de bois verni.
 Sud-Ouest, authentifiée par des experts reconnus... Un investissement,
 mesdames et messieurs, pas seulement un souvenir de vacances.
 
-Sofia revint vers Souly, un peu songeuse.
+Sofia revint vers Souly, songeuse.
 
-— Il parle exactement comme les vendeurs de calendriers qui viennent
+— Il parle comme les vendeurs de calendriers qui viennent
 sonner chez Mamie Rose, dit-elle. Beaucoup trop gentil pour être
 seulement gentil.
 
@@ -1572,9 +1570,9 @@ seulement gentil.
 lever les yeux de son carnet.
 
 Ils déambulèrent le reste de la matinée entre les stands installés sur
-la place, où l'école primaire exposait des dessins d'enfants représentant
-des dinosaures aux proportions généreusement fantaisistes, où le club de
-randonnée local proposait des cartes du vallon annotées à la main, et où
+la place. L'école primaire y exposait des dessins d'enfants représentant
+des dinosaures aux proportions généreusement fantaisistes ; le club de
+randonnée local proposait des cartes du vallon annotées à la main. Et
 Papet Fabre lui-même, installé sur un tabouret pliant devant un panier de
 figues, échangeait des sourires complices avec les enfants sans jamais
 mentionner leur rencontre de la veille.
@@ -1631,7 +1629,7 @@ ceinture.
 pour quiconque autour d'elle. Tout va très bien se passer.
 
 En apercevant les enfants, elle s'interrompit une seconde, un sourire
-un peu crispé remplaçant son air affairé.
+crispé remplaçant son air affairé.
 
 — Alors, cette foire vous plaît ? demanda-t-elle.
 
@@ -1654,22 +1652,21 @@ stand de fanions qui menaçait de s'effondrer sous le vent.
 
 ---
 
-L'attraction centrale de la foire, organisée à quinze heures précises,
-était une démonstration de treuil : l'équipe avait dégagé, plusieurs
-semaines auparavant, un gros bloc de marne contenant plusieurs fossiles
-prometteurs, trop lourd pour être manipulé à la main, et Inès avait
-accepté, sur l'insistance de Marion, d'en faire une opération publique
-pour remonter le bloc jusqu'au village.
+L'attraction centrale de la foire, à quinze heures précises, était une
+démonstration de treuil. Plusieurs semaines auparavant, l'équipe avait
+dégagé un gros bloc de marne, plein de fossiles prometteurs et trop lourd
+pour être manipulé à la main. Sur l'insistance de Marion, Inès avait
+accepté d'en faire une opération publique, pour remonter le bloc jusqu'au
+village.
 
-La foule s'était massée en nombre autour de la tranchée aménagée pour
-l'occasion, plus dense que Sofia et Souly ne l'auraient imaginé pour un
-village aussi petit : des familles entières, des touristes de passage
-attirés par les banderoles, et jusqu'au maître d'école, reconnaissable
-à sa chemise à carreaux, qui avait amené sa classe entière pour
-l'occasion.
+La foule s'était massée autour de la tranchée, bien plus dense que Sofia
+et Souly ne l'auraient imaginé pour un si petit village. Des familles
+entières, des touristes de passage attirés par les banderoles, et
+jusqu'au maître d'école, reconnaissable à sa chemise à carreaux, qui
+avait amené toute sa classe.
 
 — Toute cette agitation pour un bloc de pierre, remarqua Souly, un peu
-impressionné malgré lui par l'ampleur de l'événement.
+gagné par l'ampleur de l'événement.
 
 — Toute cette agitation pour l'espoir de ce qu'il y a peut-être dedans,
 dit Sofia, en désignant les regards fixés sur la tranchée. C'est
@@ -1795,7 +1792,7 @@ avant qu'on sache vraiment ce qu'on a. Peut-être une belle pièce.
 Peut-être trois fragments quelconques. La science n'accélère pas
 parce qu'un calendrier l'exige, je te l'ai déjà dit.
 
-Marion hocha la tête, les épaules un peu basses, et s'éloigna vers
+Marion hocha la tête, les épaules basses, et s'éloigna vers
 l'estrade où l'attendait déjà un autre groupe de villageois impatients
 d'obtenir des nouvelles.
 
@@ -1901,7 +1898,7 @@ qu'elle finissait de refermer.
 n'a pas pu quitter la maison sans que je le remarque, ma chambre est
 juste à côté de la sienne.
 
-— Merci, dit Inès, avec un sourire un peu fatigué. Mais garde ça pour
+— Merci, dit Inès, avec un sourire fatigué. Mais garde ça pour
 toi, pour l'instant. Je ne veux pas que tout le monde se sente obligé
 de justifier chaque heure de son emploi du temps. Ça sentirait trop
 l'interrogatoire, et on n'en est pas encore là.
@@ -1987,8 +1984,8 @@ parlent déjà de vandalisme, de jalousie entre chantiers concurrents,
 même d'une histoire de trésor caché que quelqu'un chercherait à voler
 en cachette.
 
-— Une histoire de trésor caché ? répéta Sofia, les yeux brillants
-malgré elle.
+— Une histoire de trésor caché ? répéta Sofia, les yeux soudain
+brillants.
 
 — Les rumeurs de village, ça s'emballe toujours plus vite que la
 vérité, dit Inès, en secouant la tête. C'est justement pour ça qu'on va
@@ -2141,8 +2138,8 @@ côté, ça fait quand même une drôle de coïncidence.
 
 Inès examina l'endroit, les sourcils froncés.
 
-— C'est du côté du champ des Fabre, remarqua-t-elle. Presque exactement
-en face de la maison de Milo.
+— C'est du côté du champ des Fabre, remarqua-t-elle. Juste en face de
+la maison de Milo.
 
 — C'est pas mon père qui a fait ça, dit Milo, immédiatement sur ses
 gardes. Il dort à côté de la fenêtre qui donne sur le chantier. Il
@@ -2153,7 +2150,7 @@ confirme que quelqu'un connaissait suffisamment bien le terrain pour
 éviter l'entrée surveillée. Quelqu'un qui est déjà venu ici plusieurs
 fois, de jour, pour repérer les lieux.
 
-Milo se détendit un peu, visiblement rassuré par le ton d'Inès, mais
+Milo se détendit, visiblement rassuré par le ton d'Inès, mais
 resta silencieux un moment, les yeux fixés sur le fil de fer écarté.
 
 — Vasseur est venu plusieurs fois sur nos terres, dit-il finalement, à
@@ -2161,8 +2158,8 @@ voix basse. Il connaît le champ presque aussi bien que moi, à force. Il
 a toujours prétendu que c'était pour « admirer le paysage ».
 
 — Ça colle, dit Souly, en ajoutant une ligne à son carnet. Quelqu'un
-qui a déjà repéré le terrain en prétextant autre chose, ça correspond
-exactement à une entrée dérobée bien planifiée.
+qui a déjà repéré le terrain en prétextant autre chose, ça ressemble
+fort à une entrée dérobée bien planifiée.
 
 — On dirait presque que tu voudrais que ce soit lui, remarqua Sofia.
 
@@ -2301,15 +2298,15 @@ a une histoire.
 Elsa observa le petit caillou gris, tourné et retourné dans la paume de
 Sofia, avec une curiosité franche, sans rien de moqueur.
 
-— Je vous crois, dit-elle simplement. Je crois même que c'est
-exactement ça, le vrai sujet de la paléontologie, au fond. Pas les
-os eux-mêmes. Les histoires qu'ils nous permettent de raconter.
+— Je vous crois, dit-elle simplement. Je crois même que c'est ça, au
+fond, le vrai sujet de la paléontologie. Pas les os eux-mêmes. Les
+histoires qu'ils nous permettent de raconter.
 
 Elle s'arrêta sur un croquis particulièrement détaillé, une vertèbre
 fossilisée reproduite trait pour trait, chaque strie de la texture
-rendue avec une précision presque photographique.
+rendue avec une précision photographique.
 
-— Regarde, Souly, celui-là ressemble presque plus à une vraie photo
+— Regarde, Souly, celui-là ressemble plus à une vraie photo
 qu'à un dessin.
 
 Souly se pencha à son tour, impressionné malgré lui.
@@ -2358,7 +2355,7 @@ Souly. Officiellement, pas juste entre nous. Comme ça, si les rumeurs
 continuent au village, elle aura quelque chose de concret à opposer,
 plutôt que juste sa parole contre les commérages.
 
-— Vous feriez ça ? demanda Elsa, presque incrédule.
+— Vous feriez ça ? demanda Elsa, incrédule.
 
 — On l'a déjà fait, en un sens, dit Sofia, en désignant le carnet de
 Souly. Il ne reste plus qu'à le dire à voix haute devant les bonnes
@@ -2439,7 +2436,7 @@ l'équipe n'ait eu le temps de tirer la moindre conclusion sérieuse. Au
 café de la place, ce midi-là, les conversations s'arrêtaient net sur le
 passage de Sofia et Souly, reprenant à voix plus basse une fois les
 enfants suffisamment éloignés pour ne plus entendre — ce qui ne les
-empêchait absolument pas de deviner très exactement de quoi il
+empêchait absolument pas de deviner très bien de quoi il
 retournait.
 
 — On dirait que tout le village sait déjà tout, avant même nous, remarqua
@@ -2517,7 +2514,7 @@ sa voix. On l'a déjà vu, avec ton grand-père.
 Milo la regarda un instant, visiblement surpris qu'elle ait fait ce
 rapprochement toute seule.
 
-— C'est exactement ça, dit-il, après un silence. Sauf que cette fois,
+— C'est bien ça, dit-il, après un silence. Sauf que cette fois,
 j'ai bien l'intention qu'on trouve le vrai coupable avant que ça
 n'aille trop loin.
 
@@ -2543,12 +2540,11 @@ les fragments d'os étalés devant lui — une douzaine de morceaux prêtés
 par Inès pour un examen comparatif, chacun accompagné de sa fiche
 d'origine.
 
-Il classa méthodiquement les fragments en deux piles distinctes, comme il
-le faisait toujours face à une masse d'informations trop grande pour
-tenir dans une seule pensée à la fois — d'un côté les fragments dont la
-patine correspondait bien à leur carré d'origine déclaré, de l'autre une
-poignée de morceaux qui, à l'œil nu déjà, semblaient légèrement
-différents.
+Il classa méthodiquement les fragments en deux piles, comme toujours face
+à une masse d'informations trop grande pour tenir dans une seule pensée.
+D'un côté, les fragments dont la patine correspondait bien à leur carré
+d'origine déclaré. De l'autre, une poignée de morceaux qui, à l'œil nu
+déjà, semblaient légèrement différents.
 
 Sofia, assise en face de lui, l'observait travailler avec une patience
 qui ne lui ressemblait guère d'ordinaire.
@@ -2573,7 +2569,7 @@ bonne.
 la loupe empruntée à Inès.
 Celui-ci, étiqueté carré numéro douze, a une patine presque noire, très
 minéralisée. Celui-là, étiqueté carré numéro sept, à peine trois mètres
-plus loin, est nettement plus clair, presque gris-beige.
+plus loin, est nettement plus clair, gris-beige.
 
 Milo, qui les rejoignait justement, s'accroupit à côté d'eux sans se
 faire prier.
@@ -2585,7 +2581,7 @@ normal ?
 Sofia, hésitante. Mais quand même.
 
 — Sauf que là, dit Souly, en désignant un troisième fragment, celui-là
-est étiqueté carré numéro douze, exactement comme le premier — et
+est étiqueté carré numéro douze, tout comme le premier — et
 regardez, il ne ressemble pas du tout à son voisin de pile. Deux
 fragments censés venir du même endroit, et ils n'ont presque rien en
 commun.
@@ -2645,7 +2641,7 @@ pencha aussitôt sur les fragments alignés.
 
 Souly lui tendit les deux fragments du carré numéro douze. Sous la
 lumière, la différence de texture devenait plus évidente encore : l'un
-présentait de fines striures régulières, presque géométriques, tandis
+présentait de fines striures régulières et géométriques, tandis
 que l'autre restait parfaitement lisse.
 
 — Ça, dit Elsa lentement, ce n'est pas juste une différence de couleur.
@@ -2659,7 +2655,7 @@ normalement au nettoyage des outils, et en déposa une goutte minuscule
 sur un coin du fragment suspect, à un endroit déjà légèrement écaillé.
 
 — Regardez, dit-elle, après quelques secondes. La surface devient
-légèrement collante, presque poisseuse. Une vraie pierre ne réagirait
+légèrement collante et poisseuse. Une vraie pierre ne réagirait
 jamais comme ça. Une résine synthétique, si.
 
 Milo se pencha si près que son nez frôla le fragment.
@@ -2677,7 +2673,7 @@ vient d'un tout autre carré, juste pour vérifier que le test marche
 pareil partout.
 
 — Bonne idée, dit Elsa, impressionnée par le réflexe. C'est
-exactement ce qu'on appelle un témoin, en sciences. Un élément de
+précisément ce qu'on appelle un témoin, en sciences. Un élément de
 comparaison qu'on sait déjà fiable, pour être sûr que le résultat
 qu'on observe vient bien de ce qu'on teste, et pas d'autre chose.
 
@@ -2705,7 +2701,7 @@ par un dans la boîte. On a juste une différence de texture suspecte. Pas un
 nom. Pas une preuve formelle.
 
 — Mais ça élimine sûrement l'idée que c'est juste un accident de terrain,
-dit Sofia, sans se troubler le moins du monde. Personne
+dit Sofia, posément. Personne
 ne fabrique une résine qui ressemble à de l'os par hasard.
 
 ---
@@ -2879,9 +2875,12 @@ beaucoup comment ça sonne.
 de la tente. On n'a encore rien prouvé du tout. On a juste de très
 bonnes raisons de continuer à chercher.
 
-Dehors, la nuit était tombée tout à fait sur le vallon, et le bloc
-mystérieux resta là, seul dans l'obscurité de la tente fermée, sa gaze
-protectrice immobile, gardant son secret pour quelques jours encore —
-jusqu'à ce que quelqu'un, dans les règles cette fois, se décide enfin à
-l'ouvrir devant témoins.
+Dehors, la nuit avait fini de tomber sur le vallon. Sofia s'arrêta au
+bord de la tente, jeta un dernier regard au bloc enveloppé de gaze, puis
+à son frère.
+
+— Il y a un faux qui dort là-dedans, dit-elle. Bien au chaud, en train
+d'attendre qu'on le prenne pour un trésor devant tout le village.
+
+— Jusqu'à samedi, dit Souly. D'ici là, on ne le quitte plus des yeux.
 

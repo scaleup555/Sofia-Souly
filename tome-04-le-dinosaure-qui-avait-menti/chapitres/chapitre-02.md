@@ -141,9 +141,9 @@ fossile trouvé ici — son doigt remonta jusqu'à la bande beige.
 
 — Et si quelqu'un mélangeait le bocal ? demanda Souly.
 
-— Alors toute l'information serait perdue, dit Inès, un peu grave.
-C'est exactement pour ça qu'on ne creuse jamais à la va-vite, et qu'on
-ne remue jamais la terre au hasard. Une fois qu'une couche est
+— Alors toute l'information serait perdue, dit Inès, gravement.
+C'est bien pour ça qu'on ne creuse jamais à la va-vite, et qu'on
+ne remue pas la terre au hasard. Une fois qu'une couche est
 dérangée, on ne peut plus jamais reconstituer l'ordre d'origine. C'est
 irréversible. C'est même la pire erreur qu'un fouilleur puisse
 commettre, bien pire que casser un fossile.
@@ -242,7 +242,7 @@ sur le site depuis vingt ans.
 — Regardez, dit-elle. Chaque point représente un fossile important.
 Vous voyez comme ils se concentrent surtout dans cette bande, ici, le
 long de l'ancien lit d'une rivière fossile ? Ce n'est pas un hasard :
-c'est exactement là que les carcasses d'animaux avaient le plus de
+c'est là, précisément, que les carcasses d'animaux avaient le plus de
 chances d'être rapidement recouvertes de sédiments avant de pourrir.
 Sans cette carte, sans ces vingt années de relevés minutieux, on
 creuserait un peu partout, au petit bonheur la chance.
@@ -264,7 +264,7 @@ sédiments sur les carcasses des animaux disparus.
 
 — Beaucoup plus humide, dit Léa. Une plaine traversée de rivières, avec
 une végétation dense, presque tropicale. Difficile à imaginer, en
-regardant ce paysage aride aujourd'hui, mais c'est exactement ce que
+regardant ce paysage aride aujourd'hui, mais c'est bien ce que
 les fossiles eux-mêmes nous racontent : des plantes qui n'existent plus
 dans la région, des coquilles d'animaux d'eau douce, des traces de
 racines profondes typiques d'un climat bien plus arrosé.
@@ -394,20 +394,20 @@ détails de samedi », Inès se tourna vers l'équipe rassemblée, son
 sourire masquant mal une réelle inquiétude.
 
 — Bon, dit-elle. Vous avez tous entendu. Ce qui ne change rien à notre
-travail : on continue exactement comme avant, méthodiquement, sans
+travail : on continue comme avant, méthodiquement, sans
 raccourci. Si on trouve quelque chose d'important pour samedi, tant
 mieux. Sinon, tant pis — je préfère annoncer zéro découverte plutôt
 qu'une découverte qu'on n'a pas vraiment faite.
 
 L'équipe se dispersa peu à peu vers les différents carrés, chacun
-reprenant sa tâche de la veille, les pinceaux un peu plus appliqués, les
-voix un peu plus basses qu'à l'accoutumée. Un
-murmure d'approbation parcourut la tente, sauf, remarqua Sofia, du côté
-d'un homme qu'elle n'avait pas encore vu ce matin-là — élégamment
+reprenant sa tâche de la veille, les pinceaux plus appliqués, les
+voix plus basses qu'à l'accoutumée. Un
+murmure d'approbation parcourut la tente. Sauf, remarqua Sofia, du côté
+d'un homme qu'elle n'avait pas encore vu ce matin-là. Élégamment
 habillé pour un chantier de fouille, une veste beige impeccable qui
-tranchait nettement avec les vêtements couverts de poussière du reste de
-l'équipe, occupé à photographier discrètement la table de fragments
-depuis l'entrée de la tente.
+tranchait avec les vêtements poussiéreux du reste de l'équipe, il
+photographiait discrètement la table de fragments depuis l'entrée de la
+tente.
 
 — C'est qui, lui ? demanda-t-elle à Souly, à voix basse.
 

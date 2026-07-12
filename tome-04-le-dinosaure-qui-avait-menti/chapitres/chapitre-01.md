@@ -6,16 +6,15 @@ de temps à autre un hameau de trois maisons et d'une fontaine, avant de
 replonger dans une garrigue odorante de thym et de résine chauffée par
 le soleil. Grand-oncle Théo, au volant de sa vieille voiture couleur
 d'olive, racontait depuis vingt bonnes minutes une histoire de fouille
-égyptienne que ni Sofia ni Souly n'avait le cœur d'interrompre, tant il
+égyptienne. Ni Sofia ni Souly n'avait le cœur de l'interrompre, tant il
 semblait heureux de la raconter, les mains lâchant régulièrement le
 volant pour mimer l'ampleur d'un geste ou la profondeur d'une tranchée.
 
 — ...et c'est là qu'Inès m'a dit, je m'en souviens comme si c'était hier,
 « Théo, si tu casses encore une pelle sur une pierre qui n'en est pas
-une, je t'envoie creuser les tombes plutôt que les fouiller », acheva-t-il,
-avec un tel éclat de rire que la voiture fit une embardée discrète sur
-le bas-côté, faisant sursauter un troupeau de chèvres somnolentes le
-long du fossé.
+une, je t'envoie creuser les tombes plutôt que les fouiller », acheva-t-il.
+Il riait si fort que la voiture fit une embardée sur le bas-côté. Le long
+du fossé, un troupeau de chèvres somnolentes en sursauta.
 
 — C'est qui, Inès ? demanda Sofia, qui n'avait retenu que ce nom au
 milieu de l'histoire, malgré les cinq bonnes minutes qu'elle venait de
@@ -50,7 +49,7 @@ pattes dans la poussière, et pour tout trésor, une dent de requin
 fossile pas plus grosse qu'un ongle. Mais c'est là que j'ai compris que
 je préférais les pierres qui racontent une histoire humaine — un
 hiéroglyphe, un sarcophage — aux pierres qui racontent une histoire
-d'avant les humains. Inès, elle, a fait exactement le choix inverse.
+d'avant les humains. Inès, elle, a fait le choix inverse.
 
 ---
 
@@ -109,11 +108,11 @@ moitié accroché à la portière.
 — Beaucoup de gens la lisent un peu, dit Théo. Peu de gens la lisent
 vraiment.
 
-Une femme aux cheveux gris coupés courts émergea de la tente, une loupe
-de poche accrochée à une cordelette autour du cou et un petit pinceau
-glissé derrière l'oreille comme d'autres y glissent un crayon, la peau
-tannée par des années de plein air et les avant-bras couverts d'une fine
-pellicule de poussière rouge qu'elle ne semblait même plus remarquer.
+Une femme aux cheveux gris coupés courts émergea de la tente. Une loupe
+de poche pendait à une cordelette autour de son cou, un petit pinceau
+glissé derrière l'oreille comme d'autres y glissent un crayon. Elle avait
+la peau tannée par des années de plein air, et les avant-bras couverts
+d'une fine pellicule de poussière rouge qu'elle ne remarquait même plus.
 
 — Théophile Duchêne, dit-elle, en écartant les bras. Toujours vivant,
 toujours en retard.
@@ -131,7 +130,7 @@ méritait qu'on s'y attarde.
 depuis des années, dit-elle. Souly, le carnet. Sofia, les questions qui
 dérangent. J'ai bon ?
 
-— Vous avez tout bon, dit Sofia, impressionnée malgré elle.
+— Vous avez tout bon, dit Sofia, bluffée.
 
 — Il m'a aussi raconté l'histoire du marché, la momie, et je ne sais
 plus quelle histoire de volcan, ajouta Inès, un sourcil levé. Je
@@ -164,7 +163,7 @@ couverte d'instruments — est mon assistant depuis trois ans. Vous le
 recroiserez souvent, il ne quitte jamais vraiment le chantier, même
 pour dormir, je crois.
 
-Elle les guida un peu plus loin, vers deux femmes accroupies côte à
+Elle les guida plus loin, vers deux femmes accroupies côte à
 côte, l'une penchée sur un carnet de terrain, l'autre en train de
 photographier une série de fragments alignés sur un linge blanc.
 
@@ -178,7 +177,7 @@ solitaire, mais douée. Elle préfère travailler seule, la plupart du
 temps.
 
 Elsa leva brièvement les yeux vers eux, adressa un signe de tête bref,
-presque timide, avant de se replonger dans sa tâche sans un mot de plus.
+timide, avant de se replonger dans sa tâche sans un mot de plus.
 
 — Elle parle pas beaucoup, remarqua Sofia, à voix basse.
 
@@ -211,12 +210,12 @@ Peut-être un dinosaure, peut-être un très grand oiseau ancien — on ne sait
 pas encore, il faudra le comparer à d'autres trouvailles similaires. Vous
 voulez toucher ?
 
-Sofia tendit la main aussitôt, et le contact de la pierre
-froide et légèrement rugueuse contre sa paume lui parut, l'espace d'un
-instant, plus important que n'importe quel objet qu'elle ait jamais tenu
-— y compris son caillou porte-bonheur habituel, qu'elle sortit malgré
-tout de sa poche pour comparer sérieusement les deux, avant de conclure
-que celui-ci n'avait vraiment rien à craindre de la comparaison.
+Sofia tendit la main aussitôt. Le contact de la pierre froide et
+légèrement rugueuse contre sa paume lui parut, l'espace d'un instant,
+plus important que n'importe quel objet qu'elle ait jamais tenu. Elle
+sortit tout de même son caillou porte-bonheur de sa poche, pour comparer
+sérieusement les deux — avant de conclure que celui-ci n'avait rien à
+craindre de la comparaison.
 
 — Il a quel âge ? demanda-t-elle, presque à voix basse, de peur
 d'abîmer quelque chose en parlant trop fort.
@@ -236,7 +235,7 @@ coquille. Roc-Rouge à la mer, à peu près, et retour.
 Souly resta silencieux quelques secondes, occupé à calculer
 la distance exacte entre le village et la côte la plus proche.
 
-— C'est exactement pour ça que j'adore ce métier, dit Inès, tout son
+— Voilà pourquoi j'adore ce métier, dit Inès, tout son
 visage plissé de plaisir devant sa réaction. On touche l'impossible à
 imaginer, et pourtant, il est là, dans notre main.
 
@@ -269,7 +268,7 @@ Jean et Odile échangèrent un regard, le genre de regard qui précède
 généralement une anecdote racontée plus d'une fois.
 
 — Il y a une dizaine d'années, sur un autre chantier, pas très loin
-d'ici, dit Odile, en baissant un peu la voix. Toute une équipe avait
+d'ici, dit Odile, en baissant la voix. Toute une équipe avait
 cru tenir la découverte de sa carrière. Un squelette presque complet,
 annoncé en grande pompe dans les journaux régionaux.
 
@@ -369,7 +368,7 @@ minutes, laissa échapper un petit cri étouffé.
 — J'ai touché quelque chose de dur !
 
 Tomas se pencha aussitôt, examina la zone avec sa propre loupe, puis
-sourit, un peu amusé.
+sourit, amusé.
 
 — C'est un caillou, dit-il. Un vrai. Sans intérêt scientifique
 particulier. Bienvenue dans la vraie vie d'un chantier de fouille.
@@ -488,7 +487,7 @@ trop tard.
 — Et vous avez fait quoi ? demanda Souly, toujours friand des détails
 pratiques que les histoires oublient souvent de raconter.
 
-— On a documenté le sarcophage vide exactement comme s'il avait été
+— On a documenté le sarcophage vide comme s'il avait été
 plein, dit Théo. Parce qu'un sarcophage vide, ça raconte aussi une
 histoire : qui l'a pillé, quand, comment. L'absence, en archéologie,
 ça compte parfois presque autant que la présence.
@@ -520,7 +519,7 @@ hochement de tête approbateur. Beaucoup trop bien, peut-être.
 
 Théo souffla la bougie anti-moustiques d'un geste tranquille, laissant
 la terrasse baigner un instant dans la seule lumière des étoiles, avant
-d'aider Sofia, presque endormie, à se relever de sa chaise.
+d'aider Sofia, ensommeillée, à se relever de sa chaise.
 
 — Demain, une vraie journée de fouille vous attend, dit-il, à voix
 basse pour ne pas achever de la réveiller tout à fait.

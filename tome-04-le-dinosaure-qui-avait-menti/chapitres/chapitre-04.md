@@ -1,13 +1,12 @@
 # Chapitre 4 — La Foire aux Vieilles Pierres et la mésaventure du treuil
 
 Le matin de la foire, le village entier semblait s'être donné le mot
-pour se lever plus tôt que d'habitude. Depuis la terrasse du gîte,
-Sofia et Souly regardaient, un bol de chocolat chaud entre les mains,
-les camions de la mairie décharger tables pliantes et guirlandes de
-fanions le long de la rue principale, tandis que Théo, déjà debout
-depuis l'aube pour on ne savait quelle raison archéologique urgente,
-finissait de préparer un panier de pique-nique bien trop copieux pour
-trois personnes.
+pour se lever plus tôt que d'habitude. Depuis la terrasse du gîte, un bol
+de chocolat chaud entre les mains, Sofia et Souly regardaient les camions
+de la mairie décharger tables pliantes et guirlandes de fanions le long
+de la rue principale. Théo, lui, était debout depuis l'aube pour on ne
+savait quelle raison archéologique urgente, et finissait de préparer un
+panier de pique-nique bien trop copieux pour trois personnes.
 
 — Inès nous a réservé une place au premier rang pour la démonstration,
 annonça-t-il, en refermant le panier d'un coup sec. Elle a l'air de
@@ -24,12 +23,12 @@ chocolat chaud.
 dormir la veille d'une simple foire de village, ça mérite d'être noté.
 
 La Foire aux Vieilles Pierres, organisée chaque année pour célébrer le
-patrimoine géologique du village et lancer la semaine qui menait à la
-grande Fête de la Pierre du samedi suivant, prit cette année-là une
-ampleur inhabituelle : la mairie avait fait installer des stands tout
-le long de la place, une estrade pour les discours officiels, et, au
-centre de tout, un grand panneau annonçant en lettres peintes à la main
-« ROC-ROUGE — TERRE DE DÉCOUVERTES ».
+patrimoine géologique du village, lançait la semaine qui menait à la
+grande Fête de la Pierre du samedi suivant. Cette année-là, elle prit une
+ampleur inhabituelle. La mairie avait fait installer des stands tout le
+long de la place, une estrade pour les discours officiels, et, au centre
+de tout, un grand panneau peint à la main : « ROC-ROUGE — TERRE DE
+DÉCOUVERTES ».
 
 — Marion a mis le paquet, cette année, remarqua Inès, en observant les
 préparatifs depuis le bord de la place. J'espère qu'on ne va pas décevoir
@@ -58,9 +57,9 @@ d'une dent fossile montée sur un petit socle de bois verni.
 Sud-Ouest, authentifiée par des experts reconnus... Un investissement,
 mesdames et messieurs, pas seulement un souvenir de vacances.
 
-Sofia revint vers Souly, un peu songeuse.
+Sofia revint vers Souly, songeuse.
 
-— Il parle exactement comme les vendeurs de calendriers qui viennent
+— Il parle comme les vendeurs de calendriers qui viennent
 sonner chez Mamie Rose, dit-elle. Beaucoup trop gentil pour être
 seulement gentil.
 
@@ -68,9 +67,9 @@ seulement gentil.
 lever les yeux de son carnet.
 
 Ils déambulèrent le reste de la matinée entre les stands installés sur
-la place, où l'école primaire exposait des dessins d'enfants représentant
-des dinosaures aux proportions généreusement fantaisistes, où le club de
-randonnée local proposait des cartes du vallon annotées à la main, et où
+la place. L'école primaire y exposait des dessins d'enfants représentant
+des dinosaures aux proportions généreusement fantaisistes ; le club de
+randonnée local proposait des cartes du vallon annotées à la main. Et
 Papet Fabre lui-même, installé sur un tabouret pliant devant un panier de
 figues, échangeait des sourires complices avec les enfants sans jamais
 mentionner leur rencontre de la veille.
@@ -127,7 +126,7 @@ ceinture.
 pour quiconque autour d'elle. Tout va très bien se passer.
 
 En apercevant les enfants, elle s'interrompit une seconde, un sourire
-un peu crispé remplaçant son air affairé.
+crispé remplaçant son air affairé.
 
 — Alors, cette foire vous plaît ? demanda-t-elle.
 
@@ -150,22 +149,21 @@ stand de fanions qui menaçait de s'effondrer sous le vent.
 
 ---
 
-L'attraction centrale de la foire, organisée à quinze heures précises,
-était une démonstration de treuil : l'équipe avait dégagé, plusieurs
-semaines auparavant, un gros bloc de marne contenant plusieurs fossiles
-prometteurs, trop lourd pour être manipulé à la main, et Inès avait
-accepté, sur l'insistance de Marion, d'en faire une opération publique
-pour remonter le bloc jusqu'au village.
+L'attraction centrale de la foire, à quinze heures précises, était une
+démonstration de treuil. Plusieurs semaines auparavant, l'équipe avait
+dégagé un gros bloc de marne, plein de fossiles prometteurs et trop lourd
+pour être manipulé à la main. Sur l'insistance de Marion, Inès avait
+accepté d'en faire une opération publique, pour remonter le bloc jusqu'au
+village.
 
-La foule s'était massée en nombre autour de la tranchée aménagée pour
-l'occasion, plus dense que Sofia et Souly ne l'auraient imaginé pour un
-village aussi petit : des familles entières, des touristes de passage
-attirés par les banderoles, et jusqu'au maître d'école, reconnaissable
-à sa chemise à carreaux, qui avait amené sa classe entière pour
-l'occasion.
+La foule s'était massée autour de la tranchée, bien plus dense que Sofia
+et Souly ne l'auraient imaginé pour un si petit village. Des familles
+entières, des touristes de passage attirés par les banderoles, et
+jusqu'au maître d'école, reconnaissable à sa chemise à carreaux, qui
+avait amené toute sa classe.
 
 — Toute cette agitation pour un bloc de pierre, remarqua Souly, un peu
-impressionné malgré lui par l'ampleur de l'événement.
+gagné par l'ampleur de l'événement.
 
 — Toute cette agitation pour l'espoir de ce qu'il y a peut-être dedans,
 dit Sofia, en désignant les regards fixés sur la tranchée. C'est
@@ -291,7 +289,7 @@ avant qu'on sache vraiment ce qu'on a. Peut-être une belle pièce.
 Peut-être trois fragments quelconques. La science n'accélère pas
 parce qu'un calendrier l'exige, je te l'ai déjà dit.
 
-Marion hocha la tête, les épaules un peu basses, et s'éloigna vers
+Marion hocha la tête, les épaules basses, et s'éloigna vers
 l'estrade où l'attendait déjà un autre groupe de villageois impatients
 d'obtenir des nouvelles.
 
@@ -397,7 +395,7 @@ qu'elle finissait de refermer.
 n'a pas pu quitter la maison sans que je le remarque, ma chambre est
 juste à côté de la sienne.
 
-— Merci, dit Inès, avec un sourire un peu fatigué. Mais garde ça pour
+— Merci, dit Inès, avec un sourire fatigué. Mais garde ça pour
 toi, pour l'instant. Je ne veux pas que tout le monde se sente obligé
 de justifier chaque heure de son emploi du temps. Ça sentirait trop
 l'interrogatoire, et on n'en est pas encore là.

@@ -25,8 +25,8 @@ parlent déjà de vandalisme, de jalousie entre chantiers concurrents,
 même d'une histoire de trésor caché que quelqu'un chercherait à voler
 en cachette.
 
-— Une histoire de trésor caché ? répéta Sofia, les yeux brillants
-malgré elle.
+— Une histoire de trésor caché ? répéta Sofia, les yeux soudain
+brillants.
 
 — Les rumeurs de village, ça s'emballe toujours plus vite que la
 vérité, dit Inès, en secouant la tête. C'est justement pour ça qu'on va
@@ -179,8 +179,8 @@ côté, ça fait quand même une drôle de coïncidence.
 
 Inès examina l'endroit, les sourcils froncés.
 
-— C'est du côté du champ des Fabre, remarqua-t-elle. Presque exactement
-en face de la maison de Milo.
+— C'est du côté du champ des Fabre, remarqua-t-elle. Juste en face de
+la maison de Milo.
 
 — C'est pas mon père qui a fait ça, dit Milo, immédiatement sur ses
 gardes. Il dort à côté de la fenêtre qui donne sur le chantier. Il
@@ -191,7 +191,7 @@ confirme que quelqu'un connaissait suffisamment bien le terrain pour
 éviter l'entrée surveillée. Quelqu'un qui est déjà venu ici plusieurs
 fois, de jour, pour repérer les lieux.
 
-Milo se détendit un peu, visiblement rassuré par le ton d'Inès, mais
+Milo se détendit, visiblement rassuré par le ton d'Inès, mais
 resta silencieux un moment, les yeux fixés sur le fil de fer écarté.
 
 — Vasseur est venu plusieurs fois sur nos terres, dit-il finalement, à
@@ -199,8 +199,8 @@ voix basse. Il connaît le champ presque aussi bien que moi, à force. Il
 a toujours prétendu que c'était pour « admirer le paysage ».
 
 — Ça colle, dit Souly, en ajoutant une ligne à son carnet. Quelqu'un
-qui a déjà repéré le terrain en prétextant autre chose, ça correspond
-exactement à une entrée dérobée bien planifiée.
+qui a déjà repéré le terrain en prétextant autre chose, ça ressemble
+fort à une entrée dérobée bien planifiée.
 
 — On dirait presque que tu voudrais que ce soit lui, remarqua Sofia.
 
@@ -339,15 +339,15 @@ a une histoire.
 Elsa observa le petit caillou gris, tourné et retourné dans la paume de
 Sofia, avec une curiosité franche, sans rien de moqueur.
 
-— Je vous crois, dit-elle simplement. Je crois même que c'est
-exactement ça, le vrai sujet de la paléontologie, au fond. Pas les
-os eux-mêmes. Les histoires qu'ils nous permettent de raconter.
+— Je vous crois, dit-elle simplement. Je crois même que c'est ça, au
+fond, le vrai sujet de la paléontologie. Pas les os eux-mêmes. Les
+histoires qu'ils nous permettent de raconter.
 
 Elle s'arrêta sur un croquis particulièrement détaillé, une vertèbre
 fossilisée reproduite trait pour trait, chaque strie de la texture
-rendue avec une précision presque photographique.
+rendue avec une précision photographique.
 
-— Regarde, Souly, celui-là ressemble presque plus à une vraie photo
+— Regarde, Souly, celui-là ressemble plus à une vraie photo
 qu'à un dessin.
 
 Souly se pencha à son tour, impressionné malgré lui.
@@ -396,7 +396,7 @@ Souly. Officiellement, pas juste entre nous. Comme ça, si les rumeurs
 continuent au village, elle aura quelque chose de concret à opposer,
 plutôt que juste sa parole contre les commérages.
 
-— Vous feriez ça ? demanda Elsa, presque incrédule.
+— Vous feriez ça ? demanda Elsa, incrédule.
 
 — On l'a déjà fait, en un sens, dit Sofia, en désignant le carnet de
 Souly. Il ne reste plus qu'à le dire à voix haute devant les bonnes

@@ -6,7 +6,7 @@ l'équipe n'ait eu le temps de tirer la moindre conclusion sérieuse. Au
 café de la place, ce midi-là, les conversations s'arrêtaient net sur le
 passage de Sofia et Souly, reprenant à voix plus basse une fois les
 enfants suffisamment éloignés pour ne plus entendre — ce qui ne les
-empêchait absolument pas de deviner très exactement de quoi il
+empêchait absolument pas de deviner très bien de quoi il
 retournait.
 
 — On dirait que tout le village sait déjà tout, avant même nous, remarqua
@@ -84,7 +84,7 @@ sa voix. On l'a déjà vu, avec ton grand-père.
 Milo la regarda un instant, visiblement surpris qu'elle ait fait ce
 rapprochement toute seule.
 
-— C'est exactement ça, dit-il, après un silence. Sauf que cette fois,
+— C'est bien ça, dit-il, après un silence. Sauf que cette fois,
 j'ai bien l'intention qu'on trouve le vrai coupable avant que ça
 n'aille trop loin.
 
@@ -110,12 +110,11 @@ les fragments d'os étalés devant lui — une douzaine de morceaux prêtés
 par Inès pour un examen comparatif, chacun accompagné de sa fiche
 d'origine.
 
-Il classa méthodiquement les fragments en deux piles distinctes, comme il
-le faisait toujours face à une masse d'informations trop grande pour
-tenir dans une seule pensée à la fois — d'un côté les fragments dont la
-patine correspondait bien à leur carré d'origine déclaré, de l'autre une
-poignée de morceaux qui, à l'œil nu déjà, semblaient légèrement
-différents.
+Il classa méthodiquement les fragments en deux piles, comme toujours face
+à une masse d'informations trop grande pour tenir dans une seule pensée.
+D'un côté, les fragments dont la patine correspondait bien à leur carré
+d'origine déclaré. De l'autre, une poignée de morceaux qui, à l'œil nu
+déjà, semblaient légèrement différents.
 
 Sofia, assise en face de lui, l'observait travailler avec une patience
 qui ne lui ressemblait guère d'ordinaire.
@@ -140,7 +139,7 @@ bonne.
 la loupe empruntée à Inès.
 Celui-ci, étiqueté carré numéro douze, a une patine presque noire, très
 minéralisée. Celui-là, étiqueté carré numéro sept, à peine trois mètres
-plus loin, est nettement plus clair, presque gris-beige.
+plus loin, est nettement plus clair, gris-beige.
 
 Milo, qui les rejoignait justement, s'accroupit à côté d'eux sans se
 faire prier.
@@ -152,7 +151,7 @@ normal ?
 Sofia, hésitante. Mais quand même.
 
 — Sauf que là, dit Souly, en désignant un troisième fragment, celui-là
-est étiqueté carré numéro douze, exactement comme le premier — et
+est étiqueté carré numéro douze, tout comme le premier — et
 regardez, il ne ressemble pas du tout à son voisin de pile. Deux
 fragments censés venir du même endroit, et ils n'ont presque rien en
 commun.
@@ -212,7 +211,7 @@ pencha aussitôt sur les fragments alignés.
 
 Souly lui tendit les deux fragments du carré numéro douze. Sous la
 lumière, la différence de texture devenait plus évidente encore : l'un
-présentait de fines striures régulières, presque géométriques, tandis
+présentait de fines striures régulières et géométriques, tandis
 que l'autre restait parfaitement lisse.
 
 — Ça, dit Elsa lentement, ce n'est pas juste une différence de couleur.
@@ -226,7 +225,7 @@ normalement au nettoyage des outils, et en déposa une goutte minuscule
 sur un coin du fragment suspect, à un endroit déjà légèrement écaillé.
 
 — Regardez, dit-elle, après quelques secondes. La surface devient
-légèrement collante, presque poisseuse. Une vraie pierre ne réagirait
+légèrement collante et poisseuse. Une vraie pierre ne réagirait
 jamais comme ça. Une résine synthétique, si.
 
 Milo se pencha si près que son nez frôla le fragment.
@@ -244,7 +243,7 @@ vient d'un tout autre carré, juste pour vérifier que le test marche
 pareil partout.
 
 — Bonne idée, dit Elsa, impressionnée par le réflexe. C'est
-exactement ce qu'on appelle un témoin, en sciences. Un élément de
+précisément ce qu'on appelle un témoin, en sciences. Un élément de
 comparaison qu'on sait déjà fiable, pour être sûr que le résultat
 qu'on observe vient bien de ce qu'on teste, et pas d'autre chose.
 
@@ -272,7 +271,7 @@ par un dans la boîte. On a juste une différence de texture suspecte. Pas un
 nom. Pas une preuve formelle.
 
 — Mais ça élimine sûrement l'idée que c'est juste un accident de terrain,
-dit Sofia, sans se troubler le moins du monde. Personne
+dit Sofia, posément. Personne
 ne fabrique une résine qui ressemble à de l'os par hasard.
 
 ---
@@ -446,8 +445,11 @@ beaucoup comment ça sonne.
 de la tente. On n'a encore rien prouvé du tout. On a juste de très
 bonnes raisons de continuer à chercher.
 
-Dehors, la nuit était tombée tout à fait sur le vallon, et le bloc
-mystérieux resta là, seul dans l'obscurité de la tente fermée, sa gaze
-protectrice immobile, gardant son secret pour quelques jours encore —
-jusqu'à ce que quelqu'un, dans les règles cette fois, se décide enfin à
-l'ouvrir devant témoins.
+Dehors, la nuit avait fini de tomber sur le vallon. Sofia s'arrêta au
+bord de la tente, jeta un dernier regard au bloc enveloppé de gaze, puis
+à son frère.
+
+— Il y a un faux qui dort là-dedans, dit-elle. Bien au chaud, en train
+d'attendre qu'on le prenne pour un trésor devant tout le village.
+
+— Jusqu'à samedi, dit Souly. D'ici là, on ne le quitte plus des yeux.

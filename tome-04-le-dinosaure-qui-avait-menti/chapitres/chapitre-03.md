@@ -37,7 +37,7 @@ J'ai entendu parler de vous, au marché.
 — Déjà ? s'étonna Sofia. On est arrivés avant-hier.
 
 — Ici, une nouvelle met moins de temps à circuler qu'un coup de vent,
-dit Milo, presque amusé malgré lui. On m'a dit que vous aviez trouvé un
+dit Milo, amusé malgré lui. On m'a dit que vous aviez trouvé un
 fragment bizarre, dès le premier jour.
 
 Souly et Sofia échangèrent un regard, un peu déstabilisés à l'idée que
@@ -61,8 +61,8 @@ vertes qu'il tendit aux enfants sans autre explication.
 
 — Elles sont amères, prévint-il, un sourire en coin. Personne ne les
 mange comme ça, jamais. Faut les laisser tremper des semaines dans la
-saumure avant qu'elles soient bonnes. Papet dit que c'est exactement
-pareil pour la confiance : ça ne se cueille jamais tout de suite.
+saumure avant qu'elles soient bonnes. Papet dit que c'est pareil pour
+la confiance : ça ne se cueille jamais tout de suite.
 
 Sofia mordit quand même dans la sienne, par pure curiosité, et fit une
 grimace si spectaculaire que Milo éclata d'un rire franc, le premier
@@ -217,7 +217,7 @@ deviner.
 Castellane.
 
 Le vieil homme s'arrêta devant le rocher fendu, posa sa main libre sur
-la pierre exactement à l'endroit où celle de son petit-fils s'était
+la pierre à l'endroit précis où celle de son petit-fils s'était
 posée un instant plus tôt, d'un geste répété depuis si longtemps
 qu'il en était devenu automatique.
 
@@ -309,7 +309,7 @@ serrée. Juste « un expert consulté ». Personne n'a jamais pu vérifier
 qui c'était, ni s'il avait vraiment regardé les pierres de près, ou
 juste écouté quelqu'un d'autre lui raconter l'histoire au téléphone.
 
-— Ça, c'est exactement ce qui devrait déranger n'importe qui d'un peu
+— Ça, c'est justement ce qui devrait déranger n'importe qui d'un peu
 rigoureux, dit Souly, en examinant l'article de plus près.
 Une affirmation sans nom, sans méthode expliquée, ce n'est pas de la
 science. C'est juste une opinion qu'on a habillée pour qu'elle en ait
