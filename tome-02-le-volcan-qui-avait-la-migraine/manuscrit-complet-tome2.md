@@ -338,9 +338,11 @@ et alluma un écran couvert de lignes ondulées, verticales, qui défilaient
 en continu — des tracés que Sofia trouva immédiatement fascinants, sans
 savoir pourquoi exactement.
 
-Pendant que Karim s'affairait à préparer deux lits de camp dans le coin
-le moins encombré de la pièce, Sofia entreprit une inspection méthodique
-du reste du chalet — une petite cuisine ouverte, une salle de bains dont
+Pendant que Karim s'affairait à brancher un second écran de contrôle
+dans un coin de la pièce, expliquant à mi-voix à Magma que « non, ce
+n'est toujours pas l'heure du dîner », Sofia entreprit une inspection
+méthodique du reste du chalet — une petite cuisine ouverte, une salle de
+bains dont
 la porte ne fermait qu'à moitié, et un mur entier couvert de cartes du
 Grand Sombre annotées à la main, certaines si anciennes que le papier
 avait jauni jusqu'à devenir presque marron.
@@ -1113,7 +1115,8 @@ et... — il marqua une pause théâtrale — tout ce qui sortait un peu de
 l'ordinaire. Gelées tardives, orages violents, et, de temps en temps, une
 petite secousse ou deux.
 
-Souly se figea, son carnet déjà à moitié sorti de sa poche.
+Souly se figea, la main déjà en train de plonger vers la poche où
+dormait son carnet.
 
 — Des secousses ? Notées depuis quand ?
 
@@ -1374,8 +1377,8 @@ jeunes gens mariés le lendemain d'une « nuit où la terre a tremblé trois
 fois », en pleine cérémonie préparée depuis des mois. Ils ne l'ont même
 pas reportée.
 
-— Ça, c'est un mariage qui en a vu d'autres, commenta Sofia, en
-imaginant la scène, visiblement ravie.
+— Ça, c'est un mariage qui en a vu d'autres, commenta Sofia, un large
+sourire aux lèvres en imaginant la scène.
 
 — Ou un mariage où personne n'avait vraiment peur, dit Souly, en
 notant la date. Ce qui revient au même que ce qu'on a trouvé jusqu'ici.
@@ -3077,8 +3080,8 @@ voudra bien l'entendre.
 
 Sofia, déjà à moitié endormie sur le canapé, marmonna quelque chose
 d'indistinct qui ressemblait, d'assez près, à « sept jours, ça suffira »
-— une affirmation qu'elle n'aurait probablement pas assumée aussi
-tranquillement si elle avait été réveillée pour la répéter.
+— une phrase qu'elle nierait catégoriquement avoir prononcée, le
+lendemain matin, une fois bien réveillée.
 
 — On dirait qu'elle a plus confiance que nous deux réunis, dit Souly.
 
@@ -4021,9 +4024,9 @@ plus personne ne bouge d'ici.
 
 Personne ne protesta.
 
-Souly, avant de s'endormir, rouvrit une dernière fois son carnet et
-écrivit, d'une main un peu tremblante encore, la ligne la plus courte de
-tout l'été :
+Souly attendit d'être sûr que Sofia dormait pour de bon avant de sortir
+son carnet, sa main encore un peu tremblante, et d'y écrire la ligne la
+plus courte de tout l'été :
 
 « On l'a eu. »
 
@@ -4355,8 +4358,8 @@ Un silence suivit, que personne, pas même le Brigadier, ne sut vraiment
 comment interrompre, avant que Rocheteau, contre toute attente, ne
 laisse échapper un rire bref, presque sincère, aussitôt étouffé.
 
-Karim ne répondit rien. Il se contenta de hocher la tête, une seule fois,
-avant de raccompagner Sofia et Souly hors du commissariat, dans l'air frais
+Karim ne répondit rien. Il se contenta d'un bref signe de tête avant de
+raccompagner Sofia et Souly hors du commissariat, dans l'air frais
 du matin qui leur parut, à tous les trois, particulièrement bienvenu après
 cette scène.
 

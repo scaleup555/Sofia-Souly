@@ -338,9 +338,11 @@ et alluma un écran couvert de lignes ondulées, verticales, qui défilaient
 en continu — des tracés que Sofia trouva immédiatement fascinants, sans
 savoir pourquoi exactement.
 
-Pendant que Karim s'affairait à préparer deux lits de camp dans le coin
-le moins encombré de la pièce, Sofia entreprit une inspection méthodique
-du reste du chalet — une petite cuisine ouverte, une salle de bains dont
+Pendant que Karim s'affairait à brancher un second écran de contrôle
+dans un coin de la pièce, expliquant à mi-voix à Magma que « non, ce
+n'est toujours pas l'heure du dîner », Sofia entreprit une inspection
+méthodique du reste du chalet — une petite cuisine ouverte, une salle de
+bains dont
 la porte ne fermait qu'à moitié, et un mur entier couvert de cartes du
 Grand Sombre annotées à la main, certaines si anciennes que le papier
 avait jauni jusqu'à devenir presque marron.
@@ -1113,7 +1115,8 @@ et... — il marqua une pause théâtrale — tout ce qui sortait un peu de
 l'ordinaire. Gelées tardives, orages violents, et, de temps en temps, une
 petite secousse ou deux.
 
-Souly se figea, son carnet déjà à moitié sorti de sa poche.
+Souly se figea, la main déjà en train de plonger vers la poche où
+dormait son carnet.
 
 — Des secousses ? Notées depuis quand ?
 
@@ -1374,8 +1377,8 @@ jeunes gens mariés le lendemain d'une « nuit où la terre a tremblé trois
 fois », en pleine cérémonie préparée depuis des mois. Ils ne l'ont même
 pas reportée.
 
-— Ça, c'est un mariage qui en a vu d'autres, commenta Sofia, en
-imaginant la scène, visiblement ravie.
+— Ça, c'est un mariage qui en a vu d'autres, commenta Sofia, un large
+sourire aux lèvres en imaginant la scène.
 
 — Ou un mariage où personne n'avait vraiment peur, dit Souly, en
 notant la date. Ce qui revient au même que ce qu'on a trouvé jusqu'ici.

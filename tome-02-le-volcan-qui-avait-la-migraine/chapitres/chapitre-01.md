@@ -338,9 +338,11 @@ et alluma un écran couvert de lignes ondulées, verticales, qui défilaient
 en continu — des tracés que Sofia trouva immédiatement fascinants, sans
 savoir pourquoi exactement.
 
-Pendant que Karim s'affairait à préparer deux lits de camp dans le coin
-le moins encombré de la pièce, Sofia entreprit une inspection méthodique
-du reste du chalet — une petite cuisine ouverte, une salle de bains dont
+Pendant que Karim s'affairait à brancher un second écran de contrôle
+dans un coin de la pièce, expliquant à mi-voix à Magma que « non, ce
+n'est toujours pas l'heure du dîner », Sofia entreprit une inspection
+méthodique du reste du chalet — une petite cuisine ouverte, une salle de
+bains dont
 la porte ne fermait qu'à moitié, et un mur entier couvert de cartes du
 Grand Sombre annotées à la main, certaines si anciennes que le papier
 avait jauni jusqu'à devenir presque marron.

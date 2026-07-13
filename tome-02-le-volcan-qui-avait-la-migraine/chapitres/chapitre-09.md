@@ -512,9 +512,9 @@ plus personne ne bouge d'ici.
 
 Personne ne protesta.
 
-Souly, avant de s'endormir, rouvrit une dernière fois son carnet et
-écrivit, d'une main un peu tremblante encore, la ligne la plus courte de
-tout l'été :
+Souly attendit d'être sûr que Sofia dormait pour de bon avant de sortir
+son carnet, sa main encore un peu tremblante, et d'y écrire la ligne la
+plus courte de tout l'été :
 
 « On l'a eu. »
 

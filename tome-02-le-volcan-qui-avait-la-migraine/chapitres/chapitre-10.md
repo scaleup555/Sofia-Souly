@@ -321,8 +321,8 @@ Un silence suivit, que personne, pas même le Brigadier, ne sut vraiment
 comment interrompre, avant que Rocheteau, contre toute attente, ne
 laisse échapper un rire bref, presque sincère, aussitôt étouffé.
 
-Karim ne répondit rien. Il se contenta de hocher la tête, une seule fois,
-avant de raccompagner Sofia et Souly hors du commissariat, dans l'air frais
+Karim ne répondit rien. Il se contenta d'un bref signe de tête avant de
+raccompagner Sofia et Souly hors du commissariat, dans l'air frais
 du matin qui leur parut, à tous les trois, particulièrement bienvenu après
 cette scène.
 

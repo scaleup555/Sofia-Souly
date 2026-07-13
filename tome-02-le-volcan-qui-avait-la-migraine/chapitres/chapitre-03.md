@@ -131,7 +131,8 @@ et... — il marqua une pause théâtrale — tout ce qui sortait un peu de
 l'ordinaire. Gelées tardives, orages violents, et, de temps en temps, une
 petite secousse ou deux.
 
-Souly se figea, son carnet déjà à moitié sorti de sa poche.
+Souly se figea, la main déjà en train de plonger vers la poche où
+dormait son carnet.
 
 — Des secousses ? Notées depuis quand ?
 
@@ -392,8 +393,8 @@ jeunes gens mariés le lendemain d'une « nuit où la terre a tremblé trois
 fois », en pleine cérémonie préparée depuis des mois. Ils ne l'ont même
 pas reportée.
 
-— Ça, c'est un mariage qui en a vu d'autres, commenta Sofia, en
-imaginant la scène, visiblement ravie.
+— Ça, c'est un mariage qui en a vu d'autres, commenta Sofia, un large
+sourire aux lèvres en imaginant la scène.
 
 — Ou un mariage où personne n'avait vraiment peur, dit Souly, en
 notant la date. Ce qui revient au même que ce qu'on a trouvé jusqu'ici.

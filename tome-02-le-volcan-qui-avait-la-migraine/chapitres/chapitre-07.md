@@ -418,8 +418,8 @@ voudra bien l'entendre.
 
 Sofia, déjà à moitié endormie sur le canapé, marmonna quelque chose
 d'indistinct qui ressemblait, d'assez près, à « sept jours, ça suffira »
-— une affirmation qu'elle n'aurait probablement pas assumée aussi
-tranquillement si elle avait été réveillée pour la répéter.
+— une phrase qu'elle nierait catégoriquement avoir prononcée, le
+lendemain matin, une fois bien réveillée.
 
 — On dirait qu'elle a plus confiance que nous deux réunis, dit Souly.
 
