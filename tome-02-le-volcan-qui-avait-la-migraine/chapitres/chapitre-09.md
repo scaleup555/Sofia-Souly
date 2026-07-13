@@ -195,7 +195,7 @@ questions bizarres.
 Sofia, incrédule.
 
 — Je dis juste que si ça arrive, dit Souly, en resserrant son emprise
-sur son carnet, un peu plus fort que nécessaire, ce sera pas la fin du
+sur son carnet sans même s'en rendre compte, ce sera pas la fin du
 monde. J'ai déjà géré pire.
 
 Karim, qui avait suivi l'échange sans intervenir, posa une main brève

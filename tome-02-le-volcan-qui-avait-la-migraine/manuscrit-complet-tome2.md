@@ -2147,8 +2147,8 @@ avant de prendre la moindre décision.
 — Le rapport de Rocheteau, répéta Souly, en fronçant les sourcils. Celui
 qui a déjà accès à tes codes.
 
-— Celui-là même, dit Karim, en remuant la soupe avec un peu plus de
-vigueur que nécessaire. Je te laisse deviner ce que ce rapport va
+— Celui-là même, dit Karim, en remuant la soupe un peu trop
+énergiquement. Je te laisse deviner ce que ce rapport va
 probablement dire.
 
 — Amara a fait un master de géologie, dit-il finalement, en baissant le
@@ -3711,7 +3711,7 @@ questions bizarres.
 Sofia, incrédule.
 
 — Je dis juste que si ça arrive, dit Souly, en resserrant son emprise
-sur son carnet, un peu plus fort que nécessaire, ce sera pas la fin du
+sur son carnet sans même s'en rendre compte, ce sera pas la fin du
 monde. J'ai déjà géré pire.
 
 Karim, qui avait suivi l'échange sans intervenir, posa une main brève

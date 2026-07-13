@@ -1,13 +1,17 @@
 # État d'avancement — Série Sofia & Souly
 
-*Dernière mise à jour : Tome 4 ENTIÈREMENT TERMINÉ (12/12 chapitres, .docx livré) — 2026-07-12*
+*Dernière mise à jour : Tome 2 réétoffé à ~40 000 mots et revalidé par le
+jury (12/12 chapitres, .docx livré) — 2026-07-13*
 
 **À LIRE INTÉGRALEMENT avant de démarrer toute nouvelle session d'écriture**,
 avec `bible/personnages.md` et `bible/lecons_apprises.md` (sections
-« Tome 4 — session 1 » et « Tome 4 — session 2 » en particulier : leçons
-méthodologiques majeures sur les gabarits liés à un objet/geste signature
-de personnage, le recoupement de chronologie entre sessions, et la
-détection de scènes dupliquées).
+« Tome 4 — session 1 » et « Tome 4 — session 2 », et désormais aussi
+« Tome 2 — session de réétoffement » : leçons méthodologiques majeures sur
+les gabarits liés à un objet/geste signature de personnage, le recoupement
+de chronologie entre sessions, la détection de scènes dupliquées, et — pour
+le tome 2 — le risque qu'une expansion tardive de longueur réintroduise à
+la fois des bugs de chronologie et de nouveaux gabarits dans un livre déjà
+« accepté » à une longueur plus courte).
 
 ## Vue d'ensemble de la série
 
@@ -28,18 +32,30 @@ détection de scènes dupliquées).
 ## Tome 2 — ENTIÈREMENT TERMINÉ
 
 - Dossier : `tome-02-le-volcan-qui-avait-la-migraine/`
-- Manuscrit final : `tome-02-le-volcan-qui-avait-la-migraine/manuscrit-complet-tome2.md` (~17 800 mots
-  — sous la cible de 40 000 mots, signalé par le jury comme non bloquant,
-  l'histoire restant complète et satisfaisante)
+- Manuscrit final : `tome-02-le-volcan-qui-avait-la-migraine/manuscrit-complet-tome2.md`
+  (~39 890 mots — **réétoffé le 2026-07-13** depuis la version initiale de
+  ~17 800 mots pour respecter la cible de longueur de la série, sur
+  demande explicite de l'utilisateur)
 - Fichier livré : `tome-02-le-volcan-qui-avait-la-migraine/Sofia-et-Souly-Tome-2-Le-Volcan-qui-avait-la-migraine.docx`
-- **4 passages jury cumulés** pour atteindre 9,1/10 (contre 6 pour le tome 1) :
-  chapitres 1-6 seuls (8,6 → 9,0/10) puis livre complet (8,4 → 9,1/10).
-  Rapport final : `tome-02-le-volcan-qui-avait-la-migraine/jury/rapport-livre-complet-v2-ACCEPTE.md`.
+  (régénéré depuis le manuscrit réétoffé via
+  `tome-02-le-volcan-qui-avait-la-migraine/build_docx.py`)
+- **Acceptation initiale (17 800 mots, 2026-07-11) : 4 passages jury**
+  (8,6 → 9,0/10 sur chapitres 1-6, puis 8,4 → 9,1/10 sur le livre complet).
+- **Session de réétoffement (2026-07-13) : 10 passages jury supplémentaires**
+  pour revalider le livre après expansion à ~40 000 mots : 7,8 → 7,7 → 7,6 →
+  7,5 → 7,6 (audit en 3 parties) → 8,7 → 8,4 → 8,7 → 8,8 → **9,1/10 — ACCEPTÉ**.
+  La chronologie a dû être retracée et corrigée à plusieurs reprises (la
+  chaîne « X jours avant l'ouverture » établie à 17 800 mots ne tenait plus
+  une fois le texte étoffé de nouvelles scènes), et plusieurs vagues de
+  gabarits de tics ont été détectées et corrigées au fil des relectures
+  (voir `bible/lecons_apprises.md`, section « Tome 2 — session de
+  réétoffement »).
 - Nouveau personnage récurrent secondaire : **Karim Haddad** (cousin de
   Camille, volcanologue, chat borgne Magma) — ajouté à `bible/personnages.md`.
 - Twist 1 (Dr. Rocheteau, pas Amara, trafique les données sismiques pour
   Mme Delacroix) et twist 2 (le dicton local du Grand Sombre s'avère
-  scientifiquement vrai) tous deux résolus et validés par le jury.
+  scientifiquement vrai) tous deux résolus et validés par le jury, aussi
+  bien dans la version initiale que dans la version réétoffée.
 
 ## Tome 3 — ENTIÈREMENT TERMINÉ
 
@@ -185,3 +201,27 @@ détection de scènes dupliquées).
   bible/lecons_apprises.md).
 - Livraison du fichier `.docx` final. **Tomes 1, 2, 3 et 4 entièrement
   terminés.**
+
+### Session 9 (tome 2, réétoffement) — 2026-07-13
+- L'utilisateur signale que le tome 2 (~17 800 mots) ne respecte pas la
+  cible de ~40 000 mots de la série. Réétoffement des 12 chapitres avec du
+  contenu narratif nouveau (scènes de filature, confrontations, palier
+  émotionnel supplémentaire pour Amara et Mme Delacroix, expansion
+  prioritaire des chapitres 9-10), en préservant l'intrigue, les indices et
+  les personnages déjà validés — manuscrit porté à ~39 890 mots.
+- 10 passages jury cumulés sur le livre réétoffé : 7,8 (longueur +
+  chronologie ch2) → 7,7 (chronologie ch6 + clue non payé) → 7,6 (audit en
+  3 agents parallèles : chronologie/tics/plot) → 7,5 (chronologie ch4-ch6
+  toujours incohérente) → 8,7 (chronologie enfin cohérente de bout en bout)
+  → 8,4 (nouveaux gabarits détectés : fins de chapitre répétitives, gestes
+  de personnage dupliqués) → 8,7 → 8,8 → **9,1/10 — ACCEPTÉ**.
+- Deux bugs de chronologie réels corrigés (pas de simple assouplissement de
+  formulation) : la contradiction entre l'ancre « onze jours » du
+  chapitre 2 et les « neuf jours » du chapitre 6, résolue en ancrant
+  explicitement chapitres 3 et 4 au même jour calendaire et en décalant
+  toute la chaîne des chapitres 6 à 9 d'un jour ; et une affirmation
+  chiffrée invérifiable au chapitre 10 (retirée plutôt que devinée).
+- Livraison du fichier `.docx` final régénéré via un nouveau
+  `build_docx.py` (calqué sur celui du tome 4, absent du dossier tome 2
+  jusqu'ici). **Tomes 1, 2, 3 et 4 toujours entièrement terminés**, tome 2
+  désormais à la longueur cible de la série.

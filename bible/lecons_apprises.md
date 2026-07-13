@@ -684,3 +684,84 @@ adjacent que le grep ne fait pas remonter.**
 5. Toute correction de tic touchant un dialogue doit s'accompagner
    d'une lecture du paragraphe entier autour, pour détecter d'éventuels
    doublons de scène cachés dans le texte adjacent.
+
+## Tome 2 — session de réétoffement (17 800 → ~40 000 mots)
+
+Contexte : le tome 2 avait été ACCEPTÉ à 9,1/10 dès la session 4
+(2026-07-11) mais à seulement ~17 800 mots, nettement sous la cible de
+~40 000 mots de la série. L'utilisateur a explicitement demandé, dans
+une session ultérieure, de corriger cet écart. Cette expansion tardive
+d'un livre déjà « accepté » a produit une classe de bugs entièrement
+nouvelle pour la série, distincte des gabarits de tics habituels.
+
+**Leçon méthodologique majeure n°1 — une expansion tardive de longueur
+peut réintroduire des bugs de chronologie dans un livre déjà validé,
+même sans toucher aux dates explicitement.** Le tome 2 accepté à
+17 800 mots avait une chaîne de chronologie interne cohérente (« douze
+jours avant l'ouverture » → « onze jours » → etc.). Ajouter de
+nouvelles scènes aux chapitres 3, 4 et 5 (sans changer un seul chiffre)
+a changé le nombre de journées calendaires implicites que ces chapitres
+occupent, ce qui a rendu caduque l'ancre chiffrée déjà présente au
+chapitre 6 (« neuf jours ») — sans qu'aucune phrase n'ait été
+directement modifiée. Il a fallu **3 rounds de jury complets** avant
+qu'un audit dédié ne remonte toute la chaîne jour par jour depuis le
+tout premier chiffre du livre pour localiser précisément où
+l'arithmétique ne tenait plus plus. **Règle : après toute expansion de
+contenu narratif touchant des chapitres situés ENTRE deux ancres
+chiffrées de chronologie (même si le contenu ajouté ne mentionne aucune
+date), retracer explicitement la chaîne complète des jours implicites
+(lendemain, X jours suivants, ce même soir, etc.) avant de considérer
+la chronologie comme acquise — ne pas se fier au fait qu'elle était
+correcte avant l'expansion.**
+
+**Leçon méthodologique n°2 — une contradiction de chronologie qui
+résiste à un simple assouplissement de formulation doit parfois être
+réparée par un décalage numérique explicite, pas par un flou
+supplémentaire.** La première tentative de correction a remplacé une
+affirmation chiffrée trop précise (« deux jours après la soirée ») par
+une formulation plus vague (« quelques jours après la soirée »),
+technique qui avait bien fonctionné pour d'autres tomes. Ici, ça n'a
+pas suffi : « quelques jours » implique toujours au moins 2 jours en
+français, et l'arithmétique restait en tension. La correction réelle a
+nécessité (a) d'ancrer explicitement deux chapitres au même jour
+calendaire par une phrase de transition ajoutée en début de chapitre
+(« Ce même soir, à peine rentrés de la médiathèque... »), ET (b) de
+décaler tous les chiffres « X jours avant l'ouverture » des chapitres
+6 à 9 d'une unité. **Règle : ne pas supposer qu'assouplir un chiffre en
+formulation vague résout systématiquement une contradiction de
+chronologie — vérifier l'arithmétique réelle après coup ; si elle ne
+tient toujours pas, il faut soit ajouter une ancre de compression
+explicite, soit décaler la chaîne de chiffres en aval.**
+
+**Leçon méthodologique n°3 — une expansion de contenu réintroduit de
+nouveaux gabarits de tics à un rythme proportionnel au volume ajouté,
+même dans un livre déjà passé au crible.** Le texte ajouté pendant
+cette session (environ 22 000 mots de contenu neuf) a fait remonter la
+densité de la construction « avec un/une + [nom abstrait] » (« avec un
+sourire », « avec un sérieux », etc.) à un niveau proche de ce qui
+avait initialement motivé la règle anti-gabarit, purement parce que le
+même auteur (moi) tend à retomber sur les mêmes formulations par
+défaut quand il écrit vite. Il a aussi fait apparaître un doublon de
+fin de chapitre non détecté jusque-là (« Souly, seul le soir avec son
+Carnet des Preuves, écrit une dernière ligne ») répété sur 4 des
+12 chapitres. **Règle : après toute passe d'expansion significative
+(>15 % du nombre de mots d'origine), refaire un sweep complet de TOUTES
+les familles de tics déjà documentées dans ce fichier — pas seulement
+celles liées au contenu ajouté — car le volume de texte neuf suffit à
+lui seul à faire remonter des tics qui étaient sous le seuil de
+détection avant expansion. Vérifier en particulier les FINS DE
+CHAPITRE comme famille à part entière : elles sont réécrites une à une
+au fil des sessions de correction sans qu'on les compare jamais toutes
+ensemble, ce qui les rend particulièrement sujettes à converger vers un
+même gabarit sans que personne ne le remarque avant un audit dédié.**
+
+**Bilan chiffré :** 10 passages jury cumulés pour revalider le livre
+après expansion (7,8 → 7,7 → 7,6 → 7,5 → 7,6 [audit 3 agents parallèles]
+→ 8,7 → 8,4 → 8,7 → 8,8 → **9,1 — ACCEPTÉ**), contre seulement 4 passages
+pour l'acceptation initiale à 17 800 mots. Le nombre de rounds
+nécessaires pour revalider une expansion tardive d'un livre déjà
+accepté a donc dépassé le nombre de rounds nécessaires à l'acceptation
+initiale — signal fort que l'expansion de longueur doit être traitée,
+dès le départ, avec la même rigueur méthodologique qu'une première
+rédaction, et non comme un simple ajout de texte à un livre déjà
+validé.

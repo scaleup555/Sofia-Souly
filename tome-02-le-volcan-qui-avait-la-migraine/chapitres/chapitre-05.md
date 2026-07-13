@@ -308,8 +308,8 @@ avant de prendre la moindre décision.
 — Le rapport de Rocheteau, répéta Souly, en fronçant les sourcils. Celui
 qui a déjà accès à tes codes.
 
-— Celui-là même, dit Karim, en remuant la soupe avec un peu plus de
-vigueur que nécessaire. Je te laisse deviner ce que ce rapport va
+— Celui-là même, dit Karim, en remuant la soupe un peu trop
+énergiquement. Je te laisse deviner ce que ce rapport va
 probablement dire.
 
 — Amara a fait un master de géologie, dit-il finalement, en baissant le
