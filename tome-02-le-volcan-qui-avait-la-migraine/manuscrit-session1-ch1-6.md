@@ -2182,8 +2182,8 @@ avoir la moindre chance d'être entendu avant qu'il soit trop tard.
 — Tu n'imagines même pas à quel point, dit Karim, fatigué mais souriant
 quand même, en versant enfin la soupe dans trois bols.
 
-Souly, qui n'avait presque rien dit depuis la révélation sur Amara, referma
-lentement son carnet et regarda la liste de suspects, réduite désormais à
+Souly, qui n'avait presque rien dit depuis la révélation sur Amara, ferma
+les yeux un instant avant de regarder la liste de suspects, réduite désormais à
 un seul nom.
 
 — S'il reste que Rocheteau, dit-il, il va falloir des preuves bien plus

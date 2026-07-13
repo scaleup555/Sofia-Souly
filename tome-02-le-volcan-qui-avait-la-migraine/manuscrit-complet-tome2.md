@@ -2182,8 +2182,8 @@ avoir la moindre chance d'être entendu avant qu'il soit trop tard.
 — Tu n'imagines même pas à quel point, dit Karim, fatigué mais souriant
 quand même, en versant enfin la soupe dans trois bols.
 
-Souly, qui n'avait presque rien dit depuis la révélation sur Amara, referma
-lentement son carnet et regarda la liste de suspects, réduite désormais à
+Souly, qui n'avait presque rien dit depuis la révélation sur Amara, ferma
+les yeux un instant avant de regarder la liste de suspects, réduite désormais à
 un seul nom.
 
 — S'il reste que Rocheteau, dit-il, il va falloir des preuves bien plus
@@ -2704,7 +2704,7 @@ plus tôt hier soir parce que plus personne n'arrivait à se concentrer sur
 autre chose que cette photo.
 
 — C'est complètement injuste, dit Souly, en reposant le téléphone sur la
-table avec un peu plus de force que nécessaire. On a passé une soirée
+table un peu plus brusquement qu'il ne l'aurait voulu. On a passé une soirée
 entière à chercher des preuves solides contre Rocheteau, et en une nuit,
 n'importe qui peut détruire la réputation de quelqu'un avec une seule
 photo floue et trois mots sortis de nulle part.
