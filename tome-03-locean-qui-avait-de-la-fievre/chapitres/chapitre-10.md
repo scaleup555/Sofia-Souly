@@ -56,8 +56,8 @@ sachant par expérience que la véritable explication prenait
 généralement plus de temps que la plupart des gens n'étaient prêts à en
 consacrer.
 
-— Techniquement, confirma Elias, un sourire fatigué mais sincère aux
-lèvres, une habitude qu'il semblait avoir prise de Noah sans même s'en
+— Techniquement, confirma Elias, avec un petit rire bref, une habitude
+qu'il semblait avoir prise de Noah sans même s'en
 rendre compte.
 
 Noah, qui observait la scène un peu à l'écart, tendit finalement la
@@ -394,8 +394,8 @@ tour, mettant fin à l'entretien d'un simple geste.
 l'enquête, dit-elle. Toute tentative de quitter le territoire avant la
 fin de la procédure serait considérée avec la plus grande sévérité.
 
-— Où voudriez-vous que j'aille ? dit Christophe, avec un rire sans
-joie. Toute ma vie est ici. Enfin, était.
+— Où voudriez-vous que j'aille ? dit Christophe, la voix creuse. Toute
+ma vie est ici. Enfin, était.
 
 Aucune réplique ne vint, cette fois, et le silence qui suivit sembla, à
 Sofia, plus lourd encore que tous ceux qui l'avaient précédé ce jour-là.
@@ -445,7 +445,8 @@ je pêche dans ce lagon sans jamais avoir eu besoin de me défendre devant
 qui que ce soit. Ça m'aura pris deux enfants de métropole pour retourner
 la situation.
 
-— Deux enfants et un mainate, corrigea Sofia, avec une fierté totale.
+— Deux enfants et un mainate, corrigea Sofia, du ton de quelqu'un qui
+n'allait laisser personne oublier ce détail.
 
 M. Técher éclata d'un rire franc, le premier que Souly l'entendait
 pousser depuis leur rencontre, et tendit à chacun d'eux un poisson fumé

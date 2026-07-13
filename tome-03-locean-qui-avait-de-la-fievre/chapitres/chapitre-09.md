@@ -240,8 +240,8 @@ presque total, seulement troué par les éclairs de plus en plus rapprochés
 qui déchiraient le ciel sans jamais vraiment éclairer la surface de l'eau.
 
 Souly, cramponné à son siège d'une main, l'autre serrée si fort sur le
-bord du bateau que ses phalanges avaient blanchi, sentit une vieille
-terreur familière remonter du fond de son ventre — non pas celle du noir
+bord du bateau que ses phalanges avaient blanchi, reconnut une vieille
+terreur familière, glacée et immédiate — non pas celle du noir
 d'une chambre, cette peur-là, il l'avait apprivoisée depuis longtemps
 avec sa petite lampe en forme de grenouille, mais celle, toute nouvelle,
 d'une eau noire et déchaînée dont il ne pouvait plus deviner la surface.
@@ -423,10 +423,10 @@ la partie importante.
 — Tu as raison, admit Souly, après réflexion. Comme toujours, en fait.
 C'est agaçant.
 
-— C'est un de mes nombreux talents, dit Sofia, avec une fierté totale.
+— C'est un de mes nombreux talents, dit Sofia, sans la moindre modestie.
 
-Souly regarda sa sœur un instant, trempée, échevelée, un sourire fatigué
-mais réel aux lèvres, et se dit que si quelqu'un lui avait décrit cette
+Souly regarda sa sœur un instant, trempée, échevelée, un sourire réel
+malgré la fatigue, et se dit que si quelqu'un lui avait décrit cette
 soirée deux semaines plus tôt, à Paris, il n'y aurait jamais cru une
 seule seconde.
 

@@ -467,7 +467,8 @@ parlé à personne d'ici.
 — On n'est pas doués pour rester sur une plage, dit Sofia. On s'ennuie
 trop vite.
 
-— Tant mieux pour mon père, dit Noah, le sourire fatigué mais sincère,
-avant d'enfourcher son vélo et de disparaître dans la ruelle
+— Tant mieux pour mon père, dit Noah, avec une sincérité qui perçait
+malgré la fatigue de la journée, avant d'enfourcher son vélo et de
+disparaître dans la ruelle
 qui menait chez lui, sa silhouette rétrécissant peu à peu dans la
 lumière déclinante du début de soirée.

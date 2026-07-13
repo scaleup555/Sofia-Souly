@@ -99,9 +99,9 @@ moitié de la ville l'oublie en un mois.
 — Ça vous met en colère, dit Sofia, moins une question qu'une
 constatation.
 
-— Ça me fatigue, plutôt, dit M. Técher, le sourire fatigué mais réel,
-comme s'il donnait raison malgré lui à ses propres mots. La colère, ça
-demande de l'énergie que je préfère garder pour mes casiers.
+— Ça me fatigue, plutôt, dit M. Técher, un demi-sourire résigné aux
+lèvres, comme s'il donnait raison malgré lui à ses propres mots. La
+colère, ça demande de l'énergie que je préfère garder pour mes casiers.
 
 — Noah dit que vous connaissez chaque recoin du lagon, dit Souly.
 
@@ -127,14 +127,15 @@ d'autre ne l'avait formulé aussi clairement.
 question. C'est mon lagon aussi. Peut-être plus que celui de certains,
 même si personne ne me le demande jamais.
 
-— Il fait vraiment de la publicité en pleine réunion de vote dans trois
+— Il fait vraiment de la publicité en pleine réunion de vote dans quatre
 jours, remarqua Souly, incrédule, une fois qu'ils se furent éloignés de
 l'étal des pêcheurs.
 
 — C'est exactement le moment où il en a le plus besoin, dit Fara, sombre.
 
 Christophe, apercevant Fara accompagnée des enfants, se dirigea vers eux,
-un sourire commercial si large qu'il en devenait presque inquiétant.
+le sourire si large et si bien rodé qu'il en devenait presque
+inquiétant.
 
 — Fara ! Toujours à surveiller mon petit commerce d'un œil noir, à ce
 que je vois. Et ces jeunes gens, ce sont vos assistants scientifiques ?

@@ -159,8 +159,9 @@ question.
 fois. Les deux autres bateaux ont chacun fait quatre excursions,
 aujourd'hui. Celui-là, zéro. Aucune réservation, aucun client, rien.
 
-— Un bateau qui sort jamais pour du tourisme, dit Sofia, songeuse. À
-quoi il sert, alors, si c'est pas pour transporter des touristes ?
+— Un bateau qui sort jamais pour du tourisme, dit Sofia, en fronçant les
+sourcils. À quoi il sert, alors, si c'est pas pour transporter des
+touristes ?
 
 — C'est exactement la question qu'on devrait poser au capitaine, dit
 Fara, en désignant du menton un jeune homme qui venait d'émerger de la
@@ -331,8 +332,9 @@ nuit des faits.
 à voix haute, ça donnerait un mouillage d'environ quatre heures. Peut-
 être un peu plus.
 
-— Quatre heures, en pleine nuit, dit Fara, songeuse. Assez pour faire
-énormément de dégâts, sans que personne ne remarque rien avant le matin.
+— Quatre heures, en pleine nuit, dit Fara, en pesant chaque mot. Assez
+pour faire énormément de dégâts, sans que personne ne remarque rien
+avant le matin.
 
 Aucun d'entre eux n'eut besoin de préciser à voix haute ce que cette
 découverte impliquait pour la suite de leur plan.

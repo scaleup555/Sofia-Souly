@@ -72,10 +72,10 @@ la salle avant de s'aventurer plus loin.
 
 Sofia, assise entre Souly et Fara au troisième rang, sentait déjà que
 quelque chose n'allait pas se passer comme prévu. Elle avait repéré M.
-Técher, seul sur une chaise en bout de rangée près de la sortie, les bras
-croisés, le regard fixé sur ses propres mains plutôt que sur l'estrade —
-la posture, songea-t-elle, de quelqu'un qui s'attend au pire et qui a
-déjà préparé sa retraite.
+Técher, seul sur une chaise en bout de rangée près de la sortie, épaules
+voûtées, les yeux baissés vers ses propres mains — la posture, songea-
+t-elle, de quelqu'un qui s'attend au pire et qui a déjà préparé sa
+retraite.
 
 — Avant qu'on parle du vote, lança une voix depuis le fond de la salle,
 j'aimerais qu'on parle de qui casse le corail. Parce que tout le monde
@@ -118,8 +118,9 @@ pas obligés d'intervenir ce soir.
 
 — On n'est pas obligés, répéta Sofia, à voix tout aussi basse, mais
 avec cette petite lueur dans le regard que Souly reconnaissait entre
-mille, celle qui précédait toujours, invariablement, une décision
-qu'elle avait déjà prise sans le dire à personne.
+mille, celle qui précédait toujours, invariablement, une décision déjà
+prise dans un coin de sa tête, bien avant qu'elle ne l'annonce à voix
+haute.
 
 Souly, qui connaissait sa sœur mieux que quiconque au monde, sentit son
 estomac se nouer d'avance, sachant pertinemment qu'aucune remontrance ni

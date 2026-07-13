@@ -24,8 +24,8 @@ continuer, même les jours difficiles.
 
 — Vous en avez rêvé, vous, la nuit dernière ? demanda Souly.
 
-— Toutes les nuits depuis trois semaines, avoua Fara, avec un petit rire
-fatigué. Bienvenue dans le club.
+— Toutes les nuits depuis trois semaines, avoua Fara, dans un souffle
+amusé. Bienvenue dans le club.
 
 Elle finit son café d'un trait et se leva, tendant une main pour aider
 Souly à se relever à son tour.
@@ -249,8 +249,8 @@ Fara et Souly sur la terrasse.
 Fara. Les opinions, tout le monde en a une. Les preuves, il faut aller
 les chercher.
 
-— C'est dans cinq jours, dit Fara, en comptant sur ses doigts avec une
-tension qu'elle ne cherchait plus vraiment à cacher. Cinq jours pour
+— C'est dans six jours, dit Fara, en comptant sur ses doigts avec une
+tension qu'elle ne cherchait plus vraiment à cacher. Six jours pour
 comprendre ce qui abîme vraiment ce récif, et pouvoir le dire avec des
 preuves solides, pas juste des soupçons.
 

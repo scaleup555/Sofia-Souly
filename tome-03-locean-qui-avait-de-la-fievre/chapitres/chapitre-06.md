@@ -397,7 +397,8 @@ pour gagner, vendredi ?
 
 — Six, dit Fara. La majorité simple.
 
-— Six sur onze, dit Sofia, songeuse. Ça fait pas beaucoup de marge.
+— Six sur onze, répéta Sofia, en faisant le calcul à voix haute. Ça fait
+pas beaucoup de marge.
 
 — Ça n'en a jamais fait beaucoup, pour un vote aussi serré, dit Fara.
 C'est justement pour ça qu'une preuve solide, présentée au bon moment,

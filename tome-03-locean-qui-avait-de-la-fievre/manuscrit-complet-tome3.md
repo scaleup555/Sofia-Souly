@@ -478,8 +478,8 @@ continuer, même les jours difficiles.
 
 — Vous en avez rêvé, vous, la nuit dernière ? demanda Souly.
 
-— Toutes les nuits depuis trois semaines, avoua Fara, avec un petit rire
-fatigué. Bienvenue dans le club.
+— Toutes les nuits depuis trois semaines, avoua Fara, dans un souffle
+amusé. Bienvenue dans le club.
 
 Elle finit son café d'un trait et se leva, tendant une main pour aider
 Souly à se relever à son tour.
@@ -703,8 +703,8 @@ Fara et Souly sur la terrasse.
 Fara. Les opinions, tout le monde en a une. Les preuves, il faut aller
 les chercher.
 
-— C'est dans cinq jours, dit Fara, en comptant sur ses doigts avec une
-tension qu'elle ne cherchait plus vraiment à cacher. Cinq jours pour
+— C'est dans six jours, dit Fara, en comptant sur ses doigts avec une
+tension qu'elle ne cherchait plus vraiment à cacher. Six jours pour
 comprendre ce qui abîme vraiment ce récif, et pouvoir le dire avec des
 preuves solides, pas juste des soupçons.
 
@@ -1454,9 +1454,9 @@ moitié de la ville l'oublie en un mois.
 — Ça vous met en colère, dit Sofia, moins une question qu'une
 constatation.
 
-— Ça me fatigue, plutôt, dit M. Técher, le sourire fatigué mais réel,
-comme s'il donnait raison malgré lui à ses propres mots. La colère, ça
-demande de l'énergie que je préfère garder pour mes casiers.
+— Ça me fatigue, plutôt, dit M. Técher, un demi-sourire résigné aux
+lèvres, comme s'il donnait raison malgré lui à ses propres mots. La
+colère, ça demande de l'énergie que je préfère garder pour mes casiers.
 
 — Noah dit que vous connaissez chaque recoin du lagon, dit Souly.
 
@@ -1482,14 +1482,15 @@ d'autre ne l'avait formulé aussi clairement.
 question. C'est mon lagon aussi. Peut-être plus que celui de certains,
 même si personne ne me le demande jamais.
 
-— Il fait vraiment de la publicité en pleine réunion de vote dans trois
+— Il fait vraiment de la publicité en pleine réunion de vote dans quatre
 jours, remarqua Souly, incrédule, une fois qu'ils se furent éloignés de
 l'étal des pêcheurs.
 
 — C'est exactement le moment où il en a le plus besoin, dit Fara, sombre.
 
 Christophe, apercevant Fara accompagnée des enfants, se dirigea vers eux,
-un sourire commercial si large qu'il en devenait presque inquiétant.
+le sourire si large et si bien rodé qu'il en devenait presque
+inquiétant.
 
 — Fara ! Toujours à surveiller mon petit commerce d'un œil noir, à ce
 que je vois. Et ces jeunes gens, ce sont vos assistants scientifiques ?
@@ -2276,8 +2277,9 @@ parlé à personne d'ici.
 — On n'est pas doués pour rester sur une plage, dit Sofia. On s'ennuie
 trop vite.
 
-— Tant mieux pour mon père, dit Noah, le sourire fatigué mais sincère,
-avant d'enfourcher son vélo et de disparaître dans la ruelle
+— Tant mieux pour mon père, dit Noah, avec une sincérité qui perçait
+malgré la fatigue de la journée, avant d'enfourcher son vélo et de
+disparaître dans la ruelle
 qui menait chez lui, sa silhouette rétrécissant peu à peu dans la
 lumière déclinante du début de soirée.
 
@@ -2681,7 +2683,8 @@ pour gagner, vendredi ?
 
 — Six, dit Fara. La majorité simple.
 
-— Six sur onze, dit Sofia, songeuse. Ça fait pas beaucoup de marge.
+— Six sur onze, répéta Sofia, en faisant le calcul à voix haute. Ça fait
+pas beaucoup de marge.
 
 — Ça n'en a jamais fait beaucoup, pour un vote aussi serré, dit Fara.
 C'est justement pour ça qu'une preuve solide, présentée au bon moment,
@@ -2854,10 +2857,10 @@ la salle avant de s'aventurer plus loin.
 
 Sofia, assise entre Souly et Fara au troisième rang, sentait déjà que
 quelque chose n'allait pas se passer comme prévu. Elle avait repéré M.
-Técher, seul sur une chaise en bout de rangée près de la sortie, les bras
-croisés, le regard fixé sur ses propres mains plutôt que sur l'estrade —
-la posture, songea-t-elle, de quelqu'un qui s'attend au pire et qui a
-déjà préparé sa retraite.
+Técher, seul sur une chaise en bout de rangée près de la sortie, épaules
+voûtées, les yeux baissés vers ses propres mains — la posture, songea-
+t-elle, de quelqu'un qui s'attend au pire et qui a déjà préparé sa
+retraite.
 
 — Avant qu'on parle du vote, lança une voix depuis le fond de la salle,
 j'aimerais qu'on parle de qui casse le corail. Parce que tout le monde
@@ -2900,8 +2903,9 @@ pas obligés d'intervenir ce soir.
 
 — On n'est pas obligés, répéta Sofia, à voix tout aussi basse, mais
 avec cette petite lueur dans le regard que Souly reconnaissait entre
-mille, celle qui précédait toujours, invariablement, une décision
-qu'elle avait déjà prise sans le dire à personne.
+mille, celle qui précédait toujours, invariablement, une décision déjà
+prise dans un coin de sa tête, bien avant qu'elle ne l'annonce à voix
+haute.
 
 Souly, qui connaissait sa sœur mieux que quiconque au monde, sentit son
 estomac se nouer d'avance, sachant pertinemment qu'aucune remontrance ni
@@ -3378,8 +3382,9 @@ question.
 fois. Les deux autres bateaux ont chacun fait quatre excursions,
 aujourd'hui. Celui-là, zéro. Aucune réservation, aucun client, rien.
 
-— Un bateau qui sort jamais pour du tourisme, dit Sofia, songeuse. À
-quoi il sert, alors, si c'est pas pour transporter des touristes ?
+— Un bateau qui sort jamais pour du tourisme, dit Sofia, en fronçant les
+sourcils. À quoi il sert, alors, si c'est pas pour transporter des
+touristes ?
 
 — C'est exactement la question qu'on devrait poser au capitaine, dit
 Fara, en désignant du menton un jeune homme qui venait d'émerger de la
@@ -3550,8 +3555,9 @@ nuit des faits.
 à voix haute, ça donnerait un mouillage d'environ quatre heures. Peut-
 être un peu plus.
 
-— Quatre heures, en pleine nuit, dit Fara, songeuse. Assez pour faire
-énormément de dégâts, sans que personne ne remarque rien avant le matin.
+— Quatre heures, en pleine nuit, dit Fara, en pesant chaque mot. Assez
+pour faire énormément de dégâts, sans que personne ne remarque rien
+avant le matin.
 
 Aucun d'entre eux n'eut besoin de préciser à voix haute ce que cette
 découverte impliquait pour la suite de leur plan.
@@ -3931,8 +3937,8 @@ presque total, seulement troué par les éclairs de plus en plus rapprochés
 qui déchiraient le ciel sans jamais vraiment éclairer la surface de l'eau.
 
 Souly, cramponné à son siège d'une main, l'autre serrée si fort sur le
-bord du bateau que ses phalanges avaient blanchi, sentit une vieille
-terreur familière remonter du fond de son ventre — non pas celle du noir
+bord du bateau que ses phalanges avaient blanchi, reconnut une vieille
+terreur familière, glacée et immédiate — non pas celle du noir
 d'une chambre, cette peur-là, il l'avait apprivoisée depuis longtemps
 avec sa petite lampe en forme de grenouille, mais celle, toute nouvelle,
 d'une eau noire et déchaînée dont il ne pouvait plus deviner la surface.
@@ -4114,10 +4120,10 @@ la partie importante.
 — Tu as raison, admit Souly, après réflexion. Comme toujours, en fait.
 C'est agaçant.
 
-— C'est un de mes nombreux talents, dit Sofia, avec une fierté totale.
+— C'est un de mes nombreux talents, dit Sofia, sans la moindre modestie.
 
-Souly regarda sa sœur un instant, trempée, échevelée, un sourire fatigué
-mais réel aux lèvres, et se dit que si quelqu'un lui avait décrit cette
+Souly regarda sa sœur un instant, trempée, échevelée, un sourire réel
+malgré la fatigue, et se dit que si quelqu'un lui avait décrit cette
 soirée deux semaines plus tôt, à Paris, il n'y aurait jamais cru une
 seule seconde.
 
@@ -4220,8 +4226,8 @@ sachant par expérience que la véritable explication prenait
 généralement plus de temps que la plupart des gens n'étaient prêts à en
 consacrer.
 
-— Techniquement, confirma Elias, un sourire fatigué mais sincère aux
-lèvres, une habitude qu'il semblait avoir prise de Noah sans même s'en
+— Techniquement, confirma Elias, avec un petit rire bref, une habitude
+qu'il semblait avoir prise de Noah sans même s'en
 rendre compte.
 
 Noah, qui observait la scène un peu à l'écart, tendit finalement la
@@ -4558,8 +4564,8 @@ tour, mettant fin à l'entretien d'un simple geste.
 l'enquête, dit-elle. Toute tentative de quitter le territoire avant la
 fin de la procédure serait considérée avec la plus grande sévérité.
 
-— Où voudriez-vous que j'aille ? dit Christophe, avec un rire sans
-joie. Toute ma vie est ici. Enfin, était.
+— Où voudriez-vous que j'aille ? dit Christophe, la voix creuse. Toute
+ma vie est ici. Enfin, était.
 
 Aucune réplique ne vint, cette fois, et le silence qui suivit sembla, à
 Sofia, plus lourd encore que tous ceux qui l'avaient précédé ce jour-là.
@@ -4609,7 +4615,8 @@ je pêche dans ce lagon sans jamais avoir eu besoin de me défendre devant
 qui que ce soit. Ça m'aura pris deux enfants de métropole pour retourner
 la situation.
 
-— Deux enfants et un mainate, corrigea Sofia, avec une fierté totale.
+— Deux enfants et un mainate, corrigea Sofia, du ton de quelqu'un qui
+n'allait laisser personne oublier ce détail.
 
 M. Técher éclata d'un rire franc, le premier que Souly l'entendait
 pousser depuis leur rencontre, et tendit à chacun d'eux un poisson fumé
@@ -5488,8 +5495,8 @@ monde présent.
 — Tu vas nous manquer, tu sais, lui dit-elle, très sérieuse.
 
 — « TU VAS NOUS MANQUER » répéta Bassin, aussitôt, avec un timing si
-parfait que Sofia éclata de rire malgré la boule qui se formait, elle
-aussi, dans sa propre gorge.
+parfait que Sofia éclata de rire, les yeux un peu trop brillants pour
+que ce soit entièrement convaincant.
 
 — Écris-moi, dit Noah à Souly, en lui tendant un bout de papier plié avec
 son adresse. Je veux savoir si vous retombez sur d'autres mystères, là-

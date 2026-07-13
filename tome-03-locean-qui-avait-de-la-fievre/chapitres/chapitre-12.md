@@ -402,8 +402,8 @@ monde présent.
 — Tu vas nous manquer, tu sais, lui dit-elle, très sérieuse.
 
 — « TU VAS NOUS MANQUER » répéta Bassin, aussitôt, avec un timing si
-parfait que Sofia éclata de rire malgré la boule qui se formait, elle
-aussi, dans sa propre gorge.
+parfait que Sofia éclata de rire, les yeux un peu trop brillants pour
+que ce soit entièrement convaincant.
 
 — Écris-moi, dit Noah à Souly, en lui tendant un bout de papier plié avec
 son adresse. Je veux savoir si vous retombez sur d'autres mystères, là-
