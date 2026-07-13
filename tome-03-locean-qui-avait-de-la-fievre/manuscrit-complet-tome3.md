@@ -338,10 +338,10 @@ Sofia et Souly échangèrent un regard, ce même regard qu'ils échangeaient
 toujours au tout début d'une histoire, avant même de savoir où elle
 allait les mener.
 
-— On peut t'aider ? demanda Souly, son carnet déjà à moitié sorti de son
-sac. Le troisième depuis le début de l'été précédent, une couverture
-bleu marine cette fois, cadeau de Léna qu'il n'avait pas eu le cœur
-d'entamer avant un vrai début d'enquête.
+— On peut t'aider ? demanda Souly, son Carnet des Preuves déjà à moitié
+sorti de son sac. Le troisième depuis le début de l'été précédent, une
+couverture bleu marine cette fois, cadeau de Léna qu'il n'avait pas eu
+le cœur d'entamer avant un vrai début d'enquête.
 
 Fara les observa un instant, ces deux enfants venus de métropole pour
 deux semaines de vacances et déjà penchés, sans qu'on le leur ait
@@ -703,8 +703,8 @@ Fara et Souly sur la terrasse.
 Fara. Les opinions, tout le monde en a une. Les preuves, il faut aller
 les chercher.
 
-— C'est dans quatre jours, dit Fara, en comptant sur ses doigts avec une
-tension qu'elle ne cherchait plus vraiment à cacher. Quatre jours pour
+— C'est dans cinq jours, dit Fara, en comptant sur ses doigts avec une
+tension qu'elle ne cherchait plus vraiment à cacher. Cinq jours pour
 comprendre ce qui abîme vraiment ce récif, et pouvoir le dire avec des
 preuves solides, pas juste des soupçons.
 
@@ -1357,7 +1357,7 @@ raconte quand même, un jour.
 
 La fête du lagon, organisée chaque année pour annoncer officiellement le
 début de la saison touristique, prit cette année-là une importance
-particulière : à trois jours du vote municipal, chaque camp de la ville
+particulière : à quatre jours du vote municipal, chaque camp de la ville
 semblait avoir décidé d'en faire une démonstration de force. La mairie
 avait installé des stands sur toute la promenade, les pêcheurs
 traditionnels tenaient un étal de produits locaux à une extrémité du
@@ -1505,9 +1505,10 @@ genre de choses.
 
 — Souly n'a jamais conduit de jet-ski, protesta Fara.
 
-— C'est exactement pour ça que c'est parfait, dit Christophe, imperturbable.
-Rien ne rassure plus un client potentiel qu'un débutant complet qui s'en
-sort très bien. Allez, jeune homme, ça vous dit ?
+— C'est exactement pour ça que c'est parfait, dit Christophe, sans se
+démonter une seconde. Rien ne rassure plus un client potentiel qu'un
+débutant complet qui s'en sort très bien. Allez, jeune homme, ça vous
+dit ?
 
 Souly, pris entre l'envie irrépressible de dire non fermement et la
 tentation, tout aussi irrépressible, de conduire un vrai jet-ski pour la
@@ -1523,7 +1524,7 @@ qui n'avait, pour une fois, rien à voir avec son frère.
 
 — Il fait ça souvent, cette histoire de « volontaire » ? demanda-t-elle.
 
-— Chaque année, dit Fara, les bras croisés. Toujours un enfant, jamais un
+— Chaque année, dit Fara, la mâchoire serrée. Toujours un enfant, jamais un
 adulte. Les enfants disent rarement non à un adulte insistant, et les
 parents n'osent pas faire de scandale en pleine fête. C'est malin, dans
 le pire sens du mot.
@@ -1535,7 +1536,7 @@ Des fois, il vaut mieux laisser quelqu'un décider tout seul, même si ça
 tourne mal, que décider à sa place.
 
 — Comment il fait pour vendre autant de tours, avec un vote pareil dans
-trois jours ? demanda Sofia, en observant Christophe qui haranguait
+quatre jours ? demanda Sofia, en observant Christophe qui haranguait
 maintenant une famille entière de touristes, deux enfants déjà juchés
 sur des bouées gonflables. Ça paraît un peu... audacieux.
 
@@ -1566,8 +1567,9 @@ traverser une simple route à Paris.
 poignet, c'est parti ! résuma Christophe, en poussant l'engin loin du
 ponton d'une main experte.
 
-Fara, plantée sur le ponton, les bras croisés, ne quittait pas Souly des
-yeux, prête à plonger tout habillée au moindre signe de problème. Sofia,
+Fara, plantée sur le ponton, une main crispée sur l'autre, ne quittait
+pas Souly des yeux, prête à plonger tout habillée au moindre signe de
+problème. Sofia,
 à côté d'elle, avait sorti son petit carnet de poche pour immortaliser
 l'instant, certaine que son frère allait accomplir quelque chose de
 mémorable, dans un sens ou dans l'autre.
@@ -2202,8 +2204,9 @@ et un timing qui colle exactement avec les dégâts. C'est pas grand-chose
 encore. Mais c'est un début.
 
 Noah lui tendit la main, un geste presque solennel pour sceller l'accord,
-et Souly la serra avec un sérieux qui aurait presque pu passer pour drôle,
-si personne, sur ce ponton, n'avait vraiment eu envie de rire.
+et Souly la serra d'un geste si solennel qu'il aurait presque pu passer
+pour drôle, si personne, sur ce ponton, n'avait vraiment eu envie de
+rire.
 
 — On devrait tout écrire quelque part, tous ensemble, proposa Souly. Pas
 juste dans mon carnet. Un vrai dossier, avec les photos, les mesures, la
@@ -2243,7 +2246,7 @@ question ne le regardait pas vraiment.
 — Un peu plus d'une semaine, dit Souly. On repart dans dix jours.
 
 — Alors on n'a pas beaucoup de marge, dit Noah, redevenu tout à fait
-sérieux. Le vote a lieu dans deux jours. Si on n'a pas trouvé le
+sérieux. Le vote a lieu dans trois jours. Si on n'a pas trouvé le
 coupable avant, mon père reste suspect jusqu'à ce que quelqu'un d'autre
 se donne la peine de vérifier. Et personne d'autre ne s'en donnera la
 peine.
@@ -3021,8 +3024,8 @@ politesse un peu trop appuyée pour être tout à fait sincère. Mais de là
 à accuser une entreprise entière, avec des dizaines d'emplois locaux à
 la clé, sur la seule foi d'une photographie prise par un enfant...
 
-— Une photographie et une mesure de profondeur, corrigea Souly,
-imperturbable. Deux choses différentes.
+— Une photographie et une mesure de profondeur, corrigea Souly, sans
+lever la voix. Deux choses différentes.
 
 La mâchoire de Christophe se crispa, à peine — un détail que Sofia, qui
 ne cherchait jamais rien de particulier mais remarquait tout, ne manqua
@@ -3190,7 +3193,7 @@ cette ville ait jamais connus, et vous avez huit et douze ans.
 
 — Techniquement, j'ai douze ans et demi, précisa Souly.
 
-— Ça change tout, dit Noah, imperturbable.
+— Ça change tout, dit Noah, le plus sérieusement du monde.
 
 Le trajet du retour se fit vitres baissées, l'air tiède de la nuit
 s'engouffrant dans la voiture, chargé d'odeurs de frangipanier et de sel
@@ -3315,8 +3318,8 @@ l'idée pour autant.
 de quelqu'un qui venait manifestement d'inventer ce mot dans ce contexte
 précis.
 
-— On peut quand même essayer, dit Souly, en refermant son carnet d'un
-geste décidé. Le pire qui puisse arriver, c'est qu'il dise non.
+— On peut quand même essayer, dit Souly, d'un ton décidé. Le pire qui
+puisse arriver, c'est qu'il dise non.
 
 — Le pire qui puisse arriver, corrigea Fara, c'est qu'il le répète à
 Christophe, et qu'on perde l'effet de surprise. Alors on y va avec
@@ -3331,7 +3334,7 @@ un vrai rapport de police emprunté à la bibliothèque de son collège.
 
 Installés à l'ombre d'un vieux badamier, assez loin pour ne pas éveiller
 les soupçons mais assez près pour tout voir, ils se relayaient aux
-jumelles de Fara, chacun prenant son tour avec un sérieux presque
+jumelles de Fara, chacun prenant son tour avec une discipline presque
 militaire.
 
 — Neuf heures dix, premier départ, annonça Sofia, jumelles collées aux
@@ -3485,8 +3488,8 @@ espionner une entreprise privée.
 sandwich à moitié terminé, trop absorbée par la réflexion pour continuer
 à manger.
 
-Personne, sur le banc, n'eut d'idée immédiate à proposer, avant que
-Souly ne se redresse d'un coup, son sandwich presque tombé de sa main.
+Aucune idée immédiate ne vint à personne sur le banc, avant que Souly ne
+se redresse d'un coup, son sandwich presque tombé de sa main.
 
 — Les bouées, dit-il. On avait dit qu'on vérifierait les bouées
 restantes, si on avait le temps avant vendredi. On l'a, ce temps, là,
@@ -3550,8 +3553,8 @@ nuit des faits.
 — Quatre heures, en pleine nuit, dit Fara, songeuse. Assez pour faire
 énormément de dégâts, sans que personne ne remarque rien avant le matin.
 
-Personne, autour de la table, n'eut besoin de préciser à voix haute ce
-que cette découverte impliquait pour la suite de leur plan.
+Aucun d'entre eux n'eut besoin de préciser à voix haute ce que cette
+découverte impliquait pour la suite de leur plan.
 
 ---
 
@@ -3813,9 +3816,9 @@ est fausse.
 — Surtout celle qui est fausse, corrigea Noah, avec un petit sourire.
 C'est pour ça qu'on continue à la raconter, je crois.
 
-Souly, malgré la tension de l'expédition, ne put s'empêcher de tremper
-sa main dans l'eau pour observer les minuscules étincelles bleutées
-naître autour de ses doigts.
+Souly, malgré la tension de l'expédition, trempa sa main dans l'eau pour
+observer les minuscules étincelles bleutées naître autour de ses
+doigts.
 
 — C'est magique, souffla-t-il, presque malgré lui.
 
@@ -4069,7 +4072,7 @@ personne, devant les bons témoins.
 — Je sais, dit le jeune capitaine, en resserrant sa couverture. Je crois
 que je n'ai plus vraiment le choix, de toute façon.
 
-— Merci de pas avoir coulé avec ton bateau, dit Sofia, avec un sérieux
+— Merci de pas avoir coulé avec ton bateau, dit Sofia, d'un ton grave
 qui, venant d'elle, sonnait comme le compliment le plus sincère du
 monde.
 
@@ -4342,9 +4345,9 @@ L'officier leva un sourcil, son stylo suspendu au-dessus de son carnet.
 — Indirect comment ?
 
 — Mon mainate a répété une phrase de Christophe, entendue par hasard sur
-le ponton, expliqua Fara, avec le sérieux imperturbable de quelqu'un
-habitué à ce genre de regard. « Mouille à minuit, personne verra rien. »
-Mot pour mot, dans sa propre voix.
+le ponton, expliqua Fara, sans se soucier du regard un peu perplexe de
+l'officier. « Mouille à minuit, personne verra rien. » Mot pour mot,
+dans sa propre voix.
 
 L'officier resta silencieuse un instant, visiblement en train de peser
 le poids inhabituel de cette déclaration.
@@ -4441,8 +4444,8 @@ observez depuis le couloir. Vous n'intervenez que si je vous y invite
 explicitement. C'est une négociation officielle, pas une nouvelle
 réunion publique.
 
-— Compris, dirent Sofia et Souly en chœur, avec un sérieux qui ne
-convainquit qu'à moitié l'officier, à en juger par son regard appuyé.
+— Compris, dirent Sofia et Souly en chœur, d'un ton qui ne convainquit
+qu'à moitié l'officier, à en juger par son regard appuyé.
 
 Sofia et Souly, installés côte à côte sur deux chaises trop grandes pour
 eux dans le couloir vitré, observaient la scène avec l'attention de
@@ -4558,9 +4561,8 @@ fin de la procédure serait considérée avec la plus grande sévérité.
 — Où voudriez-vous que j'aille ? dit Christophe, avec un rire sans
 joie. Toute ma vie est ici. Enfin, était.
 
-Personne, dans la pièce, ne trouva grand-chose à répondre à cette
-dernière phrase, et le silence qui suivit sembla, à Sofia, plus lourd
-encore que tous ceux qui l'avaient précédé ce jour-là.
+Aucune réplique ne vint, cette fois, et le silence qui suivit sembla, à
+Sofia, plus lourd encore que tous ceux qui l'avaient précédé ce jour-là.
 
 ---
 
@@ -4915,8 +4917,8 @@ Souly, depuis son pupitre, sentit une bouffée de fierté qu'il ne
 chercha pas particulièrement à dissimuler, en repensant à ce moment,
 deux semaines plus tôt à peine, où il avait noté « la neige du lagon »
 dans son carnet sans savoir pourquoi ce détail lui semblait important.
-Théo aurait été content de lui, songea-t-il. C'était exactement le
-genre d'instinct qu'il essayait de leur transmettre.
+Théo aurait été content de lui, songea-t-il. C'était exactement
+l'instinct qu'il essayait de leur transmettre.
 
 — Vous n'aviez pas besoin de la science pour savoir que c'était vrai,
 dit Fara, avec un vrai respect dans la voix. Vous l'aviez observé, année
@@ -5079,7 +5081,7 @@ contre lui.
 son du tambour.
 
 — Je note que je devrais peut-être venir danser, répondit Souly, en
-refermant enfin son carnet pour de bon, cette fois-ci.
+glissant enfin le carnet dans sa poche pour de bon, cette fois-ci.
 
 
 # Chapitre 12 — Ce que le lagon garde
@@ -5103,9 +5105,8 @@ tourné une page.
 La station elle-même retrouvait peu à peu son rythme habituel, plus
 calme, presque paisible après l'agitation des deux dernières semaines,
 même si Fara admettait volontiers qu'elle allait trouver ce calme un peu
-trop silencieux, une fois Sofia et Souly repartis, et Bassin
-probablement plus silencieux encore, faute de nouvelles phrases
-intéressantes à voler.
+trop silencieux, une fois Sofia et Souly repartis, et Bassin privé de
+toute nouvelle phrase intéressante à voler.
 
 La ville elle-même semblait respirer différemment, ces derniers jours.
 Le stand de M. Técher, au marché, ne désemplissait plus, une bonne
@@ -5158,8 +5159,8 @@ lignes sans s'endormir dessus.
 — Souly aussi sait faire ça, proposa Sofia, serviable. Il adore les
 petites lignes. C'est même un peu inquiétant, à quel point il les aime.
 
-— Je facture mes services en poisson fumé, précisa Noah, avec un sérieux
-qui fit rire tout le monde, y compris son propre père.
+— Je facture mes services en poisson fumé, précisa Noah, d'un ton si
+posé qu'il fit rire tout le monde, y compris son propre père.
 
 — Ça me semble un tarif très raisonnable, dit Fara, amusée. Je pourrais
 peut-être moi-même vous embaucher tous les deux, l'été prochain, pour

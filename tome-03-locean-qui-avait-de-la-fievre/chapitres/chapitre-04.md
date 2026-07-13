@@ -2,7 +2,7 @@
 
 La fête du lagon, organisée chaque année pour annoncer officiellement le
 début de la saison touristique, prit cette année-là une importance
-particulière : à trois jours du vote municipal, chaque camp de la ville
+particulière : à quatre jours du vote municipal, chaque camp de la ville
 semblait avoir décidé d'en faire une démonstration de force. La mairie
 avait installé des stands sur toute la promenade, les pêcheurs
 traditionnels tenaient un étal de produits locaux à une extrémité du
@@ -150,9 +150,10 @@ genre de choses.
 
 — Souly n'a jamais conduit de jet-ski, protesta Fara.
 
-— C'est exactement pour ça que c'est parfait, dit Christophe, imperturbable.
-Rien ne rassure plus un client potentiel qu'un débutant complet qui s'en
-sort très bien. Allez, jeune homme, ça vous dit ?
+— C'est exactement pour ça que c'est parfait, dit Christophe, sans se
+démonter une seconde. Rien ne rassure plus un client potentiel qu'un
+débutant complet qui s'en sort très bien. Allez, jeune homme, ça vous
+dit ?
 
 Souly, pris entre l'envie irrépressible de dire non fermement et la
 tentation, tout aussi irrépressible, de conduire un vrai jet-ski pour la
@@ -168,7 +169,7 @@ qui n'avait, pour une fois, rien à voir avec son frère.
 
 — Il fait ça souvent, cette histoire de « volontaire » ? demanda-t-elle.
 
-— Chaque année, dit Fara, les bras croisés. Toujours un enfant, jamais un
+— Chaque année, dit Fara, la mâchoire serrée. Toujours un enfant, jamais un
 adulte. Les enfants disent rarement non à un adulte insistant, et les
 parents n'osent pas faire de scandale en pleine fête. C'est malin, dans
 le pire sens du mot.
@@ -180,7 +181,7 @@ Des fois, il vaut mieux laisser quelqu'un décider tout seul, même si ça
 tourne mal, que décider à sa place.
 
 — Comment il fait pour vendre autant de tours, avec un vote pareil dans
-trois jours ? demanda Sofia, en observant Christophe qui haranguait
+quatre jours ? demanda Sofia, en observant Christophe qui haranguait
 maintenant une famille entière de touristes, deux enfants déjà juchés
 sur des bouées gonflables. Ça paraît un peu... audacieux.
 
@@ -211,8 +212,9 @@ traverser une simple route à Paris.
 poignet, c'est parti ! résuma Christophe, en poussant l'engin loin du
 ponton d'une main experte.
 
-Fara, plantée sur le ponton, les bras croisés, ne quittait pas Souly des
-yeux, prête à plonger tout habillée au moindre signe de problème. Sofia,
+Fara, plantée sur le ponton, une main crispée sur l'autre, ne quittait
+pas Souly des yeux, prête à plonger tout habillée au moindre signe de
+problème. Sofia,
 à côté d'elle, avait sorti son petit carnet de poche pour immortaliser
 l'instant, certaine que son frère allait accomplir quelque chose de
 mémorable, dans un sens ou dans l'autre.

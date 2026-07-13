@@ -99,8 +99,8 @@ l'idée pour autant.
 de quelqu'un qui venait manifestement d'inventer ce mot dans ce contexte
 précis.
 
-— On peut quand même essayer, dit Souly, en refermant son carnet d'un
-geste décidé. Le pire qui puisse arriver, c'est qu'il dise non.
+— On peut quand même essayer, dit Souly, d'un ton décidé. Le pire qui
+puisse arriver, c'est qu'il dise non.
 
 — Le pire qui puisse arriver, corrigea Fara, c'est qu'il le répète à
 Christophe, et qu'on perde l'effet de surprise. Alors on y va avec
@@ -115,7 +115,7 @@ un vrai rapport de police emprunté à la bibliothèque de son collège.
 
 Installés à l'ombre d'un vieux badamier, assez loin pour ne pas éveiller
 les soupçons mais assez près pour tout voir, ils se relayaient aux
-jumelles de Fara, chacun prenant son tour avec un sérieux presque
+jumelles de Fara, chacun prenant son tour avec une discipline presque
 militaire.
 
 — Neuf heures dix, premier départ, annonça Sofia, jumelles collées aux
@@ -269,8 +269,8 @@ espionner une entreprise privée.
 sandwich à moitié terminé, trop absorbée par la réflexion pour continuer
 à manger.
 
-Personne, sur le banc, n'eut d'idée immédiate à proposer, avant que
-Souly ne se redresse d'un coup, son sandwich presque tombé de sa main.
+Aucune idée immédiate ne vint à personne sur le banc, avant que Souly ne
+se redresse d'un coup, son sandwich presque tombé de sa main.
 
 — Les bouées, dit-il. On avait dit qu'on vérifierait les bouées
 restantes, si on avait le temps avant vendredi. On l'a, ce temps, là,
@@ -334,8 +334,8 @@ nuit des faits.
 — Quatre heures, en pleine nuit, dit Fara, songeuse. Assez pour faire
 énormément de dégâts, sans que personne ne remarque rien avant le matin.
 
-Personne, autour de la table, n'eut besoin de préciser à voix haute ce
-que cette découverte impliquait pour la suite de leur plan.
+Aucun d'entre eux n'eut besoin de préciser à voix haute ce que cette
+découverte impliquait pour la suite de leur plan.
 
 ---
 

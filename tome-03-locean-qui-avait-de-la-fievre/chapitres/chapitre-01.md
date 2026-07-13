@@ -336,10 +336,10 @@ Sofia et Souly échangèrent un regard, ce même regard qu'ils échangeaient
 toujours au tout début d'une histoire, avant même de savoir où elle
 allait les mener.
 
-— On peut t'aider ? demanda Souly, son carnet déjà à moitié sorti de son
-sac. Le troisième depuis le début de l'été précédent, une couverture
-bleu marine cette fois, cadeau de Léna qu'il n'avait pas eu le cœur
-d'entamer avant un vrai début d'enquête.
+— On peut t'aider ? demanda Souly, son Carnet des Preuves déjà à moitié
+sorti de son sac. Le troisième depuis le début de l'été précédent, une
+couverture bleu marine cette fois, cadeau de Léna qu'il n'avait pas eu
+le cœur d'entamer avant un vrai début d'enquête.
 
 Fara les observa un instant, ces deux enfants venus de métropole pour
 deux semaines de vacances et déjà penchés, sans qu'on le leur ait

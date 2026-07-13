@@ -249,8 +249,8 @@ Fara et Souly sur la terrasse.
 Fara. Les opinions, tout le monde en a une. Les preuves, il faut aller
 les chercher.
 
-— C'est dans quatre jours, dit Fara, en comptant sur ses doigts avec une
-tension qu'elle ne cherchait plus vraiment à cacher. Quatre jours pour
+— C'est dans cinq jours, dit Fara, en comptant sur ses doigts avec une
+tension qu'elle ne cherchait plus vraiment à cacher. Cinq jours pour
 comprendre ce qui abîme vraiment ce récif, et pouvoir le dire avec des
 preuves solides, pas juste des soupçons.
 

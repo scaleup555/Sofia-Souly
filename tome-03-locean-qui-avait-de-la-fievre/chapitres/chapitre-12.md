@@ -19,9 +19,8 @@ tourné une page.
 La station elle-même retrouvait peu à peu son rythme habituel, plus
 calme, presque paisible après l'agitation des deux dernières semaines,
 même si Fara admettait volontiers qu'elle allait trouver ce calme un peu
-trop silencieux, une fois Sofia et Souly repartis, et Bassin
-probablement plus silencieux encore, faute de nouvelles phrases
-intéressantes à voler.
+trop silencieux, une fois Sofia et Souly repartis, et Bassin privé de
+toute nouvelle phrase intéressante à voler.
 
 La ville elle-même semblait respirer différemment, ces derniers jours.
 Le stand de M. Técher, au marché, ne désemplissait plus, une bonne
@@ -74,8 +73,8 @@ lignes sans s'endormir dessus.
 — Souly aussi sait faire ça, proposa Sofia, serviable. Il adore les
 petites lignes. C'est même un peu inquiétant, à quel point il les aime.
 
-— Je facture mes services en poisson fumé, précisa Noah, avec un sérieux
-qui fit rire tout le monde, y compris son propre père.
+— Je facture mes services en poisson fumé, précisa Noah, d'un ton si
+posé qu'il fit rire tout le monde, y compris son propre père.
 
 — Ça me semble un tarif très raisonnable, dit Fara, amusée. Je pourrais
 peut-être moi-même vous embaucher tous les deux, l'été prochain, pour

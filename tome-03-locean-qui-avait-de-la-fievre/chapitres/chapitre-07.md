@@ -242,8 +242,8 @@ politesse un peu trop appuyée pour être tout à fait sincère. Mais de là
 à accuser une entreprise entière, avec des dizaines d'emplois locaux à
 la clé, sur la seule foi d'une photographie prise par un enfant...
 
-— Une photographie et une mesure de profondeur, corrigea Souly,
-imperturbable. Deux choses différentes.
+— Une photographie et une mesure de profondeur, corrigea Souly, sans
+lever la voix. Deux choses différentes.
 
 La mâchoire de Christophe se crispa, à peine — un détail que Sofia, qui
 ne cherchait jamais rien de particulier mais remarquait tout, ne manqua
@@ -411,7 +411,7 @@ cette ville ait jamais connus, et vous avez huit et douze ans.
 
 — Techniquement, j'ai douze ans et demi, précisa Souly.
 
-— Ça change tout, dit Noah, imperturbable.
+— Ça change tout, dit Noah, le plus sérieusement du monde.
 
 Le trajet du retour se fit vitres baissées, l'air tiède de la nuit
 s'engouffrant dans la voiture, chargé d'odeurs de frangipanier et de sel

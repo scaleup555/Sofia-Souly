@@ -125,9 +125,9 @@ est fausse.
 — Surtout celle qui est fausse, corrigea Noah, avec un petit sourire.
 C'est pour ça qu'on continue à la raconter, je crois.
 
-Souly, malgré la tension de l'expédition, ne put s'empêcher de tremper
-sa main dans l'eau pour observer les minuscules étincelles bleutées
-naître autour de ses doigts.
+Souly, malgré la tension de l'expédition, trempa sa main dans l'eau pour
+observer les minuscules étincelles bleutées naître autour de ses
+doigts.
 
 — C'est magique, souffla-t-il, presque malgré lui.
 
@@ -381,7 +381,7 @@ personne, devant les bons témoins.
 — Je sais, dit le jeune capitaine, en resserrant sa couverture. Je crois
 que je n'ai plus vraiment le choix, de toute façon.
 
-— Merci de pas avoir coulé avec ton bateau, dit Sofia, avec un sérieux
+— Merci de pas avoir coulé avec ton bateau, dit Sofia, d'un ton grave
 qui, venant d'elle, sonnait comme le compliment le plus sincère du
 monde.
 

@@ -181,9 +181,9 @@ L'officier leva un sourcil, son stylo suspendu au-dessus de son carnet.
 — Indirect comment ?
 
 — Mon mainate a répété une phrase de Christophe, entendue par hasard sur
-le ponton, expliqua Fara, avec le sérieux imperturbable de quelqu'un
-habitué à ce genre de regard. « Mouille à minuit, personne verra rien. »
-Mot pour mot, dans sa propre voix.
+le ponton, expliqua Fara, sans se soucier du regard un peu perplexe de
+l'officier. « Mouille à minuit, personne verra rien. » Mot pour mot,
+dans sa propre voix.
 
 L'officier resta silencieuse un instant, visiblement en train de peser
 le poids inhabituel de cette déclaration.
@@ -280,8 +280,8 @@ observez depuis le couloir. Vous n'intervenez que si je vous y invite
 explicitement. C'est une négociation officielle, pas une nouvelle
 réunion publique.
 
-— Compris, dirent Sofia et Souly en chœur, avec un sérieux qui ne
-convainquit qu'à moitié l'officier, à en juger par son regard appuyé.
+— Compris, dirent Sofia et Souly en chœur, d'un ton qui ne convainquit
+qu'à moitié l'officier, à en juger par son regard appuyé.
 
 Sofia et Souly, installés côte à côte sur deux chaises trop grandes pour
 eux dans le couloir vitré, observaient la scène avec l'attention de
@@ -397,9 +397,8 @@ fin de la procédure serait considérée avec la plus grande sévérité.
 — Où voudriez-vous que j'aille ? dit Christophe, avec un rire sans
 joie. Toute ma vie est ici. Enfin, était.
 
-Personne, dans la pièce, ne trouva grand-chose à répondre à cette
-dernière phrase, et le silence qui suivit sembla, à Sofia, plus lourd
-encore que tous ceux qui l'avaient précédé ce jour-là.
+Aucune réplique ne vint, cette fois, et le silence qui suivit sembla, à
+Sofia, plus lourd encore que tous ceux qui l'avaient précédé ce jour-là.
 
 ---
 

@@ -395,8 +395,9 @@ et un timing qui colle exactement avec les dégâts. C'est pas grand-chose
 encore. Mais c'est un début.
 
 Noah lui tendit la main, un geste presque solennel pour sceller l'accord,
-et Souly la serra avec un sérieux qui aurait presque pu passer pour drôle,
-si personne, sur ce ponton, n'avait vraiment eu envie de rire.
+et Souly la serra d'un geste si solennel qu'il aurait presque pu passer
+pour drôle, si personne, sur ce ponton, n'avait vraiment eu envie de
+rire.
 
 — On devrait tout écrire quelque part, tous ensemble, proposa Souly. Pas
 juste dans mon carnet. Un vrai dossier, avec les photos, les mesures, la
@@ -436,7 +437,7 @@ question ne le regardait pas vraiment.
 — Un peu plus d'une semaine, dit Souly. On repart dans dix jours.
 
 — Alors on n'a pas beaucoup de marge, dit Noah, redevenu tout à fait
-sérieux. Le vote a lieu dans deux jours. Si on n'a pas trouvé le
+sérieux. Le vote a lieu dans trois jours. Si on n'a pas trouvé le
 coupable avant, mon père reste suspect jusqu'à ce que quelqu'un d'autre
 se donne la peine de vérifier. Et personne d'autre ne s'en donnera la
 peine.

@@ -280,8 +280,8 @@ Souly, depuis son pupitre, sentit une bouffée de fierté qu'il ne
 chercha pas particulièrement à dissimuler, en repensant à ce moment,
 deux semaines plus tôt à peine, où il avait noté « la neige du lagon »
 dans son carnet sans savoir pourquoi ce détail lui semblait important.
-Théo aurait été content de lui, songea-t-il. C'était exactement le
-genre d'instinct qu'il essayait de leur transmettre.
+Théo aurait été content de lui, songea-t-il. C'était exactement
+l'instinct qu'il essayait de leur transmettre.
 
 — Vous n'aviez pas besoin de la science pour savoir que c'était vrai,
 dit Fara, avec un vrai respect dans la voix. Vous l'aviez observé, année
@@ -444,4 +444,4 @@ contre lui.
 son du tambour.
 
 — Je note que je devrais peut-être venir danser, répondit Souly, en
-refermant enfin son carnet pour de bon, cette fois-ci.
+glissant enfin le carnet dans sa poche pour de bon, cette fois-ci.
