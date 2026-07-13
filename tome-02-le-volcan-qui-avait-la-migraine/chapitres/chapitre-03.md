@@ -3,7 +3,21 @@
 La médiathèque de Roche-Fumée-les-Bains occupait l'ancienne halle au
 fromage de la ville, un bâtiment de pierre noire volcanique percé de
 hautes fenêtres, où l'odeur du vieux papier avait, avec les années, fini
-par remplacer complètement celle du fromage. Karim les y déposa en fin de
+par remplacer complètement celle du fromage. Une plaque de cuivre à
+moitié verte, vissée près de l'entrée, rappelait encore, en lettres à
+demi effacées, que le bâtiment avait produit, « à son apogée, jusqu'à
+quatre tonnes de fromage de montagne par semaine » — un détail que Sofia
+trouva plus fascinant que n'importe quelle archive qu'ils étaient venus
+consulter.
+
+— Quatre tonnes, répéta-t-elle, en essayant d'imaginer le volume que ça
+représentait. C'est énorme.
+
+— C'était une autre époque, dit Karim, en garant la camionnette sur la
+place. Avant que le tourisme thermal ne devienne l'industrie principale
+de la ville. Chaque génération a son fromage, si vous voulez.
+
+Karim les y déposa en fin de
 matinée, le temps d'aller « régler deux ou trois choses administratives »
 qu'il ne détailla pas davantage, et promit de revenir avant midi.
 
@@ -24,9 +38,17 @@ Les jeunes détectives de Bellerive-sur-Loire, en visite chez nous !
 
 — Vous êtes déjà au courant ? s'étonna Sofia.
 
-— Ma petite, dans une ville de huit cents habitants, une nouvelle met
-moins de temps à circuler qu'un été à passer, dit M. Foucher, avec une
-fierté manifeste pour sa propre formule. Léna ! Viens voir qui est là !
+— PARDON ? dit M. Foucher, sa main en cornet derrière l'oreille. Vous
+êtes déjà PARTIS ?
+
+— AU COURANT, répéta Sofia, un peu plus fort, avec la patience que Karim
+lui avait recommandée dans la camionnette, quelques minutes plus tôt,
+« au cas où ».
+
+— Ah, au courant ! dit M. Foucher, sans la moindre gêne apparente pour
+la confusion. Ma petite, dans une ville de huit cents habitants, une
+nouvelle met moins de temps à circuler qu'un été à passer, dit-il, avec
+une fierté manifeste pour sa propre formule. Léna ! Viens voir qui est là !
 
 Une fille d'à peu près onze ans émergea de derrière une étagère,
 un livre encore ouvert dans une main, l'air de quelqu'un qu'on avait
@@ -49,11 +71,47 @@ moi-même j'ai oubliées avoir écrites.
 — C'est un peu exagéré, marmonna Léna, les joues légèrement roses, mais
 sans vraiment démentir.
 
+— C'est quoi, ton livre ? demanda Sofia, en désignant le volume que Léna
+serrait toujours contre elle.
+
+— Un roman sur une expédition polaire ratée, dit Léna. La vraie histoire,
+en plus, pas inventée. Le bateau reste coincé dans la glace pendant deux
+ans et tout le monde doit apprendre à survivre en s'entraidant.
+
+— Ça a l'air triste, dit Sofia.
+
+— Ça a l'air génial, dit Souly, aussitôt intéressé.
+
+Léna les regarda tour à tour, avec l'expression prudente de quelqu'un qui
+évaluait encore si ces deux inconnus méritaient vraiment son temps, avant
+de laisser échapper un très léger sourire.
+
+— Toi, dit-elle en désignant Souly, tu vas aimer la bibliothèque. Toi, dit-
+elle à Sofia, tu vas t'ennuyer en dix minutes.
+
+— On verra, dit Sofia, avec le ton de quelqu'un qui prenait ça comme un
+défi personnel plutôt que comme une prédiction.
+
 ---
 
 Souly, qui n'avait pas mis longtemps à repérer les rangées de classeurs
 étiquetés à la main derrière le comptoir, s'en approcha avec l'intérêt
-immédiat de quelqu'un qui reconnaissait un territoire familier.
+immédiat de quelqu'un qui reconnaissait un territoire familier. Chaque
+classeur portait une étiquette manuscrite, l'écriture changeant
+visiblement d'une décennie à l'autre — ronde et appliquée sur les plus
+anciens, plus rapide et penchée sur les plus récents, comme si on
+pouvait lire, rien qu'aux lettres elles-mêmes, l'âge de celui qui les
+avait tracées.
+
+— C'est vous qui avez tout écrit ? demanda Souly, en désignant l'une des
+étiquettes les plus récentes.
+
+— Les vingt dernières années, oui, dit M. Foucher, avec une fierté
+tranquille. Avant moi, c'était mon père. Avant lui, mon grand-père. On
+n'a jamais interrompu la tradition, dans la famille, même pendant les
+deux guerres — mon arrière-grand-père a continué à noter la météo dans
+les tranchées, sur des bouts de papier qu'il envoyait à sa femme par la
+poste, pour qu'elle les recopie dans le bon registre.
 
 — C'est quoi, tous ces carnets ? demanda-t-il.
 
@@ -80,7 +138,17 @@ Souly qui n'avait manifestement pas besoin qu'on le lui rappelle.
 Léna, qui avait fini par s'approcher malgré elle, attirée par la
 conversation plus que par les deux nouveaux venus eux-mêmes, désigna un
 vieux tableau encadré accroché au mur, entre deux étagères, presque
-invisible tant il se fondait dans le décor.
+invisible tant il se fondait dans le décor. Sofia s'approcha pour
+regarder de plus près : un dessin à l'encre, jauni, représentant une
+montagne fumante entourée de petits personnages en costume ancien, les
+bras levés vers le ciel dans une posture qui hésitait entre la prière et
+la fête.
+
+— C'est quoi, ce dessin ? demanda-t-elle.
+
+— Une illustration de la comptine, dit Léna. Elle date d'avant la
+naissance de Papi, mais personne ne sait exactement de qui elle est.
+Elle a toujours été là, contre ce mur.
 
 — Vous connaissez la comptine du Grand Sombre ? demanda-t-elle.
 
@@ -184,6 +252,52 @@ visiblement pas mécontent d'avoir été surpris à écouter.
 je reste à l'écart. C'est moi qui connais le mieux ce classement, même si je
 ne l'admettrai jamais devant témoins.
 
+Ils se répartirent le travail : Léna prit en charge les boîtes les plus
+anciennes, dont elle seule savait déchiffrer l'écriture pattes de mouche
+sans trop de mal ; Souly s'occupa des comptes-rendus municipaux, méthode
+qu'il jugeait « la plus fiable, parce que les élus mentent moins dans les
+procès-verbaux que dans les discours » ; et Sofia, dépourvue de patience
+pour le classement mais dotée d'un œil redoutable pour repérer un mot
+familier au milieu d'une page dense, fut chargée de survoler tout ce que
+les deux autres jugeaient trop incertain pour être classé ailleurs.
+
+M. Foucher, installé à une petite table, entreprit de son côté de
+recopier chaque date qu'ils découvriraient sur une simple feuille volante
+— « en attendant d'avoir assez de matière pour en faire quelque chose de
+plus sérieux », précisa-t-il, avec l'air de quelqu'un qui savait déjà
+exactement à quoi ressemblerait cette « chose plus sérieuse » sans vouloir
+le dévoiler trop tôt.
+
+Le premier vrai fragment revint à Léna, moins d'une heure plus tard, un
+extrait d'une lettre adressée par un curé de village à son évêque,
+l'écriture penchée et serrée, presque illisible par endroits :
+
+« La montagne a de nouveau parlé cette nuit, comme elle le fait, dit-on,
+une fois par vie d'homme. Les anciens du village n'ont montré aucune
+frayeur, seulement de la vigilance, ayant appris de leurs propres
+parents à reconnaître ce grondement d'un tremblement plus dangereux. »
+
+— « Une fois par vie d'homme », répéta Souly, en recopiant la phrase avec
+une lenteur presque religieuse. Ça correspond à peu près à cent ans, non ?
+Une vie humaine, à l'époque ?
+
+— Approximativement, dit M. Foucher, en ajoutant la date sur sa feuille
+volante. Encore une pièce du puzzle.
+
+Le deuxième fragment, trouvé par Sofia dans une pile que Souly avait
+jugée trop abîmée pour être utile, se révéla être la copie d'un article
+de journal local, daté d'environ un siècle plus tôt, relatant « une
+légère activité fumerolienne sur les hauteurs du Grand Sombre, sans
+inquiétude particulière pour la population, le phénomène étant, semble-
+t-il, bien connu des habitants de longue date ».
+
+— « Fumerolienne », répéta Sofia, en articulant chaque syllabe comme si
+le mot pouvait mordre si elle le prononçait mal. C'est quoi, ça ?
+
+— De la fumée qui sort de petites fissures, sans lave ni explosion, dit
+M. Foucher. Souvent bénigne. Mais qui n'apparaît, en général, pas sans
+raison.
+
 ---
 
 Karim les retrouva un peu après midi, les bras chargés de sandwichs achetés
@@ -239,3 +353,41 @@ mordant enfin dans son sandwich, avait discrètement sorti son téléphone
 sous la table et tapait, d'un pouce un peu tremblant, une recherche dans
 ses propres relevés sismiques : la date exacte du dernier grand événement
 enregistré sur le Grand Sombre, cent ans plus tôt, presque jour pour jour.
+
+---
+
+L'après-midi se poursuivit à un rythme plus tranquille, ponctué par les
+exclamations occasionnelles de M. Foucher, sincèrement surpris de
+redécouvrir des documents qu'il avait pourtant lui-même classés, des
+années plus tôt, et par le bruit régulier du crayon de Souly
+consignant chaque nouvelle trouvaille, aussi mince soit-elle.
+
+— J'ai un mariage, annonça Léna, en brandissant une page manuscrite. Deux
+jeunes gens mariés le lendemain d'une « nuit où la terre a tremblé trois
+fois », en pleine cérémonie préparée depuis des mois. Ils ne l'ont même
+pas reportée.
+
+— Ça, c'est un mariage qui en a vu d'autres, commenta Sofia, en
+imaginant la scène, visiblement ravie.
+
+— Ou un mariage où personne n'avait vraiment peur, corrigea Souly, en
+notant la date. Ce qui revient au même que ce qu'on a trouvé jusqu'ici.
+La terre gronde, les gens continuent leur vie.
+
+Vers seize heures, alors que la lumière commençait à décliner à travers
+les hautes fenêtres de l'ancienne halle au fromage, Léna referma la
+dernière boîte du jour avec un soupir satisfait, et s'étira comme
+quelqu'un qui n'avait pas bougé de sa chaise depuis des heures — ce qui
+était, en l'occurrence, exactement le cas.
+
+— On a quoi, en tout, pour aujourd'hui ? demanda Sofia.
+
+Souly compta ses lignes, une par une, avant de répondre.
+
+— Trois mentions solides, dit-il. Plus la comptine elle-même. C'est pas
+encore assez pour prouver un vrai cycle. Mais c'est un bon début.
+
+— Un très bon début, corrigea M. Foucher, en rangeant ses lunettes dans
+leur étui avec la satisfaction d'un homme qui avait retrouvé, l'espace
+d'un après-midi, l'usage exact pour lequel il avait consacré sa vie
+entière à tout classer.

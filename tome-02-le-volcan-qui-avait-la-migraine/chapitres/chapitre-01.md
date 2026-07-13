@@ -17,6 +17,34 @@ mais je sais qu'il travaille sur un volcan officiellement éteint, dans une
 petite ville qui s'appelle Roche-Fumée-les-Bains, et que ça vous changera
 un peu de Bellerive-sur-Loire.
 
+— Officiellement éteint, avait répété Souly, la fourchette suspendue en
+l'air, comme si les deux mots ne pouvaient pas cohabiter dans la même
+phrase sans qu'on lui explique la nuance. Ça veut dire qu'il y a un
+« officieusement » ?
+
+— Ça veut dire que tu poseras la question à Karim, avait répondu Camille,
+avec le sourire de quelqu'un qui savait pertinemment qu'elle venait
+d'allumer une mèche qui ne s'éteindrait pas avant leur arrivée.
+
+Les deux semaines suivantes avaient été occupées, pour Souly, à dévorer
+tout ce que la bibliothèque municipale de Bellerive-sur-Loire comptait de
+livres sur les volcans — dont un, particulièrement épais, qu'il avait
+fini par abandonner à la page deux cent douze, non par manque d'intérêt,
+mais parce que Sofia avait fini par confisquer la lampe de chevet pour
+« au moins une nuit de sommeil normal avant le grand départ ». Il en
+avait retenu assez, cependant, pour dresser une première liste dans un
+carnet encore vierge : trois types de volcans, deux types d'ondes
+sismiques dont il ne comprenait encore qu'à moitié le principe, et un mot
+qu'il trouvait particulièrement beau, « magmatique », qu'il avait décidé
+de placer dans une phrase dès que l'occasion se présenterait.
+
+Sofia, de son côté, avait consacré le plus clair de ses deux semaines à
+sélectionner, avec un sérieux qui n'admettait aucune remarque, laquelle de
+ses trois paires de baskets dépareillées ferait le voyage — un débat
+qu'elle avait fini par trancher en emportant les trois, « pour ne pas
+avoir à choisir entre mes enfants », comme elle l'avait expliqué à Mamie
+Rose au téléphone, sans le moindre soupçon d'ironie dans la voix.
+
 Sur le quai de la gare, deux semaines plus tard, Camille les avait serrés
 très fort, l'un après l'autre, avant de glisser à l'oreille de Souly, assez
 bas pour que Sofia ne l'entende pas tout à fait :
@@ -50,6 +78,38 @@ forme de cœur.
 
 — J'en ai vu quatre, des tunnels. Toi t'en as vu une, de vache en forme de
 cœur. C'est pas comparable.
+
+— Tout est comparable si on décide de comparer, répliqua Sofia, avec la
+logique redoutable qu'elle réservait aux débats qu'elle savait déjà
+perdus sur le fond, mais qu'elle refusait obstinément d'abandonner sur la
+forme.
+
+Une dame assise de l'autre côté de l'allée, qui avait suivi l'échange
+depuis le début sans le vouloir vraiment, ne put retenir un petit rire.
+
+— Vous allez où, tous les deux ? demanda-t-elle, un panier de linge posé
+en équilibre précaire sur ses genoux.
+
+— Chez notre cousin, à Roche-Fumée-les-Bains, dit Sofia. Il surveille un
+volcan.
+
+— Le Grand Sombre, précisa Souly, comme si le nom seul méritait d'être
+prononcé avec un minimum de respect.
+
+— Ah, celui-là, dit la dame, avec un sourire qui semblait en dire plus
+qu'elle n'était disposée à en révéler à deux enfants qu'elle ne
+connaissait pas. On raconte pas mal de choses, sur ce volcan, dans le
+coin. Ma grand-mère refusait toujours de dormir la fenêtre ouverte les
+années finissant par un neuf. Allez savoir pourquoi.
+
+— Pourquoi ? demanda Souly, aussitôt, le carnet déjà à moitié sorti de sa
+poche.
+
+Mais la dame se contenta de hausser les épaules, avec l'air de quelqu'un
+qui en avait déjà trop dit pour une simple conversation de car, et
+replongea dans la contemplation du paysage, laissant Souly noter,
+frustré, une ligne qu'il souligna deux fois : « Une dame dans le car :
+années finissant par 9. À vérifier. »
 
 Sofia haussa les épaules, absolument pas convaincue par cet argument, et
 reporta son attention sur le paysage qui changeait à vue d'œil depuis
@@ -133,6 +193,48 @@ Souly, assis à l'arrière, sortit discrètement son carnet et nota, sous la
 ligne sur le volcan éteint, une deuxième ligne, plus courte :
 
 « Karim n'a pas l'air content pour les Thermes. Pourquoi ? »
+
+Karim se gara le long du trottoir principal, devant une boulangerie dont
+la vitrine affichait, elle aussi, une affichette pour l'inauguration —
+« Pains spéciaux Thermes du Grand Sombre, en édition limitée, croûte
+volcanique garantie » — et sortit un instant pour saluer, à travers la
+vitre, un homme en tablier qui semblait le connaître de longue date.
+
+— Frédéric, cria l'homme en boulanger, en agitant une baguette dans leur
+direction, comme s'il fallait absolument crier son propre nom pour se
+faire comprendre à distance. Karim ! Ça fait un mois qu'on t'a pas vu ici
+avant midi !
+
+— J'avais de la visite à récupérer, dit Karim, en désignant Sofia et
+Souly par la vitre baissée. Mes cousins, de Paris.
+
+— De Paris ! répéta Frédéric, avec l'enthousiasme démesuré d'un homme
+pour qui « Paris » restait, visiblement, une abstraction lointaine et
+un peu exotique. Vous allez voir, ici, on a un volcan et des thermes
+tout neufs. On n'a pas Paris, mais on n'a pas les embouteillages non
+plus.
+
+Il leur tendit, à travers la fenêtre, deux petits pains ronds encore
+tièdes, « pour la route, cadeau de la maison », et Sofia mordit dedans
+avec un enthousiasme qui n'avait besoin d'aucune traduction.
+
+— C'est excellent, dit-elle, la bouche encore à moitié pleine.
+
+— Tout le monde dit ça, dit Frédéric, ravi. Douze jours avant l'ouverture,
+et déjà je vends deux fois plus qu'avant. Cette ville avait besoin d'un
+coup de fouet, question tourisme. Vous verrez, la place va être noire de
+monde le jour J.
+
+Karim remonta dans la camionnette, souriant encore, mais Sofia remarqua
+que ce sourire-là ne montait pas tout à fait jusqu'à ses yeux.
+
+— Frédéric est content, en tout cas, dit-elle, une fois qu'ils eurent
+redémarré.
+
+— Frédéric a de bonnes raisons d'être content, dit Karim. Plus de
+visiteurs, plus de clients. C'est vrai pour lui, et pour la moitié des
+commerçants de cette ville. Ce qui rend certaines conversations un peu
+plus compliquées que d'autres.
 
 ---
 
@@ -225,6 +327,40 @@ et alluma un écran couvert de lignes ondulées, verticales, qui défilaient
 en continu — des tracés que Sofia trouva immédiatement fascinants, sans
 savoir pourquoi exactement.
 
+Pendant que Karim s'affairait à préparer deux lits de camp dans le coin
+le moins encombré de la pièce, Sofia entreprit une inspection méthodique
+du reste du chalet — une petite cuisine ouverte, une salle de bains dont
+la porte ne fermait qu'à moitié, et un mur entier couvert de cartes du
+Grand Sombre annotées à la main, certaines si anciennes que le papier
+avait jauni jusqu'à devenir presque marron.
+
+— C'est toi qui as dessiné tout ça ? demanda-t-elle, en désignant la carte
+la plus grande, hérissée de petits drapeaux en papier plantés à
+différents endroits sur le flanc de la montagne.
+
+— La base, oui, dit Karim, depuis l'autre bout de la pièce. Les drapeaux,
+c'est l'emplacement de chaque capteur. Trois sismographes, deux stations
+GPS, un capteur de gaz. Ça paraît beaucoup, mais pour surveiller
+correctement un volcan, même endormi, c'est plutôt le strict minimum.
+
+— On peut les voir demain ? demanda Souly, déjà en train de compter les
+drapeaux un par un.
+
+— Demain, promis, dit Karim. Ce soir, on mange, et Magma va essayer de
+vous convaincre qu'il n'a pas déjà dîné deux fois, ce qui sera un
+mensonge éhonté.
+
+Comme pour illustrer son propos, le chat, réveillé par le mot « manger »
+qu'il semblait reconnaître dans n'importe quelle langue, sauta du canapé
+et vint se frotter contre les jambes de Sofia avec une insistance
+suspecte.
+
+— Il m'aime déjà, dit Sofia, ravie.
+
+— Il aime déjà l'idée que tu pourrais faire tomber quelque chose de
+comestible, rectifia Karim. Fais attention à tes chaussures — c'est
+généralement la première chose qu'il essaie de voler.
+
 — C'est ça, la surveillance du volcan ? demanda-t-elle.
 
 — Une petite partie, dit Karim. Ces lignes, ce sont les sismographes. Ils
@@ -235,7 +371,7 @@ enfin, votre grand-mère, mais Camille m'a dit que tout le monde l'appelait
 comme ça — ne me pardonnerait jamais si je vous gardais éveillés plus
 longtemps.
 
-Sofia et Souly échangèrent un regard. Ce n'était pas tout à fait le nom
+Sofia et Souly se regardèrent, surpris. Ce n'était pas tout à fait le nom
 qu'ils s'attendaient à entendre, si loin de Bellerive-sur-Loire, et pourtant,
 ça les fit sourire tous les deux en même temps, comme un petit fil invisible
 tendu entre deux étés qui n'avaient, en apparence, absolument rien à voir
@@ -269,6 +405,32 @@ une question directe.
 — C'est une excellente question, dit-il enfin. Et c'est très exactement
 celle sur laquelle je travaille depuis trois ans.
 
+— Mais t'as une réponse, insista Souly, qui avait déjà repéré, chez les
+adultes en général et chez Karim en particulier, cette façon bien précise
+d'esquiver une question sans jamais vraiment refuser d'y répondre.
+
+— J'ai un début de réponse, corrigea Karim, avec un sourire qui admettait,
+malgré lui, s'être fait prendre la main dans le sac. Et ce début de
+réponse ne me plaît pas beaucoup.
+
+— Pourquoi ?
+
+— Parce qu'un volcan « éteint », ça n'existe presque jamais vraiment, dit
+Karim, en repoussant son assiette pour mieux se pencher vers eux. La
+plupart du temps, c'est juste un volcan qui s'est endormi tellement
+longtemps que tout le monde a fini par oublier qu'il pouvait un jour se
+réveiller. Le problème, c'est que la terre, elle, n'oublie jamais rien.
+
+Sofia mâchouilla une bouchée de pâtes en silence, digérant l'idée plus
+lentement que la nourriture elle-même.
+
+— C'est un peu flippant, dit-elle finalement.
+
+— C'est surtout passionnant, corrigea Karim, avec l'enthousiasme sincère
+d'un scientifique qui préférait, toujours, comprendre une chose
+effrayante plutôt que de simplement en avoir peur. Mais oui, aussi un peu
+flippant. Les deux ne s'excluent pas.
+
 Magma choisit cet instant précis pour sauter sur la table, renverser
 d'un coup de queue le verre d'eau de Sofia, et s'installer sans la moindre
 gêne au beau milieu des cartes géologiques, comme s'il avait personnellement
@@ -286,6 +448,39 @@ traduisit Karim avec un sérieux qui fit rire les deux enfants malgré eux.
 
 ---
 
+Après le dîner, Karim les autorisa, à titre exceptionnel et « juste pour
+cette fois », à rester encore un peu devant l'écran principal pendant
+qu'il rangeait la cuisine, à condition de ne toucher à aucun bouton. Sofia
+et Souly regardèrent, fascinés malgré la fatigue qui commençait à leur
+peser sur les paupières, les lignes vertes onduler doucement, presque
+paresseusement, sans le moindre soubresaut notable.
+
+— Il dort vraiment, en ce moment, dit Sofia, à voix basse, comme si elle
+craignait de le réveiller en parlant trop fort.
+
+— Il dort, confirma Karim, depuis l'évier. Mais un dormeur, ça bouge
+quand même un peu, dans son sommeil. C'est justement ces petits
+mouvements-là qu'on essaie de comprendre.
+
+Quand vint enfin l'heure de se coucher, Karim les aida à installer les
+deux lits de camp dans le coin le moins encombré de la pièce, glissa un
+oreiller supplémentaire sous la tête de Sofia sans qu'elle ait rien
+demandé, et resta un instant debout au-dessus d'eux, les mains sur les
+hanches, avec l'air de quelqu'un qui cherchait la bonne phrase pour finir
+la soirée.
+
+— Si vous entendez quoi que ce soit cette nuit, dit-il finalement, un
+bruit, un tremblement, n'importe quoi — vous me réveillez. Pas de gêne,
+pas d'hésitation. D'accord ?
+
+— D'accord, dirent Sofia et Souly en même temps, avec un ensemble qui
+parut amuser Karim plus que la promesse elle-même.
+
+Il éteignit la lumière principale, ne laissant que la lueur bleutée des
+écrans de contrôle, et se retira dans le renfoncement du chalet qui lui
+servait de chambre, Magma trottinant derrière lui avec la détermination
+d'un chat bien décidé à retrouver son clavier favori pour la nuit.
+
 Cette nuit-là, allongé sur un lit de camp installé dans un coin de la grande
 pièce, sous le tracé silencieux des sismographes qui continuaient de
 dessiner leurs lignes vertes dans l'obscurité, Souly resta un long moment les
@@ -294,7 +489,9 @@ plus loin, le ronronnement paresseux de Magma installé sur ses genoux.
 
 Il pensa au tremblement dans la camionnette. Au regard de Karim dans le
 rétroviseur. Aux mots qu'il avait à peine chuchotés : « C'est un gros projet
-pour une petite ville. »
+pour une petite ville. » Il pensa aussi à la dame du car, et à sa phrase
+laissée en suspens sur les années finissant par un neuf — un détail qui ne
+menait nulle part pour l'instant, mais qu'il n'était pas près d'oublier.
 
 Il rouvrit son carnet une dernière fois, à la lueur de son téléphone, et
 ajouta une ligne tout en bas de la page, avant de refermer enfin les yeux :

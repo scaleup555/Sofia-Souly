@@ -1,8 +1,26 @@
 # Chapitre 10 — Ce que la preuve peut faire, quand on la montre à temps
 
+Aucun d'eux ne dormit vraiment bien cette nuit-là. Sofia se réveilla
+trois fois, chaque fois convaincue d'avoir senti le sol trembler, chaque
+fois rassurée par Karim, qui avait laissé l'écran principal allumé toute
+la nuit, sa lueur verte projetant des ombres douces sur le plafond du
+chalet. Souly, lui, resta éveillé plus longtemps encore, repassant dans
+sa tête, encore et encore, chaque détail de leur intrusion dans le
+bureau de Rocheteau, comme s'il craignait qu'un souvenir mal fixé ne se
+dissolve avant le matin.
+
 Le maire convoqua une réunion d'urgence à la mairie dès le lendemain matin,
 après une nuit ponctuée de trois nouvelles secousses mineures, chacune
 suivie d'un silence tendu que toute la ville semblait retenir ensemble.
+
+Sur le chemin de la mairie, la ville leur parut différente — plus
+silencieuse, plus prudente, comme si chaque habitant avait, cette
+nuit-là, redécouvert d'un coup à quel point la terre sous leurs pieds
+n'était peut-être pas aussi stable qu'ils l'avaient toujours cru. Devant
+l'épicerie, Frédéric baissait son rideau de fer plus tôt que d'habitude,
+un carton de conserves à la main, « au cas où », comme il l'expliqua à
+qui voulait l'entendre.
+
 Karim y présenta, sans détour, la photo prise sur l'écran de Rocheteau —
 la colonne de chiffres originaux, la colonne falsifiée, l'historique de
 modification horodaté à la minute près.
@@ -32,6 +50,25 @@ raidir légèrement à côté d'elle — la même phrase, presque mot pour mot,
 que celle que Karim leur avait dite lui-même, des jours plus tôt, sur les
 marches du chalet.
 
+Un conseiller municipal, assis au deuxième rang, leva la main, le visage
+soucieux.
+
+— Et les enfants ? demanda-t-il, en désignant Sofia et Souly du menton.
+On me dit que c'est eux qui ont pris cette photo. Ils étaient dans un
+bâtiment en pleine secousse sismique. Qui a autorisé ça ?
+
+— Personne ne l'a « autorisé », dit Karim, avec une franchise qui ne
+chercha pas à minimiser sa propre responsabilité. Je les ai laissés
+m'accompagner à une distance que je pensais raisonnable, et les
+événements ont dépassé ce que j'avais prévu. Je prends l'entière
+responsabilité de cette décision, et je referais probablement la même
+chose, en connaissant le résultat.
+
+Le maire jeta un coup d'œil au Brigadier, sans que Sofia puisse en
+deviner le sens exact, avant de passer à autre chose — un sursis
+que Karim accueillit avec un soulagement visible, sans toutefois
+relâcher complètement les épaules.
+
 ---
 
 L'ouverture des Thermes du Grand Sombre fut officiellement reportée dans
@@ -46,6 +83,26 @@ plus sûres, plus bas dans la vallée.
 — Ça veut dire qu'on a eu raison à temps, corrigea Karim. C'est très
 différent. Avoir raison trop tard, ça ne sert à rien à personne.
 
+Ils croisèrent Mme Delacroix sur le parvis, seule, immobile devant le
+grand bâtiment de verre qu'elle avait imaginé, financé et défendu
+pendant des années, observant les ouvriers démonter les dernières
+banderoles dorées qui annonçaient encore, la veille, l'ouverture triomphale.
+Elle ne pleurait pas — ou du moins, pas d'une façon que Sofia sut
+identifier avec certitude — mais quelque chose dans sa posture, dans ses
+épaules un peu trop droites, trahissait un effort considérable pour ne
+pas s'effondrer devant témoins.
+
+— Madame Delacroix, dit Karim, avec une prudence inhabituelle dans la voix.
+
+— J'ai perdu six ans de ma vie sur ce projet, dit-elle, sans se
+retourner. Six ans, et toutes mes économies. Et je ne peux même pas vous
+en vouloir, parce que vous aviez raison depuis le début.
+
+— On peut reconstruire, dit Karim, doucement. En plus sûr, cette fois.
+
+— Peut-être, dit-elle, la voix creuse. Demandez-moi dans quelques
+semaines. Aujourd'hui, j'ai surtout besoin de rentrer chez moi.
+
 Les jours suivants furent occupés, pour Karim, à coordonner l'installation
 en urgence de nouveaux capteurs, empruntés à des observatoires voisins,
 tandis que des géologues venus de tout le pays commençaient à affluer vers
@@ -53,6 +110,39 @@ Roche-Fumée-les-Bains, attirés par ce qui devenait, malgré lui, un cas
 d'étude scientifique de premier plan : un volcan qu'on croyait éteint,
 en train de prouver, données à l'appui, qu'il ne l'était peut-être pas
 tout à fait.
+
+Une chercheuse italienne, venue spécialement d'un observatoire volcanologique
+des environs de Naples, passa un après-midi entier à la station, fascinée
+par le disque de sauvegarde de Karim et par la méthode qui avait permis
+de démasquer la fraude.
+
+— Vous devriez publier ça, dit-elle, avec un accent chantant qui
+charma immédiatement Sofia. Pas seulement les données du volcan. La
+méthode elle-même. Comment repérer une falsification systématique.
+Beaucoup de mes collègues, ailleurs dans le monde, auraient besoin de
+savoir faire pareil.
+
+— J'y penserai, dit Karim, un peu gêné par le compliment, une fois que
+j'aurai fini de dormir suffisamment pour tenir un stylo droit.
+
+Souly, qui avait suivi la conversation avec une attention non dissimulée,
+nota soigneusement le nom de la chercheuse dans son carnet, sous une
+nouvelle ligne : « Contacts pour futures enquêtes scientifiques. »
+
+Sofia et Souly, désormais reconnus dans toute la ville comme « les
+enfants qui avaient démasqué le faux expert », se virent offrir, en une
+seule matinée, deux glaces gratuites par Frédéric, un signet en cuir «
+pour de futures recherches » par M. Foucher, et une invitation en bonne
+et due forme à la prochaine réunion du conseil municipal, invitation
+que Souly rangea précieusement dans son carnet comme une pièce à
+conviction supplémentaire de leur succès.
+
+— On est officiellement des personnalités locales, remarqua Sofia,
+ravie.
+
+— On est officiellement des enfants qui ont eu de la chance que tout se
+termine bien, corrigea Souly, plus mesuré, même si un petit sourire
+trahissait qu'il n'était pas complètement insensible à l'attention.
 
 Rocheteau fut intercepté le lendemain matin, alors qu'il tentait de revenir
 discrètement récupérer des affaires laissées dans son bureau désormais
@@ -71,6 +161,12 @@ trop petite pour lui, le visage vidé de toute l'assurance qu'il affichait
 encore sur l'estrade de la mairie quelques jours plus tôt. Souly serra la
 main de Sofia sans même y penser ; ce n'était pas de la peur, cette fois,
 juste l'impression étrange de voir un adulte devenir soudain très petit.
+
+Le Brigadier fit défiler, sur une tablette posée devant Rocheteau, la
+photo prise dans le bureau — la colonne de chiffres originaux, la
+colonne falsifiée, l'horodatage sans appel — et attendit un long moment
+avant de reprendre la parole, comme s'il voulait laisser au silence
+tout le temps de faire son travail.
 
 — Pourquoi ? demanda simplement le Brigadier, dans le silence qui suivit
 la lecture des faits.
@@ -91,6 +187,16 @@ Karim ne répondit rien. Il se contenta de hocher la tête, une seule fois,
 avant de raccompagner Sofia et Souly hors du commissariat, dans l'air frais
 du matin qui leur parut, à tous les trois, particulièrement bienvenu après
 cette scène.
+
+— Tu crois qu'il regrette vraiment ? demanda Sofia, une fois dehors,
+encore un peu secouée.
+
+— Je crois qu'il regrette de s'être fait prendre, dit Souly, après
+réflexion. C'est pas tout à fait pareil que regretter d'avoir menti.
+
+— Peut-être un peu des deux, tempéra Karim. Les gens sont rarement tout
+un bloc, dans un sens ou dans l'autre. Même les gens qui font de très
+mauvais choix.
 
 — C'est ce que tout le monde dit, remarqua Léna, qui les attendait dehors
 avec son grand-père et qui avait écouté le résumé complet sur le trottoir,
@@ -116,6 +222,35 @@ tous les futurs projets de construction près du volcan.
 — D'après l'article, elle a répondu qu'elle réfléchirait, dit Karim, en
 souriant. Ce qui, en langage Amara, veut probablement dire oui, mais pas
 avant d'avoir fait mariner tout le monde un peu plus longtemps.
+
+Ils croisèrent Amara elle-même en fin d'après-midi, devant la médiathèque,
+un exemplaire du livre qu'elle devait toujours à M. Foucher serré contre
+elle, visiblement décidée à rembourser sa dette avec deux ans de retard
+et une gêne assumée.
+
+— Je voulais vous remercier, dit-elle, en s'adressant directement à
+Sofia et Souly, avant même de saluer Karim. Sans vous, je serais encore
+en train de crier dans le vide devant ce chantier.
+
+— C'est vous qui avez fait tout le travail difficile, dit Souly. On a
+juste posé les bonnes questions au bon moment.
+
+— C'est déjà énorme, dit Amara, avec un sérieux qui contrastait avec le
+sourire qui, pour la première fois depuis leur rencontre, ne quittait
+plus vraiment son visage. La plupart des gens ne posent jamais aucune
+question du tout. Ils préfèrent croire ce qui les arrange.
+
+— Vous allez accepter le poste ? demanda Sofia, sans détour, comme
+toujours.
+
+Amara éclata de rire, un rire franc, débarrassé de toute la fatigue
+qu'elle traînait depuis des semaines.
+
+— Toi, au moins, tu n'y vas jamais par quatre chemins, dit-elle. Je sais
+pas encore. Laisse-moi au moins une semaine à savourer le fait que
+plus personne, en ville, ne me regarde de travers.
+
+— C'est déjà un bon début, dit Souly.
 
 ---
 
@@ -147,6 +282,18 @@ deuxième moitié de toute cette histoire, dit-il lentement.
 — La partie qui explique pas juste qui a menti, dit Sofia, songeuse, mais
 si la montagne, elle, dit vrai.
 
-Ils échangèrent un regard, et sans un mot de plus, Souly referma son
+— Trois jours avant l'ouverture, dit Souly, en vérifiant la date sur son
+carnet. Enfin, l'ouverture reportée. Mais Léna et son grand-père doivent
+toujours avoir tous les documents. Il faudrait qu'on prépare une vraie
+présentation. Pas juste leur raconter en vitesse dans un coin.
+
+— Une présentation devant qui ? demanda Sofia.
+
+— Devant tout le monde, dit Souly, avec une conviction qui la surprit.
+Devant toute la ville, si possible. Une bonne histoire mérite d'être
+racontée correctement, une seule fois, à tout le monde en même temps —
+pas répétée de bouche à oreille jusqu'à ce qu'elle se déforme.
+
+Sans un mot de plus, Souly referma son
 carnet et se leva pour aller chercher Karim, qui méritait, plus que
 quiconque, d'entendre la suite de cette histoire avant tout le monde.

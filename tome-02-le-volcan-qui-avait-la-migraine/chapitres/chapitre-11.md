@@ -1,9 +1,50 @@
 # Chapitre 11 — Ce que la comptine savait depuis toujours
 
+Les trois jours précédant la réunion publique furent occupés, pour toute
+l'équipe improvisée, par une préparation méthodique digne des plus
+grandes conférences scientifiques que Karim ait jamais montées — sauf
+que celle-ci se déroulait sur la table encombrée de la médiathèque,
+plutôt que dans un amphithéâtre universitaire, et que ses principaux
+architectes avaient respectivement onze et douze ans.
+
+— Il faut que ce soit clair pour tout le monde, avait insisté M. Foucher,
+en réorganisant pour la troisième fois l'ordre des documents historiques.
+Pas seulement pour les gens qui aiment la science. Pour ma voisine qui ne
+lit que des romans policiers, aussi.
+
+— Alors on commence par la comptine, avait proposé Léna. Tout le monde la
+connaît déjà. On construit à partir de ce qu'ils savent, pas de ce qu'ils
+ignorent.
+
+Souly, chargé de synthétiser les données sismiques de Karim en un
+graphique compréhensible « même par quelqu'un qui n'a jamais entendu
+parler d'une onde P de sa vie », avait passé une soirée entière à
+simplifier, encore et encore, jusqu'à obtenir une courbe si claire que
+Sofia elle-même, pourtant peu portée sur les graphiques, avait fini par
+la comprendre du premier coup d'œil.
+
+— C'est parfait, avait dit Karim, en examinant le résultat final. Tu
+viens de faire, en une soirée, ce que beaucoup de scientifiques
+n'apprennent jamais à faire en toute une carrière : rendre une donnée
+compliquée simple, sans la rendre fausse.
+
 La réunion publique fut organisée trois jours plus tard, dans la salle des
 fêtes de Roche-Fumée-les-Bains, la seule assez grande pour accueillir ce
 qui semblait être, cette fois, absolument toute la population de la ville,
 debout dans les allées faute de chaises suffisantes.
+
+La salle bruissait, en attendant le début de la réunion, d'un mélange de
+conversations à mi-voix — certains habitants encore méfiants envers
+Karim depuis des semaines de rumeurs contradictoires, d'autres
+franchement reconnaissants, et une majorité, semblait-il, simplement
+curieuse de comprendre enfin ce qui s'était réellement passé sur leur
+montagne. Frédéric, au troisième rang, avait apporté une caisse entière
+de petits pains « pour tenir toute la soirée », qu'il distribuait déjà
+généreusement à ses voisins avant même que quiconque ne prenne la
+parole. Amara, arrivée tôt, s'était installée discrètement au fond de la
+salle, son éternel sac à dos posé à ses pieds plutôt qu'une pancarte,
+observant l'assemblée avec une expression que Sofia ne sut interpréter
+que bien plus tard dans la soirée.
 
 Karim monta sur l'estrade le premier, un dossier sous le bras, Sofia et
 Souly juste derrière lui, Léna et M. Foucher un peu plus loin, ce dernier
@@ -36,6 +77,18 @@ municipal évoquant trois jours de fumée « comme le veut la coutume » —
 chacun espacé du précédent d'environ un siècle, le dernier remontant à
 quatre-vingt-dix-neuf ans.
 
+M. Foucher marqua une pause, laissant son regard balayer la salle avant
+d'ajouter, la voix soudain plus grave :
+
+— Et il y a une cinquième mention, plus ancienne encore, presque
+illisible, que ma petite-fille a découverte il y a quelques jours à
+peine, dans une lettre d'un curé à son évêque. Deux siècles en arrière.
+Le même motif, encore.
+
+Un murmure d'étonnement traversa la salle. Léna, restée au bord de
+l'estrade, rougit légèrement sous l'attention soudaine, mais ne baissa
+pas les yeux.
+
 — Quatre-vingt-dix-neuf ans, répéta Karim, en reprenant la parole, une
 fois M. Foucher redescendu de l'estrade. Et voici, superposées à ces
 quatre dates historiques, les données que mes capteurs ont enregistrées
@@ -53,6 +106,23 @@ un vrai cycle géologique. Un cycle que nous aurions pu — que nous aurions
 dû — prendre au sérieux bien avant de construire quoi que ce soit à deux
 kilomètres du sommet.
 
+— Mais pourquoi cent ans, exactement ? demanda quelqu'un dans la foule.
+Pourquoi pas dix, ou mille ?
+
+— On n'a pas encore une réponse définitive, admit Karim, avec
+l'honnêteté qui le caractérisait. Mais l'hypothèse la plus probable,
+c'est un cycle de recharge du réservoir de magma souterrain : à chaque
+fois qu'assez de pression s'accumule en profondeur, elle se relâche par
+une petite éruption phréatique — un peu de vapeur, un peu de gaz, une
+secousse ou deux — avant que tout ne se stabilise pour un siècle de plus.
+C'est un peu comme une cocotte-minute qui laisserait s'échapper un peu de
+vapeur à intervalles réguliers, plutôt que d'exploser d'un coup.
+
+— Une cocotte-minute géante sous toute la ville, résuma Sofia, ce qui
+arracha un rire nerveux à plusieurs rangées.
+
+— C'est une image qui n'est pas fausse, admit Karim, amusé malgré lui.
+
 ---
 
 — PARDON ? cria une voix depuis le fond de la salle, celle de M. Foucher,
@@ -61,7 +131,7 @@ enthousiasmé par sa propre performance. J'ai bien entendu « cent ans »,
 ou on recommence avec les anges ?
 
 — CENT ANS, PAPI, cria Léna en retour, ce qui déclencha, malgré la gravité
-générale de la soirée, un éclat de rire bienvenu qui parcourut plusieurs
+générale de la soirée, un éclat de rire bienvenu qui gagna plusieurs
 rangées de la salle et détendit, l'espace d'un instant, l'atmosphère
 tendue jusque-là.
 
@@ -81,6 +151,31 @@ majeure. Mais je ne peux pas vous le garantir avec une certitude absolue,
 et je ne le ferai jamais, parce que ce serait exactement l'erreur que le
 Dr. Rocheteau a commise, dans l'autre sens.
 
+Frédéric leva la main, un petit pain encore à moitié entamé dans l'autre.
+
+— Et pour nos commerces ? demanda-t-il. Sans les Thermes, on retourne à
+rien du tout ?
+
+— Je ne suis pas maire, ni économiste, dit Karim, avec une honnêteté qui
+sembla désarmer une partie de son auditoire. Mais je peux vous dire une
+chose : un volcan qui prouve, données à l'appui, qu'il mérite d'être
+surveillé sérieusement, ça attire aussi les scientifiques, les curieux,
+les touristes qui aiment les vraies histoires plutôt que les décors en
+carton-pâte. Ce n'est pas rien, comme point de départ.
+
+Une femme, au troisième rang, se leva à son tour, le visage encore marqué
+par l'inquiétude.
+
+— Comment on est censés vivre avec cette incertitude, au quotidien ?
+demanda-t-elle. On regarde le ciel tous les matins en se demandant si
+c'est le bon jour ?
+
+— Non, dit Karim, fermement. Vous vivez normalement. La différence,
+maintenant, c'est qu'un vrai système d'alerte va être installé, et que
+plus personne ne pourra le faire taire pour des raisons qui n'ont rien à
+voir avec la science. L'incertitude, elle a toujours existé. Ce qui
+change, c'est qu'on ne vous la cachera plus.
+
 Sofia, qui n'avait pas encore pris la parole, s'avança d'un pas, un peu
 intimidée par la foule mais visiblement décidée à dire ce qu'elle avait à
 dire.
@@ -97,6 +192,19 @@ peine de les écouter à temps.
 — C'est pour ça qu'on voulait vous le dire maintenant, ajouta Souly, plutôt
 que d'attendre d'être vraiment sûrs à cent pour cent. Parce qu'à cent pour
 cent, ça sera peut-être trop tard.
+
+Il marqua une pause, cherchant les mots justes, son carnet serré contre
+lui comme un talisman.
+
+— Toute cette histoire, dit-il finalement, ça nous a appris un truc
+qu'on n'aurait jamais appris à l'école. Une légende, c'est pas
+forcément faux. Et un instrument scientifique, c'est pas forcément vrai
+tout seul non plus. Ce qui compte, c'est de vérifier les deux, et de les
+comparer. Ma grand-mère raconte des histoires depuis toujours. Certaines
+sont vraies, d'autres non. La seule façon de savoir, c'est de vérifier.
+
+— Comme un bon Carnet des Preuves, dit Sofia, avec un sourire qui fit
+sourire, malgré la gravité du moment, une bonne partie du premier rang.
 
 Un applaudissement timide commença, quelque part au fond de la salle,
 avant de gagner peu à peu l'ensemble de la foule — pas un applaudissement
@@ -127,3 +235,57 @@ Karim la regarda un long moment, avant de hocher la tête, une seule fois,
 lentement.
 
 — Ça, dit-il, c'est une décision que je peux respecter.
+
+Mme Delacroix se tourna ensuite vers Amara, restée au fond de la salle,
+et pour la première fois depuis leur arrivée en ville, Sofia la vit
+hésiter réellement, chercher ses mots avec un soin qui n'avait rien à
+voir avec l'assurance polie qu'elle affichait d'habitude en public.
+
+— Je vous dois des excuses, dit-elle, assez fort pour que toute la salle
+entende. Vous avez passé des mois à essayer de nous alerter, et je vous
+ai traitée comme une gêneuse. Je me suis trompée. Complètement.
+
+Amara resta silencieuse un long moment, tous les regards de la salle
+tournés vers elle, avant de se lever à son tour.
+
+— J'accepte, dit-elle simplement. Mais la prochaine fois qu'une lanceuse
+d'alerte vous dérange, madame Delacroix, essayez d'abord de l'écouter.
+Ça coûte beaucoup moins cher que six ans de travaux.
+
+Un rire nerveux, mais bienveillant, monta de plusieurs rangées à la fois,
+brisant enfin la tension accumulée depuis le début de la soirée. Le maire, remonté sur
+l'estrade pour clore officiellement la réunion, promit la mise en place
+rapide du système d'alerte financé par Mme Delacroix, et annonça, sous
+un tonnerre d'applaudissements sincères cette fois, la création d'une
+« Journée du Grand Sombre » annuelle, destinée à célébrer, chaque année,
+la mémoire et la science réconciliées.
+
+En sortant de la salle des fêtes, tard dans la soirée, Souly sentit une
+main se poser sur son épaule — Frédéric, un dernier petit pain à la main,
+qu'il lui tendit sans un mot, un sourire immense fendant son visage.
+
+— Pour le retour, dit-il simplement. Vous l'avez bien mérité, tous les
+deux.
+
+Dehors, l'air de la nuit portait encore l'odeur de terre mouillée de
+l'orage récent, et au-dessus de la vallée, la silhouette sombre du Grand
+Sombre se découpait contre un ciel enfin dégagé, son mince filet de
+fumée éclairé par intermittence par la lune. Léna et M. Foucher les
+rejoignirent sur le parvis, ce dernier encore un peu grisé par
+l'attention qu'il venait de recevoir.
+
+— Je crois, dit-il, avec une émotion qu'il ne cherchait pas à cacher,
+que c'est le plus beau jour de toute ma carrière d'archiviste. Et
+pourtant, j'en ai vu, des jours excitants — la fois où on a retrouvé le
+plan cadastral de 1850, par exemple.
+
+— Ça n'a pas la même ampleur, Papi, dit Léna, avec un sourire tendre.
+
+— Non, admit-il. Mais c'est du même métier, au fond. Écouter ce que le
+passé essaie encore de nous dire, si on prend la peine de tendre
+l'oreille.
+
+Sofia, fatiguée mais rayonnante, glissa sa main dans celle de Souly, et
+tous deux restèrent un instant silencieux, à contempler la montagne qui,
+pour la première fois de tout leur séjour, ne leur paraissait plus
+menaçante du tout — juste immense, ancienne, et enfin comprise.

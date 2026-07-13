@@ -7,6 +7,16 @@ prise de nuit, floue, elle la montrait près du grillage du chantier, une
 lampe torche à la main, légendée par une source anonyme d'un simple « Elle
 recommence ».
 
+Sofia l'avait découverte en premier, sur l'écran de son propre téléphone,
+en descendant du lit de camp encore à moitié endormie — un message que
+sa mère, Camille, avait fait suivre depuis Bellerive-sur-Loire, avec un
+simple point d'interrogation en guise de commentaire, ce qui suffit à
+réveiller Sofia plus efficacement que n'importe quelle alarme.
+
+— Camille l'a reçue aussi, dit-elle, en tendant le téléphone à Souly, la
+voix encore pâteuse de sommeil. Ça veut dire que c'est déjà sorti de la
+ville.
+
 — C'est pas une preuve, ça, dit Souly, en faisant défiler l'image sur le
 téléphone de Léna, une main crispée sur son carnet. C'est une photo floue
 avec une légende inventée.
@@ -14,8 +24,8 @@ avec une légende inventée.
 — Essaie de le dire aux gens qui la partagent, soupira Léna. Mon père l'a
 reçue trois fois ce matin, de trois voisins différents.
 
-Karim, qui préparait du café dans un coin de la station, secoua la tête
-sans lever les yeux de sa tasse.
+Karim, qui préparait du café dans un coin de la station, secoua la tête,
+les yeux toujours rivés sur sa tasse.
 
 — C'est exactement le problème avec les rumeurs, dit-il. Une donnée
 sismique met des heures à être vérifiée, recoupée, publiée proprement. Une
@@ -34,14 +44,24 @@ autre chose que cette photo.
 table avec un peu plus de force que nécessaire. On a passé une soirée
 entière à chercher des preuves solides contre Rocheteau, et en une nuit,
 n'importe qui peut détruire la réputation de quelqu'un avec une seule
-photo floue et une légende inventée.
+photo floue et trois mots sortis de nulle part.
 
 — Bienvenue dans mon quotidien de scientifique, dit Karim, fatigué, sans
-la moindre trace d'amusement cette fois.
+la moindre trace d'amusement cette fois. Une étude sérieuse, ça prend des
+mois de relecture avant publication. Un mensonge bien tourné, ça prend
+trente secondes et un filtre photo. Le monde n'a jamais été très
+équitable, question vitesse.
+
+— On peut pas juste dire la vérité plus fort ? demanda Léna.
+
+— On peut essayer, dit Karim. Mais la vérité, en général, elle a besoin
+de preuves pour être convaincante. Un mensonge, lui, n'a besoin de rien
+du tout, à part d'être dit avec assez d'assurance.
 
 Sofia, assise en tailleur sur le canapé, Magma endormi contre sa jambe,
 fronça les sourcils, visiblement en train de se battre avec quelque chose
-qui la travaillait depuis la veille.
+qui la travaillait depuis la veille au soir, sans qu'elle ait encore
+trouvé les mots pour l'exprimer à voix haute.
 
 — On devrait aller la voir, dit-elle enfin.
 
@@ -63,12 +83,42 @@ expression pensive remplaçant peu à peu son scepticisme initial.
 — J'ai jamais complètement tort, dit Sofia, avec un aplomb qui fit sourire
 Karim malgré la gravité de la matinée.
 
+Karim les déposa en ville, non sans leur avoir fait promettre de « rester
+ensemble, ne provoquer personne, et rentrer directement si ça tourne mal
+», une liste de conditions que Sofia accepta avec un enthousiasme
+suspect, peu compatible, selon Souly, avec une réelle intention de les
+respecter à la lettre.
+
+Le trajet à pied jusqu'au parc municipal les fit traverser la place
+principale, où l'atmosphère avait changé du tout au tout depuis leur
+arrivée en ville, quelques jours plus tôt. Deux femmes, en les
+apercevant, interrompirent leur conversation d'un coup sec, avant de
+reprendre, à voix plus basse, dès qu'elles les crurent hors de portée
+d'oreille. Devant l'épicerie, Frédéric leur adressa un signe de tête
+inhabituellement bref, l'air préoccupé, occupé à décrocher une affiche
+de soutien au projet des Thermes qu'il venait visiblement de recoller à
+la hâte dans sa vitrine.
+
+— Ça sent pas bon, chuchota Léna, en accélérant le pas.
+
+— Ça sent la peur, dit Souly. Les gens ont peur pour leurs
+emplois, alors ils cherchent quelqu'un à blâmer. C'est plus facile que
+d'attendre les vraies réponses.
+
 ---
 
 Ils trouvèrent Amara non pas devant le chantier, où sa présence habituelle
 semblait s'être discrètement effacée depuis la veille, mais assise seule
 sur un banc du petit parc municipal, son téléphone posé à côté d'elle,
-affichant lui aussi la photo floue qui circulait partout en ville.
+affichant lui aussi la photo floue qui circulait partout en ville. Le
+parc, d'ordinaire animé à cette heure de la matinée par des retraités
+faisant leur ronde quotidienne, semblait s'être vidé d'un coup, comme si
+tout le monde avait discrètement choisi d'éviter le banc en question et
+sa seule occupante.
+
+— Elle a l'air toute seule, chuchota Léna, ce qui, dans sa bouche,
+sonnait moins comme une observation que comme un reproche silencieux
+adressé à toute la ville.
 
 — Vous venez me demander si c'est vrai ? dit-elle, sans même lever les
 yeux à leur approche, la voix lasse.
@@ -88,6 +138,19 @@ essaie de pas recommencer deux fois la même erreur.
 
 Amara resta silencieuse un moment, la mâchoire un peu tendue, avant de
 sembler décider que ces trois-là, au moins, méritaient une vraie réponse.
+
+— Vous savez ce qui est le plus dur, dans tout ça ? dit-elle, en
+détournant les yeux vers le kiosque désert au centre du parc. C'est pas
+la photo. C'est pas même les rumeurs. C'est que la première fois qu'on
+m'a arrêtée, ici, il y a un an, j'avais raison. J'avais vu une pompe
+illégale qui asséchait une source protégée. J'ai eu raison, et j'ai quand
+même passé une nuit au poste. Depuis, dans cette ville, avoir raison et
+avoir des ennuis, c'est devenu presque la même chose pour moi.
+
+— C'est injuste, dit Léna, doucement.
+
+— C'est comme ça, dit Amara, avec un haussement d'épaules qui trahissait
+plus de fatigue que d'indifférence réelle.
 
 — J'étais bien là, cette nuit-là, dit-elle finalement. Mais pas près des
 capteurs sismiques. Près de la source thermale sud, celle que le chantier
@@ -151,9 +214,54 @@ première fois depuis le début de la conversation, les traits tendus de
 son visage. Dis-lui que je ne l'ai toujours pas rendu. Et que je suis
 désolée.
 
+— Il vous en voudra pas, dit Léna. Papi dit toujours qu'un livre qui ne
+revient jamais, c'est un livre qui a trouvé quelqu'un qui en avait
+vraiment besoin.
+
+— C'est une belle façon de voir les choses, dit Amara, songeuse.
+
+Elle s'éloigna, sa pancarte roulée sous le bras plutôt que brandie, et
+les trois enfants restèrent un moment silencieux sur le banc, chacun
+digérant, à sa façon, tout ce qu'ils venaient d'entendre.
+
+— On devrait lui apporter à manger, un de ces jours, dit Sofia. Genre un
+vrai repas, pas juste un sandwich.
+
+— On devrait surtout lui prouver qu'elle a raison, corrigea Souly, en
+refermant son carnet. C'est le seul cadeau qui compte vraiment, dans son
+cas.
+
+Ils remontèrent vers l'arrêt où Karim les attendait déjà, adossé à sa
+camionnette, un sac de pain frais dans une main, l'autre occupée à
+scruter son téléphone avec une inquiétude qu'il ne prit pas la peine de
+dissimuler à leur approche.
+
+— Alors ? demanda-t-il, avant même qu'ils n'aient eu le temps de monter.
+
+— Une berline grise, un logo bleu, dit Sofia, fièrement. On a un vrai
+indice.
+
+Karim les écouta raconter toute la conversation en silence, le visage de
+plus en plus grave à mesure que le récit avançait, et démarra la
+camionnette seulement une fois le dernier détail livré.
+
+— Rentrons vérifier ça tout de suite, dit-il.
+
 ---
 
-De retour à la station, ils comparèrent la description de la voiture à
+De retour à la station, Karim étala sur la table toutes les photos qu'il
+possédait de la ville prises ces dernières semaines — des clichés de
+travail, pour la plupart, destinés à documenter l'avancée du chantier
+plutôt qu'à espionner qui que ce soit, mais qui, une fois passés au
+crible avec un œil neuf, révélaient des détails que personne n'avait
+songé à chercher jusque-là.
+
+— On cherche une berline grise, résuma Souly, en organisant les photos
+par ordre chronologique sur la table, méthode qu'il jugeait plus
+efficace que le tas informe que Karim avait proposé au départ. Avec un
+logo bleu sur la vitre arrière.
+
+Ils comparèrent la description de la voiture à
 tout ce qu'ils avaient déjà noté sur le Dr. Rocheteau — sans grand succès
 immédiat, jusqu'à ce que Karim, en fouillant dans ses propres photos
 prises lors de la conférence de presse, ne s'arrête net sur un cliché pris
@@ -192,3 +300,28 @@ perçant malgré la gravité du moment :
 
 — Progrès notable, dit Souly, sans pouvoir s'empêcher de sourire à son
 tour.
+
+— Cinq jours, répéta Karim, en se laissant tomber sur une chaise, la
+fatigue accumulée de ces derniers jours enfin visible sur son visage. Il
+va falloir un plan. Un vrai plan, pas juste de la bonne volonté et des
+photos floues.
+
+— On a Léna et son grand-père pour les archives, dit Souly, en comptant
+sur ses doigts. On a Amara pour ce qu'elle voit la nuit. On t'a toi pour
+les données. Et on s'a nous, pour... — il hésita, cherchant la formule
+juste.
+
+— Pour poser les questions que personne d'autre n'ose poser, compléta
+Sofia. C'est notre spécialité.
+
+Karim les regarda tous les deux un long moment, un sourire fatigué mais
+sincère éclairant enfin son visage, avant de se lever pour attraper le
+disque de sauvegarde une fois de plus.
+
+— D'accord, dit-il. Alors on continue. Ensemble.
+
+Ce soir-là, avant de s'endormir, Souly ajouta une dernière ligne à son
+carnet, sous la liste des suspects réduite à un seul nom :
+
+« Cinq jours. On sait qui. On sait pas encore comment le prouver
+totalement. On va trouver. »

@@ -42,7 +42,29 @@ Des lanternes en pierre volcanique sculptée bordaient les allées. Un
 buffet entier avait été consacré aux spécialités locales revisitées —
 Sofia goûta une verrine de lentilles vertes qu'elle jugea « bizarrement
 excellente », ce qui, dans sa bouche, constituait un compliment sincère
-malgré les apparences. Et au centre de la terrasse, entouré d'une
+malgré les apparences. Léna, elle, refusa catégoriquement d'y toucher, «
+par principe, les lentilles vertes normales sont déjà suffisamment
+discutables », ce qui n'empêcha pas Souly de goûter une petite quiche aux
+herbes qu'il jugea, après mûre réflexion, « correcte, sans plus ».
+
+Le maire de Roche-Fumée-les-Bains, un homme rond et jovial que tout le
+monde semblait appeler simplement « Monsieur le Maire » même en dehors
+des discours officiels, ouvrit la soirée par quelques mots depuis une
+petite estrade dressée près du buffet, saluant « une nouvelle ère pour
+notre belle ville », sous les applaudissements polis d'une foule plus
+occupée, dans l'ensemble, à se resservir en petits fours qu'à écouter
+vraiment.
+
+— Il dit ça à chaque inauguration, chuchota Karim aux enfants, pendant
+que le maire enchaînait sur les emplois créés et le rayonnement touristique
+attendu. L'année dernière, c'était pour la nouvelle piscine municipale.
+L'année d'avant, pour le rond-point.
+
+— Une nouvelle ère de rond-point, remarqua Souly, sans se retenir, ce qui
+arracha à Karim un vrai éclat de rire, le premier depuis leur arrivée sur
+la terrasse.
+
+Et au centre de la terrasse, entouré d'une
 balustrade en bois clair, trônait le clou de la soirée : un grand bassin
 extérieur rempli de boue thermale grise, chauffée naturellement par les
 sources souterraines, que les visiteurs pouvaient, moyennant un
@@ -85,14 +107,54 @@ Pardon. C'est injuste, je ne le connais pas assez pour dire ça.
 Mais son ton, tout le reste de la soirée, ne parvint jamais tout à fait à
 retrouver sa légèreté habituelle.
 
+Mme Delacroix elle-même vint finalement à leur rencontre, quelques
+minutes plus tard, un verre de jus de fruits à la main, le sourire figé
+un peu plus détendu de près que de loin.
+
+— Karim ! Toujours aussi discret dans les coins, à ce que je vois, dit-
+elle, avec une cordialité qui semblait sincère, malgré tout ce que Karim
+avait pu en dire un instant plus tôt. Et voici les fameux cousins de
+Paris ? Toute la ville en parle.
+
+— Sofia et Souly, dit Karim. Ils passent l'été avec moi.
+
+— Vous devez être fiers de votre cousin, dit Mme Delacroix, en se
+penchant vers eux avec l'attention un peu appuyée d'un adulte qui
+parlait rarement aux enfants sans y avoir été forcé par les circonstances.
+Il travaille dur pour cette ville, vous savez. Même si on n'est pas
+toujours d'accord sur tout.
+
+— Sur presque rien, en ce moment, dit Karim, avec un sourire qui
+adoucissait à peine la phrase.
+
+— Sur presque rien, concéda Mme Delacroix, sans se départir de son
+sourire. Mais on partage au moins un objectif : que cette ville s'en
+sorte bien. On finira peut-être par s'accorder sur la façon d'y arriver.
+
+Elle s'éloigna vers un autre groupe d'invités avant que Sofia n'ait eu le
+temps de formuler la question qui lui brûlait déjà les lèvres, et Karim,
+en la regardant partir, laissa échapper un soupir qui n'était ni tout à
+fait de la colère, ni tout à fait du soulagement.
+
+— Elle a pas l'air méchante, remarqua Sofia.
+
+— Elle ne l'est pas, dit Karim. C'est bien ça, le plus compliqué, dans
+cette histoire.
+
 ---
 
-C'est en voulant échapper à une conversation particulièrement ennuyeuse
-entre deux notables locaux sur le prix du mètre carré des futurs
-appartements de standing prévus autour des Thermes que Souly recula d'un
-pas de trop, sans regarder derrière lui, et sentit son talon rencontrer non
-pas le sol stable de la terrasse, mais le vide mou et tiède de la
-balustrade en bois qui cédait sous son poids.
+Souly s'était retrouvé coincé, contre sa volonté, entre deux notables
+locaux lancés dans un débat interminable sur le prix du mètre carré des
+futurs appartements de standing prévus autour des Thermes — l'un
+soutenant que « le marché allait exploser », l'autre rétorquant que « le
+marché allait surtout se dégonfler dès que les gens réaliseraient
+qu'habiter à côté d'un volcan restait un volcan, inauguration ou pas » —
+et n'avait trouvé, pour s'extraire poliment de la conversation, qu'un
+petit pas en arrière, prudent en apparence, catastrophique en pratique.
+
+Il recula d'un pas de trop, sans regarder derrière lui, et sentit son
+talon rencontrer non pas le sol stable de la terrasse, mais le vide mou
+et tiède de la balustrade en bois qui cédait sous son poids.
 
 Le temps qu'il réalise ce qui se passait, il basculait déjà en arrière,
 dans un grand éclaboussement de boue grise qui retentit sur toute la
@@ -157,12 +219,44 @@ D'habitude les gens y trempent juste un orteil.
 dignité qui, contre toute attente, réussit presque à faire rire l'employé
 lui-même.
 
+Le vestiaire proposé se révéla être une petite pièce annexe, réservée en
+temps normal au personnel, où Souly trouva, accroché à un cintre, un
+t-shirt aux couleurs des Thermes visiblement destiné à la vente en
+boutique — « je vous l'offre, avec la maison qui s'excuse pour la
+balustrade défaillante », lui précisa l'employé, en désignant le trou
+béant dans le bois où Souly était passé quelques minutes plus tôt.
+
+Quand il ressortit, encore un peu humide malgré ses efforts, le t-shirt
+flottant sur ses épaules maigres avec l'inscription « THERMES DU GRAND
+SOMBRE — ÉDITION D'OUVERTURE » imprimée en lettres dorées sur la
+poitrine, Sofia l'accueillit avec un sifflement admiratif qu'il choisit
+d'ignorer superbement.
+
+— Tu es officiellement un panneau publicitaire ambulant, dit-elle.
+
+— Au moins je sens plus l'œuf pourri, répliqua Souly, ce qui, dans les
+circonstances, constituait une victoire suffisante pour une seule
+soirée.
+
+Ils retrouvèrent Léna près du buffet, où elle avait entrepris, en leur
+absence, de goûter méthodiquement chaque petit four disponible « pour
+faire un vrai classement scientifique, pas juste une impression vague »,
+un carnet de notes miniature — bien plus petit que celui de Souly, mais
+tout aussi consciencieusement tenu — posé ouvert à côté de son assiette.
+
+— Verdict, annonça-t-elle, très sérieuse. Les mini-quiches au fromage de
+chèvre sont largement supérieures aux tartelettes à la tomate. Je peux
+vous montrer mon tableau de notation, si ça vous intéresse.
+
+— Ça nous intéresse énormément, dit Souly, avec un enthousiasme qui,
+pour une fois, n'avait rien de feint.
+
 ---
 
-C'est en cherchant une serviette propre, loin du bassin et de son public
-amusé, que Sofia remarqua Karim, immobile derrière un des présentoirs du
-buffet, le visage éclairé par l'écran de son téléphone, une expression
-qu'elle ne lui avait encore jamais vue.
+C'est en s'éloignant un instant du buffet, pour laisser Léna terminer sa
+dégustation en paix, que Sofia remarqua Karim, immobile derrière un des
+présentoirs, le visage éclairé par l'écran de son téléphone, une
+expression qu'elle ne lui avait encore jamais vue.
 
 — Karim ?
 
@@ -187,12 +281,33 @@ discutait toujours avec les journalistes en désignant, du bras, la
 silhouette sombre du volcan qui dominait toute la vallée dans la nuit
 tombante.
 
-— Karim, dit Souly, qui les avait rejoints, encore couvert de traces grises
-malgré ses efforts, ça va ?
+— Karim, dit Souly, qui les avait rejoints, son t-shirt doré des Thermes
+détonnant sous les lanternes, ça va ?
 
 — Ça va, dit Karim, d'un ton qui ne trompa ni Sofia ni Souly une seule
 seconde. Rentrons. On a du travail, ce soir, avant que ces données ne
 disparaissent pour de bon.
+
+Ils saluèrent Léna et M. Foucher à la hâte, sans donner de véritable
+explication à ce départ précipité, et Karim conduisit tout le trajet du
+retour dans un silence si dense que même Sofia, pourtant peu encline à
+laisser un silence s'installer sans rien en faire, n'osa pas le rompre
+avant d'être presque arrivée à la station.
+
+— Tu crois que c'est vraiment lui ? demanda-t-elle finalement, alors que
+les lumières du chantier des Thermes disparaissaient derrière eux dans le
+rétroviseur.
+
+— Je crois qu'il faut d'abord regarder les données avant de croire quoi
+que ce soit, dit Karim, sans quitter la route des yeux. C'est justement
+la leçon que j'essaie de vous enseigner depuis deux jours, et celle que
+je ferais bien de m'appliquer à moi-même, là, tout de suite.
+
+Souly, à l'arrière, sentit le poids du t-shirt doré des Thermes contre sa
+peau encore humide, et se demanda, sans le dire à voix haute, s'il
+allait un jour redevenir capable d'associer cette soirée à autre chose
+qu'à l'odeur tenace de boue thermale et à l'expression fermée de Karim
+dans le rétroviseur.
 
 ---
 
@@ -239,3 +354,29 @@ d'aucun mot pour se comprendre. Souly ouvrit son carnet à une page neuve et
 s'allonger dans les jours suivants :
 
 « Suspects : Dr. Rocheteau (accès, motif ?). Qui d'autre ? »
+
+— Attends, dit Sofia, en se penchant par-dessus son épaule. Motif ? On
+sait même pas pourquoi il ferait ça.
+
+— C'est vrai, admit Souly. Mais avoir un accès, c'est pas encore avoir
+un motif. Il nous manque les deux moitiés du problème.
+
+— Il travaille pour Mme Delacroix, dit Karim, lentement, comme s'il
+réfléchissait à voix haute pour la première fois. Et Mme Delacroix a
+besoin, plus que tout au monde, que ce volcan reste tranquille jusqu'à
+l'ouverture. Ça, ce serait déjà un motif, s'il se trouve que Rocheteau
+lui doit plus qu'une simple prestation.
+
+— On peut vérifier ça ? demanda Sofia.
+
+— Pas ce soir, dit Karim, en refermant enfin l'ordinateur, les yeux
+lourds de fatigue. Ce soir, on dort. Demain, on réfléchit avec la tête
+reposée plutôt qu'avec la colère toute fraîche. C'est une règle que
+j'essaie de suivre, même quand elle est difficile.
+
+Souly hocha la tête, referma son carnet, et resta un long moment, avant
+de s'endormir, à fixer le plafond du chalet en repensant à la phrase de
+Karim sur les deux moitiés du problème — l'accès d'un côté, le motif de
+l'autre — comme si ces deux moitiés, une fois réunies, allaient former
+quelque chose qu'aucun d'eux, ce soir-là, n'était encore tout à fait prêt
+à affronter.

@@ -1,11 +1,28 @@
 # Chapitre 6 — Le chiffre qui ne colle pas
 
-Le Dr. Rocheteau donna sa première conférence de presse officielle le
-surlendemain, sur le parvis de la mairie, devant une bonne trentaine de
-personnes rassemblées sous un soleil de plomb — journalistes locaux,
-commerçants inquiets, et une poignée de curieux venus surtout, à en juger
-par leurs conversations, pour la fraîcheur relative de l'ombre projetée par
-le grand marronnier de la place.
+L'annonce de la conférence de presse avait circulé en ville toute la
+matinée, placardée sur des affichettes fraîchement imprimées collées à
+la vitrine de la mairie, de l'épicerie, et même, remarqua Sofia en
+passant devant, sur la porte vitrée de la boulangerie de Frédéric,
+juste à côté de l'affiche annonçant les « pains spéciaux Thermes » qui
+les avait accueillis à leur arrivée.
+
+— « Le Dr. Rocheteau apportera des réponses définitives sur la sécurité
+du site », lut Sofia à voix haute, en plissant le nez. Ça sonne comme
+quelqu'un qui a déjà décidé ce qu'il allait dire avant même de regarder
+les données.
+
+— C'est exactement ce que ça sonne, confirma Karim, sombre, en les
+guidant vers la place de la mairie où une estrade avait été montée
+depuis l'aube.
+
+C'était là, sur ce même parvis, deux jours après la soirée des Thermes,
+que le Dr. Rocheteau donna sa première conférence de presse officielle,
+devant une bonne trentaine de personnes rassemblées sous un soleil de
+plomb — journalistes locaux, commerçants inquiets, et une poignée de
+curieux venus surtout, à en juger par leurs conversations, pour la
+fraîcheur relative de l'ombre projetée par le grand marronnier de la
+place.
 
 Karim y assista en retrait, Sofia et Souly de chaque côté de lui, Léna un
 peu plus loin avec son grand-père, qui avait fermé la médiathèque pour
@@ -29,10 +46,25 @@ s'expliquent entièrement par l'activité du chantier voisin — engins lourds,
 forage, circulation de camions. Rien qui justifie la moindre inquiétude
 pour l'ouverture des Thermes, dans exactement neuf jours.
 
-Un murmure soulagé parcourut la foule. Quelqu'un applaudit, timidement,
-avant que d'autres ne suivent, jusqu'à ce que la place entière résonne d'un
-applaudissement général, à l'exception d'un petit groupe compact, un peu à
-l'écart, où Karim se tenait immobile, les bras croisés, le visage fermé.
+Un murmure soulagé courut à travers la foule. Quelqu'un applaudit,
+timidement, avant que d'autres ne suivent, jusqu'à ce que la place
+entière résonne d'un applaudissement général, à l'exception d'un petit
+groupe compact, un peu à l'écart, où Karim se tenait immobile, les bras
+croisés, le visage fermé.
+
+M. Foucher, qui avait fini par retrouver ses lunettes de soleil sur son
+propre front en pleine ovation, applaudit lui aussi, un peu par réflexe
+social plus que par conviction, avant de se pencher vers Léna.
+
+— Il dit vraiment que tout va bien ? chuchota-t-il, assez fort pour que
+la moitié du premier rang l'entende distinctement.
+
+— C'est ce qu'il dit, Papi, chuchota Léna en retour, avec la résignation
+d'une habituée.
+
+— Eh bien, dit M. Foucher, en rangeant ses lunettes cette fois dans sa
+poche de chemise plutôt que sur son front, par prudence, moi je fais
+plus confiance à mes carnets météo qu'à un costume repassé.
 
 Mme Delacroix, installée au premier rang dans un tailleur clair
 soigneusement choisi pour l'occasion, ferma les yeux un instant, comme
@@ -65,6 +97,27 @@ Karim ne dit rien. Il se contenta de hocher la tête, une seule fois,
 lentement, d'une façon qui pouvait aussi bien vouloir dire « je comprends »
 que « je n'oublierai pas cette phrase ».
 
+Une autre journaliste, plus jeune, prit le relais, un carnet à spirale
+serré contre sa poitrine.
+
+— Docteur Rocheteau, insista-t-elle, vous confirmez qu'aucune évacuation
+n'est envisagée, même à titre préventif, avant l'ouverture ?
+
+— Absolument aucune, dit Rocheteau, avec l'assurance tranquille de
+quelqu'un qui avait répété la phrase devant un miroir. Une évacuation
+préventive, sans raison scientifique solide, ferait plus de mal que de
+bien à cette ville — paniquer une population sans motif, c'est une
+irresponsabilité que je ne suis pas prêt à cautionner.
+
+— Et si vous vous trompiez ? insista la journaliste.
+
+Rocheteau sourit, un sourire large et professionnel qui ne montait,
+remarqua Sofia, pas davantage jusqu'à ses yeux que celui de Mme
+Delacroix un peu plus tôt.
+
+— Trente ans de carrière, dit-il simplement, comme si le chiffre seul
+suffisait à clore le débat.
+
 — Il ment, souffla Souly, si bas que seule Sofia put l'entendre.
 
 — On sait pas encore ça, dit-elle, avec une prudence toute nouvelle.
@@ -72,14 +125,44 @@ que « je n'oublierai pas cette phrase ».
 — Ces courbes sont plates, Sofia. Je les ai vues, celles de Karim, avant
 que quelqu'un les recalibre. Elles étaient pas plates du tout.
 
+Sur le trajet de retour, Karim resta silencieux plus longtemps qu'à son
+habitude, les mains crispées sur le volant, jusqu'à ce que Sofia,
+assise à l'arrière à côté de Souly, se risque à briser le silence.
+
+— Vous allez faire quoi, maintenant ? demanda-t-elle.
+
+— Je vais vérifier, dit Karim. Encore et encore, jusqu'à être
+absolument certain de ce que je vois. Parce que si j'accuse publiquement
+un collègue sur une simple impression, même une impression forte, je
+perds toute crédibilité pour de bon — et là, plus personne ne
+m'écoutera, pas même quand j'aurai vraiment raison.
+
+— Ça n'a pas l'air d'une impression, dit Souly. Ça a l'air d'un fait.
+
+— Un fait qu'il va falloir prouver, dit Karim. Ce qui n'est jamais aussi
+simple qu'on l'aimerait.
+
 ---
 
-De retour à la station, Karim ouvrit en silence le vieux disque de
+De retour à la station, Karim se dirigea droit vers un tiroir fermé à
+clé sous le bureau principal, un tiroir que Sofia et Souly n'avaient
+encore jamais vu ouvert en trois jours de vie commune, et en sortit un
+disque dur externe, gris et cabossé, portant une étiquette manuscrite
+presque effacée : « SAUVEGARDE BRUTE — NE JAMAIS MODIFIER ».
+
+— C'est quoi, ça ? demanda Sofia.
+
+Karim ouvrit en silence le vieux disque de
 sauvegarde externe qu'il utilisait, par habitude de prudence, pour
 conserver une copie brute de chaque relevé, avant toute modification
 ultérieure — une pratique qu'il avait adoptée, expliqua-t-il, « après
 qu'un collègue a perdu six mois de données à cause d'une simple mise à
 jour ratée ».
+
+— Depuis, dit-il, je copie tout, deux fois par jour, sur ce disque, que
+personne d'autre que moi ne touche jamais. Ça m'a valu quelques moqueries,
+au début, de la part de collègues qui trouvaient ça excessif. Aujourd'hui,
+je ne regrette absolument rien.
 
 — Comparons, dit-il, en ouvrant côte à côte deux fenêtres sur son écran :
 d'un côté, les données brutes du disque de sauvegarde ; de l'autre, celles
@@ -127,12 +210,35 @@ secousses n'apparaissent même plus dans les relevés bruts — et, en plus de
 cas où une secousse plus grosse passerait quand même à travers les
 mailles du filet.
 
+— Deux mensonges au lieu d'un, résuma Souly, en notant les deux
+mécanismes l'un sous l'autre. Un à la source, un à la sortie. Comme ça,
+même si quelqu'un vérifie le capteur, les chiffres publiés restent
+faux quand même.
+
+— C'est exactement le genre de double sécurité qu'utiliserait quelqu'un
+qui sait qu'on pourrait un jour vérifier son travail, dit Karim, sombre.
+Ce n'est pas de l'improvisation. C'est un plan pensé à l'avance.
+
 ---
 
 Ils passèrent le reste de l'après-midi à comparer, ligne par ligne, chaque
 secousse enregistrée depuis la soirée des Thermes, Souly recopiant chaque
 paire de chiffres dans son carnet avec une minutie qui aurait impressionné
-n'importe quel vrai policier scientifique. Le motif, une fois assemblé, ne
+n'importe quel vrai policier scientifique. Sofia, moins patiente pour un
+travail aussi méthodique, s'était vu confier la tâche de vérifier les
+additions de son frère, un rôle qu'elle prit très au sérieux, jusqu'à
+repérer, vers la quinzième ligne, une erreur d'arrondi que Souly refusa
+d'abord d'admettre avant de se rendre à l'évidence des chiffres.
+
+— Tu vois, dit Sofia, avec la satisfaction manifeste de quelqu'un qui
+venait de prouver son utilité. Même les meilleurs enquêteurs ont besoin
+d'un deuxième regard.
+
+— Techniquement, c'était une erreur d'un centième, protesta Souly.
+
+— Techniquement, c'est quand même une erreur, répliqua Sofia.
+
+Le motif, une fois assemblé, ne
 laissait plus beaucoup de place au doute :
 chaque secousse publique paraissait exactement, systématiquement, plus
 faible que sur les données brutes — jamais assez pour paraître suspect à
@@ -158,6 +264,22 @@ volcan.
 — Il nous faut le prendre en train de le faire, dit-il enfin. Pas après.
 Pendant.
 
+— Comment on fait ça, concrètement ? demanda Sofia. On peut pas rester
+plantés devant son bureau vingt-quatre heures sur vingt-quatre.
+
+— On observe d'abord ses habitudes, dit Karim. Personne ne triche de
+façon aléatoire. Il y a toujours une routine, un moment précis, une
+méthode répétée. Si on comprend son rythme, on saura exactement quand
+et où le surprendre.
+
+— Comme les vagues, dit Souly, lentement. Elles paraissent toutes
+différentes, mais si on les observe assez longtemps, il y a toujours un
+motif qui se dessine.
+
+— Exactement comme les vagues, confirma Karim, avec un sourire qui
+retrouvait, pour la première fois depuis la conférence de presse, un peu
+de sa chaleur habituelle. Vous apprenez vite, tous les deux.
+
 Léna les rejoignit en fin de journée, essoufflée d'avoir pédalé depuis la
 médiathèque sans s'arrêter une seule fois, un vieux carnet relié de cuir
 serré contre sa poitrine comme un trésor.
@@ -166,6 +288,17 @@ serré contre sa poitrine comme un trésor.
 journal personnel d'une institutrice, de l'époque de la dernière secousse
 importante. Papi l'avait rangé dans la mauvaise boîte depuis des années,
 classé sous « correspondance diverse » au lieu de « événements notables ».
+
+— Comment tu l'as trouvé, alors ? demanda Sofia.
+
+— Papi a eu un de ses pressentiments, dit Léna, avec un mélange
+d'exaspération affectueuse et de fierté sincère. Il avait raison, cette
+fois. Il a toujours raison, une fois sur dix, mais quand c'est la bonne
+fois, ça vaut le coup.
+
+Elle s'assit sur le canapé, à côté de Sofia, écartant délicatement Magma
+qui protesta d'un miaulement sonore avant de se réinstaller, à peine
+dérangé, sur ses genoux à elle plutôt que sur ceux de Sofia.
 
 Elle ouvrit le carnet à une page marquée d'un ruban élimé, et lut, d'une
 voix hésitante sur l'écriture ancienne mais de plus en plus assurée à
@@ -190,6 +323,32 @@ même, sur mes propres capteurs — ceux qui n'ont pas été trafiqués.
 
 Personne, dans la pièce, ne trouva la force de commenter cette dernière
 phrase à voix haute.
+
+Karim raccompagna Léna jusqu'à son vélo, à la nuit tombée, un moment
+d'intimité que Sofia et Souly respectèrent en silence, occupés à ranger
+les dernières pages de notes éparpillées sur la table. Quand il revint,
+seul, il resta un long moment debout devant l'écran principal, à observer
+le tracé qui continuait de dessiner, imperturbable, ses lignes vertes
+dans l'obscurité grandissante du soir.
+
+— Neuf jours, dit-il finalement, plus pour lui-même que pour les
+enfants. Neuf jours avant l'ouverture. Et quatre-vingt-dix-neuf ans
+depuis la dernière fois que cette montagne a vraiment parlé.
+
+— Ça fait beaucoup de chiffres qui se répondent, dit Souly.
+
+— Ça fait beaucoup trop de chiffres qui se répondent, corrigea Karim,
+pour que ce soit encore un hasard.
+
+Il éteignit l'écran principal — un geste qu'il ne faisait jamais,
+d'ordinaire, préférant laisser les capteurs veiller toute la nuit sous
+son regard, même endormi — et se tourna vers les deux enfants avec une
+expression que Sofia n'aurait su décrire que comme une détermination
+neuve, presque farouche.
+
+— Demain, dit-il, on arrête de collecter des preuves passives. On
+commence à chercher activement la faille de Rocheteau. Et on ne
+s'arrêtera pas avant de l'avoir trouvée.
 
 Cette nuit-là, alors que Sofia dormait déjà profondément sur le canapé,
 Magma roulé en boule contre son épaule, Souly resta longtemps éveillé,

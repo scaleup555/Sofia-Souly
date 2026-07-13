@@ -6,6 +6,27 @@ expliqua-t-il, ce qui parut à Souly l'excuse la plus scientifiquement
 respectable jamais inventée pour tirer des enfants du lit un jour de
 vacances.
 
+Sofia émergea de son lit de camp avec la lenteur méfiante de quelqu'un qui
+soupçonnait un piège, les cheveux dressés dans toutes les directions, et
+faillit marcher sur Magma qui s'était installé, pendant la nuit, en
+travers du passage entre les deux lits, apparemment décidé à leur
+compliquer la vie dès le réveil.
+
+— Il fait ça exprès, marmonna-t-elle, en enjambant le chat qui ne daigna
+même pas ouvrir son œil unique.
+
+— Il fait toujours ça exprès, dit Karim, depuis la cuisine, où une
+odeur de café et de pain grillé commençait à se répandre dans toute la
+pièce. Petit déjeuner dans cinq minutes. Ensuite, cours magistral. Vous
+avez le droit de protester, mais ça ne changera rien au programme.
+
+Le petit déjeuner se limita, en pratique, à des tartines de confiture de
+mûres — « faite maison, l'année dernière, par une voisine qui insiste pour
+m'en donner trois pots par saison alors que je ne cuisine jamais » — et
+d'un chocolat chaud que Karim prépara avec un sérieux presque
+scientifique, mesurant le lait au millilitre près « parce qu'un bon
+protocole, ça compte aussi pour le chocolat ».
+
 Devant l'écran principal de la station, une tasse de chocolat chaud fumant
 entre les mains, Sofia et Souly regardèrent Karim dérouler sur le clavier
 une série de graphiques qu'il connaissait visiblement par cœur.
@@ -47,6 +68,36 @@ une attention toute neuve. Avec trois capteurs différents, autour du
 volcan, on peut croiser les délais et localiser précisément le point de
 départ de chaque secousse. C'est ce que j'ai fait hier soir, en rentrant.
 
+Pour illustrer, il tapa deux fois du poing sur la table, à quelques
+secondes d'intervalle, et demanda à Sofia et Souly de fermer les yeux et
+de lever la main dès qu'ils sentaient la vibration remonter à travers le
+bois.
+
+— C'est un exercice qu'on fait faire aux nouveaux stagiaires, expliqua-t-il.
+Vous allez voir que celui qui a la main posée le plus près du point
+d'impact la sent en premier, même si la différence se compte en centièmes
+de seconde.
+
+Souly, la main bien à plat contre la table, leva la sienne une fraction de
+seconde avant Sofia, qui protesta aussitôt qu'il avait triché en gardant
+un œil entrouvert.
+
+— J'ai rien vu du tout, se défendit Souly. J'étais juste plus proche.
+
+— Il était effectivement plus proche, confirma Karim, arbitre impartial.
+Et c'est exactement le principe : plus on est proche du point d'impact,
+plus vite la vibration arrive. À l'échelle d'un volcan, on remplace mon
+poing sur la table par une secousse, et les mains par des sismographes.
+Le principe ne change pas d'un poil.
+
+— Donc en fait, dit Sofia, en se frottant la paume comme si elle pouvait
+encore y sentir la vibration, un sismographe, c'est juste une main
+géante, très patiente, qui attend de sentir quelque chose ?
+
+— C'est une des meilleures définitions que j'aie jamais entendues
+aujourd'hui, dit Karim, et ça fait pourtant deux définitions excellentes
+avant même le petit déjeuner terminé.
+
 Il fit apparaître une carte de la région, où un petit point rouge clignotait
 à mi-hauteur du flanc du Grand Sombre, nettement plus haut que le village.
 
@@ -82,7 +133,7 @@ Parce que si je me trompe, et qu'il est en réalité seulement dormant...
 Il n'eut pas besoin de terminer sa phrase.
 
 Karim leur montra ensuite comment lire une échelle de magnitude — pas
-l'échelle de Richter, corrigea-t-il, une confusion que « même les
+l'échelle de Richter, précisa-t-il, une confusion que « même les
 journalistes font tout le temps », mais l'échelle de magnitude de moment,
 plus précise et plus utilisée aujourd'hui par les vrais sismologues — et
 comment distinguer, sur un tracé, une secousse tectonique classique d'un
@@ -119,7 +170,26 @@ sans la moindre trace de reproche réel dans la voix.
 
 Après la leçon théorique, Karim proposa une sortie sur le terrain « pour
 voir à quoi ressemble vraiment un capteur, plutôt qu'une ligne sur un
-écran ». Ils grimpèrent tous les trois à pied jusqu'à une petite plateforme
+écran ». Le sentier grimpait en lacets serrés à travers une forêt de
+sapins de plus en plus clairsemée, laissant peu à peu place à une roche
+noire et poreuse, criblée de petits trous, sur laquelle Sofia manqua
+plusieurs fois de glisser avant de trouver le bon rythme de marche.
+
+— C'est quoi, cette roche bizarre ? demanda-t-elle, en ramassant un
+fragment léger comme une éponge.
+
+— De la pierre ponce, dit Karim. Elle se forme quand du magma, chargé de
+bulles de gaz, refroidit tellement vite qu'il fige toutes ses bulles à
+l'intérieur, comme un gâteau qui lèverait et qui serait figé au four
+avant d'avoir eu le temps de retomber. C'est tellement léger que ça flotte
+sur l'eau.
+
+— Ça flotte vraiment ? dit Souly, sceptique.
+
+— Vraiment vraiment, dit Karim. Vous testerez, un de ces jours, dans
+l'évier.
+
+Ils grimpèrent tous les trois à pied jusqu'à une petite plateforme
 métallique fichée dans la roche, à une vingtaine de minutes de marche de la
 station, entourée d'un grillage bas et d'un panneau qui annonçait, en
 lettres un peu rouillées : « SITE DE MESURE — OBSERVATOIRE DU GRAND SOMBRE
@@ -140,6 +210,19 @@ roche.
 augmentent souvent avant qu'un volcan se réveille vraiment, parce que le
 magma qui remonte relâche des gaz avant même de faire trembler quoi que ce
 soit.
+
+— On le sent, cette odeur de soufre ? demanda Sofia, en reniflant l'air
+avec méfiance, comme si elle s'attendait à être trahie par ses propres
+narines.
+
+— Pas encore, dit Karim, avec un sourire amusé. Le capteur détecte des
+quantités beaucoup trop petites pour votre nez. Mais dans certaines
+régions volcaniques très actives, on sent vraiment cette odeur d'œuf
+pourri flotter en permanence — les habitants finissent par ne plus la
+remarquer du tout, un peu comme on ne sent plus l'odeur de sa propre
+maison au bout d'un moment.
+
+— Ça doit être un sacré souvenir de vacances, remarqua Souly.
 
 Souly s'accroupit devant le boîtier gris, fasciné, son carnet déjà ouvert
 sur ses genoux.
@@ -185,7 +268,21 @@ plus raide, plus formel. Non, tout va bien, je... oui, j'ai vu la petite
 secousse d'hier. Trois virgule deux, rien d'alarmant en soi, mais...
 
 Un silence. Karim écoutait, la mâchoire de plus en plus serrée, un stylo
-tapotant nerveusement contre le bord de la table.
+tapotant nerveusement contre le bord de la table. Sofia, qui avait
+délaissé son onde P depuis longtemps, distinguait, sans en saisir les
+mots exacts, une voix de femme au débit rapide et pressant, qui semblait
+ne laisser à Karim que de très courtes fenêtres pour répondre.
+
+— Une voix qui parle vite comme ça, chuchota Souly à sa sœur, c'est
+souvent une voix qui a peur de quelque chose. On l'a déjà vu, avec
+Julien, l'année dernière, juste avant qu'il craque et avoue pour les
+vitrines.
+
+— C'est pas pareil, chuchota Sofia en retour. Mme Delacroix a rien volé,
+elle.
+
+— Pas encore prouvé, corrigea Souly, à voix tellement basse que même
+Sofia dut se pencher pour l'entendre.
 
 — Je comprends l'importance de l'inauguration, dit-il enfin. Mais mon
 travail, c'est de surveiller le volcan, pas de rassurer le public à tout
@@ -296,6 +393,31 @@ métier, en une phrase.
 Souly, qui avait écouté sans prononcer un mot, referma lentement son
 carnet, la phrase déjà gravée quelque part plus profondément que sur le
 papier.
+
+---
+
+Karim les emmena, avant la tombée de la nuit, vérifier une dernière fois
+les relevés du jour sur l'écran principal — une routine qu'il semblait
+suivre chaque soir, quelle que soit la fatigue accumulée. Il fit défiler
+lentement la journée entière, les enfants penchés de chaque côté de son
+fauteuil, jusqu'à s'arrêter sur un petit pic, à peine visible, enregistré
+en fin d'après-midi.
+
+— Ça, c'est nouveau, dit-il, plus pour lui-même que pour eux, en zoomant
+sur le tracé. Pas une secousse. Un léger tremor, très bref. Ça ne
+ressemble à rien de ce qu'on a vu ces derniers mois.
+
+— C'est grave ? demanda Sofia, aussitôt alerte.
+
+— C'est intéressant, corrigea Karim, ce qui, dans sa bouche, ne voulait
+pas tout à fait dire la même chose que « pas grave ». On va le surveiller
+de près.
+
+Il ajouta une annotation sur le graphique, d'un geste précis, presque
+machinal, et referma l'ordinateur portable qu'il utilisait pour ses
+propres notes de recherche, celui qu'il gardait toujours séparé du
+système principal — « par prudence », avait-il expliqué un peu plus tôt
+dans la journée, sans donner davantage de détails.
 
 Ce soir-là, en observant depuis la fenêtre du chalet les lumières du
 chantier des Thermes qui continuaient de scintiller tard dans la nuit,
