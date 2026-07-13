@@ -42,7 +42,8 @@ un temps record.
 toujours un petit bout de vous deux sur cette montagne, même après votre
 départ.
 
-— C'est un peu comme signer un tableau, dit Sofia, songeuse.
+— C'est un peu comme signer un tableau, dit Sofia, les yeux plissés vers
+l'horizon.
 
 — Sauf que ce tableau-là mesure des tremblements de terre, précisa
 Souly, ce qui fit rire les deux autres.

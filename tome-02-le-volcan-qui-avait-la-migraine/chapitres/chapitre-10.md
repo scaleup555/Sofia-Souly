@@ -33,7 +33,7 @@ Karim connaissait de vue depuis des années. Sa voiture n'est plus au
 parking de la mairie. On le recherche.
 
 Mme Delacroix, assise au premier rang, le visage aussi gris que celui du
-maire, ne dit rien pendant un long moment, les yeux fixés sur la photo
+maire, resta muette, les yeux fixés sur la photo
 affichée à l'écran.
 
 — Je ne savais pas, dit-elle finalement, d'une voix qui tremblait
@@ -49,6 +49,25 @@ Sofia, assise entre Souly et Léna au fond de la salle, sentit son frère se
 raidir légèrement à côté d'elle — la même phrase, presque mot pour mot,
 que celle que Karim leur avait dite lui-même, des jours plus tôt, sur les
 marches du chalet.
+
+Mme Delacroix se leva, lentement, comme si chaque mot lui coûtait un
+effort physique réel.
+
+— Vous saviez, dit-elle à Karim, sans agressivité, presque avec
+curiosité. Vous saviez depuis le début que quelque chose clochait avec
+lui. Pourquoi vous ne me l'avez pas dit plus tôt, directement, sans
+passer par des enfants et des photos volées ?
+
+— Je vous l'ai dit, répondit Karim, sans détour. Plusieurs fois. Vous ne
+vouliez pas l'entendre, parce que ça remettait en cause tout ce que vous
+aviez déjà décidé de croire. J'ai fini par comprendre qu'il me fallait
+une preuve si évidente que même quelqu'un qui refuse d'écouter serait
+obligé de la voir.
+
+Mme Delacroix accusa le coup en silence, la mâchoire serrée, avant de se
+rasseoir sans ajouter un mot de plus — ce qui, remarqua Sofia, ressemblait
+davantage à un aveu que n'importe quelle phrase qu'elle aurait pu
+prononcer.
 
 Un conseiller municipal, assis au deuxième rang, leva la main, le visage
 soucieux.
@@ -203,7 +222,8 @@ avec son grand-père et qui avait écouté le résumé complet sur le trottoir,
 avec une justesse qui surprit les adultes présents, quand on fait quelque
 chose de mal pour de l'argent.
 
-— C'est exactement ce que tout le monde dit, confirma Karim, songeur.
+— C'est exactement ce que tout le monde dit, dit Karim, le regard perdu
+au loin.
 
 La photo floue d'Amara, qui avait fait le tour de la ville quelques jours
 plus tôt, disparut des téléphones presque aussi vite qu'elle y était

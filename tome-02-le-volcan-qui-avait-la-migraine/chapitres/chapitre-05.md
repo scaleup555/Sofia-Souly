@@ -240,7 +240,7 @@ depuis des mois que quelque chose ne tourne pas rond.
 — Pourquoi vous continuez à manifester, alors, dit Sofia, si tout le
 monde vous déteste pour ça ?
 
-Amara la regarda un long moment, avec une expression que Sofia ne sut pas
+Amara la dévisagea, silencieuse, une expression que Sofia ne sut pas
 tout à fait interpréter — un mélange de fatigue et de quelque chose de
 plus dur, de plus déterminé, qui perçait malgré tout.
 
@@ -347,7 +347,7 @@ dernière fois son carnet et entreprit de recopier, au propre, tout ce
 qu'ils avaient appris depuis deux jours : la comptine, les quatre
 événements historiques, le motif des cent ans, le capteur trafiqué, et
 maintenant, en tête de liste, un seul nom souligné trois fois. Il
-s'arrêta un instant, le crayon suspendu, avant d'ajouter, tout en bas de
+s'arrêta, le crayon suspendu, avant d'ajouter, tout en bas de
 la page, une question qu'il n'avait encore posée à personne, même pas à
 Sofia :
 

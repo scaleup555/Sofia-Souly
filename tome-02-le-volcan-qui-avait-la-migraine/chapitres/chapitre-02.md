@@ -291,7 +291,7 @@ en parler.
 
 Un autre silence, plus long.
 
-— Douze jours, répéta Karim. Oui. Je comprends. Je ne communiquerai rien
+— Onze jours, répéta Karim. Oui. Je comprends. Je ne communiquerai rien
 sans données solides, c'est une promesse que je peux vous faire sans
 problème. Mais je ne promets pas de me taire si les données deviennent
 solides.
@@ -304,7 +304,7 @@ bureau.
 conversation malgré ses efforts de dessin.
 
 — Mme Delacroix, dit Karim. Elle a investi toutes ses économies dans les
-Thermes. L'ouverture, dans douze jours, c'est le jour le plus important de
+Thermes. L'ouverture, dans onze jours, c'est le jour le plus important de
 sa vie professionnelle. Et elle a très peur qu'une rumeur de « volcan
 dangereux » fasse fuir les premiers clients avant même l'ouverture.
 
@@ -327,7 +327,7 @@ Souly, qui avait déjà repris le sien depuis un moment, leva les yeux.
 
 — On peut aider ? demanda-t-il.
 
-Karim le regarda un long moment, comme s'il soupesait réellement la
+Karim le regarda sans répondre tout de suite, comme s'il soupesait réellement la
 question plutôt que d'y répondre par politesse.
 
 — Vous pouvez surtout apprendre, dit-il finalement. Et si un jour vous
@@ -425,4 +425,4 @@ malgré l'heure, malgré la fatigue apparente des ouvriers qui rentraient
 enfin chez eux les uns après les autres, Sofia se demanda, sans le dire à
 voix haute, combien de temps il restait encore avant que quelqu'un,
 quelque part sur cette montagne, ne soit obligé de choisir entre dire la
-vérité et protéger douze jours d'attente.
+vérité et protéger onze jours d'attente.

@@ -465,7 +465,7 @@ mouvements-là qu'on essaie de comprendre.
 Quand vint enfin l'heure de se coucher, Karim les aida à installer les
 deux lits de camp dans le coin le moins encombré de la pièce, glissa un
 oreiller supplémentaire sous la tête de Sofia sans qu'elle ait rien
-demandé, et resta un instant debout au-dessus d'eux, les mains sur les
+demandé, et resta debout au-dessus d'eux, les mains sur les
 hanches, avec l'air de quelqu'un qui cherchait la bonne phrase pour finir
 la soirée.
 

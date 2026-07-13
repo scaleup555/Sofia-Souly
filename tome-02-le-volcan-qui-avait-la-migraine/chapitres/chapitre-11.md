@@ -4,8 +4,8 @@ Les trois jours précédant la réunion publique furent occupés, pour toute
 l'équipe improvisée, par une préparation méthodique digne des plus
 grandes conférences scientifiques que Karim ait jamais montées — sauf
 que celle-ci se déroulait sur la table encombrée de la médiathèque,
-plutôt que dans un amphithéâtre universitaire, et que ses principaux
-architectes avaient respectivement onze et douze ans.
+plutôt que dans un amphithéâtre universitaire, et que Léna et Souly, ses
+deux plus jeunes architectes, avaient respectivement onze et douze ans.
 
 — Il faut que ce soit clair pour tout le monde, avait insisté M. Foucher,
 en réorganisant pour la troisième fois l'ordre des documents historiques.
@@ -27,6 +27,30 @@ la comprendre du premier coup d'œil.
 viens de faire, en une soirée, ce que beaucoup de scientifiques
 n'apprennent jamais à faire en toute une carrière : rendre une donnée
 compliquée simple, sans la rendre fausse.
+
+La veille de la réunion, ils organisèrent une répétition complète dans
+la grande salle vide de la médiathèque, Frédéric le boulanger —
+réquisitionné pour l'occasion entre deux fournées, un tablier encore
+noué à la taille — jouant le rôle d'un public sceptique, posant des
+questions volontairement difficiles depuis le fond de la pièce.
+
+— Et si quelqu'un demande pourquoi on n'a pas simplement fermé le
+chantier au premier soupçon ? lança-t-il, bras croisés.
+
+Sofia se figea, cherchant une réponse, avant que Souly ne prenne le
+relais.
+
+— Parce qu'un soupçon, c'est pas une preuve, dit-il. Fermer un chantier
+sans preuve, ça détruit des emplois pour rien si on se trompe. C'est
+tout le problème qu'on essaie d'expliquer ce soir : ni croire aveuglément,
+ni rejeter aveuglément. Vérifier.
+
+— Pas mal du tout, dit Frédéric, impressionné malgré son rôle de
+trouble-fête professionnel. Vous devriez faire ça pour gagner votre vie,
+tous les deux.
+
+— On y pense, dit Sofia, très sérieuse, ce qui fit rire toute la petite
+assemblée réunie pour la répétition.
 
 La réunion publique fut organisée trois jours plus tard, dans la salle des
 fêtes de Roche-Fumée-les-Bains, la seule assez grande pour accueillir ce
@@ -52,7 +76,7 @@ n'ayant pas laissé son vieux registre de cuir quitter ses mains depuis le
 matin.
 
 — Mesdames et messieurs, commença Karim, sa voix portant sans effort
-jusqu'au fond de la salle. Il y a trois semaines, cette ville se préparait
+jusqu'au fond de la salle. Il y a deux semaines, cette ville se préparait
 à ouvrir un complexe thermal juste au pied d'un volcan que tout le monde
 croyait éteint depuis trois mille ans. Nous savons maintenant que ce
 n'était pas tout à fait exact. Mais ce que je voudrais partager avec vous
@@ -132,7 +156,7 @@ ou on recommence avec les anges ?
 
 — CENT ANS, PAPI, cria Léna en retour, ce qui déclencha, malgré la gravité
 générale de la soirée, un éclat de rire bienvenu qui gagna plusieurs
-rangées de la salle et détendit, l'espace d'un instant, l'atmosphère
+rangées de la salle et détendit brièvement l'atmosphère
 tendue jusque-là.
 
 Un silence tomba sur la salle, différent de tous les autres silences de la
@@ -231,7 +255,7 @@ sismique permanent pour la ville. Et refaire les Thermes, plus tard, une
 fois que ce sera vraiment sûr — avec vos capteurs intégrés dès le départ,
 cette fois, pas cachés dans un coin qu'on préfère ne pas regarder.
 
-Karim la regarda un long moment, avant de hocher la tête, une seule fois,
+Karim la regarda sans rien dire, avant de hocher la tête, une seule fois,
 lentement.
 
 — Ça, dit-il, c'est une décision que je peux respecter.

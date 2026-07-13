@@ -117,7 +117,7 @@ heure, observateur, lieu, observation.
 
 ---
 
-Ils passèrent les deux jours suivants à observer, discrètement, les
+Ils passèrent les trois jours suivants à observer, discrètement, les
 allées et venues du Dr. Rocheteau — depuis le café en face de son bureau
 temporaire installé dans les locaux des Thermes, où Léna et Sofia
 partageaient un chocolat chaud en faisant semblant de faire leurs devoirs
@@ -187,6 +187,34 @@ itinéraire d'un mètre — un détail que Souly avait souligné trois fois
 dans son carnet, convaincu qu'un tel niveau de régularité ne pouvait pas
 être un simple hasard chez un homme par ailleurs si soucieux de paraître
 imprévisible en public.
+
+— Regardez ça, dit-il, le troisième soir, en étalant trois pages de son
+carnet côte à côte sur la table de la station. Seize heures pile, chaque
+jour. Sauf que le premier jour, il portait une sacoche en cuir marron.
+Le deuxième jour, la même sacoche. Le troisième jour...
+
+— La même sacoche, dit Sofia, qui ne voyait pas où il voulait en venir.
+
+— Oui, mais regardez l'épaisseur, dit Souly, en désignant ses propres
+petits croquis, dessinés de mémoire à chaque observation. Le premier
+jour, elle est presque plate. Le troisième jour, elle est nettement plus
+gonflée. Il ajoute quelque chose dedans, jour après jour.
+
+Karim se pencha sur les croquis, un sourcil levé.
+
+— Des relevés supplémentaires, peut-être, dit-il. Ou des preuves qu'il
+prépare à détruire, une fois l'ouverture passée et le danger écarté.
+
+— Ou les deux, dit Léna, qui avait fini par nettoyer tant bien que mal
+son plan taché d'encre. Un homme qui prépare sa sortie n'emporte jamais
+qu'une seule chose à la fois.
+
+— C'est un bon détail, dit Karim. Pas une preuve. Mais un bon détail de
+plus, dans un dossier qui commence à en compter beaucoup.
+
+Souly griffonna l'observation à la hâte dans la marge de son carnet,
+soulignée deux fois, avant de la ranger avec le reste — une pièce
+supplémentaire d'un puzzle qui, lentement, prenait forme.
 
 Le motif qui se dessina, au bout de deux jours, était d'une régularité
 presque comique : Rocheteau quittait son bureau chaque après-midi vers

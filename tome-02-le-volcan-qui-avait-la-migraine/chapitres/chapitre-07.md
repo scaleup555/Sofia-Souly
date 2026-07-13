@@ -105,6 +105,20 @@ la hâte dans sa vitrine.
 emplois, alors ils cherchent quelqu'un à blâmer. C'est plus facile que
 d'attendre les vraies réponses.
 
+Une voisine de M. Foucher, qui les croisa près de la fontaine, s'arrêta
+net, une main sur la poitrine.
+
+— C'est bien vous qui traînez avec cette fille du chantier ? demanda-t-elle,
+plus curieuse qu'hostile. On raconte qu'elle a encore fait des siennes,
+cette nuit.
+
+— On raconte beaucoup de choses en ce moment, dit Sofia, poliment mais
+fermement. On va justement vérifier lesquelles sont vraies.
+
+La femme resta interdite, visiblement peu habituée à ce qu'une enfant de
+huit ans lui réponde avec autant d'aplomb, et les regarda s'éloigner
+sans trouver de réplique.
+
 ---
 
 Ils trouvèrent Amara non pas devant le chantier, où sa présence habituelle
@@ -155,7 +169,10 @@ plus de fatigue que d'indifférence réelle.
 — J'étais bien là, cette nuit-là, dit-elle finalement. Mais pas près des
 capteurs sismiques. Près de la source thermale sud, celle que le chantier
 a asséchée. Je relevais mes propres mesures d'humidité du sol, comme tous
-les soirs. Il était environ vingt-trois heures.
+les soirs. Il était environ vingt-trois heures — plus tard que
+d'habitude, en fait, à cause de la soirée qui avait retardé tout mon
+programme. Peut-être que la même chose vaut pour lui : quelqu'un revenu
+vérifier son travail une fois la fête terminée.
 
 — Vous avez vu quelqu'un d'autre ? demanda Léna, qui avait sorti, sans
 même y penser, un petit carnet à elle, moins épais que celui de Souly mais
@@ -218,7 +235,7 @@ désolée.
 revient jamais, c'est un livre qui a trouvé quelqu'un qui en avait
 vraiment besoin.
 
-— C'est une belle façon de voir les choses, dit Amara, songeuse.
+— C'est une belle façon de voir les choses, dit Amara, presque attendrie.
 
 Elle s'éloigna, sa pancarte roulée sous le bras plutôt que brandie, et
 les trois enfants restèrent un moment silencieux sur le banc, chacun
@@ -290,7 +307,7 @@ soir exact où le capteur a été trafiqué. C'est plus qu'une coïncidence.
 — C'est un bon indice, corrigea Karim, avec la prudence habituelle d'un
 scientifique peu enclin à confondre un bon indice avec une preuve
 définitive. Mais ce n'est toujours pas assez pour l'accuser publiquement.
-On a cinq jours avant l'ouverture. Il va falloir faire vite, et faire
+On a huit jours avant l'ouverture. Il va falloir faire vite, et faire
 juste.
 
 Sofia hocha la tête, très sérieusement, avant d'ajouter, un rien de malice
@@ -301,7 +318,7 @@ perçant malgré la gravité du moment :
 — Progrès notable, dit Souly, sans pouvoir s'empêcher de sourire à son
 tour.
 
-— Cinq jours, répéta Karim, en se laissant tomber sur une chaise, la
+— Huit jours, répéta Karim, en se laissant tomber sur une chaise, la
 fatigue accumulée de ces derniers jours enfin visible sur son visage. Il
 va falloir un plan. Un vrai plan, pas juste de la bonne volonté et des
 photos floues.
@@ -314,7 +331,7 @@ juste.
 — Pour poser les questions que personne d'autre n'ose poser, compléta
 Sofia. C'est notre spécialité.
 
-Karim les regarda tous les deux un long moment, un sourire fatigué mais
+Karim les regarda tous les deux, un sourire fatigué mais
 sincère éclairant enfin son visage, avant de se lever pour attraper le
 disque de sauvegarde une fois de plus.
 
@@ -323,5 +340,5 @@ disque de sauvegarde une fois de plus.
 Ce soir-là, avant de s'endormir, Souly ajouta une dernière ligne à son
 carnet, sous la liste des suspects réduite à un seul nom :
 
-« Cinq jours. On sait qui. On sait pas encore comment le prouver
+« Huit jours. On sait qui. On sait pas encore comment le prouver
 totalement. On va trouver. »

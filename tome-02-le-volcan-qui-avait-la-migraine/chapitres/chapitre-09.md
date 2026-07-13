@@ -75,6 +75,29 @@ nos propres yeux.
 
 ---
 
+Léna et M. Foucher les rejoignirent à la station en fin de matinée, mis
+au courant par un appel de Karim, et la petite équipe se retrouva au
+complet autour de la table encombrée, chacun apportant sa propre pièce
+au dossier qui, lentement, prenait une forme presque complète.
+
+— Résumons, dit Karim, en étalant les notes de chacun côte à côte. On a
+l'accès, grâce à l'inspection de courtoisie. On a le mobile, l'argent de
+Mme Delacroix. On a la routine, seize heures pile, sacoche de plus en
+plus lourde. Ce qui nous manque, c'est de le voir agir, avec une preuve
+que personne ne pourra contester.
+
+— Le local technique n'a rien donné, remarqua Souly. Peut-être qu'il ne
+modifie rien là-bas. Peut-être qu'il modifie tout avant, dans son propre
+bureau, et qu'il se contente d'aller publier au local ensuite.
+
+Karim s'arrêta net, le regard soudain plus vif.
+
+— C'est exactement le genre de raisonnement qui aurait dû me venir à
+l'esprit avant toi, dit-il, un mélange d'admiration et d'agacement
+contre lui-même dans la voix. Bien sûr. Le local technique, c'est juste
+le point de transmission. Le vrai crime se passe avant, sur son propre
+écran.
+
 Le plan, élaboré ce soir-là autour de la table encombrée de la station,
 était d'une simplicité presque risquée : puisque Rocheteau se rendait
 chaque jour au local technique vers seize heures, ils observeraient, cette
