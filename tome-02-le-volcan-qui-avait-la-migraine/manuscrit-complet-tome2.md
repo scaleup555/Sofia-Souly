@@ -2954,8 +2954,9 @@ poing.
 — On devrait lui apporter à manger, un de ces jours, dit Sofia. Genre un
 vrai repas, pas juste un sandwich.
 
-— On devrait surtout lui prouver qu'elle a raison, corrigea Souly, en
-refermant son carnet. C'est le seul cadeau qui compte vraiment, dans son
+— On devrait surtout lui prouver qu'elle a raison, corrigea Souly, le
+pouce déjà en train de tapoter la couverture de son carnet. C'est le
+seul cadeau qui compte vraiment, dans son
 cas.
 
 — On peut faire les deux, trancha Sofia, qui n'avait jamais vu la
@@ -3370,7 +3371,8 @@ jusqu'à un petit local technique attenant au chantier, où étaient
 installés les relais de transmission des données. Il y restait entre dix
 et quinze minutes, jamais plus, avant de repartir publier ses chiffres.
 
-— Dix à quinze minutes, dit Souly, en refermant son carnet le troisième
+— Dix à quinze minutes, dit Souly, le crayon immobile au-dessus de la
+page, le troisième
 jour. C'est exactement le temps qu'il faudrait pour intercepter les
 données brutes avant transmission, les modifier, et les renvoyer.
 
@@ -3504,12 +3506,12 @@ possibilité. Karim dit toujours que c'est jamais du temps perdu.
 Reste à voir si j'y crois encore, à onze heures du soir, la veille d'un
 grand jour.
 
-Ce soir-là, alors que Sofia dormait déjà, Souly resta un moment éveillé,
-à relire toute sa liste de suspects, ses indices, ses dates, avant
-d'ajouter, en travers de la marge, une dernière ligne, avant d'éteindre
-la lumière :
-
-« Demain, on saura enfin ce qu'il y a dans ce local. »
+Ce soir-là, Souly resta un moment assis sur son lit de camp, à écouter
+la respiration déjà régulière de Sofia et le ronronnement lointain de
+Magma, en repassant dans sa tête chaque ligne de sa liste de suspects,
+chaque indice, chaque date — jusqu'à ce que le sommeil finisse par
+l'emporter, lui aussi, sans qu'il ait rien décidé de plus que ce que
+demain apporterait.
 
 
 # Chapitre 9 — La nuit où la montagne a parlé plus fort que prévu

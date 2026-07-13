@@ -291,8 +291,9 @@ poing.
 — On devrait lui apporter à manger, un de ces jours, dit Sofia. Genre un
 vrai repas, pas juste un sandwich.
 
-— On devrait surtout lui prouver qu'elle a raison, corrigea Souly, en
-refermant son carnet. C'est le seul cadeau qui compte vraiment, dans son
+— On devrait surtout lui prouver qu'elle a raison, corrigea Souly, le
+pouce déjà en train de tapoter la couverture de son carnet. C'est le
+seul cadeau qui compte vraiment, dans son
 cas.
 
 — On peut faire les deux, trancha Sofia, qui n'avait jamais vu la
