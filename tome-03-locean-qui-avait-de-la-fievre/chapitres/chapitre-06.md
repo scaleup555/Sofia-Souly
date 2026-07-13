@@ -264,8 +264,8 @@ honnête sur la différence.
 deuxième carré de corail a été cassé, dit Souly, en ajoutant une
 nouvelle colonne à son tableau. Pendant la fête du lagon.
 
-— La plupart des bateaux privés étaient amarrés pour la fête, dit Noah,
-songeur. Tout le monde était sur la promenade, pas sur l'eau. Les
+— La plupart des bateaux privés étaient amarrés pour la fête, dit Noah.
+Tout le monde était sur la promenade, pas sur l'eau. Les
 vedettes de la capitainerie ne sortent jamais la nuit sans une bonne
 raison. Et l'hôtel ferme ses activités nautiques à dix-huit heures pile,
 mon oncle y travaille, je le sais par cœur.
@@ -273,7 +273,7 @@ mon oncle y travaille, je le sais par cœur.
 — Ce qui laisse, dit Souly, en écrivant le nom en toutes lettres et en
 le soulignant une fois, Lagon Bleu Excursions.
 
-Un silence suivit, plus lourd que les précédents.
+Personne ne répondit tout de suite ; le poids de ce nom-là était plus lourd que les précédents.
 
 — Mais ça élimine déjà mon père, dit Noah, avec un soulagement qu'il
 n'essaya même pas de dissimuler. Sa pirogue n'a même pas de chaîne
@@ -357,7 +357,7 @@ pour la répéter.
 avant de replonger le bec dans son plumage sans rien ajouter d'autre,
 au grand désespoir de Souly qui avait déjà le crayon levé.
 
-Fara hocha la tête, songeuse, en repoussant sa tasse de café refroidie
+Fara hocha lentement la tête, en repoussant sa tasse de café refroidie
 depuis longtemps.
 
 — Il reste deux jours avant le vote, dit-elle. Deux jours pour

@@ -222,7 +222,7 @@ Sofia, occupée à ranger ses propres affaires dans sa valise, s'arrêta un
 instant, un tee-shirt à moitié plié entre les mains.
 
 — On a fait quoi, en vrai, ces deux semaines ? demanda-t-elle,
-soudain plus songeuse que d'habitude. On est juste venus en vacances, et
+soudain plus grave que d'habitude. On est juste venus en vacances, et
 on a fini par... tout ça.
 
 Souly, depuis le pas de la porte, réfléchit un instant avant de

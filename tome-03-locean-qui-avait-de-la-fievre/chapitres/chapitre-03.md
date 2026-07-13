@@ -263,8 +263,8 @@ quelqu'un qui commençait, malgré lui, à revoir son jugement initial.
 — Tout ce qui pourrait servir un jour, dit Souly. On sait jamais ce qui
 compte, au début d'une enquête.
 
-— Ça, dit Noah, songeur, mon père dirait exactement la même chose. Sauf
-que lui, il le fait dans sa tête, jamais sur papier.
+— Ça, dit Noah après un instant, mon père dirait exactement la même
+chose. Sauf que lui, il le fait dans sa tête, jamais sur papier.
 
 ---
 
@@ -430,7 +430,7 @@ après le dîner. Mais juste après le coucher du soleil, oui. C'est le
 seul moment où personne d'autre n'a l'idée de venir m'embêter avec des
 questions sur mon père.
 
-— On n'a jamais de moment comme ça, nous, dit Sofia, presque songeuse. À
+— On n'a jamais de moment comme ça, nous, dit Sofia, la voix radoucie. À
 Paris, il y a toujours quelqu'un. Le voisin du dessus, la queue à la
 boulangerie, tout le monde.
 

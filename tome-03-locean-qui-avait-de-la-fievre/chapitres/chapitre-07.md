@@ -59,8 +59,8 @@ L'ordre du jour de ce soir est simple : le vote sur l'extension de la
 zone marine protégée aura bien lieu vendredi, comme prévu. Cette réunion
 sert à faire le point sur l'état du récif avant ce vote.
 
-Elle marqua une pause, consultant ses notes posées sur le pupitre, avant
-de reprendre d'une voix un peu plus hésitante.
+Elle s'arrêta un instant, consultant ses notes posées sur le pupitre,
+avant de reprendre d'une voix un peu plus hésitante.
 
 — Je sais que les esprits sont échauffés, ces derniers jours. Je
 demande à chacun de garder son calme, et de laisser la parole circuler
@@ -139,9 +139,8 @@ auparavant.
 
 ---
 
-Un silence tendu s'installa un instant dans la salle, chacun attendant
-de voir qui oserait parler le premier, avant qu'une voix ne s'élève,
-ferme et posée.
+La salle resta muette un instant, chacun attendant de voir qui oserait
+parler le premier, avant qu'une voix ne s'élève, ferme et posée.
 
 — C'est un pêcheur honnête depuis vingt ans, dit une femme assise près de
 M. Técher, sa voisine visiblement. On ne peut pas l'accuser sans preuve.
@@ -282,7 +281,7 @@ Je ne demande pas qu'on me croie sur parole. Je demande juste qu'on
 attende d'avoir de vraies réponses avant de décider, une bonne fois pour
 toutes, qui je suis censé être.
 
-Il marqua une pause, ses yeux balayant lentement la salle, s'arrêtant un
+Il laissa son regard glisser lentement sur la salle, s'arrêtant un
 instant sur chaque visage familier.
 
 — Certains d'entre vous m'achètent du poisson depuis quinze ans, reprit-
@@ -311,9 +310,9 @@ d'aussi digne que Noah.
 
 ---
 
-La mairesse balaya la salle du regard, cherchant visiblement d'autres
-mains levées avant de continuer, dans l'espoir manifeste de retrouver un
-semblant de contrôle sur le déroulement de la soirée.
+La mairesse chercha des yeux d'autres mains levées avant de continuer,
+dans l'espoir manifeste de retrouver un semblant de contrôle sur le
+déroulement de la soirée.
 
 Un homme d'une trentaine d'années, que Sofia n'avait jamais vu jusque-là,
 leva la main depuis le milieu de la salle, attendant poliment que le

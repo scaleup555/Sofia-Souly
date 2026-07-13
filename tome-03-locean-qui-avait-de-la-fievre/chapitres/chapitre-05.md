@@ -167,7 +167,7 @@ n'a pas besoin de moi sur la pirogue.
 
 Sofia plongea la tête sous l'eau une dernière fois, observant longuement
 la ligne nette qui séparait le récif vivant du désastre voisin, avant de
-remonter, songeuse.
+remonter, sourcils froncés.
 
 — C'est bizarre, dit-elle, une fois le tuba retiré. On dirait presque
 une frontière tracée à la règle. Comme si quelqu'un avait décidé

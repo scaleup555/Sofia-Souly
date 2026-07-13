@@ -69,7 +69,7 @@ dans le récit)).
   irréversible, aires marines protégées, savoir écologique traditionnel).
   Lieu : Anse-Bleue, lagon fictif de La Réunion.
 - Manuscrit final : `tome-03-locean-qui-avait-de-la-fievre/manuscrit-complet-tome3.md`
-  (~39 857 mots — **réétoffé le 2026-07-13** depuis une version antérieure
+  (~39 875 mots — **réétoffé le 2026-07-13** depuis une version antérieure
   d'environ 19 900 mots, nettement sous la cible de la série, sur demande
   explicite de l'utilisateur : « je remarque que le tome 3 ne respecte pas
   les 40 000 mots ! »).
@@ -88,6 +88,19 @@ dans le récit)).
   obtenu par les tomes 1, 2 et 4** — il est livré à 8,3/10 après trois
   cycles de corrections substantielles (chronologie, tics, POV), en état
   nettement amélioré mais non formellement validé.
+- **Passe de correction manuelle post-finalisation (même session,
+  2026-07-13)** : l'utilisateur a demandé de corriger tout de même les
+  défauts encore relevés par le 3ᵉ passage jury avant la livraison
+  effective. Corrigé directement, sans nouveau round jury complet :
+  élimination totale du gabarit « dit X, songeur/songeuse » (13
+  occurrences sur 4 personnages, ramenées à 0), suppression du doublon
+  exact « petit rire fatigué » (2 personnages différents), et
+  résorption du cluster « marqua une pause » + « balaya la salle du
+  regard » du chapitre 7. Une passe de vérification indépendante
+  ciblée (pas un jury complet) a confirmé les corrections et fait
+  remonter un reliquat (le geste « balaya la salle du regard » encore
+  dupliqué entre deux personnages du chapitre 7), lui aussi corrigé.
+  Manuscrit et .docx régénérés une dernière fois après ces correctifs.
 - Nouveaux personnages récurrents secondaires : **Fara Payet** (biologiste
   marine, amie de Camille depuis l'école d'infirmières, dirige la station
   de recherche du lagon, mainate Bassin) et **Noah Técher** (12 ans, fils

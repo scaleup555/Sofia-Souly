@@ -316,7 +316,7 @@ Fara. Les trois bouées manquantes sont toutes du même côté de la zone
 abîmée. Jamais de l'autre côté.
 
 — Un motif de plus en plus difficile à expliquer par le hasard, dit
-Fara, songeuse, en refermant son carnet de terrain.
+Fara, en refermant son carnet de terrain.
 
 Le retour à la station se fit dans la lumière dorée de fin d'après-midi,
 le petit groupe fatigué mais satisfait de leur récolte de la journée,
@@ -387,7 +387,7 @@ peut-être un peu plus tard. Je préparais mon dossier pour la réunion, sur
 le muret du ponton.
 
 — Le bureau de Christophe donne directement sur le ponton, remarqua
-Noah, songeur. Si quelqu'un discutait près de la fenêtre ouverte, à cette
+Noah. Si quelqu'un discutait près de la fenêtre ouverte, à cette
 heure-là...
 
 — La fenêtre est toujours ouverte, en fin de journée, confirma Fara. À

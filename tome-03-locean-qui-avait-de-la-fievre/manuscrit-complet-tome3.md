@@ -618,7 +618,7 @@ visiblement de faire le calcul dans sa tête.
 quatre cents ans. Peut-être plus. Il était probablement déjà là avant
 que quiconque n'ait jamais entendu parler d'Anse-Bleue.
 
-— Et quelqu'un peut le casser en une nuit, dit Souly, songeur.
+— Et quelqu'un peut le casser en une nuit, dit Souly, en observant l'eau sans vraiment la voir.
 
 — En quelques secondes, en fait, dit Fara. Le temps qu'une ancre touche
 le fond et qu'on la remonte. C'est peut-être la chose la plus injuste
@@ -640,7 +640,7 @@ restaurants, les hôtels. Un récif mort, c'est une ville entière qui
 perd, doucement mais sûrement, une bonne partie de ce qui la fait vivre.
 
 — Donc c'est pas juste une histoire de jolis poissons colorés, dit
-Sofia, songeuse.
+Sofia, en prenant son temps.
 
 — Jamais, dit Fara. Même si les jolis poissons colorés aident beaucoup à
 faire aimer les récifs aux gens qui n'ont jamais eu la chance d'en voir
@@ -659,7 +659,7 @@ pêcheurs, et un récif magnifique que personne ne surveillait vraiment.
 Je me suis dit que quelqu'un devait le faire, et que ce quelqu'un
 pouvait tout aussi bien être moi.
 
-— C'est un peu comme nous, dit Souly, songeur. Personne d'autre
+— C'est un peu comme nous, remarqua Souly. Personne d'autre
 n'enquêtait vraiment sur les trucs bizarres de notre quartier, alors on
 a commencé.
 
@@ -1159,8 +1159,8 @@ quelqu'un qui commençait, malgré lui, à revoir son jugement initial.
 — Tout ce qui pourrait servir un jour, dit Souly. On sait jamais ce qui
 compte, au début d'une enquête.
 
-— Ça, dit Noah, songeur, mon père dirait exactement la même chose. Sauf
-que lui, il le fait dans sa tête, jamais sur papier.
+— Ça, dit Noah après un instant, mon père dirait exactement la même
+chose. Sauf que lui, il le fait dans sa tête, jamais sur papier.
 
 ---
 
@@ -1326,7 +1326,7 @@ après le dîner. Mais juste après le coucher du soleil, oui. C'est le
 seul moment où personne d'autre n'a l'idée de venir m'embêter avec des
 questions sur mon père.
 
-— On n'a jamais de moment comme ça, nous, dit Sofia, presque songeuse. À
+— On n'a jamais de moment comme ça, nous, dit Sofia, la voix radoucie. À
 Paris, il y a toujours quelqu'un. Le voisin du dessus, la queue à la
 boulangerie, tout le monde.
 
@@ -1978,7 +1978,7 @@ n'a pas besoin de moi sur la pirogue.
 
 Sofia plongea la tête sous l'eau une dernière fois, observant longuement
 la ligne nette qui séparait le récif vivant du désastre voisin, avant de
-remonter, songeuse.
+remonter, sourcils froncés.
 
 — C'est bizarre, dit-elle, une fois le tuba retiré. On dirait presque
 une frontière tracée à la règle. Comme si quelqu'un avait décidé
@@ -2551,8 +2551,8 @@ honnête sur la différence.
 deuxième carré de corail a été cassé, dit Souly, en ajoutant une
 nouvelle colonne à son tableau. Pendant la fête du lagon.
 
-— La plupart des bateaux privés étaient amarrés pour la fête, dit Noah,
-songeur. Tout le monde était sur la promenade, pas sur l'eau. Les
+— La plupart des bateaux privés étaient amarrés pour la fête, dit Noah.
+Tout le monde était sur la promenade, pas sur l'eau. Les
 vedettes de la capitainerie ne sortent jamais la nuit sans une bonne
 raison. Et l'hôtel ferme ses activités nautiques à dix-huit heures pile,
 mon oncle y travaille, je le sais par cœur.
@@ -2560,7 +2560,7 @@ mon oncle y travaille, je le sais par cœur.
 — Ce qui laisse, dit Souly, en écrivant le nom en toutes lettres et en
 le soulignant une fois, Lagon Bleu Excursions.
 
-Un silence suivit, plus lourd que les précédents.
+Personne ne répondit tout de suite ; le poids de ce nom-là était plus lourd que les précédents.
 
 — Mais ça élimine déjà mon père, dit Noah, avec un soulagement qu'il
 n'essaya même pas de dissimuler. Sa pirogue n'a même pas de chaîne
@@ -2644,7 +2644,7 @@ pour la répéter.
 avant de replonger le bec dans son plumage sans rien ajouter d'autre,
 au grand désespoir de Souly qui avait déjà le crayon levé.
 
-Fara hocha la tête, songeuse, en repoussant sa tasse de café refroidie
+Fara hocha lentement la tête, en repoussant sa tasse de café refroidie
 depuis longtemps.
 
 — Il reste deux jours avant le vote, dit-elle. Deux jours pour
@@ -2845,8 +2845,8 @@ L'ordre du jour de ce soir est simple : le vote sur l'extension de la
 zone marine protégée aura bien lieu vendredi, comme prévu. Cette réunion
 sert à faire le point sur l'état du récif avant ce vote.
 
-Elle marqua une pause, consultant ses notes posées sur le pupitre, avant
-de reprendre d'une voix un peu plus hésitante.
+Elle s'arrêta un instant, consultant ses notes posées sur le pupitre,
+avant de reprendre d'une voix un peu plus hésitante.
 
 — Je sais que les esprits sont échauffés, ces derniers jours. Je
 demande à chacun de garder son calme, et de laisser la parole circuler
@@ -2925,9 +2925,8 @@ auparavant.
 
 ---
 
-Un silence tendu s'installa un instant dans la salle, chacun attendant
-de voir qui oserait parler le premier, avant qu'une voix ne s'élève,
-ferme et posée.
+La salle resta muette un instant, chacun attendant de voir qui oserait
+parler le premier, avant qu'une voix ne s'élève, ferme et posée.
 
 — C'est un pêcheur honnête depuis vingt ans, dit une femme assise près de
 M. Técher, sa voisine visiblement. On ne peut pas l'accuser sans preuve.
@@ -3068,7 +3067,7 @@ Je ne demande pas qu'on me croie sur parole. Je demande juste qu'on
 attende d'avoir de vraies réponses avant de décider, une bonne fois pour
 toutes, qui je suis censé être.
 
-Il marqua une pause, ses yeux balayant lentement la salle, s'arrêtant un
+Il laissa son regard glisser lentement sur la salle, s'arrêtant un
 instant sur chaque visage familier.
 
 — Certains d'entre vous m'achètent du poisson depuis quinze ans, reprit-
@@ -3097,9 +3096,9 @@ d'aussi digne que Noah.
 
 ---
 
-La mairesse balaya la salle du regard, cherchant visiblement d'autres
-mains levées avant de continuer, dans l'espoir manifeste de retrouver un
-semblant de contrôle sur le déroulement de la soirée.
+La mairesse chercha des yeux d'autres mains levées avant de continuer,
+dans l'espoir manifeste de retrouver un semblant de contrôle sur le
+déroulement de la soirée.
 
 Un homme d'une trentaine d'années, que Sofia n'avait jamais vu jusque-là,
 leva la main depuis le milieu de la salle, attendant poliment que le
@@ -3541,7 +3540,7 @@ Fara. Les trois bouées manquantes sont toutes du même côté de la zone
 abîmée. Jamais de l'autre côté.
 
 — Un motif de plus en plus difficile à expliquer par le hasard, dit
-Fara, songeuse, en refermant son carnet de terrain.
+Fara, en refermant son carnet de terrain.
 
 Le retour à la station se fit dans la lumière dorée de fin d'après-midi,
 le petit groupe fatigué mais satisfait de leur récolte de la journée,
@@ -3612,7 +3611,7 @@ peut-être un peu plus tard. Je préparais mon dossier pour la réunion, sur
 le muret du ponton.
 
 — Le bureau de Christophe donne directement sur le ponton, remarqua
-Noah, songeur. Si quelqu'un discutait près de la fenêtre ouverte, à cette
+Noah. Si quelqu'un discutait près de la fenêtre ouverte, à cette
 heure-là...
 
 — La fenêtre est toujours ouverte, en fin de journée, confirma Fara. À
@@ -3794,7 +3793,7 @@ pour se rassurer lui-même que par réelle curiosité.
 c'est une peur qui donne juste envie de continuer à regarder, pas de
 fermer les yeux.
 
-— C'est exactement la différence entre toi et moi, dit Souly, songeur.
+— C'est exactement la différence entre toi et moi, dit Souly, plus pour lui-même que pour elle.
 
 — On se complète bien, alors, dit Sofia, avec une simplicité qui
 résumait, sans qu'elle le sache vraiment, l'essentiel de leur relation.
@@ -4085,7 +4084,7 @@ qui, venant d'elle, sonnait comme le compliment le plus sincère du
 monde.
 
 Malgré lui, malgré le froid, malgré la nuit qu'il venait de vivre, le
-jeune capitaine laissa échapper un petit rire fatigué.
+jeune capitaine laissa échapper un souffle qui ressemblait, presque, à un rire.
 
 — Merci d'être venus me chercher, dit-il. Je crois que je vous dois plus
 qu'un simple merci, en fait.
@@ -4326,7 +4325,7 @@ endroit, au début. Mais ces dernières semaines, on revenait plus souvent
 au même endroit, toujours proche de la même zone.
 
 — Depuis combien de temps recevez-vous ces instructions ? demanda
-l'officier, sans lever les yeux de son carnet de notes.
+l'officier, le regard toujours rivé sur son carnet de notes.
 
 — Six mois, dit Elias, la voix un peu plus basse. Depuis mon
 embauche, en fait. On me l'a présenté comme une pratique normale, au
@@ -4939,7 +4938,7 @@ Fara hocha la tête, laissant le silence de la salle s'installer un
 instant de plus avant de reprendre, comme pour donner à chacun le temps
 de vraiment digérer ce qu'ils venaient d'entendre.
 
-— C'est marrant, dit Souly, songeur, depuis son pupitre. Tout le monde
+— C'est marrant, dit Souly depuis son pupitre. Tout le monde
 pensait que c'était soit une superstition à ignorer, soit une vérité à
 suivre aveuglément. Personne n'avait pensé à juste... vérifier.
 
@@ -5317,7 +5316,7 @@ Sofia, occupée à ranger ses propres affaires dans sa valise, s'arrêta un
 instant, un tee-shirt à moitié plié entre les mains.
 
 — On a fait quoi, en vrai, ces deux semaines ? demanda-t-elle,
-soudain plus songeuse que d'habitude. On est juste venus en vacances, et
+soudain plus grave que d'habitude. On est juste venus en vacances, et
 on a fini par... tout ça.
 
 Souly, depuis le pas de la porte, réfléchit un instant avant de

@@ -154,7 +154,7 @@ endroit, au début. Mais ces dernières semaines, on revenait plus souvent
 au même endroit, toujours proche de la même zone.
 
 — Depuis combien de temps recevez-vous ces instructions ? demanda
-l'officier, sans lever les yeux de son carnet de notes.
+l'officier, le regard toujours rivé sur son carnet de notes.
 
 — Six mois, dit Elias, la voix un peu plus basse. Depuis mon
 embauche, en fait. On me l'a présenté comme une pratique normale, au

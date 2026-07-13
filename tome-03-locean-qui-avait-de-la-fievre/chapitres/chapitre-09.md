@@ -95,7 +95,7 @@ pour se rassurer lui-même que par réelle curiosité.
 c'est une peur qui donne juste envie de continuer à regarder, pas de
 fermer les yeux.
 
-— C'est exactement la différence entre toi et moi, dit Souly, songeur.
+— C'est exactement la différence entre toi et moi, dit Souly, plus pour lui-même que pour elle.
 
 — On se complète bien, alors, dit Sofia, avec une simplicité qui
 résumait, sans qu'elle le sache vraiment, l'essentiel de leur relation.
@@ -386,7 +386,7 @@ qui, venant d'elle, sonnait comme le compliment le plus sincère du
 monde.
 
 Malgré lui, malgré le froid, malgré la nuit qu'il venait de vivre, le
-jeune capitaine laissa échapper un petit rire fatigué.
+jeune capitaine laissa échapper un souffle qui ressemblait, presque, à un rire.
 
 — Merci d'être venus me chercher, dit-il. Je crois que je vous dois plus
 qu'un simple merci, en fait.

@@ -164,7 +164,7 @@ visiblement de faire le calcul dans sa tête.
 quatre cents ans. Peut-être plus. Il était probablement déjà là avant
 que quiconque n'ait jamais entendu parler d'Anse-Bleue.
 
-— Et quelqu'un peut le casser en une nuit, dit Souly, songeur.
+— Et quelqu'un peut le casser en une nuit, dit Souly, en observant l'eau sans vraiment la voir.
 
 — En quelques secondes, en fait, dit Fara. Le temps qu'une ancre touche
 le fond et qu'on la remonte. C'est peut-être la chose la plus injuste
@@ -186,7 +186,7 @@ restaurants, les hôtels. Un récif mort, c'est une ville entière qui
 perd, doucement mais sûrement, une bonne partie de ce qui la fait vivre.
 
 — Donc c'est pas juste une histoire de jolis poissons colorés, dit
-Sofia, songeuse.
+Sofia, en prenant son temps.
 
 — Jamais, dit Fara. Même si les jolis poissons colorés aident beaucoup à
 faire aimer les récifs aux gens qui n'ont jamais eu la chance d'en voir
@@ -205,7 +205,7 @@ pêcheurs, et un récif magnifique que personne ne surveillait vraiment.
 Je me suis dit que quelqu'un devait le faire, et que ce quelqu'un
 pouvait tout aussi bien être moi.
 
-— C'est un peu comme nous, dit Souly, songeur. Personne d'autre
+— C'est un peu comme nous, remarqua Souly. Personne d'autre
 n'enquêtait vraiment sur les trucs bizarres de notre quartier, alors on
 a commencé.
 

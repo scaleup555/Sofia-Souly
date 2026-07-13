@@ -294,7 +294,7 @@ Fara hocha la tête, laissant le silence de la salle s'installer un
 instant de plus avant de reprendre, comme pour donner à chacun le temps
 de vraiment digérer ce qu'ils venaient d'entendre.
 
-— C'est marrant, dit Souly, songeur, depuis son pupitre. Tout le monde
+— C'est marrant, dit Souly depuis son pupitre. Tout le monde
 pensait que c'était soit une superstition à ignorer, soit une vérité à
 suivre aveuglément. Personne n'avait pensé à juste... vérifier.
 
