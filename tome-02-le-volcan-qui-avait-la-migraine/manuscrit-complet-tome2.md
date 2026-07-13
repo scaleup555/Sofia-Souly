@@ -1020,7 +1020,7 @@ M. Foucher se révéla être un homme d'une soixantaine d'années passées,
 petit, rond, avec des lunettes si épaisses qu'elles semblaient
 agrandir ses yeux à une taille presque comique, installé derrière un
 comptoir couvert de piles de dossiers en désordre apparent mais que lui
-seul, visiblement, savait naviguer sans jamais se tromper.
+seul, semblait-il, savait naviguer sans jamais se tromper.
 
 — Les enfants de Karim ! s'exclama-t-il en les voyant entrer, sans
 qu'ils aient eu le temps de se présenter. Enfin, pas SES enfants, ses
@@ -1089,7 +1089,7 @@ Souly, qui n'avait pas mis longtemps à repérer les rangées de classeurs
 étiquetés à la main derrière le comptoir, s'en approcha avec l'intérêt
 immédiat de quelqu'un qui reconnaissait un territoire familier. Chaque
 classeur portait une étiquette manuscrite, l'écriture changeant
-visiblement d'une décennie à l'autre — ronde et appliquée sur les plus
+nettement d'une décennie à l'autre — ronde et appliquée sur les plus
 anciens, plus rapide et penchée sur les plus récents, comme si on
 pouvait lire, rien qu'aux lettres elles-mêmes, l'âge de celui qui les
 avait tracées.
@@ -1217,7 +1217,7 @@ J'en ai lu peut-être une boîte sur dix. C'est un travail pour toute une
 vie, pas pour un été.
 
 Souly regarda les rangées de boîtes, puis regarda Léna, puis Sofia, et une
-idée commença visiblement à germer derrière son front plissé — Sofia
+idée commença à germer derrière son front plissé — Sofia
 reconnut immédiatement cette expression-là, toujours la même, chaque fois
 qu'un début d'enquête pointait le bout de son nez.
 
@@ -1237,7 +1237,7 @@ tombe bien qu'on soit trois.
 — Quatre, corrigea une voix depuis la porte.
 
 M. Foucher se tenait dans l'encadrement, un sourire un peu gêné aux lèvres,
-visiblement pas mécontent d'avoir été surpris à écouter.
+pas mécontent, de toute évidence, d'avoir été surpris à écouter.
 
 — Si vous cherchez dans mes archives, dit-il, il est hors de question que
 je reste à l'écart. C'est moi qui connais le mieux ce classement, même si je
@@ -1415,12 +1415,16 @@ disait plus qu'une phrase entière n'aurait pu le faire.
 
 # Chapitre 4 — La soirée de lancement et le bain de boue
 
-Léna avait été invitée elle aussi — son grand-père tenait la médiathèque
-municipale depuis assez longtemps pour figurer sur toutes les listes
-d'invités officielles de la ville — et elle retrouva Sofia et Souly devant
-l'entrée des Thermes, mal à l'aise dans une robe manifestement empruntée à
-une cousine plus grande qu'elle, tirant sans arrêt sur l'ourlet qui
-traînait presque par terre.
+Ce même soir, à peine rentrés de la médiathèque et douchés à la hâte, il
+fallut se réenfiler des vêtements présentables pour la « soirée de
+pré-inauguration » des Thermes — un enchaînement de programme que Sofia
+jugea, à voix haute et sans grande diplomatie, « un peu trop pour une
+seule journée ». Léna avait été invitée elle aussi — son grand-père
+tenait la médiathèque municipale depuis assez longtemps pour figurer sur
+toutes les listes d'invités officielles de la ville — et elle retrouva
+Sofia et Souly devant l'entrée des Thermes, mal à l'aise dans une robe
+manifestement empruntée à une cousine plus grande qu'elle, tirant sans
+arrêt sur l'ourlet qui traînait presque par terre.
 
 — Je déteste les robes, annonça-t-elle en guise de bonjour.
 
@@ -1884,8 +1888,8 @@ En passant devant le petit groupe, Sofia parvint à lire, sur l'une des
 pancartes, en lettres peintes à la hâte : « UN VOLCAN N'EST PAS UN
 SPA ». Une autre, plus sobre, annonçait simplement : « ÉCOUTEZ LA
 SCIENCE, PAS LES ACTIONNAIRES ». Un des ouvriers du chantier, posté près
-du grillage, observait la scène, une expression hésitant entre
-l'agacement et une lassitude plus profonde, celle de quelqu'un qui avait
+du grillage, observait la scène d'un œil aussi las qu'agacé, celui de
+quelqu'un qui avait
 déjà vécu cette même manifestation trop de fois pour s'en émouvoir
 encore vraiment.
 
@@ -2291,7 +2295,7 @@ plates, sans le moindre pic notable depuis près de deux semaines.
 Rocheteau. Les quelques vibrations mineures enregistrées récemment
 s'expliquent entièrement par l'activité du chantier voisin — engins lourds,
 forage, circulation de camions. Rien qui justifie la moindre inquiétude
-pour l'ouverture des Thermes, dans exactement neuf jours.
+pour l'ouverture des Thermes, dans exactement huit jours.
 
 Un murmure soulagé courut à travers la foule. Quelqu'un applaudit,
 timidement, avant que d'autres ne suivent, jusqu'à ce que la place
@@ -2320,7 +2324,7 @@ avant même la fin des applaudissements pour serrer la main du Dr.
 Rocheteau, un large sourire aux lèvres, le premier sourire réellement
 détendu que Sofia lui ait vu depuis leur arrivée en ville.
 
-— Neuf jours, répéta-t-elle au micro qu'un journaliste lui tendait déjà. Le
+— Huit jours, répéta-t-elle au micro qu'un journaliste lui tendait déjà. Le
 Grand Sombre dort depuis trois mille ans, mesdames et messieurs, et il va
 continuer à dormir bien après notre inauguration. Venez nombreux !
 
@@ -2522,8 +2526,8 @@ Je connais des laboratoires entiers qui rêveraient d'un tel équilibre.
 — On se répartit le travail depuis toujours, dit Souly. Elle trouve les
 pistes, je vérifie qu'elles tiennent debout.
 
-— Et je trouve toujours les meilleures pistes, ajouta Sofia, avec un
-aplomb qui ne laissait aucune place à la contradiction.
+— Et je trouve toujours les meilleures pistes, ajouta Sofia, sur un ton
+qui ne laissait aucune place à la contradiction.
 
 Le motif, une fois assemblé, ne
 laissait plus beaucoup de place au doute :
@@ -2618,8 +2622,8 @@ seul, il resta un long moment debout devant l'écran principal, à observer
 le tracé qui continuait de dessiner, imperturbable, ses lignes vertes
 dans l'obscurité grandissante du soir.
 
-— Neuf jours, dit-il finalement, plus pour lui-même que pour les
-enfants. Neuf jours avant l'ouverture. Et quatre-vingt-dix-neuf ans
+— Huit jours, dit-il finalement, plus pour lui-même que pour les
+enfants. Huit jours avant l'ouverture. Et quatre-vingt-dix-neuf ans
 depuis la dernière fois que cette montagne a vraiment parlé.
 
 Sofia se leva du canapé, encore à moitié endormie, et vint se poster à
@@ -3017,7 +3021,7 @@ soir exact où le capteur a été trafiqué. C'est plus qu'une coïncidence.
 — C'est un bon indice, corrigea Karim, avec la prudence habituelle d'un
 scientifique peu enclin à confondre un bon indice avec une preuve
 définitive. Mais ce n'est toujours pas assez pour l'accuser publiquement.
-On a huit jours avant l'ouverture. Il va falloir faire vite, et faire
+On a sept jours avant l'ouverture. Il va falloir faire vite, et faire
 juste.
 
 — Il va falloir aussi vérifier son emploi du temps des derniers jours,
@@ -3044,7 +3048,7 @@ perçant malgré la gravité du moment :
 — Progrès notable, dit Souly, sans pouvoir s'empêcher de sourire à son
 tour.
 
-— Huit jours, répéta Karim, en se laissant tomber sur une chaise, la
+— Sept jours, répéta Karim, en se laissant tomber sur une chaise, la
 fatigue accumulée de ces derniers jours enfin visible sur son visage. Il
 va falloir un plan. Un vrai plan, pas juste de la bonne volonté et des
 photos floues.
@@ -3057,8 +3061,8 @@ juste.
 — Pour poser les questions que personne d'autre n'ose poser, compléta
 Sofia. C'est notre spécialité.
 
-Karim les regarda tous les deux, un sourire fatigué mais
-sincère éclairant enfin son visage, avant de se lever pour attraper le
+Karim les regarda tous les deux, quelque chose se relâchant enfin dans
+ses épaules, avant de se lever pour attraper le
 disque de sauvegarde une fois de plus.
 
 — Il faudra aussi penser à Mme Delacroix, ajouta Sofia, plus sérieuse
@@ -3075,7 +3079,7 @@ voudra bien l'entendre.
 Ce soir-là, avant de s'endormir, Souly ajouta une dernière ligne à son
 carnet, sous la liste des suspects réduite à un seul nom :
 
-« Huit jours. On sait qui. On sait pas encore comment le prouver
+« Sept jours. On sait qui. On sait pas encore comment le prouver
 totalement. On va trouver. »
 
 
@@ -3257,8 +3261,8 @@ catastrophes consécutives, ne semblait pouvoir entamer.
 
 Le patron du café, un homme placide qui les avait vues débarquer chaque
 après-midi avec une inquiétude grandissante, finit par s'approcher de
-leur table, un torchon sur l'épaule, une expression qui hésitait entre
-l'amusement et l'inquiétude sincère.
+leur table, un torchon sur l'épaule, quelque part entre l'amusement et
+l'inquiétude sincère.
 
 — C'est la troisième catastrophe en deux jours, dit-il, pas franchement
 en colère, mais visiblement perplexe. Vous préparez un exposé sur les
@@ -3475,7 +3479,7 @@ Le dîner, ce soir-là, se déroula dans une atmosphère étrange, tendue et
 fébrile à la fois, chacun conscient que le lendemain
 matin pourrait enfin apporter la preuve qui manquait depuis le début —
 ou, pire, ne rien apporter du tout, et les laisser sans nouvelle piste à
-cinq jours de l'ouverture.
+quatre jours de l'ouverture.
 
 — Et si le local est vide de toute preuve ? demanda Sofia, en repoussant
 son assiette, l'appétit visiblement coupé par l'inquiétude.
@@ -3548,7 +3552,7 @@ voulait dire.
 
 — Je ne sais pas, admit Karim. Peut-être directement sur son propre
 ordinateur, avant l'envoi. Peut-être qu'il a un accès qu'on n'a pas encore
-identifié. On n'a plus que quatre jours avant l'ouverture, et je commence à
+identifié. On n'a plus que trois jours avant l'ouverture, et je commence à
 manquer d'idées.
 
 Léna, restée silencieuse depuis la sortie du local, referma lentement le
@@ -3996,7 +4000,7 @@ la pièce, entendait presque chaque mot sans effort.
 un peu — la coupure de courant, le bâtiment, tout. Dites-moi que les
 enfants vont bien, je vous en supplie, sinon je ne dors pas de la nuit.
 
-— Ils vont bien, dit Karim, un sourire fatigué mais réel sur le visage.
+— Ils vont bien, dit Karim, la voix rauque de fatigue mais sincère.
 Un peu secoués. Souly en particulier s'est plutôt bien débrouillé, dans
 le noir.
 
@@ -4470,7 +4474,7 @@ deuxième moitié de toute cette histoire, dit-il lentement.
 — La partie qui explique pas juste qui a menti, dit Sofia, songeuse, mais
 si la montagne, elle, dit vrai.
 
-— Trois jours avant l'ouverture, dit Souly, en vérifiant la date sur son
+— Deux jours avant l'ouverture, dit Souly, en vérifiant la date sur son
 carnet. Enfin, l'ouverture reportée. Mais Léna et son grand-père doivent
 toujours avoir tous les documents. Il faudrait qu'on prépare une vraie
 présentation. Pas juste leur raconter en vitesse dans un coin.
@@ -5050,7 +5054,7 @@ avec un peu d'attention des deux côtés.
 
 — Vous restez, vous ? demanda Souly. Avec le nouveau poste consultatif ?
 
-— J'ai fini par accepter, dit Amara, avec un demi-sourire. Quelqu'un doit
+— J'ai fini par accepter, dit Amara, non sans une pointe d'ironie. Quelqu'un doit
 bien continuer à embêter tout le monde avec des questions gênantes.
 Autant que ce soit officiel, maintenant.
 

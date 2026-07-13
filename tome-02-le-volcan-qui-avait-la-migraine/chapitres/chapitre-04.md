@@ -1,11 +1,15 @@
 # Chapitre 4 — La soirée de lancement et le bain de boue
 
-Léna avait été invitée elle aussi — son grand-père tenait la médiathèque
-municipale depuis assez longtemps pour figurer sur toutes les listes
-d'invités officielles de la ville — et elle retrouva Sofia et Souly devant
-l'entrée des Thermes, mal à l'aise dans une robe manifestement empruntée à
-une cousine plus grande qu'elle, tirant sans arrêt sur l'ourlet qui
-traînait presque par terre.
+Ce même soir, à peine rentrés de la médiathèque et douchés à la hâte, il
+fallut se réenfiler des vêtements présentables pour la « soirée de
+pré-inauguration » des Thermes — un enchaînement de programme que Sofia
+jugea, à voix haute et sans grande diplomatie, « un peu trop pour une
+seule journée ». Léna avait été invitée elle aussi — son grand-père
+tenait la médiathèque municipale depuis assez longtemps pour figurer sur
+toutes les listes d'invités officielles de la ville — et elle retrouva
+Sofia et Souly devant l'entrée des Thermes, mal à l'aise dans une robe
+manifestement empruntée à une cousine plus grande qu'elle, tirant sans
+arrêt sur l'ourlet qui traînait presque par terre.
 
 — Je déteste les robes, annonça-t-elle en guise de bonjour.
 

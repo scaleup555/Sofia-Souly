@@ -45,7 +45,7 @@ plates, sans le moindre pic notable depuis près de deux semaines.
 Rocheteau. Les quelques vibrations mineures enregistrées récemment
 s'expliquent entièrement par l'activité du chantier voisin — engins lourds,
 forage, circulation de camions. Rien qui justifie la moindre inquiétude
-pour l'ouverture des Thermes, dans exactement neuf jours.
+pour l'ouverture des Thermes, dans exactement huit jours.
 
 Un murmure soulagé courut à travers la foule. Quelqu'un applaudit,
 timidement, avant que d'autres ne suivent, jusqu'à ce que la place
@@ -74,7 +74,7 @@ avant même la fin des applaudissements pour serrer la main du Dr.
 Rocheteau, un large sourire aux lèvres, le premier sourire réellement
 détendu que Sofia lui ait vu depuis leur arrivée en ville.
 
-— Neuf jours, répéta-t-elle au micro qu'un journaliste lui tendait déjà. Le
+— Huit jours, répéta-t-elle au micro qu'un journaliste lui tendait déjà. Le
 Grand Sombre dort depuis trois mille ans, mesdames et messieurs, et il va
 continuer à dormir bien après notre inauguration. Venez nombreux !
 
@@ -276,8 +276,8 @@ Je connais des laboratoires entiers qui rêveraient d'un tel équilibre.
 — On se répartit le travail depuis toujours, dit Souly. Elle trouve les
 pistes, je vérifie qu'elles tiennent debout.
 
-— Et je trouve toujours les meilleures pistes, ajouta Sofia, avec un
-aplomb qui ne laissait aucune place à la contradiction.
+— Et je trouve toujours les meilleures pistes, ajouta Sofia, sur un ton
+qui ne laissait aucune place à la contradiction.
 
 Le motif, une fois assemblé, ne
 laissait plus beaucoup de place au doute :
@@ -372,8 +372,8 @@ seul, il resta un long moment debout devant l'écran principal, à observer
 le tracé qui continuait de dessiner, imperturbable, ses lignes vertes
 dans l'obscurité grandissante du soir.
 
-— Neuf jours, dit-il finalement, plus pour lui-même que pour les
-enfants. Neuf jours avant l'ouverture. Et quatre-vingt-dix-neuf ans
+— Huit jours, dit-il finalement, plus pour lui-même que pour les
+enfants. Huit jours avant l'ouverture. Et quatre-vingt-dix-neuf ans
 depuis la dernière fois que cette montagne a vraiment parlé.
 
 Sofia se leva du canapé, encore à moitié endormie, et vint se poster à

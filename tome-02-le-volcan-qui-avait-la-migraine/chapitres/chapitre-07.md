@@ -361,7 +361,7 @@ soir exact où le capteur a été trafiqué. C'est plus qu'une coïncidence.
 — C'est un bon indice, corrigea Karim, avec la prudence habituelle d'un
 scientifique peu enclin à confondre un bon indice avec une preuve
 définitive. Mais ce n'est toujours pas assez pour l'accuser publiquement.
-On a huit jours avant l'ouverture. Il va falloir faire vite, et faire
+On a sept jours avant l'ouverture. Il va falloir faire vite, et faire
 juste.
 
 — Il va falloir aussi vérifier son emploi du temps des derniers jours,
@@ -388,7 +388,7 @@ perçant malgré la gravité du moment :
 — Progrès notable, dit Souly, sans pouvoir s'empêcher de sourire à son
 tour.
 
-— Huit jours, répéta Karim, en se laissant tomber sur une chaise, la
+— Sept jours, répéta Karim, en se laissant tomber sur une chaise, la
 fatigue accumulée de ces derniers jours enfin visible sur son visage. Il
 va falloir un plan. Un vrai plan, pas juste de la bonne volonté et des
 photos floues.
@@ -401,8 +401,8 @@ juste.
 — Pour poser les questions que personne d'autre n'ose poser, compléta
 Sofia. C'est notre spécialité.
 
-Karim les regarda tous les deux, un sourire fatigué mais
-sincère éclairant enfin son visage, avant de se lever pour attraper le
+Karim les regarda tous les deux, quelque chose se relâchant enfin dans
+ses épaules, avant de se lever pour attraper le
 disque de sauvegarde une fois de plus.
 
 — Il faudra aussi penser à Mme Delacroix, ajouta Sofia, plus sérieuse
@@ -419,5 +419,5 @@ voudra bien l'entendre.
 Ce soir-là, avant de s'endormir, Souly ajouta une dernière ligne à son
 carnet, sous la liste des suspects réduite à un seul nom :
 
-« Huit jours. On sait qui. On sait pas encore comment le prouver
+« Sept jours. On sait qui. On sait pas encore comment le prouver
 totalement. On va trouver. »

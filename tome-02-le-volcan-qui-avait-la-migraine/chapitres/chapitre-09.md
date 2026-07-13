@@ -46,7 +46,7 @@ voulait dire.
 
 — Je ne sais pas, admit Karim. Peut-être directement sur son propre
 ordinateur, avant l'envoi. Peut-être qu'il a un accès qu'on n'a pas encore
-identifié. On n'a plus que quatre jours avant l'ouverture, et je commence à
+identifié. On n'a plus que trois jours avant l'ouverture, et je commence à
 manquer d'idées.
 
 Léna, restée silencieuse depuis la sortie du local, referma lentement le
@@ -494,7 +494,7 @@ la pièce, entendait presque chaque mot sans effort.
 un peu — la coupure de courant, le bâtiment, tout. Dites-moi que les
 enfants vont bien, je vous en supplie, sinon je ne dors pas de la nuit.
 
-— Ils vont bien, dit Karim, un sourire fatigué mais réel sur le visage.
+— Ils vont bien, dit Karim, la voix rauque de fatigue mais sincère.
 Un peu secoués. Souly en particulier s'est plutôt bien débrouillé, dans
 le noir.
 

@@ -38,7 +38,7 @@ M. Foucher se révéla être un homme d'une soixantaine d'années passées,
 petit, rond, avec des lunettes si épaisses qu'elles semblaient
 agrandir ses yeux à une taille presque comique, installé derrière un
 comptoir couvert de piles de dossiers en désordre apparent mais que lui
-seul, visiblement, savait naviguer sans jamais se tromper.
+seul, semblait-il, savait naviguer sans jamais se tromper.
 
 — Les enfants de Karim ! s'exclama-t-il en les voyant entrer, sans
 qu'ils aient eu le temps de se présenter. Enfin, pas SES enfants, ses
@@ -107,7 +107,7 @@ Souly, qui n'avait pas mis longtemps à repérer les rangées de classeurs
 étiquetés à la main derrière le comptoir, s'en approcha avec l'intérêt
 immédiat de quelqu'un qui reconnaissait un territoire familier. Chaque
 classeur portait une étiquette manuscrite, l'écriture changeant
-visiblement d'une décennie à l'autre — ronde et appliquée sur les plus
+nettement d'une décennie à l'autre — ronde et appliquée sur les plus
 anciens, plus rapide et penchée sur les plus récents, comme si on
 pouvait lire, rien qu'aux lettres elles-mêmes, l'âge de celui qui les
 avait tracées.
@@ -235,7 +235,7 @@ J'en ai lu peut-être une boîte sur dix. C'est un travail pour toute une
 vie, pas pour un été.
 
 Souly regarda les rangées de boîtes, puis regarda Léna, puis Sofia, et une
-idée commença visiblement à germer derrière son front plissé — Sofia
+idée commença à germer derrière son front plissé — Sofia
 reconnut immédiatement cette expression-là, toujours la même, chaque fois
 qu'un début d'enquête pointait le bout de son nez.
 
@@ -255,7 +255,7 @@ tombe bien qu'on soit trois.
 — Quatre, corrigea une voix depuis la porte.
 
 M. Foucher se tenait dans l'encadrement, un sourire un peu gêné aux lèvres,
-visiblement pas mécontent d'avoir été surpris à écouter.
+pas mécontent, de toute évidence, d'avoir été surpris à écouter.
 
 — Si vous cherchez dans mes archives, dit-il, il est hors de question que
 je reste à l'écart. C'est moi qui connais le mieux ce classement, même si je

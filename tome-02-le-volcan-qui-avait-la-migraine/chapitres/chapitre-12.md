@@ -162,7 +162,7 @@ avec un peu d'attention des deux côtés.
 
 — Vous restez, vous ? demanda Souly. Avec le nouveau poste consultatif ?
 
-— J'ai fini par accepter, dit Amara, avec un demi-sourire. Quelqu'un doit
+— J'ai fini par accepter, dit Amara, non sans une pointe d'ironie. Quelqu'un doit
 bien continuer à embêter tout le monde avec des questions gênantes.
 Autant que ce soit officiel, maintenant.
 

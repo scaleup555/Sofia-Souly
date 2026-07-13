@@ -176,8 +176,8 @@ catastrophes consécutives, ne semblait pouvoir entamer.
 
 Le patron du café, un homme placide qui les avait vues débarquer chaque
 après-midi avec une inquiétude grandissante, finit par s'approcher de
-leur table, un torchon sur l'épaule, une expression qui hésitait entre
-l'amusement et l'inquiétude sincère.
+leur table, un torchon sur l'épaule, quelque part entre l'amusement et
+l'inquiétude sincère.
 
 — C'est la troisième catastrophe en deux jours, dit-il, pas franchement
 en colère, mais visiblement perplexe. Vous préparez un exposé sur les
@@ -394,7 +394,7 @@ Le dîner, ce soir-là, se déroula dans une atmosphère étrange, tendue et
 fébrile à la fois, chacun conscient que le lendemain
 matin pourrait enfin apporter la preuve qui manquait depuis le début —
 ou, pire, ne rien apporter du tout, et les laisser sans nouvelle piste à
-cinq jours de l'ouverture.
+quatre jours de l'ouverture.
 
 — Et si le local est vide de toute preuve ? demanda Sofia, en repoussant
 son assiette, l'appétit visiblement coupé par l'inquiétude.

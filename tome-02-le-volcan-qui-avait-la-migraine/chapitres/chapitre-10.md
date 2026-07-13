@@ -443,7 +443,7 @@ deuxième moitié de toute cette histoire, dit-il lentement.
 — La partie qui explique pas juste qui a menti, dit Sofia, songeuse, mais
 si la montagne, elle, dit vrai.
 
-— Trois jours avant l'ouverture, dit Souly, en vérifiant la date sur son
+— Deux jours avant l'ouverture, dit Souly, en vérifiant la date sur son
 carnet. Enfin, l'ouverture reportée. Mais Léna et son grand-père doivent
 toujours avoir tous les documents. Il faudrait qu'on prépare une vraie
 présentation. Pas juste leur raconter en vitesse dans un coin.

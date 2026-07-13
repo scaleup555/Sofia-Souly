@@ -52,8 +52,8 @@ En passant devant le petit groupe, Sofia parvint à lire, sur l'une des
 pancartes, en lettres peintes à la hâte : « UN VOLCAN N'EST PAS UN
 SPA ». Une autre, plus sobre, annonçait simplement : « ÉCOUTEZ LA
 SCIENCE, PAS LES ACTIONNAIRES ». Un des ouvriers du chantier, posté près
-du grillage, observait la scène, une expression hésitant entre
-l'agacement et une lassitude plus profonde, celle de quelqu'un qui avait
+du grillage, observait la scène d'un œil aussi las qu'agacé, celui de
+quelqu'un qui avait
 déjà vécu cette même manifestation trop de fois pour s'en émouvoir
 encore vraiment.
 
