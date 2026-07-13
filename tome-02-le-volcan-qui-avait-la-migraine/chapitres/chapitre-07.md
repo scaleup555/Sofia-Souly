@@ -416,8 +416,12 @@ voudra bien l'entendre.
 
 — D'accord, dit-il. Alors on continue. Ensemble.
 
-Ce soir-là, avant de s'endormir, Souly ajouta une dernière ligne à son
-carnet, sous la liste des suspects réduite à un seul nom :
+Sofia, déjà à moitié endormie sur le canapé, marmonna quelque chose
+d'indistinct qui ressemblait, d'assez près, à « sept jours, ça suffira »
+— une affirmation qu'elle n'aurait probablement pas assumée aussi
+tranquillement si elle avait été réveillée pour la répéter.
 
-« Sept jours. On sait qui. On sait pas encore comment le prouver
-totalement. On va trouver. »
+— On dirait qu'elle a plus confiance que nous deux réunis, dit Souly.
+
+— Elle a souvent raison, admit Karim, en éteignant la dernière lampe. On
+verra bien si cette fois ne fait pas exception.

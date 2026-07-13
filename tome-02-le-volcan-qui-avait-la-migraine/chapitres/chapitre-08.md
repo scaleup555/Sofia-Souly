@@ -270,7 +270,7 @@ respecte le périmètre d'observation mieux que les humains. »
 
 — Note-le, dit Souly. Ça pourrait servir de leçon, un jour.
 
-Le motif qui se dessina, au bout de deux jours, était d'une régularité
+Le motif qui se dessina, au fil de ces trois jours, était d'une régularité
 presque comique : Rocheteau quittait son bureau chaque après-midi vers
 seize heures, sans exception, une sacoche à la main, pour se rendre à pied
 jusqu'à un petit local technique attenant au chantier, où étaient

@@ -400,9 +400,8 @@ neuve, presque farouche.
 commence à chercher activement la faille de Rocheteau. Et on ne
 s'arrêtera pas avant de l'avoir trouvée.
 
-Cette nuit-là, alors que Sofia dormait déjà profondément sur le canapé,
-Magma roulé en boule contre son épaule, Souly resta longtemps éveillé,
-fixant le plafond du chalet, à repenser à la phrase de Karim, encore et
-encore, jusqu'à ce qu'une question, une seule, finisse par prendre toute
-la place dans sa tête : et si, la prochaine fois, ils n'arrivaient pas à
-temps ?
+Dehors, le Grand Sombre restait invisible dans l'obscurité totale, mais
+Souly, allongé à côté de Sofia déjà endormie, aurait juré sentir sa
+présence malgré tout — une masse silencieuse, patiente, qui attendait son
+tour de parler. Une seule question refusait de le laisser tranquille : et
+si, la prochaine fois, ils n'arrivaient pas à temps ?

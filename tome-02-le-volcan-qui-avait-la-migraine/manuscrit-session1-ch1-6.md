@@ -982,15 +982,15 @@ vérité et protéger onze jours d'attente.
 
 # Chapitre 3 — La comptine et les carnets
 
-La médiathèque de Roche-Fumée-les-Bains occupait l'ancienne halle au
-fromage de la ville, un bâtiment de pierre noire volcanique percé de
-hautes fenêtres, où l'odeur du vieux papier avait, avec les années, fini
-par remplacer complètement celle du fromage. Une plaque de cuivre à
-moitié verte, vissée près de l'entrée, rappelait encore, en lettres à
-demi effacées, que le bâtiment avait produit, « à son apogée, jusqu'à
-quatre tonnes de fromage de montagne par semaine » — un détail que Sofia
-trouva plus fascinant que n'importe quelle archive qu'ils étaient venus
-consulter.
+Le lendemain, Karim les emmena à la médiathèque de Roche-Fumée-les-Bains,
+qui occupait l'ancienne halle au fromage de la ville, un bâtiment de
+pierre noire volcanique percé de hautes fenêtres, où l'odeur du vieux
+papier avait, avec les années, fini par remplacer complètement celle du
+fromage. Une plaque de cuivre à moitié verte, vissée près de l'entrée,
+rappelait encore, en lettres à demi effacées, que le bâtiment avait
+produit, « à son apogée, jusqu'à quatre tonnes de fromage de montagne
+par semaine » — un détail que Sofia trouva plus fascinant que n'importe
+quelle archive qu'ils étaient venus consulter.
 
 — Quatre tonnes, répéta-t-elle, en essayant d'imaginer le volume que ça
 représentait. C'est énorme.
@@ -1008,9 +1008,9 @@ fromage tellement fort que même Magma aurait probablement refusé d'en
 approcher. Je m'en souviens encore, ce qui, pour un fromage, est
 peut-être le plus grand compliment possible.
 
-Karim les y déposa en fin de
-matinée, le temps d'aller « régler deux ou trois choses administratives »
-qu'il ne détailla pas davantage, et promit de revenir avant midi.
+Il les laissa là, le temps d'aller « régler deux ou trois choses
+administratives » qu'il ne détailla pas davantage, et promit de revenir
+avant midi.
 
 — Vous allez adorer M. Foucher, avait-il ajouté avant de partir. Il connaît
 cette ville mieux que n'importe quel livre écrit sur elle. Ce qui tombe
@@ -1039,7 +1039,7 @@ lui avait recommandée dans la camionnette, quelques minutes plus tôt,
 — Ah, au courant ! dit M. Foucher, sans la moindre gêne apparente pour
 la confusion. Ma petite, dans une ville de huit cents habitants, une
 nouvelle met moins de temps à circuler qu'un été à passer, dit-il, avec
-une fierté manifeste pour sa propre formule. Léna ! Viens voir qui est là !
+une fierté non dissimulée pour sa propre formule. Léna ! Viens voir qui est là !
 
 Une fille d'à peu près onze ans émergea de derrière une étagère,
 un livre encore ouvert dans une main, l'air de quelqu'un qu'on avait
@@ -2023,7 +2023,7 @@ ajouter, leva soudain la main comme si elle était encore à l'école.
 tien. Ils ont peut-être tous des bouts de comptine, ou des histoires de
 famille, qui se recoupent.
 
-M. Foucher la regarda, visiblement impressionné.
+M. Foucher la regarda, les sourcils levés, presque admiratif.
 
 — Voilà une idée qui ne m'était jamais venue en vingt ans de métier,
 dit-il. Et venant d'une enfant de huit ans, ça devrait me vexer un peu
@@ -2650,11 +2650,10 @@ neuve, presque farouche.
 commence à chercher activement la faille de Rocheteau. Et on ne
 s'arrêtera pas avant de l'avoir trouvée.
 
-Cette nuit-là, alors que Sofia dormait déjà profondément sur le canapé,
-Magma roulé en boule contre son épaule, Souly resta longtemps éveillé,
-fixant le plafond du chalet, à repenser à la phrase de Karim, encore et
-encore, jusqu'à ce qu'une question, une seule, finisse par prendre toute
-la place dans sa tête : et si, la prochaine fois, ils n'arrivaient pas à
-temps ?
+Dehors, le Grand Sombre restait invisible dans l'obscurité totale, mais
+Souly, allongé à côté de Sofia déjà endormie, aurait juré sentir sa
+présence malgré tout — une masse silencieuse, patiente, qui attendait son
+tour de parler. Une seule question refusait de le laisser tranquille : et
+si, la prochaine fois, ils n'arrivaient pas à temps ?
 
 

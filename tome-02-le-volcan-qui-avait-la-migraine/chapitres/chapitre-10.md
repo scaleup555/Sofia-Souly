@@ -374,7 +374,7 @@ en train de crier dans le vide devant ce chantier.
 — C'est vous qui avez fait tout le travail difficile, dit Souly. On a
 juste posé les bonnes questions au bon moment.
 
-— C'est déjà énorme, dit Amara, avec un sérieux qui contrastait avec le
+— C'est déjà énorme, dit Amara, sérieuse, en contraste avec le
 sourire qui, pour la première fois depuis leur rencontre, ne quittait
 plus vraiment son visage. La plupart des gens ne posent jamais aucune
 question du tout. Ils préfèrent croire ce qui les arrange.
@@ -443,10 +443,13 @@ deuxième moitié de toute cette histoire, dit-il lentement.
 — La partie qui explique pas juste qui a menti, dit Sofia, songeuse, mais
 si la montagne, elle, dit vrai.
 
-— Deux jours avant l'ouverture, dit Souly, en vérifiant la date sur son
-carnet. Enfin, l'ouverture reportée. Mais Léna et son grand-père doivent
-toujours avoir tous les documents. Il faudrait qu'on prépare une vraie
-présentation. Pas juste leur raconter en vitesse dans un coin.
+Souly vérifia machinalement la date sur son carnet, avant de secouer la
+tête.
+
+— Le compte à rebours a plus vraiment de sens, maintenant que l'ouverture
+est reportée, dit-il. Mais Léna et son grand-père doivent toujours avoir
+tous les documents. Il faudrait qu'on prépare une vraie présentation.
+Pas juste leur raconter en vitesse dans un coin.
 
 — Une présentation devant qui ? demanda Sofia.
 

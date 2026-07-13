@@ -15,8 +15,9 @@ Souly eurent néanmoins le privilège d'appuyer, ensemble, sur le bouton
 de mise en service, sous l'œil attendri de toute l'équipe de la station.
 
 — Officiellement les plus jeunes co-inaugurateurs d'un système de
-surveillance volcanique de toute la région, avait annoncé Karim, avec
-un sérieux qui masquait mal sa fierté.
+surveillance volcanique de toute la région, avait annoncé Karim, en
+échouant à peu près complètement à cacher sa fierté sous un ton
+protocolaire.
 
 — On collectionne les titres, cet été, avait remarqué Sofia, en pensant
 à voix haute à leur brève carrière de « personnalités locales ».
@@ -205,7 +206,7 @@ La dernière nuit à la station se déroula dans une atmosphère de fête
 tranquille : Karim avait insisté pour préparer, cette fois, un vrai
 repas plutôt que ses pâtes légèrement trop cuites habituelles — un
 poulet rôti aux herbes de montagne qu'il avait passé l'après-midi entier
-à surveiller avec une attention presque scientifique, vérifiant la
+à surveiller, vérifiant la
 température toutes les dix minutes comme s'il s'agissait d'un relevé
 sismique particulièrement délicat.
 

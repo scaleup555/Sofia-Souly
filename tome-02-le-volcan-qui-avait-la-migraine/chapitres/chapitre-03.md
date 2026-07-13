@@ -1,14 +1,14 @@
 # Chapitre 3 — La comptine et les carnets
 
-La médiathèque de Roche-Fumée-les-Bains occupait l'ancienne halle au
-fromage de la ville, un bâtiment de pierre noire volcanique percé de
-hautes fenêtres, où l'odeur du vieux papier avait, avec les années, fini
-par remplacer complètement celle du fromage. Une plaque de cuivre à
-moitié verte, vissée près de l'entrée, rappelait encore, en lettres à
-demi effacées, que le bâtiment avait produit, « à son apogée, jusqu'à
-quatre tonnes de fromage de montagne par semaine » — un détail que Sofia
-trouva plus fascinant que n'importe quelle archive qu'ils étaient venus
-consulter.
+Le lendemain, Karim les emmena à la médiathèque de Roche-Fumée-les-Bains,
+qui occupait l'ancienne halle au fromage de la ville, un bâtiment de
+pierre noire volcanique percé de hautes fenêtres, où l'odeur du vieux
+papier avait, avec les années, fini par remplacer complètement celle du
+fromage. Une plaque de cuivre à moitié verte, vissée près de l'entrée,
+rappelait encore, en lettres à demi effacées, que le bâtiment avait
+produit, « à son apogée, jusqu'à quatre tonnes de fromage de montagne
+par semaine » — un détail que Sofia trouva plus fascinant que n'importe
+quelle archive qu'ils étaient venus consulter.
 
 — Quatre tonnes, répéta-t-elle, en essayant d'imaginer le volume que ça
 représentait. C'est énorme.
@@ -26,9 +26,9 @@ fromage tellement fort que même Magma aurait probablement refusé d'en
 approcher. Je m'en souviens encore, ce qui, pour un fromage, est
 peut-être le plus grand compliment possible.
 
-Karim les y déposa en fin de
-matinée, le temps d'aller « régler deux ou trois choses administratives »
-qu'il ne détailla pas davantage, et promit de revenir avant midi.
+Il les laissa là, le temps d'aller « régler deux ou trois choses
+administratives » qu'il ne détailla pas davantage, et promit de revenir
+avant midi.
 
 — Vous allez adorer M. Foucher, avait-il ajouté avant de partir. Il connaît
 cette ville mieux que n'importe quel livre écrit sur elle. Ce qui tombe
@@ -57,7 +57,7 @@ lui avait recommandée dans la camionnette, quelques minutes plus tôt,
 — Ah, au courant ! dit M. Foucher, sans la moindre gêne apparente pour
 la confusion. Ma petite, dans une ville de huit cents habitants, une
 nouvelle met moins de temps à circuler qu'un été à passer, dit-il, avec
-une fierté manifeste pour sa propre formule. Léna ! Viens voir qui est là !
+une fierté non dissimulée pour sa propre formule. Léna ! Viens voir qui est là !
 
 Une fille d'à peu près onze ans émergea de derrière une étagère,
 un livre encore ouvert dans une main, l'air de quelqu'un qu'on avait

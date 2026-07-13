@@ -187,7 +187,7 @@ ajouter, leva soudain la main comme si elle était encore à l'école.
 tien. Ils ont peut-être tous des bouts de comptine, ou des histoires de
 famille, qui se recoupent.
 
-M. Foucher la regarda, visiblement impressionné.
+M. Foucher la regarda, les sourcils levés, presque admiratif.
 
 — Voilà une idée qui ne m'était jamais venue en vingt ans de métier,
 dit-il. Et venant d'une enfant de huit ans, ça devrait me vexer un peu

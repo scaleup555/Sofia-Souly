@@ -982,15 +982,15 @@ vérité et protéger onze jours d'attente.
 
 # Chapitre 3 — La comptine et les carnets
 
-La médiathèque de Roche-Fumée-les-Bains occupait l'ancienne halle au
-fromage de la ville, un bâtiment de pierre noire volcanique percé de
-hautes fenêtres, où l'odeur du vieux papier avait, avec les années, fini
-par remplacer complètement celle du fromage. Une plaque de cuivre à
-moitié verte, vissée près de l'entrée, rappelait encore, en lettres à
-demi effacées, que le bâtiment avait produit, « à son apogée, jusqu'à
-quatre tonnes de fromage de montagne par semaine » — un détail que Sofia
-trouva plus fascinant que n'importe quelle archive qu'ils étaient venus
-consulter.
+Le lendemain, Karim les emmena à la médiathèque de Roche-Fumée-les-Bains,
+qui occupait l'ancienne halle au fromage de la ville, un bâtiment de
+pierre noire volcanique percé de hautes fenêtres, où l'odeur du vieux
+papier avait, avec les années, fini par remplacer complètement celle du
+fromage. Une plaque de cuivre à moitié verte, vissée près de l'entrée,
+rappelait encore, en lettres à demi effacées, que le bâtiment avait
+produit, « à son apogée, jusqu'à quatre tonnes de fromage de montagne
+par semaine » — un détail que Sofia trouva plus fascinant que n'importe
+quelle archive qu'ils étaient venus consulter.
 
 — Quatre tonnes, répéta-t-elle, en essayant d'imaginer le volume que ça
 représentait. C'est énorme.
@@ -1008,9 +1008,9 @@ fromage tellement fort que même Magma aurait probablement refusé d'en
 approcher. Je m'en souviens encore, ce qui, pour un fromage, est
 peut-être le plus grand compliment possible.
 
-Karim les y déposa en fin de
-matinée, le temps d'aller « régler deux ou trois choses administratives »
-qu'il ne détailla pas davantage, et promit de revenir avant midi.
+Il les laissa là, le temps d'aller « régler deux ou trois choses
+administratives » qu'il ne détailla pas davantage, et promit de revenir
+avant midi.
 
 — Vous allez adorer M. Foucher, avait-il ajouté avant de partir. Il connaît
 cette ville mieux que n'importe quel livre écrit sur elle. Ce qui tombe
@@ -1039,7 +1039,7 @@ lui avait recommandée dans la camionnette, quelques minutes plus tôt,
 — Ah, au courant ! dit M. Foucher, sans la moindre gêne apparente pour
 la confusion. Ma petite, dans une ville de huit cents habitants, une
 nouvelle met moins de temps à circuler qu'un été à passer, dit-il, avec
-une fierté manifeste pour sa propre formule. Léna ! Viens voir qui est là !
+une fierté non dissimulée pour sa propre formule. Léna ! Viens voir qui est là !
 
 Une fille d'à peu près onze ans émergea de derrière une étagère,
 un livre encore ouvert dans une main, l'air de quelqu'un qu'on avait
@@ -2023,7 +2023,7 @@ ajouter, leva soudain la main comme si elle était encore à l'école.
 tien. Ils ont peut-être tous des bouts de comptine, ou des histoires de
 famille, qui se recoupent.
 
-M. Foucher la regarda, visiblement impressionné.
+M. Foucher la regarda, les sourcils levés, presque admiratif.
 
 — Voilà une idée qui ne m'était jamais venue en vingt ans de métier,
 dit-il. Et venant d'une enfant de huit ans, ça devrait me vexer un peu
@@ -2650,12 +2650,11 @@ neuve, presque farouche.
 commence à chercher activement la faille de Rocheteau. Et on ne
 s'arrêtera pas avant de l'avoir trouvée.
 
-Cette nuit-là, alors que Sofia dormait déjà profondément sur le canapé,
-Magma roulé en boule contre son épaule, Souly resta longtemps éveillé,
-fixant le plafond du chalet, à repenser à la phrase de Karim, encore et
-encore, jusqu'à ce qu'une question, une seule, finisse par prendre toute
-la place dans sa tête : et si, la prochaine fois, ils n'arrivaient pas à
-temps ?
+Dehors, le Grand Sombre restait invisible dans l'obscurité totale, mais
+Souly, allongé à côté de Sofia déjà endormie, aurait juré sentir sa
+présence malgré tout — une masse silencieuse, patiente, qui attendait son
+tour de parler. Une seule question refusait de le laisser tranquille : et
+si, la prochaine fois, ils n'arrivaient pas à temps ?
 
 
 # Chapitre 7 — Ce qu'on doit à quelqu'un qu'on a mal jugé
@@ -3076,11 +3075,15 @@ voudra bien l'entendre.
 
 — D'accord, dit-il. Alors on continue. Ensemble.
 
-Ce soir-là, avant de s'endormir, Souly ajouta une dernière ligne à son
-carnet, sous la liste des suspects réduite à un seul nom :
+Sofia, déjà à moitié endormie sur le canapé, marmonna quelque chose
+d'indistinct qui ressemblait, d'assez près, à « sept jours, ça suffira »
+— une affirmation qu'elle n'aurait probablement pas assumée aussi
+tranquillement si elle avait été réveillée pour la répéter.
 
-« Sept jours. On sait qui. On sait pas encore comment le prouver
-totalement. On va trouver. »
+— On dirait qu'elle a plus confiance que nous deux réunis, dit Souly.
+
+— Elle a souvent raison, admit Karim, en éteignant la dernière lampe. On
+verra bien si cette fois ne fait pas exception.
 
 
 # Chapitre 8 — Le logo sur la portière
@@ -3355,7 +3358,7 @@ respecte le périmètre d'observation mieux que les humains. »
 
 — Note-le, dit Souly. Ça pourrait servir de leçon, un jour.
 
-Le motif qui se dessina, au bout de deux jours, était d'une régularité
+Le motif qui se dessina, au fil de ces trois jours, était d'une régularité
 presque comique : Rocheteau quittait son bureau chaque après-midi vers
 seize heures, sans exception, une sacoche à la main, pour se rendre à pied
 jusqu'à un petit local technique attenant au chantier, où étaient
@@ -4405,7 +4408,7 @@ en train de crier dans le vide devant ce chantier.
 — C'est vous qui avez fait tout le travail difficile, dit Souly. On a
 juste posé les bonnes questions au bon moment.
 
-— C'est déjà énorme, dit Amara, avec un sérieux qui contrastait avec le
+— C'est déjà énorme, dit Amara, sérieuse, en contraste avec le
 sourire qui, pour la première fois depuis leur rencontre, ne quittait
 plus vraiment son visage. La plupart des gens ne posent jamais aucune
 question du tout. Ils préfèrent croire ce qui les arrange.
@@ -4474,10 +4477,13 @@ deuxième moitié de toute cette histoire, dit-il lentement.
 — La partie qui explique pas juste qui a menti, dit Sofia, songeuse, mais
 si la montagne, elle, dit vrai.
 
-— Deux jours avant l'ouverture, dit Souly, en vérifiant la date sur son
-carnet. Enfin, l'ouverture reportée. Mais Léna et son grand-père doivent
-toujours avoir tous les documents. Il faudrait qu'on prépare une vraie
-présentation. Pas juste leur raconter en vitesse dans un coin.
+Souly vérifia machinalement la date sur son carnet, avant de secouer la
+tête.
+
+— Le compte à rebours a plus vraiment de sens, maintenant que l'ouverture
+est reportée, dit-il. Mais Léna et son grand-père doivent toujours avoir
+tous les documents. Il faudrait qu'on prépare une vraie présentation.
+Pas juste leur raconter en vitesse dans un coin.
 
 — Une présentation devant qui ? demanda Sofia.
 
@@ -4907,8 +4913,9 @@ Souly eurent néanmoins le privilège d'appuyer, ensemble, sur le bouton
 de mise en service, sous l'œil attendri de toute l'équipe de la station.
 
 — Officiellement les plus jeunes co-inaugurateurs d'un système de
-surveillance volcanique de toute la région, avait annoncé Karim, avec
-un sérieux qui masquait mal sa fierté.
+surveillance volcanique de toute la région, avait annoncé Karim, en
+échouant à peu près complètement à cacher sa fierté sous un ton
+protocolaire.
 
 — On collectionne les titres, cet été, avait remarqué Sofia, en pensant
 à voix haute à leur brève carrière de « personnalités locales ».
@@ -5097,7 +5104,7 @@ La dernière nuit à la station se déroula dans une atmosphère de fête
 tranquille : Karim avait insisté pour préparer, cette fois, un vrai
 repas plutôt que ses pâtes légèrement trop cuites habituelles — un
 poulet rôti aux herbes de montagne qu'il avait passé l'après-midi entier
-à surveiller avec une attention presque scientifique, vérifiant la
+à surveiller, vérifiant la
 température toutes les dix minutes comme s'il s'agissait d'un relevé
 sismique particulièrement délicat.
 
