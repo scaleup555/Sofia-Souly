@@ -411,9 +411,9 @@ lourds de fatigue. Ce soir, on dort. Demain, on réfléchit avec la tête
 reposée plutôt qu'avec la colère toute fraîche. C'est une règle que
 j'essaie de suivre, même quand elle est difficile.
 
-Souly hocha la tête, referma son carnet, et resta un long moment, avant
-de s'endormir, à fixer le plafond du chalet en repensant à la phrase de
-Karim sur les deux moitiés du problème — l'accès d'un côté, le motif de
-l'autre — comme si ces deux moitiés, une fois réunies, allaient former
-quelque chose qu'aucun d'eux, ce soir-là, n'était encore tout à fait prêt
-à affronter.
+Souly hocha la tête et referma son carnet, mais la phrase de Karim sur
+les deux moitiés du problème — l'accès d'un côté, le motif de l'autre —
+continua de tourner dans sa tête bien après que la respiration de Sofia
+fut devenue lente et régulière à côté de lui. Deux moitiés qui, une fois
+réunies, allaient former quelque chose qu'aucun d'eux, ce soir-là,
+n'était encore tout à fait prêt à affronter.

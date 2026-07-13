@@ -204,8 +204,8 @@ s'accumulaient avec une précision méthodique qui contrastait joliment
 avec le chaos ambiant de leurs observations. Chaque après-midi, à la même
 minute près, Rocheteau émergeait de son bureau, sacoche en cuir sous le
 bras, et s'engageait sur le même chemin, sans jamais varier son
-itinéraire d'un mètre — un détail que Souly avait souligné trois fois
-dans son carnet, convaincu qu'un tel niveau de régularité ne pouvait pas
+itinéraire d'un mètre — un détail que Souly avait entouré d'un trait
+épais dans son carnet, convaincu qu'un tel niveau de régularité ne pouvait pas
 être un simple hasard chez un homme par ailleurs si soucieux de paraître
 imprévisible en public.
 
@@ -247,8 +247,9 @@ direction depuis le début. C'est plutôt bon signe, question preuve.
 
 — Les deux à la fois, admit Karim, sans joie.
 
-Souly griffonna l'observation à la hâte dans la marge de son carnet,
-soulignée deux fois, avant de la ranger avec le reste — une pièce
+Souly griffonna l'observation à la hâte dans la marge de son carnet, un
+astérisque planté à côté pour ne pas l'oublier, avant de la ranger avec
+le reste — une pièce
 supplémentaire d'un puzzle qui, lentement, prenait forme.
 
 Magma, qui avait fini par s'habituer à leurs allées et venues
@@ -413,7 +414,7 @@ grand jour.
 
 Ce soir-là, alors que Sofia dormait déjà, Souly resta un moment éveillé,
 à relire toute sa liste de suspects, ses indices, ses dates, avant
-d'ajouter, tout en bas de la page, une dernière ligne qu'il souligna deux
-fois avant d'éteindre la lumière :
+d'ajouter, en travers de la marge, une dernière ligne, avant d'éteindre
+la lumière :
 
 « Demain, on saura enfin ce qu'il y a dans ce local. »

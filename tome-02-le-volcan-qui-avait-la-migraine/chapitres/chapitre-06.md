@@ -317,7 +317,7 @@ et où le surprendre.
 différentes, mais si on les observe assez longtemps, il y a toujours un
 motif qui se dessine.
 
-— Exactement comme les vagues, confirma Karim, avec un sourire qui
+— Exactement comme les vagues, dit Karim, un sourire qui
 retrouvait, pour la première fois depuis la conférence de presse, un peu
 de sa chaleur habituelle. Vous apprenez vite, tous les deux.
 

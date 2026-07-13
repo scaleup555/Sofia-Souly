@@ -149,7 +149,7 @@ l'un sous l'autre. Toujours entre quatre-vingt-dix-sept et cent deux.
 C'est pas un métronome parfait. C'est plutôt... une moyenne.
 
 — Une moyenne avec une marge d'erreur de quelques années dans un sens ou
-dans l'autre, confirma M. Foucher, visiblement impressionné. Ce qui,
+dans l'autre, dit M. Foucher, visiblement impressionné. Ce qui,
 pour un phénomène géologique étalé sur trois siècles d'archives
 imparfaites, est d'une régularité presque suspecte.
 
@@ -177,7 +177,7 @@ sans le savoir vraiment, quelque chose que personne n'avait pris la peine
 de vérifier avec des instruments.
 
 Souly recopia la phrase presque intégralement, avant d'ajouter, en marge,
-une note qu'il souligna deux fois : « Le folklore n'est pas une preuve.
+une note en lettres capitales : « Le folklore n'est pas une preuve.
 Mais il n'est pas rien non plus. »
 
 Sofia, qui avait suivi toute la discussion sans trouver grand-chose à
@@ -308,7 +308,7 @@ avant de prendre la moindre décision.
 — Le rapport de Rocheteau, répéta Souly, en fronçant les sourcils. Celui
 qui a déjà accès à tes codes.
 
-— Celui-là même, confirma Karim, en remuant la soupe avec un peu plus de
+— Celui-là même, dit Karim, en remuant la soupe avec un peu plus de
 vigueur que nécessaire. Je te laisse deviner ce que ce rapport va
 probablement dire.
 
@@ -345,7 +345,7 @@ quand même, en versant enfin la soupe dans trois bols.
 
 Souly, qui n'avait presque rien dit depuis la révélation sur Amara, referma
 lentement son carnet et regarda la liste de suspects, réduite désormais à
-un seul nom souligné trois fois.
+un seul nom.
 
 — S'il reste que Rocheteau, dit-il, il va falloir des preuves bien plus
 solides qu'une intuition avant de l'accuser à voix haute. On a déjà appris
@@ -387,9 +387,10 @@ Après le dîner, pendant que Karim débarrassait, Souly ressortit une
 dernière fois son carnet et entreprit de recopier, au propre, tout ce
 qu'ils avaient appris depuis deux jours : la comptine, les quatre
 événements historiques, le motif des cent ans, le capteur trafiqué, et
-maintenant, en tête de liste, un seul nom souligné trois fois. Il
-s'arrêta, le crayon suspendu, avant d'ajouter, tout en bas de
-la page, une question qu'il n'avait encore posée à personne, même pas à
+maintenant, en tête de liste, un seul nom, écrit en lettres plus grandes
+que le reste de la page. Il s'arrêta, le crayon suspendu, avant
+d'ajouter, dans la marge, une
+question qu'il n'avait encore posée à personne, même pas à
 Sofia :
 
 « Si Rocheteau a un motif, quel est-il exactement ? L'argent ? La
@@ -405,8 +406,8 @@ a besoin des deux.
 — On trouvera, dit Sofia, avec une confiance qui, pour une fois, ne
 semblait pas tout à fait feinte. On trouve toujours.
 
-Dehors, la nuit était tombée sur le Grand Sombre, et à travers la
-fenêtre du chalet, on distinguait à peine, tout en haut de la montagne,
+La nuit était tombée depuis longtemps sur le Grand Sombre quand Sofia
+remarqua, à travers la fenêtre du chalet, tout en haut de la montagne,
 un mince filet de brume qui montait lentement vers les étoiles — peut-
 être de la simple humidité du soir, peut-être autre chose, personne, ce
 soir-là, n'aurait su le dire avec certitude.

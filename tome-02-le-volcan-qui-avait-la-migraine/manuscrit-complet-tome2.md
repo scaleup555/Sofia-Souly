@@ -883,8 +883,8 @@ n'importe quoi, même si ça vous semble idiot — vous me le dites. Dans ce
 métier, ce sont souvent les détails que tout le monde juge trop petits
 pour compter qui finissent par tout expliquer.
 
-Souly hocha la tête et nota la phrase presque mot pour mot, tout en bas de
-sa page, avant de la souligner deux fois.
+Souly hocha la tête et recopia la phrase presque mot pour mot, entourant
+les derniers mots d'un trait de crayon appuyé.
 
 ---
 
@@ -1829,12 +1829,12 @@ lourds de fatigue. Ce soir, on dort. Demain, on réfléchit avec la tête
 reposée plutôt qu'avec la colère toute fraîche. C'est une règle que
 j'essaie de suivre, même quand elle est difficile.
 
-Souly hocha la tête, referma son carnet, et resta un long moment, avant
-de s'endormir, à fixer le plafond du chalet en repensant à la phrase de
-Karim sur les deux moitiés du problème — l'accès d'un côté, le motif de
-l'autre — comme si ces deux moitiés, une fois réunies, allaient former
-quelque chose qu'aucun d'eux, ce soir-là, n'était encore tout à fait prêt
-à affronter.
+Souly hocha la tête et referma son carnet, mais la phrase de Karim sur
+les deux moitiés du problème — l'accès d'un côté, le motif de l'autre —
+continua de tourner dans sa tête bien après que la respiration de Sofia
+fut devenue lente et régulière à côté de lui. Deux moitiés qui, une fois
+réunies, allaient former quelque chose qu'aucun d'eux, ce soir-là,
+n'était encore tout à fait prêt à affronter.
 
 
 # Chapitre 5 — Amara
@@ -1988,7 +1988,7 @@ l'un sous l'autre. Toujours entre quatre-vingt-dix-sept et cent deux.
 C'est pas un métronome parfait. C'est plutôt... une moyenne.
 
 — Une moyenne avec une marge d'erreur de quelques années dans un sens ou
-dans l'autre, confirma M. Foucher, visiblement impressionné. Ce qui,
+dans l'autre, dit M. Foucher, visiblement impressionné. Ce qui,
 pour un phénomène géologique étalé sur trois siècles d'archives
 imparfaites, est d'une régularité presque suspecte.
 
@@ -2016,7 +2016,7 @@ sans le savoir vraiment, quelque chose que personne n'avait pris la peine
 de vérifier avec des instruments.
 
 Souly recopia la phrase presque intégralement, avant d'ajouter, en marge,
-une note qu'il souligna deux fois : « Le folklore n'est pas une preuve.
+une note en lettres capitales : « Le folklore n'est pas une preuve.
 Mais il n'est pas rien non plus. »
 
 Sofia, qui avait suivi toute la discussion sans trouver grand-chose à
@@ -2147,7 +2147,7 @@ avant de prendre la moindre décision.
 — Le rapport de Rocheteau, répéta Souly, en fronçant les sourcils. Celui
 qui a déjà accès à tes codes.
 
-— Celui-là même, confirma Karim, en remuant la soupe avec un peu plus de
+— Celui-là même, dit Karim, en remuant la soupe avec un peu plus de
 vigueur que nécessaire. Je te laisse deviner ce que ce rapport va
 probablement dire.
 
@@ -2184,7 +2184,7 @@ quand même, en versant enfin la soupe dans trois bols.
 
 Souly, qui n'avait presque rien dit depuis la révélation sur Amara, referma
 lentement son carnet et regarda la liste de suspects, réduite désormais à
-un seul nom souligné trois fois.
+un seul nom.
 
 — S'il reste que Rocheteau, dit-il, il va falloir des preuves bien plus
 solides qu'une intuition avant de l'accuser à voix haute. On a déjà appris
@@ -2226,9 +2226,10 @@ Après le dîner, pendant que Karim débarrassait, Souly ressortit une
 dernière fois son carnet et entreprit de recopier, au propre, tout ce
 qu'ils avaient appris depuis deux jours : la comptine, les quatre
 événements historiques, le motif des cent ans, le capteur trafiqué, et
-maintenant, en tête de liste, un seul nom souligné trois fois. Il
-s'arrêta, le crayon suspendu, avant d'ajouter, tout en bas de
-la page, une question qu'il n'avait encore posée à personne, même pas à
+maintenant, en tête de liste, un seul nom, écrit en lettres plus grandes
+que le reste de la page. Il s'arrêta, le crayon suspendu, avant
+d'ajouter, dans la marge, une
+question qu'il n'avait encore posée à personne, même pas à
 Sofia :
 
 « Si Rocheteau a un motif, quel est-il exactement ? L'argent ? La
@@ -2244,8 +2245,8 @@ a besoin des deux.
 — On trouvera, dit Sofia, avec une confiance qui, pour une fois, ne
 semblait pas tout à fait feinte. On trouve toujours.
 
-Dehors, la nuit était tombée sur le Grand Sombre, et à travers la
-fenêtre du chalet, on distinguait à peine, tout en haut de la montagne,
+La nuit était tombée depuis longtemps sur le Grand Sombre quand Sofia
+remarqua, à travers la fenêtre du chalet, tout en haut de la montagne,
 un mince filet de brume qui montait lentement vers les étoiles — peut-
 être de la simple humidité du soir, peut-être autre chose, personne, ce
 soir-là, n'aurait su le dire avec certitude.
@@ -2570,7 +2571,7 @@ et où le surprendre.
 différentes, mais si on les observe assez longtemps, il y a toujours un
 motif qui se dessine.
 
-— Exactement comme les vagues, confirma Karim, avec un sourire qui
+— Exactement comme les vagues, dit Karim, un sourire qui
 retrouvait, pour la première fois depuis la conférence de presse, un peu
 de sa chaleur habituelle. Vous apprenez vite, tous les deux.
 
@@ -3295,8 +3296,8 @@ s'accumulaient avec une précision méthodique qui contrastait joliment
 avec le chaos ambiant de leurs observations. Chaque après-midi, à la même
 minute près, Rocheteau émergeait de son bureau, sacoche en cuir sous le
 bras, et s'engageait sur le même chemin, sans jamais varier son
-itinéraire d'un mètre — un détail que Souly avait souligné trois fois
-dans son carnet, convaincu qu'un tel niveau de régularité ne pouvait pas
+itinéraire d'un mètre — un détail que Souly avait entouré d'un trait
+épais dans son carnet, convaincu qu'un tel niveau de régularité ne pouvait pas
 être un simple hasard chez un homme par ailleurs si soucieux de paraître
 imprévisible en public.
 
@@ -3338,8 +3339,9 @@ direction depuis le début. C'est plutôt bon signe, question preuve.
 
 — Les deux à la fois, admit Karim, sans joie.
 
-Souly griffonna l'observation à la hâte dans la marge de son carnet,
-soulignée deux fois, avant de la ranger avec le reste — une pièce
+Souly griffonna l'observation à la hâte dans la marge de son carnet, un
+astérisque planté à côté pour ne pas l'oublier, avant de la ranger avec
+le reste — une pièce
 supplémentaire d'un puzzle qui, lentement, prenait forme.
 
 Magma, qui avait fini par s'habituer à leurs allées et venues
@@ -3504,8 +3506,8 @@ grand jour.
 
 Ce soir-là, alors que Sofia dormait déjà, Souly resta un moment éveillé,
 à relire toute sa liste de suspects, ses indices, ses dates, avant
-d'ajouter, tout en bas de la page, une dernière ligne qu'il souligna deux
-fois avant d'éteindre la lumière :
+d'ajouter, en travers de la marge, une dernière ligne, avant d'éteindre
+la lumière :
 
 « Demain, on saura enfin ce qu'il y a dans ce local. »
 
@@ -4823,8 +4825,8 @@ sismique permanent pour la ville. Et refaire les Thermes, plus tard, une
 fois que ce sera vraiment sûr — avec vos capteurs intégrés dès le départ,
 cette fois, pas cachés dans un coin qu'on préfère ne pas regarder.
 
-Karim la regarda sans rien dire, avant de hocher la tête, une seule fois,
-lentement.
+Karim la regarda sans rien dire, un long silence approbateur qui valait
+tous les discours.
 
 — Ça, dit-il, c'est une décision que je peux respecter.
 

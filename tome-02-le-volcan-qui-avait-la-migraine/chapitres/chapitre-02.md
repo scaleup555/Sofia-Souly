@@ -367,8 +367,8 @@ n'importe quoi, même si ça vous semble idiot — vous me le dites. Dans ce
 métier, ce sont souvent les détails que tout le monde juge trop petits
 pour compter qui finissent par tout expliquer.
 
-Souly hocha la tête et nota la phrase presque mot pour mot, tout en bas de
-sa page, avant de la souligner deux fois.
+Souly hocha la tête et recopia la phrase presque mot pour mot, entourant
+les derniers mots d'un trait de crayon appuyé.
 
 ---
 

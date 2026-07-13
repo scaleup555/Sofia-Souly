@@ -321,8 +321,8 @@ sismique permanent pour la ville. Et refaire les Thermes, plus tard, une
 fois que ce sera vraiment sûr — avec vos capteurs intégrés dès le départ,
 cette fois, pas cachés dans un coin qu'on préfère ne pas regarder.
 
-Karim la regarda sans rien dire, avant de hocher la tête, une seule fois,
-lentement.
+Karim la regarda sans rien dire, un long silence approbateur qui valait
+tous les discours.
 
 — Ça, dit-il, c'est une décision que je peux respecter.
 
