@@ -1,17 +1,21 @@
 # État d'avancement — Série Sofia & Souly
 
-*Dernière mise à jour : Tome 2 réétoffé à ~40 000 mots et revalidé par le
-jury (12/12 chapitres, .docx livré) — 2026-07-13*
+*Dernière mise à jour : Tome 3 réétoffé à ~39 900 mots, finalisé sur
+instruction explicite de l'utilisateur sans atteindre le seuil formel de
+9,0/10 (12/12 chapitres, .docx livré) — 2026-07-13*
 
 **À LIRE INTÉGRALEMENT avant de démarrer toute nouvelle session d'écriture**,
 avec `bible/personnages.md` et `bible/lecons_apprises.md` (sections
-« Tome 4 — session 1 » et « Tome 4 — session 2 », et désormais aussi
-« Tome 2 — session de réétoffement » : leçons méthodologiques majeures sur
-les gabarits liés à un objet/geste signature de personnage, le recoupement
-de chronologie entre sessions, la détection de scènes dupliquées, et — pour
-le tome 2 — le risque qu'une expansion tardive de longueur réintroduise à
-la fois des bugs de chronologie et de nouveaux gabarits dans un livre déjà
-« accepté » à une longueur plus courte).
+« Tome 4 — session 1 » et « Tome 4 — session 2 », « Tome 2 — session de
+réétoffement », et désormais aussi « Tome 3 — session de réétoffement » :
+leçons méthodologiques majeures sur les gabarits liés à un objet/geste
+signature de personnage, le recoupement de chronologie entre sessions, la
+détection de scènes dupliquées, le risque qu'une expansion tardive de
+longueur réintroduise à la fois des bugs de chronologie et de nouveaux
+gabarits dans un livre déjà « accepté » à une longueur plus courte, et — pour
+le tome 3 — de nouvelles familles de tics propres aux dialogues d'action
+ainsi qu'un piège de POV (nommer un personnage avant son auto-présentation
+dans le récit)).
 
 ## Vue d'ensemble de la série
 
@@ -19,7 +23,7 @@ la fois des bugs de chronologie et de nouveaux gabarits dans un livre déjà
 |---|---|---|---|---|
 | 1 | Le Pharaon qui avait peur du noir | Égypte antique | **12/12 chapitres, .docx livré** | **9,1/10 — ACCEPTÉ** |
 | 2 | Le Volcan qui avait la migraine | Volcanologie / sismologie / intégrité scientifique | **12/12 chapitres, .docx livré** | **9,1/10 — ACCEPTÉ** |
-| 3 | L'Océan qui avait de la fièvre | Biologie marine / récifs coralliens / savoir traditionnel | **12/12 chapitres, .docx livré** | **9,1/10 — ACCEPTÉ** |
+| 3 | L'Océan qui avait de la fièvre | Biologie marine / récifs coralliens / savoir traditionnel | **12/12 chapitres, .docx livré** | **8,3/10 — finalisé sur instruction utilisateur (pas de seuil 9,0+)** |
 | 4 | Le Dinosaure qui avait menti | Paléontologie / authentification d'un fossile | **12/12 chapitres, .docx livré** | **9,1/10 — ACCEPTÉ** |
 
 ## Tome 1 — ENTIÈREMENT TERMINÉ
@@ -57,7 +61,7 @@ la fois des bugs de chronologie et de nouveaux gabarits dans un livre déjà
   scientifiquement vrai) tous deux résolus et validés par le jury, aussi
   bien dans la version initiale que dans la version réétoffée.
 
-## Tome 3 — ENTIÈREMENT TERMINÉ
+## Tome 3 — ENTIÈREMENT TERMINÉ (finalisé sans seuil formel 9,0+)
 
 - Dossier : `tome-03-locean-qui-avait-de-la-fievre/`
 - Thème : biologie marine et écologie des récifs coralliens (symbiose
@@ -65,19 +69,25 @@ la fois des bugs de chronologie et de nouveaux gabarits dans un livre déjà
   irréversible, aires marines protégées, savoir écologique traditionnel).
   Lieu : Anse-Bleue, lagon fictif de La Réunion.
 - Manuscrit final : `tome-03-locean-qui-avait-de-la-fievre/manuscrit-complet-tome3.md`
-  (~12 250 mots — nettement sous la cible de 40 000 mots ; signalé à
-  chaque passage jury comme non bloquant tant que l'histoire se lit comme
-  complète, mais l'écart avec la cible s'est creusé par rapport aux tomes
-  1 et 2 malgré une intention explicite d'« étoffer » en session 2 — à
-  corriger consciemment dès le tome 4).
+  (~39 857 mots — **réétoffé le 2026-07-13** depuis une version antérieure
+  d'environ 19 900 mots, nettement sous la cible de la série, sur demande
+  explicite de l'utilisateur : « je remarque que le tome 3 ne respecte pas
+  les 40 000 mots ! »).
 - Fichier livré : `tome-03-locean-qui-avait-de-la-fievre/Sofia-et-Souly-Tome-3-L-Ocean-qui-avait-de-la-fievre.docx`
-  (même mise en page que les tomes 1 et 2 : 5,5 × 8,5 pouces, page de
-  titre, table des matières, 12 chapitres, police Georgia).
-- **9 passages jury cumulés** pour atteindre 9,1/10 (le plus grand nombre
-  de la série jusqu'ici) : chapitres 1-6 seuls (7,8 → 8,6 → 8,9 → 9,1/10,
-  4 passages) puis livre complet une fois les chapitres 7-12 rédigés
-  (8,7 → 8,8 → 8,8 → 8,9 → 9,1/10, 5 passages).
-  Rapport final : `tome-03-locean-qui-avait-de-la-fievre/jury/rapport-livre-complet-v5-ACCEPTE.md`.
+  (régénéré depuis le manuscrit réétoffé via
+  `tome-03-locean-qui-avait-de-la-fievre/build_docx.py` ; même mise en page
+  que les autres tomes : 5,5 × 8,5 pouces, page de titre, table des
+  matières, 12 chapitres, police Georgia).
+- **Session de réétoffement (2026-07-13) : 3 passages jury complets** sur
+  le livre réétoffé : 7,5 → 8,3 → 8,3/10. Un 4ᵉ passage a été tenté mais
+  a échoué pour une raison externe (limite de session de l'API atteinte,
+  pas un défaut du manuscrit). Sur instruction explicite de l'utilisateur
+  (« finalise »), le cycle jury a été arrêté à ce stade plutôt que de
+  poursuivre l'attente et une 4ᵉ tentative vers le seuil formel de 9,0/10.
+  **Le tome 3 réétoffé n'a donc pas atteint le statut ACCEPTÉ (9,0+)
+  obtenu par les tomes 1, 2 et 4** — il est livré à 8,3/10 après trois
+  cycles de corrections substantielles (chronologie, tics, POV), en état
+  nettement amélioré mais non formellement validé.
 - Nouveaux personnages récurrents secondaires : **Fara Payet** (biologiste
   marine, amie de Camille depuis l'école d'infirmières, dirige la station
   de recherche du lagon, mainate Bassin) et **Noah Técher** (12 ans, fils
@@ -86,16 +96,21 @@ la fois des bugs de chronologie et de nouveaux gabarits dans un livre déjà
   illégalement sur le récif la nuit, laisse accuser M. Técher à tort) et
   twist 2 (la règle orale familiale du « repos du lagon à la pleine lune
   d'été » s'avère aligner exactement avec la période scientifique de
-  ponte corallienne) tous deux résolus en scènes vécues et validés.
-- **Leçon méthodologique majeure de ce tome, à appliquer dès le tome 4 :**
-  la majorité des défauts relevés n'étaient pas des formulations exactes
-  répétées mais des GABARITS SYNTAXIQUES (même structure grammaticale
-  réutilisée avec des mots différents à chaque occurrence — ex. « X
-  sentit [émotion] [verbe de déplacement] [partie du corps] », « les bras
-  croisés, [direction du regard] », « hésita/vacilla, une fraction de
-  seconde de trop »). Un grep sur une formulation exacte ne détecte pas
-  ce type de tic ; il faut chercher activement des FAMILLES de tics.
-  Détail complet dans `bible/lecons_apprises.md` (section « Tome 3 »).
+  ponte corallienne) tous deux résolus en scènes vécues et validés à
+  chaque passage jury de la session de réétoffement.
+- **Leçons méthodologiques de la session de réétoffement, à appliquer dès
+  le tome 5 :** nouvelles familles de tics découvertes au-delà de celles
+  déjà listées (« avec un soin [adjectif] », « marqua une pause, laissant
+  son regard balayer... », « petit rire [qualifier] », « mâchoire
+  serrée », « un/le silence [adjectif] suivit/s'installa », et
+  « songeur/songeuse » comme héritier du gabarit « imperturbable » déjà
+  identifié au tome 2) ; un piège de POV où le narrateur nomme un
+  personnage avant son auto-présentation dans le récit ; et la
+  confirmation que `grep` simple ligne-à-ligne peut manquer une
+  occurrence de tic scindée par un retour à la ligne markdown — toujours
+  aplatir le paragraphe avant de grepper. Détail complet dans
+  `bible/lecons_apprises.md` (section « Tome 3 — session de
+  réétoffement »).
 
 ## Tome 4 — ENTIÈREMENT TERMINÉ
 
@@ -225,3 +240,28 @@ la fois des bugs de chronologie et de nouveaux gabarits dans un livre déjà
   `build_docx.py` (calqué sur celui du tome 4, absent du dossier tome 2
   jusqu'ici). **Tomes 1, 2, 3 et 4 toujours entièrement terminés**, tome 2
   désormais à la longueur cible de la série.
+
+### Session 10 (tome 3, réétoffement) — 2026-07-13
+- L'utilisateur signale que le tome 3 (~19 900 mots) ne respecte pas non
+  plus la cible de ~40 000 mots de la série. Réétoffement des 12 chapitres
+  avec du contenu narratif nouveau, en préservant l'intrigue, les deux
+  twists et les personnages déjà validés — manuscrit porté à ~39 857 mots
+  (min. 3254 / max. 3577 mots par chapitre).
+- 3 passages jury cumulés sur le livre réétoffé : 7,5 → 8,3 → 8,3/10.
+  Un 4ᵉ passage a échoué pour cause de limite de session API (raison
+  externe, pas un défaut du texte). L'utilisateur a explicitement demandé
+  de « finaliser » plutôt que d'attendre et retenter un 4ᵉ passage vers le
+  seuil de 9,0/10 — le cycle jury a donc été arrêté à 8,3/10.
+- Trois bugs de chronologie réels corrigés sur plusieurs rounds (les
+  ancres « X jours avant le vote » des chapitres 2, 4, 5 et 6 sont
+  retombées d'accord avec la réunion du mercredi / le vote du vendredi
+  fixés aux chapitres 7 et 11) ; un bug de POV corrigé (le capitaine
+  Elias nommé avant son auto-présentation, chapitre 10) ; une bonne
+  douzaine de nouvelles familles de tics détectées et largement réduites
+  (voir bilan méthodologique ci-dessus et `bible/lecons_apprises.md`).
+- Livraison du fichier `.docx` final régénéré via un nouveau
+  `build_docx.py` (calqué sur celui des tomes 2 et 4). **Tomes 1, 2, 3 et
+  4 toujours entièrement terminés** ; tome 3 désormais à la longueur
+  cible de la série, mais livré à 8,3/10 sans avoir atteint le seuil
+  formel d'acceptation de 9,0/10, sur instruction explicite de
+  l'utilisateur.

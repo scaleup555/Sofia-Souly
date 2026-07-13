@@ -765,3 +765,111 @@ initiale — signal fort que l'expansion de longueur doit être traitée,
 dès le départ, avec la même rigueur méthodologique qu'une première
 rédaction, et non comme un simple ajout de texte à un livre déjà
 validé.
+
+## Tome 3 — session de réétoffement (~19 900 → ~39 857 mots)
+
+Contexte : comme pour le tome 2, l'utilisateur a signalé que le tome 3
+ne respectait pas la cible de ~40 000 mots de la série (« je remarque
+que le tome 3 ne respecte pas les 40 000 mots ! résous efficacement ce
+problème »). Les 12 chapitres ont été étoffés jusqu'à ~39 857 mots.
+Trois passages jury complets ont suivi (7,5 → 8,3 → 8,3/10) ; un
+4ᵉ passage a échoué pour une raison externe (limite de session API),
+puis l'utilisateur a explicitement demandé de **finaliser** plutôt que
+d'attendre et retenter un 4ᵉ passage vers le seuil de 9,0/10. Le tome 3
+réétoffé est donc livré à 8,3/10, sans le statut ACCEPTÉ formel des
+tomes 1, 2 et 4 — première fois dans la série qu'un tome est délivré
+sciemment sous le seuil, sur instruction explicite de l'utilisateur.
+
+**Leçon méthodologique n°1 — les mêmes bugs de chronologie qu'au tome 2
+réapparaissent, mais répartis sur davantage d'ancres à la fois.** Au
+tome 2, une seule paire d'ancres (chapitres 2 et 6) s'était
+désynchronisée. Ici, QUATRE chapitres différents (2, 4, 5 et 6)
+portaient chacun une variante de l'ancre « X jours avant le vote
+municipal / la réunion », et l'expansion a fait dériver ces quatre
+chiffres indépendamment les uns des autres à chaque round de
+correction — corriger un chiffre dans un chapitre sans revérifier
+immédiatement les trois autres a fait réapparaître la même
+incohérence sous une forme différente au round suivant, sur 3 rounds
+consécutifs. **Règle : quand une même contrainte narrative (« combien
+de jours avant l'événement X ») est répétée dans plus de deux
+chapitres, la corriger dans TOUS les chapitres concernés en une seule
+passe et retracer la chaîne complète immédiatement après — ne jamais
+corriger une ancre isolément en supposant que les autres sont encore
+justes.**
+
+**Leçon méthodologique n°2 — piège de POV : ne jamais nommer un
+personnage avant son auto-présentation dans le récit, même en
+narration à la troisième personne.** Le chapitre 10 faisait référence
+au jeune capitaine Elias par son prénom (« Elias arriva le dernier... »
+puis « Elias resta silencieux un long moment... ») plusieurs lignes
+AVANT sa réplique d'auto-présentation (« — Je m'appelle Elias, au
+fait... »). Le nom du narrateur omniscient qui « sait déjà » le prénom
+avant que les personnages POV ne l'apprennent court-circuite le beat
+de révélation. Corrigé en remplaçant les deux occurrences prématurées
+par une désignation neutre (« le jeune capitaine »), en laissant intact
+tout ce qui suit l'auto-présentation. **Règle : après toute scène
+d'introduction de personnage avec réplique d'auto-présentation,
+vérifier qu'aucune occurrence du prénom n'apparaît dans la narration
+AVANT cette réplique, même si le narrateur est omniscient — le lecteur
+suit la découverte du nom au même rythme que les personnages POV.**
+
+**Leçon méthodologique n°3 — angle mort de `grep` sur les retours à la
+ligne markdown, confirmé et outillé.** La règle « genre de » (max 1 par
+chapitre) est une règle dure de la bible. Un simple `grep -c "genre de"
+fichier.md` peut manquer une occurrence scindée par un retour à la
+ligne markdown (ex. « ...ce genre\nde réunion... »), car `grep` ligne à
+ligne ne voit jamais les deux moitiés ensemble. **Règle et commande à
+réutiliser systématiquement pour toute règle dure du type « expression
+interdite/plafonnée » :** aplatir chaque paragraphe avant de compter :
+```bash
+awk 'BEGIN{RS="";FS="\n"} {gsub(/\n/," "); print}' fichier.md \
+  | grep -o "expression recherchée" | wc -l
+```
+Ceci a permis de détecter et corriger une violation de la règle
+« genre de » introduite (et manquée par un grep naïf) pendant cette
+même session de correction.
+
+**Leçon méthodologique n°4 — de nouvelles familles de tics apparaissent
+à chaque tome, distinctes de celles déjà documentées ; le sweep de
+détection doit rester actif, jamais figé sur la liste existante.**
+Cette session a fait remonter, en plus des gabarits déjà connus
+(« avec un sérieux », « imperturbable », « les bras croisés », « Personne,
+[lieu], ne... », « refermant son carnet »), plusieurs familles inédites :
+« avec un soin [adjectif] » (regroupées 3 fois dans un même chapitre),
+« marqua une pause, laissant son regard balayer... » (quasi-répétition
+dans un même chapitre, même personnage), « petit rire [qualifiant] »
+(utilisé par 6 personnages/entités différents), « mâchoire serrée »
+(3 personnages différents), « un/le silence [adjectif] suivit/s'installa »
+comme procédé de clôture de scène (4 occurrences groupées dans un même
+chapitre), et « songeur/songeuse » comme raccourci émotionnel en
+étiquette de dialogue (13-16 occurrences sur 4 personnages — repérée
+comme héritière directe du gabarit « imperturbable » déjà documenté au
+tome 2 : quand un gabarit est corrigé, l'auteur (moi) tend à lui
+trouver un synonyme de repli qui devient à son tour un gabarit).
+**Règle : ne jamais considérer la liste de gabarits de ce fichier comme
+exhaustive — à chaque tome, chercher activement de nouvelles familles
+plutôt que de ne vérifier que celles déjà connues, et surveiller en
+particulier les synonymes de repli d'un gabarit qu'on vient de
+corriger.**
+
+**Leçon méthodologique n°5 — une instruction explicite de
+l'utilisateur pour « finaliser » prime sur la boucle de validation
+jury, même en dessous du seuil de 9,0/10.** Jusqu'à cette session,
+chaque tome de la série avait été itéré jusqu'au statut ACCEPTÉ formel.
+Ici, après 3 rounds complets (7,5 → 8,3 → 8,3) et un 4ᵉ round bloqué
+par une limite technique externe (pas un défaut du texte), l'utilisateur
+a explicitement demandé de finaliser plutôt que d'attendre et
+retenter. **Règle : une instruction utilisateur explicite de finaliser
+doit être respectée immédiatement — annuler toute tentative de round
+supplémentaire déjà planifiée, livrer le manuscrit dans son état
+actuel, et documenter honnêtement (dans `etat_avancement.md` et sur la
+page de titre du .docx) que le seuil formel de 9,0/10 n'a pas été
+atteint, plutôt que de continuer à itérer ou de présenter le résultat
+comme « ACCEPTÉ » alors qu'il ne l'est pas.**
+
+**Bilan chiffré :** 3 passages jury cumulés sur le livre réétoffé
+(7,5 → 8,3 → 8,3/10, arrêté sur instruction utilisateur avant un
+4ᵉ passage), contre 9 passages jury cumulés pour l'acceptation initiale
+à ~12 250 mots lors des sessions 5 et 6. Manuscrit final : ~39 857 mots
+(min. 3254 / max. 3577 mots par chapitre), .docx livré via un nouveau
+`build_docx.py` calqué sur ceux des tomes 2 et 4.
