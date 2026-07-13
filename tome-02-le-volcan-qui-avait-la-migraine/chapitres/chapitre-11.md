@@ -7,6 +7,20 @@ que celle-ci se déroulait sur la table encombrée de la médiathèque,
 plutôt que dans un amphithéâtre universitaire, et que Léna et Souly, ses
 deux plus jeunes architectes, avaient respectivement onze et douze ans.
 
+Sofia, elle, s'était vu confier une mission différente, mais tout aussi
+sérieuse à ses yeux : dessiner, sur une grande feuille punaisée au mur de
+la salle de préparation, une frise chronologique illustrée des quatre
+événements historiques retrouvés dans les archives, avec un petit croquis
+de volcan fumant à chaque date, « pour que même les gens qui détestent
+lire des chiffres comprennent d'un seul coup d'œil ».
+
+— C'est pas de la triche, ça, de simplifier autant ? avait-elle demandé
+à Karim, un peu inquiète, en contemplant son propre travail.
+
+— Simplifier, c'est pas mentir, avait répondu Karim. Mentir, c'est
+simplifier jusqu'à ce que ce soit faux. Toi, tu simplifies jusqu'à ce
+que ce soit clair. C'est tout le contraire.
+
 — Il faut que ce soit clair pour tout le monde, avait insisté M. Foucher,
 en réorganisant pour la troisième fois l'ordre des documents historiques.
 Pas seulement pour les gens qui aiment la science. Pour ma voisine qui ne
@@ -48,6 +62,18 @@ ni rejeter aveuglément. Vérifier.
 — Pas mal du tout, dit Frédéric, impressionné malgré son rôle de
 trouble-fête professionnel. Vous devriez faire ça pour gagner votre vie,
 tous les deux.
+
+— Une dernière question, ajouta Frédéric, redevenant sérieux l'espace
+d'une seconde. Pourquoi Rocheteau ne sera pas là, ce soir ? Les gens vont
+se poser la question, même si personne ne l'ose à voix haute.
+
+Karim regarda les enfants, puis Léna, sans que personne ne sache
+vraiment qui devait répondre en premier.
+
+— On dira la vérité, dit finalement Karim. Il a menti, il est en garde à
+vue, et ce n'est pas notre rôle, ce soir, de raconter son histoire à sa
+place. Ce soir, c'est la montagne qui parle. Lui, il aura son propre
+moment devant un tribunal, plus tard.
 
 — On y pense, dit Sofia, très sérieuse, ce qui fit rire toute la petite
 assemblée réunie pour la répétition.
@@ -118,6 +144,15 @@ fois M. Foucher redescendu de l'estrade. Et voici, superposées à ces
 quatre dates historiques, les données que mes capteurs ont enregistrées
 ces trois dernières semaines.
 
+Souly se pencha vers Sofia, un sourire en train de se former.
+
+— La dame du car, chuchota-t-il. Le premier jour. Elle avait raison,
+elle aussi — les années finissant par un neuf. On avait noté ça dans le
+carnet et complètement oublié depuis.
+
+— Sa grand-mère à elle avait raison sans le savoir, murmura Sofia, ravie.
+Et elle savait même pas pourquoi.
+
 Il fit apparaître, sur le grand écran installé pour l'occasion, un
 graphique où les pics de son propre relevé sismique s'alignaient presque
 parfaitement avec les dates rapportées par les archives, comme deux
@@ -146,6 +181,17 @@ vapeur à intervalles réguliers, plutôt que d'exploser d'un coup.
 arracha un rire nerveux à plusieurs rangées.
 
 — C'est une image qui n'est pas fausse, admit Karim, amusé malgré lui.
+
+Une adolescente, au fond de la salle, leva timidement la main, son
+téléphone déjà prêt à filmer la réponse.
+
+— Est-ce qu'on peut encore visiter le volcan, du coup ? Genre, en
+randonnée ? Ou c'est fini, tout ça, maintenant qu'on sait ?
+
+— On peut, dit Karim, avec un sourire. Un volcan surveillé, c'est un
+volcan plus sûr, pas moins. C'est justement quand personne ne regarde
+que les choses tournent mal. Continuez à marcher sur ce sentier. Juste,
+peut-être, avec un peu plus de respect qu'avant.
 
 ---
 
@@ -200,6 +246,26 @@ plus personne ne pourra le faire taire pour des raisons qui n'ont rien à
 voir avec la science. L'incertitude, elle a toujours existé. Ce qui
 change, c'est qu'on ne vous la cachera plus.
 
+Un homme âgé, au fond de la salle, appuyé sur une canne, leva timidement
+la main.
+
+— Ma propre grand-mère chantait cette comptine, dit-il, d'une voix
+tremblante mais posée. Elle disait toujours qu'elle la tenait de sa
+propre grand-mère à elle. Ça remonte à combien de générations, tout ça ?
+
+— D'après ce qu'on a pu retrouver, au moins six ou sept, répondit M.
+Foucher, depuis le bord de l'estrade, avec une fierté manifeste.
+Peut-être davantage. Les plus vieilles archives de cette ville ne
+remontent pas plus loin.
+
+— Alors ma grand-mère avait raison depuis le début, dit l'homme, sans
+chercher à cacher son émotion. Et personne, avant vous, n'a pris la peine
+de le vérifier vraiment.
+
+— Personne n'avait les deux bons outils en même temps, dit Karim,
+doucement. Les vieux carnets, et les nouveaux capteurs. Il fallait les
+deux ensemble pour que ça parle.
+
 Sofia, qui n'avait pas encore pris la parole, s'avança d'un pas, un peu
 intimidée par la foule mais visiblement décidée à dire ce qu'elle avait à
 dire.
@@ -227,7 +293,7 @@ tout seul non plus. Ce qui compte, c'est de vérifier les deux, et de les
 comparer. Ma grand-mère raconte des histoires depuis toujours. Certaines
 sont vraies, d'autres non. La seule façon de savoir, c'est de vérifier.
 
-— Comme un bon Carnet des Preuves, dit Sofia, avec un sourire qui fit
+— Comme un bon Carnet des Preuves, dit Sofia, un sourire qui fit
 sourire, malgré la gravité du moment, une bonne partie du premier rang.
 
 Un applaudissement timide commença, quelque part au fond de la salle,
@@ -308,6 +374,22 @@ plan cadastral de 1850, par exemple.
 — Non, admit-il. Mais c'est du même métier, au fond. Écouter ce que le
 passé essaie encore de nous dire, si on prend la peine de tendre
 l'oreille.
+
+Amara les rejoignit à son tour sur le parvis, son sac à dos remis en
+place sur ses épaules pour la première fois depuis des semaines sans
+qu'elle ait besoin de surveiller quoi que ce soit en particulier.
+
+— Alors, dit Souly, le poste consultatif ?
+
+— J'y réfléchis toujours, dit-elle, un sourire démentant un peu ses
+propres mots. Mais je crois que oui, en fait. Quelqu'un doit
+continuer à poser les questions gênantes, même une fois que tout le
+monde a l'air d'accord.
+
+— Vous serez douée pour ça, dit Sofia, avec une conviction totale.
+
+— Je l'ai toujours été, dit Amara, en riant. Le problème, c'était jamais
+mes questions. C'était les gens qui refusaient d'y répondre.
 
 Sofia, fatiguée mais rayonnante, glissa sa main dans celle de Souly, et
 tous deux restèrent un instant silencieux, à contempler la montagne qui,

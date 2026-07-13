@@ -39,7 +39,7 @@ qu'il trouvait particulièrement beau, « magmatique », qu'il avait décidé
 de placer dans une phrase dès que l'occasion se présenterait.
 
 Sofia, de son côté, avait consacré le plus clair de ses deux semaines à
-sélectionner, avec un sérieux qui n'admettait aucune remarque, laquelle de
+sélectionner, si sérieusement qu'aucune remarque n'était admise, laquelle de
 ses trois paires de baskets dépareillées ferait le voyage — un débat
 qu'elle avait fini par trancher en emportant les trois, « pour ne pas
 avoir à choisir entre mes enfants », comme elle l'avait expliqué à Mamie
@@ -96,7 +96,7 @@ volcan.
 — Le Grand Sombre, précisa Souly, comme si le nom seul méritait d'être
 prononcé avec un minimum de respect.
 
-— Ah, celui-là, dit la dame, avec un sourire qui semblait en dire plus
+— Ah, celui-là, dit la dame. Son sourire en disait visiblement plus
 qu'elle n'était disposée à en révéler à deux enfants qu'elle ne
 connaissait pas. On raconte pas mal de choses, sur ce volcan, dans le
 coin. Ma grand-mère refusait toujours de dormir la fenêtre ouverte les
@@ -163,6 +163,17 @@ carrière.
 Sofia se rengorgea, visiblement ravie que la réputation les ait précédés
 jusqu'à cette ville qu'elle ne connaissait pas une heure plus tôt.
 
+— Tu enquêtes sur des volcans, toi aussi, en quelque sorte, remarqua
+Souly. C'est un peu le même métier que nous, non ? Chercher des indices,
+vérifier avant de conclure.
+
+— J'avais jamais pensé à ça comme ça, dit Karim, sincèrement surpris,
+mais t'as raison. Un sismographe, c'est juste un carnet de preuves qui
+sait pas parler.
+
+— On devrait lui apprendre, dit Sofia, très sérieuse, ce qui fit rire
+Karim de si bon cœur que deux passants sur le trottoir se retournèrent.
+
 — On a un Carnet des Preuves, annonça-t-elle en désignant le sac de Souly.
 Nouveau modèle. Couverture bleue.
 
@@ -216,7 +227,7 @@ plus.
 
 Il leur tendit, à travers la fenêtre, deux petits pains ronds encore
 tièdes, « pour la route, cadeau de la maison », et Sofia mordit dedans
-avec un enthousiasme qui n'avait besoin d'aucune traduction.
+avec un enthousiasme qui ne demandait aucune traduction.
 
 — C'est excellent, dit-elle, la bouche encore à moitié pleine.
 
@@ -409,8 +420,8 @@ celle sur laquelle je travaille depuis trois ans.
 adultes en général et chez Karim en particulier, cette façon bien précise
 d'esquiver une question sans jamais vraiment refuser d'y répondre.
 
-— J'ai un début de réponse, corrigea Karim, avec un sourire qui admettait,
-malgré lui, s'être fait prendre la main dans le sac. Et ce début de
+— J'ai un début de réponse, corrigea Karim, un sourire trahissant, malgré
+lui, qu'il s'était fait prendre la main dans le sac. Et ce début de
 réponse ne me plaît pas beaucoup.
 
 — Pourquoi ?
@@ -444,7 +455,8 @@ quelque chose.
 — Genre quoi ? demanda Sofia.
 
 — Genre : mange tes pâtes et laisse le volcan tranquille jusqu'à demain,
-traduisit Karim avec un sérieux qui fit rire les deux enfants malgré eux.
+traduisit Karim, si sérieusement que les deux enfants éclatèrent de rire
+malgré eux.
 
 ---
 
@@ -565,7 +577,7 @@ plus ce capteur est loin de l'endroit où tout a commencé.
 à voix haute. On voit l'éclair tout de suite, on entend le tonnerre après.
 Plus le délai est long, plus l'orage est loin.
 
-— C'est exactement la même logique, confirma Karim, en le regardant avec
+— C'est exactement la même logique, dit Karim, en le regardant avec
 une attention toute neuve. Avec trois capteurs différents, autour du
 volcan, on peut croiser les délais et localiser précisément le point de
 départ de chaque secousse. C'est ce que j'ai fait hier soir, en rentrant.
@@ -611,6 +623,21 @@ ville ?
 Ce « pour l'instant », prononcé presque dans un souffle, resta suspendu
 dans la pièce plus longtemps que le reste de la phrase.
 
+— « Pour l'instant » veut dire que ça pourrait changer ? insista Sofia,
+qui n'avait pas raté la nuance.
+
+— Tout, en volcanologie, veut dire « pour l'instant », dit Karim,
+prudemment. C'est une science qui n'aime pas trop les phrases
+définitives. On mesure, on observe, et on révise nos certitudes chaque
+fois que de nouvelles données arrivent. C'est pas de la faiblesse.
+C'est de l'honnêteté.
+
+— Ça doit être fatigant, remarqua Souly, de jamais pouvoir dire « je
+suis sûr » pour de vrai.
+
+— Un peu, admit Karim. Mais c'est beaucoup moins fatigant que de dire
+« je suis sûr » et se tromper.
+
 ---
 
 — Le chauffeur du car a dit que le Grand Sombre était éteint, dit Souly.
@@ -623,6 +650,22 @@ montré de signe d'activité depuis longtemps, mais son système magmatique
 existe toujours en profondeur — il pourrait, en théorie, se réveiller. Un
 volcan vraiment éteint, lui, a perdu sa source de magma pour de bon : il ne
 se réveillera plus jamais, quoi qu'il arrive.
+
+— Comment on fait la différence, entre dormant et vraiment éteint ?
+demanda Souly, son crayon déjà en mouvement.
+
+— C'est justement le plus dur, dit Karim. Parfois, la seule vraie façon
+de savoir avec certitude qu'un volcan est éteint pour de bon, c'est
+d'attendre qu'il ne se réveille jamais. Ce qui n'aide pas beaucoup,
+niveau planification.
+
+— Donc en gros, dit Sofia, on peut jamais être sûrs à cent pour cent
+qu'un volcan est fini pour toujours ?
+
+— Presque jamais, dit Karim. C'est pour ça qu'on préfère toujours le
+mot « dormant » au mot « éteint », par prudence. Un volcan endormi peut
+se réveiller. Un volcan qu'on déclare trop vite éteint peut nous
+surprendre.
 
 — Et le Grand Sombre, il est lequel des trois ? demanda Sofia.
 
@@ -852,7 +895,7 @@ plusieurs égratignures qu'elle refusait obstinément d'appeler douloureuses.
 — Tu crois qu'il a raison d'avoir peur ? demanda Sofia, la bouche tachée de
 violet.
 
-— Karim ? Je crois qu'il a peur d'avoir raison, corrigea Souly, après un
+— Karim ? Je crois qu'il a peur d'avoir raison, nuança Souly, après un
 instant de réflexion. C'est différent.
 
 — Explique.
@@ -911,7 +954,7 @@ ressemble à rien de ce qu'on a vu ces derniers mois.
 
 — C'est grave ? demanda Sofia, aussitôt alerte.
 
-— C'est intéressant, corrigea Karim, ce qui, dans sa bouche, ne voulait
+— C'est intéressant, tempéra Karim, ce qui, dans sa bouche, ne voulait
 pas tout à fait dire la même chose que « pas grave ». On va le surveiller
 de près.
 
@@ -920,6 +963,13 @@ machinal, et referma l'ordinateur portable qu'il utilisait pour ses
 propres notes de recherche, celui qu'il gardait toujours séparé du
 système principal — « par prudence », avait-il expliqué un peu plus tôt
 dans la journée, sans donner davantage de détails.
+
+— Tu crois qu'il a raison de garder ça séparé ? demanda Souly, en
+regardant Karim ranger soigneusement l'ordinateur dans son sac, loin de
+la table commune.
+
+— Je crois qu'il a pas encore décidé en qui faire confiance, dit Sofia,
+songeuse. Et je crois que c'est plutôt sage, en ce moment.
 
 Ce soir-là, en observant depuis la fenêtre du chalet les lumières du
 chantier des Thermes qui continuaient de scintiller tard dans la nuit,
@@ -948,6 +998,15 @@ représentait. C'est énorme.
 — C'était une autre époque, dit Karim, en garant la camionnette sur la
 place. Avant que le tourisme thermal ne devienne l'industrie principale
 de la ville. Chaque génération a son fromage, si vous voulez.
+
+— Vous en avez mangé, du fromage de cette halle, avant qu'elle ferme ?
+demanda Souly, toujours curieux des détails que les adultes jugeaient
+sans intérêt.
+
+— Une fois, dit Karim. Chez mes grands-parents, il y a longtemps. Un
+fromage tellement fort que même Magma aurait probablement refusé d'en
+approcher. Je m'en souviens encore, ce qui, pour un fromage, est
+peut-être le plus grand compliment possible.
 
 Karim les y déposa en fin de
 matinée, le temps d'aller « régler deux ou trois choses administratives »
@@ -1200,6 +1259,22 @@ plus sérieux », précisa-t-il, avec l'air de quelqu'un qui savait déjà
 exactement à quoi ressemblerait cette « chose plus sérieuse » sans vouloir
 le dévoiler trop tôt.
 
+Sofia, chargée de survoler les piles jugées trop incertaines par les deux
+autres, développa rapidement sa propre méthode, moins rigoureuse mais
+étonnamment efficace : elle feuilletait chaque document en diagonale, à
+la recherche du seul mot « Sombre », qu'elle avait fini par reconnaître
+d'un simple coup d'œil, même dans l'écriture la plus tarabiscotée.
+
+— C'est pas très scientifique, ta méthode, remarqua Souly, en la
+regardant tourner les pages à toute vitesse.
+
+— C'est efficace, corrigea Sofia. La science, c'est pas juste être lent
+et méthodique. Des fois, c'est juste être doué pour repérer un mot au
+milieu du bruit.
+
+— Elle a pas tort, dit M. Foucher, en riant. Certains des meilleurs
+archivistes que j'ai connus travaillaient exactement comme ça.
+
 Le premier vrai fragment revint à Léna, moins d'une heure plus tard, un
 extrait d'une lettre adressée par un curé de village à son évêque,
 l'écriture penchée et serrée, presque illisible par endroits :
@@ -1257,7 +1332,7 @@ docile.
 cornet derrière l'oreille. J'ai entendu « cent ANGES » ? On parle de
 religion, maintenant ?
 
-— CENT ANS, Papi, pas cent anges, corrigea Léna, avec la patience d'une
+— CENT ANS, Papi, pas cent anges, rectifia Léna, avec la patience d'une
 fille qui répétait la même correction plusieurs fois par jour depuis des
 années.
 
@@ -1302,7 +1377,7 @@ pas reportée.
 — Ça, c'est un mariage qui en a vu d'autres, commenta Sofia, en
 imaginant la scène, visiblement ravie.
 
-— Ou un mariage où personne n'avait vraiment peur, corrigea Souly, en
+— Ou un mariage où personne n'avait vraiment peur, dit Souly, en
 notant la date. Ce qui revient au même que ce qu'on a trouvé jusqu'ici.
 La terre gronde, les gens continuent leur vie.
 
@@ -1319,10 +1394,23 @@ Souly compta ses lignes, une par une, avant de répondre.
 — Trois mentions solides, dit-il. Plus la comptine elle-même. C'est pas
 encore assez pour prouver un vrai cycle. Mais c'est un bon début.
 
-— Un très bon début, corrigea M. Foucher, en rangeant ses lunettes dans
+— Un très bon début, renchérit M. Foucher, en rangeant ses lunettes dans
 leur étui avec la satisfaction d'un homme qui avait retrouvé, l'espace
 d'un après-midi, l'usage exact pour lequel il avait consacré sa vie
 entière à tout classer.
+
+Karim les récupéra à la tombée de la nuit, écouta le résumé de la
+journée sans dire un mot, le visage de plus en plus pensif à mesure que
+Souly énumérait les trois mentions solides retrouvées.
+
+— Quatre-vingt-dix-neuf ans, répéta-t-il, une fois le récit terminé. Et
+l'ouverture des Thermes approche à grands pas.
+
+— C'est bien pour ça qu'on n'a pas de temps à perdre, dit Souly, sans
+même avoir besoin de vérifier son carnet.
+
+Karim ne répondit rien tout de suite, mais son silence, cette fois, en
+disait plus qu'une phrase entière n'aurait pu le faire.
 
 
 # Chapitre 4 — La soirée de lancement et le bain de boue
@@ -1451,8 +1539,8 @@ parlait rarement aux enfants sans y avoir été forcé par les circonstances.
 Il travaille dur pour cette ville, vous savez. Même si on n'est pas
 toujours d'accord sur tout.
 
-— Sur presque rien, en ce moment, dit Karim, avec un sourire qui
-adoucissait à peine la phrase.
+— Sur presque rien, en ce moment, dit Karim, un sourire adoucissant à
+peine la phrase.
 
 — Sur presque rien, concéda Mme Delacroix, sans se départir de son
 sourire. Mais on partage au moins un objectif : que cette ville s'en
@@ -1467,6 +1555,18 @@ fait de la colère, ni tout à fait du soulagement.
 
 — Elle ne l'est pas, dit Karim. C'est bien ça, le plus compliqué, dans
 cette histoire.
+
+— Elle a peur de perdre quelque chose qui compte vraiment pour elle, dit
+Sofia, songeuse, en regardant Mme Delacroix disparaître dans la foule.
+C'est pas pareil que d'être méchante.
+
+— C'est étrange, remarqua Souly, qu'on comprenne mieux les gens depuis
+qu'on a arrêté de vouloir absolument trouver un coupable tout de suite.
+
+Karim les regarda tous les deux, un sourire un peu fatigué mais sincère
+sur le visage.
+
+— Vous grandissez plus vite que je voudrais l'admettre, dit-il.
 
 ---
 
@@ -1510,6 +1610,18 @@ jusque-là un peu trop guindée pour être vraiment agréable.
 Mme Delacroix elle-même, à la stupéfaction de tous, éclata de rire la
 première, avant de se reprendre en réalisant que la moitié des journalistes
 présents mitraillaient déjà la scène, ravis de l'aubaine.
+
+Le Dr. Rocheteau, lui, ne rit pas. Il resta immobile, un verre à la main,
+observant la scène d'un œil que rien, dans l'amusement général, ne
+semblait pouvoir dérider, avant de se détourner rapidement vers les
+journalistes, comme si un bassin de boue renversé méritait décidément
+moins d'attention qu'une bonne opportunité de communication.
+
+— Il a même pas souri, remarqua Sofia plus tard, en y repensant. Tout le
+monde riait, sauf lui.
+
+— Peut-être qu'il aime pas les surprises, dit Souly. Certaines personnes
+détestent tout ce qui échappe à leur contrôle.
 
 — Ça, murmura-t-elle à son assistante, ça va faire un titre parfait pour
 demain : « Un jeune visiteur inaugure officiellement le bassin de boue ».
@@ -1682,6 +1794,15 @@ s'allonger dans les jours suivants :
 
 « Suspects : Dr. Rocheteau (accès, motif ?). Qui d'autre ? »
 
+Karim s'assit lourdement sur le canapé, Magma aussitôt venu se blottir
+contre lui, comme si le chat, lui aussi, sentait que la soirée avait pris
+un tournant plus sérieux que prévu.
+
+— Je déteste cette partie du métier, dit-il, à personne en particulier.
+Soupçonner quelqu'un qu'on a serré la main pas plus tard qu'il y a dix
+jours. Ça ne devrait jamais être facile, de penser du mal de quelqu'un.
+Le jour où ça le devient, on a un vrai problème.
+
 — Attends, dit Sofia, en se penchant par-dessus son épaule. Motif ? On
 sait même pas pourquoi il ferait ça.
 
@@ -1751,11 +1872,19 @@ touchait de près ou de loin aux Thermes.
 sacrée réputation en ville. Elle a déjà été arrêtée deux fois pour s'être
 introduite sur le chantier de nuit. La police la surveille de près.
 
+— Elle a jamais été condamnée, pour autant, remarqua Souly, qui avait
+développé, ces derniers jours, l'habitude de vérifier ce genre de détail
+avant de se forger une opinion. Arrêtée, c'est pas pareil que coupable.
+
+— C'est vrai, admit Karim, un peu surpris par la remarque. Techniquement,
+elle a jamais rien fait d'illégal qui ait tenu devant un juge. Juste
+assez pour agacer beaucoup de monde.
+
 En passant devant le petit groupe, Sofia parvint à lire, sur l'une des
 pancartes, en lettres peintes à la hâte : « UN VOLCAN N'EST PAS UN
 SPA ». Une autre, plus sobre, annonçait simplement : « ÉCOUTEZ LA
 SCIENCE, PAS LES ACTIONNAIRES ». Un des ouvriers du chantier, posté près
-du grillage, observait la scène avec une expression qui hésitait entre
+du grillage, observait la scène, une expression hésitant entre
 l'agacement et une lassitude plus profonde, celle de quelqu'un qui avait
 déjà vécu cette même manifestation trop de fois pour s'en émouvoir
 encore vraiment.
@@ -1883,6 +2012,19 @@ Souly recopia la phrase presque intégralement, avant d'ajouter, en marge,
 une note qu'il souligna deux fois : « Le folklore n'est pas une preuve.
 Mais il n'est pas rien non plus. »
 
+Sofia, qui avait suivi toute la discussion sans trouver grand-chose à
+ajouter, leva soudain la main comme si elle était encore à l'école.
+
+— Et si on demandait aux autres grands-parents de la ville ? Pas juste le
+tien. Ils ont peut-être tous des bouts de comptine, ou des histoires de
+famille, qui se recoupent.
+
+M. Foucher la regarda, visiblement impressionné.
+
+— Voilà une idée qui ne m'était jamais venue en vingt ans de métier,
+dit-il. Et venant d'une enfant de huit ans, ça devrait me vexer un peu
+plus que ça ne le fait.
+
 ---
 
 Léna, restée à la médiathèque pour continuer d'éplucher une nouvelle
@@ -1943,7 +2085,7 @@ sans vraiment trouver.
 
 — Alors qui l'a trafiqué ? demanda finalement Souly.
 
-— Aucune idée, dit Amara, avec une franchise qui sonnait sincère. Mais si
+— Aucune idée, dit Amara, avec une franchise sincère. Mais si
 j'étais vous, je regarderais plutôt du côté de ceux qui ont un intérêt à ce
 que le volcan ait l'air parfaitement calme, pas du côté de ceux qui crient
 depuis des mois que quelque chose ne tourne pas rond.
@@ -2008,6 +2150,18 @@ Elle a arrêté ses études pour militer à plein temps après qu'un projet de
 barrage, dans une autre région, a détruit un écosystème entier malgré des
 années d'alertes scientifiques ignorées.
 
+— Elle aurait pu faire une brillante carrière académique, continua Karim,
+en remuant toujours sa soupe. Labo prestigieux, publications, tout ce que
+la plupart des chercheurs rêvent d'obtenir. Elle a tout laissé tomber
+pour crier des slogans sous la pluie devant un chantier qui la traite
+comme une nuisance.
+
+— C'est un peu triste, dit Sofia.
+
+— C'est surtout courageux, corrigea Karim. La plupart des gens
+choisissent la carrière confortable. Elle a choisi d'avoir raison, même
+si personne l'écoute.
+
 — Alors pourquoi tu l'as jamais dit ? demanda Sofia, presque accusatrice.
 
 — Parce que si les gens en ville apprennent que je discute avec elle, je
@@ -2052,6 +2206,14 @@ marche à chaque fois, sur les nouveaux visiteurs.
 — Ça marche sur moi aussi, avoua Sofia, en cédant malgré tout un petit
 morceau de pain au chat, qui l'accepta avec la dignité condescendante
 d'un roi recevant un tribut.
+
+— C'est un vrai talent, remarqua Souly, en observant la scène avec un
+mélange d'admiration et d'exaspération fraternelle. Faire culpabiliser
+les gens sans dire un seul mot.
+
+— Certains diplomates feraient bien de prendre des cours avec lui, dit
+Karim, amusé. Ça nous éviterait pas mal de réunions inutiles, dans mon
+métier.
 
 Après le dîner, pendant que Karim débarrassait, Souly ressortit une
 dernière fois son carnet et entreprit de recopier, au propre, tout ce
@@ -2202,6 +2364,23 @@ Delacroix un peu plus tôt.
 — Trente ans de carrière, dit-il simplement, comme si le chiffre seul
 suffisait à clore le débat.
 
+Au deuxième rang, un vieil homme que Sofia ne connaissait pas se leva à
+moitié, s'appuyant sur sa canne, et lança, d'une voix éraillée mais
+ferme :
+
+— Trente ans de carrière, ça garantit rien du tout. J'ai connu des gens
+avec quarante ans de métier qui avaient quand même tort.
+
+Un silence gêné suivit, avant que Rocheteau ne reprenne, avec un sourire
+un peu plus figé cette fois :
+
+— Je comprends le scepticisme, monsieur. C'est sain. Mais le scepticisme
+a aussi besoin de preuves pour rester utile, sans quoi il devient juste
+de la méfiance systématique.
+
+— Ou juste du bon sens, marmonna le vieil homme, en se rasseyant, sans
+que le micro capte ses mots cette fois.
+
 — Il ment, souffla Souly, si bas que seule Sofia put l'entendre.
 
 — On sait pas encore ça, dit-elle, avec une prudence toute nouvelle.
@@ -2230,7 +2409,7 @@ simple qu'on l'aimerait.
 
 De retour à la station, Karim se dirigea droit vers un tiroir fermé à
 clé sous le bureau principal, un tiroir que Sofia et Souly n'avaient
-encore jamais vu ouvert en trois jours de vie commune, et en sortit un
+encore jamais vu ouvert depuis leur arrivée, et en sortit un
 disque dur externe, gris et cabossé, portant une étiquette manuscrite
 presque effacée : « SAUVEGARDE BRUTE — NE JAMAIS MODIFIER ».
 
@@ -2299,6 +2478,19 @@ mécanismes l'un sous l'autre. Un à la source, un à la sortie. Comme ça,
 même si quelqu'un vérifie le capteur, les chiffres publiés restent
 faux quand même.
 
+Sofia, qui avait suivi toute la démonstration avec une attention
+inhabituelle pour quelqu'un qui préférait généralement l'action à la
+paperasse, leva soudain les yeux de son propre carnet.
+
+— Donc même s'il arrête maintenant, dit-elle, tout ce qu'il a déjà
+publié reste faux. Les gens qui ont déjà acheté leurs billets, leurs
+appartements, tout ça, ils ont décidé sur des mauvais chiffres.
+
+— Exactement, dit Karim, gravement. Et c'est peut-être la partie la plus
+grave de toute cette histoire. Ce n'est pas juste un mensonge ponctuel.
+C'est un mensonge qui a déjà changé des décisions réelles, pour de
+vraies personnes.
+
 — C'est exactement le genre de double sécurité qu'utiliserait quelqu'un
 qui sait qu'on pourrait un jour vérifier son travail, dit Karim, sombre.
 Ce n'est pas de l'improvisation. C'est un plan pensé à l'avance.
@@ -2321,6 +2513,16 @@ d'un deuxième regard.
 — Techniquement, c'était une erreur d'un centième, protesta Souly.
 
 — Techniquement, c'est quand même une erreur, répliqua Sofia.
+
+— Vous formez une bonne équipe, tous les deux, remarqua Karim, en
+observant l'échange avec amusement. L'un qui fonce, l'autre qui vérifie.
+Je connais des laboratoires entiers qui rêveraient d'un tel équilibre.
+
+— On se répartit le travail depuis toujours, dit Souly. Elle trouve les
+pistes, je vérifie qu'elles tiennent debout.
+
+— Et je trouve toujours les meilleures pistes, ajouta Sofia, avec un
+aplomb qui ne laissait aucune place à la contradiction.
 
 Le motif, une fois assemblé, ne
 laissait plus beaucoup de place au doute :
@@ -2418,6 +2620,15 @@ dans l'obscurité grandissante du soir.
 — Neuf jours, dit-il finalement, plus pour lui-même que pour les
 enfants. Neuf jours avant l'ouverture. Et quatre-vingt-dix-neuf ans
 depuis la dernière fois que cette montagne a vraiment parlé.
+
+Sofia se leva du canapé, encore à moitié endormie, et vint se poster à
+côté de lui devant l'écran éteint, sa main cherchant machinalement celle
+de son frère.
+
+— Tu as peur ? demanda-t-elle à Karim, directement, comme toujours.
+
+— Un peu, admit-il, sans chercher à le cacher cette fois. Pas du volcan.
+De pas être cru à temps.
 
 — Ça fait beaucoup de chiffres qui se répondent, dit Souly.
 
@@ -2538,10 +2749,28 @@ principale, où l'atmosphère avait changé du tout au tout depuis leur
 arrivée en ville, quelques jours plus tôt. Deux femmes, en les
 apercevant, interrompirent leur conversation d'un coup sec, avant de
 reprendre, à voix plus basse, dès qu'elles les crurent hors de portée
-d'oreille. Devant l'épicerie, Frédéric leur adressa un signe de tête
-inhabituellement bref, l'air préoccupé, occupé à décrocher une affiche
-de soutien au projet des Thermes qu'il venait visiblement de recoller à
-la hâte dans sa vitrine.
+d'oreille. Devant l'épicerie, occupé à décrocher une affiche de soutien
+au projet des Thermes qu'il venait visiblement de recoller à la hâte
+dans sa vitrine, Frédéric — qui d'ordinaire les aurait interpellés à
+grand renfort de plaisanteries sur Paris et les embouteillages — se
+contenta cette fois d'un signe de tête bref, presque gêné. Souly ralentit
+le pas, hésitant à s'arrêter, avant que Sofia, plus directe comme
+toujours, ne tranche la question à sa place.
+
+— Frédéric ? Ça va ?
+
+— Ça va, dit-il, sans se retourner complètement. Juste... beaucoup de
+clients inquiets, ce matin. Les gens demandent si les Thermes vont
+vraiment ouvrir, si c'est prudent, si le volcan va vraiment nous tomber
+dessus. Je sais plus quoi leur répondre.
+
+— Vous pouvez leur dire qu'on travaille dessus, dit Sofia.
+
+— C'est justement ce qui les inquiète le plus, dit Frédéric, avec un
+petit rire sans joie. Que des enfants de Paris travaillent dessus.
+
+Il n'y avait pas de méchanceté dans la remarque, seulement une fatigue
+sincère, et Sofia n'insista pas davantage.
 
 — Ça sent pas bon, chuchota Léna, en accélérant le pas.
 
@@ -2588,8 +2817,8 @@ elles se connaissaient depuis toujours.
 Amara la regarda, surprise, puis regarda Souly et Léna, restés un peu en
 retrait.
 
-— Vous ne me croyez plus coupable ? demanda-t-elle, avec une méfiance qui
-paraissait tout à fait justifiée après ce qu'elle venait de traverser.
+— Vous ne me croyez plus coupable ? demanda-t-elle, sa méfiance
+paraissant tout à fait justifiée après ce qu'elle venait de traverser.
 
 — On s'est trompés une fois, dit Souly, en s'approchant à son tour. On
 essaie de pas recommencer deux fois la même erreur.
@@ -2604,6 +2833,21 @@ m'a arrêtée, ici, il y a un an, j'avais raison. J'avais vu une pompe
 illégale qui asséchait une source protégée. J'ai eu raison, et j'ai quand
 même passé une nuit au poste. Depuis, dans cette ville, avoir raison et
 avoir des ennuis, c'est devenu presque la même chose pour moi.
+
+Elle laissa passer un silence, comme si elle hésitait encore à partager
+la suite.
+
+— Ma mère travaillait à l'usine textile, avant qu'elle ferme, ajouta-
+t-elle. Elle disait toujours qu'une ville qui vit d'une seule chose finit
+toujours par avoir peur de la vérité sur cette chose-là. D'abord c'était
+le textile. Maintenant, c'est les Thermes. Personne, ici, ne veut
+vraiment entendre qu'un projet dont dépend tout le monde pourrait avoir
+un problème.
+
+— C'est pour ça que vous continuez, malgré tout ? demanda Souly.
+
+— Je continue parce que quelqu'un doit le faire, dit Amara, simplement.
+Même si ce quelqu'un finit toujours par payer plus cher que les autres.
 
 — C'est injuste, dit Léna, doucement.
 
@@ -2670,7 +2914,7 @@ son mot à dire.
 — Oui, dit Léna, surprise d'être reconnue.
 
 — Ton grand-père m'a prêté un livre sur l'histoire géologique de la
-région, il y a deux ans, dit Amara, avec un sourire qui adoucit, pour la
+région, il y a deux ans, dit Amara, un sourire adoucissant, pour la
 première fois depuis le début de la conversation, les traits tendus de
 son visage. Dis-lui que je ne l'ai toujours pas rendu. Et que je suis
 désolée.
@@ -2685,12 +2929,33 @@ Elle s'éloigna, sa pancarte roulée sous le bras plutôt que brandie, et
 les trois enfants restèrent un moment silencieux sur le banc, chacun
 digérant, à sa façon, tout ce qu'ils venaient d'entendre.
 
+— Elle a raison, tu sais, dit Léna, après un moment. Sur la légende. On
+répète toujours qu'un bout de la phrase. « Il gronde tous les cent ans. »
+Jamais la suite. « Mais ne mord jamais les gens. » Comme si la première
+partie faisait plus peur, et que la deuxième, personne voulait vraiment y
+croire.
+
+— Ou comme si personne avait encore vérifié que la deuxième partie était
+vraie, dit Souly, pensif. On a vérifié la première. Pas la deuxième.
+
+Sofia se redressa d'un coup, le caillou porte-bonheur serré dans son
+poing.
+
+— Ça, dit-elle, c'est peut-être notre prochaine mission.
+
 — On devrait lui apporter à manger, un de ces jours, dit Sofia. Genre un
 vrai repas, pas juste un sandwich.
 
 — On devrait surtout lui prouver qu'elle a raison, corrigea Souly, en
 refermant son carnet. C'est le seul cadeau qui compte vraiment, dans son
 cas.
+
+— On peut faire les deux, trancha Sofia, qui n'avait jamais vu la
+nécessité de choisir entre une bonne idée et une autre bonne idée.
+D'abord le sandwich. Ensuite la preuve.
+
+— C'est un ordre de priorité discutable, dit Souly, mais un sourire
+trahissait qu'il n'était pas vraiment contre.
 
 Ils remontèrent vers l'arrêt où Karim les attendait déjà, adossé à sa
 camionnette, un sac de pain frais dans une main, l'autre occupée à
@@ -2754,6 +3019,22 @@ définitive. Mais ce n'est toujours pas assez pour l'accuser publiquement.
 On a huit jours avant l'ouverture. Il va falloir faire vite, et faire
 juste.
 
+— Il va falloir aussi vérifier son emploi du temps des derniers jours,
+ajouta Karim, en feuilletant ses propres notes de terrain. S'il a
+vraiment modifié quelque chose le soir de la soirée, il a dû le faire
+depuis un endroit précis, à un moment précis. Les gens qui trichent
+laissent toujours une trace, même minuscule, même quand ils font
+attention.
+
+— Comme la sacoche qui change d'épaisseur, dit Souly, en griffonnant
+déjà une nouvelle colonne dans son carnet, avant de se rappeler qu'ils
+n'avaient pas encore observé la moindre sacoche. Enfin. Un truc comme
+ça, quand on le trouvera.
+
+— Exactement ce genre de détail, dit Karim. On va devoir observer, pas
+juste déduire. Les déductions, ça convainc personne sans preuve
+derrière.
+
 Sofia hocha la tête, très sérieusement, avant d'ajouter, un rien de malice
 perçant malgré la gravité du moment :
 
@@ -2778,6 +3059,15 @@ Sofia. C'est notre spécialité.
 Karim les regarda tous les deux, un sourire fatigué mais
 sincère éclairant enfin son visage, avant de se lever pour attraper le
 disque de sauvegarde une fois de plus.
+
+— Il faudra aussi penser à Mme Delacroix, ajouta Sofia, plus sérieuse
+soudain. Elle va pas nous croire facilement, même avec des preuves. Elle
+veut tellement que tout se passe bien qu'elle refusera peut-être de voir,
+même devant l'évidence.
+
+— C'est un problème pour plus tard, dit Karim, après réflexion. D'abord,
+on rassemble tout ce qu'il faut. Ensuite, on s'inquiète de savoir qui
+voudra bien l'entendre.
 
 — D'accord, dit-il. Alors on continue. Ensemble.
 
@@ -2808,6 +3098,16 @@ monter.
 Ce n'est presque rien. Mais ce n'est pas rien non plus, comparé à la
 décennie précédente, où le sol restait parfaitement stable.
 
+— Ça veut dire qu'on va le sentir avant que ça devienne dangereux ?
+avait demandé Souly, son carnet déjà ouvert sur ses genoux.
+
+— En théorie, oui, avait répondu Karim. C'est tout l'intérêt de mesurer
+plutôt que de deviner. Le sol nous prévient, à sa façon, bien avant que
+quoi que ce soit de grave arrive. Le problème, c'est que « à sa façon »
+veut souvent dire en millimètres et en semaines, pas en gros titres et
+en alarme sonore. Les gens préfèrent les signaux évidents. La nature
+n'en fournit presque jamais.
+
 — Comme une respiration très, très lente, avait dit Sofia.
 
 — J'aime beaucoup cette image, avait dit Karim, avec le sourire d'un
@@ -2829,6 +3129,17 @@ tremblantes. Papi a un vieil ami qui travaille à la préfecture.
 Il a pu identifier le cercle bleu : c'est celui du cabinet « Rocheteau
 Expertises Géologiques ». Sa propre société. La voiture garée devant le
 chantier, cette nuit-là, c'était bien la sienne.
+
+— Il a mis moins d'une heure à le retrouver, ajouta-t-elle, encore un peu
+essoufflée. Il a dit que c'était le genre de logo qu'on n'oublie pas une
+fois qu'on l'a vu deux fois — un cercle bleu, avec les initiales du
+cabinet en lettres blanches à l'intérieur. Rocheteau l'a fait dessiner
+lui-même, il y a des années, par un de ses anciens étudiants.
+
+— Comment tu sais tout ça ? demanda Souly, impressionné malgré lui.
+
+— Papi pose toujours plus de questions que nécessaire, dit Léna, avec un
+petit sourire fier. C'est de famille, apparemment.
 
 — Tu as pédalé jusqu'ici pour nous dire ça en personne ? demanda Sofia,
 impressionnée. T'aurais pu juste téléphoner.
@@ -2952,7 +3263,7 @@ l'amusement et l'inquiétude sincère.
 en colère, mais visiblement perplexe. Vous préparez un exposé sur les
 lois de la physique appliquées au mobilier de café, ou quoi ?
 
-— Quelque chose comme ça, dit Sofia, avec un aplomb qui sembla
+— Quelque chose comme ça, dit Sofia, si sûre d'elle que ça sembla
 suffire au patron, qui retourna à son comptoir en secouant la tête,
 amusé malgré lui.
 
@@ -3002,9 +3313,42 @@ qu'une seule chose à la fois.
 — C'est un bon détail, dit Karim. Pas une preuve. Mais un bon détail de
 plus, dans un dossier qui commence à en compter beaucoup.
 
+— À quel moment ça devient assez de détails pour faire une vraie preuve ?
+demanda Léna, qui avait fini par abandonner tout espoir de nettoyer
+complètement son plan taché d'encre.
+
+— Il n'y a pas de nombre magique, dit Karim. C'est plutôt une question
+de direction. Est-ce que chaque nouveau détail pointe vers la même
+explication, ou est-ce qu'il faut en inventer une nouvelle à chaque
+fois pour tout faire tenir ensemble ? Là, tout pointe dans la même
+direction depuis le début. C'est plutôt bon signe, question preuve.
+
+— Ou plutôt mauvais signe, question Rocheteau, remarqua Sofia.
+
+— Les deux à la fois, admit Karim, avec un sourire sans joie.
+
 Souly griffonna l'observation à la hâte dans la marge de son carnet,
 soulignée deux fois, avant de la ranger avec le reste — une pièce
 supplémentaire d'un puzzle qui, lentement, prenait forme.
+
+Magma, qui avait fini par s'habituer à leurs allées et venues
+quotidiennes, développa au fil des jours l'habitude étrange de les
+accompagner jusqu'au coin de la rue avant de rebrousser chemin tout
+seul, comme s'il assumait, à sa manière féline, une partie de la
+mission.
+
+— Il nous escorte, remarqua Sofia, le troisième matin, en le regardant
+tourner les talons pile à l'angle habituel. Jusqu'ici, et pas un pas de
+plus.
+
+— Il connaît ses limites professionnelles, dit Karim, avec un sérieux
+qui ne trompa personne. Contrairement à certains membres plus jeunes de
+cette famille.
+
+— On note ça dans le carnet ? demanda Léna, mi-sérieuse. « Le chat
+respecte le périmètre d'observation mieux que les humains. »
+
+— Note-le, dit Souly. Ça pourrait servir de leçon, un jour.
 
 Le motif qui se dessina, au bout de deux jours, était d'une régularité
 presque comique : Rocheteau quittait son bureau chaque après-midi vers
@@ -3080,6 +3424,14 @@ Karim, d'une voix mesurée qui trahissait, malgré tout, la tension des
 derniers jours. Je te demande juste un contrôle de routine, comme la loi
 t'y autorise. Si tout est normal, tant mieux, personne n'en saura rien.
 
+— Tu es sûr de vouloir cette réponse ? demanda le maire, sa voix
+trahissant une fatigue que Sofia et Souly n'avaient encore jamais
+entendue chez un adulte de la ville. Parce qu'une fois qu'on sait, on
+peut plus faire semblant de pas savoir.
+
+— C'est justement le problème avec « faire semblant de pas savoir »,
+répondit Karim. Ça marche, jusqu'au jour où ça marche plus.
+
 — Et si tout n'est pas normal ? demanda la voix du maire, crépitant
 légèrement dans le haut-parleur.
 
@@ -3130,6 +3482,14 @@ son assiette, l'appétit visiblement coupé par l'inquiétude.
 — Alors on continuera à chercher ailleurs, dit Karim, avec une assurance
 qu'il ne semblait pas totalement ressentir lui-même. On a déjà trouvé
 beaucoup, en une semaine. On trouvera le reste.
+
+— Et si c'est vide, ce sera quand même utile, ajouta Souly, en essayant
+de se convaincre lui-même autant que sa sœur. On aura éliminé une
+possibilité. Karim dit toujours que c'est jamais du temps perdu.
+
+— C'est vrai que je dis toujours ça, admit Karim, avec un demi-sourire.
+Reste à voir si j'y crois encore, à onze heures du soir, la veille d'un
+grand jour.
 
 Ce soir-là, alors que Sofia dormait déjà, Souly resta un moment éveillé,
 à relire toute sa liste de suspects, ses indices, ses dates, avant
@@ -3205,6 +3565,19 @@ demande d'en donner plus.
 — On peut lui demander, dit Sofia. Elle décidera elle-même si elle
 veut.
 
+— Elle a déjà donné plus que sa part à cette enquête, remarqua Souly.
+Presque toute seule, pendant des semaines, avant même qu'on arrive.
+
+— C'est peut-être pour ça qu'il faut lui demander, plutôt que de décider
+à sa place, dit Sofia. On lui a fait ça une fois. Décider pour elle sans
+lui demander son avis. On devrait pas recommencer.
+
+Karim les regarda tous les deux, un mélange de fierté et de quelque
+chose de plus grave passant sur son visage.
+
+— Vous avez raison tous les deux, dit-il. On lui demande. Et on respecte
+sa réponse, quelle qu'elle soit.
+
 Sofia, qui n'avait pas dit grand-chose depuis le début de la matinée,
 sortit de sa poche son caillou porte-bonheur, le fit rouler entre ses
 doigts un moment, comme elle le faisait toujours quand une idée cherchait
@@ -3273,6 +3646,37 @@ davantage forcé que réellement ressenti. La patience, dans ce métier,
 c'est la moitié du travail. L'autre moitié, c'est d'être prêt exactement
 au moment où il ne l'attend pas.
 
+Sofia profita de cette accalmie forcée pour ressortir son propre carnet —
+pas le Carnet des Preuves officiel, réservé à Souly, mais son carnet à
+elle, plus petit, plus tacheté, rempli de dessins plutôt que de listes —
+et se mit à croquer, de mémoire, le visage de Rocheteau tel qu'elle se le
+rappelait depuis la conférence de presse, la mâchoire serrée, les yeux
+fuyants.
+
+— Pourquoi tu dessines ça, maintenant ? demanda Léna, en regardant par-
+dessus son épaule avec curiosité.
+
+— Je sais pas, dit Sofia, en ajoutant un dernier trait au menton. Des fois,
+dessiner quelqu'un m'aide à comprendre ce que je pense vraiment de lui. Et
+là, je crois que je pense qu'il a plus peur que méchant.
+
+— Peur de quoi ? demanda Souly, intrigué malgré lui.
+
+— De perdre quelque chose, dit Sofia, en haussant les épaules, comme si
+l'idée venait tout juste de se former complètement dans sa tête. Son
+travail, peut-être. Ou juste l'idée qu'il se fait de lui-même, du genre de
+scientifique qu'il voulait être avant que tout ça commence.
+
+Léna la regarda un moment, sincèrement impressionnée, avant de refermer
+son propre carnet.
+
+— Toi, dit-elle, tu devrais peut-être écrire les carnets, et Souly les
+dessiner. Vous avez peut-être inversé les rôles depuis le début.
+
+— Jamais de la vie, protestèrent Sofia et Souly en même temps, avec une
+unanimité si immédiate que Léna éclata de rire pour la première fois
+depuis le début de l'après-midi.
+
 Léna, assise en tailleur sur le trottoir entre Sofia et Souly, leva les
 yeux vers le ciel, où de gros nuages sombres s'amoncelaient depuis le
 milieu de l'après-midi, poussés par un vent qui n'avait cessé de
@@ -3298,6 +3702,35 @@ monde. J'ai déjà géré pire.
 Karim, qui avait suivi l'échange sans intervenir, posa une main brève
 sur l'épaule de Souly, un geste discret qui n'avait besoin d'aucun mot
 pour se faire comprendre.
+
+Un gardien de sécurité choisit cet instant précis pour entamer sa ronde,
+une lampe torche balayant lentement la pelouse en direction de leur
+cachette. Sofia se figea, plaquée contre Souly, qui retint sa respiration
+en comptant, par pur réflexe, les secondes qui s'écoulaient.
+
+— Immobiles, souffla Karim, à peine plus qu'un mouvement des lèvres.
+Comme au café, la semaine dernière. On ne bouge pas, on ne parle pas, on
+attend que le faisceau passe.
+
+Léna, qui n'avait pas eu la chance douteuse de participer aux trois jours
+de filature ratée devant l'établissement de Frédéric, regarda les deux
+autres se transformer en statues avec une précision presque comique,
+imitée une seconde plus tard par elle-même, dans un mélange d'amusement
+et de terreur véritable.
+
+Le faisceau de la lampe torche balaya le sommet de la haie, s'arrêta une
+fraction de seconde de trop au goût de Sofia, puis reprit sa course vers
+l'autre bout du terrain, indifférent. Le gardien continua sa ronde en
+sifflotant, sans se douter qu'à moins de trois mètres de lui, quatre
+paires de poumons retenaient leur souffle en même temps.
+
+— Ça, dit Souly, une fois le danger passé, c'est officiellement notre
+meilleure filature de l'été. Personne renversé, aucune table cassée.
+
+— Ne dis pas ça trop vite, murmura Sofia. On n'a pas encore fini la
+soirée.
+
+Elle n'aurait pas pu mieux dire.
 
 À seize heures moins dix précises — Souly vérifia l'heure sur sa montre
 trois fois, incapable de rester tranquille plus de quelques secondes —
@@ -3410,6 +3843,27 @@ l'épaule de Souly pour ne pas se perdre lui-même dans un bâtiment qu'il
 connaissait, en réalité, beaucoup moins bien que ce dernier ne le laissait
 croire.
 
+À mi-chemin du couloir, la main de Souly heurta quelque chose de dur et
+d'inattendu — une chaise, renversée par la secousse, en travers du
+passage. Il faillit trébucher, se rattrapa au mur, et guida Sofia
+par-dessus l'obstacle en décrivant, à voix basse, chaque geste à
+accomplir — lui-même étonné par son propre calme.
+
+— Lève le pied, là, maintenant à gauche, encore un peu.
+
+— Comment tu fais pour savoir où est tout, dans le noir complet ?
+chuchota Sofia, presque admirative malgré la peur qui lui nouait encore
+l'estomac.
+
+— Je compte, dit-il simplement. Depuis qu'on est entrés. Chaque pas,
+chaque virage. C'est comme un carnet, sauf que je l'écris dans ma tête.
+
+Un second grondement, plus bref que le premier mais tout aussi profond,
+secoua brièvement le bâtiment, faisant tinter quelque chose de métallique
+un peu plus loin dans l'obscurité. Karim resserra sa prise sur l'épaule
+de Souly, sans un mot, et le trio pressa le pas vers le rectangle plus
+clair qui se dessinait enfin au bout du couloir.
+
 Ils émergèrent enfin dans la lumière grise du crépuscule, sur la pelouse
 où s'étaient rassemblés, en quelques minutes à peine, une bonne partie des
 employés du chantier, hébétés, certains encore couverts de poussière,
@@ -3431,6 +3885,62 @@ Rocheteau, lui, avait disparu.
 
 — Il a dû partir par l'autre sortie, dit Karim, en scrutant la foule sans
 succès. Ça n'a pas d'importance, maintenant. On a la photo.
+
+Ce fut Amara, l'œil toujours entraîné à repérer ce qui ne devrait pas
+être là, qui repéra la sacoche de Rocheteau, abandonnée sous un buisson à
+quelques mètres de la sortie de secours, comme si son propriétaire
+l'avait délibérément lâchée pour courir plus vite.
+
+— Il l'a laissée tomber en fuyant, dit-elle, en la soulevant du bout des
+doigts avec la prudence de quelqu'un qui savait exactement à quoi
+ressemblait une preuve qu'il ne fallait surtout pas abîmer. Ou alors il
+l'a jetée exprès, pour courir plus vite. Dans les deux cas, ça ne lui
+ressemble pas de s'en séparer. Il la trimballe partout, d'habitude.
+
+Karim l'ouvrit avec précaution, sous le regard attentif de Sofia et
+Souly, et y trouva, entre un dossier de notes manuscrites et une pomme à
+moitié entamée, un second ordinateur portable, plus petit que celui resté
+sur le bureau, encore chaud au toucher.
+
+— Deux ordinateurs, murmura Souly, en notant fébrilement le détail dans
+son carnet malgré la pénombre grandissante. Un pour le travail officiel.
+Un autre pour... autre chose.
+
+— On ne touche à rien de plus, dit Karim, en refermant la sacoche avec
+autant de précaution qu'il l'avait ouverte. Ça, c'est pour la police, pas
+pour nous. On a déjà notre photo. On n'a pas besoin de jouer les
+cambrioleurs en plus des détectives.
+
+Mme Delacroix surgit alors au coin du bâtiment, échevelée, une chaussure
+à la main et l'autre visiblement perdue quelque part dans la panique
+générale, le visage si pâle que Sofia se demanda un instant si elle
+n'avait pas, elle aussi, été prise dans l'obscurité du bâtiment.
+
+— Tout le monde va bien ? cria-t-elle, à la cantonade, avant même d'avoir
+repéré Karim au milieu de la foule. Les Thermes, les employés, est-ce que
+quelqu'un a vérifié —
+
+— Tout le monde est sorti, dit Karim, en s'approchant d'elle. Quelques
+chocs, de la poussière. Rien de grave, apparemment.
+
+Elle se laissa tomber sur le rebord d'un muret bas, sa chaussure
+manquante soudain la dernière de ses préoccupations, et resta un moment
+silencieuse, le regard fixé sur le mince filet de fumée qui s'élevait
+maintenant, bien visible, au-dessus du Grand Sombre.
+
+— J'ai passé deux ans à construire cet endroit, dit-elle finalement,
+d'une voix méconnaissable, dépouillée de toute l'assurance qu'elle
+affichait d'habitude en public. Et pendant deux ans, j'ai refusé
+d'imaginer vraiment ce que ferait la montagne si elle décidait de se
+réveiller pour de bon. C'est stupide, non ? Une femme qui construit sa
+vie entière au pied d'un volcan et qui refuse d'y penser.
+
+— Ce n'est pas stupide, dit Karim, avec une douceur que Sofia ne lui
+connaissait pas dans ses échanges avec elle. C'est humain. Tout le monde
+fait ça, à sa manière, avec quelque chose.
+
+Mme Delacroix leva les yeux vers lui, surprise par le ton, et hocha
+lentement la tête, sans trouver la force de répondre davantage.
 
 Amara, qui avait passé les employés du chantier en revue avec un œil de
 professionnelle, désigna du menton un attroupement plus dense, un peu
@@ -3476,6 +3986,33 @@ souffler, affalé sur le canapé, Magma aussitôt venu se lover contre lui
 comme s'il avait senti que son humain avait besoin, ce soir-là, de tout
 le réconfort disponible.
 
+Le téléphone de la station sonna une dernière fois avant que quiconque
+n'ait eu le temps de songer à se coucher pour de bon. M. Foucher, à
+l'autre bout du fil, parlait si fort que Sofia, assise à l'autre bout de
+la pièce, entendait presque chaque mot sans effort.
+
+— Léna vient de me raconter — enfin, elle a essayé, elle tremblait encore
+un peu — la coupure de courant, le bâtiment, tout. Dites-moi que les
+enfants vont bien, je vous en supplie, sinon je ne dors pas de la nuit.
+
+— Ils vont bien, dit Karim, un sourire fatigué mais réel sur le visage.
+Un peu secoués. Souly en particulier s'est plutôt bien débrouillé, dans
+le noir.
+
+— Bien débrouillé, répéta M. Foucher, la voix soudain radoucie.
+Évidemment qu'il s'est bien débrouillé. C'est un Carnet des Preuves, ce
+petit-là, pas un roseau.
+
+Karim raccrocha quelques minutes plus tard, encore un peu secoué
+lui-même par l'enthousiasme sonore de son interlocuteur, et se tourna
+vers Sofia et Souly, tous deux affalés sur le canapé, trop épuisés pour
+même protester contre l'heure tardive.
+
+— Demain, dit-il, on ira montrer cette photo à qui de droit. Ce soir,
+plus personne ne bouge d'ici.
+
+Personne ne protesta.
+
 Souly, avant de s'endormir, rouvrit une dernière fois son carnet et
 écrivit, d'une main un peu tremblante encore, la ligne la plus courte de
 tout l'été :
@@ -3497,6 +4034,14 @@ chalet. Souly, lui, resta éveillé plus longtemps encore, repassant dans
 sa tête, encore et encore, chaque détail de leur intrusion dans le
 bureau de Rocheteau, comme s'il craignait qu'un souvenir mal fixé ne se
 dissolve avant le matin.
+
+Il se releva une fois, dans le noir, pour vérifier — pour la troisième
+fois au moins — que la photo était bien sauvegardée sur les trois
+appareils différents, avant de se recoucher, rassuré sans être
+complètement apaisé. Ce n'était pas tout à fait la même inquiétude que
+celle des nuits ordinaires. C'était une inquiétude neuve, plus adulte,
+celle de savoir qu'une preuve pouvait encore, d'une façon ou d'une autre,
+disparaître avant d'avoir eu le temps de servir à quelque chose.
 
 Le maire convoqua une réunion d'urgence à la mairie dès le lendemain matin,
 après une nuit ponctuée de trois nouvelles secousses mineures, chacune
@@ -3520,6 +4065,19 @@ le visage gris de fatigue. Où est le Dr. Rocheteau, en ce moment ?
 — Introuvable depuis hier soir, dit le Brigadier local, un homme jeune que
 Karim connaissait de vue depuis des années. Sa voiture n'est plus au
 parking de la mairie. On le recherche.
+
+Au troisième rang, M. Foucher se leva à moitié de sa chaise, la main en
+cornet derrière l'oreille, manifestement convaincu d'avoir mal entendu.
+
+— PARDON ? On le CROISE ? Il se promène encore dans les rues, ce
+fraudeur ?
+
+— On le RECHERCHE, Papi, corrigea Léna, assise à côté de lui, avec la
+patience résignée de quelqu'un qui avait, décidément, l'habitude.
+
+— Ah, RECHERCHE ! C'est nettement plus rassurant, dit M. Foucher, en se
+rasseyant, absolument pas gêné, sous les regards amusés d'une bonne
+partie de l'assemblée, malgré la gravité de la situation.
 
 Mme Delacroix, assise au premier rang, le visage aussi gris que celui du
 maire, resta muette, les yeux fixés sur la photo
@@ -3577,6 +4135,24 @@ deviner le sens exact, avant de passer à autre chose — un sursis
 que Karim accueillit avec un soulagement visible, sans toutefois
 relâcher complètement les épaules.
 
+À la sortie de la salle, une femme que Sofia ne connaissait pas
+s'approcha d'eux, une main hésitante tendue vers Souly.
+
+— Je voulais juste vous dire, dit-elle, un peu gênée de s'adresser
+directement à un enfant. Ma fille a le même âge que vous. Elle vous a vu
+prendre la parole, tout à l'heure, sans trembler devant tous ces
+adultes. Ça lui a fait quelque chose.
+
+— J'ai un peu tremblé, en fait, avoua Souly, une honnêteté qui sembla
+surprendre la femme autant que lui.
+
+— On tremble tous, dit-elle, avec un sourire. La différence, c'est ceux
+qui parlent quand même.
+
+Elle s'éloigna avant que Souly n'ait trouvé quoi répondre, et il resta
+un moment silencieux, cette phrase tournant déjà dans sa tête comme une
+future ligne de carnet.
+
 ---
 
 L'ouverture des Thermes du Grand Sombre fut officiellement reportée dans
@@ -3611,6 +4187,20 @@ en vouloir, parce que vous aviez raison depuis le début.
 — Peut-être, dit-elle, la voix creuse. Demandez-moi dans quelques
 semaines. Aujourd'hui, j'ai surtout besoin de rentrer chez moi.
 
+Elle s'éloigna lentement vers sa voiture, seule, sans un regard en
+arrière, et Sofia, en la regardant partir, se surprit à ressentir un
+mélange d'agacement et de compassion qu'elle n'aurait pas cru possible
+quelques jours plus tôt, envers quelqu'un qui avait tant fait pour
+protéger un mensonge.
+
+— Elle est pas méchante, dit Sofia, plus pour elle-même que pour Karim.
+Juste... pressée. Pressée que tout se passe bien, tellement pressée
+qu'elle a arrêté de vérifier si c'était vraiment le cas.
+
+— C'est une des choses les plus dangereuses qui existent, dit Karim, en
+la regardant s'éloigner à son tour. Être tellement pressé d'avoir raison
+qu'on arrête de se demander si on a tort.
+
 Les jours suivants furent occupés, pour Karim, à coordonner l'installation
 en urgence de nouveaux capteurs, empruntés à des observatoires voisins,
 tandis que des géologues venus de tout le pays commençaient à affluer vers
@@ -3633,6 +4223,19 @@ savoir faire pareil.
 — J'y penserai, dit Karim, un peu gêné par le compliment, une fois que
 j'aurai fini de dormir suffisamment pour tenir un stylo droit.
 
+— Vous savez, ajouta la chercheuse en refermant son propre carnet de
+notes, couvert d'une écriture italienne penchée que Souly trouva
+immédiatement fascinante, dans mon pays, on dit qu'un bon volcanologue
+doit autant se méfier des gens que des montagnes. Les deux mentent,
+parfois. Mais les montagnes, au moins, ne le font jamais exprès.
+
+— J'aime bien cette phrase, dit Souly, en la recopiant aussitôt, mot pour
+mot, dans son propre carnet.
+
+— Tu peux la garder, dit la chercheuse en riant. Je vous en offre une
+autre, en prime, si vous voulez : la science n'a jamais peur des
+questions. Seuls les menteurs en ont peur.
+
 Souly, qui avait suivi la conversation avec une attention non dissimulée,
 nota soigneusement le nom de la chercheuse dans son carnet, sous une
 nouvelle ligne : « Contacts pour futures enquêtes scientifiques. »
@@ -3651,6 +4254,38 @@ ravie.
 — On est officiellement des enfants qui ont eu de la chance que tout se
 termine bien, corrigea Souly, plus mesuré, même si un petit sourire
 trahissait qu'il n'était pas complètement insensible à l'attention.
+
+La traque proprement dite occupa une bonne partie de la nuit précédente,
+Karim installé à la station avec le Brigadier et deux collègues venus en
+renfort d'une brigade voisine, épluchant les derniers relevés de badge et
+les caméras de surveillance du parking municipal pour reconstituer,
+minute par minute, les derniers déplacements connus de Rocheteau.
+
+— Il n'a pas quitté la région, affirma le Brigadier, en pointant du doigt
+un relevé de carte bancaire utilisé la veille au soir dans une station-
+service à seulement quinze kilomètres de la ville. Quelqu'un qui voulait
+vraiment disparaître aurait payé en liquide. Il panique, mais il ne
+réfléchit pas encore assez vite.
+
+Amara, contactée en fin de soirée pour prêter main-forte — « personne ne
+connaît mieux qu'elle les recoins du chantier et les petites routes
+autour », avait plaidé Karim auprès d'un Brigadier d'abord réticent —
+passa la nuit à surveiller, depuis un poste d'observation qu'elle avait
+elle-même choisi, l'unique route forestière qui aurait permis à quiconque
+d'éviter le contrôle policier installé sur la départementale.
+
+Sofia et Souly, renvoyés au lit malgré leurs protestations, n'apprirent
+les détails de cette longue nuit que le lendemain matin, par la bouche
+même d'Amara, visiblement fière d'avoir enfin pu rendre à la police un
+service qu'elle avait, pendant des semaines, tenté de lui rendre sans
+succès.
+
+— Ironique, non ? dit-elle, en avalant d'un trait le café que Karim lui
+avait servi. Ça fait des mois qu'ils refusaient même d'écouter mes
+signalements. Cette nuit, ils m'ont appelée en renfort.
+
+— C'est ce qui arrive, dit Karim, quand on finit par avoir raison assez
+fort pour que ça devienne impossible à ignorer.
 
 Rocheteau fut intercepté le lendemain matin, alors qu'il tentait de revenir
 discrètement récupérer des affaires laissées dans son bureau désormais
@@ -3690,6 +4325,27 @@ espoir, un peu de compréhension dans leurs regards.
 
 — Vous avez de bons instincts, dit-il à Karim, à travers la vitre, d'une
 voix presque inaudible. J'aurais dû les avoir aussi.
+
+— Comment vous avez su, pour les deux ordinateurs ? demanda soudain
+Rocheteau, sa question s'adressant directement à la vitre, comme s'il
+avait deviné, sans qu'on le lui dise, que quelqu'un de plus jeune que
+Karim se trouvait de l'autre côté.
+
+Le Brigadier hésita, regarda Karim, qui hocha légèrement la tête.
+
+— C'est mon cousin, dit Souly, sa voix un peu tremblante mais nette,
+depuis l'entrebâillement de la porte que le Brigadier avait laissée
+ouverte. Enfin, techniquement le sien. On a trouvé la sacoche.
+
+Rocheteau le regarda longuement, sans hostilité apparente, presque avec
+une forme de respect résigné.
+
+— Vingt ans de sismologie, dit-il finalement, à personne en particulier,
+et je me suis fait démasquer par un enfant de douze ans avec un carnet.
+
+Un silence suivit, que personne, pas même le Brigadier, ne sut vraiment
+comment interrompre, avant que Rocheteau, contre toute attente, ne
+laisse échapper un rire bref, presque sincère, aussitôt étouffé.
 
 Karim ne répondit rien. Il se contenta de hocher la tête, une seule fois,
 avant de raccompagner Sofia et Souly hors du commissariat, dans l'air frais
@@ -3761,6 +4417,11 @@ plus personne, en ville, ne me regarde de travers.
 
 — C'est déjà un bon début, dit Souly.
 
+Amara les regarda s'éloigner vers la camionnette de Karim, un sourire
+encore accroché aux lèvres, avant de se remettre en route elle-même vers
+la médiathèque, le livre serré contre elle comme une promesse enfin sur
+le point d'être tenue.
+
 ---
 
 Le soir même, alors que la vallée entière semblait tenir son souffle dans
@@ -3775,6 +4436,23 @@ avaient appris depuis leur arrivée.
 données republiées en douce. La voiture d'Amara — enfin, la voiture de
 Rocheteau — devant le chantier. Sa routine de seize heures. La coupure de
 courant.
+
+Il s'arrêta, le crayon suspendu, et regarda par la fenêtre le sommet du
+Grand Sombre, où le filet de fumée continuait de s'élever, plus mince
+mais toujours visible, comme un rappel discret que l'histoire n'était pas
+tout à fait terminée.
+
+— Tu crois qu'on aurait pu deviner plus tôt ? demanda-t-il, sans vraiment
+s'adresser à Sofia autant qu'à lui-même. Genre, dès le premier jour, dans
+la camionnette ?
+
+— Peut-être, dit Sofia, après réflexion. Mais je crois pas que ça aurait
+changé grand-chose. Fallait qu'on rencontre tout le monde d'abord.
+Rocheteau, Amara, Léna, Mme Delacroix. Sans eux, on aurait eu que des
+chiffres sur un écran. Pas une vraie histoire.
+
+Souly hocha la tête, satisfait de cette réponse, et reprit son résumé là
+où il l'avait laissé.
 
 — Tu as oublié un truc, dit Sofia.
 
@@ -3798,7 +4476,7 @@ présentation. Pas juste leur raconter en vitesse dans un coin.
 
 — Une présentation devant qui ? demanda Sofia.
 
-— Devant tout le monde, dit Souly, avec une conviction qui la surprit.
+— Devant tout le monde, dit Souly, si convaincu que ça la surprit.
 Devant toute la ville, si possible. Une bonne histoire mérite d'être
 racontée correctement, une seule fois, à tout le monde en même temps —
 pas répétée de bouche à oreille jusqu'à ce qu'elle se déforme.
@@ -3816,6 +4494,20 @@ grandes conférences scientifiques que Karim ait jamais montées — sauf
 que celle-ci se déroulait sur la table encombrée de la médiathèque,
 plutôt que dans un amphithéâtre universitaire, et que Léna et Souly, ses
 deux plus jeunes architectes, avaient respectivement onze et douze ans.
+
+Sofia, elle, s'était vu confier une mission différente, mais tout aussi
+sérieuse à ses yeux : dessiner, sur une grande feuille punaisée au mur de
+la salle de préparation, une frise chronologique illustrée des quatre
+événements historiques retrouvés dans les archives, avec un petit croquis
+de volcan fumant à chaque date, « pour que même les gens qui détestent
+lire des chiffres comprennent d'un seul coup d'œil ».
+
+— C'est pas de la triche, ça, de simplifier autant ? avait-elle demandé
+à Karim, un peu inquiète, en contemplant son propre travail.
+
+— Simplifier, c'est pas mentir, avait répondu Karim. Mentir, c'est
+simplifier jusqu'à ce que ce soit faux. Toi, tu simplifies jusqu'à ce
+que ce soit clair. C'est tout le contraire.
 
 — Il faut que ce soit clair pour tout le monde, avait insisté M. Foucher,
 en réorganisant pour la troisième fois l'ordre des documents historiques.
@@ -3858,6 +4550,18 @@ ni rejeter aveuglément. Vérifier.
 — Pas mal du tout, dit Frédéric, impressionné malgré son rôle de
 trouble-fête professionnel. Vous devriez faire ça pour gagner votre vie,
 tous les deux.
+
+— Une dernière question, ajouta Frédéric, redevenant sérieux l'espace
+d'une seconde. Pourquoi Rocheteau ne sera pas là, ce soir ? Les gens vont
+se poser la question, même si personne ne l'ose à voix haute.
+
+Karim regarda les enfants, puis Léna, sans que personne ne sache
+vraiment qui devait répondre en premier.
+
+— On dira la vérité, dit finalement Karim. Il a menti, il est en garde à
+vue, et ce n'est pas notre rôle, ce soir, de raconter son histoire à sa
+place. Ce soir, c'est la montagne qui parle. Lui, il aura son propre
+moment devant un tribunal, plus tard.
 
 — On y pense, dit Sofia, très sérieuse, ce qui fit rire toute la petite
 assemblée réunie pour la répétition.
@@ -3928,6 +4632,15 @@ fois M. Foucher redescendu de l'estrade. Et voici, superposées à ces
 quatre dates historiques, les données que mes capteurs ont enregistrées
 ces trois dernières semaines.
 
+Souly se pencha vers Sofia, un sourire en train de se former.
+
+— La dame du car, chuchota-t-il. Le premier jour. Elle avait raison,
+elle aussi — les années finissant par un neuf. On avait noté ça dans le
+carnet et complètement oublié depuis.
+
+— Sa grand-mère à elle avait raison sans le savoir, murmura Sofia, ravie.
+Et elle savait même pas pourquoi.
+
 Il fit apparaître, sur le grand écran installé pour l'occasion, un
 graphique où les pics de son propre relevé sismique s'alignaient presque
 parfaitement avec les dates rapportées par les archives, comme deux
@@ -3956,6 +4669,17 @@ vapeur à intervalles réguliers, plutôt que d'exploser d'un coup.
 arracha un rire nerveux à plusieurs rangées.
 
 — C'est une image qui n'est pas fausse, admit Karim, amusé malgré lui.
+
+Une adolescente, au fond de la salle, leva timidement la main, son
+téléphone déjà prêt à filmer la réponse.
+
+— Est-ce qu'on peut encore visiter le volcan, du coup ? Genre, en
+randonnée ? Ou c'est fini, tout ça, maintenant qu'on sait ?
+
+— On peut, dit Karim, avec un sourire. Un volcan surveillé, c'est un
+volcan plus sûr, pas moins. C'est justement quand personne ne regarde
+que les choses tournent mal. Continuez à marcher sur ce sentier. Juste,
+peut-être, avec un peu plus de respect qu'avant.
 
 ---
 
@@ -4010,6 +4734,26 @@ plus personne ne pourra le faire taire pour des raisons qui n'ont rien à
 voir avec la science. L'incertitude, elle a toujours existé. Ce qui
 change, c'est qu'on ne vous la cachera plus.
 
+Un homme âgé, au fond de la salle, appuyé sur une canne, leva timidement
+la main.
+
+— Ma propre grand-mère chantait cette comptine, dit-il, d'une voix
+tremblante mais posée. Elle disait toujours qu'elle la tenait de sa
+propre grand-mère à elle. Ça remonte à combien de générations, tout ça ?
+
+— D'après ce qu'on a pu retrouver, au moins six ou sept, répondit M.
+Foucher, depuis le bord de l'estrade, avec une fierté manifeste.
+Peut-être davantage. Les plus vieilles archives de cette ville ne
+remontent pas plus loin.
+
+— Alors ma grand-mère avait raison depuis le début, dit l'homme, sans
+chercher à cacher son émotion. Et personne, avant vous, n'a pris la peine
+de le vérifier vraiment.
+
+— Personne n'avait les deux bons outils en même temps, dit Karim,
+doucement. Les vieux carnets, et les nouveaux capteurs. Il fallait les
+deux ensemble pour que ça parle.
+
 Sofia, qui n'avait pas encore pris la parole, s'avança d'un pas, un peu
 intimidée par la foule mais visiblement décidée à dire ce qu'elle avait à
 dire.
@@ -4037,7 +4781,7 @@ tout seul non plus. Ce qui compte, c'est de vérifier les deux, et de les
 comparer. Ma grand-mère raconte des histoires depuis toujours. Certaines
 sont vraies, d'autres non. La seule façon de savoir, c'est de vérifier.
 
-— Comme un bon Carnet des Preuves, dit Sofia, avec un sourire qui fit
+— Comme un bon Carnet des Preuves, dit Sofia, un sourire qui fit
 sourire, malgré la gravité du moment, une bonne partie du premier rang.
 
 Un applaudissement timide commença, quelque part au fond de la salle,
@@ -4119,6 +4863,22 @@ plan cadastral de 1850, par exemple.
 passé essaie encore de nous dire, si on prend la peine de tendre
 l'oreille.
 
+Amara les rejoignit à son tour sur le parvis, son sac à dos remis en
+place sur ses épaules pour la première fois depuis des semaines sans
+qu'elle ait besoin de surveiller quoi que ce soit en particulier.
+
+— Alors, dit Souly, le poste consultatif ?
+
+— J'y réfléchis toujours, dit-elle, un sourire démentant un peu ses
+propres mots. Mais je crois que oui, en fait. Quelqu'un doit
+continuer à poser les questions gênantes, même une fois que tout le
+monde a l'air d'accord.
+
+— Vous serez douée pour ça, dit Sofia, avec une conviction totale.
+
+— Je l'ai toujours été, dit Amara, en riant. Le problème, c'était jamais
+mes questions. C'était les gens qui refusaient d'y répondre.
+
 Sofia, fatiguée mais rayonnante, glissa sa main dans celle de Souly, et
 tous deux restèrent un instant silencieux, à contempler la montagne qui,
 pour la première fois de tout leur séjour, ne leur paraissait plus
@@ -4175,6 +4935,39 @@ l'horizon.
 — Sauf que ce tableau-là mesure des tremblements de terre, précisa
 Souly, ce qui fit rire les deux autres.
 
+Ils redescendirent le sentier lentement, sans se presser pour une fois,
+Karim s'arrêtant régulièrement pour leur montrer, une dernière fois, tel
+affleurement de roche ou telle particularité du paysage qu'il avait
+appris à aimer au fil de ses trois années passées ici.
+
+— Tu vas rester encore longtemps, toi, sur cette montagne ? demanda
+Sofia.
+
+— Toute ma vie, probablement, dit Karim, sans hésitation. Certaines
+personnes ont besoin de changer de décor régulièrement. Moi, j'ai trouvé
+le mien, et je compte bien vieillir avec lui, capteur après capteur.
+
+— C'est un peu comme un mariage, remarqua Souly. Toi et le Grand Sombre.
+
+— Sauf que le Grand Sombre me ment jamais, dit Karim, en riant. Enfin.
+Sauf quand quelqu'un s'amuse à trafiquer ses relevés.
+
+Sofia s'arrêta un instant sur le sentier, se retournant pour contempler
+une dernière fois la station perchée derrière eux, son toit hérissé
+d'antennes, la silhouette familière de Magma visible à travers la
+fenêtre, roulé en boule sur le canapé malgré l'heure.
+
+— Tu crois que Magma va nous reconnaître, l'été prochain ? demanda-t-elle.
+
+— Magma reconnaît personne, dit Karim, avec affection. Il tolère les
+gens qui lui donnent à manger. Vous êtes officiellement montés dans son
+classement personnel, ce qui, pour lui, est à peu près l'équivalent
+d'une déclaration d'amour éternelle.
+
+— Je vais le prendre comme un compliment, dit Souly.
+
+— Tu devrais, dit Karim. Venant de Magma, c'en est un immense.
+
 — C'est un peu triste de repartir, dit Sofia, le dernier après-midi, assise
 sur les marches du chalet, Magma roulé en boule sur ses genoux avec une
 confiance qu'il n'accordait, d'ordinaire, qu'au clavier de Karim.
@@ -4228,6 +5021,15 @@ d'autre.
 — C'est le plus beau cadeau qu'on m'ait jamais fait, dit Sofia, la voix
 un peu étranglée, sans chercher à cacher son émotion pour une fois.
 
+— Tu vas me manquer, tu sais, dit Sofia, la voix un peu tremblante. Même
+si t'as raison, que j'allais m'ennuyer en dix minutes à la médiathèque.
+
+— Tu t'es pas ennuyée une seule fois, en fin de compte, remarqua Léna,
+avec un sourire en coin.
+
+— Non, admit Sofia. J'avais tort. C'est rare, que j'admette ça à voix
+haute, alors savoure le moment.
+
 Les deux filles se serrèrent dans les bras l'une de l'autre, longuement,
 sous le regard attendri de Souly et de Karim, qui échangèrent un sourire
 discret par-dessus leurs têtes.
@@ -4263,6 +5065,18 @@ parfois on la refait une troisième fois, apparemment.
 
 — Personne n'est parfait, dit Amara, avec un clin d'œil. Même pas les
 meilleurs enquêteurs de Roche-Fumée-les-Bains.
+
+— Vous savez ce que vous allez me manquer le plus, tous les deux ? Vos
+questions. Personne d'autre, dans cette ville, n'ose me demander les
+choses aussi directement que vous. Les adultes tournent toujours autour
+du pot.
+
+— On tourne pas autour du pot parce qu'on n'a pas encore appris à avoir
+peur des réponses, dit Souly, un sérieux qui le surprit lui-même en le
+disant à voix haute.
+
+— Garde cette phrase-là, dit Amara. Elle vaut mieux que la plupart de ce
+qu'on m'a dit cet été.
 
 Elle serra la main de Karim, plus longuement que ne l'exigeait la simple
 politesse, un geste qui n'échappa ni à Sofia ni à Souly, avant de
@@ -4338,7 +5152,7 @@ proposé de vous envoyer ici, j'ai cru que j'allais devoir m'occuper de deux
 enfants en vacances pendant deux semaines. Je n'avais pas prévu de finir
 avec deux collègues.
 
-— On est pas des vrais scientifiques, dit Sofia, avec une modestie qui ne
+— On est pas des vrais scientifiques, dit Sofia, une modestie qui ne
 lui ressemblait pas tout à fait.
 
 — Vous avez lu des données brutes, remarqué une anomalie systématique,
@@ -4364,6 +5178,17 @@ de vérifier notre travail, dans cent ans, tout sera là, bien classé.
 avec la satisfaction tranquille d'un homme qui n'avait jamais eu besoin
 qu'on lui explique deux fois l'importance de son propre métier.
 
+— Et vous, dit M. Foucher, en se tournant vers Sofia et Souly, prenez
+soin de ce Carnet des Preuves. Un jour, quelqu'un le retrouvera peut-être
+dans un tiroir, dans cent ans, et se demandera qui étaient ces deux
+enfants qui avaient tout compris avant tout le monde.
+
+— On espère juste qu'il y aura pas trop de fautes d'orthographe, dit
+Souly, un peu gêné par le compliment.
+
+— Les meilleures archives ont toujours quelques fautes, dit M. Foucher,
+avec un clin d'œil. Ça prouve juste qu'un vrai humain les a écrites.
+
 Léna, plus discrète, glissa un dernier mot à l'oreille de Sofia, trop bas
 pour que Souly l'entende, ce qui lui valut un regard suspicieux de la
 part de son frère et un sourire mystérieux de la part de sa sœur, qui
@@ -4382,7 +5207,7 @@ chacun leur tour dans une accolade qui sentait, comme le premier jour, le
 soufre et le café.
 
 — Appelle Théo, un de ces jours, dit-il à Souly, au moment de monter dans
-le car. Deux archéologues et un volcanologue autour d'une table, ça doit
+le car. Un archéologue et un volcanologue autour d'une table, ça doit
 faire des conversations intéressantes.
 
 — Il te connaît ? s'étonna Sofia.
@@ -4390,6 +5215,12 @@ faire des conversations intéressantes.
 — Camille nous a présentés à un mariage, il y a des années, dit Karim, en
 riant. Le monde est petit, une fois qu'on commence à le regarder d'assez
 près.
+
+— C'est aussi ce qu'on a appris cet été, dit Sofia. Que tout est plus
+connecté qu'on croit, si on prend la peine de vraiment regarder.
+
+— Vous avez appris ça et beaucoup d'autres choses, dit Karim, avec une
+fierté qu'il ne chercha pas à cacher davantage.
 
 Le chauffeur klaxonna, une fois, poliment, signal que le départ ne
 souffrirait plus aucun délai. Karim recula d'un pas, mais retint encore
@@ -4433,6 +5264,22 @@ comptait pour lui. Pas juste pour la science. Pour sa propre famille.
 vierge, encore plein de promesses. Mais pas tout de suite. Et cette
 fois, tout le monde saura l'entendre venir.
 
+— Tu regrettes rien ? demanda Sofia, après un silence. Même le
+tremblement dans le noir, même la peur ?
+
+— Non, dit Souly, après y avoir vraiment réfléchi. Je regrette pas
+d'avoir eu peur. Je regrette juste pas d'avoir avancé quand même. Je
+crois que c'est ça, en fait, être courageux. Pas de pas avoir peur du
+tout.
+
+— Karim t'a dit un truc, avant qu'on monte dans le car, remarqua Sofia.
+Un truc que tu m'as pas raconté.
+
+Souly hésita, puis referma son ancien carnet sur cette pensée, sans
+répondre tout de suite.
+
+— Un jour, dit-il enfin. Pas aujourd'hui.
+
 Il sortit son téléphone, celui qu'on ne lui laissait utiliser que pour les
 urgences et les photos de vacances, et fit défiler celle que Karim leur
 avait envoyée la veille : le tracé du sismographe principal, imprimé sur
@@ -4456,6 +5303,19 @@ va devoir tout raconter à chaque voisin, un par un.
 — On a déjà fait une présentation devant toute une salle des fêtes, dit
 Souly, avec un flegme qui le surprit lui-même. Je crois qu'on peut gérer
 quelques voisins.
+
+— Répondez-lui, dit Sofia. Genre maintenant. Sinon Mamie Rose va appeler
+le car directement pour avoir des nouvelles plus vite.
+
+Souly tapa rapidement une réponse, le pouce hésitant un instant sur le
+clavier avant de trouver les mots justes : « On va bien. On a résolu
+l'enquête. On vous raconte tout en arrivant. On a hâte de vous voir. »
+
+— C'est tout ? demanda Sofia, en jetant un œil par-dessus son épaule.
+
+— C'est tout ce qui compte, dit Souly, en rangeant le téléphone. Le
+reste, ça se raconte mieux en personne, avec le carnet ouvert sur la
+table de la cuisine.
 
 Il rouvrit son carnet flambant neuf — le cadeau de Léna, encore
 totalement vierge — et hésita un long moment avant d'écrire la toute

@@ -18,6 +18,16 @@ monter.
 Ce n'est presque rien. Mais ce n'est pas rien non plus, comparé à la
 décennie précédente, où le sol restait parfaitement stable.
 
+— Ça veut dire qu'on va le sentir avant que ça devienne dangereux ?
+avait demandé Souly, son carnet déjà ouvert sur ses genoux.
+
+— En théorie, oui, avait répondu Karim. C'est tout l'intérêt de mesurer
+plutôt que de deviner. Le sol nous prévient, à sa façon, bien avant que
+quoi que ce soit de grave arrive. Le problème, c'est que « à sa façon »
+veut souvent dire en millimètres et en semaines, pas en gros titres et
+en alarme sonore. Les gens préfèrent les signaux évidents. La nature
+n'en fournit presque jamais.
+
 — Comme une respiration très, très lente, avait dit Sofia.
 
 — J'aime beaucoup cette image, avait dit Karim, avec le sourire d'un
@@ -39,6 +49,17 @@ tremblantes. Papi a un vieil ami qui travaille à la préfecture.
 Il a pu identifier le cercle bleu : c'est celui du cabinet « Rocheteau
 Expertises Géologiques ». Sa propre société. La voiture garée devant le
 chantier, cette nuit-là, c'était bien la sienne.
+
+— Il a mis moins d'une heure à le retrouver, ajouta-t-elle, encore un peu
+essoufflée. Il a dit que c'était le genre de logo qu'on n'oublie pas une
+fois qu'on l'a vu deux fois — un cercle bleu, avec les initiales du
+cabinet en lettres blanches à l'intérieur. Rocheteau l'a fait dessiner
+lui-même, il y a des années, par un de ses anciens étudiants.
+
+— Comment tu sais tout ça ? demanda Souly, impressionné malgré lui.
+
+— Papi pose toujours plus de questions que nécessaire, dit Léna, avec un
+petit sourire fier. C'est de famille, apparemment.
 
 — Tu as pédalé jusqu'ici pour nous dire ça en personne ? demanda Sofia,
 impressionnée. T'aurais pu juste téléphoner.
@@ -162,7 +183,7 @@ l'amusement et l'inquiétude sincère.
 en colère, mais visiblement perplexe. Vous préparez un exposé sur les
 lois de la physique appliquées au mobilier de café, ou quoi ?
 
-— Quelque chose comme ça, dit Sofia, avec un aplomb qui sembla
+— Quelque chose comme ça, dit Sofia, si sûre d'elle que ça sembla
 suffire au patron, qui retourna à son comptoir en secouant la tête,
 amusé malgré lui.
 
@@ -212,9 +233,42 @@ qu'une seule chose à la fois.
 — C'est un bon détail, dit Karim. Pas une preuve. Mais un bon détail de
 plus, dans un dossier qui commence à en compter beaucoup.
 
+— À quel moment ça devient assez de détails pour faire une vraie preuve ?
+demanda Léna, qui avait fini par abandonner tout espoir de nettoyer
+complètement son plan taché d'encre.
+
+— Il n'y a pas de nombre magique, dit Karim. C'est plutôt une question
+de direction. Est-ce que chaque nouveau détail pointe vers la même
+explication, ou est-ce qu'il faut en inventer une nouvelle à chaque
+fois pour tout faire tenir ensemble ? Là, tout pointe dans la même
+direction depuis le début. C'est plutôt bon signe, question preuve.
+
+— Ou plutôt mauvais signe, question Rocheteau, remarqua Sofia.
+
+— Les deux à la fois, admit Karim, avec un sourire sans joie.
+
 Souly griffonna l'observation à la hâte dans la marge de son carnet,
 soulignée deux fois, avant de la ranger avec le reste — une pièce
 supplémentaire d'un puzzle qui, lentement, prenait forme.
+
+Magma, qui avait fini par s'habituer à leurs allées et venues
+quotidiennes, développa au fil des jours l'habitude étrange de les
+accompagner jusqu'au coin de la rue avant de rebrousser chemin tout
+seul, comme s'il assumait, à sa manière féline, une partie de la
+mission.
+
+— Il nous escorte, remarqua Sofia, le troisième matin, en le regardant
+tourner les talons pile à l'angle habituel. Jusqu'ici, et pas un pas de
+plus.
+
+— Il connaît ses limites professionnelles, dit Karim, avec un sérieux
+qui ne trompa personne. Contrairement à certains membres plus jeunes de
+cette famille.
+
+— On note ça dans le carnet ? demanda Léna, mi-sérieuse. « Le chat
+respecte le périmètre d'observation mieux que les humains. »
+
+— Note-le, dit Souly. Ça pourrait servir de leçon, un jour.
 
 Le motif qui se dessina, au bout de deux jours, était d'une régularité
 presque comique : Rocheteau quittait son bureau chaque après-midi vers
@@ -290,6 +344,14 @@ Karim, d'une voix mesurée qui trahissait, malgré tout, la tension des
 derniers jours. Je te demande juste un contrôle de routine, comme la loi
 t'y autorise. Si tout est normal, tant mieux, personne n'en saura rien.
 
+— Tu es sûr de vouloir cette réponse ? demanda le maire, sa voix
+trahissant une fatigue que Sofia et Souly n'avaient encore jamais
+entendue chez un adulte de la ville. Parce qu'une fois qu'on sait, on
+peut plus faire semblant de pas savoir.
+
+— C'est justement le problème avec « faire semblant de pas savoir »,
+répondit Karim. Ça marche, jusqu'au jour où ça marche plus.
+
 — Et si tout n'est pas normal ? demanda la voix du maire, crépitant
 légèrement dans le haut-parleur.
 
@@ -340,6 +402,14 @@ son assiette, l'appétit visiblement coupé par l'inquiétude.
 — Alors on continuera à chercher ailleurs, dit Karim, avec une assurance
 qu'il ne semblait pas totalement ressentir lui-même. On a déjà trouvé
 beaucoup, en une semaine. On trouvera le reste.
+
+— Et si c'est vide, ce sera quand même utile, ajouta Souly, en essayant
+de se convaincre lui-même autant que sa sœur. On aura éliminé une
+possibilité. Karim dit toujours que c'est jamais du temps perdu.
+
+— C'est vrai que je dis toujours ça, admit Karim, avec un demi-sourire.
+Reste à voir si j'y crois encore, à onze heures du soir, la veille d'un
+grand jour.
 
 Ce soir-là, alors que Sofia dormait déjà, Souly resta un moment éveillé,
 à relire toute sa liste de suspects, ses indices, ses dates, avant

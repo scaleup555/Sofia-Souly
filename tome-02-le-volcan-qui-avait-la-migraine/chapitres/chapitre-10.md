@@ -9,6 +9,14 @@ sa tête, encore et encore, chaque détail de leur intrusion dans le
 bureau de Rocheteau, comme s'il craignait qu'un souvenir mal fixé ne se
 dissolve avant le matin.
 
+Il se releva une fois, dans le noir, pour vérifier — pour la troisième
+fois au moins — que la photo était bien sauvegardée sur les trois
+appareils différents, avant de se recoucher, rassuré sans être
+complètement apaisé. Ce n'était pas tout à fait la même inquiétude que
+celle des nuits ordinaires. C'était une inquiétude neuve, plus adulte,
+celle de savoir qu'une preuve pouvait encore, d'une façon ou d'une autre,
+disparaître avant d'avoir eu le temps de servir à quelque chose.
+
 Le maire convoqua une réunion d'urgence à la mairie dès le lendemain matin,
 après une nuit ponctuée de trois nouvelles secousses mineures, chacune
 suivie d'un silence tendu que toute la ville semblait retenir ensemble.
@@ -31,6 +39,19 @@ le visage gris de fatigue. Où est le Dr. Rocheteau, en ce moment ?
 — Introuvable depuis hier soir, dit le Brigadier local, un homme jeune que
 Karim connaissait de vue depuis des années. Sa voiture n'est plus au
 parking de la mairie. On le recherche.
+
+Au troisième rang, M. Foucher se leva à moitié de sa chaise, la main en
+cornet derrière l'oreille, manifestement convaincu d'avoir mal entendu.
+
+— PARDON ? On le CROISE ? Il se promène encore dans les rues, ce
+fraudeur ?
+
+— On le RECHERCHE, Papi, corrigea Léna, assise à côté de lui, avec la
+patience résignée de quelqu'un qui avait, décidément, l'habitude.
+
+— Ah, RECHERCHE ! C'est nettement plus rassurant, dit M. Foucher, en se
+rasseyant, absolument pas gêné, sous les regards amusés d'une bonne
+partie de l'assemblée, malgré la gravité de la situation.
 
 Mme Delacroix, assise au premier rang, le visage aussi gris que celui du
 maire, resta muette, les yeux fixés sur la photo
@@ -88,6 +109,24 @@ deviner le sens exact, avant de passer à autre chose — un sursis
 que Karim accueillit avec un soulagement visible, sans toutefois
 relâcher complètement les épaules.
 
+À la sortie de la salle, une femme que Sofia ne connaissait pas
+s'approcha d'eux, une main hésitante tendue vers Souly.
+
+— Je voulais juste vous dire, dit-elle, un peu gênée de s'adresser
+directement à un enfant. Ma fille a le même âge que vous. Elle vous a vu
+prendre la parole, tout à l'heure, sans trembler devant tous ces
+adultes. Ça lui a fait quelque chose.
+
+— J'ai un peu tremblé, en fait, avoua Souly, une honnêteté qui sembla
+surprendre la femme autant que lui.
+
+— On tremble tous, dit-elle, avec un sourire. La différence, c'est ceux
+qui parlent quand même.
+
+Elle s'éloigna avant que Souly n'ait trouvé quoi répondre, et il resta
+un moment silencieux, cette phrase tournant déjà dans sa tête comme une
+future ligne de carnet.
+
 ---
 
 L'ouverture des Thermes du Grand Sombre fut officiellement reportée dans
@@ -122,6 +161,20 @@ en vouloir, parce que vous aviez raison depuis le début.
 — Peut-être, dit-elle, la voix creuse. Demandez-moi dans quelques
 semaines. Aujourd'hui, j'ai surtout besoin de rentrer chez moi.
 
+Elle s'éloigna lentement vers sa voiture, seule, sans un regard en
+arrière, et Sofia, en la regardant partir, se surprit à ressentir un
+mélange d'agacement et de compassion qu'elle n'aurait pas cru possible
+quelques jours plus tôt, envers quelqu'un qui avait tant fait pour
+protéger un mensonge.
+
+— Elle est pas méchante, dit Sofia, plus pour elle-même que pour Karim.
+Juste... pressée. Pressée que tout se passe bien, tellement pressée
+qu'elle a arrêté de vérifier si c'était vraiment le cas.
+
+— C'est une des choses les plus dangereuses qui existent, dit Karim, en
+la regardant s'éloigner à son tour. Être tellement pressé d'avoir raison
+qu'on arrête de se demander si on a tort.
+
 Les jours suivants furent occupés, pour Karim, à coordonner l'installation
 en urgence de nouveaux capteurs, empruntés à des observatoires voisins,
 tandis que des géologues venus de tout le pays commençaient à affluer vers
@@ -144,6 +197,19 @@ savoir faire pareil.
 — J'y penserai, dit Karim, un peu gêné par le compliment, une fois que
 j'aurai fini de dormir suffisamment pour tenir un stylo droit.
 
+— Vous savez, ajouta la chercheuse en refermant son propre carnet de
+notes, couvert d'une écriture italienne penchée que Souly trouva
+immédiatement fascinante, dans mon pays, on dit qu'un bon volcanologue
+doit autant se méfier des gens que des montagnes. Les deux mentent,
+parfois. Mais les montagnes, au moins, ne le font jamais exprès.
+
+— J'aime bien cette phrase, dit Souly, en la recopiant aussitôt, mot pour
+mot, dans son propre carnet.
+
+— Tu peux la garder, dit la chercheuse en riant. Je vous en offre une
+autre, en prime, si vous voulez : la science n'a jamais peur des
+questions. Seuls les menteurs en ont peur.
+
 Souly, qui avait suivi la conversation avec une attention non dissimulée,
 nota soigneusement le nom de la chercheuse dans son carnet, sous une
 nouvelle ligne : « Contacts pour futures enquêtes scientifiques. »
@@ -162,6 +228,38 @@ ravie.
 — On est officiellement des enfants qui ont eu de la chance que tout se
 termine bien, corrigea Souly, plus mesuré, même si un petit sourire
 trahissait qu'il n'était pas complètement insensible à l'attention.
+
+La traque proprement dite occupa une bonne partie de la nuit précédente,
+Karim installé à la station avec le Brigadier et deux collègues venus en
+renfort d'une brigade voisine, épluchant les derniers relevés de badge et
+les caméras de surveillance du parking municipal pour reconstituer,
+minute par minute, les derniers déplacements connus de Rocheteau.
+
+— Il n'a pas quitté la région, affirma le Brigadier, en pointant du doigt
+un relevé de carte bancaire utilisé la veille au soir dans une station-
+service à seulement quinze kilomètres de la ville. Quelqu'un qui voulait
+vraiment disparaître aurait payé en liquide. Il panique, mais il ne
+réfléchit pas encore assez vite.
+
+Amara, contactée en fin de soirée pour prêter main-forte — « personne ne
+connaît mieux qu'elle les recoins du chantier et les petites routes
+autour », avait plaidé Karim auprès d'un Brigadier d'abord réticent —
+passa la nuit à surveiller, depuis un poste d'observation qu'elle avait
+elle-même choisi, l'unique route forestière qui aurait permis à quiconque
+d'éviter le contrôle policier installé sur la départementale.
+
+Sofia et Souly, renvoyés au lit malgré leurs protestations, n'apprirent
+les détails de cette longue nuit que le lendemain matin, par la bouche
+même d'Amara, visiblement fière d'avoir enfin pu rendre à la police un
+service qu'elle avait, pendant des semaines, tenté de lui rendre sans
+succès.
+
+— Ironique, non ? dit-elle, en avalant d'un trait le café que Karim lui
+avait servi. Ça fait des mois qu'ils refusaient même d'écouter mes
+signalements. Cette nuit, ils m'ont appelée en renfort.
+
+— C'est ce qui arrive, dit Karim, quand on finit par avoir raison assez
+fort pour que ça devienne impossible à ignorer.
 
 Rocheteau fut intercepté le lendemain matin, alors qu'il tentait de revenir
 discrètement récupérer des affaires laissées dans son bureau désormais
@@ -201,6 +299,27 @@ espoir, un peu de compréhension dans leurs regards.
 
 — Vous avez de bons instincts, dit-il à Karim, à travers la vitre, d'une
 voix presque inaudible. J'aurais dû les avoir aussi.
+
+— Comment vous avez su, pour les deux ordinateurs ? demanda soudain
+Rocheteau, sa question s'adressant directement à la vitre, comme s'il
+avait deviné, sans qu'on le lui dise, que quelqu'un de plus jeune que
+Karim se trouvait de l'autre côté.
+
+Le Brigadier hésita, regarda Karim, qui hocha légèrement la tête.
+
+— C'est mon cousin, dit Souly, sa voix un peu tremblante mais nette,
+depuis l'entrebâillement de la porte que le Brigadier avait laissée
+ouverte. Enfin, techniquement le sien. On a trouvé la sacoche.
+
+Rocheteau le regarda longuement, sans hostilité apparente, presque avec
+une forme de respect résigné.
+
+— Vingt ans de sismologie, dit-il finalement, à personne en particulier,
+et je me suis fait démasquer par un enfant de douze ans avec un carnet.
+
+Un silence suivit, que personne, pas même le Brigadier, ne sut vraiment
+comment interrompre, avant que Rocheteau, contre toute attente, ne
+laisse échapper un rire bref, presque sincère, aussitôt étouffé.
 
 Karim ne répondit rien. Il se contenta de hocher la tête, une seule fois,
 avant de raccompagner Sofia et Souly hors du commissariat, dans l'air frais
@@ -272,6 +391,11 @@ plus personne, en ville, ne me regarde de travers.
 
 — C'est déjà un bon début, dit Souly.
 
+Amara les regarda s'éloigner vers la camionnette de Karim, un sourire
+encore accroché aux lèvres, avant de se remettre en route elle-même vers
+la médiathèque, le livre serré contre elle comme une promesse enfin sur
+le point d'être tenue.
+
 ---
 
 Le soir même, alors que la vallée entière semblait tenir son souffle dans
@@ -286,6 +410,23 @@ avaient appris depuis leur arrivée.
 données republiées en douce. La voiture d'Amara — enfin, la voiture de
 Rocheteau — devant le chantier. Sa routine de seize heures. La coupure de
 courant.
+
+Il s'arrêta, le crayon suspendu, et regarda par la fenêtre le sommet du
+Grand Sombre, où le filet de fumée continuait de s'élever, plus mince
+mais toujours visible, comme un rappel discret que l'histoire n'était pas
+tout à fait terminée.
+
+— Tu crois qu'on aurait pu deviner plus tôt ? demanda-t-il, sans vraiment
+s'adresser à Sofia autant qu'à lui-même. Genre, dès le premier jour, dans
+la camionnette ?
+
+— Peut-être, dit Sofia, après réflexion. Mais je crois pas que ça aurait
+changé grand-chose. Fallait qu'on rencontre tout le monde d'abord.
+Rocheteau, Amara, Léna, Mme Delacroix. Sans eux, on aurait eu que des
+chiffres sur un écran. Pas une vraie histoire.
+
+Souly hocha la tête, satisfait de cette réponse, et reprit son résumé là
+où il l'avait laissé.
 
 — Tu as oublié un truc, dit Sofia.
 
@@ -309,7 +450,7 @@ présentation. Pas juste leur raconter en vitesse dans un coin.
 
 — Une présentation devant qui ? demanda Sofia.
 
-— Devant tout le monde, dit Souly, avec une conviction qui la surprit.
+— Devant tout le monde, dit Souly, si convaincu que ça la surprit.
 Devant toute la ville, si possible. Une bonne histoire mérite d'être
 racontée correctement, une seule fois, à tout le monde en même temps —
 pas répétée de bouche à oreille jusqu'à ce qu'elle se déforme.

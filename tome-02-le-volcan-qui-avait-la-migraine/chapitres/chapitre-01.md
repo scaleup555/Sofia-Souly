@@ -39,7 +39,7 @@ qu'il trouvait particulièrement beau, « magmatique », qu'il avait décidé
 de placer dans une phrase dès que l'occasion se présenterait.
 
 Sofia, de son côté, avait consacré le plus clair de ses deux semaines à
-sélectionner, avec un sérieux qui n'admettait aucune remarque, laquelle de
+sélectionner, si sérieusement qu'aucune remarque n'était admise, laquelle de
 ses trois paires de baskets dépareillées ferait le voyage — un débat
 qu'elle avait fini par trancher en emportant les trois, « pour ne pas
 avoir à choisir entre mes enfants », comme elle l'avait expliqué à Mamie
@@ -96,7 +96,7 @@ volcan.
 — Le Grand Sombre, précisa Souly, comme si le nom seul méritait d'être
 prononcé avec un minimum de respect.
 
-— Ah, celui-là, dit la dame, avec un sourire qui semblait en dire plus
+— Ah, celui-là, dit la dame. Son sourire en disait visiblement plus
 qu'elle n'était disposée à en révéler à deux enfants qu'elle ne
 connaissait pas. On raconte pas mal de choses, sur ce volcan, dans le
 coin. Ma grand-mère refusait toujours de dormir la fenêtre ouverte les
@@ -163,6 +163,17 @@ carrière.
 Sofia se rengorgea, visiblement ravie que la réputation les ait précédés
 jusqu'à cette ville qu'elle ne connaissait pas une heure plus tôt.
 
+— Tu enquêtes sur des volcans, toi aussi, en quelque sorte, remarqua
+Souly. C'est un peu le même métier que nous, non ? Chercher des indices,
+vérifier avant de conclure.
+
+— J'avais jamais pensé à ça comme ça, dit Karim, sincèrement surpris,
+mais t'as raison. Un sismographe, c'est juste un carnet de preuves qui
+sait pas parler.
+
+— On devrait lui apprendre, dit Sofia, très sérieuse, ce qui fit rire
+Karim de si bon cœur que deux passants sur le trottoir se retournèrent.
+
 — On a un Carnet des Preuves, annonça-t-elle en désignant le sac de Souly.
 Nouveau modèle. Couverture bleue.
 
@@ -216,7 +227,7 @@ plus.
 
 Il leur tendit, à travers la fenêtre, deux petits pains ronds encore
 tièdes, « pour la route, cadeau de la maison », et Sofia mordit dedans
-avec un enthousiasme qui n'avait besoin d'aucune traduction.
+avec un enthousiasme qui ne demandait aucune traduction.
 
 — C'est excellent, dit-elle, la bouche encore à moitié pleine.
 
@@ -409,8 +420,8 @@ celle sur laquelle je travaille depuis trois ans.
 adultes en général et chez Karim en particulier, cette façon bien précise
 d'esquiver une question sans jamais vraiment refuser d'y répondre.
 
-— J'ai un début de réponse, corrigea Karim, avec un sourire qui admettait,
-malgré lui, s'être fait prendre la main dans le sac. Et ce début de
+— J'ai un début de réponse, corrigea Karim, un sourire trahissant, malgré
+lui, qu'il s'était fait prendre la main dans le sac. Et ce début de
 réponse ne me plaît pas beaucoup.
 
 — Pourquoi ?
@@ -444,7 +455,8 @@ quelque chose.
 — Genre quoi ? demanda Sofia.
 
 — Genre : mange tes pâtes et laisse le volcan tranquille jusqu'à demain,
-traduisit Karim avec un sérieux qui fit rire les deux enfants malgré eux.
+traduisit Karim, si sérieusement que les deux enfants éclatèrent de rire
+malgré eux.
 
 ---
 

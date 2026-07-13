@@ -40,11 +40,19 @@ touchait de près ou de loin aux Thermes.
 sacrée réputation en ville. Elle a déjà été arrêtée deux fois pour s'être
 introduite sur le chantier de nuit. La police la surveille de près.
 
+— Elle a jamais été condamnée, pour autant, remarqua Souly, qui avait
+développé, ces derniers jours, l'habitude de vérifier ce genre de détail
+avant de se forger une opinion. Arrêtée, c'est pas pareil que coupable.
+
+— C'est vrai, admit Karim, un peu surpris par la remarque. Techniquement,
+elle a jamais rien fait d'illégal qui ait tenu devant un juge. Juste
+assez pour agacer beaucoup de monde.
+
 En passant devant le petit groupe, Sofia parvint à lire, sur l'une des
 pancartes, en lettres peintes à la hâte : « UN VOLCAN N'EST PAS UN
 SPA ». Une autre, plus sobre, annonçait simplement : « ÉCOUTEZ LA
 SCIENCE, PAS LES ACTIONNAIRES ». Un des ouvriers du chantier, posté près
-du grillage, observait la scène avec une expression qui hésitait entre
+du grillage, observait la scène, une expression hésitant entre
 l'agacement et une lassitude plus profonde, celle de quelqu'un qui avait
 déjà vécu cette même manifestation trop de fois pour s'en émouvoir
 encore vraiment.
@@ -172,6 +180,19 @@ Souly recopia la phrase presque intégralement, avant d'ajouter, en marge,
 une note qu'il souligna deux fois : « Le folklore n'est pas une preuve.
 Mais il n'est pas rien non plus. »
 
+Sofia, qui avait suivi toute la discussion sans trouver grand-chose à
+ajouter, leva soudain la main comme si elle était encore à l'école.
+
+— Et si on demandait aux autres grands-parents de la ville ? Pas juste le
+tien. Ils ont peut-être tous des bouts de comptine, ou des histoires de
+famille, qui se recoupent.
+
+M. Foucher la regarda, visiblement impressionné.
+
+— Voilà une idée qui ne m'était jamais venue en vingt ans de métier,
+dit-il. Et venant d'une enfant de huit ans, ça devrait me vexer un peu
+plus que ça ne le fait.
+
 ---
 
 Léna, restée à la médiathèque pour continuer d'éplucher une nouvelle
@@ -232,7 +253,7 @@ sans vraiment trouver.
 
 — Alors qui l'a trafiqué ? demanda finalement Souly.
 
-— Aucune idée, dit Amara, avec une franchise qui sonnait sincère. Mais si
+— Aucune idée, dit Amara, avec une franchise sincère. Mais si
 j'étais vous, je regarderais plutôt du côté de ceux qui ont un intérêt à ce
 que le volcan ait l'air parfaitement calme, pas du côté de ceux qui crient
 depuis des mois que quelque chose ne tourne pas rond.
@@ -297,6 +318,18 @@ Elle a arrêté ses études pour militer à plein temps après qu'un projet de
 barrage, dans une autre région, a détruit un écosystème entier malgré des
 années d'alertes scientifiques ignorées.
 
+— Elle aurait pu faire une brillante carrière académique, continua Karim,
+en remuant toujours sa soupe. Labo prestigieux, publications, tout ce que
+la plupart des chercheurs rêvent d'obtenir. Elle a tout laissé tomber
+pour crier des slogans sous la pluie devant un chantier qui la traite
+comme une nuisance.
+
+— C'est un peu triste, dit Sofia.
+
+— C'est surtout courageux, corrigea Karim. La plupart des gens
+choisissent la carrière confortable. Elle a choisi d'avoir raison, même
+si personne l'écoute.
+
 — Alors pourquoi tu l'as jamais dit ? demanda Sofia, presque accusatrice.
 
 — Parce que si les gens en ville apprennent que je discute avec elle, je
@@ -341,6 +374,14 @@ marche à chaque fois, sur les nouveaux visiteurs.
 — Ça marche sur moi aussi, avoua Sofia, en cédant malgré tout un petit
 morceau de pain au chat, qui l'accepta avec la dignité condescendante
 d'un roi recevant un tribut.
+
+— C'est un vrai talent, remarqua Souly, en observant la scène avec un
+mélange d'admiration et d'exaspération fraternelle. Faire culpabiliser
+les gens sans dire un seul mot.
+
+— Certains diplomates feraient bien de prendre des cours avec lui, dit
+Karim, amusé. Ça nous éviterait pas mal de réunions inutiles, dans mon
+métier.
 
 Après le dîner, pendant que Karim débarrassait, Souly ressortit une
 dernière fois son carnet et entreprit de recopier, au propre, tout ce

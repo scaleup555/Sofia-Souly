@@ -94,10 +94,28 @@ principale, où l'atmosphère avait changé du tout au tout depuis leur
 arrivée en ville, quelques jours plus tôt. Deux femmes, en les
 apercevant, interrompirent leur conversation d'un coup sec, avant de
 reprendre, à voix plus basse, dès qu'elles les crurent hors de portée
-d'oreille. Devant l'épicerie, Frédéric leur adressa un signe de tête
-inhabituellement bref, l'air préoccupé, occupé à décrocher une affiche
-de soutien au projet des Thermes qu'il venait visiblement de recoller à
-la hâte dans sa vitrine.
+d'oreille. Devant l'épicerie, occupé à décrocher une affiche de soutien
+au projet des Thermes qu'il venait visiblement de recoller à la hâte
+dans sa vitrine, Frédéric — qui d'ordinaire les aurait interpellés à
+grand renfort de plaisanteries sur Paris et les embouteillages — se
+contenta cette fois d'un signe de tête bref, presque gêné. Souly ralentit
+le pas, hésitant à s'arrêter, avant que Sofia, plus directe comme
+toujours, ne tranche la question à sa place.
+
+— Frédéric ? Ça va ?
+
+— Ça va, dit-il, sans se retourner complètement. Juste... beaucoup de
+clients inquiets, ce matin. Les gens demandent si les Thermes vont
+vraiment ouvrir, si c'est prudent, si le volcan va vraiment nous tomber
+dessus. Je sais plus quoi leur répondre.
+
+— Vous pouvez leur dire qu'on travaille dessus, dit Sofia.
+
+— C'est justement ce qui les inquiète le plus, dit Frédéric, avec un
+petit rire sans joie. Que des enfants de Paris travaillent dessus.
+
+Il n'y avait pas de méchanceté dans la remarque, seulement une fatigue
+sincère, et Sofia n'insista pas davantage.
 
 — Ça sent pas bon, chuchota Léna, en accélérant le pas.
 
@@ -144,8 +162,8 @@ elles se connaissaient depuis toujours.
 Amara la regarda, surprise, puis regarda Souly et Léna, restés un peu en
 retrait.
 
-— Vous ne me croyez plus coupable ? demanda-t-elle, avec une méfiance qui
-paraissait tout à fait justifiée après ce qu'elle venait de traverser.
+— Vous ne me croyez plus coupable ? demanda-t-elle, sa méfiance
+paraissant tout à fait justifiée après ce qu'elle venait de traverser.
 
 — On s'est trompés une fois, dit Souly, en s'approchant à son tour. On
 essaie de pas recommencer deux fois la même erreur.
@@ -160,6 +178,21 @@ m'a arrêtée, ici, il y a un an, j'avais raison. J'avais vu une pompe
 illégale qui asséchait une source protégée. J'ai eu raison, et j'ai quand
 même passé une nuit au poste. Depuis, dans cette ville, avoir raison et
 avoir des ennuis, c'est devenu presque la même chose pour moi.
+
+Elle laissa passer un silence, comme si elle hésitait encore à partager
+la suite.
+
+— Ma mère travaillait à l'usine textile, avant qu'elle ferme, ajouta-
+t-elle. Elle disait toujours qu'une ville qui vit d'une seule chose finit
+toujours par avoir peur de la vérité sur cette chose-là. D'abord c'était
+le textile. Maintenant, c'est les Thermes. Personne, ici, ne veut
+vraiment entendre qu'un projet dont dépend tout le monde pourrait avoir
+un problème.
+
+— C'est pour ça que vous continuez, malgré tout ? demanda Souly.
+
+— Je continue parce que quelqu'un doit le faire, dit Amara, simplement.
+Même si ce quelqu'un finit toujours par payer plus cher que les autres.
 
 — C'est injuste, dit Léna, doucement.
 
@@ -226,7 +259,7 @@ son mot à dire.
 — Oui, dit Léna, surprise d'être reconnue.
 
 — Ton grand-père m'a prêté un livre sur l'histoire géologique de la
-région, il y a deux ans, dit Amara, avec un sourire qui adoucit, pour la
+région, il y a deux ans, dit Amara, un sourire adoucissant, pour la
 première fois depuis le début de la conversation, les traits tendus de
 son visage. Dis-lui que je ne l'ai toujours pas rendu. Et que je suis
 désolée.
@@ -241,12 +274,33 @@ Elle s'éloigna, sa pancarte roulée sous le bras plutôt que brandie, et
 les trois enfants restèrent un moment silencieux sur le banc, chacun
 digérant, à sa façon, tout ce qu'ils venaient d'entendre.
 
+— Elle a raison, tu sais, dit Léna, après un moment. Sur la légende. On
+répète toujours qu'un bout de la phrase. « Il gronde tous les cent ans. »
+Jamais la suite. « Mais ne mord jamais les gens. » Comme si la première
+partie faisait plus peur, et que la deuxième, personne voulait vraiment y
+croire.
+
+— Ou comme si personne avait encore vérifié que la deuxième partie était
+vraie, dit Souly, pensif. On a vérifié la première. Pas la deuxième.
+
+Sofia se redressa d'un coup, le caillou porte-bonheur serré dans son
+poing.
+
+— Ça, dit-elle, c'est peut-être notre prochaine mission.
+
 — On devrait lui apporter à manger, un de ces jours, dit Sofia. Genre un
 vrai repas, pas juste un sandwich.
 
 — On devrait surtout lui prouver qu'elle a raison, corrigea Souly, en
 refermant son carnet. C'est le seul cadeau qui compte vraiment, dans son
 cas.
+
+— On peut faire les deux, trancha Sofia, qui n'avait jamais vu la
+nécessité de choisir entre une bonne idée et une autre bonne idée.
+D'abord le sandwich. Ensuite la preuve.
+
+— C'est un ordre de priorité discutable, dit Souly, mais un sourire
+trahissait qu'il n'était pas vraiment contre.
 
 Ils remontèrent vers l'arrêt où Karim les attendait déjà, adossé à sa
 camionnette, un sac de pain frais dans une main, l'autre occupée à
@@ -310,6 +364,22 @@ définitive. Mais ce n'est toujours pas assez pour l'accuser publiquement.
 On a huit jours avant l'ouverture. Il va falloir faire vite, et faire
 juste.
 
+— Il va falloir aussi vérifier son emploi du temps des derniers jours,
+ajouta Karim, en feuilletant ses propres notes de terrain. S'il a
+vraiment modifié quelque chose le soir de la soirée, il a dû le faire
+depuis un endroit précis, à un moment précis. Les gens qui trichent
+laissent toujours une trace, même minuscule, même quand ils font
+attention.
+
+— Comme la sacoche qui change d'épaisseur, dit Souly, en griffonnant
+déjà une nouvelle colonne dans son carnet, avant de se rappeler qu'ils
+n'avaient pas encore observé la moindre sacoche. Enfin. Un truc comme
+ça, quand on le trouvera.
+
+— Exactement ce genre de détail, dit Karim. On va devoir observer, pas
+juste déduire. Les déductions, ça convainc personne sans preuve
+derrière.
+
 Sofia hocha la tête, très sérieusement, avant d'ajouter, un rien de malice
 perçant malgré la gravité du moment :
 
@@ -334,6 +404,15 @@ Sofia. C'est notre spécialité.
 Karim les regarda tous les deux, un sourire fatigué mais
 sincère éclairant enfin son visage, avant de se lever pour attraper le
 disque de sauvegarde une fois de plus.
+
+— Il faudra aussi penser à Mme Delacroix, ajouta Sofia, plus sérieuse
+soudain. Elle va pas nous croire facilement, même avec des preuves. Elle
+veut tellement que tout se passe bien qu'elle refusera peut-être de voir,
+même devant l'évidence.
+
+— C'est un problème pour plus tard, dit Karim, après réflexion. D'abord,
+on rassemble tout ce qu'il faut. Ensuite, on s'inquiète de savoir qui
+voudra bien l'entendre.
 
 — D'accord, dit-il. Alors on continue. Ensemble.
 

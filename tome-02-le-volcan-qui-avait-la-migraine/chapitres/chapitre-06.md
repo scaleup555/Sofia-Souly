@@ -118,6 +118,23 @@ Delacroix un peu plus tôt.
 — Trente ans de carrière, dit-il simplement, comme si le chiffre seul
 suffisait à clore le débat.
 
+Au deuxième rang, un vieil homme que Sofia ne connaissait pas se leva à
+moitié, s'appuyant sur sa canne, et lança, d'une voix éraillée mais
+ferme :
+
+— Trente ans de carrière, ça garantit rien du tout. J'ai connu des gens
+avec quarante ans de métier qui avaient quand même tort.
+
+Un silence gêné suivit, avant que Rocheteau ne reprenne, avec un sourire
+un peu plus figé cette fois :
+
+— Je comprends le scepticisme, monsieur. C'est sain. Mais le scepticisme
+a aussi besoin de preuves pour rester utile, sans quoi il devient juste
+de la méfiance systématique.
+
+— Ou juste du bon sens, marmonna le vieil homme, en se rasseyant, sans
+que le micro capte ses mots cette fois.
+
 — Il ment, souffla Souly, si bas que seule Sofia put l'entendre.
 
 — On sait pas encore ça, dit-elle, avec une prudence toute nouvelle.
@@ -146,7 +163,7 @@ simple qu'on l'aimerait.
 
 De retour à la station, Karim se dirigea droit vers un tiroir fermé à
 clé sous le bureau principal, un tiroir que Sofia et Souly n'avaient
-encore jamais vu ouvert en trois jours de vie commune, et en sortit un
+encore jamais vu ouvert depuis leur arrivée, et en sortit un
 disque dur externe, gris et cabossé, portant une étiquette manuscrite
 presque effacée : « SAUVEGARDE BRUTE — NE JAMAIS MODIFIER ».
 
@@ -215,6 +232,19 @@ mécanismes l'un sous l'autre. Un à la source, un à la sortie. Comme ça,
 même si quelqu'un vérifie le capteur, les chiffres publiés restent
 faux quand même.
 
+Sofia, qui avait suivi toute la démonstration avec une attention
+inhabituelle pour quelqu'un qui préférait généralement l'action à la
+paperasse, leva soudain les yeux de son propre carnet.
+
+— Donc même s'il arrête maintenant, dit-elle, tout ce qu'il a déjà
+publié reste faux. Les gens qui ont déjà acheté leurs billets, leurs
+appartements, tout ça, ils ont décidé sur des mauvais chiffres.
+
+— Exactement, dit Karim, gravement. Et c'est peut-être la partie la plus
+grave de toute cette histoire. Ce n'est pas juste un mensonge ponctuel.
+C'est un mensonge qui a déjà changé des décisions réelles, pour de
+vraies personnes.
+
 — C'est exactement le genre de double sécurité qu'utiliserait quelqu'un
 qui sait qu'on pourrait un jour vérifier son travail, dit Karim, sombre.
 Ce n'est pas de l'improvisation. C'est un plan pensé à l'avance.
@@ -237,6 +267,16 @@ d'un deuxième regard.
 — Techniquement, c'était une erreur d'un centième, protesta Souly.
 
 — Techniquement, c'est quand même une erreur, répliqua Sofia.
+
+— Vous formez une bonne équipe, tous les deux, remarqua Karim, en
+observant l'échange avec amusement. L'un qui fonce, l'autre qui vérifie.
+Je connais des laboratoires entiers qui rêveraient d'un tel équilibre.
+
+— On se répartit le travail depuis toujours, dit Souly. Elle trouve les
+pistes, je vérifie qu'elles tiennent debout.
+
+— Et je trouve toujours les meilleures pistes, ajouta Sofia, avec un
+aplomb qui ne laissait aucune place à la contradiction.
 
 Le motif, une fois assemblé, ne
 laissait plus beaucoup de place au doute :
@@ -334,6 +374,15 @@ dans l'obscurité grandissante du soir.
 — Neuf jours, dit-il finalement, plus pour lui-même que pour les
 enfants. Neuf jours avant l'ouverture. Et quatre-vingt-dix-neuf ans
 depuis la dernière fois que cette montagne a vraiment parlé.
+
+Sofia se leva du canapé, encore à moitié endormie, et vint se poster à
+côté de lui devant l'écran éteint, sa main cherchant machinalement celle
+de son frère.
+
+— Tu as peur ? demanda-t-elle à Karim, directement, comme toujours.
+
+— Un peu, admit-il, sans chercher à le cacher cette fois. Pas du volcan.
+De pas être cru à temps.
 
 — Ça fait beaucoup de chiffres qui se répondent, dit Souly.
 

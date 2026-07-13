@@ -17,6 +17,15 @@ représentait. C'est énorme.
 place. Avant que le tourisme thermal ne devienne l'industrie principale
 de la ville. Chaque génération a son fromage, si vous voulez.
 
+— Vous en avez mangé, du fromage de cette halle, avant qu'elle ferme ?
+demanda Souly, toujours curieux des détails que les adultes jugeaient
+sans intérêt.
+
+— Une fois, dit Karim. Chez mes grands-parents, il y a longtemps. Un
+fromage tellement fort que même Magma aurait probablement refusé d'en
+approcher. Je m'en souviens encore, ce qui, pour un fromage, est
+peut-être le plus grand compliment possible.
+
 Karim les y déposa en fin de
 matinée, le temps d'aller « régler deux ou trois choses administratives »
 qu'il ne détailla pas davantage, et promit de revenir avant midi.
@@ -268,6 +277,22 @@ plus sérieux », précisa-t-il, avec l'air de quelqu'un qui savait déjà
 exactement à quoi ressemblerait cette « chose plus sérieuse » sans vouloir
 le dévoiler trop tôt.
 
+Sofia, chargée de survoler les piles jugées trop incertaines par les deux
+autres, développa rapidement sa propre méthode, moins rigoureuse mais
+étonnamment efficace : elle feuilletait chaque document en diagonale, à
+la recherche du seul mot « Sombre », qu'elle avait fini par reconnaître
+d'un simple coup d'œil, même dans l'écriture la plus tarabiscotée.
+
+— C'est pas très scientifique, ta méthode, remarqua Souly, en la
+regardant tourner les pages à toute vitesse.
+
+— C'est efficace, corrigea Sofia. La science, c'est pas juste être lent
+et méthodique. Des fois, c'est juste être doué pour repérer un mot au
+milieu du bruit.
+
+— Elle a pas tort, dit M. Foucher, en riant. Certains des meilleurs
+archivistes que j'ai connus travaillaient exactement comme ça.
+
 Le premier vrai fragment revint à Léna, moins d'une heure plus tard, un
 extrait d'une lettre adressée par un curé de village à son évêque,
 l'écriture penchée et serrée, presque illisible par endroits :
@@ -325,7 +350,7 @@ docile.
 cornet derrière l'oreille. J'ai entendu « cent ANGES » ? On parle de
 religion, maintenant ?
 
-— CENT ANS, Papi, pas cent anges, corrigea Léna, avec la patience d'une
+— CENT ANS, Papi, pas cent anges, rectifia Léna, avec la patience d'une
 fille qui répétait la même correction plusieurs fois par jour depuis des
 années.
 
@@ -370,7 +395,7 @@ pas reportée.
 — Ça, c'est un mariage qui en a vu d'autres, commenta Sofia, en
 imaginant la scène, visiblement ravie.
 
-— Ou un mariage où personne n'avait vraiment peur, corrigea Souly, en
+— Ou un mariage où personne n'avait vraiment peur, dit Souly, en
 notant la date. Ce qui revient au même que ce qu'on a trouvé jusqu'ici.
 La terre gronde, les gens continuent leur vie.
 
@@ -387,7 +412,20 @@ Souly compta ses lignes, une par une, avant de répondre.
 — Trois mentions solides, dit-il. Plus la comptine elle-même. C'est pas
 encore assez pour prouver un vrai cycle. Mais c'est un bon début.
 
-— Un très bon début, corrigea M. Foucher, en rangeant ses lunettes dans
+— Un très bon début, renchérit M. Foucher, en rangeant ses lunettes dans
 leur étui avec la satisfaction d'un homme qui avait retrouvé, l'espace
 d'un après-midi, l'usage exact pour lequel il avait consacré sa vie
 entière à tout classer.
+
+Karim les récupéra à la tombée de la nuit, écouta le résumé de la
+journée sans dire un mot, le visage de plus en plus pensif à mesure que
+Souly énumérait les trois mentions solides retrouvées.
+
+— Quatre-vingt-dix-neuf ans, répéta-t-il, une fois le récit terminé. Et
+l'ouverture des Thermes approche à grands pas.
+
+— C'est bien pour ça qu'on n'a pas de temps à perdre, dit Souly, sans
+même avoir besoin de vérifier son carnet.
+
+Karim ne répondit rien tout de suite, mais son silence, cette fois, en
+disait plus qu'une phrase entière n'aurait pu le faire.

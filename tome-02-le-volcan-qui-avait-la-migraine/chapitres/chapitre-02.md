@@ -63,7 +63,7 @@ plus ce capteur est loin de l'endroit où tout a commencé.
 à voix haute. On voit l'éclair tout de suite, on entend le tonnerre après.
 Plus le délai est long, plus l'orage est loin.
 
-— C'est exactement la même logique, confirma Karim, en le regardant avec
+— C'est exactement la même logique, dit Karim, en le regardant avec
 une attention toute neuve. Avec trois capteurs différents, autour du
 volcan, on peut croiser les délais et localiser précisément le point de
 départ de chaque secousse. C'est ce que j'ai fait hier soir, en rentrant.
@@ -109,6 +109,21 @@ ville ?
 Ce « pour l'instant », prononcé presque dans un souffle, resta suspendu
 dans la pièce plus longtemps que le reste de la phrase.
 
+— « Pour l'instant » veut dire que ça pourrait changer ? insista Sofia,
+qui n'avait pas raté la nuance.
+
+— Tout, en volcanologie, veut dire « pour l'instant », dit Karim,
+prudemment. C'est une science qui n'aime pas trop les phrases
+définitives. On mesure, on observe, et on révise nos certitudes chaque
+fois que de nouvelles données arrivent. C'est pas de la faiblesse.
+C'est de l'honnêteté.
+
+— Ça doit être fatigant, remarqua Souly, de jamais pouvoir dire « je
+suis sûr » pour de vrai.
+
+— Un peu, admit Karim. Mais c'est beaucoup moins fatigant que de dire
+« je suis sûr » et se tromper.
+
 ---
 
 — Le chauffeur du car a dit que le Grand Sombre était éteint, dit Souly.
@@ -121,6 +136,22 @@ montré de signe d'activité depuis longtemps, mais son système magmatique
 existe toujours en profondeur — il pourrait, en théorie, se réveiller. Un
 volcan vraiment éteint, lui, a perdu sa source de magma pour de bon : il ne
 se réveillera plus jamais, quoi qu'il arrive.
+
+— Comment on fait la différence, entre dormant et vraiment éteint ?
+demanda Souly, son crayon déjà en mouvement.
+
+— C'est justement le plus dur, dit Karim. Parfois, la seule vraie façon
+de savoir avec certitude qu'un volcan est éteint pour de bon, c'est
+d'attendre qu'il ne se réveille jamais. Ce qui n'aide pas beaucoup,
+niveau planification.
+
+— Donc en gros, dit Sofia, on peut jamais être sûrs à cent pour cent
+qu'un volcan est fini pour toujours ?
+
+— Presque jamais, dit Karim. C'est pour ça qu'on préfère toujours le
+mot « dormant » au mot « éteint », par prudence. Un volcan endormi peut
+se réveiller. Un volcan qu'on déclare trop vite éteint peut nous
+surprendre.
 
 — Et le Grand Sombre, il est lequel des trois ? demanda Sofia.
 
@@ -350,7 +381,7 @@ plusieurs égratignures qu'elle refusait obstinément d'appeler douloureuses.
 — Tu crois qu'il a raison d'avoir peur ? demanda Sofia, la bouche tachée de
 violet.
 
-— Karim ? Je crois qu'il a peur d'avoir raison, corrigea Souly, après un
+— Karim ? Je crois qu'il a peur d'avoir raison, nuança Souly, après un
 instant de réflexion. C'est différent.
 
 — Explique.
@@ -409,7 +440,7 @@ ressemble à rien de ce qu'on a vu ces derniers mois.
 
 — C'est grave ? demanda Sofia, aussitôt alerte.
 
-— C'est intéressant, corrigea Karim, ce qui, dans sa bouche, ne voulait
+— C'est intéressant, tempéra Karim, ce qui, dans sa bouche, ne voulait
 pas tout à fait dire la même chose que « pas grave ». On va le surveiller
 de près.
 
@@ -418,6 +449,13 @@ machinal, et referma l'ordinateur portable qu'il utilisait pour ses
 propres notes de recherche, celui qu'il gardait toujours séparé du
 système principal — « par prudence », avait-il expliqué un peu plus tôt
 dans la journée, sans donner davantage de détails.
+
+— Tu crois qu'il a raison de garder ça séparé ? demanda Souly, en
+regardant Karim ranger soigneusement l'ordinateur dans son sac, loin de
+la table commune.
+
+— Je crois qu'il a pas encore décidé en qui faire confiance, dit Sofia,
+songeuse. Et je crois que c'est plutôt sage, en ce moment.
 
 Ce soir-là, en observant depuis la fenêtre du chalet les lumières du
 chantier des Thermes qui continuaient de scintiller tard dans la nuit,

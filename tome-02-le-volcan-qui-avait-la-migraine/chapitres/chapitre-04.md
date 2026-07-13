@@ -124,8 +124,8 @@ parlait rarement aux enfants sans y avoir été forcé par les circonstances.
 Il travaille dur pour cette ville, vous savez. Même si on n'est pas
 toujours d'accord sur tout.
 
-— Sur presque rien, en ce moment, dit Karim, avec un sourire qui
-adoucissait à peine la phrase.
+— Sur presque rien, en ce moment, dit Karim, un sourire adoucissant à
+peine la phrase.
 
 — Sur presque rien, concéda Mme Delacroix, sans se départir de son
 sourire. Mais on partage au moins un objectif : que cette ville s'en
@@ -140,6 +140,18 @@ fait de la colère, ni tout à fait du soulagement.
 
 — Elle ne l'est pas, dit Karim. C'est bien ça, le plus compliqué, dans
 cette histoire.
+
+— Elle a peur de perdre quelque chose qui compte vraiment pour elle, dit
+Sofia, songeuse, en regardant Mme Delacroix disparaître dans la foule.
+C'est pas pareil que d'être méchante.
+
+— C'est étrange, remarqua Souly, qu'on comprenne mieux les gens depuis
+qu'on a arrêté de vouloir absolument trouver un coupable tout de suite.
+
+Karim les regarda tous les deux, un sourire un peu fatigué mais sincère
+sur le visage.
+
+— Vous grandissez plus vite que je voudrais l'admettre, dit-il.
 
 ---
 
@@ -183,6 +195,18 @@ jusque-là un peu trop guindée pour être vraiment agréable.
 Mme Delacroix elle-même, à la stupéfaction de tous, éclata de rire la
 première, avant de se reprendre en réalisant que la moitié des journalistes
 présents mitraillaient déjà la scène, ravis de l'aubaine.
+
+Le Dr. Rocheteau, lui, ne rit pas. Il resta immobile, un verre à la main,
+observant la scène d'un œil que rien, dans l'amusement général, ne
+semblait pouvoir dérider, avant de se détourner rapidement vers les
+journalistes, comme si un bassin de boue renversé méritait décidément
+moins d'attention qu'une bonne opportunité de communication.
+
+— Il a même pas souri, remarqua Sofia plus tard, en y repensant. Tout le
+monde riait, sauf lui.
+
+— Peut-être qu'il aime pas les surprises, dit Souly. Certaines personnes
+détestent tout ce qui échappe à leur contrôle.
 
 — Ça, murmura-t-elle à son assistante, ça va faire un titre parfait pour
 demain : « Un jeune visiteur inaugure officiellement le bassin de boue ».
@@ -354,6 +378,15 @@ d'aucun mot pour se comprendre. Souly ouvrit son carnet à une page neuve et
 s'allonger dans les jours suivants :
 
 « Suspects : Dr. Rocheteau (accès, motif ?). Qui d'autre ? »
+
+Karim s'assit lourdement sur le canapé, Magma aussitôt venu se blottir
+contre lui, comme si le chat, lui aussi, sentait que la soirée avait pris
+un tournant plus sérieux que prévu.
+
+— Je déteste cette partie du métier, dit-il, à personne en particulier.
+Soupçonner quelqu'un qu'on a serré la main pas plus tard qu'il y a dix
+jours. Ça ne devrait jamais être facile, de penser du mal de quelqu'un.
+Le jour où ça le devient, on a un vrai problème.
 
 — Attends, dit Sofia, en se penchant par-dessus son épaule. Motif ? On
 sait même pas pourquoi il ferait ça.
