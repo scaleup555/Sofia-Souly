@@ -599,8 +599,9 @@ Un silence suivit, différent de tous les silences studieux de la matinée
 — un silence qui pesait le poids exact de ce mot, « jamais », prononcé
 sans la moindre nuance qui aurait pu l'adoucir.
 
-Souly rangea son matériel de notes avec un soin inhabituel, comme si le
-geste répétitif pouvait l'aider à digérer ce qu'il venait d'apprendre.
+Souly rangea son matériel de notes plus lentement que d'habitude, comme
+si le geste répétitif pouvait l'aider à digérer ce qu'il venait
+d'apprendre.
 
 — Y a moyen de savoir combien de temps il faut, pour construire un
 récif comme celui qu'on a vu hier ? demanda-t-il finalement.
@@ -647,8 +648,8 @@ un de près. On a besoin des deux : l'émerveillement, et la science.
 L'un sans l'autre, ça ne suffit jamais tout à fait.
 
 — Vous auriez pu faire n'importe quel métier, remarqua Sofia, en rangeant
-le microscope portable dans sa mallette avec un soin qu'elle ne mettait
-que rarement dans le rangement de ses propres affaires. Pourquoi
+le microscope portable dans sa mallette bien plus délicatement qu'elle
+ne rangeait d'ordinaire ses propres affaires. Pourquoi
 celui-là ?
 
 — Parce que personne d'autre ne le faisait, ici, dit Fara, après un
@@ -1049,7 +1050,7 @@ d'efforts qu'il n'y paraissait. Ma petite sœur, elle, elle a eu pire.
 Sept ans, et déjà des enfants qui lui disaient que son papa était un
 voleur de poissons. Ça, je l'ai jamais oublié.
 
-— C'est vraiment injuste, dit Sofia, la mâchoire serrée à son tour, par
+— C'est vraiment injuste, dit Sofia, avec une indignation totale, par
 solidarité pure.
 
 — La vie est injuste avec ceux qui n'ont personne pour vérifier les
@@ -1525,7 +1526,7 @@ qui n'avait, pour une fois, rien à voir avec son frère.
 
 — Il fait ça souvent, cette histoire de « volontaire » ? demanda-t-elle.
 
-— Chaque année, dit Fara, la mâchoire serrée. Toujours un enfant, jamais un
+— Chaque année, dit Fara, d'une voix soudain plus dure. Toujours un enfant, jamais un
 adulte. Les enfants disent rarement non à un adulte insistant, et les
 parents n'osent pas faire de scandale en pleine fête. C'est malin, dans
 le pire sens du mot.
@@ -1730,8 +1731,8 @@ charge par Lagon Bleu Excursions.
 voix. C'est le troisième cette saison, Christophe. Le stand de bijoux en
 mai. La table de la mairie en juin. Et maintenant moi.
 
-— La malchance s'acharne, dit Christophe, avec un petit rire qui sonnait
-plus faux que les deux précédents.
+— La malchance s'acharne, dit Christophe, d'un ton qui sonnait plus faux
+que les deux précédents.
 
 Elle prit le chèque sans un mot de plus, le glissa dans sa poche sans
 même le regarder, et se tourna vers Souly, encore couvert de glace
@@ -2185,9 +2186,9 @@ nouveau pull la faisait ressembler à une courgette.
 
 — C'était vrai, dit Sofia, sans se démonter.
 
-Noah, malgré la tension de la matinée, ne put retenir un petit rire, bref
-mais sincère, qui parut desserrer, l'espace d'un instant, quelque chose
-dans ses épaules.
+Noah, malgré la tension de la matinée, laissa échapper un rire bref mais
+sincère, qui parut desserrer, l'espace d'un instant, quelque chose dans
+ses épaules.
 
 — Vous êtes vraiment bizarres, tous les deux, dit-il, mais ça sonnait,
 dans sa bouche, comme un compliment plutôt qu'une critique.
@@ -2244,7 +2245,7 @@ inattendue.
 fois la poignée de main terminée, presque timidement, comme si la
 question ne le regardait pas vraiment.
 
-— Un peu plus d'une semaine, dit Souly. On repart dans dix jours.
+— Un peu plus d'une semaine, dit Souly. On repart dans huit jours.
 
 — Alors on n'a pas beaucoup de marge, dit Noah, redevenu tout à fait
 sérieux. Le vote a lieu dans trois jours. Si on n'a pas trouvé le
@@ -2995,9 +2996,9 @@ ont raison, ces petits ».
 
 ---
 
-Cette fois, le silence qui suivit était moins hostile, plus hésitant,
-comme si une partie de la salle réalisait tout juste qu'elle
-n'avait jamais vraiment vérifié ce qu'elle croyait savoir.
+Cette fois, la salle resta immobile un moment, moins hostile, plus
+hésitante, comme si une partie de l'assemblée réalisait tout juste
+qu'elle n'avait jamais vraiment vérifié ce qu'elle croyait savoir.
 
 — C'est un enfant qui vous dit ça, ricana quelqu'un au fond, mais la voix
 manquait de conviction, et personne ne reprit la remarque à son compte.
@@ -3083,8 +3084,9 @@ mais visible de toute la salle.
 — Ça ne nous ressemble pas, dit-elle, assez fort pour que tout le monde
 l'entende. Pas du tout, même.
 
-Un silence différent suivit cette fois, plus lourd encore, mais chargé
-d'une gêne collective plutôt que d'hostilité.
+Personne ne trouva rien à répondre à ça, cette fois, et ce qui pesait
+maintenant sur la salle tenait plus de la gêne collective que de
+l'hostilité.
 
 Noah, assis à côté de son père, fixait ses propres mains, la mâchoire
 serrée, visiblement partagé entre la fierté et l'envie de disparaître
@@ -4184,10 +4186,10 @@ deux n'aurait songé une seconde à s'en plaindre devant Fara, de peur
 qu'elle ne décide, par excès de prudence, de les laisser de côté pour la
 suite des événements, aussi épuisés soient-ils réellement.
 
-Elias arriva le dernier, un peu en retard, les cheveux encore mouillés
-d'une douche prise à la hâte, visiblement partagé entre le soulagement
-d'avoir survécu à la nuit précédente et l'angoisse de ce qui l'attendait
-maintenant.
+Le jeune capitaine arriva le dernier, un peu en retard, les cheveux
+encore mouillés d'une douche prise à la hâte, visiblement partagé entre
+le soulagement d'avoir survécu à la nuit précédente et l'angoisse de ce
+qui l'attendait maintenant.
 
 — Vous êtes sûrs que je dois venir ? demanda-t-il, hésitant sur le pas
 de la porte. Je pourrais juste... disparaître. Changer de ville.
@@ -4199,9 +4201,9 @@ tranquille, en sachant ce que tu as laissé faire à un homme innocent.
 C'est un choix qui t'appartient. Je pense juste que tu connais déjà la
 bonne réponse.
 
-Elias resta silencieux un long moment, puis hocha lentement la tête, une
-détermination nouvelle durcissant ses traits encore marqués par la
-fatigue.
+Le jeune capitaine resta silencieux un long moment, puis hocha lentement
+la tête, une détermination nouvelle durcissant ses traits encore marqués
+par la fatigue.
 
 — Je m'appelle Elias, au fait, dit le jeune homme, un peu gauchement, en
 tendant la main à la ronde. J'ai réalisé, cette nuit, que je vous avais
@@ -4226,9 +4228,8 @@ sachant par expérience que la véritable explication prenait
 généralement plus de temps que la plupart des gens n'étaient prêts à en
 consacrer.
 
-— Techniquement, confirma Elias, avec un petit rire bref, une habitude
-qu'il semblait avoir prise de Noah sans même s'en
-rendre compte.
+— Techniquement, confirma Elias, presque amusé malgré lui, une habitude
+qu'il semblait avoir prise de Noah sans même s'en rendre compte.
 
 Noah, qui observait la scène un peu à l'écart, tendit finalement la
 main à son tour, un geste qui parut lui coûter un effort visible.
@@ -4677,7 +4678,7 @@ montrer.
 tremblantes de Fara sur ses fiches.
 
 — Parler devant une salle pleine, ça m'a toujours fait plus peur que
-plonger avec des requins, avoua Fara, avec un petit rire nerveux. Va
+plonger avec des requins, avoua Fara, la voix un peu tendue. Va
 comprendre.
 
 — On est là, dit Souly, simplement. Tu seras pas toute seule là-dessus.
@@ -4737,9 +4738,10 @@ derniers mois, commença Fara. Le blanchissement, dû au réchauffement de
 l'eau, réversible si la température retombe à temps. Et la destruction
 mécanique, causée par des ancrages illégaux, malheureusement irréversible.
 
-Elle marqua une pause, laissant son regard balayer la salle, avant de
-poursuivre d'une voix qui, pour la première fois de la soirée, laissa
-transparaître une pointe de fierté difficile à dissimuler tout à fait.
+Elle s'interrompit un instant, le temps de parcourir la salle des yeux,
+avant de poursuivre d'une voix qui, pour la première fois de la soirée,
+laissa transparaître une pointe de fierté difficile à dissimuler tout à
+fait.
 
 — Ces deux causes ont été identifiées grâce à un travail méthodique de
 plusieurs semaines, mené en grande partie par deux enfants venus en
@@ -4794,8 +4796,8 @@ visiblement l'atmosphère d'un cran.
 
 ---
 
-Fara marqua une pause, laissant son regard balayer une dernière fois la
-salle avant de reprendre, sa voix changeant légèrement de registre,
+Fara attendit que le calme retombe tout à fait avant de reprendre, sa
+voix changeant légèrement de registre,
 passant du compte-rendu factuel à quelque chose de plus personnel.
 
 — Avant de continuer, dit-elle, je voudrais m'excuser publiquement.
@@ -4874,8 +4876,8 @@ C'est un moment d'une fragilité extrême, et jusqu'à cette semaine,
 personne dans cette salle, moi y compris, n'avait fait le lien avec la
 règle des Técher.
 
-Elle marqua une pause, laissant le silence de la salle porter tout le
-poids de ce qui allait suivre.
+Elle laissa le silence de la salle porter, un instant, tout le poids de
+ce qui allait suivre.
 
 — La période exacte de cette ponte correspond, presque au jour près,
 aux sept jours de repos imposés par la règle de la famille Técher.

@@ -14,10 +14,10 @@ deux n'aurait songé une seconde à s'en plaindre devant Fara, de peur
 qu'elle ne décide, par excès de prudence, de les laisser de côté pour la
 suite des événements, aussi épuisés soient-ils réellement.
 
-Elias arriva le dernier, un peu en retard, les cheveux encore mouillés
-d'une douche prise à la hâte, visiblement partagé entre le soulagement
-d'avoir survécu à la nuit précédente et l'angoisse de ce qui l'attendait
-maintenant.
+Le jeune capitaine arriva le dernier, un peu en retard, les cheveux
+encore mouillés d'une douche prise à la hâte, visiblement partagé entre
+le soulagement d'avoir survécu à la nuit précédente et l'angoisse de ce
+qui l'attendait maintenant.
 
 — Vous êtes sûrs que je dois venir ? demanda-t-il, hésitant sur le pas
 de la porte. Je pourrais juste... disparaître. Changer de ville.
@@ -29,9 +29,9 @@ tranquille, en sachant ce que tu as laissé faire à un homme innocent.
 C'est un choix qui t'appartient. Je pense juste que tu connais déjà la
 bonne réponse.
 
-Elias resta silencieux un long moment, puis hocha lentement la tête, une
-détermination nouvelle durcissant ses traits encore marqués par la
-fatigue.
+Le jeune capitaine resta silencieux un long moment, puis hocha lentement
+la tête, une détermination nouvelle durcissant ses traits encore marqués
+par la fatigue.
 
 — Je m'appelle Elias, au fait, dit le jeune homme, un peu gauchement, en
 tendant la main à la ronde. J'ai réalisé, cette nuit, que je vous avais
@@ -56,9 +56,8 @@ sachant par expérience que la véritable explication prenait
 généralement plus de temps que la plupart des gens n'étaient prêts à en
 consacrer.
 
-— Techniquement, confirma Elias, avec un petit rire bref, une habitude
-qu'il semblait avoir prise de Noah sans même s'en
-rendre compte.
+— Techniquement, confirma Elias, presque amusé malgré lui, une habitude
+qu'il semblait avoir prise de Noah sans même s'en rendre compte.
 
 Noah, qui observait la scène un peu à l'écart, tendit finalement la
 main à son tour, un geste qui parut lui coûter un effort visible.

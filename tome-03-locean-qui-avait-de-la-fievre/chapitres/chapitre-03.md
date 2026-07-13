@@ -154,7 +154,7 @@ d'efforts qu'il n'y paraissait. Ma petite sœur, elle, elle a eu pire.
 Sept ans, et déjà des enfants qui lui disaient que son papa était un
 voleur de poissons. Ça, je l'ai jamais oublié.
 
-— C'est vraiment injuste, dit Sofia, la mâchoire serrée à son tour, par
+— C'est vraiment injuste, dit Sofia, avec une indignation totale, par
 solidarité pure.
 
 — La vie est injuste avec ceux qui n'ont personne pour vérifier les

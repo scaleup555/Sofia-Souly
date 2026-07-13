@@ -145,8 +145,9 @@ Un silence suivit, différent de tous les silences studieux de la matinée
 — un silence qui pesait le poids exact de ce mot, « jamais », prononcé
 sans la moindre nuance qui aurait pu l'adoucir.
 
-Souly rangea son matériel de notes avec un soin inhabituel, comme si le
-geste répétitif pouvait l'aider à digérer ce qu'il venait d'apprendre.
+Souly rangea son matériel de notes plus lentement que d'habitude, comme
+si le geste répétitif pouvait l'aider à digérer ce qu'il venait
+d'apprendre.
 
 — Y a moyen de savoir combien de temps il faut, pour construire un
 récif comme celui qu'on a vu hier ? demanda-t-il finalement.
@@ -193,8 +194,8 @@ un de près. On a besoin des deux : l'émerveillement, et la science.
 L'un sans l'autre, ça ne suffit jamais tout à fait.
 
 — Vous auriez pu faire n'importe quel métier, remarqua Sofia, en rangeant
-le microscope portable dans sa mallette avec un soin qu'elle ne mettait
-que rarement dans le rangement de ses propres affaires. Pourquoi
+le microscope portable dans sa mallette bien plus délicatement qu'elle
+ne rangeait d'ordinaire ses propres affaires. Pourquoi
 celui-là ?
 
 — Parce que personne d'autre ne le faisait, ici, dit Fara, après un

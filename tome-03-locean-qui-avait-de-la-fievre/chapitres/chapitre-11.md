@@ -33,7 +33,7 @@ montrer.
 tremblantes de Fara sur ses fiches.
 
 — Parler devant une salle pleine, ça m'a toujours fait plus peur que
-plonger avec des requins, avoua Fara, avec un petit rire nerveux. Va
+plonger avec des requins, avoua Fara, la voix un peu tendue. Va
 comprendre.
 
 — On est là, dit Souly, simplement. Tu seras pas toute seule là-dessus.
@@ -93,9 +93,10 @@ derniers mois, commença Fara. Le blanchissement, dû au réchauffement de
 l'eau, réversible si la température retombe à temps. Et la destruction
 mécanique, causée par des ancrages illégaux, malheureusement irréversible.
 
-Elle marqua une pause, laissant son regard balayer la salle, avant de
-poursuivre d'une voix qui, pour la première fois de la soirée, laissa
-transparaître une pointe de fierté difficile à dissimuler tout à fait.
+Elle s'interrompit un instant, le temps de parcourir la salle des yeux,
+avant de poursuivre d'une voix qui, pour la première fois de la soirée,
+laissa transparaître une pointe de fierté difficile à dissimuler tout à
+fait.
 
 — Ces deux causes ont été identifiées grâce à un travail méthodique de
 plusieurs semaines, mené en grande partie par deux enfants venus en
@@ -150,8 +151,8 @@ visiblement l'atmosphère d'un cran.
 
 ---
 
-Fara marqua une pause, laissant son regard balayer une dernière fois la
-salle avant de reprendre, sa voix changeant légèrement de registre,
+Fara attendit que le calme retombe tout à fait avant de reprendre, sa
+voix changeant légèrement de registre,
 passant du compte-rendu factuel à quelque chose de plus personnel.
 
 — Avant de continuer, dit-elle, je voudrais m'excuser publiquement.
@@ -230,8 +231,8 @@ C'est un moment d'une fragilité extrême, et jusqu'à cette semaine,
 personne dans cette salle, moi y compris, n'avait fait le lien avec la
 règle des Técher.
 
-Elle marqua une pause, laissant le silence de la salle porter tout le
-poids de ce qui allait suivre.
+Elle laissa le silence de la salle porter, un instant, tout le poids de
+ce qui allait suivre.
 
 — La période exacte de cette ponte correspond, presque au jour près,
 aux sept jours de repos imposés par la règle de la famille Técher.

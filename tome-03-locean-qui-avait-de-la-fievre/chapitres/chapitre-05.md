@@ -375,9 +375,9 @@ nouveau pull la faisait ressembler à une courgette.
 
 — C'était vrai, dit Sofia, sans se démonter.
 
-Noah, malgré la tension de la matinée, ne put retenir un petit rire, bref
-mais sincère, qui parut desserrer, l'espace d'un instant, quelque chose
-dans ses épaules.
+Noah, malgré la tension de la matinée, laissa échapper un rire bref mais
+sincère, qui parut desserrer, l'espace d'un instant, quelque chose dans
+ses épaules.
 
 — Vous êtes vraiment bizarres, tous les deux, dit-il, mais ça sonnait,
 dans sa bouche, comme un compliment plutôt qu'une critique.
@@ -434,7 +434,7 @@ inattendue.
 fois la poignée de main terminée, presque timidement, comme si la
 question ne le regardait pas vraiment.
 
-— Un peu plus d'une semaine, dit Souly. On repart dans dix jours.
+— Un peu plus d'une semaine, dit Souly. On repart dans huit jours.
 
 — Alors on n'a pas beaucoup de marge, dit Noah, redevenu tout à fait
 sérieux. Le vote a lieu dans trois jours. Si on n'a pas trouvé le

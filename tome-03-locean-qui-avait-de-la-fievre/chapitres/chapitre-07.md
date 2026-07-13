@@ -210,9 +210,9 @@ ont raison, ces petits ».
 
 ---
 
-Cette fois, le silence qui suivit était moins hostile, plus hésitant,
-comme si une partie de la salle réalisait tout juste qu'elle
-n'avait jamais vraiment vérifié ce qu'elle croyait savoir.
+Cette fois, la salle resta immobile un moment, moins hostile, plus
+hésitante, comme si une partie de l'assemblée réalisait tout juste
+qu'elle n'avait jamais vraiment vérifié ce qu'elle croyait savoir.
 
 — C'est un enfant qui vous dit ça, ricana quelqu'un au fond, mais la voix
 manquait de conviction, et personne ne reprit la remarque à son compte.
@@ -298,8 +298,9 @@ mais visible de toute la salle.
 — Ça ne nous ressemble pas, dit-elle, assez fort pour que tout le monde
 l'entende. Pas du tout, même.
 
-Un silence différent suivit cette fois, plus lourd encore, mais chargé
-d'une gêne collective plutôt que d'hostilité.
+Personne ne trouva rien à répondre à ça, cette fois, et ce qui pesait
+maintenant sur la salle tenait plus de la gêne collective que de
+l'hostilité.
 
 Noah, assis à côté de son père, fixait ses propres mains, la mâchoire
 serrée, visiblement partagé entre la fierté et l'envie de disparaître

@@ -170,7 +170,7 @@ qui n'avait, pour une fois, rien à voir avec son frère.
 
 — Il fait ça souvent, cette histoire de « volontaire » ? demanda-t-elle.
 
-— Chaque année, dit Fara, la mâchoire serrée. Toujours un enfant, jamais un
+— Chaque année, dit Fara, d'une voix soudain plus dure. Toujours un enfant, jamais un
 adulte. Les enfants disent rarement non à un adulte insistant, et les
 parents n'osent pas faire de scandale en pleine fête. C'est malin, dans
 le pire sens du mot.
@@ -375,8 +375,8 @@ charge par Lagon Bleu Excursions.
 voix. C'est le troisième cette saison, Christophe. Le stand de bijoux en
 mai. La table de la mairie en juin. Et maintenant moi.
 
-— La malchance s'acharne, dit Christophe, avec un petit rire qui sonnait
-plus faux que les deux précédents.
+— La malchance s'acharne, dit Christophe, d'un ton qui sonnait plus faux
+que les deux précédents.
 
 Elle prit le chèque sans un mot de plus, le glissa dans sa poche sans
 même le regarder, et se tourna vers Souly, encore couvert de glace
