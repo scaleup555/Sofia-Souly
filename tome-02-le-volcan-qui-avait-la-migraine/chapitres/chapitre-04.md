@@ -324,8 +324,8 @@ rétroviseur.
 
 — Je crois qu'il faut d'abord regarder les données avant de croire quoi
 que ce soit, dit Karim, sans quitter la route des yeux. C'est justement
-la leçon que j'essaie de vous enseigner depuis deux jours, et celle que
-je ferais bien de m'appliquer à moi-même, là, tout de suite.
+la leçon que j'essaie de vous enseigner depuis votre arrivée, et celle
+que je ferais bien de m'appliquer à moi-même, là, tout de suite.
 
 Souly, à l'arrière, sentit le poids du t-shirt doré des Thermes contre sa
 peau encore humide, et se demanda, sans le dire à voix haute, s'il

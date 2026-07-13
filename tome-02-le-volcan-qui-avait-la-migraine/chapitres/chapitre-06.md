@@ -16,8 +16,9 @@ les données.
 guidant vers la place de la mairie où une estrade avait été montée
 depuis l'aube.
 
-C'était là, sur ce même parvis, deux jours après la soirée des Thermes,
-que le Dr. Rocheteau donna sa première conférence de presse officielle,
+C'était là, sur ce même parvis, quelques jours après la soirée des
+Thermes, que le Dr. Rocheteau donna sa première conférence de presse
+officielle,
 devant une bonne trentaine de personnes rassemblées sous un soleil de
 plomb — journalistes locaux, commerçants inquiets, et une poignée de
 curieux venus surtout, à en juger par leurs conversations, pour la

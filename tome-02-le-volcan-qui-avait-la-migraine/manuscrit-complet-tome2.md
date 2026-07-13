@@ -437,7 +437,7 @@ lentement que la nourriture elle-même.
 
 — C'est un peu flippant, dit-elle finalement.
 
-— C'est surtout passionnant, corrigea Karim, avec l'enthousiasme sincère
+— C'est surtout passionnant, nuança Karim, avec l'enthousiasme sincère
 d'un scientifique qui préférait, toujours, comprendre une chose
 effrayante plutôt que de simplement en avoir peur. Mais oui, aussi un peu
 flippant. Les deux ne s'excluent pas.
@@ -1739,8 +1739,8 @@ rétroviseur.
 
 — Je crois qu'il faut d'abord regarder les données avant de croire quoi
 que ce soit, dit Karim, sans quitter la route des yeux. C'est justement
-la leçon que j'essaie de vous enseigner depuis deux jours, et celle que
-je ferais bien de m'appliquer à moi-même, là, tout de suite.
+la leçon que j'essaie de vous enseigner depuis votre arrivée, et celle
+que je ferais bien de m'appliquer à moi-même, là, tout de suite.
 
 Souly, à l'arrière, sentit le poids du t-shirt doré des Thermes contre sa
 peau encore humide, et se demanda, sans le dire à voix haute, s'il
@@ -2195,8 +2195,8 @@ répondre.
 ---
 
 Ils mangèrent la soupe en silence, chacun perdu dans ses propres pensées,
-jusqu'à ce que Magma, jugeant sans doute que la conversation avait assez
-duré sans lui, saute sur les genoux de Sofia et réclame, à grand renfort
+jusqu'à ce que Magma saute sur les genoux de Sofia et réclame, à grand
+renfort
 de miaulements insistants, sa part du dîner.
 
 — Il mange pas de soupe, dit Karim, amusé. Il fait juste ça pour la
@@ -2262,8 +2262,9 @@ les données.
 guidant vers la place de la mairie où une estrade avait été montée
 depuis l'aube.
 
-C'était là, sur ce même parvis, deux jours après la soirée des Thermes,
-que le Dr. Rocheteau donna sa première conférence de presse officielle,
+C'était là, sur ce même parvis, quelques jours après la soirée des
+Thermes, que le Dr. Rocheteau donna sa première conférence de presse
+officielle,
 devant une bonne trentaine de personnes rassemblées sous un soleil de
 plomb — journalistes locaux, commerçants inquiets, et une poignée de
 curieux venus surtout, à en juger par leurs conversations, pour la
@@ -3325,7 +3326,7 @@ direction depuis le début. C'est plutôt bon signe, question preuve.
 
 — Ou plutôt mauvais signe, question Rocheteau, remarqua Sofia.
 
-— Les deux à la fois, admit Karim, avec un sourire sans joie.
+— Les deux à la fois, admit Karim, sans joie.
 
 Souly griffonna l'observation à la hâte dans la marge de son carnet,
 soulignée deux fois, avant de la ranger avec le reste — une pièce
@@ -3341,9 +3342,9 @@ mission.
 tourner les talons pile à l'angle habituel. Jusqu'ici, et pas un pas de
 plus.
 
-— Il connaît ses limites professionnelles, dit Karim, avec un sérieux
-qui ne trompa personne. Contrairement à certains membres plus jeunes de
-cette famille.
+— Il connaît ses limites professionnelles, dit Karim, d'un ton que
+personne ne trouva vraiment convaincant. Contrairement à certains
+membres plus jeunes de cette famille.
 
 — On note ça dans le carnet ? demanda Léna, mi-sérieuse. « Le chat
 respecte le périmètre d'observation mieux que les humains. »
@@ -3395,7 +3396,7 @@ mauvaise décision.
 — C'est vraiment injuste, dit Léna, un peu frustrée. Le méchant peut
 tricher, mais nous on doit toujours faire les choses proprement ?
 
-— Exactement, dit Karim, avec un sourire un peu las. C'est même
+— Exactement, dit Karim, visiblement las. C'est même
 précisément ce qui nous distingue de lui. Rocheteau, c'est quelqu'un qui
 a décidé que la fin justifiait les moyens. Nous, on essaie de prouver le
 contraire.
@@ -3459,8 +3460,8 @@ douze et huit ans.
 proposa Souly, avec l'air sérieux de quelqu'un qui négociait un contrat
 important plutôt qu'une simple présence sur le trottoir.
 
-— Vous pouvez tenir le carnet à jour, confirma Karim, avec un sourire
-amusé qui n'échappa à aucun des deux enfants. C'est même un rôle
+— Vous pouvez tenir le carnet à jour, confirma Karim, visiblement amusé,
+d'une façon qui n'échappa à aucun des deux enfants. C'est même un rôle
 officiel, si ça peut vous consoler.
 
 Léna, prévenue par téléphone du plan du lendemain, insista pour venir
@@ -4676,7 +4677,7 @@ téléphone déjà prêt à filmer la réponse.
 — Est-ce qu'on peut encore visiter le volcan, du coup ? Genre, en
 randonnée ? Ou c'est fini, tout ça, maintenant qu'on sait ?
 
-— On peut, dit Karim, avec un sourire. Un volcan surveillé, c'est un
+— On peut, dit Karim. Un volcan surveillé, c'est un
 volcan plus sûr, pas moins. C'est justement quand personne ne regarde
 que les choses tournent mal. Continuez à marcher sur ce sentier. Juste,
 peut-être, avec un peu plus de respect qu'avant.
@@ -4920,7 +4921,8 @@ plusieurs reprises avec une fierté disproportionnée.
 dernière plaque de protection. C'est vous qui l'installez, ce capteur-là.
 Vous l'avez bien mérité.
 
-Souly visa avec un sérieux presque cérémoniel, vérifiant deux fois
+Souly visa avec une concentration presque cérémonielle, vérifiant deux
+fois
 chaque vis avant de la considérer comme suffisamment serrée, tandis que
 Sofia, moins méticuleuse mais tout aussi appliquée, termina son côté en
 un temps record.
@@ -5025,7 +5027,7 @@ un peu étranglée, sans chercher à cacher son émotion pour une fois.
 si t'as raison, que j'allais m'ennuyer en dix minutes à la médiathèque.
 
 — Tu t'es pas ennuyée une seule fois, en fin de compte, remarqua Léna,
-avec un sourire en coin.
+un sourire en coin.
 
 — Non, admit Sofia. J'avais tort. C'est rare, que j'admette ça à voix
 haute, alors savoure le moment.
@@ -5091,7 +5093,7 @@ La dernière nuit à la station se déroula dans une atmosphère de fête
 tranquille : Karim avait insisté pour préparer, cette fois, un vrai
 repas plutôt que ses pâtes légèrement trop cuites habituelles — un
 poulet rôti aux herbes de montagne qu'il avait passé l'après-midi entier
-à surveiller avec un sérieux presque scientifique, vérifiant la
+à surveiller avec une attention presque scientifique, vérifiant la
 température toutes les dix minutes comme s'il s'agissait d'un relevé
 sismique particulièrement délicat.
 
@@ -5116,8 +5118,8 @@ suis sûr qu'il fera semblant de te regretter aussi, un petit peu, à sa
 manière.
 
 Le repas se termina par un gâteau au chocolat improvisé, un peu trop
-cuit sur les bords mais dévoré avec un enthousiasme qui ne laissait aucun
-doute quant à son succès, et par un dernier bilan de saison que Karim
+cuit sur les bords mais dévoré jusqu'à la dernière miette, sans le
+moindre doute quant à son succès, et par un dernier bilan de saison que Karim
 insista pour dresser à voix haute, une liste qu'il énuméra sur ses
 doigts avec un plaisir manifeste : un volcan démasqué comme dormant
 plutôt qu'éteint, un escroc arrêté, une lanceuse d'alerte réhabilitée,

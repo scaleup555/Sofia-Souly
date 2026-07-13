@@ -245,7 +245,7 @@ direction depuis le début. C'est plutôt bon signe, question preuve.
 
 — Ou plutôt mauvais signe, question Rocheteau, remarqua Sofia.
 
-— Les deux à la fois, admit Karim, avec un sourire sans joie.
+— Les deux à la fois, admit Karim, sans joie.
 
 Souly griffonna l'observation à la hâte dans la marge de son carnet,
 soulignée deux fois, avant de la ranger avec le reste — une pièce
@@ -261,9 +261,9 @@ mission.
 tourner les talons pile à l'angle habituel. Jusqu'ici, et pas un pas de
 plus.
 
-— Il connaît ses limites professionnelles, dit Karim, avec un sérieux
-qui ne trompa personne. Contrairement à certains membres plus jeunes de
-cette famille.
+— Il connaît ses limites professionnelles, dit Karim, d'un ton que
+personne ne trouva vraiment convaincant. Contrairement à certains
+membres plus jeunes de cette famille.
 
 — On note ça dans le carnet ? demanda Léna, mi-sérieuse. « Le chat
 respecte le périmètre d'observation mieux que les humains. »
@@ -315,7 +315,7 @@ mauvaise décision.
 — C'est vraiment injuste, dit Léna, un peu frustrée. Le méchant peut
 tricher, mais nous on doit toujours faire les choses proprement ?
 
-— Exactement, dit Karim, avec un sourire un peu las. C'est même
+— Exactement, dit Karim, visiblement las. C'est même
 précisément ce qui nous distingue de lui. Rocheteau, c'est quelqu'un qui
 a décidé que la fin justifiait les moyens. Nous, on essaie de prouver le
 contraire.
@@ -379,8 +379,8 @@ douze et huit ans.
 proposa Souly, avec l'air sérieux de quelqu'un qui négociait un contrat
 important plutôt qu'une simple présence sur le trottoir.
 
-— Vous pouvez tenir le carnet à jour, confirma Karim, avec un sourire
-amusé qui n'échappa à aucun des deux enfants. C'est même un rôle
+— Vous pouvez tenir le carnet à jour, confirma Karim, visiblement amusé,
+d'une façon qui n'échappa à aucun des deux enfants. C'est même un rôle
 officiel, si ça peut vous consoler.
 
 Léna, prévenue par téléphone du plan du lendemain, insista pour venir

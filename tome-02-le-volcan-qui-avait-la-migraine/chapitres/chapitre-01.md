@@ -437,7 +437,7 @@ lentement que la nourriture elle-même.
 
 — C'est un peu flippant, dit-elle finalement.
 
-— C'est surtout passionnant, corrigea Karim, avec l'enthousiasme sincère
+— C'est surtout passionnant, nuança Karim, avec l'enthousiasme sincère
 d'un scientifique qui préférait, toujours, comprendre une chose
 effrayante plutôt que de simplement en avoir peur. Mais oui, aussi un peu
 flippant. Les deux ne s'excluent pas.

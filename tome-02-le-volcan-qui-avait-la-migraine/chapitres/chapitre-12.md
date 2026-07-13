@@ -33,7 +33,8 @@ plusieurs reprises avec une fierté disproportionnée.
 dernière plaque de protection. C'est vous qui l'installez, ce capteur-là.
 Vous l'avez bien mérité.
 
-Souly visa avec un sérieux presque cérémoniel, vérifiant deux fois
+Souly visa avec une concentration presque cérémonielle, vérifiant deux
+fois
 chaque vis avant de la considérer comme suffisamment serrée, tandis que
 Sofia, moins méticuleuse mais tout aussi appliquée, termina son côté en
 un temps record.
@@ -138,7 +139,7 @@ un peu étranglée, sans chercher à cacher son émotion pour une fois.
 si t'as raison, que j'allais m'ennuyer en dix minutes à la médiathèque.
 
 — Tu t'es pas ennuyée une seule fois, en fin de compte, remarqua Léna,
-avec un sourire en coin.
+un sourire en coin.
 
 — Non, admit Sofia. J'avais tort. C'est rare, que j'admette ça à voix
 haute, alors savoure le moment.
@@ -204,7 +205,7 @@ La dernière nuit à la station se déroula dans une atmosphère de fête
 tranquille : Karim avait insisté pour préparer, cette fois, un vrai
 repas plutôt que ses pâtes légèrement trop cuites habituelles — un
 poulet rôti aux herbes de montagne qu'il avait passé l'après-midi entier
-à surveiller avec un sérieux presque scientifique, vérifiant la
+à surveiller avec une attention presque scientifique, vérifiant la
 température toutes les dix minutes comme s'il s'agissait d'un relevé
 sismique particulièrement délicat.
 
@@ -229,8 +230,8 @@ suis sûr qu'il fera semblant de te regretter aussi, un petit peu, à sa
 manière.
 
 Le repas se termina par un gâteau au chocolat improvisé, un peu trop
-cuit sur les bords mais dévoré avec un enthousiasme qui ne laissait aucun
-doute quant à son succès, et par un dernier bilan de saison que Karim
+cuit sur les bords mais dévoré jusqu'à la dernière miette, sans le
+moindre doute quant à son succès, et par un dernier bilan de saison que Karim
 insista pour dresser à voix haute, une liste qu'il énuméra sur ses
 doigts avec un plaisir manifeste : un volcan démasqué comme dormant
 plutôt qu'éteint, un escroc arrêté, une lanceuse d'alerte réhabilitée,

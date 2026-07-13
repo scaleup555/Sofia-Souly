@@ -363,8 +363,8 @@ répondre.
 ---
 
 Ils mangèrent la soupe en silence, chacun perdu dans ses propres pensées,
-jusqu'à ce que Magma, jugeant sans doute que la conversation avait assez
-duré sans lui, saute sur les genoux de Sofia et réclame, à grand renfort
+jusqu'à ce que Magma saute sur les genoux de Sofia et réclame, à grand
+renfort
 de miaulements insistants, sa part du dîner.
 
 — Il mange pas de soupe, dit Karim, amusé. Il fait juste ça pour la

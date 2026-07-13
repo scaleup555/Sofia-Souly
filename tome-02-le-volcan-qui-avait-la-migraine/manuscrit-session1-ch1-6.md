@@ -437,7 +437,7 @@ lentement que la nourriture elle-même.
 
 — C'est un peu flippant, dit-elle finalement.
 
-— C'est surtout passionnant, corrigea Karim, avec l'enthousiasme sincère
+— C'est surtout passionnant, nuança Karim, avec l'enthousiasme sincère
 d'un scientifique qui préférait, toujours, comprendre une chose
 effrayante plutôt que de simplement en avoir peur. Mais oui, aussi un peu
 flippant. Les deux ne s'excluent pas.
@@ -1739,8 +1739,8 @@ rétroviseur.
 
 — Je crois qu'il faut d'abord regarder les données avant de croire quoi
 que ce soit, dit Karim, sans quitter la route des yeux. C'est justement
-la leçon que j'essaie de vous enseigner depuis deux jours, et celle que
-je ferais bien de m'appliquer à moi-même, là, tout de suite.
+la leçon que j'essaie de vous enseigner depuis votre arrivée, et celle
+que je ferais bien de m'appliquer à moi-même, là, tout de suite.
 
 Souly, à l'arrière, sentit le poids du t-shirt doré des Thermes contre sa
 peau encore humide, et se demanda, sans le dire à voix haute, s'il
@@ -2195,8 +2195,8 @@ répondre.
 ---
 
 Ils mangèrent la soupe en silence, chacun perdu dans ses propres pensées,
-jusqu'à ce que Magma, jugeant sans doute que la conversation avait assez
-duré sans lui, saute sur les genoux de Sofia et réclame, à grand renfort
+jusqu'à ce que Magma saute sur les genoux de Sofia et réclame, à grand
+renfort
 de miaulements insistants, sa part du dîner.
 
 — Il mange pas de soupe, dit Karim, amusé. Il fait juste ça pour la
@@ -2262,8 +2262,9 @@ les données.
 guidant vers la place de la mairie où une estrade avait été montée
 depuis l'aube.
 
-C'était là, sur ce même parvis, deux jours après la soirée des Thermes,
-que le Dr. Rocheteau donna sa première conférence de presse officielle,
+C'était là, sur ce même parvis, quelques jours après la soirée des
+Thermes, que le Dr. Rocheteau donna sa première conférence de presse
+officielle,
 devant une bonne trentaine de personnes rassemblées sous un soleil de
 plomb — journalistes locaux, commerçants inquiets, et une poignée de
 curieux venus surtout, à en juger par leurs conversations, pour la

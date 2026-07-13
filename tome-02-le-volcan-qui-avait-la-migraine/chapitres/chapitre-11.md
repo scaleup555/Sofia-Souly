@@ -188,7 +188,7 @@ téléphone déjà prêt à filmer la réponse.
 — Est-ce qu'on peut encore visiter le volcan, du coup ? Genre, en
 randonnée ? Ou c'est fini, tout ça, maintenant qu'on sait ?
 
-— On peut, dit Karim, avec un sourire. Un volcan surveillé, c'est un
+— On peut, dit Karim. Un volcan surveillé, c'est un
 volcan plus sûr, pas moins. C'est justement quand personne ne regarde
 que les choses tournent mal. Continuez à marcher sur ce sentier. Juste,
 peut-être, avec un peu plus de respect qu'avant.
