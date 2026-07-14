@@ -436,9 +436,9 @@ tous les deux. Dix heures à l'observatoire, ça vous va ?
 
 — On sera prêts à neuf heures cinquante-neuf, promit Souly.
 
-— Voilà exactement le genre de ponctualité qui me plaît chez un
-apprenti astronome, dit Nadia, avant de s'éloigner dans la nuit
-naissante, sa lampe de poche balayant le chemin devant elle et Kepler.
+— Voilà exactement la ponctualité qui me plaît chez un apprenti
+astronome, dit Nadia, avant de s'éloigner dans la nuit naissante, sa
+lampe de poche balayant le chemin devant elle et Kepler.
 
 Après le dîner, une fois la vaisselle rangée, Sofia et Souly montèrent
 dans leur chambre — celle promise par Mamie Rose, avec sa fenêtre
@@ -1895,8 +1895,8 @@ raison.
 soudain plus inquiète que théâtrale. Si c'était vraiment un choix,
 pas une erreur ?
 
-Un silence suivit cette question, que personne, sur le moment,
-n'était vraiment prêt à combler.
+Personne, sur le moment, ne se sentit vraiment prêt à répondre à
+cette question.
 
 — Alors ce sera pire pour Fabien qu'une simple erreur de calcul, dit
 finalement Souly. Une erreur, ça s'excuse. Choisir la mauvaise date
@@ -2738,11 +2738,11 @@ micro tendu vers Fabien, posa la question que tout le monde retenait.
 correctement vers un objet aussi visible que Vénus, comment pouvez-
 vous garantir qu'il trouvera la comète dans quatre jours ?
 
-Fabien ne répondit pas tout de suite, et quand il le fit, sa voix
-avait perdu un peu de son assurance habituelle.
+Fabien resta silencieux un long moment, et quand il reprit la parole,
+sa voix avait perdu un peu de son assurance habituelle.
 
 — C'est... c'est justement l'objet de cette répétition, dit-il. Trouver
-et corriger ce genre de problème avant le grand soir. Je préfère
+et corriger ce problème avant le grand soir. Je préfère
 mille fois qu'on le découvre aujourd'hui plutôt que devant les
 caméras du direct.
 
@@ -2764,9 +2764,9 @@ Nous allons la corriger d'ici demain, sans problème.
 — Une erreur de calibration, répéta une voix dans la foule, sceptique.
 Ou quelqu'un a trafiqué les réglages ?
 
-Un silence gêné suivit cette question, posée par un homme que Sofia
-ne connaissait pas, avant que Fabien ne reprenne la parole, le regard
-balayant rapidement la foule.
+Un malaise palpable gagna la foule après cette question, posée par un
+homme que Sofia ne connaissait pas, avant que Fabien ne reprenne la
+parole, le regard balayant rapidement la foule.
 
 — Je ne veux accuser personne sans preuve, dit-il, prudemment. Mais
 je dois admettre que ces coordonnées avaient été vérifiées et
@@ -2840,8 +2840,8 @@ dernière.
 — C'est injuste, dit Sofia, la voix pleine d'indignation, en les
 rejoignant avec Souly.
 
-— La vie est rarement juste tout de suite, dit Anselme, avec un
-sourire fatigué.
+— La vie est rarement juste tout de suite, dit Anselme, en haussant
+les épaules avec résignation.
 
 — Vous étiez où, cet après-midi, avant la répétition ? demanda Souly,
 aussi délicatement que possible. Juste pour qu'on sache, nous, où
@@ -3060,8 +3060,8 @@ songea Mamie Rose, en disait long sur leurs chances réelles de tenir
 cette promesse.
 
 Mamie Rose les regarda tous les deux, visiblement pas totalement
-dupe, mais choisit, avec la sagesse d'une grand-mère habituée à ce
-genre de vacances, de ne pas insister davantage.
+dupe, mais choisit, avec la sagesse d'une grand-mère habituée à ces
+vacances-là, de ne pas insister davantage.
 
 — Trois jours avant le grand soir, dit-elle plutôt, en changeant de
 sujet. Vous avez de la chance de vivre ça d'aussi près.
@@ -3173,12 +3173,12 @@ nettement.
 Souly.
 
 — Je ne veux pas préjuger de ses intentions avant d'avoir des
-preuves, dit Nadia, fidèle à elle-même. Mais je note la question. Ce
-genre de séparation peut aussi bien venir d'une simple répartition
+preuves, dit Nadia, fidèle à elle-même. Mais je note la question. Une
+telle séparation peut aussi bien venir d'une simple répartition
 pratique des tâches que d'un calcul plus embarrassant.
 
-— Vous pouvez au moins nous expliquer comment ça marche, ce genre de
-système ? demanda Sofia.
+— Vous pouvez au moins nous expliquer comment ça marche, un système
+pareil ? demanda Sofia.
 
 Nadia se redressa, visiblement contente de la question.
 
@@ -3205,10 +3205,9 @@ toucher à un seul boulon.
 — C'est presque effrayant, dit Sofia, à quel point une simple erreur
 de date peut tout faire dérailler.
 
-— C'est même le genre de détail que la plupart des gens ne
-soupçonnent jamais, dit Nadia. On pense toujours qu'une grande erreur
-demande une grande cause. Parfois, il suffit d'un seul chiffre mal
-tapé.
+— C'est même un détail que la plupart des gens ne soupçonnent jamais,
+dit Nadia. On pense toujours qu'une grande erreur demande une grande
+cause. Parfois, il suffit d'un seul chiffre mal tapé.
 
 — Ça vous est déjà arrivé, à vous ? demanda Sofia. De vous tromper
 comme ça, sur une date ou une heure ?
@@ -3305,10 +3304,10 @@ n'y a personne dedans.
 
 — C'est une distinction très fine, dit Iris, admirative malgré elle.
 
-— C'est le genre de distinction qui a fait le succès de notre famille
+— C'est même une distinction qui a fait le succès de notre famille
 depuis toujours, dit Sofia, fièrement.
 
-— Ça vous a déjà causé de vrais problèmes, ce genre de distinction ?
+— Ça vous a déjà causé de vrais problèmes, une distinction pareille ?
 demanda Iris, curieuse.
 
 — Une fois, à Bellerive, dit Souly. On avait promis de ne pas monter
@@ -3391,7 +3390,7 @@ l'herbe.
 
 — Regardez ! J'ai trouvé un indice !
 
-Souly et Iris se précipitèrent, le cœur battant d'espoir. Sofia
+Souly et Iris se précipitèrent, pleins d'espoir. Sofia
 brandissait un carnet couvert de gribouillis techniques, de schémas
 de câblage et de chiffres qui ne ressemblaient à rien de compréhensible
 pour aucun des trois enfants.
@@ -3434,8 +3433,8 @@ passé.
 — Comment on fait ça, sans accéder aux ordinateurs de Fabien ? demanda
 Sofia.
 
-Un silence suivit cette question, personne n'osant vraiment formuler
-à voix haute ce que chacun pensait déjà.
+Personne n'osa vraiment formuler à voix haute ce que chacun pensait
+déjà.
 
 — Il y a peut-être un autre moyen, dit finalement Iris. Un moyen qui
 ne demande pas la permission de Fabien.
@@ -3459,15 +3458,15 @@ remarquer Souly. Ce n'est pas rassurant du tout, comme idée.
 Iris. Si quelqu'un y retourne, on pourrait le voir en action, cette
 fois.
 
-— On ne va quand même pas entrer par effraction, dit Souly. Ça, c'est
-non. Non négociable.
+— On ne va quand même pas entrer par effraction, dit Souly, catégorique.
+Là-dessus, je ne changerai pas d'avis.
 
 — Juste regarder, dit Iris. Par une fenêtre, ou une porte laissée
 entrouverte. Rien de plus. Si on voit quelque chose de louche, on le
 note et on le montre à Nadia le lendemain matin.
 
-— Et si on se fait attraper ? demanda Sofia, pour une fois plus
-prudente que son frère.
+— Et si quelqu'un nous surprend, cette fois ? demanda Sofia, avec une
+prudence inhabituelle chez elle.
 
 — On dira qu'on cherchait Kepler, dit Souly, presque malgré lui.
 Cette chèvre s'échappe tout le temps, personne ne trouvera ça
@@ -3818,7 +3817,7 @@ samedi soir, conformément à notre calendrier de diffusion national.
 Toute autre date entraînerait l'annulation immédiate de notre
 soutien financier. »
 
-— Ça, c'est le motif, murmura Souly, la gorge serrée. Un vrai motif,
+— Ça, c'est le motif, murmura Souly, à voix basse. Un vrai motif,
 pas juste une supposition.
 
 — Combien d'argent, en tout, pour ce sponsor ? demanda Sofia.
@@ -3978,8 +3977,8 @@ on n'y pensait pas vraiment.
 pensivement. On ne le sent jamais vraiment avant. On le découvre
 seulement après, en regardant en arrière.
 
-— C'est encore une de tes phrases inventées ? demanda Iris, un
-sourire fatigué aux lèvres malgré la tension de la soirée.
+— C'est encore une de tes phrases inventées ? demanda Iris, esquissant
+un sourire malgré la tension de la soirée.
 
 — Toute fraîche, confirma Souly.
 
@@ -4015,9 +4014,9 @@ excitants. Il faut encore comprendre qui, exactement.
 Iris consulta l'heure sur son téléphone emprunté, le visage éclairé
 faiblement par l'écran : minuit passé.
 
-— On est déjà demain, techniquement, dit-elle. Deux jours avant le
-grand soir. On n'a plus le temps d'hésiter. Demain matin, dès qu'on
-est réveillés, on montre tout à Nadia.
+— On est déjà demain, techniquement, dit-elle. Un jour avant le
+grand soir. On n'a plus le temps d'hésiter. Dès qu'on est réveillés,
+tout à l'heure, on montre tout à Nadia.
 
 — Tout, confirma Souly, en rangeant enfin son propre carnet, où il
 avait griffonné, malgré l'obscurité, une description précise de la
@@ -4031,8 +4030,8 @@ demanda soudain Iris. Celle qu'il avait vue rôder près de
 l'observatoire. Vous croyez que ça a un rapport avec tout ça ?
 
 — Aucune idée, admit Souly. Mais on devrait lui demander de nous la
-décrire précisément, demain. La couleur, les inscriptions dessus, ce
-genre de détail.
+décrire précisément, demain. La couleur, les inscriptions dessus,
+tout ça.
 
 — Il va être ravi qu'on prenne enfin son témoignage au sérieux, dit
 Sofia, presque en souriant malgré la fatigue. Il en parle depuis des
@@ -4334,7 +4333,7 @@ Fabien avait, lui aussi, calculé la bonne date au départ — c'est
 écrit noir sur blanc dans les documents que vous avez trouvés. La
 seule différence, c'est que quelqu'un a choisi de l'ignorer.
 
-— Ça veut dire que Fabien savait vraiment, dit Souly, la gorge serrée.
+— Ça veut dire que Fabien savait vraiment, dit Souly, atterré.
 Depuis le début.
 
 — Ça veut dire que quelqu'un savait, corrigea Nadia, avec la
@@ -4390,8 +4389,8 @@ occupe les mains, pendant que la tête tourne en rond toute seule.
 — Souly fait pareil avec son carnet, remarqua Sofia.
 
 — C'est peut-être ça, le vrai point commun entre nous, dit Anselme,
-avec un sourire fatigué. Trouver quelque chose à faire de ses mains,
-pendant qu'on attend une réponse qu'on ne contrôle pas.
+pensif. Trouver quelque chose à faire de ses mains, pendant qu'on
+attend une réponse qu'on ne contrôle pas.
 
 — Nadia ? dit-il, en se redressant, surpris de la voir arriver avec
 les trois enfants et un air si solennel.
@@ -4630,7 +4629,7 @@ nuit.
 
 — On ne le referait pas, mentit un peu Sofia.
 
-— Toi si, dit Mamie Rose, avec un sourire résigné. Mais j'apprécie
+— Toi si, dit Mamie Rose, en levant les yeux au ciel. Mais j'apprécie
 l'effort.
 
 Ils retrouvèrent Iris et Anselme au coin de la rue menant à
@@ -4948,7 +4947,7 @@ ce qu'il fallait faire. C'est le contraire qui aurait été décevant.
 sincèrement navrée.
 
 — De deux heures de route, précisa l'homme qui accompagnait la
-femme, avec un sourire résigné. Mais on a quand même vu un ciel
+femme, en haussant les épaules avec bonne humeur. Mais on a quand même vu un ciel
 magnifique, une histoire extraordinaire, et une leçon de courage
 donnée par trois enfants. Ce n'est pas vraiment venir pour rien, si
 vous voulez mon avis.
@@ -5029,8 +5028,8 @@ La vérité, si. Alors je préfère m'accrocher à la vérité.
 douté de vous pendant une semaine entière ? insista Souly.
 
 — Une semaine, ce n'est rien, comparé à quatre-vingt-onze ans
-d'attente, dit Anselme, avec un sourire fatigué. Je préfère garder
-mon énergie pour des choses qui en valent vraiment la peine.
+d'attente, dit Anselme, la voix basse mais sans amertume. Je préfère
+garder mon énergie pour des choses qui en valent vraiment la peine.
 
 — Comme observer la vraie comète, demain, dit Iris.
 
@@ -5041,11 +5040,10 @@ Mme Argaud, la maire, vint également saluer le petit groupe avant de
 repartir vers la mairie, encore submergée d'appels de journalistes.
 
 — Je vais devoir annoncer officiellement le report à demain, dit-elle,
-avec un soupir fatigué. Ça ne va pas plaire à tout le monde.
+en se massant les tempes. Ça ne va pas plaire à tout le monde.
 
-— La vérité ne plaît pas toujours tout de suite, dit Anselme, avec un
-sourire fatigué. Mais elle finit généralement par payer, à long
-terme.
+— La vérité ne plaît pas toujours tout de suite, dit Anselme. Mais
+elle finit généralement par payer, à long terme.
 
 — J'aimerais avoir votre patience, dit Mme Argaud, en riant
 doucement malgré la fatigue de la journée.
@@ -5086,8 +5084,8 @@ Enfin, ce n'est pas grave. Demain, ce sera différent. Je le sens.
 — Et j'ai souvent raison, corrigea M. Pujol, avec dignité. Pas
 toujours pour les bonnes raisons, je vous l'accorde. Mais souvent.
 
-— Bonne nuit, monsieur Pujol, dit Iris, avec un sourire fatigué mais
-sincère, le premier depuis le début de la soirée.
+— Bonne nuit, monsieur Pujol, dit Iris, avec un petit rire sincère, le
+premier depuis le début de la soirée.
 
 — Bonne nuit, mademoiselle l'héritière du ciel, répondit-il, en
 s'inclinant avec un sérieux comique. Demain, le vrai spectacle.
@@ -5519,7 +5517,7 @@ l'essayer, avec toi.
 Tu ne pourrais jamais partir assez vite après ta phrase.
 
 — C'est un détail regrettable de ma stratégie, en effet, admit
-Souly, avec un sourire résigné.
+Souly, en haussant les épaules.
 
 — Un jour, dit Iris, en marchant à côté de Sofia et Souly vers la
 sortie, je vous raconterai cette histoire à mes propres
@@ -5745,8 +5743,8 @@ d'œil. Le reste est négociable.
 — Où est Kepler, aujourd'hui ? demanda Souly à Nadia. Elle ne devrait
 pas rater ça, elle aussi.
 
-— Attachée bien sagement derrière l'observatoire, dit Nadia, avec un
-sourire résigné. J'ai essayé de l'amener sur la place, une fois, l'an
+— Attachée bien sagement derrière l'observatoire, dit Nadia, en
+secouant la tête. J'ai essayé de l'amener sur la place, une fois, l'an
 dernier, pour une autre fête. Elle a mangé trois pancartes et la
 moitié d'un stand de fleurs avant que je réussisse à la rattraper.
 

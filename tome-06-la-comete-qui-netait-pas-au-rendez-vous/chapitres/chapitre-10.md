@@ -52,7 +52,7 @@ nuit.
 
 — On ne le referait pas, mentit un peu Sofia.
 
-— Toi si, dit Mamie Rose, avec un sourire résigné. Mais j'apprécie
+— Toi si, dit Mamie Rose, en levant les yeux au ciel. Mais j'apprécie
 l'effort.
 
 Ils retrouvèrent Iris et Anselme au coin de la rue menant à
@@ -370,7 +370,7 @@ ce qu'il fallait faire. C'est le contraire qui aurait été décevant.
 sincèrement navrée.
 
 — De deux heures de route, précisa l'homme qui accompagnait la
-femme, avec un sourire résigné. Mais on a quand même vu un ciel
+femme, en haussant les épaules avec bonne humeur. Mais on a quand même vu un ciel
 magnifique, une histoire extraordinaire, et une leçon de courage
 donnée par trois enfants. Ce n'est pas vraiment venir pour rien, si
 vous voulez mon avis.
@@ -451,8 +451,8 @@ La vérité, si. Alors je préfère m'accrocher à la vérité.
 douté de vous pendant une semaine entière ? insista Souly.
 
 — Une semaine, ce n'est rien, comparé à quatre-vingt-onze ans
-d'attente, dit Anselme, avec un sourire fatigué. Je préfère garder
-mon énergie pour des choses qui en valent vraiment la peine.
+d'attente, dit Anselme, la voix basse mais sans amertume. Je préfère
+garder mon énergie pour des choses qui en valent vraiment la peine.
 
 — Comme observer la vraie comète, demain, dit Iris.
 
@@ -463,11 +463,10 @@ Mme Argaud, la maire, vint également saluer le petit groupe avant de
 repartir vers la mairie, encore submergée d'appels de journalistes.
 
 — Je vais devoir annoncer officiellement le report à demain, dit-elle,
-avec un soupir fatigué. Ça ne va pas plaire à tout le monde.
+en se massant les tempes. Ça ne va pas plaire à tout le monde.
 
-— La vérité ne plaît pas toujours tout de suite, dit Anselme, avec un
-sourire fatigué. Mais elle finit généralement par payer, à long
-terme.
+— La vérité ne plaît pas toujours tout de suite, dit Anselme. Mais
+elle finit généralement par payer, à long terme.
 
 — J'aimerais avoir votre patience, dit Mme Argaud, en riant
 doucement malgré la fatigue de la journée.
@@ -508,8 +507,8 @@ Enfin, ce n'est pas grave. Demain, ce sera différent. Je le sens.
 — Et j'ai souvent raison, corrigea M. Pujol, avec dignité. Pas
 toujours pour les bonnes raisons, je vous l'accorde. Mais souvent.
 
-— Bonne nuit, monsieur Pujol, dit Iris, avec un sourire fatigué mais
-sincère, le premier depuis le début de la soirée.
+— Bonne nuit, monsieur Pujol, dit Iris, avec un petit rire sincère, le
+premier depuis le début de la soirée.
 
 — Bonne nuit, mademoiselle l'héritière du ciel, répondit-il, en
 s'inclinant avec un sérieux comique. Demain, le vrai spectacle.

@@ -53,8 +53,8 @@ songea Mamie Rose, en disait long sur leurs chances réelles de tenir
 cette promesse.
 
 Mamie Rose les regarda tous les deux, visiblement pas totalement
-dupe, mais choisit, avec la sagesse d'une grand-mère habituée à ce
-genre de vacances, de ne pas insister davantage.
+dupe, mais choisit, avec la sagesse d'une grand-mère habituée à ces
+vacances-là, de ne pas insister davantage.
 
 — Trois jours avant le grand soir, dit-elle plutôt, en changeant de
 sujet. Vous avez de la chance de vivre ça d'aussi près.
@@ -166,12 +166,12 @@ nettement.
 Souly.
 
 — Je ne veux pas préjuger de ses intentions avant d'avoir des
-preuves, dit Nadia, fidèle à elle-même. Mais je note la question. Ce
-genre de séparation peut aussi bien venir d'une simple répartition
+preuves, dit Nadia, fidèle à elle-même. Mais je note la question. Une
+telle séparation peut aussi bien venir d'une simple répartition
 pratique des tâches que d'un calcul plus embarrassant.
 
-— Vous pouvez au moins nous expliquer comment ça marche, ce genre de
-système ? demanda Sofia.
+— Vous pouvez au moins nous expliquer comment ça marche, un système
+pareil ? demanda Sofia.
 
 Nadia se redressa, visiblement contente de la question.
 
@@ -198,10 +198,9 @@ toucher à un seul boulon.
 — C'est presque effrayant, dit Sofia, à quel point une simple erreur
 de date peut tout faire dérailler.
 
-— C'est même le genre de détail que la plupart des gens ne
-soupçonnent jamais, dit Nadia. On pense toujours qu'une grande erreur
-demande une grande cause. Parfois, il suffit d'un seul chiffre mal
-tapé.
+— C'est même un détail que la plupart des gens ne soupçonnent jamais,
+dit Nadia. On pense toujours qu'une grande erreur demande une grande
+cause. Parfois, il suffit d'un seul chiffre mal tapé.
 
 — Ça vous est déjà arrivé, à vous ? demanda Sofia. De vous tromper
 comme ça, sur une date ou une heure ?
@@ -298,10 +297,10 @@ n'y a personne dedans.
 
 — C'est une distinction très fine, dit Iris, admirative malgré elle.
 
-— C'est le genre de distinction qui a fait le succès de notre famille
+— C'est même une distinction qui a fait le succès de notre famille
 depuis toujours, dit Sofia, fièrement.
 
-— Ça vous a déjà causé de vrais problèmes, ce genre de distinction ?
+— Ça vous a déjà causé de vrais problèmes, une distinction pareille ?
 demanda Iris, curieuse.
 
 — Une fois, à Bellerive, dit Souly. On avait promis de ne pas monter
@@ -384,7 +383,7 @@ l'herbe.
 
 — Regardez ! J'ai trouvé un indice !
 
-Souly et Iris se précipitèrent, le cœur battant d'espoir. Sofia
+Souly et Iris se précipitèrent, pleins d'espoir. Sofia
 brandissait un carnet couvert de gribouillis techniques, de schémas
 de câblage et de chiffres qui ne ressemblaient à rien de compréhensible
 pour aucun des trois enfants.
@@ -427,8 +426,8 @@ passé.
 — Comment on fait ça, sans accéder aux ordinateurs de Fabien ? demanda
 Sofia.
 
-Un silence suivit cette question, personne n'osant vraiment formuler
-à voix haute ce que chacun pensait déjà.
+Personne n'osa vraiment formuler à voix haute ce que chacun pensait
+déjà.
 
 — Il y a peut-être un autre moyen, dit finalement Iris. Un moyen qui
 ne demande pas la permission de Fabien.
@@ -452,15 +451,15 @@ remarquer Souly. Ce n'est pas rassurant du tout, comme idée.
 Iris. Si quelqu'un y retourne, on pourrait le voir en action, cette
 fois.
 
-— On ne va quand même pas entrer par effraction, dit Souly. Ça, c'est
-non. Non négociable.
+— On ne va quand même pas entrer par effraction, dit Souly, catégorique.
+Là-dessus, je ne changerai pas d'avis.
 
 — Juste regarder, dit Iris. Par une fenêtre, ou une porte laissée
 entrouverte. Rien de plus. Si on voit quelque chose de louche, on le
 note et on le montre à Nadia le lendemain matin.
 
-— Et si on se fait attraper ? demanda Sofia, pour une fois plus
-prudente que son frère.
+— Et si quelqu'un nous surprend, cette fois ? demanda Sofia, avec une
+prudence inhabituelle chez elle.
 
 — On dira qu'on cherchait Kepler, dit Souly, presque malgré lui.
 Cette chèvre s'échappe tout le temps, personne ne trouvera ça

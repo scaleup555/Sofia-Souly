@@ -401,8 +401,8 @@ raison.
 soudain plus inquiète que théâtrale. Si c'était vraiment un choix,
 pas une erreur ?
 
-Un silence suivit cette question, que personne, sur le moment,
-n'était vraiment prêt à combler.
+Personne, sur le moment, ne se sentit vraiment prêt à répondre à
+cette question.
 
 — Alors ce sera pire pour Fabien qu'une simple erreur de calcul, dit
 finalement Souly. Une erreur, ça s'excuse. Choisir la mauvaise date

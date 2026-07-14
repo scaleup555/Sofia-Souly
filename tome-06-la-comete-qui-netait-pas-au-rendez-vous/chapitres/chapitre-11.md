@@ -418,7 +418,7 @@ l'essayer, avec toi.
 Tu ne pourrais jamais partir assez vite après ta phrase.
 
 — C'est un détail regrettable de ma stratégie, en effet, admit
-Souly, avec un sourire résigné.
+Souly, en haussant les épaules.
 
 — Un jour, dit Iris, en marchant à côté de Sofia et Souly vers la
 sortie, je vous raconterai cette histoire à mes propres

@@ -130,8 +130,8 @@ d'œil. Le reste est négociable.
 — Où est Kepler, aujourd'hui ? demanda Souly à Nadia. Elle ne devrait
 pas rater ça, elle aussi.
 
-— Attachée bien sagement derrière l'observatoire, dit Nadia, avec un
-sourire résigné. J'ai essayé de l'amener sur la place, une fois, l'an
+— Attachée bien sagement derrière l'observatoire, dit Nadia, en
+secouant la tête. J'ai essayé de l'amener sur la place, une fois, l'an
 dernier, pour une autre fête. Elle a mangé trois pancartes et la
 moitié d'un stand de fleurs avant que je réussisse à la rattraper.
 

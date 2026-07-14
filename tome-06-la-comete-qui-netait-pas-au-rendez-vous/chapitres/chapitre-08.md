@@ -279,7 +279,7 @@ samedi soir, conformément à notre calendrier de diffusion national.
 Toute autre date entraînerait l'annulation immédiate de notre
 soutien financier. »
 
-— Ça, c'est le motif, murmura Souly, la gorge serrée. Un vrai motif,
+— Ça, c'est le motif, murmura Souly, à voix basse. Un vrai motif,
 pas juste une supposition.
 
 — Combien d'argent, en tout, pour ce sponsor ? demanda Sofia.
@@ -439,8 +439,8 @@ on n'y pensait pas vraiment.
 pensivement. On ne le sent jamais vraiment avant. On le découvre
 seulement après, en regardant en arrière.
 
-— C'est encore une de tes phrases inventées ? demanda Iris, un
-sourire fatigué aux lèvres malgré la tension de la soirée.
+— C'est encore une de tes phrases inventées ? demanda Iris, esquissant
+un sourire malgré la tension de la soirée.
 
 — Toute fraîche, confirma Souly.
 
@@ -476,9 +476,9 @@ excitants. Il faut encore comprendre qui, exactement.
 Iris consulta l'heure sur son téléphone emprunté, le visage éclairé
 faiblement par l'écran : minuit passé.
 
-— On est déjà demain, techniquement, dit-elle. Deux jours avant le
-grand soir. On n'a plus le temps d'hésiter. Demain matin, dès qu'on
-est réveillés, on montre tout à Nadia.
+— On est déjà demain, techniquement, dit-elle. Un jour avant le
+grand soir. On n'a plus le temps d'hésiter. Dès qu'on est réveillés,
+tout à l'heure, on montre tout à Nadia.
 
 — Tout, confirma Souly, en rangeant enfin son propre carnet, où il
 avait griffonné, malgré l'obscurité, une description précise de la
@@ -492,8 +492,8 @@ demanda soudain Iris. Celle qu'il avait vue rôder près de
 l'observatoire. Vous croyez que ça a un rapport avec tout ça ?
 
 — Aucune idée, admit Souly. Mais on devrait lui demander de nous la
-décrire précisément, demain. La couleur, les inscriptions dessus, ce
-genre de détail.
+décrire précisément, demain. La couleur, les inscriptions dessus,
+tout ça.
 
 — Il va être ravi qu'on prenne enfin son témoignage au sérieux, dit
 Sofia, presque en souriant malgré la fatigue. Il en parle depuis des

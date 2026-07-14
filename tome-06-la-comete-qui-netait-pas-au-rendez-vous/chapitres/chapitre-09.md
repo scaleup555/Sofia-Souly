@@ -262,7 +262,7 @@ Fabien avait, lui aussi, calculé la bonne date au départ — c'est
 écrit noir sur blanc dans les documents que vous avez trouvés. La
 seule différence, c'est que quelqu'un a choisi de l'ignorer.
 
-— Ça veut dire que Fabien savait vraiment, dit Souly, la gorge serrée.
+— Ça veut dire que Fabien savait vraiment, dit Souly, atterré.
 Depuis le début.
 
 — Ça veut dire que quelqu'un savait, corrigea Nadia, avec la
@@ -318,8 +318,8 @@ occupe les mains, pendant que la tête tourne en rond toute seule.
 — Souly fait pareil avec son carnet, remarqua Sofia.
 
 — C'est peut-être ça, le vrai point commun entre nous, dit Anselme,
-avec un sourire fatigué. Trouver quelque chose à faire de ses mains,
-pendant qu'on attend une réponse qu'on ne contrôle pas.
+pensif. Trouver quelque chose à faire de ses mains, pendant qu'on
+attend une réponse qu'on ne contrôle pas.
 
 — Nadia ? dit-il, en se redressant, surpris de la voir arriver avec
 les trois enfants et un air si solennel.

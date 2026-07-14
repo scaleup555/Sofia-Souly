@@ -434,9 +434,9 @@ tous les deux. Dix heures à l'observatoire, ça vous va ?
 
 — On sera prêts à neuf heures cinquante-neuf, promit Souly.
 
-— Voilà exactement le genre de ponctualité qui me plaît chez un
-apprenti astronome, dit Nadia, avant de s'éloigner dans la nuit
-naissante, sa lampe de poche balayant le chemin devant elle et Kepler.
+— Voilà exactement la ponctualité qui me plaît chez un apprenti
+astronome, dit Nadia, avant de s'éloigner dans la nuit naissante, sa
+lampe de poche balayant le chemin devant elle et Kepler.
 
 Après le dîner, une fois la vaisselle rangée, Sofia et Souly montèrent
 dans leur chambre — celle promise par Mamie Rose, avec sa fenêtre

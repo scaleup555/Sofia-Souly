@@ -253,11 +253,11 @@ micro tendu vers Fabien, posa la question que tout le monde retenait.
 correctement vers un objet aussi visible que Vénus, comment pouvez-
 vous garantir qu'il trouvera la comète dans quatre jours ?
 
-Fabien ne répondit pas tout de suite, et quand il le fit, sa voix
-avait perdu un peu de son assurance habituelle.
+Fabien resta silencieux un long moment, et quand il reprit la parole,
+sa voix avait perdu un peu de son assurance habituelle.
 
 — C'est... c'est justement l'objet de cette répétition, dit-il. Trouver
-et corriger ce genre de problème avant le grand soir. Je préfère
+et corriger ce problème avant le grand soir. Je préfère
 mille fois qu'on le découvre aujourd'hui plutôt que devant les
 caméras du direct.
 
@@ -279,9 +279,9 @@ Nous allons la corriger d'ici demain, sans problème.
 — Une erreur de calibration, répéta une voix dans la foule, sceptique.
 Ou quelqu'un a trafiqué les réglages ?
 
-Un silence gêné suivit cette question, posée par un homme que Sofia
-ne connaissait pas, avant que Fabien ne reprenne la parole, le regard
-balayant rapidement la foule.
+Un malaise palpable gagna la foule après cette question, posée par un
+homme que Sofia ne connaissait pas, avant que Fabien ne reprenne la
+parole, le regard balayant rapidement la foule.
 
 — Je ne veux accuser personne sans preuve, dit-il, prudemment. Mais
 je dois admettre que ces coordonnées avaient été vérifiées et
@@ -355,8 +355,8 @@ dernière.
 — C'est injuste, dit Sofia, la voix pleine d'indignation, en les
 rejoignant avec Souly.
 
-— La vie est rarement juste tout de suite, dit Anselme, avec un
-sourire fatigué.
+— La vie est rarement juste tout de suite, dit Anselme, en haussant
+les épaules avec résignation.
 
 — Vous étiez où, cet après-midi, avant la répétition ? demanda Souly,
 aussi délicatement que possible. Juste pour qu'on sache, nous, où
