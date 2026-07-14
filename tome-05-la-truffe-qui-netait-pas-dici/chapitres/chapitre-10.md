@@ -132,7 +132,7 @@ un petit lot de légumes d'accompagnement pour le marché, s'attira
 même une remarque amusée de Delphine.
 
 — Vos carottes n'ont rien à voir avec les truffes, monsieur Fernand,
-dit-elle, un sourcil levé.
+dit-elle, pince-sans-rire.
 
 — On ne sait jamais, avec vous, répondit Fernand, en riant. Je
 préfère vous les montrer quand même. Question de principe.
@@ -246,9 +246,8 @@ leur voisin pour vérifier qu'ils avaient bien entendu la même chose.
 — C'est impossible, protesta Grégoire, pâlissant visiblement. Il doit
 y avoir une erreur. Un problème avec le microscope, peut-être.
 
-— Le microscope ne fait jamais d'erreur, monsieur Salvan, dit
-Delphine, sans se départir de son calme. Les gens en font. Les
-appareils, non.
+— Le microscope ne fait jamais d'erreur, monsieur Salvan, répondit
+Delphine du tac au tac. Les gens en font. Les appareils, non.
 
 — C'est impossible, répéta Grégoire, plus faiblement cette fois. Je
 l'ai trouvée moi-même, au ravin des Trois-Pierres...
@@ -294,10 +293,10 @@ Cette dernière phrase sembla toucher Grégoire plus profondément que
 toutes les preuves photographiques réunies. Il ferma les yeux un
 instant, comme pour rassembler ses dernières forces.
 
-Grégoire ne répondit pas tout de suite. Il regarda autour de lui — la
-foule, les visages qui se détournaient peu à peu, Marcel Chaumette,
-au fond du hangar, silencieux, le visage impassible malgré tout ce
-qui se jouait devant lui.
+Un long moment passa avant que Grégoire ne se décide à parler. Il
+regarda autour de lui — la foule, les visages qui se détournaient peu
+à peu, Marcel Chaumette, au fond du hangar, silencieux, le visage
+impassible malgré tout ce qui se jouait devant lui.
 
 — J'avais un emprunt à rembourser, dit-il enfin, la voix brisée, si
 différente de celle qu'il avait employée quelques minutes plus tôt.
@@ -307,9 +306,8 @@ J'ai acheté des truffes importées, moins chères, et j'ai... j'ai
 prétendu en avoir trouvé une exceptionnelle moi-même. Je pensais que
 personne n'irait jamais vérifier.
 
-Personne dans le hangar n'osa parler le premier pendant un long
-moment, jusqu'à ce que Fernand, depuis le fond de la salle, se
-décide enfin.
+Le hangar resta muet un long moment, jusqu'à ce que Fernand, depuis
+le fond de la salle, se décide enfin.
 
 — On te faisait confiance, Grégoire, dit-il, plus triste que fâché.
 Depuis dix ans.

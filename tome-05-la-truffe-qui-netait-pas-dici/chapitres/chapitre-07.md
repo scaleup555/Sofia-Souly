@@ -36,9 +36,9 @@ déjà en manteau.
 improvisa Sofia, si vite qu'elle s'étonna elle-même de sa propre
 aisance.
 
-— Un coin de forêt, répéta Odile, un sourcil levé, visiblement pas
-totalement dupe. Vous rentrez avant midi. Et vous emportez de l'eau,
-il fait un froid de loup ce matin.
+— Un coin de forêt, répéta Odile, visiblement pas totalement dupe.
+Vous rentrez avant midi. Et vous emportez de l'eau, il fait un froid
+de loup ce matin.
 
 — Promis, dit Souly, en enfilant déjà son sac à dos.
 
@@ -228,9 +228,9 @@ Encore moins produire une truffe de neuf cents grammes.
 
 — Tu es sûr ? demanda Sofia.
 
-— Sûr à quatre-vingt-dix-neuf pour cent, dit Yanis, avec un clin
-d'œil vers Souly. Odile pourrait confirmer, si on n'ose pas croire un
-gamin de onze ans sur parole.
+— Sûr à quatre-vingt-dix-neuf pour cent, dit Yanis, en lançant un
+regard amusé vers Souly. Odile pourrait confirmer, si on n'ose pas
+croire un gamin de onze ans sur parole.
 
 — Je te crois, dit Souly, sérieusement. C'est cohérent avec tout ce
 qu'Odile nous a expliqué. Elle a dit qu'il fallait environ six ans
@@ -401,10 +401,10 @@ façon.
 — Comment on fait pour avoir un morceau de SA truffe, à lui ? demanda
 Sofia. Il ne va pas nous la prêter gentiment.
 
-Personne ne répondit tout de suite, chacun réfléchissant à cette
-question précise, jusqu'à ce que Yanis, lentement, tourne les yeux
-vers le village, en direction du hangar qu'on apercevait, minuscule,
-entre les toits.
+Chacun réfléchissait à cette question précise, sans qu'aucune réponse
+vienne, jusqu'à ce que Yanis, lentement, tourne les yeux vers le
+village, en direction du hangar qu'on apercevait, minuscule, entre
+les toits.
 
 — Il y a peut-être un autre moyen d'avoir des preuves, dit-il. Un
 moyen qui ne demande pas la permission de Grégoire.

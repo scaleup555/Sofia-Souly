@@ -353,9 +353,9 @@ Yanis prit le temps de regarder la route vide avant de répondre.
 espagnole. Et je ne me souviens pas que Grégoire ait déjà eu un
 fournisseur en Espagne.
 
-Personne ne dit rien pendant quelques secondes, mais chacun comprit,
-sans avoir besoin de le formuler à voix haute, qu'ils venaient peut-
-être de trouver leur premier vrai indice.
+Un silence bref suivit, mais chacun comprit, sans avoir besoin de le
+formuler à voix haute, qu'ils venaient peut-être de trouver leur
+premier vrai indice.
 
 — On devrait le dire à Odile, dit finalement Souly.
 

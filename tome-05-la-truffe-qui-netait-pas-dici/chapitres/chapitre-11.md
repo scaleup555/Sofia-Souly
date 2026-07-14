@@ -132,8 +132,8 @@ prénom, en fait, maintenant que j'y pense.
 
 — Marcel, alors, dit Sofia, comme pour sceller la chose officiellement.
 
-Marcel rit, un vrai rire, franc et sonore, le premier depuis des jours
-entiers.
+Marcel rit, un rire franc et sonore qui parut le surprendre lui-même
+autant que les enfants.
 
 — J'aime beaucoup ta logique, dit-il. Vous savez, cette semaine, j'ai
 failli oublier ce que ça faisait, de rire comme ça.

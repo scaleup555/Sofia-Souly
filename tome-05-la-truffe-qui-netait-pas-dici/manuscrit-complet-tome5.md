@@ -934,14 +934,9 @@ comme si elle prenait un engagement officiel.
 
 — C'est tout ce que je demande, dit Odile, en souriant.
 
-Souly, resté silencieux, referma doucement son carnet et le glissa
-dans sa poche, prêt pour l'après-midi qui s'annonçait, sans qu'il
-sache encore exactement pourquoi, comme le vrai début de leurs
-vacances à Clairval.
-
-Le déjeuner fut plus silencieux que prévu, surtout parce que Sofia et
-Souly échangeaient des regards entendus chaque fois qu'Odile détournait
-les yeux.
+Le reste du repas se déroula dans un silence relatif, surtout parce
+que Sofia et Souly échangeaient des regards entendus chaque fois
+qu'Odile détournait les yeux.
 
 — Arrêtez ça tous les deux, dit Odile sans même se retourner.
 
@@ -971,6 +966,11 @@ temps.
 village, pour l'instant, et je n'aime pas particulièrement les répéter.
 Vous rencontrerez Yanis cet après-midi, et vous vous ferez votre
 propre avis sur sa famille, pas celui du café du village.
+
+Souly, resté silencieux depuis un moment, referma doucement son
+carnet et le glissa dans sa poche, prêt pour l'après-midi qui
+s'annonçait, sans qu'il sache encore exactement pourquoi, comme le
+vrai début de leurs vacances à Clairval.
 
 Après le déjeuner, ils traversèrent Clairval à pied pour rejoindre la
 maison des Chaumette, à l'autre bout du village. La place principale,
@@ -1417,9 +1417,9 @@ Yanis prit le temps de regarder la route vide avant de répondre.
 espagnole. Et je ne me souviens pas que Grégoire ait déjà eu un
 fournisseur en Espagne.
 
-Personne ne dit rien pendant quelques secondes, mais chacun comprit,
-sans avoir besoin de le formuler à voix haute, qu'ils venaient peut-
-être de trouver leur premier vrai indice.
+Un silence bref suivit, mais chacun comprit, sans avoir besoin de le
+formuler à voix haute, qu'ils venaient peut-être de trouver leur
+premier vrai indice.
 
 — On devrait le dire à Odile, dit finalement Souly.
 
@@ -1606,7 +1606,7 @@ producteurs.
 — On peut repasser devant le hangar de Grégoire ? demanda Sofia, la
 bouche pleine de tartine.
 
-— Pourquoi cette question précise ? demanda Odile, un sourcil levé.
+— Pourquoi cette question précise ? demanda Odile, méfiante tout à coup.
 
 — Pour rien, dit Sofia, d'un air qui ne trompait absolument personne.
 
@@ -1624,7 +1624,7 @@ fragile, trop de lots précieux.
 quand même.
 
 — Vous êtes sûrs que ce n'est pas juste de la curiosité ordinaire ?
-demanda Odile, un sourcil levé.
+demanda Odile, pas dupe une seconde.
 
 — Complètement sûrs, dit Sofia, avec l'aplomb de quelqu'un qui savait
 pertinemment que ce n'était pas tout à fait vrai.
@@ -3001,9 +3001,8 @@ beau de voir la forêt me rendre la pareille.
 
 — Combien comptez-vous en tirer ? insista le journaliste.
 
-— Le marché décidera, dit Grégoire, avec une modestie qui sonnait un
-peu trop répétée pour être tout à fait sincère. Mais disons que mes
-acheteurs parisiens ne viennent jamais pour des sommes modestes.
+— Le marché décidera, dit Grégoire. Mais disons que mes acheteurs
+parisiens ne viennent jamais pour des sommes modestes.
 
 Un murmure d'envie parcourut de nouveau la foule, et Souly nota
 mentalement, sans même sortir son carnet cette fois, que la question
@@ -3236,9 +3235,9 @@ déjà en manteau.
 improvisa Sofia, si vite qu'elle s'étonna elle-même de sa propre
 aisance.
 
-— Un coin de forêt, répéta Odile, un sourcil levé, visiblement pas
-totalement dupe. Vous rentrez avant midi. Et vous emportez de l'eau,
-il fait un froid de loup ce matin.
+— Un coin de forêt, répéta Odile, visiblement pas totalement dupe.
+Vous rentrez avant midi. Et vous emportez de l'eau, il fait un froid
+de loup ce matin.
 
 — Promis, dit Souly, en enfilant déjà son sac à dos.
 
@@ -3428,9 +3427,9 @@ Encore moins produire une truffe de neuf cents grammes.
 
 — Tu es sûr ? demanda Sofia.
 
-— Sûr à quatre-vingt-dix-neuf pour cent, dit Yanis, avec un clin
-d'œil vers Souly. Odile pourrait confirmer, si on n'ose pas croire un
-gamin de onze ans sur parole.
+— Sûr à quatre-vingt-dix-neuf pour cent, dit Yanis, en lançant un
+regard amusé vers Souly. Odile pourrait confirmer, si on n'ose pas
+croire un gamin de onze ans sur parole.
 
 — Je te crois, dit Souly, sérieusement. C'est cohérent avec tout ce
 qu'Odile nous a expliqué. Elle a dit qu'il fallait environ six ans
@@ -3601,10 +3600,10 @@ façon.
 — Comment on fait pour avoir un morceau de SA truffe, à lui ? demanda
 Sofia. Il ne va pas nous la prêter gentiment.
 
-Personne ne répondit tout de suite, chacun réfléchissant à cette
-question précise, jusqu'à ce que Yanis, lentement, tourne les yeux
-vers le village, en direction du hangar qu'on apercevait, minuscule,
-entre les toits.
+Chacun réfléchissait à cette question précise, sans qu'aucune réponse
+vienne, jusqu'à ce que Yanis, lentement, tourne les yeux vers le
+village, en direction du hangar qu'on apercevait, minuscule, entre
+les toits.
 
 — Il y a peut-être un autre moyen d'avoir des preuves, dit-il. Un
 moyen qui ne demande pas la permission de Grégoire.
@@ -4398,8 +4397,8 @@ secouant la tête, mi-amusée, mi-dépassée par ses propres petits-
 enfants.
 
 — Vous ressemblez de plus en plus à votre grand-mère, tous les deux,
-remarqua Odile, un sourcil levé, et ce n'est pas un compliment, dans
-ce cas précis.
+remarqua Odile, mi-amusée, mi-exaspérée, et ce n'est pas un
+compliment, dans ce cas précis.
 
 — Yanis était avec nous, ajouta Sofia. Ce n'est pas juste nous deux
 qui avons pris ce risque.
@@ -4415,8 +4414,8 @@ risques qu'il n'aurait peut-être pas pris, sans ça.
 doucement. Mais ça ne rend pas la nuit dernière moins dangereuse pour
 autant.
 
-Personne ne dit plus rien pendant un moment, jusqu'à ce qu'Odile,
-finalement, pousse un long soupir et se rassoie.
+Le silence dura un moment, jusqu'à ce qu'Odile, finalement, pousse un
+long soupir et se rassoie.
 
 — D'accord, dit-elle. Vous avez fait quelque chose de dangereux et de
 mal, et on en reparlera, sérieusement, une fois que cette histoire
@@ -4653,7 +4652,8 @@ exceptionnelles y passent, la sienne comme les autres.
 qu'il a lui-même promise à la presse, dit Delphine, ce sera déjà, en
 soi, une réponse. Une réponse que tout Clairval saura interpréter.
 
-Odile se tourna vers Sofia et Souly, le visage grave.
+Odile se tourna vers Sofia et Souly, soudain redevenue la marraine
+sévère plutôt que la mycologue passionnée.
 
 — Vous deux, dit-elle. Plus d'aventures nocturnes, plus d'infiltration,
 plus rien de tout ça. Vous nous avez donné une piste précieuse, mais
@@ -4779,8 +4779,8 @@ qu'on oublie tous.
 — Il comptera, dit Sofia, sans le moindre doute dans la voix. Une
 manière ou une autre, il comptera.
 
-Personne ne protesta, et ils restèrent ainsi un moment, silencieux,
-regardant les dernières lumières du village s'éteindre une à une.
+Ils restèrent ainsi un moment, silencieux, regardant les dernières
+lumières du village s'éteindre une à une.
 
 — Deux jours avant le marché, murmura Yanis, en regardant les étoiles
 qui commençaient à apparaître au-dessus du village. Demain, on saura.
@@ -4923,7 +4923,7 @@ un petit lot de légumes d'accompagnement pour le marché, s'attira
 même une remarque amusée de Delphine.
 
 — Vos carottes n'ont rien à voir avec les truffes, monsieur Fernand,
-dit-elle, un sourcil levé.
+dit-elle, pince-sans-rire.
 
 — On ne sait jamais, avec vous, répondit Fernand, en riant. Je
 préfère vous les montrer quand même. Question de principe.
@@ -5037,9 +5037,8 @@ leur voisin pour vérifier qu'ils avaient bien entendu la même chose.
 — C'est impossible, protesta Grégoire, pâlissant visiblement. Il doit
 y avoir une erreur. Un problème avec le microscope, peut-être.
 
-— Le microscope ne fait jamais d'erreur, monsieur Salvan, dit
-Delphine, sans se départir de son calme. Les gens en font. Les
-appareils, non.
+— Le microscope ne fait jamais d'erreur, monsieur Salvan, répondit
+Delphine du tac au tac. Les gens en font. Les appareils, non.
 
 — C'est impossible, répéta Grégoire, plus faiblement cette fois. Je
 l'ai trouvée moi-même, au ravin des Trois-Pierres...
@@ -5085,10 +5084,10 @@ Cette dernière phrase sembla toucher Grégoire plus profondément que
 toutes les preuves photographiques réunies. Il ferma les yeux un
 instant, comme pour rassembler ses dernières forces.
 
-Grégoire ne répondit pas tout de suite. Il regarda autour de lui — la
-foule, les visages qui se détournaient peu à peu, Marcel Chaumette,
-au fond du hangar, silencieux, le visage impassible malgré tout ce
-qui se jouait devant lui.
+Un long moment passa avant que Grégoire ne se décide à parler. Il
+regarda autour de lui — la foule, les visages qui se détournaient peu
+à peu, Marcel Chaumette, au fond du hangar, silencieux, le visage
+impassible malgré tout ce qui se jouait devant lui.
 
 — J'avais un emprunt à rembourser, dit-il enfin, la voix brisée, si
 différente de celle qu'il avait employée quelques minutes plus tôt.
@@ -5098,9 +5097,8 @@ J'ai acheté des truffes importées, moins chères, et j'ai... j'ai
 prétendu en avoir trouvé une exceptionnelle moi-même. Je pensais que
 personne n'irait jamais vérifier.
 
-Personne dans le hangar n'osa parler le premier pendant un long
-moment, jusqu'à ce que Fernand, depuis le fond de la salle, se
-décide enfin.
+Le hangar resta muet un long moment, jusqu'à ce que Fernand, depuis
+le fond de la salle, se décide enfin.
 
 — On te faisait confiance, Grégoire, dit-il, plus triste que fâché.
 Depuis dix ans.
@@ -5438,8 +5436,8 @@ prénom, en fait, maintenant que j'y pense.
 
 — Marcel, alors, dit Sofia, comme pour sceller la chose officiellement.
 
-Marcel rit, un vrai rire, franc et sonore, le premier depuis des jours
-entiers.
+Marcel rit, un rire franc et sonore qui parut le surprendre lui-même
+autant que les enfants.
 
 — J'aime beaucoup ta logique, dit-il. Vous savez, cette semaine, j'ai
 failli oublier ce que ça faisait, de rire comme ça.

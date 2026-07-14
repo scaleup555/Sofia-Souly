@@ -9,7 +9,7 @@ producteurs.
 — On peut repasser devant le hangar de Grégoire ? demanda Sofia, la
 bouche pleine de tartine.
 
-— Pourquoi cette question précise ? demanda Odile, un sourcil levé.
+— Pourquoi cette question précise ? demanda Odile, méfiante tout à coup.
 
 — Pour rien, dit Sofia, d'un air qui ne trompait absolument personne.
 
@@ -27,7 +27,7 @@ fragile, trop de lots précieux.
 quand même.
 
 — Vous êtes sûrs que ce n'est pas juste de la curiosité ordinaire ?
-demanda Odile, un sourcil levé.
+demanda Odile, pas dupe une seconde.
 
 — Complètement sûrs, dit Sofia, avec l'aplomb de quelqu'un qui savait
 pertinemment que ce n'était pas tout à fait vrai.

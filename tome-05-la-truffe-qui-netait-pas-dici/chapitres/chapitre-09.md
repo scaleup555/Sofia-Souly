@@ -137,8 +137,8 @@ secouant la tête, mi-amusée, mi-dépassée par ses propres petits-
 enfants.
 
 — Vous ressemblez de plus en plus à votre grand-mère, tous les deux,
-remarqua Odile, un sourcil levé, et ce n'est pas un compliment, dans
-ce cas précis.
+remarqua Odile, mi-amusée, mi-exaspérée, et ce n'est pas un
+compliment, dans ce cas précis.
 
 — Yanis était avec nous, ajouta Sofia. Ce n'est pas juste nous deux
 qui avons pris ce risque.
@@ -154,8 +154,8 @@ risques qu'il n'aurait peut-être pas pris, sans ça.
 doucement. Mais ça ne rend pas la nuit dernière moins dangereuse pour
 autant.
 
-Personne ne dit plus rien pendant un moment, jusqu'à ce qu'Odile,
-finalement, pousse un long soupir et se rassoie.
+Le silence dura un moment, jusqu'à ce qu'Odile, finalement, pousse un
+long soupir et se rassoie.
 
 — D'accord, dit-elle. Vous avez fait quelque chose de dangereux et de
 mal, et on en reparlera, sérieusement, une fois que cette histoire
@@ -392,7 +392,8 @@ exceptionnelles y passent, la sienne comme les autres.
 qu'il a lui-même promise à la presse, dit Delphine, ce sera déjà, en
 soi, une réponse. Une réponse que tout Clairval saura interpréter.
 
-Odile se tourna vers Sofia et Souly, le visage grave.
+Odile se tourna vers Sofia et Souly, soudain redevenue la marraine
+sévère plutôt que la mycologue passionnée.
 
 — Vous deux, dit-elle. Plus d'aventures nocturnes, plus d'infiltration,
 plus rien de tout ça. Vous nous avez donné une piste précieuse, mais
@@ -518,8 +519,8 @@ qu'on oublie tous.
 — Il comptera, dit Sofia, sans le moindre doute dans la voix. Une
 manière ou une autre, il comptera.
 
-Personne ne protesta, et ils restèrent ainsi un moment, silencieux,
-regardant les dernières lumières du village s'éteindre une à une.
+Ils restèrent ainsi un moment, silencieux, regardant les dernières
+lumières du village s'éteindre une à une.
 
 — Deux jours avant le marché, murmura Yanis, en regardant les étoiles
 qui commençaient à apparaître au-dessus du village. Demain, on saura.

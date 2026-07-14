@@ -355,9 +355,8 @@ beau de voir la forêt me rendre la pareille.
 
 — Combien comptez-vous en tirer ? insista le journaliste.
 
-— Le marché décidera, dit Grégoire, avec une modestie qui sonnait un
-peu trop répétée pour être tout à fait sincère. Mais disons que mes
-acheteurs parisiens ne viennent jamais pour des sommes modestes.
+— Le marché décidera, dit Grégoire. Mais disons que mes acheteurs
+parisiens ne viennent jamais pour des sommes modestes.
 
 Un murmure d'envie parcourut de nouveau la foule, et Souly nota
 mentalement, sans même sortir son carnet cette fois, que la question

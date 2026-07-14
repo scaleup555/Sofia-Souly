@@ -392,14 +392,9 @@ comme si elle prenait un engagement officiel.
 
 — C'est tout ce que je demande, dit Odile, en souriant.
 
-Souly, resté silencieux, referma doucement son carnet et le glissa
-dans sa poche, prêt pour l'après-midi qui s'annonçait, sans qu'il
-sache encore exactement pourquoi, comme le vrai début de leurs
-vacances à Clairval.
-
-Le déjeuner fut plus silencieux que prévu, surtout parce que Sofia et
-Souly échangeaient des regards entendus chaque fois qu'Odile détournait
-les yeux.
+Le reste du repas se déroula dans un silence relatif, surtout parce
+que Sofia et Souly échangeaient des regards entendus chaque fois
+qu'Odile détournait les yeux.
 
 — Arrêtez ça tous les deux, dit Odile sans même se retourner.
 
@@ -429,6 +424,11 @@ temps.
 village, pour l'instant, et je n'aime pas particulièrement les répéter.
 Vous rencontrerez Yanis cet après-midi, et vous vous ferez votre
 propre avis sur sa famille, pas celui du café du village.
+
+Souly, resté silencieux depuis un moment, referma doucement son
+carnet et le glissa dans sa poche, prêt pour l'après-midi qui
+s'annonçait, sans qu'il sache encore exactement pourquoi, comme le
+vrai début de leurs vacances à Clairval.
 
 Après le déjeuner, ils traversèrent Clairval à pied pour rejoindre la
 maison des Chaumette, à l'autre bout du village. La place principale,
