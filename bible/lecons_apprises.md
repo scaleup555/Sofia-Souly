@@ -951,3 +951,82 @@ bout, densité de tous les tics connus vérifiée par fichier aplati,
 recherche de doublons de paragraphes sur les ~1 500 paragraphes du
 manuscrit compilé). .docx livré via un nouveau `build_docx.py` calqué
 sur ceux des tomes 2, 3 et 4.
+
+## Tome 6 — écriture complète en une seule passe, premier 9,0+/10 dès le deuxième jury (session 12)
+
+**Leçon méthodologique n°10 — écrire un nouveau tome juste après avoir
+terminé le précédent crée un risque de contamination croisée
+spécifique, distinct des tics habituels.** À plusieurs reprises
+pendant la rédaction de ce tome (thème astronomie), du contenu du
+tome 5 (thème trufficulture, rédigé dans la session immédiatement
+précédente) a été détecté en train de s'infiltrer par pur effet de
+pattern-matching : un nom de personnage du tome 5 (« Yanis ») glissé
+par erreur dans un dialogue du tome 6, une réplique du fermier Marcel
+du tome 5 recopiée presque mot pour mot dans la bouche d'un
+personnage du tome 6, un callback sur les girolles (élément du tome 5)
+sans aucune justification dans l'intrigue du tome 6. Ce n'est PAS le
+même phénomène que les gabarits de style bannis (qui se répètent au
+sein d'un même tome) : c'est une fuite de contenu narratif complet
+(nom, scène, réplique) d'un tome fini vers le tome en cours d'écriture,
+plus probable quand les deux tomes sont écrits à quelques heures
+d'intervalle dans la même session longue. **Règle : quand un nouveau
+tome est rédigé immédiatement après la fin d'un tome précédent, ajouter
+une passe de relecture dédiée qui recherche spécifiquement les noms de
+personnages, lieux et objets signature des tomes précédents (grep sur
+la liste de `bible/personnages.md`) dans le nouveau manuscrit — une
+correspondance qui n'est pas un rappel volontaire de la série (comme
+Camille, Mamie Rose ou le père) est presque toujours une contamination
+à corriger.**
+
+**Leçon méthodologique n°11 — rédiger chaque chapitre proche de la
+longueur cible dès le premier jet ne supprime pas le besoin de
+vérification post-expansion, mais en réduit le volume.** Contrairement
+au tome 5 (premier jet très court, ~24 700 mots, puis expansion massive
+jusqu'à 39 612), ce tome a été rédigé directement autour de 2 500-
+3 300 mots par chapitre dès l'écriture initiale, puis complété par des
+vagues d'expansion plus courtes et ciblées jusqu'à la cible. Résultat :
+des bugs réels ont quand même été introduits pendant l'expansion (deux
+phrases dupliquées au sein d'un même chapitre lors de l'ajout de
+contenu juste avant/après un passage existant, dont un doublon complet
+de « Iris hocha la tête, un peu réconfortée par ce plan, même
+incertain. » créé par une insertion mal positionnée), mais en nombre
+nettement inférieur à ce qui avait été observé au tome 5. **Règle :
+démarrer proche de la longueur cible réduit mais n'élimine jamais le
+risque de bug d'expansion — après CHAQUE édition d'ajout de contenu,
+relire immédiatement les quelques lignes avant et après le point
+d'insertion pour vérifier qu'aucune phrase de la version précédente
+n'a été laissée en double.**
+
+**Leçon méthodologique n°12 — un jury peut approuver dès le deuxième
+passage si les corrections du premier round sont appliquées avec
+un vrai effort de variation, pas seulement de suppression.** Le
+premier passage jury (7,8/10) a flagué des répétitions verbatim
+concentrées : « avec un sourire résigné » sur 4 personnages
+différents, « sourire fatigué » ×6, surdosage de « genre de » (jusqu'à
+6 fois dans un seul chapitre), une contradiction de chronologie entre
+deux fins de chapitre consécutives, et des lignes de dialogue
+dupliquées mot pour mot entre deux scènes similaires de deux chapitres
+différents. Chaque correction a été faite en cherchant une formulation
+réellement différente (pas juste un synonyme mécanique) et en
+vérifiant l'absence de nouvelle duplication après coup (voir leçon
+n°7 du tome 5). Le deuxième passage jury a confirmé les 9 points
+corrigés sans qu'aucun n'ait recréé un nouveau doublon, et a noté deux
+défauts mineurs supplémentaires (couleur du caillou souvenir
+incohérente entre chapitre 1 et 12, réplique orpheline sans réponse
+intercalée) qui ont été corrigés avant livraison. **Règle : viser la
+variation réelle plutôt que la simple suppression du mot signalé —
+remplacer « avec un sourire résigné » par un geste ou une action
+différente (hausser les épaules, lever les yeux au ciel) plutôt que
+par un autre adjectif de sourire, qui recrée immédiatement un nouveau
+candidat-gabarit.**
+
+**Bilan chiffré :** rédaction des 12 chapitres en une seule passe
+proche de la longueur cible dès le premier jet, puis expansion ciblée
+jusqu'à 39 501 mots avant le premier passage jury. 2 passages jury
+complets sur le manuscrit fini : 7,8/10 → 9,1/10, seuil formel
+d'acceptation (9,0/10) franchi dès le deuxième passage — une première
+pour la série. Deux correctifs mineurs supplémentaires appliqués de
+façon proactive après le deuxième passage (couleur du caillou,
+réplique orpheline de M. Pujol). Manuscrit final : 39 494 mots (min.
+3237 / max. 3349 mots par chapitre). .docx livré via un nouveau
+`build_docx.py` calqué sur ceux des tomes 2 à 5.

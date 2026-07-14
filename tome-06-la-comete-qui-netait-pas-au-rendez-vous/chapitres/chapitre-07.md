@@ -330,6 +330,9 @@ un prétexte.
 chèvres ne rendent pas les gens aussi sérieux que vous l'êtes,
 d'habitude.
 
+— On a beaucoup de choses en tête, cette semaine, admit Souly, sans
+en dire davantage.
+
 — C'est souvent la même chose, dans mon expérience, dit M. Pujol,
 avec un clin d'œil. Tenez, dernier biscuit du jour, pour vous
 donner des forces.

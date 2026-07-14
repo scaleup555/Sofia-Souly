@@ -508,7 +508,7 @@ attendront cinq minutes de plus.
 
 Sofia, elle, glissa discrètement la main dans sa poche pour
 retrouver, une dernière fois avant le coucher, le petit caillou
-blanc ramassé le premier soir devant la maison de Mamie Rose — le
+gris ramassé le premier soir devant la maison de Mamie Rose — le
 caillou de la comète, comme elle l'avait baptisé, qui rejoindrait
 bientôt, dans sa boîte à Bellerive-sur-Loire, tous les autres
 cailloux ayant, eux aussi, une histoire à raconter.

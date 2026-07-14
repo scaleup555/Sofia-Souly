@@ -3337,6 +3337,9 @@ un prétexte.
 chèvres ne rendent pas les gens aussi sérieux que vous l'êtes,
 d'habitude.
 
+— On a beaucoup de choses en tête, cette semaine, admit Souly, sans
+en dire davantage.
+
 — C'est souvent la même chose, dans mon expérience, dit M. Pujol,
 avec un clin d'œil. Tenez, dernier biscuit du jour, pour vous
 donner des forces.
@@ -6121,7 +6124,7 @@ attendront cinq minutes de plus.
 
 Sofia, elle, glissa discrètement la main dans sa poche pour
 retrouver, une dernière fois avant le coucher, le petit caillou
-blanc ramassé le premier soir devant la maison de Mamie Rose — le
+gris ramassé le premier soir devant la maison de Mamie Rose — le
 caillou de la comète, comme elle l'avait baptisé, qui rejoindrait
 bientôt, dans sa boîte à Bellerive-sur-Loire, tous les autres
 cailloux ayant, eux aussi, une histoire à raconter.

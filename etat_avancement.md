@@ -1,8 +1,8 @@
 # État d'avancement — Série Sofia & Souly
 
-*Dernière mise à jour : Tome 3 réétoffé à ~39 900 mots, finalisé sur
-instruction explicite de l'utilisateur sans atteindre le seuil formel de
-9,0/10 (12/12 chapitres, .docx livré) — 2026-07-13*
+*Dernière mise à jour : Tome 6 rédigé en une seule passe (12/12
+chapitres, ~39 500 mots), approuvé par le jury à 9,1/10 après un
+round de corrections, .docx livré — 2026-07-14*
 
 **À LIRE INTÉGRALEMENT avant de démarrer toute nouvelle session d'écriture**,
 avec `bible/personnages.md` et `bible/lecons_apprises.md` (sections
@@ -322,3 +322,56 @@ dans le récit)).
   terminés** ; tome 5 complet à 39 612 mots (longueur cible de la
   série atteinte), livré à 8,5/10 sans confirmation finale par un 3ᵉ
   passage jury (limite technique, pas un problème de texte).
+
+### Session 12 (tome 6, écriture complète) — 2026-07-14
+- Même consigne explicite que le tome 5 : dialogues privilégiés par
+  rapport au texte narratif/descriptif, cible ~40 000 mots, 12
+  chapitres rédigés en une seule passe, jury dispatché uniquement une
+  fois le manuscrit complet et la longueur atteinte (pas de passage
+  jury à mi-parcours). Consigne supplémentaire : l'ouvrage doit rester
+  « hyper qualitatif, absorbant et drôle par moment ».
+- Thème : astronomie amateur (comètes, mécanique orbitale, télescopes,
+  pollution lumineuse, distinction comète/astéroïde/météoroïde/
+  météore/météorite, temps de trajet de la lumière, tablettes
+  babyloniennes d'éclipses). Décor : Belnuit, observatoire du Pic du
+  Veilleur. Deux nouveaux personnages ajoutés à `bible/personnages.md` :
+  Nadia Ferrand (astronome amatrice, vieille amie de Mamie Rose,
+  chèvre Kepler) et Iris Verdier (11 ans, arrière-arrière-petite-fille
+  du découvreur de la comète).
+- Ledger de chronologie jour par jour rédigé dans `outline.md` avant
+  écriture (décomptes relatifs uniquement, jamais de jour de la
+  semaine nommé pour le suivi interne — les mentions de « samedi »
+  dans le texte sont un fait de l'intrigue : le contrat du sponsor
+  exige un samedi, ce qui motive le choix frauduleux de date par
+  Fabien).
+- Rédaction complète des 12 chapitres en une seule passe à une
+  longueur proche de la cible dès le premier jet (~2 500-3 300 mots/
+  chapitre), contrairement à la méthode du tome 5 (premier jet très
+  court puis nombreuses vagues d'expansion) — tentative délibérée de
+  réduire les bugs introduits par l'expansion tardive. Plusieurs bugs
+  réels ont quand même été détectés et corrigés en cours de rédaction :
+  contamination croisée avec le tome 5 (nom de personnage « Yanis »
+  glissé par erreur dans un dialogue, réplique de Marcel le fermier
+  recopiée presque mot pour mot, callback sur les girolles hors sujet),
+  réintroductions de tics bannis (« imperturbable », « fraction de
+  seconde de trop » + « les bras croisés »), incohérences factuelles
+  (durée de présence de Fabien au village, cycle de la comète annoncé
+  à 90 au lieu de 91 ans), doublons de phrases au sein d'un même
+  chapitre, erreur de lien de parenté (tante d'Iris appelée « Mémé »).
+- 2 passages jury complets sur le manuscrit fini (39 501 mots) :
+  7,8/10 (répétitions verbatim « avec un sourire résigné/fatigué »
+  sur 4 personnages différents, surdosage de « genre de » aux
+  chapitres 1 et 7, contradiction de chronologie entre la fin du
+  chapitre 8 et la fin du chapitre 9 sur le nombre de jours avant le
+  grand soir, dialogues dupliqués mot pour mot entre les chapitres 5
+  et 7) → 9,1/10 (les 9 points corrigés et vérifiés, plus deux
+  correctifs mineurs appliqués de façon proactive : incohérence de
+  couleur du caillou souvenir de Sofia entre le chapitre 1 et le
+  chapitre 12, réplique orpheline de M. Pujol au chapitre 7 sans
+  réponse intercalée des enfants). **Premier tome de la série à
+  franchir le seuil formel de 9,0/10 dès le deuxième passage jury.**
+- Livraison du fichier `.docx` final via un nouveau `build_docx.py`
+  (calqué sur les tomes 2-5). **Tomes 1 à 5 toujours entièrement
+  terminés** ; tome 6 complet à 39 494 mots (longueur cible de la
+  série atteinte), livré à 9,1/10, seuil d'acceptation officiel
+  franchi.
