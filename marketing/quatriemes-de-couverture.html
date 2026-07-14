@@ -1,0 +1,424 @@
+<title>Sofia &amp; Souly — Dossier des quatrièmes de couverture</title>
+<style>
+  :root {
+    --bg: #E7E4D8;
+    --surface: #FFFFFF;
+    --text: #201D16;
+    --text-dim: #6E6656;
+    --accent: #8C6B2A;
+    --border: #D9D3C0;
+    --shadow: rgba(32, 29, 22, 0.14);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #15140F;
+      --surface: #1E1B15;
+      --text: #EDE7D6;
+      --text-dim: #A79C86;
+      --accent: #D4A93B;
+      --border: #34301F;
+      --shadow: rgba(0, 0, 0, 0.45);
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #15140F;
+    --surface: #1E1B15;
+    --text: #EDE7D6;
+    --text-dim: #A79C86;
+    --accent: #D4A93B;
+    --border: #34301F;
+    --shadow: rgba(0, 0, 0, 0.45);
+  }
+  :root[data-theme="light"] {
+    --bg: #E7E4D8;
+    --surface: #FFFFFF;
+    --text: #201D16;
+    --text-dim: #6E6656;
+    --accent: #8C6B2A;
+    --border: #D9D3C0;
+    --shadow: rgba(32, 29, 22, 0.14);
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: Georgia, "Iowan Old Style", "Palatino Linotype", Palatino, serif;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .mono {
+    font-family: "SF Mono", "IBM Plex Mono", Menlo, Consolas, "Courier New", monospace;
+  }
+
+  .wrap {
+    max-width: 1220px;
+    margin: 0 auto;
+    padding: 56px 28px 90px;
+  }
+
+  header.case {
+    border: 1px solid var(--border);
+    background: var(--surface);
+    border-radius: 4px;
+    padding: 30px 32px;
+    margin-bottom: 44px;
+    box-shadow: 0 1px 0 var(--border);
+  }
+
+  .case-eyebrow {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 14px;
+  }
+
+  .case-eyebrow .dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: var(--accent);
+  }
+
+  h1 {
+    font-size: clamp(28px, 4vw, 40px);
+    line-height: 1.15;
+    margin: 0 0 12px;
+    text-wrap: balance;
+    font-weight: 700;
+  }
+
+  .case-sub {
+    color: var(--text-dim);
+    font-size: 15.5px;
+    line-height: 1.6;
+    max-width: 62ch;
+    margin: 0;
+  }
+
+  .case-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px 26px;
+    margin-top: 22px;
+    padding-top: 20px;
+    border-top: 1px dashed var(--border);
+  }
+
+  .case-meta div {
+    font-size: 11.5px;
+  }
+
+  .case-meta .k {
+    display: block;
+    color: var(--text-dim);
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    margin-bottom: 3px;
+    font-size: 10px;
+  }
+
+  .case-meta .v {
+    font-family: Georgia, serif;
+    font-size: 14px;
+  }
+
+  /* ---- board ---- */
+
+  .board {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+    gap: 30px;
+  }
+
+  .pin {
+    position: relative;
+    border-radius: 3px;
+    overflow: hidden;
+    box-shadow: 0 10px 26px var(--shadow), 0 1px 0 rgba(0,0,0,0.2);
+    aspect-ratio: 5.5 / 8.5;
+    display: flex;
+    flex-direction: column;
+    transition: transform 220ms ease;
+    color: var(--cover-ink);
+    background: var(--cover-bg);
+  }
+
+  .pin:hover { transform: translateY(-4px); }
+
+  @media (prefers-reduced-motion: reduce) {
+    .pin { transition: none; }
+    .pin:hover { transform: none; }
+  }
+
+  .pin::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background-image: var(--cover-pattern);
+    opacity: 0.5;
+    pointer-events: none;
+  }
+
+  .pin-tab {
+    position: absolute;
+    top: 14px;
+    left: 14px;
+    font-family: "SF Mono", "IBM Plex Mono", Menlo, Consolas, monospace;
+    font-size: 10.5px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--cover-ink);
+    opacity: 0.72;
+    z-index: 2;
+  }
+
+  .pin-body {
+    position: relative;
+    z-index: 1;
+    padding: 46px 20px 18px;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+
+  .pin-title {
+    font-size: 19px;
+    font-weight: 700;
+    line-height: 1.22;
+    margin: 0 0 14px;
+    text-wrap: balance;
+    color: var(--cover-ink);
+  }
+
+  .pin-blurb {
+    font-size: 12.3px;
+    line-height: 1.62;
+    color: var(--cover-ink);
+    opacity: 0.94;
+    flex: 1;
+    overflow: hidden;
+  }
+
+  .pin-blurb p { margin: 0 0 0.85em; }
+  .pin-blurb p:last-child { margin-bottom: 0; }
+  .pin-blurb em {
+    display: block;
+    margin-top: 0.85em;
+    font-style: italic;
+    opacity: 0.85;
+  }
+
+  .pin-footer {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 10px;
+    margin-top: 14px;
+    padding-top: 12px;
+    border-top: 1px solid var(--cover-ink);
+    border-top-color: color-mix(in srgb, var(--cover-ink) 28%, transparent);
+  }
+
+  .pin-age {
+    font-family: "SF Mono", "IBM Plex Mono", Menlo, Consolas, monospace;
+    font-size: 9.5px;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    opacity: 0.75;
+  }
+
+  .barcode {
+    display: flex;
+    gap: 1.5px;
+    align-items: flex-end;
+    height: 22px;
+    opacity: 0.8;
+  }
+  .barcode span {
+    display: block;
+    width: 2px;
+    background: var(--cover-ink);
+  }
+
+  .copy-btn {
+    position: absolute;
+    bottom: 14px;
+    right: 14px;
+    z-index: 3;
+    font-family: "SF Mono", "IBM Plex Mono", Menlo, Consolas, monospace;
+    font-size: 10px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    background: color-mix(in srgb, var(--cover-ink) 12%, transparent);
+    color: var(--cover-ink);
+    border: 1px solid color-mix(in srgb, var(--cover-ink) 40%, transparent);
+    border-radius: 3px;
+    padding: 6px 9px;
+    cursor: pointer;
+    opacity: 0;
+    transition: opacity 160ms ease, background 160ms ease;
+  }
+  .pin:hover .copy-btn, .copy-btn:focus-visible { opacity: 1; }
+  .copy-btn:hover { background: color-mix(in srgb, var(--cover-ink) 22%, transparent); }
+  .copy-btn:focus-visible { outline: 2px solid var(--cover-ink); outline-offset: 2px; }
+  .copy-btn.copied { opacity: 1; }
+
+  footer.note {
+    margin-top: 46px;
+    font-size: 12.5px;
+    color: var(--text-dim);
+    text-align: center;
+    line-height: 1.7;
+  }
+</style>
+
+<div class="wrap">
+  <header class="case">
+    <div class="case-eyebrow"><span class="dot"></span><span class="mono">Carnet des Preuves — usage éditorial</span></div>
+    <h1>Sofia &amp; Souly — quatrièmes de couverture</h1>
+    <p class="case-sub">Cinq résumés prêts à l'impression, un par tome, calibrés pour le dos du
+    livre : accroche, enjeu, sans dévoiler les deux twists. Survolez une couverture
+    pour copier son texte.</p>
+    <div class="case-meta">
+      <div><span class="k">Série</span><span class="v mono">5 tomes</span></div>
+      <div><span class="k">Format</span><span class="v mono">12 ch. · ~40 000 mots</span></div>
+      <div><span class="k">Lectorat</span><span class="v mono">dès 8 ans</span></div>
+      <div><span class="k">Statut</span><span class="v mono">tomes 1–5 livrés</span></div>
+    </div>
+  </header>
+
+  <div class="board" id="board"></div>
+
+  <footer class="note">Texte source également disponible dans<br><span class="mono">marketing/quatriemes-de-couverture.md</span></footer>
+</div>
+
+<script>
+const TOMES = [
+  {
+    n: "01",
+    title: "Le Pharaon qui avait peur du noir",
+    ink: "#EAE0C4",
+    bg: "#171233",
+    pattern: "radial-gradient(circle at 85% 12%, rgba(201,162,39,0.35), transparent 45%), repeating-linear-gradient(115deg, rgba(234,224,196,0.05) 0 2px, transparent 2px 26px)",
+    paras: [
+      "Une caisse en bois vieille de trois mille ans. Une malédiction que tout le monde chuchote. Et une question que personne n'ose poser tout haut : et si c'était vrai ?",
+      "Quand Grand-oncle Théo revient d'Égypte avec « la plus belle pièce de sa carrière », Sofia et Souly ne s'attendaient pas à passer leurs vacances à déchiffrer des hiéroglyphes vieux de trois millénaires. Mais dès la première nuit, les lumières du musée clignotent, des objets disparaissent des vitrines, et Bellerive-sur-Loire tout entière se met à croire à la vengeance d'un pharaon en colère.",
+      "Pendant que les adultes s'affolent, Sofia (8 ans, toujours en baskets dépareillées) et Souly (12 ans, son Carnet des Preuves toujours à portée de main) enquêtent. Entre un suspect trop louche pour être honnête et un coupable trop charmant pour être soupçonné, la vérité se cache où personne ne regarde."
+    ],
+    tagline: "Premier tome d'une série où l'Histoire, la science... et deux enfants qui ne lâchent jamais une question sans réponse, mènent l'enquête."
+  },
+  {
+    n: "02",
+    title: "Le Volcan qui avait la migraine",
+    ink: "#F3E6DA",
+    bg: "#2A211C",
+    pattern: "radial-gradient(circle at 12% 88%, rgba(217,98,47,0.45), transparent 50%), radial-gradient(circle at 80% 20%, rgba(217,98,47,0.2), transparent 40%)",
+    paras: [
+      "Un volcan endormi depuis trois mille ans. Une station thermale qui doit ouvrir dans quelques jours. Et des capteurs sismiques qui, soudain, ne racontent plus la même histoire que la terre.",
+      "À Roche-Fumée-les-Bains, tout le monde s'apprête à fêter l'inauguration du siècle... sauf le volcanologue Karim, qui jure que le Grand Sombre gronde pour de vrai. Une jeune militante accusée de tout saboter, une promotrice pressée d'encaisser les billets, et un vieux dicton local pris pour une comptine sans importance.",
+      "Sofia et Souly, en vacances chez leur grand-mère, ne comptaient pas s'occuper de sismographes. Mais quand les chiffres ne collent plus et que la mauvaise personne se retrouve accusée, ils sortent le Carnet des Preuves."
+    ],
+    tagline: "Deuxième tome d'une série où la science, l'aventure et deux enquêteurs pas comme les autres ne laissent jamais une question sans réponse."
+  },
+  {
+    n: "03",
+    title: "L'Océan qui avait de la fièvre",
+    ink: "#DCEFE9",
+    bg: "#0D3B3B",
+    pattern: "repeating-radial-gradient(circle at 20% 10%, rgba(255,122,99,0.18) 0 2px, transparent 2px 34px), radial-gradient(circle at 90% 90%, rgba(255,122,99,0.3), transparent 45%)",
+    paras: [
+      "Un lagon qui blanchit à vue d'œil. Un pêcheur accusé par tout le village. Et une règle transmise depuis quatre générations que plus personne ne prend au sérieux... jusqu'à ce que Sofia et Souly décident de vérifier.",
+      "À Anse-Bleue, le corail se meurt, et tous les regards se tournent vers le bateau de M. Técher, vu près du récif abîmé. Son fils Noah, apnéiste hors pair, jure que son père n'y est pour rien — mais qui va croire un pêcheur contre une entreprise qui fait vivre la moitié de la ville ?",
+      "Entre relevés scientifiques, plongées secrètes et un vieux savoir de famille sur « les jours où le lagon se repose », Sofia et Souly vont devoir choisir entre ce que tout le monde répète... et ce qu'ils voient vraiment."
+    ],
+    tagline: "Troisième tome d'une série où la science, l'aventure et deux enquêteurs infatigables ne laissent jamais une question sans réponse."
+  },
+  {
+    n: "04",
+    title: "Le Dinosaure qui avait menti",
+    ink: "#F3E9D9",
+    bg: "#7A3B26",
+    pattern: "repeating-linear-gradient(0deg, rgba(243,233,217,0.08) 0 3px, transparent 3px 22px), radial-gradient(circle at 88% 85%, rgba(193,145,63,0.35), transparent 45%)",
+    paras: [
+      "Un fossile à couper le souffle. Un chantier vandalisé chaque nuit. Et une découverte si extraordinaire que personne ne pense à se demander... si elle est vraiment vraie.",
+      "À Roc-Rouge, l'équipe du Dr Castellane vient de mettre au jour la trouvaille du siècle. Sauf que quelqu'un s'introduit sur le site toutes les nuits, et que les soupçons tombent aussitôt sur la stagiaire la plus discrète de l'équipe.",
+      "Sofia et Souly, en vacances au milieu des marnes rouges, ne laissent jamais une accusation sans preuve. Avec Milo, petit-fils d'un fermier du coin, ils vont creuser bien plus profond que prévu — et découvrir qu'un fossile peut mentir presque aussi bien qu'un adulte."
+    ],
+    tagline: "Quatrième tome d'une série où la science, l'aventure et deux enquêteurs tenaces ne laissent jamais une question sans réponse."
+  },
+  {
+    n: "05",
+    title: "La Truffe qui n'était pas d'ici",
+    ink: "#E6E1CF",
+    bg: "#241C13",
+    pattern: "radial-gradient(circle at 15% 15%, rgba(200,150,62,0.32), transparent 40%), repeating-linear-gradient(60deg, rgba(230,225,207,0.05) 0 1px, transparent 1px 18px)",
+    paras: [
+      "Une truffe record. Un marché qui s'apprête à fêter son plus beau coup. Et une odeur, tout au fond d'un hangar, qui ne sent pas tout à fait le Périgord.",
+      "À Clairval, tout le village n'a d'yeux que pour la trouvaille de Grégoire, l'organisateur adoré du marché aux truffes. Pendant ce temps, un vieux trufficulteur respecté se retrouve accusé de tricher — sur la seule foi de ses promenades nocturnes dans sa propre forêt.",
+      "Sofia et Souly se lient d'amitié avec Yanis, petit-fils du principal suspect. Entre une camionnette aux plaques espagnoles, un cadenas trop neuf et une tradition familiale que tout le monde raille, les indices ne pointent pas où le croit le village."
+    ],
+    tagline: "Cinquième tome d'une série où la science, l'aventure et deux enquêteurs qui ne lâchent jamais l'affaire ne laissent jamais une question sans réponse."
+  }
+];
+
+const board = document.getElementById("board");
+
+function barcode(seed) {
+  let bars = "";
+  let s = seed;
+  for (let i = 0; i < 28; i++) {
+    s = (s * 9301 + 49297) % 233280;
+    const h = 8 + Math.round((s / 233280) * 14);
+    bars += `<span style="height:${h}px"></span>`;
+  }
+  return bars;
+}
+
+TOMES.forEach((t, i) => {
+  const el = document.createElement("article");
+  el.className = "pin";
+  el.style.setProperty("--cover-ink", t.ink);
+  el.style.setProperty("--cover-bg", t.bg);
+  el.style.setProperty("--cover-pattern", t.pattern);
+
+  const fullText = `TOME ${t.n} — ${t.title}\n\n${t.paras.join("\n\n")}\n\n${t.tagline}\n\nDès 8 ans. 12 chapitres, une énigme, deux twists.`;
+
+  el.innerHTML = `
+    <div class="pin-tab">Dossier n° ${t.n} / 05</div>
+    <button class="copy-btn" type="button" aria-label="Copier le texte du tome ${t.n}">Copier</button>
+    <div class="pin-body">
+      <h2 class="pin-title">${t.title}</h2>
+      <div class="pin-blurb">
+        ${t.paras.map(p => `<p>${p}</p>`).join("")}
+        <em>${t.tagline}</em>
+      </div>
+      <div class="pin-footer">
+        <span class="pin-age">Dès 8 ans<br>12 chapitres</span>
+        <span class="barcode">${barcode(i + 7)}</span>
+      </div>
+    </div>
+  `;
+
+  const btn = el.querySelector(".copy-btn");
+  btn.addEventListener("click", async (e) => {
+    e.stopPropagation();
+    try {
+      await navigator.clipboard.writeText(fullText);
+      btn.textContent = "Copié ✓";
+      btn.classList.add("copied");
+      setTimeout(() => { btn.textContent = "Copier"; btn.classList.remove("copied"); }, 1800);
+    } catch (err) {
+      btn.textContent = "Erreur";
+    }
+  });
+
+  board.appendChild(el);
+});
+</script>
