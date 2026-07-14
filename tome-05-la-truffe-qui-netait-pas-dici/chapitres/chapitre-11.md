@@ -277,7 +277,7 @@ Souly, qui avait sorti son carnet malgré le froid mordant, écrivait
 fébrilement, s'arrêtant de temps à autre pour relire ce qu'il venait
 de noter.
 
-— C'est le genre de chose qu'il faudrait enseigner à l'école, dit-il,
+— On devrait enseigner ça à l'école, dit-il,
 en refermant enfin son carnet. Personne ne m'a jamais expliqué ça,
 avant cette semaine.
 
@@ -472,9 +472,9 @@ dix fois dans la même journée ? demanda Sofia.
 — Et la partie où j'ai compté jusqu'à trois derrière les cageots ?
 demanda Souly, un peu moins enthousiaste à l'idée.
 
-— Celle-là aussi, dit Yanis, avec un sourire qui n'annonçait rien de
-bon pour la fierté de Souly. Toute l'histoire, du début à la fin.
-Sans rien couper.
+— Celle-là aussi, dit Yanis, en se retenant visiblement de rire, ce
+qui n'était pas franchement bon signe pour la fierté de Souly. Toute
+l'histoire, du début à la fin. Sans rien couper.
 
 — Génial, dit Souly, pas franchement convaincu que ce soit vraiment
 une bonne idée.

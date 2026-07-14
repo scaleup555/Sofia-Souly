@@ -330,9 +330,8 @@ pas résonnèrent sur le sol en béton — des pas lourds, mesurés, qui
 s'approchaient dangereusement de leur cachette.
 
 Sofia retint son souffle. À côté d'elle, elle sentit Souly qui, sans
-un bruit, remuait imperceptiblement les lèvres — « un, deux, trois » —
-comme il le faisait toujours quand la peur menaçait de prendre le
-dessus.
+un bruit, remuait les lèvres — « un, deux, trois » — comme il le
+faisait toujours quand la peur menaçait de prendre le dessus.
 
 Les pas s'arrêtèrent tout près des caisses espagnoles. Une voix
 d'homme, qu'aucun des trois enfants ne reconnut immédiatement, marmonna
@@ -342,10 +341,10 @@ entendre : celui d'une caisse qu'on traînait sur le sol.
 — C'est pas Grégoire, murmura Yanis, presque inaudible. La voix est
 différente.
 
-Yanis se pencha imperceptiblement pour risquer un œil entre deux
-cageots, puis se rétracta aussitôt, le visage blême.
+Yanis risqua un œil entre deux cageots, puis se rétracta aussitôt,
+le visage blême.
 
-— Je ne le reconnais pas, souffla-t-il. Un genre d'employé, en
+— Je ne le reconnais pas, souffla-t-il. Un employé, sans doute, en
 salopette. Il décharge quelque chose d'une caisse.
 
 — Décharge quoi ? chuchota Sofia, incapable de résister à la

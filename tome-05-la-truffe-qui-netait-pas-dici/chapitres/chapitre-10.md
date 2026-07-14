@@ -157,7 +157,7 @@ un lot présenté par cette famille. Pas une seule fois.
 
 Un murmure parcourut la foule, différent de celui qui avait accueilli
 Grégoire quelques jours plus tôt — plus posé, plus réfléchi. Yanis
-serra la main de Sofia, sans un mot, les yeux brillants.
+serra la main de Sofia, sans un mot, la gorge visiblement nouée.
 
 Jusqu'à ce que vienne le tour de Grégoire.
 
@@ -222,7 +222,7 @@ sens ou dans l'autre.
 
 — Je ne peux pas, souffla Yanis. Dis-moi juste quand c'est fini.
 
-— Odile, dit Delphine, sans lever les yeux de l'oculaire. Viens
+— Odile, dit Delphine, l'œil toujours collé à l'oculaire. Viens
 confirmer ce que je vois.
 
 Odile s'approcha, regarda à son tour, et son visage se ferma d'un
@@ -314,8 +314,9 @@ décide enfin.
 — On te faisait confiance, Grégoire, dit-il, plus triste que fâché.
 Depuis dix ans.
 
-— Je sais, dit Grégoire, sans lever les yeux. Je sais exactement ce
-que j'ai brisé, et je sais que ça ne se répare pas avec des excuses.
+— Je sais, dit Grégoire, le regard rivé sur ses chaussures. Je sais
+exactement ce que j'ai brisé, et je sais que ça ne se répare pas avec
+des excuses.
 
 — Et Marcel ? demanda quelqu'un d'autre dans la foule. Vous saviez
 qu'on le soupçonnait, pendant tout ce temps ?
@@ -428,8 +429,8 @@ une fois la petite foule dispersée.
 — Je le suis, un peu, avoua Marcel. Mais la colère ne répare rien. La
 vérité, si. Alors je préfère m'accrocher à la vérité.
 
-Yanis, resté silencieux depuis le début de la scène, se tourna vers
-Sofia et Souly, les yeux brillants.
+Yanis, resté silencieux depuis le début de la scène, se tourna enfin
+vers Sofia et Souly.
 
 — Vous avez réussi, dit-il, la voix un peu cassée. Vous avez vraiment
 réussi.

@@ -46,8 +46,8 @@ céréales.
 
 — Ou juste très fier, corrigea Odile. On verra bien. Vous venez ?
 
-— On ne raterait ça pour rien au monde, dit Sofia, avec un tel
-sérieux que Souly leva les yeux au ciel.
+— On ne raterait ça pour rien au monde, dit Sofia, si gravement que
+Souly leva les yeux au ciel.
 
 — On devrait se dépêcher, non ? demanda Sofia, déjà debout près de la
 porte. Si tout le village y va, les meilleures places vont partir
@@ -241,8 +241,9 @@ Il souleva précautionneusement la truffe à deux mains et la déposa sur
 le plateau d'une balance de précision installée à côté du drap blanc.
 L'aiguille grimpa, hésita, puis se stabilisa.
 
-— Neuf cents grammes, annonça Grégoire, la voix vibrante d'émotion
-soigneusement calculée. Presque le double du record précédent de la
+— Neuf cents grammes, annonça Grégoire, la voix vibrante d'une
+émotion qui, aux yeux de Sofia, sonnait un peu trop répétée pour être
+tout à fait sincère. Presque le double du record précédent de la
 région, qui datait de 1987. Trouvée hier, à l'aube, dans un coin que
 je connais depuis trente ans.
 
@@ -484,7 +485,7 @@ je parle sans réfléchir, comme tout le monde.
 
 — C'est une pensée étonnamment sage, pour un enfant de douze ans.
 
-— Je grandis vite, cette semaine, dit Souly, avec un demi-sourire.
+— Je grandis vite, cette semaine, dit Souly, mi-fier, mi-gêné.
 
 Sofia et Souly échangèrent un regard entendu, mais ne dirent rien de
 plus ce soir-là.
@@ -523,10 +524,10 @@ promis.
 — Fais quand même attention, dit Souly. On a déjà eu assez de frayeurs
 pour la semaine.
 
-— On n'a encore rien vu, dit Yanis, avec un sourire qui n'était pas
-tout à fait rassurant.
+— On n'a encore rien vu, dit Yanis, avec un petit rire qui manquait
+singulièrement de conviction.
 
-— Trois jours avant le marché, murmura Souly, en consultant son
+— Quatre jours avant le marché, murmura Souly, en consultant son
 carnet. Ça ne nous laisse plus beaucoup de temps, dans un sens ou dans
 l'autre.
 

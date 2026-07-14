@@ -430,9 +430,8 @@ lisière du bois.
 — Le voilà, souffla Souly.
 
 Ils observèrent, en silence, la silhouette de Marcel avancer entre les
-arbres, s'arrêter, s'agenouiller, étaler quelque chose sur le sol —
-de la paille, très certainement — puis se relever et continuer vers
-l'arbre suivant.
+arbres, s'arrêter, s'agenouiller, étaler de la paille sur le sol,
+puis se relever et continuer vers l'arbre suivant.
 
 — Il fait exactement ce qu'il a dit, murmura Sofia. Il protège ses
 arbres. C'est tout.

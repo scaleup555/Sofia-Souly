@@ -215,8 +215,8 @@ jamais demandé avant. D'habitude, les gens qui viennent visiter
 trouvent juste que « c'est joli, la forêt » et repartent sans vraiment
 regarder.
 
-— Nous, on regarde toujours vraiment, dit Sofia, avec une conviction
-qui ne laissait aucune place au doute. C'est notre spécialité.
+— Nous, on regarde toujours vraiment, dit Sofia, sans la moindre
+hésitation. C'est notre spécialité.
 
 Yanis les emmena vers un troisième arbre, plus jeune que le Vieux
 Gardien, planté en bordure de la parcelle.
@@ -249,8 +249,8 @@ pour les gens.
 — Ton grand-père a une phrase pour absolument tout, remarqua Sofia,
 mi-amusée, mi-admirative.
 
-— Vous n'avez encore rien vu, dit Yanis, avec un vrai sourire.
-Attendez qu'il commence à parler de la lune et des marées. Il peut
+— Vous n'avez encore rien vu, dit Yanis, un vrai sourire aux lèvres
+cette fois. Attendez qu'il commence à parler de la lune et des marées. Il peut
 continuer pendant une heure sans reprendre son souffle.
 
 — La lune et les marées, ça a un rapport avec les truffes ? demanda
@@ -305,7 +305,7 @@ qu'il est discret ?
 
 — C'est complètement débile.
 
-— Merci, dit Yanis, avec un vrai sourire, cette fois. C'est exactement
+— Merci, dit Yanis, en riant franchement, cette fois. C'est exactement
 ce que je pense aussi, mais ça fait du bien de l'entendre dire par
 quelqu'un d'autre.
 

@@ -465,8 +465,8 @@ toujours.
 d'avoir envie de continuer quelque chose que tout le monde regarde
 avec autant de soupçon.
 
-— Ça va changer, dit Sofia, avec une conviction qui ne semblait pas
-tout à fait raisonnable, vu ce qu'ils savaient encore à ce stade.
+— Ça va changer, dit Sofia, d'un ton qui ne souffrait aucune
+discussion, même si rien, à ce stade, ne le justifiait vraiment.
 
 — J'aimerais te croire, dit Yanis.
 

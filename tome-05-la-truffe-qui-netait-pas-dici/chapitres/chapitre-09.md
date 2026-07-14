@@ -320,8 +320,8 @@ tête —, c'est extrêmement compromettant.
 
 — On ne l'a pas fabriqué, protesta Sofia, offensée.
 
-— Je vous crois, dit Delphine, sans même lever les yeux. Mais croire
-ne suffit jamais. Il nous faut la preuve scientifique, définitive,
+— Je vous crois, dit Delphine, toujours penchée sur les photos. Mais
+croire ne suffit jamais. Il nous faut la preuve scientifique, définitive,
 irréfutable. Un bon de livraison peut toujours s'expliquer autrement,
 si quelqu'un a de l'imagination et un bon avocat.
 
@@ -371,8 +371,7 @@ pas vraiment à se concentrer.
 — C'est joli, ton dessin, dit-elle. On dirait un vrai filet de pêche
 miniature.
 
-— C'est exactement le but, dit Souly, sans lever les yeux de son
-carnet.
+— C'est exactement le but, dit Souly, tout à son croquis.
 
 — Le marché, dit Souly, lentement. Elle doit être présentée au jury
 pour certification avant le marché, non ? C'est ce qu'il a dit
@@ -516,8 +515,8 @@ qu'on oublie tous.
 
 — J'espère que celui-là comptera pour la bonne raison, dit Yanis.
 
-— Il comptera, dit Sofia, avec une conviction qui ne souffrait
-aucune discussion. Une manière ou une autre, il comptera.
+— Il comptera, dit Sofia, sans le moindre doute dans la voix. Une
+manière ou une autre, il comptera.
 
 Personne ne protesta, et ils restèrent ainsi un moment, silencieux,
 regardant les dernières lumières du village s'éteindre une à une.

@@ -95,7 +95,7 @@ Souly. On devrait faire vite.
 — Trois jours avant le marché, dit Sofia. On n'a pas vraiment le
 choix de faire vite ou pas.
 
-— Vous faites souvent ce genre de vérification, chez vous, à
+— Vous faites souvent ce type de vérification, chez vous, à
 Bellerive ? demanda Yanis.
 
 — Constamment, dit Sofia. La dernière fois, c'était pour un voisin
@@ -409,8 +409,8 @@ entre les toits.
 — Il y a peut-être un autre moyen d'avoir des preuves, dit-il. Un
 moyen qui ne demande pas la permission de Grégoire.
 
-Sofia se redressa d'un coup, les yeux brillants d'une excitation
-qu'elle ne chercha même pas à cacher.
+Sofia se redressa d'un coup, incapable de cacher son excitation plus
+longtemps.
 
 — J'aime déjà cette phrase, dit-elle.
 
@@ -493,7 +493,7 @@ absence.
 — Vingt-deux heures, confirma Souly, en notant l'heure dans son
 carnet comme s'il s'agissait d'un rendez-vous officiel.
 
-— Comment on s'habille, pour ce genre d'expédition ? demanda Sofia.
+— Comment on s'habille, pour une expédition pareille ? demanda Sofia.
 Sombre, je suppose ?
 
 — Sombre, et chaud, dit Yanis. La nuit tombe vite en cette saison, et

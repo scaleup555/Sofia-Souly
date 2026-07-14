@@ -311,7 +311,7 @@ d'un coup.
 Adjugée ! À monsieur, au premier rang !
 
 Un tonnerre d'applaudissements éclata. Marcel, sur l'estrade, se
-tourna vers Yanis, les yeux brillants.
+tourna vers Yanis, visiblement submergé par l'émotion.
 
 — Trois mille euros, répéta Yanis, incrédule. Pour une seule truffe.
 
@@ -473,8 +473,8 @@ s'est cachés dans un hangar, et Praline a trouvé plus d'un kilo, et...
 — Un hangar ? répéta Camille, en se tournant vers Odile avec un
 regard qui en disait long.
 
-— On en reparlera autour d'un café, dit Odile, un sourire aux lèvres
-qui n'annonçait rien de rassurant. Une longue conversation, avec
+— On en reparlera autour d'un café, dit Odile, d'un calme un peu trop
+appuyé pour être vraiment rassurant. Une longue conversation, avec
 beaucoup de café.
 
 Le papa des enfants, encore chargé de deux valises, regarda tour à

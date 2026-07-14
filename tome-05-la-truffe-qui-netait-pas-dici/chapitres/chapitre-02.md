@@ -263,8 +263,8 @@ champignon brun-orangé, à moitié caché sous des feuilles mortes.
 — Odile ! Regarde ! J'ai trouvé une truffe !
 
 Odile se pencha, examina le champignon une demi-seconde, et son
-sourire s'élargit d'une manière qui n'annonçait rien de bon pour
-Sofia.
+sourire s'élargit — ce sourire précis que Sofia commençait déjà à
+reconnaître comme celui qui précède une déception.
 
 — Ce n'est pas une truffe, dit-elle doucement.
 

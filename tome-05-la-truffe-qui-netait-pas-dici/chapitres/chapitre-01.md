@@ -396,7 +396,7 @@ surprendre tous cette année. Vraiment. Vous allez voir.
 — Ah oui ? dit Odile, un sourcil levé. Tu ne veux toujours rien me
 dire ?
 
-— Pas avant l'heure, dit Grégoire, avec un clin d'œil. Le suspense
+— Pas avant l'heure, dit Grégoire, l'œil malicieux. Le suspense
 fait partie du métier, Odile, tu le sais mieux que personne.
 
 Il repartit presque aussi vite qu'il était arrivé, non sans avoir

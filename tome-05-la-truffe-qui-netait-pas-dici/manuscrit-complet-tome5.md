@@ -398,7 +398,7 @@ surprendre tous cette année. Vraiment. Vous allez voir.
 — Ah oui ? dit Odile, un sourcil levé. Tu ne veux toujours rien me
 dire ?
 
-— Pas avant l'heure, dit Grégoire, avec un clin d'œil. Le suspense
+— Pas avant l'heure, dit Grégoire, l'œil malicieux. Le suspense
 fait partie du métier, Odile, tu le sais mieux que personne.
 
 Il repartit presque aussi vite qu'il était arrivé, non sans avoir
@@ -805,8 +805,8 @@ champignon brun-orangé, à moitié caché sous des feuilles mortes.
 — Odile ! Regarde ! J'ai trouvé une truffe !
 
 Odile se pencha, examina le champignon une demi-seconde, et son
-sourire s'élargit d'une manière qui n'annonçait rien de bon pour
-Sofia.
+sourire s'élargit — ce sourire précis que Sofia commençait déjà à
+reconnaître comme celui qui précède une déception.
 
 — Ce n'est pas une truffe, dit-elle doucement.
 
@@ -1279,8 +1279,8 @@ jamais demandé avant. D'habitude, les gens qui viennent visiter
 trouvent juste que « c'est joli, la forêt » et repartent sans vraiment
 regarder.
 
-— Nous, on regarde toujours vraiment, dit Sofia, avec une conviction
-qui ne laissait aucune place au doute. C'est notre spécialité.
+— Nous, on regarde toujours vraiment, dit Sofia, sans la moindre
+hésitation. C'est notre spécialité.
 
 Yanis les emmena vers un troisième arbre, plus jeune que le Vieux
 Gardien, planté en bordure de la parcelle.
@@ -1313,8 +1313,8 @@ pour les gens.
 — Ton grand-père a une phrase pour absolument tout, remarqua Sofia,
 mi-amusée, mi-admirative.
 
-— Vous n'avez encore rien vu, dit Yanis, avec un vrai sourire.
-Attendez qu'il commence à parler de la lune et des marées. Il peut
+— Vous n'avez encore rien vu, dit Yanis, un vrai sourire aux lèvres
+cette fois. Attendez qu'il commence à parler de la lune et des marées. Il peut
 continuer pendant une heure sans reprendre son souffle.
 
 — La lune et les marées, ça a un rapport avec les truffes ? demanda
@@ -1369,7 +1369,7 @@ qu'il est discret ?
 
 — C'est complètement débile.
 
-— Merci, dit Yanis, avec un vrai sourire, cette fois. C'est exactement
+— Merci, dit Yanis, en riant franchement, cette fois. C'est exactement
 ce que je pense aussi, mais ça fait du bien de l'entendre dire par
 quelqu'un d'autre.
 
@@ -2062,8 +2062,8 @@ toujours.
 d'avoir envie de continuer quelque chose que tout le monde regarde
 avec autant de soupçon.
 
-— Ça va changer, dit Sofia, avec une conviction qui ne semblait pas
-tout à fait raisonnable, vu ce qu'ils savaient encore à ce stade.
+— Ça va changer, dit Sofia, d'un ton qui ne souffrait aucune
+discussion, même si rien, à ce stade, ne le justifiait vraiment.
 
 — J'aimerais te croire, dit Yanis.
 
@@ -2554,9 +2554,8 @@ lisière du bois.
 — Le voilà, souffla Souly.
 
 Ils observèrent, en silence, la silhouette de Marcel avancer entre les
-arbres, s'arrêter, s'agenouiller, étaler quelque chose sur le sol —
-de la paille, très certainement — puis se relever et continuer vers
-l'arbre suivant.
+arbres, s'arrêter, s'agenouiller, étaler de la paille sur le sol,
+puis se relever et continuer vers l'arbre suivant.
 
 — Il fait exactement ce qu'il a dit, murmura Sofia. Il protège ses
 arbres. C'est tout.
@@ -2693,8 +2692,8 @@ céréales.
 
 — Ou juste très fier, corrigea Odile. On verra bien. Vous venez ?
 
-— On ne raterait ça pour rien au monde, dit Sofia, avec un tel
-sérieux que Souly leva les yeux au ciel.
+— On ne raterait ça pour rien au monde, dit Sofia, si gravement que
+Souly leva les yeux au ciel.
 
 — On devrait se dépêcher, non ? demanda Sofia, déjà debout près de la
 porte. Si tout le village y va, les meilleures places vont partir
@@ -2888,8 +2887,9 @@ Il souleva précautionneusement la truffe à deux mains et la déposa sur
 le plateau d'une balance de précision installée à côté du drap blanc.
 L'aiguille grimpa, hésita, puis se stabilisa.
 
-— Neuf cents grammes, annonça Grégoire, la voix vibrante d'émotion
-soigneusement calculée. Presque le double du record précédent de la
+— Neuf cents grammes, annonça Grégoire, la voix vibrante d'une
+émotion qui, aux yeux de Sofia, sonnait un peu trop répétée pour être
+tout à fait sincère. Presque le double du record précédent de la
 région, qui datait de 1987. Trouvée hier, à l'aube, dans un coin que
 je connais depuis trente ans.
 
@@ -3131,7 +3131,7 @@ je parle sans réfléchir, comme tout le monde.
 
 — C'est une pensée étonnamment sage, pour un enfant de douze ans.
 
-— Je grandis vite, cette semaine, dit Souly, avec un demi-sourire.
+— Je grandis vite, cette semaine, dit Souly, mi-fier, mi-gêné.
 
 Sofia et Souly échangèrent un regard entendu, mais ne dirent rien de
 plus ce soir-là.
@@ -3170,10 +3170,10 @@ promis.
 — Fais quand même attention, dit Souly. On a déjà eu assez de frayeurs
 pour la semaine.
 
-— On n'a encore rien vu, dit Yanis, avec un sourire qui n'était pas
-tout à fait rassurant.
+— On n'a encore rien vu, dit Yanis, avec un petit rire qui manquait
+singulièrement de conviction.
 
-— Trois jours avant le marché, murmura Souly, en consultant son
+— Quatre jours avant le marché, murmura Souly, en consultant son
 carnet. Ça ne nous laisse plus beaucoup de temps, dans un sens ou dans
 l'autre.
 
@@ -3295,7 +3295,7 @@ Souly. On devrait faire vite.
 — Trois jours avant le marché, dit Sofia. On n'a pas vraiment le
 choix de faire vite ou pas.
 
-— Vous faites souvent ce genre de vérification, chez vous, à
+— Vous faites souvent ce type de vérification, chez vous, à
 Bellerive ? demanda Yanis.
 
 — Constamment, dit Sofia. La dernière fois, c'était pour un voisin
@@ -3609,8 +3609,8 @@ entre les toits.
 — Il y a peut-être un autre moyen d'avoir des preuves, dit-il. Un
 moyen qui ne demande pas la permission de Grégoire.
 
-Sofia se redressa d'un coup, les yeux brillants d'une excitation
-qu'elle ne chercha même pas à cacher.
+Sofia se redressa d'un coup, incapable de cacher son excitation plus
+longtemps.
 
 — J'aime déjà cette phrase, dit-elle.
 
@@ -3693,7 +3693,7 @@ absence.
 — Vingt-deux heures, confirma Souly, en notant l'heure dans son
 carnet comme s'il s'agissait d'un rendez-vous officiel.
 
-— Comment on s'habille, pour ce genre d'expédition ? demanda Sofia.
+— Comment on s'habille, pour une expédition pareille ? demanda Sofia.
 Sombre, je suppose ?
 
 — Sombre, et chaud, dit Yanis. La nuit tombe vite en cette saison, et
@@ -4051,9 +4051,8 @@ pas résonnèrent sur le sol en béton — des pas lourds, mesurés, qui
 s'approchaient dangereusement de leur cachette.
 
 Sofia retint son souffle. À côté d'elle, elle sentit Souly qui, sans
-un bruit, remuait imperceptiblement les lèvres — « un, deux, trois » —
-comme il le faisait toujours quand la peur menaçait de prendre le
-dessus.
+un bruit, remuait les lèvres — « un, deux, trois » — comme il le
+faisait toujours quand la peur menaçait de prendre le dessus.
 
 Les pas s'arrêtèrent tout près des caisses espagnoles. Une voix
 d'homme, qu'aucun des trois enfants ne reconnut immédiatement, marmonna
@@ -4063,10 +4062,10 @@ entendre : celui d'une caisse qu'on traînait sur le sol.
 — C'est pas Grégoire, murmura Yanis, presque inaudible. La voix est
 différente.
 
-Yanis se pencha imperceptiblement pour risquer un œil entre deux
-cageots, puis se rétracta aussitôt, le visage blême.
+Yanis risqua un œil entre deux cageots, puis se rétracta aussitôt,
+le visage blême.
 
-— Je ne le reconnais pas, souffla-t-il. Un genre d'employé, en
+— Je ne le reconnais pas, souffla-t-il. Un employé, sans doute, en
 salopette. Il décharge quelque chose d'une caisse.
 
 — Décharge quoi ? chuchota Sofia, incapable de résister à la
@@ -4582,8 +4581,8 @@ tête —, c'est extrêmement compromettant.
 
 — On ne l'a pas fabriqué, protesta Sofia, offensée.
 
-— Je vous crois, dit Delphine, sans même lever les yeux. Mais croire
-ne suffit jamais. Il nous faut la preuve scientifique, définitive,
+— Je vous crois, dit Delphine, toujours penchée sur les photos. Mais
+croire ne suffit jamais. Il nous faut la preuve scientifique, définitive,
 irréfutable. Un bon de livraison peut toujours s'expliquer autrement,
 si quelqu'un a de l'imagination et un bon avocat.
 
@@ -4633,8 +4632,7 @@ pas vraiment à se concentrer.
 — C'est joli, ton dessin, dit-elle. On dirait un vrai filet de pêche
 miniature.
 
-— C'est exactement le but, dit Souly, sans lever les yeux de son
-carnet.
+— C'est exactement le but, dit Souly, tout à son croquis.
 
 — Le marché, dit Souly, lentement. Elle doit être présentée au jury
 pour certification avant le marché, non ? C'est ce qu'il a dit
@@ -4778,8 +4776,8 @@ qu'on oublie tous.
 
 — J'espère que celui-là comptera pour la bonne raison, dit Yanis.
 
-— Il comptera, dit Sofia, avec une conviction qui ne souffrait
-aucune discussion. Une manière ou une autre, il comptera.
+— Il comptera, dit Sofia, sans le moindre doute dans la voix. Une
+manière ou une autre, il comptera.
 
 Personne ne protesta, et ils restèrent ainsi un moment, silencieux,
 regardant les dernières lumières du village s'éteindre une à une.
@@ -4950,7 +4948,7 @@ un lot présenté par cette famille. Pas une seule fois.
 
 Un murmure parcourut la foule, différent de celui qui avait accueilli
 Grégoire quelques jours plus tôt — plus posé, plus réfléchi. Yanis
-serra la main de Sofia, sans un mot, les yeux brillants.
+serra la main de Sofia, sans un mot, la gorge visiblement nouée.
 
 Jusqu'à ce que vienne le tour de Grégoire.
 
@@ -5015,7 +5013,7 @@ sens ou dans l'autre.
 
 — Je ne peux pas, souffla Yanis. Dis-moi juste quand c'est fini.
 
-— Odile, dit Delphine, sans lever les yeux de l'oculaire. Viens
+— Odile, dit Delphine, l'œil toujours collé à l'oculaire. Viens
 confirmer ce que je vois.
 
 Odile s'approcha, regarda à son tour, et son visage se ferma d'un
@@ -5107,8 +5105,9 @@ décide enfin.
 — On te faisait confiance, Grégoire, dit-il, plus triste que fâché.
 Depuis dix ans.
 
-— Je sais, dit Grégoire, sans lever les yeux. Je sais exactement ce
-que j'ai brisé, et je sais que ça ne se répare pas avec des excuses.
+— Je sais, dit Grégoire, le regard rivé sur ses chaussures. Je sais
+exactement ce que j'ai brisé, et je sais que ça ne se répare pas avec
+des excuses.
 
 — Et Marcel ? demanda quelqu'un d'autre dans la foule. Vous saviez
 qu'on le soupçonnait, pendant tout ce temps ?
@@ -5221,8 +5220,8 @@ une fois la petite foule dispersée.
 — Je le suis, un peu, avoua Marcel. Mais la colère ne répare rien. La
 vérité, si. Alors je préfère m'accrocher à la vérité.
 
-Yanis, resté silencieux depuis le début de la scène, se tourna vers
-Sofia et Souly, les yeux brillants.
+Yanis, resté silencieux depuis le début de la scène, se tourna enfin
+vers Sofia et Souly.
 
 — Vous avez réussi, dit-il, la voix un peu cassée. Vous avez vraiment
 réussi.
@@ -5584,7 +5583,7 @@ Souly, qui avait sorti son carnet malgré le froid mordant, écrivait
 fébrilement, s'arrêtant de temps à autre pour relire ce qu'il venait
 de noter.
 
-— C'est le genre de chose qu'il faudrait enseigner à l'école, dit-il,
+— On devrait enseigner ça à l'école, dit-il,
 en refermant enfin son carnet. Personne ne m'a jamais expliqué ça,
 avant cette semaine.
 
@@ -5779,9 +5778,9 @@ dix fois dans la même journée ? demanda Sofia.
 — Et la partie où j'ai compté jusqu'à trois derrière les cageots ?
 demanda Souly, un peu moins enthousiaste à l'idée.
 
-— Celle-là aussi, dit Yanis, avec un sourire qui n'annonçait rien de
-bon pour la fierté de Souly. Toute l'histoire, du début à la fin.
-Sans rien couper.
+— Celle-là aussi, dit Yanis, en se retenant visiblement de rire, ce
+qui n'était pas franchement bon signe pour la fierté de Souly. Toute
+l'histoire, du début à la fin. Sans rien couper.
 
 — Génial, dit Souly, pas franchement convaincu que ce soit vraiment
 une bonne idée.
@@ -6129,7 +6128,7 @@ d'un coup.
 Adjugée ! À monsieur, au premier rang !
 
 Un tonnerre d'applaudissements éclata. Marcel, sur l'estrade, se
-tourna vers Yanis, les yeux brillants.
+tourna vers Yanis, visiblement submergé par l'émotion.
 
 — Trois mille euros, répéta Yanis, incrédule. Pour une seule truffe.
 
@@ -6291,8 +6290,8 @@ s'est cachés dans un hangar, et Praline a trouvé plus d'un kilo, et...
 — Un hangar ? répéta Camille, en se tournant vers Odile avec un
 regard qui en disait long.
 
-— On en reparlera autour d'un café, dit Odile, un sourire aux lèvres
-qui n'annonçait rien de rassurant. Une longue conversation, avec
+— On en reparlera autour d'un café, dit Odile, d'un calme un peu trop
+appuyé pour être vraiment rassurant. Une longue conversation, avec
 beaucoup de café.
 
 Le papa des enfants, encore chargé de deux valises, regarda tour à
