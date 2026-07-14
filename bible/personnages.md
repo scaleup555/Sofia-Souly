@@ -135,6 +135,34 @@ Tout nouvel épisode doit relire ce fichier avant d'écrire une ligne.
   confiance établie.
 - Personnage-ressource pour tout tome futur à thème forestier/rural.
 
+### Nadia Ferrand (introduite au tome 6)
+- Amie de longue date de Mamie Rose (pas une parente de Camille — à
+  varier systématiquement des liens déjà utilisés). La soixantaine,
+  ancienne ingénieure devenue astronome amatrice, préside le club
+  d'astronomie et gère l'observatoire municipal du Pic du Veilleur, à
+  Belnuit.
+- Rigoureuse jusqu'à l'obsession sur la différence entre une
+  observation et une certitude : sa phrase fétiche est « Une belle
+  histoire n'est pas une preuve, même racontée par quelqu'un qu'on
+  aime ». Ne confond jamais un fait vérifié avec une intuition, même la
+  sienne.
+- Personnage-ressource pour tout tome futur à thème astronomique/
+  scientifique de mesure.
+
+### Iris Verdier (introduite au tome 6)
+- 11 ans, vit à Belnuit, arrière-arrière-petite-fille d'Auguste
+  Verdier (astronome amateur qui a découvert et donné son nom à la
+  comète Verdier). Passionnée de légendes et d'histoires, tempérament
+  théâtral et enthousiaste — à varier systématiquement des tempéraments
+  déjà utilisés pour les autres enfants-ressources (Max sûr de lui,
+  Léna timide et livresque, Noah pratique et direct, Milo grimpeur
+  terre-à-terre, Yanis méfiant et loyal).
+- Gardienne en second du carnet d'observation familial, transmis de
+  génération en génération depuis Auguste Verdier. Rêve de devenir
+  « la prochaine gardienne du ciel » après son grand-père Anselme.
+- Personnage-ressource pour tout tome futur à thème astronomique/
+  patrimoine familial transmis oralement.
+
 ## Règle d'or de continuité
 - Les faits établis dans un tome (âges, liens de parenté, peurs, habitudes) ne
   doivent JAMAIS être contredits dans un tome suivant.
