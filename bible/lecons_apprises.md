@@ -873,3 +873,81 @@ comme « ACCEPTÉ » alors qu'il ne l'est pas.**
 à ~12 250 mots lors des sessions 5 et 6. Manuscrit final : ~39 857 mots
 (min. 3254 / max. 3577 mots par chapitre), .docx livré via un nouveau
 `build_docx.py` calqué sur ceux des tomes 2 et 4.
+
+## Tome 5 — écriture complète en une seule passe avant jury (session 11)
+
+**Leçon méthodologique n°6 — écrire les 12 chapitres d'un coup avant
+tout passage jury change la nature des bugs à traquer.** Sur
+instruction explicite de l'utilisateur, ce tome a été rédigé en une
+seule session continue (au lieu du rythme habituel 6 chapitres + jury
++ 6 chapitres + jury). Conséquence observée : les tics et les
+répétitions ne sont plus détectables par comparaison entre deux
+livraisons jury successives (le jury ne voit le livre qu'une fois
+terminé), donc TOUTE la charge de détection repose sur l'auto-relecture
+avant le premier passage jury. Le premier passage jury (7,8/10) a
+quand même trouvé une rechute de tics déjà bannis dans les tomes
+précédents, confirmant que l'auto-relecture seule ne suffit jamais à
+remplacer un œil externe, même quand elle est menée avec soin.
+**Règle : sur un tome écrit en une seule passe, budgéter explicitement
+au moins 2 passages jury complets après la fin de l'écriture, jamais
+un seul — le premier sert quasi systématiquement à détecter les
+rechutes de tics déjà documentés, le second à détecter les gabarits
+neufs révélés par les corrections du premier.**
+
+**Leçon méthodologique n°7 — corriger un doublon verbatim en
+introduit presque toujours un autre.** Sur les deux rounds de
+correction de ce tome, plusieurs gabarits nouvellement flagués
+n'existaient PAS avant la correction précédente : le remplacement d'un
+« avec un vrai sourire » dupliqué a McGyver un « premier vrai sourire »
+répété sur trois personnages différents ; la correction du bris de
+POV sur l'insincérité de Grégoire (chapitre 6) a laissé une phrase
+quasiment identique 14 lignes plus loin, non filtrée par un point de
+vue de personnage cette fois. **Règle : après toute correction de
+gabarit, relire le paragraphe corrigé ET chercher immédiatement dans
+tout le manuscrit d'autres occurrences du nouveau tour de phrase
+introduit par la correction elle-même — la correction n'est jamais un
+point d'arrêt sûr, elle est un nouveau candidat-gabarit à vérifier.**
+
+**Leçon méthodologique n°8 — le retour à la ligne markdown masque des
+doublons même après plusieurs vérifications successives.** Ce défaut
+avait déjà été documenté au tome 3, mais un doublon de « avec un clin
+d'œil » a survécu intact à deux passages jury humains (le premier
+round ne l'a pas trouvé du tout ; le deuxième round l'a signalé mais
+la vérification de correction, faite par un grep simple, a conclu à
+tort que le doublon persistait alors qu'il ne s'agissait que d'un
+artefact de recherche — puis une relecture ligne à ligne a fini par
+localiser le vrai second exemplaire, caché par un retour à la ligne
+différent de celui déjà connu). **Règle : ne jamais faire confiance à
+un grep multi-lignes pour confirmer l'ABSENCE d'un doublon signalé par
+le jury — aplatir systématiquement chaque fichier de chapitre
+(`awk 'BEGIN{RS="";FS="\n"}{gsub(/\n/," ");print}'`) avant toute
+recherche de vérification, y compris pour re-confirmer une correction
+déjà appliquée.**
+
+**Leçon méthodologique n°9 — une limite de session API pendant un
+passage jury n'invalide pas le travail déjà fait, mais interrompt la
+boucle de vérification formelle.** Le 3ᵉ passage jury de ce tome a
+échoué en cours de route pour cause de limite de session (raison
+externe). Faute de pouvoir relancer un agent immédiatement, une
+vérification manuelle directe (chronologie complète recalculée,
+densité de tous les tics connus, recherche de paragraphes dupliqués
+sur l'ensemble du manuscrit compilé) a été menée à la place, avec les
+mêmes outils qu'un jury utiliserait. **Règle : une limite technique ne
+justifie jamais de livrer sans vérification — quand un agent jury
+échoue pour une raison externe, refaire soi-même, avec les mêmes
+méthodes documentées dans ce fichier, au moins les vérifications
+mécaniques (chronologie, doublons, densité de tics) avant livraison ;
+documenter honnêtement dans `etat_avancement.md` qu'un passage jury
+formel n'a pas pu confirmer le score final.**
+
+**Bilan chiffré :** 2 passages jury complets sur le manuscrit fini
+(7,8 → 8,5/10), 3ᵉ passage interrompu par une limite de session API
+après confirmation qu'aucun doublon de paragraphe ne subsistait sur
+l'ensemble du livre. Manuscrit final : 39 612 mots (min. 3258 /
+max. 3404 mots par chapitre), livré à 8,5/10 sans confirmation
+formelle finale par un 3ᵉ passage jury, sur la base d'une vérification
+manuelle complète menée directement (chronologie recalculée de bout en
+bout, densité de tous les tics connus vérifiée par fichier aplati,
+recherche de doublons de paragraphes sur les ~1 500 paragraphes du
+manuscrit compilé). .docx livré via un nouveau `build_docx.py` calqué
+sur ceux des tomes 2, 3 et 4.

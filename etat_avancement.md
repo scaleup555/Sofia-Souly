@@ -278,3 +278,47 @@ dans le récit)).
   cible de la série, mais livré à 8,3/10 sans avoir atteint le seuil
   formel d'acceptation de 9,0/10, sur instruction explicite de
   l'utilisateur.
+
+### Session 11 (tome 5, écriture complète) — 2026-07-14
+- Nouvelle consigne explicite de l'utilisateur pour ce tome : les
+  dialogues doivent être privilégiés par rapport au texte narratif/
+  descriptif, cible de 40 000 mots, et les 12 chapitres doivent être
+  rédigés en une seule fois avant tout passage devant le jury (au lieu
+  du rythme habituel 6 chapitres + jury + 6 chapitres).
+- Thème : trufficulture (symbiose mycorhizienne, réseau mycélien
+  « wood wide web », dressage de chien truffier, authentification par
+  microscopie des spores, fraude réelle aux truffes importées).
+  Décor : Clairval-en-Périgord, bois de Brumecœur. Deux nouveaux
+  personnages secondaires ajoutés à `bible/personnages.md` : Odile
+  Vaillant (marraine de Camille, mycologue retraitée, jurée du marché)
+  et Yanis Chaumette (11 ans, petit-fils de trufficulteurs injustement
+  soupçonnés).
+- Ledger de chronologie jour par jour rédigé dans `outline.md` avant
+  écriture, avec décomptes relatifs uniquement (jamais de jour de la
+  semaine nommé), pour éviter les dérives de chronologie qui avaient
+  touché les tomes 2, 3 et 4.
+- Rédaction complète des 12 chapitres en une seule passe, puis
+  expansion systématique chapitre par chapitre (~24 700 → 39 612 mots)
+  pour atteindre la cible de longueur, avec correction en continu de
+  tics réintroduits pendant l'expansion (« avec un(e) + nom abstrait »,
+  « cœur battant », « ne put s'empêcher de », « songeur », clusters de
+  « silence [adj] suivit »).
+- 2 passages jury complets sur le manuscrit fini : 7,8/10 (tics
+  relâchés, une erreur de chronologie d'un jour au chapitre 6, un
+  bris de fair-play POV sur l'insincérité de Grégoire confirmée trop
+  tôt par le narrateur omniscient) → 8,5/10 (les 9 points corrigés,
+  mais nouveaux doublons quasi verbatim détectés : « un sourcil levé »
+  ×7, « avec un clin d'œil » masqué par un retour à la ligne, gabarit
+  narratif « Personne ne [verbe]... jusqu'à ce que » ×10, une scène de
+  déjeuner dédoublée au chapitre 2 par des passages d'édition
+  successifs). Un 3ᵉ passage a échoué pour cause de limite de session
+  API (raison externe) après avoir confirmé l'absence de doublons de
+  paragraphes sur l'ensemble du manuscrit ; faute de pouvoir relancer
+  immédiatement, une vérification manuelle complète (chronologie,
+  densité des tics, doublons de paragraphes) a été menée directement
+  avant livraison, sans nouveau passage jury formel au-delà de 8,5/10.
+- Livraison du fichier `.docx` final via un nouveau `build_docx.py`
+  (calqué sur les tomes 2-4). **Tomes 1 à 4 toujours entièrement
+  terminés** ; tome 5 complet à 39 612 mots (longueur cible de la
+  série atteinte), livré à 8,5/10 sans confirmation finale par un 3ᵉ
+  passage jury (limite technique, pas un problème de texte).
