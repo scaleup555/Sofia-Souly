@@ -114,6 +114,27 @@ Tout nouvel épisode doit relire ce fichier avant d'écrire une ligne.
   de la pierre qui a pris la forme d'un os »).
 - Personnage-ressource pour tout tome futur à thème paléontologique/terrain.
 
+### Odile Vaillant (introduite au tome 5)
+- Marraine de Camille (pas une amie d'école ni une cousine — à varier
+  systématiquement des liens déjà utilisés pour les autres personnages-
+  ressources). La soixantaine, mycologue retraitée, experte-jurée
+  reconnue au marché aux truffes de Clairval-en-Périgord.
+- Ne mange jamais elle-même une truffe qu'elle vient d'authentifier
+  tant que le marché n'est pas terminé — question de déontologie
+  professionnelle qu'elle défend avec un sérieux presque superstitieux.
+- A une chienne truffière, Praline (petite épagneule), qui adore
+  par-dessus tout qu'on lui gratte l'oreille gauche.
+- Personnage-ressource pour tout tome futur à thème botanique/mycologique.
+
+### Yanis Chaumette (introduit au tome 5)
+- 11 ans, vit à Clairval-en-Périgord, petit-fils de trufficulteurs
+  (Marcel Chaumette). Connaît le bois de Brumecœur mieux que quiconque
+  au village.
+- Méfiant envers les étrangers au début à cause d'une accusation
+  injuste pesant sur sa famille. Devient un allié loyal une fois la
+  confiance établie.
+- Personnage-ressource pour tout tome futur à thème forestier/rural.
+
 ## Règle d'or de continuité
 - Les faits établis dans un tome (âges, liens de parenté, peurs, habitudes) ne
   doivent JAMAIS être contredits dans un tome suivant.
