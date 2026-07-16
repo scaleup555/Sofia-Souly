@@ -492,12 +492,12 @@ automne.
 
 — On pourra le voir aussi, ce verger ? demanda Sofia.
 
-— Quand vous voulez, dit Régis, avec un sourire las mais sincère.
+— Quand vous voulez, dit Régis, visiblement sincère malgré tout.
 
 — Merci, monsieur Lambert, dit Souly, en notant soigneusement
 l'information.
 
-— Appelle-moi Régis, dit-il, avec un sourire en coin. Tout le monde le
+— Appelle-moi Régis, dit-il, en haussant les épaules. Tout le monde le
 fait, au village. Sauf ceux qui préfèrent m'appeler autre chose, ces
 jours-ci, ajouta-t-il, plus bas.
 

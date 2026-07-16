@@ -22,8 +22,10 @@ qui la question ne se posait même pas.
 
 Mamie Rose, au volant, laissa échapper un petit rire.
 
-— Vous allez vraiment adorer Coteau-Fleuri, dit-elle, avec un sourire
-attendri. Votre tante Solange vous attend depuis des semaines déjà. Elle m'a appelée trois fois cette semaine
+— Vous allez vraiment adorer Coteau-Fleuri, dit-elle, en jetant un
+coup d'œil affectueux dans le rétroviseur. Votre tante Solange vous
+attend depuis des semaines déjà. Elle m'a appelée trois fois cette
+semaine
 pour vérifier l'heure d'arrivée.
 
 — Tante Solange, c'est la sœur de papa ? demanda Sofia. Celle qu'on

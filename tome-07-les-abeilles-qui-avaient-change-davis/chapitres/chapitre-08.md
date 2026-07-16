@@ -102,7 +102,7 @@ C'est vraiment l'essaim ?
 — On ne sait pas encore, dit Sofia. Ferdinand a à peine dormi, à
 surveiller la boîte toute la nuit.
 
-— Ça ne m'étonne pas de lui, dit Zoé, avec un sourire affectueux.
+— Ça ne m'étonne pas de lui, dit Zoé, en riant doucement.
 L'année dernière, il a campé trois nuits de suite près d'un nid de
 frelons asiatiques, juste pour être sûr de ne pas le rater.
 

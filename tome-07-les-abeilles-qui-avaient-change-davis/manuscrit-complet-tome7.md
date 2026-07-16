@@ -24,8 +24,10 @@ qui la question ne se posait même pas.
 
 Mamie Rose, au volant, laissa échapper un petit rire.
 
-— Vous allez vraiment adorer Coteau-Fleuri, dit-elle, avec un sourire
-attendri. Votre tante Solange vous attend depuis des semaines déjà. Elle m'a appelée trois fois cette semaine
+— Vous allez vraiment adorer Coteau-Fleuri, dit-elle, en jetant un
+coup d'œil affectueux dans le rétroviseur. Votre tante Solange vous
+attend depuis des semaines déjà. Elle m'a appelée trois fois cette
+semaine
 pour vérifier l'heure d'arrivée.
 
 — Tante Solange, c'est la sœur de papa ? demanda Sofia. Celle qu'on
@@ -1016,12 +1018,12 @@ automne.
 
 — On pourra le voir aussi, ce verger ? demanda Sofia.
 
-— Quand vous voulez, dit Régis, avec un sourire las mais sincère.
+— Quand vous voulez, dit Régis, visiblement sincère malgré tout.
 
 — Merci, monsieur Lambert, dit Souly, en notant soigneusement
 l'information.
 
-— Appelle-moi Régis, dit-il, avec un sourire en coin. Tout le monde le
+— Appelle-moi Régis, dit-il, en haussant les épaules. Tout le monde le
 fait, au village. Sauf ceux qui préfèrent m'appeler autre chose, ces
 jours-ci, ajouta-t-il, plus bas.
 
@@ -2166,8 +2168,8 @@ la distance : plus c'est long, plus c'est loin.
 — Attends, sérieux ? Elles font des calculs, avec leur corps ? demanda
 Souly, fasciné.
 
-— Un calcul plus précis que bien des humains, confirma Solange, avec
-un sourire amusé.
+— Un calcul plus précis que bien des humains, confirma Solange,
+amusée.
 
 — Il était d'où, ce monsieur Von Frisch ? demanda Sofia, curieuse.
 
@@ -3324,7 +3326,7 @@ par rassurer, même les plus prudentes d'entre nous.
 
 — Vous vous connaissez depuis quand, toutes les deux ? demanda Sofia.
 
-— Depuis l'école primaire, dit Mamie Rose, avec un sourire attendri.
+— Depuis l'école primaire, dit Mamie Rose, le regard soudain lointain.
 Nous étions assises côte à côte, la première rentrée. Solange avait
 apporté un bocal avec une chenille dedans, pour le montrer à la
 maîtresse. Je crois que ça annonçait déjà beaucoup de choses sur la
@@ -3567,7 +3569,7 @@ savoir, ce soir, plutôt que de me réjouir trop vite.
 — C'est très différent de vous, ça, remarqua Sofia, doucement.
 
 — Même les gens les plus rigoureux ont le droit d'avoir un peu peur,
-parfois, dit Solange, avec un sourire résigné.
+parfois, dit Solange, en levant les mains en signe de reddition.
 
 Ils restèrent un moment à observer la boîte de loin, le bourdonnement
 continu résonnant dans la nuit calme, avant que Mamie Rose ne
@@ -3774,7 +3776,7 @@ C'est vraiment l'essaim ?
 — On ne sait pas encore, dit Sofia. Ferdinand a à peine dormi, à
 surveiller la boîte toute la nuit.
 
-— Ça ne m'étonne pas de lui, dit Zoé, avec un sourire affectueux.
+— Ça ne m'étonne pas de lui, dit Zoé, en riant doucement.
 L'année dernière, il a campé trois nuits de suite près d'un nid de
 frelons asiatiques, juste pour être sûr de ne pas le rater.
 
@@ -5272,8 +5274,8 @@ Le miel de printemps n'a rien à voir avec celui de fin d'été.
 
 — Un résumé du paysage, comme vous disiez, se souvint Souly.
 
-— Exactement, confirma Solange, avec un sourire pour Zoé qui hocha la
-tête, reconnaissant sa propre formule.
+— Exactement, confirma Solange, en adressant un clin d'œil à Zoé qui
+hocha la tête, reconnaissant sa propre formule.
 
 — Ça a un petit goût de caramel, à la fin, remarqua Zoé, en goûtant à
 son tour.
@@ -5339,8 +5341,8 @@ Souly, sincèrement admiratif.
 sincère.
 
 — Vous avez vu la tête de Madame Ithier, quand vous avez parlé de la
-danse frétillante ? demanda Sofia, avec un sourire malicieux. Celle
-qui parlait de bornage, l'autre jour.
+danse frétillante ? demanda Sofia, en pouffant. Celle qui parlait de
+bornage, l'autre jour.
 
 — Difficile à manquer, dit Solange, en riant doucement. Elle avait
 l'air de vouloir disparaître sous l'estrade.
@@ -5682,7 +5684,7 @@ menton, la cicatrice sur sa main gauche.
 — Vous ne nous avez toujours pas dit d'où elle vient vraiment, celle-là,
 dit-elle. On n'a pas oublié, vous savez.
 
-— Ah, dit Solange, avec un sourire en coin. Cette semaine, je crois
+— Ah, dit Solange, faussement surprise. Cette semaine, je crois
 vous avoir raconté une morsure de renard, non ?
 
 — Et un accident de vélo, avant ça, ajouta Souly, en riant. Vous
@@ -5950,7 +5952,7 @@ l'article du journal local sur la fête.
 — Un article dans le journal ? demanda Souly, surpris.
 
 — Le journaliste qui couvrait la Fête du Miel a trouvé l'histoire
-intéressante, dit Solange, avec un sourire en coin. Apparemment, une
+intéressante, dit Solange, en retenant un petit rire. Apparemment, une
 enquête menée par des enfants grâce à une danse d'abeilles, ça fait
 une bonne accroche.
 

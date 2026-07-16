@@ -185,7 +185,7 @@ l'article du journal local sur la fête.
 — Un article dans le journal ? demanda Souly, surpris.
 
 — Le journaliste qui couvrait la Fête du Miel a trouvé l'histoire
-intéressante, dit Solange, avec un sourire en coin. Apparemment, une
+intéressante, dit Solange, en retenant un petit rire. Apparemment, une
 enquête menée par des enfants grâce à une danse d'abeilles, ça fait
 une bonne accroche.
 

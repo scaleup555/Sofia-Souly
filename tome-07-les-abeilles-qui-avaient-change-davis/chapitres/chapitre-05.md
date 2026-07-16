@@ -50,8 +50,8 @@ la distance : plus c'est long, plus c'est loin.
 — Attends, sérieux ? Elles font des calculs, avec leur corps ? demanda
 Souly, fasciné.
 
-— Un calcul plus précis que bien des humains, confirma Solange, avec
-un sourire amusé.
+— Un calcul plus précis que bien des humains, confirma Solange,
+amusée.
 
 — Il était d'où, ce monsieur Von Frisch ? demanda Sofia, curieuse.
 

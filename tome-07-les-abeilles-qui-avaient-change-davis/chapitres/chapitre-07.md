@@ -163,7 +163,7 @@ par rassurer, même les plus prudentes d'entre nous.
 
 — Vous vous connaissez depuis quand, toutes les deux ? demanda Sofia.
 
-— Depuis l'école primaire, dit Mamie Rose, avec un sourire attendri.
+— Depuis l'école primaire, dit Mamie Rose, le regard soudain lointain.
 Nous étions assises côte à côte, la première rentrée. Solange avait
 apporté un bocal avec une chenille dedans, pour le montrer à la
 maîtresse. Je crois que ça annonçait déjà beaucoup de choses sur la
@@ -406,7 +406,7 @@ savoir, ce soir, plutôt que de me réjouir trop vite.
 — C'est très différent de vous, ça, remarqua Sofia, doucement.
 
 — Même les gens les plus rigoureux ont le droit d'avoir un peu peur,
-parfois, dit Solange, avec un sourire résigné.
+parfois, dit Solange, en levant les mains en signe de reddition.
 
 Ils restèrent un moment à observer la boîte de loin, le bourdonnement
 continu résonnant dans la nuit calme, avant que Mamie Rose ne

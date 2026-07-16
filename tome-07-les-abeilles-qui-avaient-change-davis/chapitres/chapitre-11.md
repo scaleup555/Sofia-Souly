@@ -55,8 +55,8 @@ Le miel de printemps n'a rien à voir avec celui de fin d'été.
 
 — Un résumé du paysage, comme vous disiez, se souvint Souly.
 
-— Exactement, confirma Solange, avec un sourire pour Zoé qui hocha la
-tête, reconnaissant sa propre formule.
+— Exactement, confirma Solange, en adressant un clin d'œil à Zoé qui
+hocha la tête, reconnaissant sa propre formule.
 
 — Ça a un petit goût de caramel, à la fin, remarqua Zoé, en goûtant à
 son tour.
@@ -122,8 +122,8 @@ Souly, sincèrement admiratif.
 sincère.
 
 — Vous avez vu la tête de Madame Ithier, quand vous avez parlé de la
-danse frétillante ? demanda Sofia, avec un sourire malicieux. Celle
-qui parlait de bornage, l'autre jour.
+danse frétillante ? demanda Sofia, en pouffant. Celle qui parlait de
+bornage, l'autre jour.
 
 — Difficile à manquer, dit Solange, en riant doucement. Elle avait
 l'air de vouloir disparaître sous l'estrade.
@@ -465,7 +465,7 @@ menton, la cicatrice sur sa main gauche.
 — Vous ne nous avez toujours pas dit d'où elle vient vraiment, celle-là,
 dit-elle. On n'a pas oublié, vous savez.
 
-— Ah, dit Solange, avec un sourire en coin. Cette semaine, je crois
+— Ah, dit Solange, faussement surprise. Cette semaine, je crois
 vous avoir raconté une morsure de renard, non ?
 
 — Et un accident de vélo, avant ça, ajouta Souly, en riant. Vous
