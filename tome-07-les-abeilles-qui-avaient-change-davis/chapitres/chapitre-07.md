@@ -98,8 +98,9 @@ ans ne devrait avoir à porter.
 — Vous ressembliez à quoi, à cet âge-là ? demanda Sofia, essayant
 d'imaginer une jeune Solange.
 
-— Une vraie perche, dit Solange, en riant. Plus grande que tous les
-garçons de ma classe, ce qui ne m'aidait pas franchement avec ma
+— Une vraie perche, dit Solange, avec un petit rire. Plus grande que
+tous les garçons de ma classe, ce qui ne m'aidait pas franchement
+avec ma
 timidité.
 
 — Vous étiez comment, vous, à onze ans ? demanda Sofia, curieuse.

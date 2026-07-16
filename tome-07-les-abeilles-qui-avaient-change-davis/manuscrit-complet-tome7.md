@@ -1116,7 +1116,7 @@ la magie.
 — Un pressoir qui tourne tout seul, ça devait être impressionnant, à
 l'époque, remarqua Sofia.
 
-— C'est exactement ce que dit mon père, dit Zoé, en riant. Il adore
+— C'est exactement ce que dit mon père, dit Zoé, amusée. Il adore
 raconter cette histoire à qui veut bien l'écouter. Et même à ceux qui
 ne veulent pas, en fait.
 
@@ -1178,14 +1178,14 @@ l'ai plus jamais lâché depuis.
 
 Zoé regarda le carnet de Souly avec un intérêt immédiat.
 
-— C'est contagieux, ce genre de maladie ? demanda Sofia, en riant.
+— C'est contagieux, ce genre de maladie ? demanda Sofia.
 
 — On dirait qu'on a la même maladie, tous les deux, remarqua Zoé,
 amusée.
 
 — C'est pas une maladie, protesta Souly. C'est de la méthode.
 
-— C'est exactement ce que je dis à mon père, dit Zoé, en riant. Il
+— C'est exactement ce que je dis à mon père, dit Zoé. Il
 prétend que je passe trop de temps à noter des trucs au lieu de
 « vivre ma vie », comme il dit.
 
@@ -3261,8 +3261,9 @@ ans ne devrait avoir à porter.
 — Vous ressembliez à quoi, à cet âge-là ? demanda Sofia, essayant
 d'imaginer une jeune Solange.
 
-— Une vraie perche, dit Solange, en riant. Plus grande que tous les
-garçons de ma classe, ce qui ne m'aidait pas franchement avec ma
+— Une vraie perche, dit Solange, avec un petit rire. Plus grande que
+tous les garçons de ma classe, ce qui ne m'aidait pas franchement
+avec ma
 timidité.
 
 — Vous étiez comment, vous, à onze ans ? demanda Sofia, curieuse.
@@ -3715,7 +3716,7 @@ suffisant pour un homme en pleine mission scientifique.
 s'agissait d'un exploit sportif digne d'admiration. Je voulais être prêt dès les premières lueurs.
 
 — Ça ne devait pas être très confortable, de dormir avec tout cet
-attirail, remarqua Sofia, en riant.
+attirail, remarqua Sofia.
 
 — Le confort n'a jamais fait de grande découverte, jeune fille,
 répliqua Ferdinand, sans se démonter.
@@ -3783,7 +3784,7 @@ frelons asiatiques, juste pour être sûr de ne pas le rater.
 — Il a dormi comment, ces trois nuits-là, dans les bois ? demanda
 Sofia, imaginant déjà la scène.
 
-— Dans un hamac de camping, dit Zoé, en riant. Avec une combinaison
+— Dans un hamac de camping, dit Zoé. Avec une combinaison
 d'apiculteur complète, même pour dormir, au cas où le nid se réveille
 en pleine nuit.
 
@@ -5299,7 +5300,7 @@ déposent dans une alvéole.
 — De bouche en bouche ? répéta Sofia, entre le dégoût et la
 fascination. C'est un peu dégoûtant, non ?
 
-— C'est de la chimie de précision, corrigea Solange, en riant. Chaque
+— C'est de la chimie de précision, corrigea Solange. Chaque
 enzyme ajoutée transforme un peu plus le nectar, jusqu'à ce qu'il
 devienne ce miel épais que tu adores tartiner.
 
@@ -5795,7 +5796,7 @@ raconter à papa et maman, en détail.
 — Moi aussi, admit Souly, en s'étirant longuement. Ça va me manquer,
 cette petite adrénaline du matin.
 
-— On rentre demain, remarqua Souly, un peu mélancolique malgré lui.
+— On rentre bientôt, remarqua Souly, un peu mélancolique malgré lui.
 
 — Personne ne va nous croire, à l'école, quand on racontera cette
 histoire, prédit Sofia.
@@ -5976,7 +5977,7 @@ inconnus lisent mon nom en entier.
 — Moi, j'aurais bien aimé, avoua Sofia, un peu déçue. « Sofia,
 enquêtrice apicole », ça aurait fait joli.
 
-— Tu auras d'autres occasions, dit Solange, en riant. Quelque chose me
+— Tu auras d'autres occasions, dit Solange. Quelque chose me
 dit que ce n'est pas la dernière enquête que vous résoudrez, tous les
 deux.
 
@@ -6009,7 +6010,7 @@ Une enquête par été, ça suffit amplement pour ma tension artérielle.
 Propolis vint se coucher contre les jambes de Solange, gardant, comme
 toujours, une distance prudente avec la ruche ouverte.
 
-— Toujours pas guéri de sa peur, remarqua Sofia, en riant.
+— Toujours pas guéri de sa peur, remarqua Sofia, amusée.
 
 — Jamais, confirma Solange. Certaines peurs ne se soignent pas
 vraiment. On apprend juste à vivre avec, et parfois même à en rire.

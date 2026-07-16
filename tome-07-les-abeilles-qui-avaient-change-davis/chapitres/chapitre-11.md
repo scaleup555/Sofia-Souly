@@ -80,7 +80,7 @@ déposent dans une alvéole.
 — De bouche en bouche ? répéta Sofia, entre le dégoût et la
 fascination. C'est un peu dégoûtant, non ?
 
-— C'est de la chimie de précision, corrigea Solange, en riant. Chaque
+— C'est de la chimie de précision, corrigea Solange. Chaque
 enzyme ajoutée transforme un peu plus le nectar, jusqu'à ce qu'il
 devienne ce miel épais que tu adores tartiner.
 

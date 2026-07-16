@@ -28,7 +28,7 @@ raconter à papa et maman, en détail.
 — Moi aussi, admit Souly, en s'étirant longuement. Ça va me manquer,
 cette petite adrénaline du matin.
 
-— On rentre demain, remarqua Souly, un peu mélancolique malgré lui.
+— On rentre bientôt, remarqua Souly, un peu mélancolique malgré lui.
 
 — Personne ne va nous croire, à l'école, quand on racontera cette
 histoire, prédit Sofia.
@@ -209,7 +209,7 @@ inconnus lisent mon nom en entier.
 — Moi, j'aurais bien aimé, avoua Sofia, un peu déçue. « Sofia,
 enquêtrice apicole », ça aurait fait joli.
 
-— Tu auras d'autres occasions, dit Solange, en riant. Quelque chose me
+— Tu auras d'autres occasions, dit Solange. Quelque chose me
 dit que ce n'est pas la dernière enquête que vous résoudrez, tous les
 deux.
 
@@ -242,7 +242,7 @@ Une enquête par été, ça suffit amplement pour ma tension artérielle.
 Propolis vint se coucher contre les jambes de Solange, gardant, comme
 toujours, une distance prudente avec la ruche ouverte.
 
-— Toujours pas guéri de sa peur, remarqua Sofia, en riant.
+— Toujours pas guéri de sa peur, remarqua Sofia, amusée.
 
 — Jamais, confirma Solange. Certaines peurs ne se soignent pas
 vraiment. On apprend juste à vivre avec, et parfois même à en rire.

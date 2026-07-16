@@ -375,3 +375,68 @@ dans le récit)).
   terminés** ; tome 6 complet à 39 494 mots (longueur cible de la
   série atteinte), livré à 9,1/10, seuil d'acceptation officiel
   franchi.
+
+### Session 13 (tome 7, écriture complète) — 2026-07-16
+- Même consigne explicite que les tomes 5 et 6 : dialogues privilégiés
+  par rapport au texte narratif/descriptif, cible ~40 000 mots, 12
+  chapitres rédigés en une seule passe, jury dispatché uniquement une
+  fois le manuscrit complet et la longueur atteinte. Consigne
+  supplémentaire explicite de l'utilisateur : le tome doit être
+  « drôle et attrayant ».
+- Thème : apiculture (rôles de la ruche, pollinisation, danse
+  frétillante de Karl von Frisch — prix Nobel 1973 —, essaimage,
+  marquage des reines par couleur, effondrement des colonies).
+  Décor : Coteau-Fleuri, Le Rucher des Bruyères. Deux nouveaux
+  personnages ajoutés à `bible/personnages.md` : Tante Solange (sœur
+  du père de Sofia et Souly — relation volontairement variée par
+  rapport aux tomes précédents — apicultrice, chien Propolis qui a
+  peur des abeilles) et Zoé Lambert (11 ans, fille du vigneron voisin
+  Régis, tient un carnet de jardin en parallèle du Carnet des Preuves
+  de Souly).
+- Ledger de chronologie jour par jour rédigé dans `outline.md` avant
+  écriture. Un vrai bug de dérive de chronologie a quand même été
+  détecté après coup : le chapitre 3 fusionnait deux jours prévus
+  séparément dans l'outline (« l'après-midi même » que le chapitre 2,
+  au lieu d'un nouveau jour), désynchronisant tous les décomptes « X
+  jours avant la fête » suivants d'une unité. Corrigé en recalculant
+  et réécrivant tous les décomptes du chapitre 1 au chapitre 6 (huit
+  jours → six jours ; cinq → quatre ; quatre → trois ; trois → deux)
+  pour qu'ils restent cohérents avec le décompte « un jour avant la
+  fête » déjà fixé aux chapitres 8-9 (qui ne pouvait pas être changé
+  sans casser la transition vers la fête au chapitre 10).
+- Rédaction complète des 12 chapitres en une seule passe (~24 800
+  mots), puis expansion systématique chapitre par chapitre en une
+  dizaine de vagues pour atteindre 39 602 mots, avec plusieurs bugs de
+  contamination croisée avec le tome 6 détectés et corrigés en cours
+  de rédaction (nom « Auguste » puis nom « Fabien », tous deux des
+  personnages du tome 6, glissés dans des répliques de callback
+  vague — remplacés par la formule sûre déjà établie « une autre
+  histoire, un autre été », sans aucun nom propre).
+- 3 passages jury complets sur le manuscrit fini : 7,6/10 (fragment de
+  phrase orphelin dupliqué au chapitre 8, tic verbatim « avec un
+  aplomb qui le surprit lui-même » répété pour Souly au chapitre 10,
+  quasi-duplication de la scène d'inspection des ruches au chapitre 2,
+  fusil de Tchekhov jamais payé sur la cicatrice de Solange, rebond de
+  journée entre les chapitres 6 et 7 où l'ouverture du chapitre 7
+  re-narrait une activité déjà achevée dans le chapitre 6) → 7,6/10
+  (les 5 points corrigés, mais surdosage confirmé et non résolu de
+  « avec un sourire + adjectif » — plusieurs adjectifs répétés mot
+  pour mot à travers le livre — et de « genre de » dépassant le
+  plafond d'une occurrence par chapitre dans 4 chapitres, contradiction
+  interne sur le nombre d'échecs de Ferdinand avec son piège à essaim
+  entre le chapitre 7 et le chapitre 11, absence du nom « Carnet des
+  Preuves » pourtant établi dans la bible) → 7,9/10 (les 4 points
+  corrigés, mais le tic « avec un sourire + adjectif » seulement
+  réduit en volume sans éliminer les répétitions exactes restantes,
+  qui étaient le vrai problème). Un 4ᵉ passage a validé la correction
+  complète de ce point (chaque adjectif reformulé par un geste ou une
+  action plutôt que substitué par un autre adjectif) et signalé deux
+  points mineurs non bloquants (léger surdosage de « en riant », une
+  incohérence d'un jour sur le départ au chapitre 12) → **8,8/10,
+  seuil d'acceptation franchi**, avec les deux points mineurs corrigés
+  par précaution avant livraison.
+- Livraison du fichier `.docx` final via un nouveau `build_docx.py`
+  (calqué sur les tomes 2-6). **Tomes 1 à 6 toujours entièrement
+  terminés** ; tome 7 complet à 39 746 mots (longueur cible de la
+  série atteinte), livré à 8,8/10, seuil d'acceptation officiel
+  franchi.

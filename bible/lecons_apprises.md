@@ -1030,3 +1030,104 @@ façon proactive après le deuxième passage (couleur du caillou,
 réplique orpheline de M. Pujol). Manuscrit final : 39 494 mots (min.
 3237 / max. 3349 mots par chapitre). .docx livré via un nouveau
 `build_docx.py` calqué sur ceux des tomes 2 à 5.
+
+## Tome 7 — Les Abeilles qui avaient changé d'avis
+
+**Leçon méthodologique n°13 — fusionner deux jours prévus séparément
+dans l'outline désynchronise tous les décomptes de chronologie en
+aval, même quand aucune ligne de décompte n'est présente dans les
+chapitres fusionnés.** L'outline du tome 7 prévoyait le chapitre 2
+(découverte de la ruche vide) et le chapitre 3 (visite chez Zoé) comme
+deux jours distincts. À l'écriture, le chapitre 3 a été rédigé comme
+se déroulant « l'après-midi même » que le chapitre 2 — un choix
+narratif raisonnable en soi (rythme plus resserré), mais qui n'a
+jamais été répercuté sur les décomptes « X jours avant la fête »
+explicitement écrits dans les chapitres suivants (4, 5, 6), qui
+restaient calés sur l'hypothèse de l'outline original. Résultat : une
+dérive d'une unité qui n'était visible qu'en comparant le décompte du
+chapitre 1 (« huit jours ») à celui du chapitre 8-9 (« un jour avant
+la fête », qui ne pouvait pas être changé sans casser la transition
+vers le chapitre 10). Un deuxième bug lié a été trouvé au passage : le
+chapitre 5 se terminait par une promesse explicite (« à demain, pour
+la parcelle ») que le chapitre 6 — censé être le lendemain — ne
+tenait pas (la visite de la parcelle n'a lieu que deux chapitres plus
+tard), créant une incohérence de continuité narrative en plus de la
+dérive numérique. **Règle : dès qu'un chapitre fusionne, dans
+l'écriture réelle, deux jours prévus séparément dans l'outline (ou
+inversement scinde un jour prévu comme unique), recalculer
+immédiatement TOUS les décomptes numériques déjà écrits dans les
+chapitres suivants avant de continuer à écrire — ne pas attendre la
+passe de relecture finale. Et vérifier que toute promesse explicite
+de type « à demain, pour X » dans un chapitre est bien tenue, ou
+littéralement, par le chapitre suivant.**
+
+**Leçon méthodologique n°14 — la contamination croisée entre tomes
+récurre même après avoir déjà été corrigée dans la même session, et
+même à travers plusieurs formulations différentes de la même
+« formule sûre ».** La leçon n°10 (tome 6) avait déjà établi la
+formule sûre du rappel vague « une autre histoire, un autre été »
+pour éviter de nommer un personnage d'un tome précédent. Dans ce
+tome, cette même erreur — nommer un personnage précis d'un tome
+antérieur dans un rappel censé rester vague — s'est produite DEUX
+fois dans la même session d'écriture : d'abord « Auguste » (tome 6)
+au chapitre 3, corrigé sur le moment vers la formule sûre, puis
+« Fabien » (également tome 6) au chapitre 6, quelques dizaines de
+minutes plus tard dans la même séance, avant d'être détecté et
+corrigé de la même façon. La leçon déjà écrite n'a donc pas suffi à
+empêcher la récidive immédiate, probablement parce que la vigilance
+retombe juste après une première correction réussie. **Règle
+renforcée : après CHAQUE rédaction d'un rappel de type « une autre
+histoire, un autre été » (ou toute variante), faire un grep immédiat
+et systématique du texte fraîchement écrit contre la liste complète
+des noms propres de `bible/personnages.md`, même si un rappel
+similaire vient d'être corrigé quelques minutes plus tôt dans la même
+séance — ne jamais supposer qu'une correction récente immunise contre
+une récidive.**
+
+**Leçon méthodologique n°15 — un tic de type « avec un(e) + adjectif »
+qui recrée plusieurs candidats-répétition à la fois nécessite trois
+passages de correction complets avant d'être vraiment résolu, et la
+leçon n°12 (tome 5) sur la substitution par geste plutôt que par
+adjectif était juste mais insuffisamment appliquée en pratique.** Le
+premier passage jury (7,6/10) a flagué une répétition verbatim de
+« avec un aplomb qui le surprit lui-même » et un doublon de phrase
+orphelin — corrigés, mais un deuxième passage (7,6/10 à nouveau) a
+révélé que le vrai problème sous-jacent, le surdosage de « avec un
+sourire + adjectif » (jusqu'à 15 occurrences du seul « fatigué »
+avant correction), n'avait pas été touché du tout au premier passage.
+Une première tentative de correction a réduit le volume total
+(62 → 52 occurrences) mais un troisième passage jury (7,9/10) a
+montré que cette réduction avait laissé intactes plusieurs
+répétitions EXACTES du même adjectif (« attendri » ×2-3, « en
+coin » ×4, « malicieux » ×2) simplement en diluant leur densité
+relative — la baisse du total masquait l'persistance du vrai défaut
+(la répétition mot pour mot). Ce n'est qu'au quatrième passage, après
+une correction qui a systématiquement remplacé CHAQUE adjectif
+apparaissant plus d'une fois dans tout le livre par un geste, une
+action ou une construction de phrase entièrement différente (jamais
+un autre adjectif de sourire), que le jury a confirmé l'élimination
+complète des répétitions exactes et validé le manuscrit (8,8/10). Un
+effet de bord a aussi été noté : en corrigeant massivement un tic, il
+est facile d'en faire apparaître un nouveau par accumulation des
+remplacements (ici, « en riant » utilisé comme solution de repli a
+grimpé à 46 occurrences, un tic à part entière). **Règle renforcée :
+face à un tic de type « avec un(e) + adjectif » signalé par le jury,
+ne jamais se contenter de réduire le volume total — faire un
+recensement exhaustif (grep de chaque adjectif distinct trouvé, sur
+texte aplati pour capturer les retours à la ligne) et s'assurer qu'
+AUCUN adjectif de la famille n'apparaît plus d'une fois dans tout le
+livre, en remplaçant systématiquement par une construction
+différente en nature (pas juste un synonyme). Puis vérifier que la
+solution de repli utilisée pour les remplacements ne devient pas
+elle-même un nouveau tic surdosé.**
+
+**Bilan chiffré :** rédaction des 12 chapitres en une seule passe
+(~24 800 mots), puis expansion ciblée jusqu'à 39 602 mots avant le
+premier passage jury. 3 passages jury complets sur le manuscrit fini :
+7,6/10 → 7,6/10 → 7,9/10, avec un 4ᵉ passage de vérification finale
+qui a confirmé la correction complète du tic bloquant et validé le
+manuscrit à 8,8/10, seuil d'acceptation franchi. Deux correctifs
+mineurs supplémentaires (surdosage de « en riant », incohérence d'un
+jour sur le départ au chapitre 12) appliqués de façon proactive après
+le 4ᵉ passage. Manuscrit final : 39 746 mots. .docx livré via un
+nouveau `build_docx.py` calqué sur ceux des tomes 2 à 6.

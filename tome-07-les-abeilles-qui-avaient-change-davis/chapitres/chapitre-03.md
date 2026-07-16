@@ -45,7 +45,7 @@ la magie.
 — Un pressoir qui tourne tout seul, ça devait être impressionnant, à
 l'époque, remarqua Sofia.
 
-— C'est exactement ce que dit mon père, dit Zoé, en riant. Il adore
+— C'est exactement ce que dit mon père, dit Zoé, amusée. Il adore
 raconter cette histoire à qui veut bien l'écouter. Et même à ceux qui
 ne veulent pas, en fait.
 
@@ -107,14 +107,14 @@ l'ai plus jamais lâché depuis.
 
 Zoé regarda le carnet de Souly avec un intérêt immédiat.
 
-— C'est contagieux, ce genre de maladie ? demanda Sofia, en riant.
+— C'est contagieux, ce genre de maladie ? demanda Sofia.
 
 — On dirait qu'on a la même maladie, tous les deux, remarqua Zoé,
 amusée.
 
 — C'est pas une maladie, protesta Souly. C'est de la méthode.
 
-— C'est exactement ce que je dis à mon père, dit Zoé, en riant. Il
+— C'est exactement ce que je dis à mon père, dit Zoé. Il
 prétend que je passe trop de temps à noter des trucs au lieu de
 « vivre ma vie », comme il dit.
 

@@ -41,7 +41,7 @@ suffisant pour un homme en pleine mission scientifique.
 s'agissait d'un exploit sportif digne d'admiration. Je voulais être prêt dès les premières lueurs.
 
 — Ça ne devait pas être très confortable, de dormir avec tout cet
-attirail, remarqua Sofia, en riant.
+attirail, remarqua Sofia.
 
 — Le confort n'a jamais fait de grande découverte, jeune fille,
 répliqua Ferdinand, sans se démonter.
@@ -109,7 +109,7 @@ frelons asiatiques, juste pour être sûr de ne pas le rater.
 — Il a dormi comment, ces trois nuits-là, dans les bois ? demanda
 Sofia, imaginant déjà la scène.
 
-— Dans un hamac de camping, dit Zoé, en riant. Avec une combinaison
+— Dans un hamac de camping, dit Zoé. Avec une combinaison
 d'apiculteur complète, même pour dormir, au cas où le nid se réveille
 en pleine nuit.
 
