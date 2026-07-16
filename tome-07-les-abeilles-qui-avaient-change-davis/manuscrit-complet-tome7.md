@@ -50,8 +50,8 @@ mi-inquiète, mi-fascinée.
 ne piquent presque jamais si on ne les embête pas. Ce sont surtout les
 guêpes qui cherchent la bagarre, pas les abeilles.
 
-— C'est vrai, ça ? demanda Souly, sceptique. Ou c'est le genre de
-phrase qu'on dit aux enfants pour les rassurer ?
+— C'est vrai, ça ? demanda Souly, sceptique. Ou c'est juste une phrase
+qu'on dit aux enfants pour les rassurer ?
 
 — Vous demanderez à votre tante, dit Mamie Rose, avec un sourire qui
 ne trompait personne. Elle vous expliquera bien mieux que moi.
@@ -271,7 +271,7 @@ la ruche. Sans pitié.
 
 — C'est surtout pratique, dit Solange. La colonie ne peut pas nourrir
 des bouches inutiles pendant l'hiver. La nature n'a pas vraiment de
-sentiment, sur ce genre de question.
+sentiment, sur ces questions-là.
 
 — Comment vous savez laquelle est la reine, si elle ne porte pas de
 couronne ? demanda Sofia, très sérieusement.
@@ -866,15 +866,14 @@ Zoé, impressionnée.
 — Alors on va bien s'entendre, dit Solange, en souriant à Souly qui,
 pour une fois, ne sut pas quoi répondre.
 
-Ils passèrent le reste de la matinée à examiner méthodiquement les
-autres ruches, Solange expliquant à chaque étape ce qu'il fallait
-observer : la quantité d'abeilles à l'entrée, le bruit du
-bourdonnement, la présence ou l'absence de pollen sur les pattes des
-butineuses qui revenaient.
+Ils examinèrent ensemble les deux ruches les plus proches de la jaune,
+Solange expliquant à chaque étape ce qu'il fallait observer : la
+quantité d'abeilles à l'entrée, le bruit du bourdonnement, la présence
+ou l'absence de pollen sur les pattes des butineuses qui revenaient.
 
-— Toutes les autres ruches ont l'air en pleine forme, remarqua Souly,
-en notant scrupuleusement chaque observation. Seule la jaune a un
-problème.
+— Celles-là ont l'air en pleine forme, remarqua Souly, en notant
+scrupuleusement chaque observation. Seule la jaune a un problème,
+jusqu'ici.
 
 — C'est un détail important, dit Solange. Si c'était quelque chose
 dans l'air, ou dans l'eau, toutes les ruches seraient touchées de la
@@ -1358,8 +1357,8 @@ faut vraiment. Je n'aime pas trop cacher les choses, en général.
 
 — C'est courageux, ça, dit Sofia, sincèrement admirative.
 
-— C'est surtout nécessaire, dit Zoé, avec une gravité qui contrastait
-avec son énergie habituelle. Vous savez ce qu'on raconte déjà, au
+— C'est surtout nécessaire, dit Zoé, soudain beaucoup plus sérieuse
+que d'habitude. Vous savez ce qu'on raconte déjà, au
 marché, ce matin ?
 
 — On ne sait pas, dit Souly.
@@ -2237,9 +2236,9 @@ les abeilles arrêtent tout de suite.
 visiblement aux rumeurs qui circulaient déjà sur son père.
 
 — Sur beaucoup de choses chez les abeilles, en fait, confirma Solange,
-avec un sourire triste.
+un peu tristement.
 
-— J'aime bien cette idée, dit Sofia, avec un sourire pensif.
+— J'aime bien cette idée, dit Sofia, pensive.
 
 — C'est une comparaison très juste, dit Solange, sincèrement
 impressionnée. Les abeilles sont, sur ce point précis, bien plus
@@ -2625,8 +2624,8 @@ sourire qui n'en disait pas plus.
 — Tu veux qu'on t'accompagne jusque chez toi ? proposa Sofia, en
 remarquant la fatigue sur le visage de Zoé.
 
-— Ça ira, dit Zoé, avec un sourire reconnaissant. J'ai juste besoin de
-réfléchir un peu, toute seule, avant d'affronter mon père ce soir.
+— Ça ira, dit Zoé, reconnaissante. J'ai juste besoin de réfléchir un
+peu, toute seule, avant d'affronter mon père ce soir.
 
 — On comprend, dit Souly. À demain, alors.
 
@@ -2964,8 +2963,8 @@ son carnet. Numéro de ruche, direction observée, nombre d'abeilles
 comptées dans cette direction. Comme ça, on pourra tout comparer d'un
 coup d'œil, à la fin de l'après-midi.
 
-— Tu es vraiment doué pour organiser ce genre de chose, remarqua
-Solange, sincèrement impressionnée.
+— Tu es vraiment doué pour organiser tout ça, remarqua Solange,
+sincèrement impressionnée.
 
 — C'est le seul truc où je suis vraiment doué, avoua Souly, avec une
 modestie sincère pour une fois.
@@ -3165,18 +3164,19 @@ Le soleil déclinait doucement derrière les collines, teintant le ciel
 d'orange et de rose au-dessus des vignes silencieuses. La journée
 s'était achevée sur un sentiment étrange, mélange de soulagement
 d'avoir confirmé une hypothèse solide et d'appréhension devant ce
-qu'il restait encore à découvrir. Sofia et Souly avaient
-aidé à ranger le matériel d'observation avant de rentrer, chacun
-silencieux, perdu dans ses propres pensées sur ce que la journée du
-lendemain pourrait bien révéler.
+qu'il restait encore à découvrir. En attendant l'heure du dîner,
+Sofia et Souly s'étaient assis un moment sur les marches de la
+terrasse, chacun silencieux, perdu dans ses propres pensées sur ce
+que la journée du lendemain pourrait bien révéler.
 
 — Tu crois vraiment qu'on a raison, pour la direction ? demanda Sofia
-à son frère, tandis qu'ils repliaient les planches d'observation, la fatigue
-de la journée se lisant sur leurs visages.
+à son frère, la fatigue de la journée se lisant sur leurs deux
+visages.
 
-— Dix observations, exactement, précisa Souly, en consultant son
-carnet. Toutes les danses pointaient au même endroit. C'est difficile
-de se tromper, avec autant d'observations qui vont dans le même sens.
+— Dix observations, exactement, dit Souly, en consultant son
+carnet une dernière fois avant de le refermer. Toutes les danses
+pointaient au même endroit. C'est difficile de se tromper, avec
+autant d'observations qui vont dans le même sens.
 
 — Tu es toujours aussi sûr de toi, avec les chiffres ? demanda Sofia,
 un peu admirative.
@@ -3212,8 +3212,8 @@ fierté. Je crois que je vais la noter en rentrant.
 — Tu en inventes beaucoup, des phrases comme ça, en ce moment,
 remarqua Sofia.
 
-— Coteau-Fleuri m'inspire, dit Souly, simplement, en rangeant la
-dernière planche.
+— Coteau-Fleuri m'inspire, dit Souly, simplement, en se levant pour
+rentrer.
 
 Le dîner de ce soir-là avait débuté dans un calme inhabituel, chacun
 encore préoccupé par la journée d'observation des danses et par la
@@ -3264,8 +3264,8 @@ timidité.
 
 — Vous étiez comment, vous, à onze ans ? demanda Sofia, curieuse.
 
-— Beaucoup plus timide qu'aujourd'hui, avoua Solange, avec un sourire
-nostalgique. J'avais peur de tout, des abeilles y compris, figurez-vous.
+— Beaucoup plus timide qu'aujourd'hui, avoua Solange, avec nostalgie.
+J'avais peur de tout, des abeilles y compris, figurez-vous.
 C'est votre grand-père, mon père, qui m'a appris à ne plus en avoir
 peur, un été, en m'emmenant voir un ami apiculteur du village où on
 passait nos vacances.
@@ -3277,8 +3277,8 @@ La vie a de drôles de façons de nous transformer, avec le temps.
 
 — Ça a pris longtemps, à disparaître, cette peur-là ? demanda Sofia.
 
-— Un seul après-midi, en fait, avoua Solange, avec un sourire
-étonné. Parfois, ça va plus vite qu'on ne l'imagine.
+— Un seul après-midi, en fait, avoua Solange, encore étonnée
+elle-même. Parfois, ça va plus vite qu'on ne l'imagine.
 
 — Vous vous souvenez de la première fois où vous n'avez plus eu
 peur ? demanda Souly, curieux du déclic exact.
@@ -3850,7 +3850,7 @@ essaim tout à fait sain, qui cherchait un nouveau logis. Votre
 citronnelle a fait son travail, Ferdinand. Juste pas sur la colonie
 qu'on espérait.
 
-— Ça arrive souvent, ce genre de situation ? demanda Zoé.
+— Ça arrive souvent, une situation pareille ? demanda Zoé.
 
 — Plus souvent qu'on ne le croit, dit Solange. La nature est pleine
 d'imprévus, même pour les colonies les mieux organisées.
@@ -4050,8 +4050,6 @@ Zoé, en riant.
 que les gens jaloux n'ont pas encore appris à respecter, répliqua
 Ferdinand, sans se démonter.
 
-Ils croisèrent Mme Sonnier elle-même,
-
 Ils croisèrent Mme Sonnier elle-même, en train de vérifier
 personnellement l'alignement des guirlandes, une liste interminable
 à la main.
@@ -4082,7 +4080,7 @@ règle ? demanda Sofia, en admirant le plan de Zoé.
 — Avec beaucoup de ratures, aussi, avoua Zoé. J'ai recommencé trois
 fois avant d'être sûre de l'angle exact.
 
-— C'est exactement la rigueur qu'il faut, pour ce genre de preuve, dit
+— C'est exactement la rigueur qu'il faut, pour une preuve solide, dit
 Souly, sincèrement impressionné.
 
 — J'ai eu de bons professeurs, cette semaine, dit Zoé, avec un clin
@@ -4159,8 +4157,8 @@ presque introuvable sans cette méthode.
 — La méthode marche à tous les coups, alors ? demanda Sofia.
 
 — Elle ne garantit rien, dit Solange, honnêtement. Mais elle
-maximise les chances de ne rien manquer. C'est déjà beaucoup, dans ce
-genre de recherche.
+maximise les chances de ne rien manquer. C'est déjà beaucoup, pour une
+recherche comme celle-ci.
 
 Ils se répartirent les rangs, chacun avançant à petits pas, le regard
 rivé au sol et aux feuilles basses. Le soleil de fin de matinée
@@ -4319,7 +4317,7 @@ Sofia, en essayant de se représenter la chose.
 — C'est une très bonne image, dit Solange, impressionnée. Exactement
 ça. Un plan effacé, sans qu'on puisse le redessiner.
 
-— C'est déjà arrivé ailleurs, ce genre de chose ? demanda Zoé.
+— C'est déjà arrivé ailleurs, une chose pareille ? demanda Zoé.
 
 — Bien plus souvent qu'on ne le voudrait, dit Solange, gravement. Des
 apiculteurs du monde entier ont signalé des effondrements semblables,
@@ -4444,7 +4442,7 @@ qui abîmait les grappes ? demanda Souly, sincèrement curieux.
 
 — Il aurait posé des pièges à phéromones, sans doute, dit Régis, après
 réflexion. Ou introduit des insectes prédateurs naturels, des
-coccinelles, ce genre de chose. Des méthodes plus lentes, plus
+coccinelles, par exemple. Des méthodes plus lentes, plus
 patientes. Moins efficaces à court terme, mais sans le moindre danger
 pour les abeilles de Solange.
 
@@ -4651,7 +4649,7 @@ erreur, mais qu'il n'a jamais menti à personne.
 
 — On pourra t'aider à le préparer, ce soir, si tu veux, proposa Sofia.
 
-— J'aimerais bien, dit Zoé, avec un sourire reconnaissant.
+— J'aimerais bien, dit Zoé, reconnaissante.
 
 — Je crois que je veux le faire, dit Zoé, après réflexion. Pour papa.
 Et pour moi aussi, un peu.
@@ -4700,7 +4698,7 @@ approchaient de la maison.
 — Tu seras très bien, dit Souly, avec conviction. Tu as déjà été plus
 courageuse que la plupart des adultes, cette semaine.
 
-— J'espère que tu as raison, dit Zoé, avec un sourire timide.
+— J'espère que tu as raison, dit Zoé, timidement.
 
 — Ça va aller, pour toi, cette nuit ? demanda Sofia, à Zoé.
 
@@ -4767,8 +4765,8 @@ pour la fête.
 
 — Vous avez répété votre discours, au moins ? demanda Souly.
 
-— Une bonne dizaine de fois, avoua Solange, avec un sourire nerveux.
-Devant le miroir de la salle de bain, à trois heures du matin.
+— Une bonne dizaine de fois, avoua Solange, nerveusement. Devant le
+miroir de la salle de bain, à trois heures du matin.
 
 — Vous avez bien dormi, un peu, cette nuit ? demanda Sofia.
 
@@ -4777,8 +4775,8 @@ hier soir, tous ensemble. Ça m'a au moins occupé l'esprit de la peur.
 
 — Ça a aidé un peu, au moins ? demanda Souly.
 
-— Beaucoup, en fait, avoua Solange, avec un sourire reconnaissant.
-Se sentir moins seule dans tout ça, ça change tout.
+— Beaucoup, en fait, avoua Solange, avec gratitude. Se sentir moins
+seule dans tout ça, ça change tout.
 
 — Vous aviez peur ? demanda Souly, surpris de l'entendre l'admettre
 si directement.
@@ -4827,9 +4825,9 @@ un peu tremblante.
 
 — Ça vous va, si ça implique mon père ? demanda Zoé, la voix tendue.
 
-— Ton père est quelqu'un de bien, Zoé, dit Ferdinand, avec une
-gravité qui contrastait avec son habituelle exubérance. Quoi qu'il se
-soit passé, je suis certain qu'il n'a jamais voulu de mal à personne.
+— Ton père est quelqu'un de bien, Zoé, dit Ferdinand, sans la moindre
+trace de sa bonne humeur habituelle. Quoi qu'il se soit passé, je suis
+certain qu'il n'a jamais voulu de mal à personne.
 On jugera les faits, pas les rumeurs.
 
 Zoé lui adressa un sourire reconnaissant, visiblement soulagée par
@@ -4941,8 +4939,9 @@ erreur. Mais je n'ai jamais choisi, en connaissance de cause, de
 mettre en danger les abeilles de Solange.
 
 — C'est une nuance importante, dit Souly, prenant la parole devant
-tout le village avec un aplomb qui le surprit lui-même. Ne pas avoir
-vérifié une chose, ce n'est pas la même chose qu'avoir menti dessus.
+tout le village d'une voix ferme qu'il ne se connaissait pas encore.
+Ne pas avoir vérifié une chose, ce n'est pas la même chose qu'avoir
+menti dessus.
 
 Un murmure d'approbation, timide mais réel, parcourut une partie de la
 foule.
@@ -5168,8 +5167,9 @@ comme ça.
 — Ça vous met en colère, quand même, un petit peu ? demanda Sofia,
 qui n'aimait pas laisser les émotions dans le flou.
 
-— Un tout petit peu, admit Solange, avec un sourire fatigué. Mais la
-colère contre une situation qu'on ne peut plus changer, c'est de
+— Un tout petit peu, admit Solange, avec un haussement d'épaules las.
+Mais la colère contre une situation qu'on ne peut plus changer, c'est
+de
 l'énergie gaspillée. Je préfère la garder pour reconstruire la ruche,
 l'année prochaine.
 
@@ -5226,8 +5226,8 @@ une tisane chez elle, dans le jardin, une fois les stands rangés.
 — Une tisane, après une journée pareille ? avait demandé Ferdinand,
 un peu déçu. Rien de plus fort ?
 
-— De la tisane, Ferdinand, avait répété Solange, avec un sourire
-amusé. On garde le reste pour les grandes occasions.
+— De la tisane, Ferdinand, avait répété Solange, amusée. On garde le
+reste pour les grandes occasions.
 
 — Vous avez tous bien mérité un peu de calme, dit-elle, en installant
 soigneusement des tasses sur la table du jardin, sous le regard attentif de Propolis,
@@ -5334,8 +5334,8 @@ pendant qu'on cherchait la vérité.
 — C'est une belle façon de transformer une déception, remarqua
 Souly, sincèrement admiratif.
 
-— On apprend ça avec les années, dit Solange, avec un sourire fatigué
-mais réel.
+— On apprend ça avec les années, dit Solange, d'une voix lasse mais
+sincère.
 
 — Vous avez vu la tête de Madame Ithier, quand vous avez parlé de la
 danse frétillante ? demanda Sofia, avec un sourire malicieux. Celle
@@ -5393,7 +5393,7 @@ désastre.
 — Ça ne va pas être difficile, de leur parler, après tout ce qui
 s'est dit sur vous ? demanda Sofia, avec compassion.
 
-— Un peu, admit Régis, avec un sourire fatigué. Mais c'est justement
+— Un peu, admit Régis, la voix un peu tendue. Mais c'est justement
 pour ça qu'il faut le faire.
 
 — Vous croyez qu'ils vous écouteront ? demanda Sofia. Après tout,
@@ -5427,8 +5427,8 @@ histoires semblables à la nôtre, ça devient plus difficile à ignorer.
 C'est souvent comme ça que les choses changent, en réalité : pas d'un
 coup, mais par accumulation de voix qui refusent de se taire.
 
-— Ça prend toujours autant de temps, ce genre de changement ? demanda
-Zoé.
+— Ça prend toujours autant de temps, un vrai changement comme
+celui-là ? demanda Zoé.
 
 — Presque toujours, dit Solange, avec une pointe de résignation.
 
@@ -5524,8 +5524,8 @@ millions de jardins, fait une vraie différence, dit Solange, ravie.
 
 — Comme Zoé, avec son carnet de floraisons, remarqua Sofia.
 
-— Exactement comme ça, confirma Solange, avec un sourire affectueux
-pour Zoé. C'est déjà une contribution immense, à ton échelle.
+— Exactement comme ça, confirma Solange, en posant une main légère sur
+l'épaule de Zoé. C'est déjà une contribution immense, à ton échelle.
 
 Zoé rougit légèrement, visiblement touchée.
 
@@ -5649,8 +5649,7 @@ rôle. Pour tout.
 
 — On reviendra vous voir, promit Sofia. L'année prochaine, peut-être.
 
-— J'y compte bien, dit Zoé, avec un sourire sincère. On comparera nos
-carnets.
+— J'y compte bien, dit Zoé, sincèrement. On comparera nos carnets.
 
 — Le mien aura sûrement une nouvelle enquête à raconter d'ici là,
 remarqua Souly.
@@ -5673,6 +5672,33 @@ sourire malicieux.
 
 — J'en doute fortement, dit Régis, en riant, avant de prendre congé
 avec elle sur le chemin déjà sombre.
+
+Avant que Solange ne rentre débarrasser les tasses, Sofia désigna, du
+menton, la cicatrice sur sa main gauche.
+
+— Vous ne nous avez toujours pas dit d'où elle vient vraiment, celle-là,
+dit-elle. On n'a pas oublié, vous savez.
+
+— Ah, dit Solange, avec un sourire en coin. Cette semaine, je crois
+vous avoir raconté une morsure de renard, non ?
+
+— Et un accident de vélo, avant ça, ajouta Souly, en riant. Vous
+changez d'histoire à chaque fois.
+
+— C'est plus amusant ainsi, admit Solange. Mais puisque vous insistez
+vraiment, cette fois... C'est une piqûre de guêpe, toute bête, il y a
+longtemps. Rien d'héroïque du tout.
+
+— Une guêpe, pas une abeille ? demanda Sofia, presque déçue.
+
+— Une guêpe, confirma Solange. Les abeilles, contrairement à ce
+qu'on croit, ne m'ont jamais fait beaucoup de mal. Ce sont toujours
+les guêpes qui cherchent la bagarre.
+
+— On vous laissera inventer d'autres histoires, l'année prochaine,
+dit Souly, avec indulgence.
+
+— J'y compte bien, dit Solange, ravie.
 
 Une fois seuls, Sofia et Souly restèrent un moment dans le jardin,
 regardant les dernières lueurs du soir s'éteindre au-dessus du rucher.
@@ -5811,7 +5837,7 @@ chiffre exact.
 riant. Beaucoup, en tout cas. Une bonne étagère entière, à la maison.
 
 — On pourra les montrer à nos propres enfants, un jour, remarqua
-Souly, avec un sourire discret.
+Souly, presque timidement.
 
 — C'est exactement l'idée, dit Mamie Rose, avec un sourire attendri.
 Une histoire de famille qui s'écrit petit à petit, résumé après
@@ -5983,7 +6009,7 @@ toujours, une distance prudente avec la ruche ouverte.
 — Jamais, confirma Solange. Certaines peurs ne se soignent pas
 vraiment. On apprend juste à vivre avec, et parfois même à en rire.
 
-— Un peu comme la peur du noir de Souly, dit Sofia, avec un sourire
+— Un peu comme la peur du noir de Souly, dit Sofia, avec un regard
 espiègle vers son frère.
 
 — On n'était pas obligés de parler de ça, marmonna Souly, en rougissant
@@ -6191,8 +6217,8 @@ d'une fille formidable.
 Sofia. Enfin, si Tante Solange nous invite encore, ce qui, je pense,
 est déjà réglé.
 
-— C'est réglé depuis longtemps, confirma Solange, avec un sourire
-chaleureux. Cette maison sera toujours ouverte pour vous deux.
+— C'est réglé depuis longtemps, confirma Solange, chaleureusement.
+Cette maison sera toujours ouverte pour vous deux.
 
 — Vous devriez tous les deux venir voir ça de vos propres yeux, un
 jour, proposa Solange. Ça se comprend beaucoup mieux en le regardant

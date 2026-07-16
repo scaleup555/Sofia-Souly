@@ -48,8 +48,8 @@ mi-inquiète, mi-fascinée.
 ne piquent presque jamais si on ne les embête pas. Ce sont surtout les
 guêpes qui cherchent la bagarre, pas les abeilles.
 
-— C'est vrai, ça ? demanda Souly, sceptique. Ou c'est le genre de
-phrase qu'on dit aux enfants pour les rassurer ?
+— C'est vrai, ça ? demanda Souly, sceptique. Ou c'est juste une phrase
+qu'on dit aux enfants pour les rassurer ?
 
 — Vous demanderez à votre tante, dit Mamie Rose, avec un sourire qui
 ne trompait personne. Elle vous expliquera bien mieux que moi.
@@ -269,7 +269,7 @@ la ruche. Sans pitié.
 
 — C'est surtout pratique, dit Solange. La colonie ne peut pas nourrir
 des bouches inutiles pendant l'hiver. La nature n'a pas vraiment de
-sentiment, sur ce genre de question.
+sentiment, sur ces questions-là.
 
 — Comment vous savez laquelle est la reine, si elle ne porte pas de
 couronne ? demanda Sofia, très sérieusement.

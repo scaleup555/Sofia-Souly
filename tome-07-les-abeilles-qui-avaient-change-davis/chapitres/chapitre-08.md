@@ -179,7 +179,7 @@ essaim tout à fait sain, qui cherchait un nouveau logis. Votre
 citronnelle a fait son travail, Ferdinand. Juste pas sur la colonie
 qu'on espérait.
 
-— Ça arrive souvent, ce genre de situation ? demanda Zoé.
+— Ça arrive souvent, une situation pareille ? demanda Zoé.
 
 — Plus souvent qu'on ne le croit, dit Solange. La nature est pleine
 d'imprévus, même pour les colonies les mieux organisées.
@@ -379,8 +379,6 @@ Zoé, en riant.
 que les gens jaloux n'ont pas encore appris à respecter, répliqua
 Ferdinand, sans se démonter.
 
-Ils croisèrent Mme Sonnier elle-même,
-
 Ils croisèrent Mme Sonnier elle-même, en train de vérifier
 personnellement l'alignement des guirlandes, une liste interminable
 à la main.
@@ -411,7 +409,7 @@ règle ? demanda Sofia, en admirant le plan de Zoé.
 — Avec beaucoup de ratures, aussi, avoua Zoé. J'ai recommencé trois
 fois avant d'être sûre de l'angle exact.
 
-— C'est exactement la rigueur qu'il faut, pour ce genre de preuve, dit
+— C'est exactement la rigueur qu'il faut, pour une preuve solide, dit
 Souly, sincèrement impressionné.
 
 — J'ai eu de bons professeurs, cette semaine, dit Zoé, avec un clin
@@ -488,8 +486,8 @@ presque introuvable sans cette méthode.
 — La méthode marche à tous les coups, alors ? demanda Sofia.
 
 — Elle ne garantit rien, dit Solange, honnêtement. Mais elle
-maximise les chances de ne rien manquer. C'est déjà beaucoup, dans ce
-genre de recherche.
+maximise les chances de ne rien manquer. C'est déjà beaucoup, pour une
+recherche comme celle-ci.
 
 Ils se répartirent les rangs, chacun avançant à petits pas, le regard
 rivé au sol et aux feuilles basses. Le soleil de fin de matinée

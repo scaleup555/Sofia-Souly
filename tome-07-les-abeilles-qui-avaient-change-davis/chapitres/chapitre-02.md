@@ -342,15 +342,14 @@ Zoé, impressionnée.
 — Alors on va bien s'entendre, dit Solange, en souriant à Souly qui,
 pour une fois, ne sut pas quoi répondre.
 
-Ils passèrent le reste de la matinée à examiner méthodiquement les
-autres ruches, Solange expliquant à chaque étape ce qu'il fallait
-observer : la quantité d'abeilles à l'entrée, le bruit du
-bourdonnement, la présence ou l'absence de pollen sur les pattes des
-butineuses qui revenaient.
+Ils examinèrent ensemble les deux ruches les plus proches de la jaune,
+Solange expliquant à chaque étape ce qu'il fallait observer : la
+quantité d'abeilles à l'entrée, le bruit du bourdonnement, la présence
+ou l'absence de pollen sur les pattes des butineuses qui revenaient.
 
-— Toutes les autres ruches ont l'air en pleine forme, remarqua Souly,
-en notant scrupuleusement chaque observation. Seule la jaune a un
-problème.
+— Celles-là ont l'air en pleine forme, remarqua Souly, en notant
+scrupuleusement chaque observation. Seule la jaune a un problème,
+jusqu'ici.
 
 — C'est un détail important, dit Solange. Si c'était quelque chose
 dans l'air, ou dans l'eau, toutes les ruches seraient touchées de la

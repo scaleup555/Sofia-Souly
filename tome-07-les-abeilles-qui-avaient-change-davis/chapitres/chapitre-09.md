@@ -113,7 +113,7 @@ Sofia, en essayant de se représenter la chose.
 — C'est une très bonne image, dit Solange, impressionnée. Exactement
 ça. Un plan effacé, sans qu'on puisse le redessiner.
 
-— C'est déjà arrivé ailleurs, ce genre de chose ? demanda Zoé.
+— C'est déjà arrivé ailleurs, une chose pareille ? demanda Zoé.
 
 — Bien plus souvent qu'on ne le voudrait, dit Solange, gravement. Des
 apiculteurs du monde entier ont signalé des effondrements semblables,
@@ -238,7 +238,7 @@ qui abîmait les grappes ? demanda Souly, sincèrement curieux.
 
 — Il aurait posé des pièges à phéromones, sans doute, dit Régis, après
 réflexion. Ou introduit des insectes prédateurs naturels, des
-coccinelles, ce genre de chose. Des méthodes plus lentes, plus
+coccinelles, par exemple. Des méthodes plus lentes, plus
 patientes. Moins efficaces à court terme, mais sans le moindre danger
 pour les abeilles de Solange.
 
@@ -445,7 +445,7 @@ erreur, mais qu'il n'a jamais menti à personne.
 
 — On pourra t'aider à le préparer, ce soir, si tu veux, proposa Sofia.
 
-— J'aimerais bien, dit Zoé, avec un sourire reconnaissant.
+— J'aimerais bien, dit Zoé, reconnaissante.
 
 — Je crois que je veux le faire, dit Zoé, après réflexion. Pour papa.
 Et pour moi aussi, un peu.
@@ -494,7 +494,7 @@ approchaient de la maison.
 — Tu seras très bien, dit Souly, avec conviction. Tu as déjà été plus
 courageuse que la plupart des adultes, cette semaine.
 
-— J'espère que tu as raison, dit Zoé, avec un sourire timide.
+— J'espère que tu as raison, dit Zoé, timidement.
 
 — Ça va aller, pour toi, cette nuit ? demanda Sofia, à Zoé.
 

@@ -288,8 +288,8 @@ faut vraiment. Je n'aime pas trop cacher les choses, en général.
 
 — C'est courageux, ça, dit Sofia, sincèrement admirative.
 
-— C'est surtout nécessaire, dit Zoé, avec une gravité qui contrastait
-avec son énergie habituelle. Vous savez ce qu'on raconte déjà, au
+— C'est surtout nécessaire, dit Zoé, soudain beaucoup plus sérieuse
+que d'habitude. Vous savez ce qu'on raconte déjà, au
 marché, ce matin ?
 
 — On ne sait pas, dit Souly.

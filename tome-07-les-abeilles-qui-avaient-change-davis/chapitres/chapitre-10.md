@@ -55,8 +55,8 @@ pour la fête.
 
 — Vous avez répété votre discours, au moins ? demanda Souly.
 
-— Une bonne dizaine de fois, avoua Solange, avec un sourire nerveux.
-Devant le miroir de la salle de bain, à trois heures du matin.
+— Une bonne dizaine de fois, avoua Solange, nerveusement. Devant le
+miroir de la salle de bain, à trois heures du matin.
 
 — Vous avez bien dormi, un peu, cette nuit ? demanda Sofia.
 
@@ -65,8 +65,8 @@ hier soir, tous ensemble. Ça m'a au moins occupé l'esprit de la peur.
 
 — Ça a aidé un peu, au moins ? demanda Souly.
 
-— Beaucoup, en fait, avoua Solange, avec un sourire reconnaissant.
-Se sentir moins seule dans tout ça, ça change tout.
+— Beaucoup, en fait, avoua Solange, avec gratitude. Se sentir moins
+seule dans tout ça, ça change tout.
 
 — Vous aviez peur ? demanda Souly, surpris de l'entendre l'admettre
 si directement.
@@ -115,9 +115,9 @@ un peu tremblante.
 
 — Ça vous va, si ça implique mon père ? demanda Zoé, la voix tendue.
 
-— Ton père est quelqu'un de bien, Zoé, dit Ferdinand, avec une
-gravité qui contrastait avec son habituelle exubérance. Quoi qu'il se
-soit passé, je suis certain qu'il n'a jamais voulu de mal à personne.
+— Ton père est quelqu'un de bien, Zoé, dit Ferdinand, sans la moindre
+trace de sa bonne humeur habituelle. Quoi qu'il se soit passé, je suis
+certain qu'il n'a jamais voulu de mal à personne.
 On jugera les faits, pas les rumeurs.
 
 Zoé lui adressa un sourire reconnaissant, visiblement soulagée par
@@ -229,8 +229,9 @@ erreur. Mais je n'ai jamais choisi, en connaissance de cause, de
 mettre en danger les abeilles de Solange.
 
 — C'est une nuance importante, dit Souly, prenant la parole devant
-tout le village avec un aplomb qui le surprit lui-même. Ne pas avoir
-vérifié une chose, ce n'est pas la même chose qu'avoir menti dessus.
+tout le village d'une voix ferme qu'il ne se connaissait pas encore.
+Ne pas avoir vérifié une chose, ce n'est pas la même chose qu'avoir
+menti dessus.
 
 Un murmure d'approbation, timide mais réel, parcourut une partie de la
 foule.
@@ -456,8 +457,9 @@ comme ça.
 — Ça vous met en colère, quand même, un petit peu ? demanda Sofia,
 qui n'aimait pas laisser les émotions dans le flou.
 
-— Un tout petit peu, admit Solange, avec un sourire fatigué. Mais la
-colère contre une situation qu'on ne peut plus changer, c'est de
+— Un tout petit peu, admit Solange, avec un haussement d'épaules las.
+Mais la colère contre une situation qu'on ne peut plus changer, c'est
+de
 l'énergie gaspillée. Je préfère la garder pour reconstruire la ruche,
 l'année prochaine.
 

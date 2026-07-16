@@ -10,8 +10,8 @@ une tisane chez elle, dans le jardin, une fois les stands rangés.
 — Une tisane, après une journée pareille ? avait demandé Ferdinand,
 un peu déçu. Rien de plus fort ?
 
-— De la tisane, Ferdinand, avait répété Solange, avec un sourire
-amusé. On garde le reste pour les grandes occasions.
+— De la tisane, Ferdinand, avait répété Solange, amusée. On garde le
+reste pour les grandes occasions.
 
 — Vous avez tous bien mérité un peu de calme, dit-elle, en installant
 soigneusement des tasses sur la table du jardin, sous le regard attentif de Propolis,
@@ -118,8 +118,8 @@ pendant qu'on cherchait la vérité.
 — C'est une belle façon de transformer une déception, remarqua
 Souly, sincèrement admiratif.
 
-— On apprend ça avec les années, dit Solange, avec un sourire fatigué
-mais réel.
+— On apprend ça avec les années, dit Solange, d'une voix lasse mais
+sincère.
 
 — Vous avez vu la tête de Madame Ithier, quand vous avez parlé de la
 danse frétillante ? demanda Sofia, avec un sourire malicieux. Celle
@@ -177,7 +177,7 @@ désastre.
 — Ça ne va pas être difficile, de leur parler, après tout ce qui
 s'est dit sur vous ? demanda Sofia, avec compassion.
 
-— Un peu, admit Régis, avec un sourire fatigué. Mais c'est justement
+— Un peu, admit Régis, la voix un peu tendue. Mais c'est justement
 pour ça qu'il faut le faire.
 
 — Vous croyez qu'ils vous écouteront ? demanda Sofia. Après tout,
@@ -211,8 +211,8 @@ histoires semblables à la nôtre, ça devient plus difficile à ignorer.
 C'est souvent comme ça que les choses changent, en réalité : pas d'un
 coup, mais par accumulation de voix qui refusent de se taire.
 
-— Ça prend toujours autant de temps, ce genre de changement ? demanda
-Zoé.
+— Ça prend toujours autant de temps, un vrai changement comme
+celui-là ? demanda Zoé.
 
 — Presque toujours, dit Solange, avec une pointe de résignation.
 
@@ -308,8 +308,8 @@ millions de jardins, fait une vraie différence, dit Solange, ravie.
 
 — Comme Zoé, avec son carnet de floraisons, remarqua Sofia.
 
-— Exactement comme ça, confirma Solange, avec un sourire affectueux
-pour Zoé. C'est déjà une contribution immense, à ton échelle.
+— Exactement comme ça, confirma Solange, en posant une main légère sur
+l'épaule de Zoé. C'est déjà une contribution immense, à ton échelle.
 
 Zoé rougit légèrement, visiblement touchée.
 
@@ -433,8 +433,7 @@ rôle. Pour tout.
 
 — On reviendra vous voir, promit Sofia. L'année prochaine, peut-être.
 
-— J'y compte bien, dit Zoé, avec un sourire sincère. On comparera nos
-carnets.
+— J'y compte bien, dit Zoé, sincèrement. On comparera nos carnets.
 
 — Le mien aura sûrement une nouvelle enquête à raconter d'ici là,
 remarqua Souly.
@@ -457,6 +456,33 @@ sourire malicieux.
 
 — J'en doute fortement, dit Régis, en riant, avant de prendre congé
 avec elle sur le chemin déjà sombre.
+
+Avant que Solange ne rentre débarrasser les tasses, Sofia désigna, du
+menton, la cicatrice sur sa main gauche.
+
+— Vous ne nous avez toujours pas dit d'où elle vient vraiment, celle-là,
+dit-elle. On n'a pas oublié, vous savez.
+
+— Ah, dit Solange, avec un sourire en coin. Cette semaine, je crois
+vous avoir raconté une morsure de renard, non ?
+
+— Et un accident de vélo, avant ça, ajouta Souly, en riant. Vous
+changez d'histoire à chaque fois.
+
+— C'est plus amusant ainsi, admit Solange. Mais puisque vous insistez
+vraiment, cette fois... C'est une piqûre de guêpe, toute bête, il y a
+longtemps. Rien d'héroïque du tout.
+
+— Une guêpe, pas une abeille ? demanda Sofia, presque déçue.
+
+— Une guêpe, confirma Solange. Les abeilles, contrairement à ce
+qu'on croit, ne m'ont jamais fait beaucoup de mal. Ce sont toujours
+les guêpes qui cherchent la bagarre.
+
+— On vous laissera inventer d'autres histoires, l'année prochaine,
+dit Souly, avec indulgence.
+
+— J'y compte bien, dit Solange, ravie.
 
 Une fois seuls, Sofia et Souly restèrent un moment dans le jardin,
 regardant les dernières lueurs du soir s'éteindre au-dessus du rucher.

@@ -121,9 +121,9 @@ les abeilles arrêtent tout de suite.
 visiblement aux rumeurs qui circulaient déjà sur son père.
 
 — Sur beaucoup de choses chez les abeilles, en fait, confirma Solange,
-avec un sourire triste.
+un peu tristement.
 
-— J'aime bien cette idée, dit Sofia, avec un sourire pensif.
+— J'aime bien cette idée, dit Sofia, pensive.
 
 — C'est une comparaison très juste, dit Solange, sincèrement
 impressionnée. Les abeilles sont, sur ce point précis, bien plus
@@ -509,8 +509,8 @@ sourire qui n'en disait pas plus.
 — Tu veux qu'on t'accompagne jusque chez toi ? proposa Sofia, en
 remarquant la fatigue sur le visage de Zoé.
 
-— Ça ira, dit Zoé, avec un sourire reconnaissant. J'ai juste besoin de
-réfléchir un peu, toute seule, avant d'affronter mon père ce soir.
+— Ça ira, dit Zoé, reconnaissante. J'ai juste besoin de réfléchir un
+peu, toute seule, avant d'affronter mon père ce soir.
 
 — On comprend, dit Souly. À demain, alors.
 

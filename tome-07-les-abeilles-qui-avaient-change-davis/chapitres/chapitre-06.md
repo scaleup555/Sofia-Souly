@@ -327,8 +327,8 @@ son carnet. Numéro de ruche, direction observée, nombre d'abeilles
 comptées dans cette direction. Comme ça, on pourra tout comparer d'un
 coup d'œil, à la fin de l'après-midi.
 
-— Tu es vraiment doué pour organiser ce genre de chose, remarqua
-Solange, sincèrement impressionnée.
+— Tu es vraiment doué pour organiser tout ça, remarqua Solange,
+sincèrement impressionnée.
 
 — C'est le seul truc où je suis vraiment doué, avoua Souly, avec une
 modestie sincère pour une fois.

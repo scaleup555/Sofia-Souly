@@ -4,18 +4,19 @@ Le soleil déclinait doucement derrière les collines, teintant le ciel
 d'orange et de rose au-dessus des vignes silencieuses. La journée
 s'était achevée sur un sentiment étrange, mélange de soulagement
 d'avoir confirmé une hypothèse solide et d'appréhension devant ce
-qu'il restait encore à découvrir. Sofia et Souly avaient
-aidé à ranger le matériel d'observation avant de rentrer, chacun
-silencieux, perdu dans ses propres pensées sur ce que la journée du
-lendemain pourrait bien révéler.
+qu'il restait encore à découvrir. En attendant l'heure du dîner,
+Sofia et Souly s'étaient assis un moment sur les marches de la
+terrasse, chacun silencieux, perdu dans ses propres pensées sur ce
+que la journée du lendemain pourrait bien révéler.
 
 — Tu crois vraiment qu'on a raison, pour la direction ? demanda Sofia
-à son frère, tandis qu'ils repliaient les planches d'observation, la fatigue
-de la journée se lisant sur leurs visages.
+à son frère, la fatigue de la journée se lisant sur leurs deux
+visages.
 
-— Dix observations, exactement, précisa Souly, en consultant son
-carnet. Toutes les danses pointaient au même endroit. C'est difficile
-de se tromper, avec autant d'observations qui vont dans le même sens.
+— Dix observations, exactement, dit Souly, en consultant son
+carnet une dernière fois avant de le refermer. Toutes les danses
+pointaient au même endroit. C'est difficile de se tromper, avec
+autant d'observations qui vont dans le même sens.
 
 — Tu es toujours aussi sûr de toi, avec les chiffres ? demanda Sofia,
 un peu admirative.
@@ -51,8 +52,8 @@ fierté. Je crois que je vais la noter en rentrant.
 — Tu en inventes beaucoup, des phrases comme ça, en ce moment,
 remarqua Sofia.
 
-— Coteau-Fleuri m'inspire, dit Souly, simplement, en rangeant la
-dernière planche.
+— Coteau-Fleuri m'inspire, dit Souly, simplement, en se levant pour
+rentrer.
 
 Le dîner de ce soir-là avait débuté dans un calme inhabituel, chacun
 encore préoccupé par la journée d'observation des danses et par la
@@ -103,8 +104,8 @@ timidité.
 
 — Vous étiez comment, vous, à onze ans ? demanda Sofia, curieuse.
 
-— Beaucoup plus timide qu'aujourd'hui, avoua Solange, avec un sourire
-nostalgique. J'avais peur de tout, des abeilles y compris, figurez-vous.
+— Beaucoup plus timide qu'aujourd'hui, avoua Solange, avec nostalgie.
+J'avais peur de tout, des abeilles y compris, figurez-vous.
 C'est votre grand-père, mon père, qui m'a appris à ne plus en avoir
 peur, un été, en m'emmenant voir un ami apiculteur du village où on
 passait nos vacances.
@@ -116,8 +117,8 @@ La vie a de drôles de façons de nous transformer, avec le temps.
 
 — Ça a pris longtemps, à disparaître, cette peur-là ? demanda Sofia.
 
-— Un seul après-midi, en fait, avoua Solange, avec un sourire
-étonné. Parfois, ça va plus vite qu'on ne l'imagine.
+— Un seul après-midi, en fait, avoua Solange, encore étonnée
+elle-même. Parfois, ça va plus vite qu'on ne l'imagine.
 
 — Vous vous souvenez de la première fois où vous n'avez plus eu
 peur ? demanda Souly, curieux du déclic exact.

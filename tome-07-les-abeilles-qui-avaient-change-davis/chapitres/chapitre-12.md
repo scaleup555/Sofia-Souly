@@ -75,7 +75,7 @@ chiffre exact.
 riant. Beaucoup, en tout cas. Une bonne étagère entière, à la maison.
 
 — On pourra les montrer à nos propres enfants, un jour, remarqua
-Souly, avec un sourire discret.
+Souly, presque timidement.
 
 — C'est exactement l'idée, dit Mamie Rose, avec un sourire attendri.
 Une histoire de famille qui s'écrit petit à petit, résumé après
@@ -247,7 +247,7 @@ toujours, une distance prudente avec la ruche ouverte.
 — Jamais, confirma Solange. Certaines peurs ne se soignent pas
 vraiment. On apprend juste à vivre avec, et parfois même à en rire.
 
-— Un peu comme la peur du noir de Souly, dit Sofia, avec un sourire
+— Un peu comme la peur du noir de Souly, dit Sofia, avec un regard
 espiègle vers son frère.
 
 — On n'était pas obligés de parler de ça, marmonna Souly, en rougissant
@@ -455,8 +455,8 @@ d'une fille formidable.
 Sofia. Enfin, si Tante Solange nous invite encore, ce qui, je pense,
 est déjà réglé.
 
-— C'est réglé depuis longtemps, confirma Solange, avec un sourire
-chaleureux. Cette maison sera toujours ouverte pour vous deux.
+— C'est réglé depuis longtemps, confirma Solange, chaleureusement.
+Cette maison sera toujours ouverte pour vous deux.
 
 — Vous devriez tous les deux venir voir ça de vos propres yeux, un
 jour, proposa Solange. Ça se comprend beaucoup mieux en le regardant
