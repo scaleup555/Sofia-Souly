@@ -163,6 +163,42 @@ Tout nouvel épisode doit relire ce fichier avant d'écrire une ligne.
 - Personnage-ressource pour tout tome futur à thème astronomique/
   patrimoine familial transmis oralement.
 
+### Tante Solange (introduite au tome 7)
+- Sœur du père de Sofia et Souly (donc leur tante paternelle — à varier
+  systématiquement des liens déjà utilisés : marraine de Camille, amie
+  de longue date de Mamie Rose, cousin de Camille, amie d'école de
+  Camille). La cinquantaine, apicultrice depuis plus de vingt ans,
+  dirige Le Rucher des Bruyères à Coteau-Fleuri.
+- Direct, sec, un humour pince-sans-rire redoutable. Fredonne sans y
+  penser quand elle travaille près des ruches — elle prétend que c'est
+  pour les abeilles, mais tout le monde sait qu'elle ne peut pas s'en
+  empêcher.
+- Chapeau de paille avec voile toujours repoussé sur le haut du crâne,
+  jamais rabattu tant qu'elle n'est pas devant une ruche ouverte. Une
+  cicatrice sur la main gauche dont elle raconte l'origine différemment
+  à chaque fois, pour le plaisir de brouiller les pistes (ce n'est
+  presque jamais la vraie histoire — la vraie, une piqûre de guêpe et
+  non d'abeille, ne sort que si on insiste vraiment).
+- Un chien, Propolis, énorme et placide, qui vit au rucher depuis
+  toujours et qui a une peur bleue des abeilles — se cache toujours
+  derrière les jambes de Solange dès qu'une ruche s'ouvre.
+- Personnage-ressource pour tout tome futur à thème apicole/agricole.
+
+### Zoé Lambert (introduite au tome 7)
+- 11 ans, vit à Coteau-Fleuri, fille de Régis Lambert (vigneron dont
+  les vignes jouxtent le rucher de Tante Solange). Franche, un peu
+  bagarreuse au premier abord, mais loyale jusqu'au bout une fois
+  qu'elle a choisi son camp — à varier systématiquement des
+  tempéraments déjà utilisés pour les autres enfants-ressources (Max
+  sûr de lui, Milo grimpeur terre-à-terre, Yanis méfiant et loyal,
+  Iris théâtrale et enthousiaste).
+- Tient un carnet de jardin où elle note la floraison de chaque plante
+  du village, mois après mois, depuis qu'elle a huit ans — sa propre
+  version du Carnet des Preuves de Souly, ce qui crée une complicité
+  immédiate entre eux.
+- Personnage-ressource pour tout tome futur à thème apicole/agricole/
+  botanique.
+
 ## Règle d'or de continuité
 - Les faits établis dans un tome (âges, liens de parenté, peurs, habitudes) ne
   doivent JAMAIS être contredits dans un tome suivant.
