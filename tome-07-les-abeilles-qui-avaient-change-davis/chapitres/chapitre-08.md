@@ -22,7 +22,7 @@ deux bouchées. C'est fatigant, mais c'est aussi... je ne sais pas.
 Important.
 
 — C'est exactement ce que ressentent les vrais enquêteurs, je crois,
-dit Mamie Rose, avec un sourire attendri. Cette fatigue-là, on
+dit Mamie Rose, en lui caressant les cheveux. Cette fatigue-là, on
 l'appelle parfois avoir vécu quelque chose qui compte.
 
 Une fine brume matinale flottait encore sur le pré, se dissipant peu à
@@ -433,9 +433,9 @@ Je n'ai rien trouvé d'anormal, à l'œil nu.
 — Vous avez dormi un peu, cette fois ? demanda Solange, en l'observant
 avec attention.
 
-— Pas vraiment, admit Régis, avec un sourire fatigué. Difficile de
-dormir quand on se demande si on a empoisonné le rucher de sa voisine
-sans le savoir.
+— Pas vraiment, admit Régis, les traits tirés. Difficile de dormir
+quand on se demande si on a empoisonné le rucher de sa voisine sans le
+savoir.
 
 — On ne sait toujours pas ça avec certitude, rappela Solange, avec une
 douceur qu'elle n'avait pas montrée les premiers jours. On vient

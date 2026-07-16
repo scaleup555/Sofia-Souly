@@ -70,7 +70,7 @@ en a aucune.
 — Alors où elles sont passées ? demanda Sofia.
 
 — C'est justement la question qui m'empêche de boire mon café, dit
-Solange, avec un sourire fatigué qui ne cachait pas grand-chose de son
+Solange, en se frottant les yeux, sans cacher grand-chose de son
 inquiétude réelle.
 
 — Ça a pu se passer quand, exactement ? demanda Souly, son carnet déjà
@@ -245,7 +245,7 @@ personnel.
 la troisième personne. Presque treize.
 
 — « Presque treize » et « douze », c'est la même chose, remarqua Zoé,
-avec un sourire en coin.
+taquine.
 
 — Absolument pas la même chose, protesta Souly, avec un sérieux qui
 fit sourire tout le monde, y compris lui-même après coup.
@@ -504,7 +504,7 @@ jours-ci, ajouta-t-il, plus bas.
 Zoé serra le bras de son père, sans un mot, mais avec une intensité
 qui en disait long.
 
-— Vous avez déjà eu des soucis, avant, avec ce genre de traitement ?
+— Vous avez déjà eu des soucis, avant, avec ce traitement-là ?
 demanda Souly, curieux.
 
 — Jamais, dit Régis. J'utilisais le même produit depuis dix ans, avant

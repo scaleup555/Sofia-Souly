@@ -177,7 +177,7 @@ prudemment sans rien toucher.
 oublié là après le traitement, en pleine saison de travail, plutôt
 que rangé tout de suite.
 
-— Ça arrive souvent, ce genre d'oubli, en pleine récolte, confirma
+— Ça arrive souvent, un oubli pareil, en pleine récolte, confirma
 Régis, un peu gêné. On n'a jamais le temps de tout ranger
 correctement, à cette période de l'année.
 
@@ -323,7 +323,7 @@ présentant comme sûr.
 — Ça compte beaucoup, ce que vous venez de dire, remarqua Sofia,
 sincèrement.
 
-— Voilà un vrai premier pas, dit Solange, avec un sourire fatigué mais
+— Voilà un vrai premier pas, dit Solange, d'une voix éreintée mais
 sincère.
 
 Zoé serra la main de son père un peu plus fort.

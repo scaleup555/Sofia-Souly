@@ -250,8 +250,8 @@ défendre l'entrée.
 
 — Et les mâles, ils font quoi ? demanda Souly.
 
-— Les faux-bourdons ? dit Solange, avec un sourire en coin. Pas
-grand-chose, si je suis honnête. Ils ne travaillent pas, ne piquent
+— Les faux-bourdons ? dit Solange, mi-amusée. Pas grand-chose, si je
+suis honnête. Ils ne travaillent pas, ne piquent
 même pas — ils n'en ont pas les moyens physiques, d'ailleurs, ils n'ont
 pas de dard. Leur seul rôle, c'est de féconder une nouvelle reine, s'il
 y en a besoin. Le reste du temps, ils se laissent nourrir par les
@@ -354,7 +354,7 @@ luxe de détails savoureux ses mésaventures avec un vieil apiculteur
 rival du village, un certain Ferdinand Rocher.
 
 — Il a construit quoi, cette fois ? demanda Mamie Rose, visiblement
-déjà familière de ce genre d'anecdote.
+déjà habituée à ces histoires.
 
 — Un « abeille-o-mètre », dit Solange, en levant les yeux au ciel.
 Un appareil censé compter automatiquement les abeilles qui entrent et

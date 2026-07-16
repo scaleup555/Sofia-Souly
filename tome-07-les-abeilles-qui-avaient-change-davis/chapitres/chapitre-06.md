@@ -203,8 +203,8 @@ La femme, un peu penaude, s'éloigna sans insister davantage.
 — Vous entendez ça ? dit Zoé, la voix tremblante de colère. Une histoire
 de bornage. Ils inventent n'importe quoi, maintenant.
 
-— Il y a un fond de vérité, parfois, dans ce genre d'histoire ? demanda
-Sofia, curieuse malgré la situation.
+— Il y a un fond de vérité, parfois, derrière une rumeur pareille ?
+demanda Sofia, curieuse malgré la situation.
 
 — Jamais entre nous, dit Solange, catégorique. Régis et moi avons
 toujours eu d'excellents rapports de voisinage, depuis vingt ans.

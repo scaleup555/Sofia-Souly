@@ -357,8 +357,9 @@ est dite, remarqua Souly, en sortant machinalement son carnet.
 
 — Toujours, confirma Souly, en la notant avec soin.
 
-Un silence chaleureux suivit ces mots, seulement brisé par
-l'arrivée bruyante de Ferdinand, un pot de miel neuf sous chaque bras.
+Personne ne dit rien pendant un moment, jusqu'à ce que l'arrivée
+bruyante de Ferdinand, un pot de miel neuf sous chaque bras, ne brise
+la douceur de l'instant.
 
 — J'ai quand même préparé mon discours, annonça-t-il, en s'installant
 sans y avoir été invité. Vous voulez l'entendre, maintenant ?
@@ -397,12 +398,13 @@ ménager, même dans la passion.
 
 — C'est une sage résolution, dit Solange, en riant.
 
-— Vous avez retenu la leçon de vos six premiers échecs, alors, remarqua
+— Vous avez retenu la leçon de vos six échecs, alors, remarqua
 Souly.
 
-— Sept échecs, corrigea Ferdinand, avec une fierté qui ne semblait
-jamais faiblir. Et oui, j'ai retenu une leçon de chacun d'eux. C'est
-comme ça qu'on progresse, dans la vie : un échec à la fois, jusqu'à ce
+— Six échecs, et une vraie victoire, corrigea Ferdinand, avec une
+fierté qui ne semblait jamais faiblir. Et oui, j'ai retenu une leçon
+de chacun de ces échecs. C'est comme ça qu'on progresse, dans la vie :
+un échec à la fois, jusqu'à ce
 que, par accident ou par génie, ça finisse par marcher.
 
 — Vous ne saurez jamais lequel des deux c'était, pour cette fois,
@@ -451,8 +453,8 @@ fois vraiment détendu depuis des jours. Après tout ce qu'elle a fait
 cette semaine, je ne vois pas comment je pourrais refuser quoi que ce
 soit à ma fille.
 
-— Tu regretteras peut-être cette promesse, papa, dit Zoé, avec un
-sourire malicieux.
+— Tu regretteras peut-être cette promesse, papa, dit Zoé, en clignant
+de l'œil.
 
 — J'en doute fortement, dit Régis, en riant, avant de prendre congé
 avec elle sur le chemin déjà sombre.

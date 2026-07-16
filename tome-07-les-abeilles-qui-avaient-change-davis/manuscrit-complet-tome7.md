@@ -252,8 +252,8 @@ défendre l'entrée.
 
 — Et les mâles, ils font quoi ? demanda Souly.
 
-— Les faux-bourdons ? dit Solange, avec un sourire en coin. Pas
-grand-chose, si je suis honnête. Ils ne travaillent pas, ne piquent
+— Les faux-bourdons ? dit Solange, mi-amusée. Pas grand-chose, si je
+suis honnête. Ils ne travaillent pas, ne piquent
 même pas — ils n'en ont pas les moyens physiques, d'ailleurs, ils n'ont
 pas de dard. Leur seul rôle, c'est de féconder une nouvelle reine, s'il
 y en a besoin. Le reste du temps, ils se laissent nourrir par les
@@ -356,7 +356,7 @@ luxe de détails savoureux ses mésaventures avec un vieil apiculteur
 rival du village, un certain Ferdinand Rocher.
 
 — Il a construit quoi, cette fois ? demanda Mamie Rose, visiblement
-déjà familière de ce genre d'anecdote.
+déjà habituée à ces histoires.
 
 — Un « abeille-o-mètre », dit Solange, en levant les yeux au ciel.
 Un appareil censé compter automatiquement les abeilles qui entrent et
@@ -594,7 +594,7 @@ en a aucune.
 — Alors où elles sont passées ? demanda Sofia.
 
 — C'est justement la question qui m'empêche de boire mon café, dit
-Solange, avec un sourire fatigué qui ne cachait pas grand-chose de son
+Solange, en se frottant les yeux, sans cacher grand-chose de son
 inquiétude réelle.
 
 — Ça a pu se passer quand, exactement ? demanda Souly, son carnet déjà
@@ -769,7 +769,7 @@ personnel.
 la troisième personne. Presque treize.
 
 — « Presque treize » et « douze », c'est la même chose, remarqua Zoé,
-avec un sourire en coin.
+taquine.
 
 — Absolument pas la même chose, protesta Souly, avec un sérieux qui
 fit sourire tout le monde, y compris lui-même après coup.
@@ -1028,7 +1028,7 @@ jours-ci, ajouta-t-il, plus bas.
 Zoé serra le bras de son père, sans un mot, mais avec une intensité
 qui en disait long.
 
-— Vous avez déjà eu des soucis, avant, avec ce genre de traitement ?
+— Vous avez déjà eu des soucis, avant, avec ce traitement-là ?
 demanda Souly, curieux.
 
 — Jamais, dit Régis. J'utilisais le même produit depuis dix ans, avant
@@ -1166,7 +1166,8 @@ Souly feuilleta les pages, les yeux écarquillés devant les colonnes
 soignées de dates et de noms de plantes.
 
 — C'est exactement comme mon carnet, dit-il, en sortant le sien de sa
-poche. Sauf que le mien note plutôt les enquêtes.
+poche. Sauf que le mien note plutôt les enquêtes. Je l'appelle le
+Carnet des Preuves.
 
 — Depuis quand tu tiens le tien ? demanda Zoé, curieuse.
 
@@ -1837,7 +1838,7 @@ concentrée sur les chiffres, ces temps-ci.
 — Vous croyez qu'elle s'inquiète plus pour vous ou pour la
 subvention ? demanda Sofia, sans détour.
 
-— Les deux, probablement, dit Solange, avec un sourire fatigué. Ça
+— Les deux, probablement, dit Solange, en soupirant. Ça
 arrive souvent, ce mélange-là, chez les gens qui portent une
 responsabilité collective sur les épaules.
 
@@ -2558,8 +2559,8 @@ que moi, sur ce coup précis.
 — Vous entendez ça ? dit Ferdinand, radieux. Même Solange avoue que
 mes méthodes ont du mérite !
 
-— J'ai dit « peut-être », précisa Solange, avec un sourire en coin.
-Ne vous emballez pas trop vite.
+— J'ai dit « peut-être », précisa Solange, moqueuse. Ne vous emballez
+pas trop vite.
 
 — Trop tard, dit Ferdinand. Je le note dans mes annales personnelles
 dès ce soir. Et je vous préviendrai dès que quelque chose se passe
@@ -2839,8 +2840,8 @@ La femme, un peu penaude, s'éloigna sans insister davantage.
 — Vous entendez ça ? dit Zoé, la voix tremblante de colère. Une histoire
 de bornage. Ils inventent n'importe quoi, maintenant.
 
-— Il y a un fond de vérité, parfois, dans ce genre d'histoire ? demanda
-Sofia, curieuse malgré la situation.
+— Il y a un fond de vérité, parfois, derrière une rumeur pareille ?
+demanda Sofia, curieuse malgré la situation.
 
 — Jamais entre nous, dit Solange, catégorique. Régis et moi avons
 toujours eu d'excellents rapports de voisinage, depuis vingt ans.
@@ -3419,8 +3420,8 @@ rien, on n'est pas trop déçus.
 — C'est une drôle de façon de voir les choses, remarqua Sofia.
 
 — C'est surtout une façon de survivre à une semaine pleine de
-rebondissements sans finir complètement épuisé, dit Souly, avec un
-sourire fatigué.
+rebondissements sans finir complètement épuisé, dit Souly, en
+étouffant un bâillement.
 
 Le ciel s'était couvert d'étoiles, la lune encore basse projetant une
 lumière pâle sur le chemin caillouteux qui menait au piège de
@@ -3599,8 +3600,8 @@ surprendrait dans le bon sens, cette semaine.
 — Ça arrive, parfois, dit Mamie Rose, en posant une main réconfortante
 sur son bras. Même à la fin des semaines les plus difficiles.
 
-— On verra demain, dit Solange, avec un sourire fatigué. Demain, on
-saura.
+— On verra demain, dit Solange, en se levant lourdement de sa chaise.
+Demain, on saura.
 
 À l'étage, Sofia et Souly s'étaient couchés, l'esprit encore tout
 occupé par la découverte.
@@ -3693,7 +3694,7 @@ deux bouchées. C'est fatigant, mais c'est aussi... je ne sais pas.
 Important.
 
 — C'est exactement ce que ressentent les vrais enquêteurs, je crois,
-dit Mamie Rose, avec un sourire attendri. Cette fatigue-là, on
+dit Mamie Rose, en lui caressant les cheveux. Cette fatigue-là, on
 l'appelle parfois avoir vécu quelque chose qui compte.
 
 Une fine brume matinale flottait encore sur le pré, se dissipant peu à
@@ -4104,9 +4105,9 @@ Je n'ai rien trouvé d'anormal, à l'œil nu.
 — Vous avez dormi un peu, cette fois ? demanda Solange, en l'observant
 avec attention.
 
-— Pas vraiment, admit Régis, avec un sourire fatigué. Difficile de
-dormir quand on se demande si on a empoisonné le rucher de sa voisine
-sans le savoir.
+— Pas vraiment, admit Régis, les traits tirés. Difficile de dormir
+quand on se demande si on a empoisonné le rucher de sa voisine sans le
+savoir.
 
 — On ne sait toujours pas ça avec certitude, rappela Solange, avec une
 douceur qu'elle n'avait pas montrée les premiers jours. On vient
@@ -4381,7 +4382,7 @@ prudemment sans rien toucher.
 oublié là après le traitement, en pleine saison de travail, plutôt
 que rangé tout de suite.
 
-— Ça arrive souvent, ce genre d'oubli, en pleine récolte, confirma
+— Ça arrive souvent, un oubli pareil, en pleine récolte, confirma
 Régis, un peu gêné. On n'a jamais le temps de tout ranger
 correctement, à cette période de l'année.
 
@@ -4527,7 +4528,7 @@ présentant comme sûr.
 — Ça compte beaucoup, ce que vous venez de dire, remarqua Sofia,
 sincèrement.
 
-— Voilà un vrai premier pas, dit Solange, avec un sourire fatigué mais
+— Voilà un vrai premier pas, dit Solange, d'une voix éreintée mais
 sincère.
 
 Zoé serra la main de son père un peu plus fort.
@@ -5573,8 +5574,9 @@ est dite, remarqua Souly, en sortant machinalement son carnet.
 
 — Toujours, confirma Souly, en la notant avec soin.
 
-Un silence chaleureux suivit ces mots, seulement brisé par
-l'arrivée bruyante de Ferdinand, un pot de miel neuf sous chaque bras.
+Personne ne dit rien pendant un moment, jusqu'à ce que l'arrivée
+bruyante de Ferdinand, un pot de miel neuf sous chaque bras, ne brise
+la douceur de l'instant.
 
 — J'ai quand même préparé mon discours, annonça-t-il, en s'installant
 sans y avoir été invité. Vous voulez l'entendre, maintenant ?
@@ -5613,12 +5615,13 @@ ménager, même dans la passion.
 
 — C'est une sage résolution, dit Solange, en riant.
 
-— Vous avez retenu la leçon de vos six premiers échecs, alors, remarqua
+— Vous avez retenu la leçon de vos six échecs, alors, remarqua
 Souly.
 
-— Sept échecs, corrigea Ferdinand, avec une fierté qui ne semblait
-jamais faiblir. Et oui, j'ai retenu une leçon de chacun d'eux. C'est
-comme ça qu'on progresse, dans la vie : un échec à la fois, jusqu'à ce
+— Six échecs, et une vraie victoire, corrigea Ferdinand, avec une
+fierté qui ne semblait jamais faiblir. Et oui, j'ai retenu une leçon
+de chacun de ces échecs. C'est comme ça qu'on progresse, dans la vie :
+un échec à la fois, jusqu'à ce
 que, par accident ou par génie, ça finisse par marcher.
 
 — Vous ne saurez jamais lequel des deux c'était, pour cette fois,
@@ -5667,8 +5670,8 @@ fois vraiment détendu depuis des jours. Après tout ce qu'elle a fait
 cette semaine, je ne vois pas comment je pourrais refuser quoi que ce
 soit à ma fille.
 
-— Tu regretteras peut-être cette promesse, papa, dit Zoé, avec un
-sourire malicieux.
+— Tu regretteras peut-être cette promesse, papa, dit Zoé, en clignant
+de l'œil.
 
 — J'en doute fortement, dit Régis, en riant, avant de prendre congé
 avec elle sur le chemin déjà sombre.
@@ -5839,8 +5842,8 @@ riant. Beaucoup, en tout cas. Une bonne étagère entière, à la maison.
 — On pourra les montrer à nos propres enfants, un jour, remarqua
 Souly, presque timidement.
 
-— C'est exactement l'idée, dit Mamie Rose, avec un sourire attendri.
-Une histoire de famille qui s'écrit petit à petit, résumé après
+— C'est exactement l'idée, dit Mamie Rose, émue. Une histoire de
+famille qui s'écrit petit à petit, résumé après
 résumé.
 
 Le matin était clair et frais, une légère rosée perlant encore sur

@@ -443,8 +443,8 @@ que moi, sur ce coup précis.
 — Vous entendez ça ? dit Ferdinand, radieux. Même Solange avoue que
 mes méthodes ont du mérite !
 
-— J'ai dit « peut-être », précisa Solange, avec un sourire en coin.
-Ne vous emballez pas trop vite.
+— J'ai dit « peut-être », précisa Solange, moqueuse. Ne vous emballez
+pas trop vite.
 
 — Trop tard, dit Ferdinand. Je le note dans mes annales personnelles
 dès ce soir. Et je vous préviendrai dès que quelque chose se passe

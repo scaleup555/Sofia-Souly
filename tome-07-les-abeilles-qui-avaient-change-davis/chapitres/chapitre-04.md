@@ -253,7 +253,7 @@ concentrée sur les chiffres, ces temps-ci.
 — Vous croyez qu'elle s'inquiète plus pour vous ou pour la
 subvention ? demanda Sofia, sans détour.
 
-— Les deux, probablement, dit Solange, avec un sourire fatigué. Ça
+— Les deux, probablement, dit Solange, en soupirant. Ça
 arrive souvent, ce mélange-là, chez les gens qui portent une
 responsabilité collective sur les épaules.
 

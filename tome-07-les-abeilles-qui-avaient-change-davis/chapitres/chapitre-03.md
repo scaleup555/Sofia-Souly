@@ -97,7 +97,8 @@ Souly feuilleta les pages, les yeux écarquillés devant les colonnes
 soignées de dates et de noms de plantes.
 
 — C'est exactement comme mon carnet, dit-il, en sortant le sien de sa
-poche. Sauf que le mien note plutôt les enquêtes.
+poche. Sauf que le mien note plutôt les enquêtes. Je l'appelle le
+Carnet des Preuves.
 
 — Depuis quand tu tiens le tien ? demanda Zoé, curieuse.
 

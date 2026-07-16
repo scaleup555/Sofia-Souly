@@ -77,8 +77,8 @@ riant. Beaucoup, en tout cas. Une bonne étagère entière, à la maison.
 — On pourra les montrer à nos propres enfants, un jour, remarqua
 Souly, presque timidement.
 
-— C'est exactement l'idée, dit Mamie Rose, avec un sourire attendri.
-Une histoire de famille qui s'écrit petit à petit, résumé après
+— C'est exactement l'idée, dit Mamie Rose, émue. Une histoire de
+famille qui s'écrit petit à petit, résumé après
 résumé.
 
 Le matin était clair et frais, une légère rosée perlant encore sur

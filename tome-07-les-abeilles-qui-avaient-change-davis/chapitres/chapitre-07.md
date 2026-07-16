@@ -259,8 +259,8 @@ rien, on n'est pas trop déçus.
 — C'est une drôle de façon de voir les choses, remarqua Sofia.
 
 — C'est surtout une façon de survivre à une semaine pleine de
-rebondissements sans finir complètement épuisé, dit Souly, avec un
-sourire fatigué.
+rebondissements sans finir complètement épuisé, dit Souly, en
+étouffant un bâillement.
 
 Le ciel s'était couvert d'étoiles, la lune encore basse projetant une
 lumière pâle sur le chemin caillouteux qui menait au piège de
@@ -439,8 +439,8 @@ surprendrait dans le bon sens, cette semaine.
 — Ça arrive, parfois, dit Mamie Rose, en posant une main réconfortante
 sur son bras. Même à la fin des semaines les plus difficiles.
 
-— On verra demain, dit Solange, avec un sourire fatigué. Demain, on
-saura.
+— On verra demain, dit Solange, en se levant lourdement de sa chaise.
+Demain, on saura.
 
 À l'étage, Sofia et Souly s'étaient couchés, l'esprit encore tout
 occupé par la découverte.
