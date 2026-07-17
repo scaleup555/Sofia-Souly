@@ -1184,3 +1184,63 @@ repérer toute paire consécutive attribuée au même personnage —
 corriger immédiatement plutôt que de reporter cette vérification à
 une passe finale globale, où le volume de texte à revérifier rend
 l'exercice beaucoup plus coûteux et sujet à l'oubli.**
+
+## Tome 9 — leçons méthodologiques
+
+**Leçon méthodologique n°18 — expandre les chapitres en parallèle via
+plusieurs agents indépendants exige une liste de faits partagée
+explicite ET n'élimine pas le besoin d'une passe de vérification
+structurelle dédiée après coup (tome 9).** Pour rattraper un tome
+parti d'une première passe inhabituellement courte (~11 600 mots pour
+12 chapitres, contre ~17-25 000 les tomes précédents), l'expansion a
+été confiée à trois agents travaillant chacun sur un groupe de
+chapitres distinct (4-6, 7-9, 10-12) en parallèle, chacun recevant la
+même liste de tics bannis et des mêmes faits de chronologie. Ça a
+bien fonctionné pour éviter les tics déjà identifiés, mais deux
+défauts sont quand même passés à travers : (a) un garde forestier
+secondaire s'est vu attribuer deux durées de carrière contradictoires
+(« vingt-huit ans » vs « trente-huit ans ») répétées dans plusieurs
+chapitres par plusieurs agents différents, chacun cohérent avec
+lui-même mais pas avec les autres ; (b) un running gag comique
+(un pigeon qui « poursuit » un personnage) a reçu une durée
+(« depuis trois ans ») qui contredisait un fait établi ailleurs
+(l'incident datait de l'été en cours). **Règle renforcée : après
+toute expansion parallèle par plusieurs agents, dispatcher une passe
+de vérification dédiée — un agent par groupe de chapitres, focalisée
+uniquement sur la cohérence (bugs de locuteurs consécutifs, chiffres
+répétés, callbacks vers des scènes jamais montrées) et non sur le
+style — avant même le premier passage jury. Les agents parallèles
+évitent bien les tics d'une liste donnée, mais ne se relisent jamais
+mutuellement : toute donnée numérique ou factuelle mentionnée dans
+plus d'un groupe de chapitres doit être traitée comme un risque de
+contradiction, y compris pour des détails à priori mineurs ou
+comiques (un running gag n'est pas exempté des règles de cohérence
+numérique).**
+
+**Leçon méthodologique n°19 — corriger une incohérence de prénom en
+remplaçant simplement le mauvais prénom par le bon peut casser une
+révélation narrative prévue plus loin dans le livre (tome 9).** Le
+premier passage jury signalait une contradiction sur le prénom de la
+grand-tante d'un personnage secondaire, citée sous un nom dans un
+chapitre et sous un autre nom dans les chapitres suivants. La
+correction naïve (remplacer partout le mauvais nom par le bon)
+aurait cassé une scène volontaire, plus loin dans le livre, où un
+personnage découvre ce prénom avec surprise précisément parce que
+personne ne le lui avait dit avant. **Règle renforcée : avant de
+corriger une incohérence de nom/fait signalée par le jury, vérifier
+si l'un des deux chapitres en contradiction contient une révélation
+ou un effet de surprise construit sur l'ignorance de ce fait — si
+oui, la correction doit retirer le nom du chapitre le plus précoce
+(en le remplaçant par une formulation vague qui prépare la
+révélation) plutôt que d'harmoniser les deux chapitres sur la même
+information dès le départ.**
+
+**Bilan chiffré :** rédaction des 12 chapitres en une seule passe
+(~11 600 mots), expansion parallèle par agents jusqu'à ~35 100 mots,
+puis expansion manuelle ciblée des chapitres 1-3 jusqu'à ~36 600
+mots. 3 passages jury complets sur le manuscrit fini : 7,8/10 → 8,5/10
+→ 8,8/10, seuil d'acceptation franchi. Écart au mot-compte cible plus
+marqué que les tomes précédents (~8,5 % sous la cible ~40 000, contre
+~6 % pour le tome 8), jugé non bloquant par le jury mais signalé comme
+point de vigilance pour les tomes suivants. .docx livré via un nouveau
+`build_docx.py` calqué sur ceux des tomes 2 à 8.

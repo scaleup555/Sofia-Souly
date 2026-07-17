@@ -1,8 +1,8 @@
 # État d'avancement — Série Sofia & Souly
 
-*Dernière mise à jour : Tome 8 rédigé en une seule passe (12/12
-chapitres, ~37 700 mots), approuvé par le jury à 8,8/10 après un
-round de corrections, .docx livré — 2026-07-17*
+*Dernière mise à jour : Tome 9 rédigé en une seule passe (12/12
+chapitres, ~36 600 mots), approuvé par le jury à 8,8/10 après deux
+rounds de corrections, .docx livré — 2026-07-17*
 
 **À LIRE INTÉGRALEMENT avant de démarrer toute nouvelle session d'écriture**,
 avec `bible/personnages.md` et `bible/lecons_apprises.md` (sections
@@ -505,3 +505,69 @@ dans le récit)).
   terminés** ; tome 8 complet à 37 727 mots (sous la cible ~40 000,
   écart accepté), livré à 8,8/10, seuil d'acceptation officiel
   franchi.
+
+### Session 15 (tome 9, écriture complète) — 2026-07-17
+- Même consigne explicite que les tomes 5-8 : dialogues privilégiés
+  par rapport au texte narratif/descriptif, cible ~40 000 mots, 12
+  chapitres, jury dispatché uniquement une fois le manuscrit complet.
+  Consigne supplémentaire explicite de l'utilisateur pour ce tome :
+  « qualité magnifique ».
+- Thème : météorologie / sécurité foudre (formation d'un orage,
+  cumulonimbus, règle des secondes pour estimer la distance d'un
+  éclair, démystification de trois mythes — « la foudre ne frappe
+  jamais deux fois au même endroit », le mythe des pneus protecteurs
+  en voiture face à la vraie explication de la cage de Faraday, le
+  mythe de la mortalité quasi systématique). Décor : Hautval, village
+  de crête, et son Vieux Chêne multiséculaire menacé par une série de
+  coups de foudre inhabituels. Nouveaux personnages ajoutés à
+  `bible/personnages.md` : Héloïse Rambert (météorologue, amie
+  d'enfance du père de Sofia et Souly — lien inédit dans la série —
+  passionnée d'orages professionnellement mais terrifiée par le
+  tonnerre en pratique) et Noé Castagnier (11 ans, sceptique et
+  pince-sans-rire, petit-fils du garde forestier retraité Anselme
+  Castagnier qui photographie l'arbre chaque année depuis quarante
+  ans). Double fair-play : élimination d'un vigneron voisin par un
+  alibi vérifiable (salon viticole), câble métallique d'un parcours
+  d'accrobranche récent comme vraie cause aggravante, combiné à un été
+  objectivement plus orageux que la moyenne (données Météo-France) ;
+  vieux dicton local sur la chapelle validé comme règle de sécurité
+  foudre authentique. Résolution volontairement différente du tome 8 :
+  solution technique collaborative (paratonnerre mis à la terre +
+  reprise de l'ancrage du câble) plutôt que simple retrait d'un
+  dispositif, pour que personne ne « perde ».
+- Rédaction complète des 12 chapitres en une seule passe (~11 600
+  mots), puis expansion en parallèle via plusieurs agents dédiés
+  (chapitres 4-6, 7-9, 10-12 simultanément, chacun avec la liste
+  complète des tics bannis et des faits de chronologie à respecter),
+  suivie d'un nouveau passage d'expansion manuelle ciblée sur les
+  chapitres 1-3, restés plus courts que le reste du livre. Auto-
+  relecture puis vérification structurelle dédiée (trois passages de
+  relecture ligne par ligne, un par groupe de chapitres) pour détecter
+  les bugs de « répliques consécutives du même personnage » et les
+  incohérences introduites par les nombreuses insertions parallèles —
+  une quinzaine de bugs de ce type trouvés et corrigés avant le premier
+  passage jury.
+- 3 passages jury complets : 7,8/10 (contradiction numérique répétée
+  trois fois sur les années de service du garde forestier — « vingt-
+  huit ans » vs « trente-huit ans » selon le chapitre — violation de
+  la règle anti-contamination avec un nom de personnage du tome 8
+  cité en toutes lettres dans une réplique, contenu pédagogique
+  obligatoire manquant — formation de l'orage et trois mythes non
+  démystifiés —, une phrase de chronologie prématurée contredisant sa
+  propre révélation deux chapitres plus tard, une date de citation
+  incohérente, une réplique faisant référence à une scène jamais
+  montrée) → 8,5/10 (tous les points corrigés, mais un nouveau bug
+  introduit par la correction elle-même : la grand-tante de Noé
+  nommée « Yvonne » dans un chapitre et « Mathilde » dans les
+  suivants, cassant la révélation de son prénom prévue au chapitre 7 ;
+  plus une incohérence sur l'ancienneté d'une querelle avec un pigeon,
+  datée « trois ans » alors que l'incident venait d'être établi comme
+  datant de l'été en cours) → **8,8/10, seuil d'acceptation franchi**
+  après correction des deux points (le chapitre fautif reformulé pour
+  ne plus révéler le prénom trop tôt, au lieu de simplement remplacer
+  le mauvais prénom par le bon).
+- Livraison du fichier `.docx` final via un nouveau `build_docx.py`
+  (calqué sur les tomes 2-8). **Tomes 1 à 8 toujours entièrement
+  terminés** ; tome 9 complet à 36 620 mots (sous la cible ~40 000,
+  écart plus marqué que les tomes précédents mais jugé non bloquant
+  par le jury), livré à 8,8/10, seuil d'acceptation officiel franchi.

@@ -228,6 +228,41 @@ Tout nouvel épisode doit relire ce fichier avant d'écrire une ligne.
 - Personnage-ressource pour tout tome futur à thème patrimonial/
   faune nocturne/village de montagne.
 
+### Héloïse Rambert (introduite au tome 9)
+- Amie d'enfance du père de Sofia et Souly (lien jamais utilisé jusqu'ici —
+  à varier systématiquement des liens déjà utilisés : marraine de Camille,
+  amie de longue date de Mamie Rose, cousin de Camille, amie d'école de
+  Camille, sœur du père, ancienne élève de Mamie Rose). La quarantaine,
+  météorologue, appelée en urgence par la mairie de Hautval pour étudier
+  une série de coups de foudre inhabituels.
+- Passionnée d'orages au point d'en avoir fait son métier, mais terrifiée
+  dès qu'un vrai coup de tonnerre éclate tout près — une peur qu'elle
+  cache derrière un humour un peu trop rapide, contrepoint volontaire à
+  la peur du noir de Yolande (tome 8) : deux scientifiques dont la peur
+  irrationnelle touche justement au cœur de leur propre spécialité.
+- Garde toujours sur elle un petit compteur de champ électrique, qu'elle
+  consulte même à table, « au cas où » — prolonge le motif des instruments
+  de mesure toujours à portée de main déjà établi avec Yolande et son
+  détecteur à ultrasons, mais avec un objet distinct.
+- Personnage-ressource pour tout tome futur à thème météorologique/
+  sécurité scientifique.
+
+### Noé Castagnier (introduit au tome 9)
+- 11 ans, vit à Hautval, petit-fils d'Anselme Castagnier (garde forestier
+  retraité qui photographie le Vieux Chêne du village chaque année pour
+  l'almanach communal depuis quarante ans). Sceptique et pince-sans-rire,
+  ne s'enthousiasme jamais avant d'avoir vu une preuve solide — à varier
+  systématiquement des tempéraments déjà utilisés pour les autres
+  enfants-ressources (Max sûr de lui, Milo grimpeur terre-à-terre, Yanis
+  méfiant et loyal, Iris théâtrale et enthousiaste, Zoé franche et
+  bagarreuse, Bastien calme et très observateur).
+- Sa famille est engagée dans une vieille querelle de voisinage avec la
+  famille Trabuc au sujet du Vieux Chêne, ce qui le rend prudent avant de
+  désigner qui que ce soit comme coupable — il a vu trop de rumeurs
+  familiales se révéler fausses pour foncer tête baissée.
+- Personnage-ressource pour tout tome futur à thème forestier/
+  météorologique/village de montagne.
+
 ## Règle d'or de continuité
 - Les faits établis dans un tome (âges, liens de parenté, peurs, habitudes) ne
   doivent JAMAIS être contredits dans un tome suivant.
