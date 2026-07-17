@@ -306,7 +306,8 @@ déjà le titre.
 
 — C'est un peu grandiloquent, remarqua Souly, en souriant.
 
-— Un bon titre l'est toujours un peu, répliqua Gustave, imperturbable.
+— Un bon titre l'est toujours un peu, répliqua Gustave, sans se
+formaliser le moins du monde.
 
 — Vous savez ce qui est le plus étonnant, dans toute cette histoire ?
 dit Yolande, une fois les rires calmés, en resservant du thé à la

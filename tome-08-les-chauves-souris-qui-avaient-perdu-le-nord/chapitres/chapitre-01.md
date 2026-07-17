@@ -51,9 +51,9 @@ Yolande, elle, est devenue chiroptérologue.
 son carnet à spirale de son sac.
 
 — Quelqu'un qui étudie les chauves-souris, dit Mamie Rose. Yolande
-dirige une petite association ici, à Combenoire. Elle s'occupe d'une
-grosse colonie qui vit dans le vieux clocher du village et dans une
-grotte juste à côté.
+dirige une petite association ici, à Combenoire, qui s'appelle Les
+Ailes de la Nuit. Elle s'occupe d'une grosse colonie qui vit dans le
+vieux clocher du village et dans une grotte juste à côté.
 
 — Des vraies chauves-souris ? Qui volent la nuit ? demanda Sofia,
 mi-inquiète, mi-fascinée.

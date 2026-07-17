@@ -61,13 +61,43 @@ d'enthousiasme. Un vrai moment de cinéma.
 
 — Trois candidates, dit Gustave, avec le sérieux d'un vrai
 compositeur. Je les ai toutes essayées, cette nuit, en boucle, sur mon
-vieux baladeur. Mon voisin n'était pas ravi, je dois l'avouer.
+vieux baladeur, volume au maximum, pour bien juger l'effet dramatique.
+Mon voisin n'était pas ravi, je dois l'avouer.
 
 — Il vous en a parlé ? demanda Sofia.
 
-— Il a frappé au mur, trois fois, vers deux heures du matin, admit
-Gustave, sans se démonter. J'ai pris ça pour un encouragement
-discret.
+— Il a frappé au mur, une première fois, vers minuit, raconta
+Gustave, sans se démonter. J'ai pris ça pour de la curiosité
+polie, alors j'ai remis le morceau depuis le début, pour qu'il
+l'entende en entier.
+
+— Ça a dû l'enchanter, remarqua Souly, en réprimant un sourire.
+
+— Il a frappé une deuxième fois, un peu plus fort, vers une heure,
+poursuivit Gustave, avec le plus grand calme. J'ai pensé qu'il voulait
+peut-être comparer avec la deuxième candidate, alors je suis passé au
+morceau suivant.
+
+— Non, dit Sofia, effarée, la main sur la bouche.
+
+— Si, confirma Gustave, avec fierté. Et vers deux heures du matin,
+il est venu frapper directement à ma porte, en pyjama, avec sa
+propre enceinte sous le bras, prêt à faire un concours de volume si
+je continuais.
+
+— Qu'est-ce que vous avez fait ? demanda Souly, entre deux fous
+rires.
+
+— Je lui ai proposé de voter pour la troisième candidate, dit
+Gustave, tout naturellement. Il a refusé de voter. Mais il a quand
+même écouté les dix premières secondes avant de repartir en
+grommelant. Je considère ça comme un avis favorable.
+
+— Vous êtes en train de vous faire détester par tout l'immeuble, pour
+un envol de chauve-souris, remarqua Sofia, hilare.
+
+— Pour l'art, corrigea Gustave, avec une dignité totale. On ne
+compte jamais les sacrifices, quand on filme pour la postérité.
 
 — N'est-ce pas ? dit Gustave, ravi de trouver enfin quelqu'un qui
 partageait sa vision artistique. La Nuit des Chauves-souris, demain
@@ -105,10 +135,10 @@ pas à celle de l'antenne.
 — Tu es sûr ? demanda Souly.
 
 — Sûr et certain, dit Bastien, en montrant les deux carnets côte à
-côte. Le chantier a commencé il y a vingt-deux jours. Le dispositif
-anti-pigeons a été installé quinze jours après le début du chantier,
-donc il y a sept jours. Papi a noté les premières chauves-souris
-désorientées il y a exactement six jours.
+côte. Le chantier a commencé il y a vingt-cinq jours, maintenant. Le
+dispositif anti-pigeons a été installé dix-huit jours après le début
+du chantier, donc il y a sept jours. Papi a noté les premières
+chauves-souris désorientées il y a exactement six jours.
 
 — Un jour d'écart seulement, remarqua Souly, en notant fébrilement.
 Ça correspond presque parfaitement.
@@ -180,7 +210,7 @@ Antoine Ferrieux pâlit légèrement.
 
 — Vous voulez dire que... commença-t-il.
 
-— Le dispositif anti-pigeons a été installé sept jours avant les
+— Le dispositif anti-pigeons a été installé un seul jour avant les
 premières chauves-souris désorientées, dit Bastien, en montrant les
 carnets. Ça correspond beaucoup mieux.
 

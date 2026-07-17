@@ -370,16 +370,17 @@ Yolande alluma progressivement sa lampe, révélant, au milieu des
 buissons, deux petits yeux brillants et un museau roux pointu qui se
 figea un instant avant de détaler dans un bruissement de feuilles.
 
-— Un renard, dit Souly, aussi diplomatiquement que possible.
+— C'était un renard, Gustave, dit Souly, en tentant de garder son
+sérieux.
 
-— Un renard TRÈS suspect, insista Gustave, sans se démonter le moins
-du monde. On ne sait jamais, avec les renards. Certains travaillent
-peut-être pour la concurrence.
+— Un renard qui rôdait bien près du chantier, pour un simple animal
+innocent, rétorqua Gustave, nullement ébranlé. Ces gens-là savent se
+faire des complices, vous savez.
 
-— C'est vrai, ça ? demanda Sofia, à Yolande, à voix basse.
+— Vous plaisantez, là, j'espère ? chuchota Sofia à Yolande.
 
-— Certainement pas, souffla Yolande, retenant un fou rire. Mais ne
-lui dis surtout pas. Il en tire une fierté considérable.
+— À moitié seulement, je le crains, souffla Yolande, en réprimant un
+sourire. Surtout ne le détrompe pas trop vite, il s'amuse tellement.
 
 — Il croit vraiment ce qu'il raconte, ou il joue juste un
 personnage ? demanda Sofia, curieuse.

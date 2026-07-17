@@ -387,9 +387,9 @@ documentaire animalier.
 — Ce jour-là, vous serez célèbre, dit Bastien, avec un sourire
 affectueux malgré la moquerie à peine voilée.
 
-— Je l'espère bien, jeune homme, répondit Gustave, imperturbable. En
-attendant, je retourne surveiller mon trépied. Le sabotage ne va pas
-se dénoncer tout seul.
+— Je l'espère bien, jeune homme, répondit Gustave, avec le plus grand
+flegme. En attendant, je retourne surveiller mon trépied. Le sabotage
+ne va pas se dénoncer tout seul.
 
 Ce soir-là, alors que Sofia et Souly s'apprêtaient à monter se
 coucher, Yolande les retint un instant sur le pas de la porte.
@@ -486,7 +486,7 @@ offensé.
 — Un fait que tu répètes à chaque enquête, insista Sofia, en riant.
 
 — Les faits méritent d'être répétés, jusqu'à ce qu'on les écoute
-vraiment, répliqua Souly, imperturbable.
+vraiment, répliqua Souly, avec une conviction inébranlable.
 
 — Tu devrais écrire un livre de citations, un jour, remarqua Sofia,
 avec affection.

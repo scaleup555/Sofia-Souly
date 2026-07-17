@@ -1,8 +1,8 @@
 # Chapitre 3 — Bastien
 
-— Tu viens voir ma maison ? proposa Bastien, l'après-midi même, alors
-que Yolande s'était absentée pour appeler un collègue chiroptérologue
-d'une réserve voisine. Enfin, si ça vous dit.
+— Tu viens voir ma maison ? proposa Bastien, le lendemain après-midi,
+alors que Yolande s'était absentée pour appeler un collègue
+chiroptérologue d'une réserve voisine. Enfin, si ça vous dit.
 
 — Allez-y, dit Mamie Rose, qui gardait un œil discret sur toute la
 scène depuis le seuil de la maison de Yolande. Rentrez avant le

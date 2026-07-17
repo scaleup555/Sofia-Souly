@@ -327,12 +327,32 @@ Bastien.
 Le mieux, c'est de rester honnêtes, quoi qu'on nous demande.
 
 Un raffut soudain à la porte annonça l'arrivée bruyante de Gustave, sa
-caméra sous un bras et une pile de cassettes vidéo sous l'autre,
-manquant de tout faire tomber en franchissant le seuil.
+caméra sous un bras et une pile de cassettes vidéo sous l'autre. Son
+pied accrocha le paillasson et la pile entière s'envola, cassettes
+rebondissant sur le carrelage dans un fracas mémorable, l'une d'elles
+finissant sa course directement dans l'écuelle du chat de Yolande, qui
+détala en miaulant d'indignation.
 
-— J'ai apporté du renfort ! annonça-t-il, triomphant. Toutes mes
-images du chantier, au cas où on aurait besoin d'une preuve
-supplémentaire !
+— Ne bougez pas ! cria Gustave, se jetant à genoux pour les
+rassembler avant même d'avoir repris son souffle. Elles sont
+classées par ordre chronologique ! Si l'ordre se perd, sept ans de
+travail se perdent avec !
+
+— On dirait plutôt qu'elles sont classées par ordre de vol plané,
+remarqua Souly, en aidant à ramasser une cassette échouée sous la
+table.
+
+— Celle-ci sent le poisson, annonça Sofia, en tendant du bout des
+doigts celle qui avait atterri dans l'écuelle.
+
+— Celle-ci est mon montage de l'hiver dernier, dit Gustave, en
+l'essuyant tendrement avec sa manche, sans la moindre gêne. Elle a
+connu bien pire.
+
+— J'ai apporté du renfort ! annonça-t-il enfin, une fois les
+cassettes réempilées avec un soin presque chirurgical, triomphant
+comme si rien ne s'était passé. Toutes mes images du chantier, au cas
+où on aurait besoin d'une preuve supplémentaire !
 
 — On a surtout besoin de preuves sur les chauves-souris, Gustave, pas
 sur votre renard, remarqua Yolande, avec indulgence.

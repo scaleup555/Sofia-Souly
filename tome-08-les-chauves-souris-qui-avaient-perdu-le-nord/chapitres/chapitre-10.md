@@ -255,8 +255,8 @@ scandant son nom.
 — Le public ne sait même pas encore qui vous êtes, remarqua Bastien,
 avec un sourire en coin.
 
-— Il apprendra, dit Gustave, imperturbable. Ce soir restera dans les
-annales de Combenoire. J'en suis convaincu.
+— Il apprendra, dit Gustave, sans se laisser atteindre. Ce soir
+restera dans les annales de Combenoire. J'en suis convaincu.
 
 — Vous avez répété votre petit discours sur le renard ? demanda Sofia,
 amusée.
@@ -275,7 +275,7 @@ pose.
 taquin.
 
 — J'en ai apporté une réserve entière, répliqua Gustave, avec une
-dignité imperturbable. On ne laisse jamais rien au hasard, un soir de
+dignité totale. On ne laisse jamais rien au hasard, un soir de
 première mondiale.
 
 — Une première mondiale, rien que ça, remarqua Sofia, en riant.
@@ -331,7 +331,8 @@ problèmes. Elle ne peut pas être la cause.
 reconnaissable entre mille.
 
 — Un dispositif anti-pigeons à ultrasons, installé sur le chantier du
-clocher il y a sept jours, dit Yolande. Sa fréquence chevauche celle
+clocher il y a huit jours, dit Yolande. Un seul jour avant les
+premières chauves-souris désorientées. Sa fréquence chevauche celle
 de l'écholocation de plusieurs espèces de notre colonie.
 
 Antoine s'avança à son tour, visiblement les jambes un peu tremblantes.

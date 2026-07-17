@@ -13,7 +13,7 @@ ne se réveille.
 se coucher.
 
 — C'est justement le meilleur moment pour observer, insista Sofia, déjà
-en train d'enfiler ses baskets, l'une bleue et l'autre verte, sans
+en train d'enfiler ses baskets, l'une rouge et l'autre bleue, sans
 même s'en apercevoir.
 
 Sur le chemin qui menait à la grotte, ils passèrent devant la
@@ -72,8 +72,7 @@ difficile à détrôner.
 — Rien que ça, remarqua Sofia, impressionnée par ce classement
 généreux.
 
-— Tu as encore mis tes baskets à l'envers, remarqua Souly, en
-bâillant.
+— Tu as encore dépareillé tes baskets, remarqua Souly, en bâillant.
 
 — Elles sont très bien comme ça, protesta Sofia, avec la dignité
 tranquille de quelqu'un qui avait cessé, depuis longtemps déjà, de s'en

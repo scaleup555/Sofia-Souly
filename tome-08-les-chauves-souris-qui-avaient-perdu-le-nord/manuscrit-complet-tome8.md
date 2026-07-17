@@ -53,9 +53,9 @@ Yolande, elle, est devenue chiroptérologue.
 son carnet à spirale de son sac.
 
 — Quelqu'un qui étudie les chauves-souris, dit Mamie Rose. Yolande
-dirige une petite association ici, à Combenoire. Elle s'occupe d'une
-grosse colonie qui vit dans le vieux clocher du village et dans une
-grotte juste à côté.
+dirige une petite association ici, à Combenoire, qui s'appelle Les
+Ailes de la Nuit. Elle s'occupe d'une grosse colonie qui vit dans le
+vieux clocher du village et dans une grotte juste à côté.
 
 — Des vraies chauves-souris ? Qui volent la nuit ? demanda Sofia,
 mi-inquiète, mi-fascinée.
@@ -1083,9 +1083,9 @@ toujours.
 
 # Chapitre 3 — Bastien
 
-— Tu viens voir ma maison ? proposa Bastien, l'après-midi même, alors
-que Yolande s'était absentée pour appeler un collègue chiroptérologue
-d'une réserve voisine. Enfin, si ça vous dit.
+— Tu viens voir ma maison ? proposa Bastien, le lendemain après-midi,
+alors que Yolande s'était absentée pour appeler un collègue
+chiroptérologue d'une réserve voisine. Enfin, si ça vous dit.
 
 — Allez-y, dit Mamie Rose, qui gardait un œil discret sur toute la
 scène depuis le seuil de la maison de Yolande. Rentrez avant le
@@ -1754,7 +1754,7 @@ aveuglément à leur parole.
 
 — Des outils de mesure, pour vérifier l'état de la charpente, dit M.
 Ferrieux. Et un petit dispositif pour éloigner les pigeons, installé
-il y a une quinzaine de jours, avant que les fientes n'abîment
+il y a quatre jours à peine, avant que les fientes n'abîment
 davantage le bois ancien.
 
 — Un dispositif à ultrasons ? demanda Yolande, aussitôt attentive.
@@ -1928,7 +1928,7 @@ plus sur Gustave.
 La colonie de chauves-souris, c'est un peu sa famille de substitution,
 si tu veux mon avis.
 
-— Ça expliquerait beaucoup de choses, remarqua Souly, songeur.
+— Ça expliquerait beaucoup de choses, remarqua Souly, en réfléchissant tout haut.
 
 — Il ne le dirait jamais comme ça, précisa Bastien. Mais je l'ai vu
 pleurer, une fois, en racontant qu'il avait raté la naissance d'un
@@ -2529,9 +2529,9 @@ documentaire animalier.
 — Ce jour-là, vous serez célèbre, dit Bastien, avec un sourire
 affectueux malgré la moquerie à peine voilée.
 
-— Je l'espère bien, jeune homme, répondit Gustave, imperturbable. En
-attendant, je retourne surveiller mon trépied. Le sabotage ne va pas
-se dénoncer tout seul.
+— Je l'espère bien, jeune homme, répondit Gustave, avec le plus grand
+flegme. En attendant, je retourne surveiller mon trépied. Le sabotage
+ne va pas se dénoncer tout seul.
 
 Ce soir-là, alors que Sofia et Souly s'apprêtaient à monter se
 coucher, Yolande les retint un instant sur le pas de la porte.
@@ -2628,7 +2628,7 @@ offensé.
 — Un fait que tu répètes à chaque enquête, insista Sofia, en riant.
 
 — Les faits méritent d'être répétés, jusqu'à ce qu'on les écoute
-vraiment, répliqua Souly, imperturbable.
+vraiment, répliqua Souly, avec une conviction inébranlable.
 
 — Tu devrais écrire un livre de citations, un jour, remarqua Sofia,
 avec affection.
@@ -2774,7 +2774,7 @@ rologue ? demanda Souly, sérieusement, à Yolande.
 vraiment, il y a toujours de la place. La passion compense souvent le
 manque de places disponibles.
 
-— Ça donne des idées, dit Souly, songeur.
+— Ça donne des idées, dit Souly, en y réfléchissant sérieusement pour la première fois.
 
 — Tu ferais un excellent chiroptérologue, dit Yolande, sincèrement.
 Tu as déjà toute la rigueur qu'il faut.
@@ -3137,12 +3137,12 @@ remarqua Souly.
 terrain, chaque fois qu'une personne change d'avis, ça vaut toute la
 fatigue du monde.
 
-— Deux jours avant la fête, murmura Sofia, en regardant par la
-fenêtre les dernières lueurs du soir sur les toits. Ça commence à
-faire serré.
+— Plus que deux jours avant la fête, soupira Sofia, en s'affalant sur
+une marche du perron. On n'a toujours pas de vraie preuve.
 
-— Ça fait toujours serré, dans une vraie enquête, dit Souly, avec la
-sagesse tranquille de quelqu'un qui commençait à s'y connaître.
+— On a une antenne innocentée et un suspect qui ne l'est plus tout à
+fait, corrigea Souly, en comptant sur ses doigts. C'est déjà pas mal,
+pour une seule journée.
 
 — Tu dis ça à chaque enquête, remarqua Sofia, en levant les yeux au ciel.
 
@@ -3523,16 +3523,17 @@ Yolande alluma progressivement sa lampe, révélant, au milieu des
 buissons, deux petits yeux brillants et un museau roux pointu qui se
 figea un instant avant de détaler dans un bruissement de feuilles.
 
-— Un renard, dit Souly, aussi diplomatiquement que possible.
+— C'était un renard, Gustave, dit Souly, en tentant de garder son
+sérieux.
 
-— Un renard TRÈS suspect, insista Gustave, sans se démonter le moins
-du monde. On ne sait jamais, avec les renards. Certains travaillent
-peut-être pour la concurrence.
+— Un renard qui rôdait bien près du chantier, pour un simple animal
+innocent, rétorqua Gustave, nullement ébranlé. Ces gens-là savent se
+faire des complices, vous savez.
 
-— C'est vrai, ça ? demanda Sofia, à Yolande, à voix basse.
+— Vous plaisantez, là, j'espère ? chuchota Sofia à Yolande.
 
-— Certainement pas, souffla Yolande, retenant un fou rire. Mais ne
-lui dis surtout pas. Il en tire une fierté considérable.
+— À moitié seulement, je le crains, souffla Yolande, en réprimant un
+sourire. Surtout ne le détrompe pas trop vite, il s'amuse tellement.
 
 — Il croit vraiment ce qu'il raconte, ou il joue juste un
 personnage ? demanda Sofia, curieuse.
@@ -3706,13 +3707,43 @@ d'enthousiasme. Un vrai moment de cinéma.
 
 — Trois candidates, dit Gustave, avec le sérieux d'un vrai
 compositeur. Je les ai toutes essayées, cette nuit, en boucle, sur mon
-vieux baladeur. Mon voisin n'était pas ravi, je dois l'avouer.
+vieux baladeur, volume au maximum, pour bien juger l'effet dramatique.
+Mon voisin n'était pas ravi, je dois l'avouer.
 
 — Il vous en a parlé ? demanda Sofia.
 
-— Il a frappé au mur, trois fois, vers deux heures du matin, admit
-Gustave, sans se démonter. J'ai pris ça pour un encouragement
-discret.
+— Il a frappé au mur, une première fois, vers minuit, raconta
+Gustave, sans se démonter. J'ai pris ça pour de la curiosité
+polie, alors j'ai remis le morceau depuis le début, pour qu'il
+l'entende en entier.
+
+— Ça a dû l'enchanter, remarqua Souly, en réprimant un sourire.
+
+— Il a frappé une deuxième fois, un peu plus fort, vers une heure,
+poursuivit Gustave, avec le plus grand calme. J'ai pensé qu'il voulait
+peut-être comparer avec la deuxième candidate, alors je suis passé au
+morceau suivant.
+
+— Non, dit Sofia, effarée, la main sur la bouche.
+
+— Si, confirma Gustave, avec fierté. Et vers deux heures du matin,
+il est venu frapper directement à ma porte, en pyjama, avec sa
+propre enceinte sous le bras, prêt à faire un concours de volume si
+je continuais.
+
+— Qu'est-ce que vous avez fait ? demanda Souly, entre deux fous
+rires.
+
+— Je lui ai proposé de voter pour la troisième candidate, dit
+Gustave, tout naturellement. Il a refusé de voter. Mais il a quand
+même écouté les dix premières secondes avant de repartir en
+grommelant. Je considère ça comme un avis favorable.
+
+— Vous êtes en train de vous faire détester par tout l'immeuble, pour
+un envol de chauve-souris, remarqua Sofia, hilare.
+
+— Pour l'art, corrigea Gustave, avec une dignité totale. On ne
+compte jamais les sacrifices, quand on filme pour la postérité.
 
 — N'est-ce pas ? dit Gustave, ravi de trouver enfin quelqu'un qui
 partageait sa vision artistique. La Nuit des Chauves-souris, demain
@@ -3750,10 +3781,10 @@ pas à celle de l'antenne.
 — Tu es sûr ? demanda Souly.
 
 — Sûr et certain, dit Bastien, en montrant les deux carnets côte à
-côte. Le chantier a commencé il y a vingt-deux jours. Le dispositif
-anti-pigeons a été installé quinze jours après le début du chantier,
-donc il y a sept jours. Papi a noté les premières chauves-souris
-désorientées il y a exactement six jours.
+côte. Le chantier a commencé il y a vingt-cinq jours, maintenant. Le
+dispositif anti-pigeons a été installé dix-huit jours après le début
+du chantier, donc il y a sept jours. Papi a noté les premières
+chauves-souris désorientées il y a exactement six jours.
 
 — Un jour d'écart seulement, remarqua Souly, en notant fébrilement.
 Ça correspond presque parfaitement.
@@ -3825,7 +3856,7 @@ Antoine Ferrieux pâlit légèrement.
 
 — Vous voulez dire que... commença-t-il.
 
-— Le dispositif anti-pigeons a été installé sept jours avant les
+— Le dispositif anti-pigeons a été installé un seul jour avant les
 premières chauves-souris désorientées, dit Bastien, en montrant les
 carnets. Ça correspond beaucoup mieux.
 
@@ -4473,12 +4504,32 @@ Bastien.
 Le mieux, c'est de rester honnêtes, quoi qu'on nous demande.
 
 Un raffut soudain à la porte annonça l'arrivée bruyante de Gustave, sa
-caméra sous un bras et une pile de cassettes vidéo sous l'autre,
-manquant de tout faire tomber en franchissant le seuil.
+caméra sous un bras et une pile de cassettes vidéo sous l'autre. Son
+pied accrocha le paillasson et la pile entière s'envola, cassettes
+rebondissant sur le carrelage dans un fracas mémorable, l'une d'elles
+finissant sa course directement dans l'écuelle du chat de Yolande, qui
+détala en miaulant d'indignation.
 
-— J'ai apporté du renfort ! annonça-t-il, triomphant. Toutes mes
-images du chantier, au cas où on aurait besoin d'une preuve
-supplémentaire !
+— Ne bougez pas ! cria Gustave, se jetant à genoux pour les
+rassembler avant même d'avoir repris son souffle. Elles sont
+classées par ordre chronologique ! Si l'ordre se perd, sept ans de
+travail se perdent avec !
+
+— On dirait plutôt qu'elles sont classées par ordre de vol plané,
+remarqua Souly, en aidant à ramasser une cassette échouée sous la
+table.
+
+— Celle-ci sent le poisson, annonça Sofia, en tendant du bout des
+doigts celle qui avait atterri dans l'écuelle.
+
+— Celle-ci est mon montage de l'hiver dernier, dit Gustave, en
+l'essuyant tendrement avec sa manche, sans la moindre gêne. Elle a
+connu bien pire.
+
+— J'ai apporté du renfort ! annonça-t-il enfin, une fois les
+cassettes réempilées avec un soin presque chirurgical, triomphant
+comme si rien ne s'était passé. Toutes mes images du chantier, au cas
+où on aurait besoin d'une preuve supplémentaire !
 
 — On a surtout besoin de preuves sur les chauves-souris, Gustave, pas
 sur votre renard, remarqua Yolande, avec indulgence.
@@ -4899,8 +4950,8 @@ scandant son nom.
 — Le public ne sait même pas encore qui vous êtes, remarqua Bastien,
 avec un sourire en coin.
 
-— Il apprendra, dit Gustave, imperturbable. Ce soir restera dans les
-annales de Combenoire. J'en suis convaincu.
+— Il apprendra, dit Gustave, sans se laisser atteindre. Ce soir
+restera dans les annales de Combenoire. J'en suis convaincu.
 
 — Vous avez répété votre petit discours sur le renard ? demanda Sofia,
 amusée.
@@ -4919,7 +4970,7 @@ pose.
 taquin.
 
 — J'en ai apporté une réserve entière, répliqua Gustave, avec une
-dignité imperturbable. On ne laisse jamais rien au hasard, un soir de
+dignité totale. On ne laisse jamais rien au hasard, un soir de
 première mondiale.
 
 — Une première mondiale, rien que ça, remarqua Sofia, en riant.
@@ -4975,7 +5026,8 @@ problèmes. Elle ne peut pas être la cause.
 reconnaissable entre mille.
 
 — Un dispositif anti-pigeons à ultrasons, installé sur le chantier du
-clocher il y a sept jours, dit Yolande. Sa fréquence chevauche celle
+clocher il y a huit jours, dit Yolande. Un seul jour avant les
+premières chauves-souris désorientées. Sa fréquence chevauche celle
 de l'écholocation de plusieurs espèces de notre colonie.
 
 Antoine s'avança à son tour, visiblement les jambes un peu tremblantes.
@@ -5457,7 +5509,8 @@ déjà le titre.
 
 — C'est un peu grandiloquent, remarqua Souly, en souriant.
 
-— Un bon titre l'est toujours un peu, répliqua Gustave, imperturbable.
+— Un bon titre l'est toujours un peu, répliqua Gustave, sans se
+formaliser le moins du monde.
 
 — Vous savez ce qui est le plus étonnant, dans toute cette histoire ?
 dit Yolande, une fois les rires calmés, en resservant du thé à la
@@ -5672,7 +5725,7 @@ ne se réveille.
 se coucher.
 
 — C'est justement le meilleur moment pour observer, insista Sofia, déjà
-en train d'enfiler ses baskets, l'une bleue et l'autre verte, sans
+en train d'enfiler ses baskets, l'une rouge et l'autre bleue, sans
 même s'en apercevoir.
 
 Sur le chemin qui menait à la grotte, ils passèrent devant la
@@ -5731,8 +5784,7 @@ difficile à détrôner.
 — Rien que ça, remarqua Sofia, impressionnée par ce classement
 généreux.
 
-— Tu as encore mis tes baskets à l'envers, remarqua Souly, en
-bâillant.
+— Tu as encore dépareillé tes baskets, remarqua Souly, en bâillant.
 
 — Elles sont très bien comme ça, protesta Sofia, avec la dignité
 tranquille de quelqu'un qui avait cessé, depuis longtemps déjà, de s'en

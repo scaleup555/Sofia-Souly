@@ -154,7 +154,7 @@ aveuglément à leur parole.
 
 — Des outils de mesure, pour vérifier l'état de la charpente, dit M.
 Ferrieux. Et un petit dispositif pour éloigner les pigeons, installé
-il y a une quinzaine de jours, avant que les fientes n'abîment
+il y a quatre jours à peine, avant que les fientes n'abîment
 davantage le bois ancien.
 
 — Un dispositif à ultrasons ? demanda Yolande, aussitôt attentive.
@@ -328,7 +328,7 @@ plus sur Gustave.
 La colonie de chauves-souris, c'est un peu sa famille de substitution,
 si tu veux mon avis.
 
-— Ça expliquerait beaucoup de choses, remarqua Souly, songeur.
+— Ça expliquerait beaucoup de choses, remarqua Souly, en réfléchissant tout haut.
 
 — Il ne le dirait jamais comme ça, précisa Bastien. Mais je l'ai vu
 pleurer, une fois, en racontant qu'il avait raté la naissance d'un

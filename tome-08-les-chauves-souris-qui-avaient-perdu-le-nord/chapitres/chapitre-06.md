@@ -122,7 +122,7 @@ rologue ? demanda Souly, sérieusement, à Yolande.
 vraiment, il y a toujours de la place. La passion compense souvent le
 manque de places disponibles.
 
-— Ça donne des idées, dit Souly, songeur.
+— Ça donne des idées, dit Souly, en y réfléchissant sérieusement pour la première fois.
 
 — Tu ferais un excellent chiroptérologue, dit Yolande, sincèrement.
 Tu as déjà toute la rigueur qu'il faut.
@@ -485,12 +485,12 @@ remarqua Souly.
 terrain, chaque fois qu'une personne change d'avis, ça vaut toute la
 fatigue du monde.
 
-— Deux jours avant la fête, murmura Sofia, en regardant par la
-fenêtre les dernières lueurs du soir sur les toits. Ça commence à
-faire serré.
+— Plus que deux jours avant la fête, soupira Sofia, en s'affalant sur
+une marche du perron. On n'a toujours pas de vraie preuve.
 
-— Ça fait toujours serré, dans une vraie enquête, dit Souly, avec la
-sagesse tranquille de quelqu'un qui commençait à s'y connaître.
+— On a une antenne innocentée et un suspect qui ne l'est plus tout à
+fait, corrigea Souly, en comptant sur ses doigts. C'est déjà pas mal,
+pour une seule journée.
 
 — Tu dis ça à chaque enquête, remarqua Sofia, en levant les yeux au ciel.
 
