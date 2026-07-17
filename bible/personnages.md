@@ -199,6 +199,35 @@ Tout nouvel épisode doit relire ce fichier avant d'écrire une ligne.
 - Personnage-ressource pour tout tome futur à thème apicole/agricole/
   botanique.
 
+### Yolande « Yo » Berthier (introduite au tome 8)
+- Ancienne élève de Mamie Rose, à l'école primaire, il y a plusieurs
+  décennies (lien jamais utilisé jusqu'ici — à varier systématiquement
+  des liens déjà utilisés : marraine de Camille, amie de longue date
+  de Mamie Rose, cousin de Camille, amie d'école de Camille, sœur du
+  père). La quarantaine, chiroptérologue, dirige l'association locale
+  de protection des chauves-souris, Les Ailes de la Nuit, à Combenoire.
+- Garde toujours dans sa poche un petit détecteur à ultrasons, même à
+  table, « au cas où ». Parle des chauves-souris avec une tendresse
+  absolue, corrige systématiquement quiconque répète une légende
+  fausse à leur sujet, mais sans jamais se moquer de la personne qui
+  la répète.
+- Personnage-ressource pour tout tome futur à thème naturaliste/
+  faune nocturne.
+
+### Bastien Roussel (introduit au tome 8)
+- 11 ans, vit à Combenoire, petit-fils du Vieux Firmin, ancien bedeau
+  de l'église Saint-Vivien. Calme, très observateur, parle peu mais
+  remarque toujours ce que les autres ratent — à varier
+  systématiquement des tempéraments déjà utilisés pour les autres
+  enfants-ressources (Max sûr de lui, Milo grimpeur terre-à-terre,
+  Yanis méfiant et loyal, Iris théâtrale et enthousiaste, Zoé franche
+  et bagarreuse).
+- Connaît le clocher et la grotte voisine par cœur depuis toujours,
+  aime particulièrement recopier avec soin les pages du carnet de
+  sonnerie de son grand-père, qu'il espère continuer à tenir un jour.
+- Personnage-ressource pour tout tome futur à thème patrimonial/
+  faune nocturne/village de montagne.
+
 ## Règle d'or de continuité
 - Les faits établis dans un tome (âges, liens de parenté, peurs, habitudes) ne
   doivent JAMAIS être contredits dans un tome suivant.
