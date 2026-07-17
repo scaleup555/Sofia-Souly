@@ -59,7 +59,7 @@ exactitude.
 quand, la première fois ? demanda Sofia.
 
 — Il faudrait demander à Yolande, dit Bastien. Mais je crois que ça
-fait à peu près une semaine que les gens en parlent au village.
+fait déjà trois ou quatre jours que les gens en parlent au village.
 
 Le chemin les mena jusqu'à la place, où des employés municipaux
 installaient déjà des tréteaux et des guirlandes de lanternes en

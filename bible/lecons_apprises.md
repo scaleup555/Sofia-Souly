@@ -1131,3 +1131,56 @@ mineurs supplémentaires (surdosage de « en riant », incohérence d'un
 jour sur le départ au chapitre 12) appliqués de façon proactive après
 le 4ᵉ passage. Manuscrit final : 39 746 mots. .docx livré via un
 nouveau `build_docx.py` calqué sur ceux des tomes 2 à 6.
+
+**Leçon méthodologique n°16 — le tableau de chronologie de
+`outline.md` doit être vérifié arithmétiquement (jour de départ +
+décompte = jour de l'événement) avant d'écrire, pas seulement
+recopié comme s'il était forcément cohérent avec lui-même (tome 8).**
+Le ledger jour par jour de l'outline du tome 8 contenait déjà, avant
+toute rédaction, la même contradiction interne qui a ensuite
+contaminé les chapitres 1 à 9 : « Jour 1 » + « dans huit jours » ne
+tombait pas sur le « Jour 8 » annoncé comme date de la fête. Comme le
+tableau semblait cohérent en apparence (une ligne par jour, un
+décompte qui diminue), l'erreur n'a été détectée qu'après coup, en
+comparant le texte réellement écrit à un calcul manuel indépendant.
+**Règle renforcée : avant d'écrire, recalculer chaque ligne du
+ledger de chronologie de l'outline par une addition simple
+(jour de la scène + nombre annoncé dans le décompte = jour de
+l'événement cible) et vérifier que toutes les lignes convergent vers
+la même date finale — ne jamais faire confiance à la cohérence
+apparente d'un tableau simplement parce qu'il est présenté sous forme
+structurée.** Cette même leçon s'applique à toute donnée numérique
+utilisée comme preuve dans l'intrigue (ex. « il y a X jours » pour
+dater une installation ou un événement) : si le même fait numérique
+est réénoncé dans plusieurs chapitres séparés par des jours de récit,
+chaque réénonciation doit être recalculée par rapport au jour où elle
+est prononcée dans la scène — pas simplement recopiée depuis le
+chapitre précédent — sous peine de voir un chiffre « figé » devenir
+faux à mesure que l'histoire avance (détecté par le jury du tome 8 :
+la date de début d'un chantier réénoncée à l'identique trois jours
+après malgré le temps écoulé, et une date d'installation déduite de
+trois façons différentes et mutuellement incompatibles selon le
+chapitre).
+
+**Leçon méthodologique n°17 — insérer un nouvel échange de dialogue
+avant ou après une réplique existante, sans revérifier la séquence
+des locuteurs en aval, crée systématiquement des bugs « deux
+répliques consécutives du même personnage » (tome 8).** Environ une
+douzaine de ces bugs structurels ont été détectés dans ce tome, tous
+causés par le même mécanisme : une réplique de dialogue est insérée
+entre deux répliques existantes pendant une vague d'expansion, mais
+la réplique juste après l'insertion appartenait déjà au même
+personnage que la nouvelle ligne insérée — ce qui n'était pas un
+problème avant l'insertion (l'alternance était correcte), mais qui en
+devient un après. Ces bugs ne sont pas détectés par une relecture
+superficielle ni par les vérifications de tics/chronologie, car le
+texte reste grammaticalement et logiquement cohérent phrase par
+phrase — seule une relecture intégrale du chapitre, en suivant
+explicitly qui parle à chaque réplique, les révèle. **Règle
+renforcée : après toute vague d'insertion de dialogue dans un
+chapitre (pas seulement à la relecture finale), relire ce chapitre en
+entier en pointant mentalement le locuteur de chaque réplique, pour
+repérer toute paire consécutive attribuée au même personnage —
+corriger immédiatement plutôt que de reporter cette vérification à
+une passe finale globale, où le volume de texte à revérifier rend
+l'exercice beaucoup plus coûteux et sujet à l'oubli.**

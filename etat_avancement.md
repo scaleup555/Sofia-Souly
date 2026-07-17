@@ -1,8 +1,8 @@
 # État d'avancement — Série Sofia & Souly
 
-*Dernière mise à jour : Tome 6 rédigé en une seule passe (12/12
-chapitres, ~39 500 mots), approuvé par le jury à 9,1/10 après un
-round de corrections, .docx livré — 2026-07-14*
+*Dernière mise à jour : Tome 8 rédigé en une seule passe (12/12
+chapitres, ~37 700 mots), approuvé par le jury à 8,8/10 après un
+round de corrections, .docx livré — 2026-07-17*
 
 **À LIRE INTÉGRALEMENT avant de démarrer toute nouvelle session d'écriture**,
 avec `bible/personnages.md` et `bible/lecons_apprises.md` (sections
@@ -439,4 +439,69 @@ dans le récit)).
   (calqué sur les tomes 2-6). **Tomes 1 à 6 toujours entièrement
   terminés** ; tome 7 complet à 39 746 mots (longueur cible de la
   série atteinte), livré à 8,8/10, seuil d'acceptation officiel
+  franchi.
+
+### Session 14 (tome 8, écriture complète) — 2026-07-16/17
+- Même consigne explicite que les tomes 5-7 : dialogues privilégiés
+  par rapport au texte narratif/descriptif, cible ~40 000 mots, 12
+  chapitres, jury dispatché uniquement une fois le manuscrit complet.
+  Consigne supplémentaire explicite de l'utilisateur : le livre doit
+  comporter des scènes « très drôles ».
+- Thème : chiroptérologie (écholocation, régime insectivore,
+  démystification des légendes fausses — myopie, cheveux, rage,
+  vampires —, hibernation). Décor : Combenoire, le clocher et la
+  Grotte du Murin. Nouveaux personnages ajoutés à `bible/personnages.md` :
+  Yolande Berthier (chiroptérologue, ancienne élève de Mamie Rose,
+  dirige l'association « Les Ailes de la Nuit », a peur du noir — un
+  parallèle thématique volontaire avec la désorientation des
+  chauves-souris) et Bastien Roussel (11 ans, petit-fils du Vieux
+  Firmin qui note l'envol du soir de la colonie depuis soixante ans).
+  Double fair-play : élimination de l'antenne-relais par la
+  chronologie, dispositif anti-pigeons à ultrasons comme vraie cause,
+  et le carnet de sonnerie du grand-père validé comme savoir
+  traditionnel fiable.
+- Rédaction complète des 12 chapitres puis expansion systématique
+  jusqu'à ~37 300 mots (environ 6 % sous la cible ~40 000, jugé
+  acceptable après arbitrage plutôt que de retarder davantage le
+  passage jury — voir ci-dessous).
+- Auto-relecture avant jury : bug de dérive de chronologie
+  systématique découvert et corrigé (tous les décomptes « X jours
+  avant la fête » des chapitres 1 à 9 étaient décalés d'un jour par
+  rapport à la date réelle de la fête, y compris dans le tableau de
+  l'outline lui-même) ; environ une douzaine de bugs « deux répliques
+  consécutives du même personnage » provoqués par l'insertion
+  d'échanges de dialogue sans revérifier l'alternance des locuteurs en
+  aval, détectés par relecture intégrale chapitre par chapitre ;
+  balayage des tics habituels (« avec un sourire fatigué », « genre
+  de », « sans lever les yeux », répliques dupliquées mot pour mot).
+- 2 passages jury complets : 7,4/10 (l'arithmétique « il y a X jours »
+  censée prouver que le dispositif anti-pigeons est la cause — pas
+  l'antenne — ne tenait pas : la date de début du chantier n'était
+  jamais recalculée d'un chapitre à l'autre malgré les jours qui
+  passaient, et la date d'installation du dispositif était déduite de
+  trois façons différentes et contradictoires selon le chapitre ;
+  contradiction avec la bible sur les baskets dépareillées de Sofia
+  (bleue/verte au lieu de rouge/bleue) en plus d'une confusion avec le
+  gag distinct de Souly ; frontière chapitre 2/3 ambiguë, lue comme le
+  même après-midi malgré un décompte de jours qui avance d'une unité ;
+  plusieurs passages quasi identiques mot pour mot — fin de chapitre
+  5/6, gabarit de la théorie du « suspect » de Gustave répété en 5/7 ;
+  humour jugé sympathique mais jamais franchement « très drôle », sans
+  scène de comédie physique) → **8,8/10, seuil d'acceptation franchi**
+  après correction de tous les points ci-dessus (arithmétique
+  recalculée pour que les trois chapitres convergent vers les mêmes
+  deux dates et que la déduction « un jour d'écart » de Souly reste
+  vraie ; baskets corrigées ; transition jour reformulée ; passages
+  dupliqués réécrits avec un phrasé différent pour le même gag ; deux
+  scènes de comédie physique ajoutées — guerre de volume sonore
+  nocturne de Gustave avec son voisin, chute en cascade de ses
+  cassettes vidéo). Un point résiduel mineur signalé par le second
+  passage (une réplique vague de Bastien évoquant « une semaine »
+  alors que la date précise de première observation venait d'être
+  fixée à trois jours plus tôt) corrigé par précaution avant
+  livraison, sans nouveau passage jury.
+- Livraison du fichier `.docx` final via un nouveau `build_docx.py`
+  (calqué sur les tomes 2-7). **Tomes 1 à 7 toujours entièrement
+  terminés** ; tome 8 complet à 37 727 mots (sous la cible ~40 000,
+  écart accepté), livré à 8,8/10, seuil d'acceptation officiel
   franchi.
