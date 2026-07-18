@@ -208,6 +208,19 @@ ses propres pieds. Je le sens.
 — Elle va vraiment continuer à leur parler toute la matinée, remarqua
 Colette, à mi-voix, à Vincent.
 
+— Sûrement, confirma Vincent. J'ai déjà vu des gens parler à des
+mécanismes récalcitrants. Jamais encore à des bottes.
+
+— Vous n'avez pas assez fréquenté ma sœur, dit Souly. Elle parle
+aussi à son caillou, à l'occasion.
+
+— Mon caillou m'écoute mieux que la plupart des gens, se défendit
+Sofia, sans lever les yeux de ses bottes, qu'elle continuait de
+fixer d'un œil noir.
+
+— C'est un argument difficile à contredire, admit Vincent, presque
+malgré lui.
+
 — On dirait bien, confirma Vincent, en réprimant un sourire.
 
 Au fil de la matinée, le travail collectif prit forme : la passe

@@ -492,3 +492,21 @@ qui la caractérisait.
 
 — Une hydrobiologiste sans terre sur les genoux, ce n'est pas une
 vraie hydrobiologiste, répondit Colette, sans se démonter.
+
+— Il faudrait l'écrire sur votre carte de visite, suggéra Enzo, sortant
+enfin de sa concentration.
+
+— « Colette Vasseur, hydrobiologiste, toujours un peu couverte de
+terre », récita Sofia, en mimant une carte imaginaire entre ses
+mains. Ça sonnerait sérieux.
+
+— Ça sonnerait surtout vrai, corrigea Colette, en riant, et c'est
+peut-être encore mieux.
+
+Ils reprirent le chemin du village tous les quatre, Enzo s'arrêtant
+une dernière fois pour vérifier le nœud qui retenait son sac, Sofia
+comptant les galets plats sur le sentier au cas où l'un d'eux
+mériterait de rejoindre sa collection, et Souly fermant la marche, son
+carnet déjà rouvert, comme si les vingt-deux millimètres de la grille
+avaient besoin d'être relus une deuxième fois pour être tout à fait
+certains.

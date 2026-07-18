@@ -459,7 +459,7 @@ manche au-dessus d'une flaque grandissante.
 
 — C'est un compliment ? demanda Octave, plein d'espoir.
 
-— C'est un constat, corrigea Auguste, avec un petit rire.
+— C'est un constat, corrigea Auguste, en riant sous cape.
 
 — Les constats sont parfois de meilleurs compliments que les
 compliments eux-mêmes, philosopha Octave, en tordant un peu plus fort

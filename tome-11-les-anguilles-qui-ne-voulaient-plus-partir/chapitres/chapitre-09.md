@@ -107,6 +107,19 @@ comme chercher une aiguille précise dans un pays entier de foin.
 
 — J'adore cette image, dit Sofia, ravie.
 
+— Moi, ça m'angoisserait un peu, avoua Enzo. Passer toute sa vie à se
+préparer pour un seul voyage, et ne même pas savoir ce qui vous
+attend vraiment, une fois arrivé.
+
+— C'est un peu ça, grandir, non ? dit Colette, doucement. On se
+prépare pour des choses qu'on ne peut pas encore imaginer.
+
+— Vous parlez comme Mamie Rose, remarqua Sofia.
+
+— C'est un compliment, j'espère, dit Colette.
+
+— Toujours, confirma Sofia, avec sérieux.
+
 — Elle n'est pas de moi, avoua Colette. Je l'ai piquée à un vieux
 professeur, à l'université. Mais elle est tellement juste que je
 l'utilise à chaque fois.

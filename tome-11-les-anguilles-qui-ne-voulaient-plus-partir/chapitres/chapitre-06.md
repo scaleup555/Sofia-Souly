@@ -317,6 +317,23 @@ fierté technique dans la voix.
 — Je le sais maintenant, dit Laurine. À l'époque, personne ne me
 l'avait expliqué aussi bien que vous, aujourd'hui.
 
+— Vous criez encore, si une anguille vous frôle la cheville ? demanda
+Sofia, taquine.
+
+— Un peu, avoua Laurine, en riant. Savoir qu'un animal est inoffensif
+et ne plus sursauter quand il vous touche, ce sont deux choses
+différentes. Mon cerveau le sait. Mes pieds, eux, n'ont pas encore
+reçu le mémo.
+
+— C'est un peu comme moi, avec les araignées, confia Sofia. Je sais
+qu'elles ont huit pattes, pas sept et demie, mais celle que j'ai vue
+une fois m'a quand même laissé un doute.
+
+— Tu en reparles encore, de cette araignée ? soupira Souly.
+
+— Elle avait clairement une patte plus courte, insista Sofia. Je
+maintiens ma version.
+
 — Il y en a une troisième, ajouta Colette, en s'asseyant sur le bord
 du ponton, les pieds balançant au-dessus de l'eau. Les gens croient
 souvent que les anguilles naissent dans la rivière, ici, comme
@@ -489,8 +506,8 @@ encore autant de questions.
 — Ça passe encore plus vite quand on n'a pas de réponses du tout,
 observa Colette. Au moins, on avance.
 
-— Lentement, dit Souly, reprenant sans le vouloir le mot de sa sœur
-du matin même.
+— Lentement, dit Souly, reprenant sans le vouloir le mot que sa sœur
+avait lancé la veille, au moulin.
 
-— Sûrement, corrigea Sofia à son tour, avec un sourire, et pour une
+— Sûrement, corrigea Sofia à son tour, le menton levé, et pour une
 fois, personne ne la contredit.

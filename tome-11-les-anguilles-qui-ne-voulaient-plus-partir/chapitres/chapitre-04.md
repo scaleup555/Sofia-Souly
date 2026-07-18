@@ -97,6 +97,15 @@ On ne fait pas autant de bruit sur une rivière sans conséquences.
 — Personne ne demande l'avis des poissons, avant d'ouvrir un commerce
 pareil, conclut la première femme, satisfaite de son effet.
 
+— On devrait peut-être leur demander quand même, glissa Sofia, à
+voix basse, à Souly. Ça éviterait bien des malentendus.
+
+— Les poissons ne répondent pas aux questions, chuchota Souly en
+retour.
+
+— C'est bien le problème de toute cette enquête, murmura Sofia. Tout
+le monde parle à leur place.
+
 Souly, qui avait suivi la conversation depuis le trottoir d'en face,
 fronça les sourcils.
 

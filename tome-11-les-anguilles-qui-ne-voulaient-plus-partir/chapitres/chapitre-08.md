@@ -222,6 +222,31 @@ avec tendresse.
 seule, résuma Enzo, avec l'air de quelqu'un qui avait entendu la
 phrase un bon millier de fois.
 
+— Il vous a déjà raconté l'histoire du nœud qu'il a mis onze ans à
+comprendre ? demanda Enzo, un sourire en coin.
+
+— Onze ans ? répéta Sofia, incrédule.
+
+— Un nœud que son propre père utilisait pour amarrer les péniches de
+grain, expliqua Enzo. Papi savait le refaire depuis qu'il avait six
+ans, sans jamais comprendre pourquoi il tenait alors que les autres
+glissaient. Il a fini par le redécouvrir tout seul, à quarante ans
+passés, en fabriquant une maquette pour m'apprendre.
+
+— Et alors ? demanda Sofia, suspendue à ses lèvres.
+
+— Alors rien, dit Enzo, avec un haussement d'épaules ravi. Il a
+juste passé une soirée entière à rire tout seul dans son atelier,
+parce qu'il venait de comprendre un geste qu'il faisait depuis
+l'enfance sans jamais y réfléchir.
+
+— C'est un peu ce qu'on est en train de faire, avec la règle de la
+pleine lune, remarqua Souly, pensivement. Comprendre enfin pourquoi
+un geste ancien fonctionnait.
+
+— Vous voyez, dit Enzo, satisfait. Même les enquêtes se répètent, dans
+cette famille.
+
 Un coup frappé à la porte annonça l'arrivée de Vincent, visiblement
 mal à l'aise, un dossier serré contre sa poitrine comme un bouclier,
 les cheveux encore mouillés d'une douche prise en vitesse.
@@ -422,8 +447,8 @@ précédentes. Pour de vrai, cette fois.
 — On avait compris les autres fois aussi, dit Sofia, avec douceur.
 
 — Il a toujours autant d'énergie, celui-là, remarqua Vincent, presque
-envieux, en regardant par la fenêtre Enzo qui traversait déjà la
-place en courant, un carnet de nœuds battant contre sa hanche.
+envieux, en désignant Enzo, qui rangeait déjà son carnet de nœuds
+pour foncer vers la porte.
 
 — Attendez de le voir en pleine démonstration, dit Souly. Ça double,
 facilement.
@@ -458,12 +483,15 @@ fois, avant demain.
 — Excellente idée, confirma Colette. On y va tous ensemble, à la
 tombée de la nuit.
 
-— J'apporterai les lampes rouges, proposa Enzo, réapparu sur le
-pas de la porte pour un dernier mot, avant de filer une seconde fois
-vers l'écluse. Et je préviendrai mon grand-père, en passant.
+— J'apporterai les lampes rouges, proposa Enzo, une main déjà sur la
+poignée de la porte. Et je préviendrai mon grand-père, en passant.
 
-— Il n'est jamais vraiment parti, celui-là, remarqua Sofia, amusée,
-en le regardant s'éloigner par la fenêtre. Il fait juste semblant.
+Il fila sans attendre de réponse, laissant la porte battre derrière
+lui.
+
+— Il n'est jamais vraiment là bien longtemps, celui-là, remarqua
+Sofia, amusée, en le regardant traverser la place en courant par la
+fenêtre. Toujours entre deux portes.
 
 — C'est un peu le principe d'un village, dit Colette. Personne ne
 part vraiment bien longtemps.

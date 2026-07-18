@@ -382,6 +382,21 @@ gentils, pas merci pour... enfin, vous voyez ce que je veux dire.
 
 — On voit à peu près, dit Sofia, en réprimant un sourire.
 
+— Je ne suis normalement pas quelqu'un de maladroit, précisa Vincent,
+en reposant la tasse avec un soin exagéré, comme pour se prouver
+quelque chose à lui-même. Demandez à n'importe qui au village. Quinze
+ans que je répare des mécanismes délicats sans jamais rien casser.
+
+— Sauf des tasses, remarqua Colette, avec douceur.
+
+— Sauf des tasses, et apparemment des passages migratoires entiers,
+admit Vincent, dans un souffle qui ressemblait presque à un rire,
+même si ses yeux, eux, ne riaient pas encore tout à fait.
+
+— On répare les deux, promit Souly. La tasse est déjà sauvée.
+
+— Il en reste une, alors, dit Vincent, en se forçant à sourire.
+
 — Je peux vous offrir quelque chose, proposa Vincent, en se dirigeant
 vers un petit coin cuisine encombré d'outils. Un jus de fruit, un
 biscuit, n'importe quoi. C'est le moins que je puisse faire.

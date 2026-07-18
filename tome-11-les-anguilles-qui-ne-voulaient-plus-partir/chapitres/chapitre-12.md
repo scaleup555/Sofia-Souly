@@ -283,6 +283,21 @@ repérer, même sans savoir exactement où on va.
 
 — Je le garderai précieusement, promit Souly.
 
+— Il faudra me raconter, un jour, comment vous êtes devenue
+hydrobiologiste, à cause d'un grand-père qui parlait d'étoiles,
+ajouta-t-il.
+
+— Ce n'est pas une histoire très compliquée, dit Colette, en
+rosissant encore un peu plus. Il m'emmenait pêcher, petite, et il me
+racontait toujours que chaque poisson avait un secret que personne
+n'avait encore percé. J'ai grandi en voulant devenir celle qui les
+perce, un par un.
+
+— Vous en avez percé combien, jusqu'ici ? demanda Sofia.
+
+— Un tout petit peu plus qu'avant cette semaine, admit Colette, avec
+un sourire qui ne cherchait plus du tout à se cacher.
+
 — Je sais, dit Colette. C'est bien pour ça que je te le donne.
 
 — Vous n'allez pas le regretter, dans dix ans, en fouillant votre

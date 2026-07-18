@@ -217,6 +217,19 @@ discrètement dans sa direction.
 
 — J'ai eu chaud, admit Souly, tout bas, les oreilles encore rouges.
 
+— Tu veux savoir le pire ? souffla Sofia, en retour. Personne dans
+cette foule n'aurait remarqué, si tu ne t'étais pas corrigé toi-même
+à voix haute.
+
+— C'est justement pour ça que je l'ai fait, chuchota Souly. Une
+erreur qu'on cache, ça devient un mensonge. Une erreur qu'on corrige,
+ça reste juste une erreur.
+
+— Tu ressembles de plus en plus à Colette, remarqua Sofia, avec un
+sourire.
+
+— Il y a pire, comme modèle, admit Souly, presque fier.
+
 — On dirait moi, la semaine dernière, avec le mot « increvable »,
 plaisanta-t-elle.
 
