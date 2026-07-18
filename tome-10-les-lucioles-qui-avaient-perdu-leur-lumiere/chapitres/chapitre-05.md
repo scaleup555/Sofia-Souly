@@ -387,8 +387,8 @@ presque deux jours dans l'air.
 — Deux jours, répéta Sofia, satisfaite. Merci. C'était toutes mes
 questions, pour l'instant.
 
-— Pour l'instant, répéta Régis, avec un petit sourire fatigué mais
-sincère. J'ai l'impression qu'il y en aura d'autres.
+— Pour l'instant, répéta Régis, en étouffant un bâillement mais avec
+un sourire sincère. J'ai l'impression qu'il y en aura d'autres.
 
 — Probablement, confirma Sofia, sans la moindre gêne.
 

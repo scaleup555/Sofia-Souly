@@ -83,7 +83,8 @@ manifeste. Sauf qu'on se bat avec des dates, pas avec des épées.
 — Les dates, c'est parfois plus difficile à manier qu'une épée,
 remarqua Aurélie, en riant. Demandez à n'importe quel historien.
 
-— C'est du très bon raisonnement, remarqua Aurélie, impressionnée.
+— C'est du très bon raisonnement, quand même, dit Sofia, à
+l'attention de son frère.
 
 — Il y a aussi la question du langage lumineux, ajouta Souly, en
 feuilletant son carnet. Vous m'avez dit, l'autre jour, que chaque
@@ -93,8 +94,8 @@ espèce de luciole avait son propre code de clignotements.
 un rythme précis, un peu comme un message en morse. Les femelles, au
 sol, répondent avec leur propre lumière, si le message leur convient.
 
-— Et les guirlandes du camping brouillent ce message, dit Sofia,
-attends, sérieux ? Comme si on criait par-dessus une conversation ?
+— Attends, sérieux ? Et les guirlandes du camping brouillent ce
+message ? dit Sofia. Comme si on criait par-dessus une conversation ?
 
 — C'est exactement ça, confirma Aurélie. Sauf que dans notre cas, le
 camping est arrivé bien après le début du problème. Ce n'est pas lui
@@ -338,11 +339,9 @@ manquent aux neuf précédents.
 
 — En tout cas, le cadran confirme que quelque chose s'est passé cette
 nuit, insista Barnabé, sans se laisser démonter. Et pas seulement le
-cadran.
-
-— Cette nuit, dit Barnabé. J'ai attiré onze moustiques, un chat du
-voisinage, et le même hérisson que la dernière fois. Je crois qu'il
-commence même à m'attendre, celui-là.
+cadran : j'ai attiré onze moustiques, un chat du voisinage, et le
+même hérisson que la dernière fois. Je crois qu'il commence même à
+m'attendre, celui-là.
 
 — Vous avez donné un nom à ce hérisson ? demanda Sofia, ravie par
 cette idée.
@@ -394,6 +393,9 @@ déclara Barnabé, imperméable aux moqueries amicales.
 
 — Deux jours avant la fête, murmura Sofia, en riant. Vous n'avez plus
 beaucoup de temps pour votre grande découverte, Barnabé.
+
+— Deux jours, ça suffit largement, à mon rythme, répliqua Barnabé,
+sans se démonter le moins du monde.
 
 — Vous savez ce qui m'étonne, dans tout ça ? demanda Sofia, en se
 tournant vers Aurélie. Tout le monde croit que les lucioles sont

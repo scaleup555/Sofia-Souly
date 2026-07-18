@@ -35,7 +35,9 @@ sursauter. Mila se tenait dehors, son carnet sous le bras, un panier
 de pains encore chauds à la main.
 
 — J'ai vu de la lumière, expliqua-t-elle, une fois la porte ouverte.
-Ma mère fait le pain, le mardi. J'ai pensé que ça vous ferait plaisir.
+Ma mère part au marché très tôt, le mardi, alors elle m'a laissé
+passer chez le boulanger avant de venir. J'ai pensé que ça vous
+ferait plaisir.
 
 — Tu es debout à cette heure-ci, toi aussi ? demanda Sofia, surprise.
 
@@ -165,9 +167,9 @@ avec une affection non dissimulée.
 — Et toi, tu trouves toujours les cailloux intéressants, répliqua
 Souly. Chacun sa spécialité.
 
-— Et le camping, seize jours après le déclin, ajouta Aurélie, en
-suivant la troisième ligne. Bien trop tard pour être la cause
-principale.
+— Et le camping, installé il y a seize jours, ajouta Aurélie, en
+suivant la troisième ligne. Treize jours après le déclin. Bien trop
+tard pour être la cause principale.
 
 Souly recula d'un pas pour admirer l'ensemble du schéma, les mains sur
 les hanches.
