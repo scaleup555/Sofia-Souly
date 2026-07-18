@@ -301,6 +301,90 @@ Tout nouvel épisode doit relire ce fichier avant d'écrire une ligne.
 - Personnage-ressource pour tout tome futur à thème artistique/zones
   humides/village au bord de l'eau.
 
+### Colette Vasseur (introduite au tome 11)
+- Filleule de Mamie Rose (lien jamais utilisé jusqu'ici — à varier
+  systématiquement des liens déjà utilisés : cousine, amie d'école de
+  Camille, ancienne élève de Mamie Rose, amie d'enfance du père). La
+  trentaine, hydrobiologiste spécialisée dans les poissons migrateurs,
+  appelée par le syndicat de rivière de Riôme pour comprendre pourquoi
+  les anguilles argentées refusent de dévaler vers la mer avant la
+  Nuit de la Dévalaison.
+- Passionnée par le mystère non résolu du lieu de ponte des anguilles
+  (la mer des Sargasses, jamais observée directement par aucun
+  scientifique), mais devient étrangement bafouillante et cherche ses
+  mots dès qu'on lui demande de parler d'elle-même plutôt que de son
+  travail — maladresse sociale distincte de celle d'Aurélie (tome 10,
+  qui rougit sous les compliments publics sur son travail) : Colette,
+  elle, est parfaitement à l'aise qu'on complimente son travail, mais
+  panique dès que la conversation devient personnelle.
+- Garde toujours un vieux sextant hérité de son grand-père dans son
+  sac, qu'elle n'utilise jamais vraiment mais qu'elle dit porter « pour
+  la chance ».
+- Personnage-ressource pour tout tome futur à thème aquatique/rivière/
+  migration animale.
+
+### Enzo Cabrol (introduit au tome 11)
+- 10 ans, vit à Riôme, fils de l'éclusier actuel du village. Fasciné
+  par les mécanismes, les nœuds marins et le fonctionnement du vieux
+  moulin, explique tout avec un vocabulaire technique trop compliqué
+  pour son âge, qu'il a appris en écoutant son père et son
+  grand-père — à varier systématiquement des tempéraments déjà
+  utilisés pour les autres enfants-ressources (voir liste ci-dessus,
+  plus Mila artiste distraite). Contrairement à Mila (distraite par le
+  beau), Enzo est distrait par le fonctionnel : une machine, un
+  mécanisme, un nœud mal fait l'arrêtent net en pleine phrase.
+- Physiquement maladroit dès qu'il ne manipule pas un objet précis
+  (trébuche, renverse des choses) mais incroyablement minutieux avec
+  ses mains dès qu'il s'agit de nœuds ou de mécanismes.
+- Personnage-ressource pour tout tome futur à thème fluvial/artisanal/
+  village au bord d'une rivière à écluses.
+
+### Auguste Lantier (introduit au tome 11)
+- Grand-père d'Enzo, ancien éclusier du moulin de Riôme, à la
+  retraite. Dépositaire d'une règle familiale transmise depuis des
+  générations (« à la pleine lune d'automne, toujours laisser une
+  passe ouverte au vieux moulin ») longtemps prise pour une
+  superstition locale, qui se révèle décrire exactement le moment et
+  l'endroit du passage des anguilles argentées.
+- Contrairement à Henriette (tome 10, carnet de comptage nocturne
+  chiffré tenu quarante ans), Auguste ne compte rien : il transmet une
+  règle orale, précise mais jamais expliquée scientifiquement avant ce
+  tome — variation volontaire du gabarit « aînée dépositaire d'un
+  savoir traditionnel validé ».
+- Personnage-ressource pour tout tome futur à thème fluvial/savoir
+  traditionnel villageois.
+
+### Octave Bouscaren (introduit au tome 11)
+- La soixantaine, ancien pêcheur amateur du village devenu inventeur
+  excentrique à la retraite, construit des pièges et caméras de
+  comptage d'anguilles de plus en plus farfelus qui échouent
+  systématiquement de façon comique (rôle comique, distinct de Gustave
+  Pinatel [tome 8, scoop animalier], Norbert Chabrol [tome 9, photo
+  d'éclair] et Barnabé Roquefeuil [tome 10, attracteurs à lucioles] :
+  Octave ne cherche ni à observer ni à provoquer un phénomène, mais à
+  le capturer en images à tout prix, ce qui l'entraîne systématiquement
+  dans la rivière).
+- Personnage-ressource pour tout tome futur à thème fluvial/comique.
+
+### Vincent Aubry (introduit au tome 11)
+- Technicien municipal chargé de l'entretien du moulin et de sa
+  turbine. A installé une grille à mailles fines pour protéger la
+  turbine des débris, sans savoir qu'elle bloquerait aussi le passage
+  migratoire des anguilles — erreur de négligence, pas de
+  malveillance (dans l'esprit d'Antoine Ferrieux [tome 8], Thibault
+  Norrain [tome 9] et Régis Sabatier [tome 10]).
+- Personnage-ressource pour tout tome futur à thème fluvial/technique
+  municipale.
+
+### Laurine Ferretti (introduite au tome 11)
+- Propriétaire d'une base de location de canoës ouverte récemment en
+  bordure de la rivière. Sincèrement inquiète d'être responsable du
+  déclin des anguilles, bien qu'innocente de la cause principale —
+  accepte volontiers d'ajuster ses horaires de location par précaution,
+  même une fois innocentée (dans l'esprit de Julien Mercier [tome 10]).
+- Personnage-ressource pour tout tome futur à thème fluvial/tourisme
+  local.
+
 ## Règle d'or de continuité
 - Les faits établis dans un tome (âges, liens de parenté, peurs, habitudes) ne
   doivent JAMAIS être contredits dans un tome suivant.
