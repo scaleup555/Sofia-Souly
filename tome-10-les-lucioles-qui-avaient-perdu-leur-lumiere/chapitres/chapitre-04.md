@@ -497,8 +497,8 @@ conduisait déjà comme ça sur son vélo, quand il était enfant.
 
 — Vous le connaissez bien ? demanda Sofia.
 
-— Aiguemarais est petit, dit Mamie Rose, avec un clin d'œil. Tout le
-monde connaît tout le monde depuis toujours, ici.
+— Aiguemarais est petit, dit Mamie Rose, en haussant les épaules,
+amusée. Tout le monde connaît tout le monde depuis toujours, ici.
 
 — C'est plutôt rassurant, ou plutôt inquiétant, un village comme ça ?
 demanda Souly.
