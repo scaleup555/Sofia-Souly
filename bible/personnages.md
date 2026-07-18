@@ -263,6 +263,44 @@ Tout nouvel épisode doit relire ce fichier avant d'écrire une ligne.
 - Personnage-ressource pour tout tome futur à thème forestier/
   météorologique/village de montagne.
 
+### Aurélie Fontenay (introduite au tome 10)
+- Cousine de Mamie Rose (lien jamais utilisé jusqu'ici — à varier
+  systématiquement des liens déjà utilisés : marraine de Camille, amie
+  de longue date de Mamie Rose, cousin de Camille, amie d'école de
+  Camille, sœur du père, ancienne élève de Mamie Rose, amie d'enfance
+  du père). La trentaine, entomologiste spécialisée dans les insectes
+  bioluminescents, appelée par la mairie d'Aiguemarais pour comprendre
+  pourquoi les lucioles ont presque disparu du marais avant la Nuit
+  des Lucioles.
+- Parle des lucioles avec un émerveillement intact malgré des années
+  d'étude, mais rougit et perd tous ses mots dès qu'on la complimente
+  publiquement sur son travail — une maladresse sociale attachante,
+  distincte des peurs professionnelles déjà établies chez Yolande
+  (tome 8, peur du noir) et Héloïse (tome 9, peur des orages).
+- Garde toujours un petit carnet à couverture phosphorescente, qui
+  brille faiblement dans le noir — elle prétend que c'est pratique
+  pour le terrain, mais tout le monde sait qu'elle le trouve juste
+  joli.
+- Personnage-ressource pour tout tome futur à thème entomologique/
+  faune nocturne/zones humides.
+
+### Mila Auvray (introduite au tome 10)
+- 10 ans, vit à Aiguemarais, fille d'une maraîchère du village.
+  Artiste dans l'âme, toujours un carnet de croquis à la main, se
+  laisse facilement distraire par un beau détail (une libellule, un
+  reflet dans l'eau) au beau milieu d'une phrase — à varier
+  systématiquement des tempéraments déjà utilisés pour les autres
+  enfants-ressources (Max sûr de lui, Milo grimpeur terre-à-terre,
+  Yanis méfiant et loyal, Iris théâtrale et enthousiaste, Zoé franche
+  et bagarreuse, Bastien calme et très observateur, Noé sceptique et
+  pince-sans-rire).
+- Dessine tout ce qu'elle observe dans un carnet de croquis qu'elle ne
+  montre jamais à personne, sauf une fois qu'elle a décidé de faire
+  confiance à quelqu'un — moment de complicité qu'elle finit par
+  partager avec Souly.
+- Personnage-ressource pour tout tome futur à thème artistique/zones
+  humides/village au bord de l'eau.
+
 ## Règle d'or de continuité
 - Les faits établis dans un tome (âges, liens de parenté, peurs, habitudes) ne
   doivent JAMAIS être contredits dans un tome suivant.
