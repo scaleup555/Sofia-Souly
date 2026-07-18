@@ -333,7 +333,7 @@ une histoire.
 — Tu en as ramassé, ici ? demanda Enzo.
 
 — Un, avoua Sofia, en sortant de sa poche le galet lisse et presque
-rond qu'elle avait glissé là, deux nuits plus tôt, au bord de la
+rond qu'elle avait glissé là, trois nuits plus tôt, au bord de la
 grille. Celui-là a vu passer une anguille qui n'y arrivait pas
 encore. Maintenant, elle est repartie. C'est une belle histoire, pour
 un caillou.

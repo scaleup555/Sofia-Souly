@@ -1342,3 +1342,71 @@ pré-vérifiée de l'outline. Tome complet à 37 916 mots, premier tome à
 respecter confortablement un plancher de mots strict fixé par
 l'utilisateur. .docx livré via un nouveau `build_docx.py` calqué sur
 ceux des tomes 2 à 9.
+
+## Leçons du tome 11 (2026-07-18)
+
+**Leçon méthodologique n°24 — l'expansion parallèle par plusieurs
+agents génère systématiquement des bugs de « répliques consécutives »,
+même avec des instructions explicites de vigilance et un budget de
+tics détaillé.** Au tome 11, la vérification structurelle en trois
+passages parallèles (un par groupe de 4 chapitres) a trouvé et corrigé
+**22 bugs de ce type au total**, le nombre le plus élevé de toute la
+série jusqu'ici — malgré des agents d'expansion explicitement
+briefés sur ce risque exact (avec des exemples tirés du tome 10 dans
+leur prompt). Un seul groupe de chapitres (5-8) a nécessité une
+seconde vague de corrections après un premier passage de vérification
+qui en avait laissé passer sept. **Règle renforcée : ne jamais
+considérer un seul passage de vérification structurelle comme
+suffisant pour cette classe de bug — prévoir systématiquement une
+relecture de contrôle après les premières corrections, avant de
+dispatcher le jury, et ne pas s'étonner si le nombre de bugs trouvés
+dépasse largement les tomes précédents : c'est le type de défaut le
+plus difficile à éliminer complètement avec ce processus, pas un
+signe que le processus a mal fonctionné.**
+
+**Leçon méthodologique n°25 — un jury round 1 qui ne relève AUCUN bug
+de locuteur consécutif ne garantit pas leur absence ; ça peut aussi
+signifier que la vérification structurelle en amont a déjà fait le
+travail.** Au tome 11, le premier passage jury (8,5/10) a explicitement
+confirmé zéro bug de ce type — contrairement aux tomes 8-10 où le
+premier passage jury en trouvait encore après la vérification
+structurelle. Ceci valide la méthode (vérification dédiée par petits
+groupes de chapitres AVANT jury, avec relance si nécessaire), mais ne
+doit pas conduire à relâcher la vigilance sur ce point lors des futurs
+tomes — le jury reste un filet de sécurité, pas le mécanisme principal
+de détection.
+
+**Leçon méthodologique n°26 — les formulations « avec un(e) + nom »
+dupliquées restent le point faible le plus systématique de la série,
+year after year, malgré une règle explicite et ancienne (« ne jamais
+réutiliser deux fois la même formulation dans un même tome »).** Au
+tome 11, le premier passage jury a relevé 8 répétitions de ce type
+(« avec un sourire » nu, « avec un vrai sourire », « avec un sourire
+en coin », « Un petit rire … parcourut la foule », un gabarit
+« Exactement ce genre de X, confirma Colette » utilisé deux fois) —
+alors même que les tics bannis et les plafonds numériques (sourcil
+levé, clin d'œil, « genre de ») étaient déjà parfaitement respectés
+dès le premier jet. **Constat : les outils de vérification
+automatisée (grep sur une liste de tics bannis) attrapent bien les
+tics EXPLICITEMENT interdits, mais pas les répétitions génériques de
+la famille « avec un(e) + nom », qui nécessitent une relecture
+stylistique dédiée, distincte de la vérification structurelle
+(cohérence/chronologie) et de la vérification des tics bannis. Ajouter
+cette relecture stylistique comme une étape à part entière avant le
+premier passage jury pour les tomes suivants, plutôt que de compter
+sur le jury pour la détecter.**
+
+**Bilan chiffré (tome 11) :** rédaction des 12 chapitres en une seule
+passe (~11 200 mots), expansion parallèle par 3 agents jusqu'à ~36 340
+mots, renforcement manuel ciblé jusqu'à ~37 500 mots (marge de
+sécurité d'environ 1 500 mots au-dessus du plancher strict, appliquant
+directement la leçon n°20 du tome 10 dès le premier renforcement, sans
+avoir besoin d'un second passage de renforcement comme au tome 10).
+Vérification structurelle en trois passages parallèles (22 bugs de
+répliques consécutives trouvés et corrigés au total, deux agents
+relancés après un échec d'infrastructure sans rapport avec le
+contenu). 2 passages jury complets sur le manuscrit fini : 8,5/10 →
+**9,0/10, seuil d'acceptation franchi** — la meilleure note jamais
+obtenue par un tome de la série dès le deuxième passage jury. Tome
+complet à 37 557 mots. .docx livré via un nouveau `build_docx.py`
+calqué sur ceux des tomes 2 à 10.

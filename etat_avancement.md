@@ -652,3 +652,80 @@ dans le récit)).
   par l'utilisateur plutôt qu'une simple cible — livré à 8,8/10, seuil
   d'acceptation officiel franchi, avec zéro incohérence de chronologie
   détectée sur les deux passages jury (une première pour la série).
+
+### Session 17 (tome 11, écriture complète) — 2026-07-18
+- Même consigne explicite que le tome 10 : « tome suivant, mêmes
+  exigences » — qualité très soignée, plancher ferme de 36 000 mots
+  (max 40 000), dialogues privilégiés, plusieurs passages très drôles,
+  scènes embarrassantes-attendrissantes réparties sur plusieurs
+  personnages.
+- Thème : migration des anguilles européennes (ichtyologie). Cycle de
+  vie complet (mer des Sargasses → leptocéphales → civelles →
+  anguilles jaunes → anguilles argentées → dévalaison), mystère
+  scientifique réel non résolu (aucune anguille européenne jamais
+  observée se reproduisant dans la mer des Sargasses), distinction
+  poisson catadrome/anadrome (opposé du saumon), démystification de
+  trois mythes (serpent, anguille électrique, naissance en rivière).
+  Décor : Riôme, village au bord de la rivière l'Argentelle, Nuit de
+  la Dévalaison menacée. Nouveaux personnages ajoutés à
+  `bible/personnages.md` : Colette Vasseur (hydrobiologiste, filleule
+  de Mamie Rose — lien familial inédit — à l'aise devant les
+  compliments professionnels mais bafouille dès que la conversation
+  devient personnelle), Enzo Cabrol (10 ans, fils de l'éclusier,
+  fasciné par les mécanismes et les nœuds, distrait par le
+  fonctionnel plutôt que par le beau), Auguste Lantier (grand-père
+  d'Enzo, dépositaire d'une règle orale sur la pleine lune plutôt que
+  d'un carnet de comptage chiffré — variation volontaire du gabarit
+  « aînée dépositaire d'un savoir traditionnel » déjà utilisé au tome
+  10), Octave Bouscaren (inventeur excentrique comique, distinct de
+  Barnabé du tome 10 par son obsession de capturer le phénomène en
+  images plutôt que de le provoquer), Vincent Aubry (technicien
+  négligent-pas-malveillant) et Laurine Ferretti (base de canoës
+  injustement soupçonnée).
+- Double fair-play : élimination d'une base de canoës récemment
+  ouverte par chronologie (écart constant de douze jours), grille à
+  mailles fines installée par erreur de négligence comme vraie cause
+  (écart constant d'un jour avec le déclin — la preuve numérique
+  clé), règle familiale orale sur la pleine lune validée
+  scientifiquement (les anguilles argentées dévalent préférentiellement
+  après la pleine lune pour limiter la prédation), résolution
+  collaborative par passe à anguilles bidirectionnelle plutôt que
+  simple retrait d'un dispositif.
+- Rédaction complète des 12 chapitres en une seule passe (~11 200
+  mots), puis expansion en parallèle via 3 agents dédiés (ch1-4,
+  ch5-8, ch9-12, chacun avec la table de recalcul de chronologie
+  complète et les budgets de tics), suivie d'un renforcement manuel
+  ciblé du volume pour construire une marge de sécurité d'environ
+  1 500 mots au-dessus du plancher strict avant la vérification
+  structurelle (leçon n°20 du tome 10 appliquée dès le départ). Une
+  erreur d'arithmétique de chronologie auto-détectée et corrigée
+  pendant la rédaction initiale (chiffres inversés entre l'écart et la
+  valeur absolue au chapitre 6), et une contamination croisée
+  accidentelle avec un nom du tome 10 (« Julien » au lieu de
+  « Vincent ») également auto-détectée et corrigée avant la fin du
+  premier jet.
+- Vérification structurelle dédiée en trois passages parallèles par
+  groupe de chapitres (deux des trois agents ont dû être relancés
+  après un échec d'infrastructure sans rapport avec le contenu) :
+  22 bugs de « répliques consécutives du même personnage » trouvés et
+  corrigés au total avant le premier passage jury — le nombre le plus
+  élevé de la série jusqu'ici, rappelant que même une vérification
+  dédiée par petits groupes de chapitres n'élimine pas totalement ce
+  risque après une expansion parallèle par plusieurs agents.
+- 2 passages jury complets : 8,5/10 (une répétition exacte non
+  recalculée — « vingt-huit nuits » recopié au lieu de « vingt-neuf »
+  au chapitre du grand soir —, plusieurs formulations « avec un(e) +
+  nom » dupliquées mot pour mot dans le livre, deux gabarits narratifs
+  répétés — l'arrivée du personnage comique et une réplique verbatim
+  du grand-père) → **9,0/10, seuil d'acceptation franchi** après
+  correction ciblée de tous les points (aucun nouveau tic de
+  substitution introduit, vérifié explicitement par le second passage
+  jury). Un dernier point mineur signalé par le second passage
+  jury (un écart d'une nuit sur une référence temporelle hors
+  chronologie fair-play) corrigé par précaution avant livraison, sans
+  nouveau passage jury.
+- Livraison du fichier `.docx` final via un nouveau `build_docx.py`
+  (calqué sur les tomes 2-10). **Tomes 1 à 10 toujours entièrement
+  terminés** ; tome 11 complet à 37 557 mots, livré à 9,0/10 — la
+  meilleure note jamais obtenue par un tome de la série dès le
+  deuxième passage jury.
