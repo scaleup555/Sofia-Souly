@@ -30,8 +30,11 @@ plus.
 — Quelqu'un doit le faire, répondit Souly, avec un sérieux qui fit
 sourire Colette dans l'obscurité.
 
-— Fixés sur quoi, exactement ? demanda Souly, son carnet déjà ouvert
-sur ses genoux, un crayon coincé derrière l'oreille.
+— Fixés sur quoi, exactement ? demanda Sofia, en tirant sur la manche
+de Colette.
+
+Souly rouvrit son carnet sur ses genoux, un crayon déjà coincé
+derrière l'oreille.
 
 — Sur le fait qu'aucune anguille ne peut passer, dit Colette. Ce
 soir, on va observer directement la grille, avec des lampes rouges,

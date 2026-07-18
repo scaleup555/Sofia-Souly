@@ -219,9 +219,7 @@ Sofia, sans lever les yeux de ses bottes, qu'elle continuait de
 fixer d'un œil noir.
 
 — C'est un argument difficile à contredire, admit Vincent, presque
-malgré lui.
-
-— On dirait bien, confirma Vincent, en réprimant un sourire.
+malgré lui, en réprimant un sourire.
 
 Au fil de la matinée, le travail collectif prit forme : la passe
 fixée solidement à côté de la grille, testée avec un tuyau d'eau pour
@@ -278,10 +276,9 @@ fascinée malgré elle par la dextérité d'Enzo.
 père dit que le bon Dieu a dû répartir toute mon adresse dans mes
 doigts, et qu'il ne restait plus rien pour mes jambes.
 
-Un raffut de bottes qui pataugent annonça, sans grande surprise,
-l'arrivée d'Octave, cette fois sans invention visible, mais avec un
-sourire particulièrement satisfait et une tablette serrée contre sa
-poitrine comme un trésor.
+Octave surgit du sentier dans un grand bruit d'éclaboussures, sans
+invention visible cette fois, mais avec un sourire particulièrement
+satisfait et une tablette serrée contre sa poitrine comme un trésor.
 
 — J'ai une confession à faire, annonça-t-il, en s'approchant du
 groupe.

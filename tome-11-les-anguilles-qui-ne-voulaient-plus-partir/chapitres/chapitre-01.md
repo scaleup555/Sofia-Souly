@@ -19,7 +19,9 @@ fait attention aux nuances.
 désignant les peupliers qui filaient. C'est plus intéressant que de
 compter les minutes.
 
-— De toute façon, dit Sofia, en sortant un caillou plat de sa poche,
+— On verra qui a raison, marmonna Souly, sans grande conviction.
+
+— De toute façon, reprit Sofia, en sortant un caillou plat de sa poche,
 celui-là sait qu'on approche. Il devient tout excité.
 
 — Les cailloux ne s'excitent pas, dit Souly. Ce sont des cailloux.
@@ -305,7 +307,10 @@ de mes propres yeux.
 — C'était surtout pour compter les poissons, tenta Colette, la voix
 un peu étranglée. Rien d'héroïque.
 
-— Merci, articula-t-elle enfin, dans un souffle presque inaudible.
+— Ça ne vous rend pas moins courageuse, insista le maire, sous les
+applaudissements qui reprenaient de plus belle.
+
+— Merci, articula enfin Colette, dans un souffle presque inaudible.
 
 — Elle va bien ? chuchota Sofia à Souly.
 

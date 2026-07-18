@@ -249,6 +249,8 @@ désignant son invention. Elle filme sous l'eau et compte les anguilles
 qui passent, toute seule, sans qu'on ait besoin de rester debout
 toute la nuit.
 
+— Ça a l'air pratique, remarqua Souly, sincèrement intéressé.
+
 — Il y a même un petit voyant rouge qui clignote quand elle détecte
 un mouvement, ajouta Octave, en tapotant l'appareil comme on flatte
 un animal fidèle. J'ai passé trois semaines sur le voyant, à lui
@@ -417,8 +419,11 @@ restais dehors si tard, cette nuit-là. Je m'en souviens encore.
 — Vingt-trois jours, répéta Souly, en le notant soigneusement. On
 tient peut-être notre premier vrai chiffre.
 
+— À condition qu'il soit exact, tempéra Colette. Un souvenir, ce
+n'est pas toujours une preuve.
+
 — Vous êtes sûr que c'était exactement ce soir-là, et pas la veille
-ou le lendemain ? demanda Souly, qui ne laissait jamais passer une
+ou le lendemain ? insista Souly, qui ne laissait jamais passer une
 approximation.
 
 — Certain, dit Auguste. C'était le soir où ma femme a raté sa tarte

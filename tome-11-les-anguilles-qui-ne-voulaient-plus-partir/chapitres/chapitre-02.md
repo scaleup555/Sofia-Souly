@@ -304,6 +304,11 @@ sa bouche. Ça se ressemble beaucoup, pour vouloir dire le contraire.
 — Moi je ne les confondrai jamais, affirma Souly, en écrivant les
 deux mots l'un sous l'autre dans son carnet, bien alignés.
 
+— Et une anguille, elle reste combien de temps ici, avant de partir ?
+demanda Sofia.
+
+— Ça peut aller jusqu'à vingt ans, parfois, dit Colette.
+
 — Vingt ans dans la même rivière, avant un seul voyage ? s'étonna
 Souly. Ça ne me paraît pas très équitable.
 
@@ -423,8 +428,11 @@ pensive.
 — On devrait demander à mon père, proposa Enzo. Il sait tout sur le
 moulin.
 
-— C'est vrai, confirma-t-il. Il connaît chaque vis de cet endroit.
-Et mon grand-père encore plus.
+— Il saurait nous dire depuis quand cette grille est là ? demanda
+Souly.
+
+— Il connaît chaque vis de cet endroit, confirma Enzo. Et mon
+grand-père encore plus.
 
 — Ton grand-père aussi s'y connaît ? demanda Sofia.
 

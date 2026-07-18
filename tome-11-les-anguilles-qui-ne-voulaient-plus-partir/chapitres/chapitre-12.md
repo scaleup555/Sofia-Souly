@@ -298,8 +298,6 @@ perce, un par un.
 — Un tout petit peu plus qu'avant cette semaine, admit Colette, avec
 un sourire qui ne cherchait plus du tout à se cacher.
 
-— Je sais, dit Colette. C'est bien pour ça que je te le donne.
-
 — Vous n'allez pas le regretter, dans dix ans, en fouillant votre
 sac et en ne le trouvant plus dedans ? demanda Sofia, un peu inquiète
 pour sa filleule de cœur.
@@ -343,7 +341,10 @@ un caillou.
 — La plus belle que j'aie entendue, cette semaine, dit Enzo, avec un
 sourire.
 
-— Tu en as combien, en tout, de cailloux comme ça ? demanda-t-il,
+— Ça console, un peu, remarqua Sofia. De ne pas rentrer les mains
+vides.
+
+— Tu en as combien, en tout, de cailloux comme ça ? demanda Enzo,
 curieux.
 
 — Je ne les compte pas, dit Sofia. Souly, si, probablement, mais moi,
@@ -371,9 +372,9 @@ C'est même tout le but de la semaine.
 
 — Bien résumé, dit Colette, avec approbation.
 
-Un raffut de bottes pressées et d'exclamations joyeuses annonça, pour
-la dernière fois du séjour, l'arrivée d'Octave, un appareil sous le
-bras et un sourire jusqu'aux oreilles, ses cheveux encore mouillés
+Pour la dernière fois du séjour, une silhouette dévala le sentier en
+trébuchant à moitié : Octave, un appareil sous le bras et un sourire
+jusqu'aux oreilles, ses cheveux encore mouillés
 d'une toilette visiblement expéditive.
 
 — J'ai les premières images ! s'exclama-t-il, en brandissant une

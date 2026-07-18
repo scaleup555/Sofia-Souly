@@ -122,8 +122,11 @@ conclure.
 — C'est plus rapide, de conclure directement, remarqua Colette. Mais
 c'est aussi plus souvent faux.
 
+— Pourquoi les gens font ça, alors, s'ils savent que c'est souvent
+faux ? demanda Sofia.
+
 — Les gens préfèrent souvent une explication rapide à une explication
-vraie, ajouta Colette, plus bas, presque pour elle-même. C'est un
+vraie, dit Colette, plus bas, presque pour elle-même. C'est un
 problème que je rencontre plus souvent que je ne le voudrais, dans ce
 métier.
 
@@ -205,7 +208,9 @@ alignés.
 — Merci, dit Laurine, machinalement, avant de se reprendre. Enfin —
 ce n'est pas vraiment le sujet de votre visite, j'imagine.
 
-— C'est encore à cause de cet article, c'est ça, dit-elle, avec un
+— Non, admit Colette, avec douceur.
+
+— C'est encore à cause de cet article, c'est ça, dit Laurine, avec un
 soupir résigné. Je l'ai lu ce matin. Je m'attendais à ce que
 quelqu'un vienne me poser des questions.
 
@@ -230,13 +235,14 @@ le jour même. Je voulais que tout le village soit là.
 — Douze jours, répéta Souly, en notant soigneusement le chiffre.
 
 — Vous ouvrez souvent des bases de canoës ? demanda Laurine, un peu
-dérouté par tant de précision de la part d'un enfant.
+déroutée par tant de précision de la part d'un enfant.
 
 — Jamais, avoua Souly. Mais je note toujours les dates. Ça évite les
 erreurs, plus tard.
 
-— C'est une bonne habitude, dit Laurine, presque malgré elle. Vous
-saviez, pour les anguilles, avant d'ouvrir ? demanda Souly.
+— C'est une bonne habitude, dit Laurine, presque malgré elle.
+
+— Vous saviez, pour les anguilles, avant d'ouvrir ? demanda Souly.
 
 — Bien sûr, dit Laurine. Toute la région le sait. C'est même en
 partie pourquoi j'ai choisi cet endroit. Je pensais que la Nuit de la
@@ -304,7 +310,9 @@ n'est même pas difficile, en fait, une fois qu'on le pose comme ça.
 — On pourrait vous aider à mieux comprendre ce qui se passe, une fois
 l'enquête terminée, proposa Sofia, généreuse.
 
-— Mon frère adore expliquer les choses aux autres, ajouta-t-elle. Ça
+— Ce serait gentil, dit Laurine, touchée par la proposition.
+
+— Mon frère adore expliquer les choses aux autres, ajouta Sofia. Ça
 lui fait toujours plaisir.
 
 — Ce n'est pas juste « expliquer les choses », c'est de la pédagogie,
@@ -442,7 +450,12 @@ vraie réponse. On avance, même quand on croit reculer.
 — J'aime bien cette façon de voir les choses, dit Souly, en le
 notant presque mot pour mot.
 
-— Douze jours d'écart, répéta Souly, en tapotant la page du bout du
+— Ça vaut aussi pour les cailloux, non ? demanda Sofia. Ceux qu'on
+écarte avant de trouver le bon ?
+
+— Exactement pour les cailloux, confirma Colette, amusée.
+
+— Douze jours d'écart, résuma Souly, en tapotant la page du bout du
 crayon. On tient un vrai argument, maintenant.
 
 — Quatre jours avant la fête, murmura Sofia, en regardant le soleil
