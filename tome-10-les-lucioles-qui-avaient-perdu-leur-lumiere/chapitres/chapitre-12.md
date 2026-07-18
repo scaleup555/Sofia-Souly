@@ -233,8 +233,10 @@ fois de plus, presque malgré elle.
 
 — À peine, admit Aurélie, en riant.
 
+— On a appris plein de choses de vous, en tout cas, dit Sofia.
+
 — Vous avez appris combien de mots compliqués, cette semaine ?
-demanda Aurélie à Sofia, avec malice.
+demanda Aurélie, avec malice.
 
 — Beaucoup trop, dit Sofia. Bioluminescence, luciférine,
 luciférase... Je vais les ressortir à l'école, à la rentrée, juste

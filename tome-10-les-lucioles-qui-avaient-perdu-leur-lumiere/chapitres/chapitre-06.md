@@ -150,8 +150,13 @@ quelques semaines.
 Souly, en notant l'information. Le camping ne peut vraiment pas être
 la cause principale.
 
+— Je peux voir vos carnets d'avant, aussi ? demanda-t-il, en désignant
+la pile qu'Henriette tenait toujours contre elle.
+
+— Bien sûr, dit Henriette, en lui tendant la pile entière.
+
 — Quarante ans de carnets, et jamais une seule date qui manque, dit
-Souly, en feuilletant les pages qu'Henriette leur tendait. C'est
+Souly, une fois les pages en main, en les feuilletant une à une. C'est
 franchement impressionnant, comme travail.
 
 Henriette rosit d'un coup, les mains soudain occupées à replacer une

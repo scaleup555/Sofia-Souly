@@ -329,13 +329,11 @@ tout le monde davantage que n'importe quelle réponse improvisée.
 — Vous disiez la même chose pour le prototype deux, remarqua Mila.
 
 — Les estimations scientifiques évoluent avec les nouvelles données,
-répliqua Barnabé, sans se laisser troubler.
-
-— Le progrès scientifique a un prix, dit Barnabé, avec le plus grand
-sérieux.
+répliqua Barnabé, sans se laisser troubler. Le progrès scientifique a
+un prix, ajouta-t-il, avec le plus grand sérieux.
 
 — Le progrès scientifique vous a coûté sept moustiques et un hérisson
-furieux, jusqu'ici, lui rappela Mila, entrée derrière lui.
+furieux, jusqu'ici, lui rappela Mila.
 
 — Des données préliminaires prometteuses, insista Barnabé.
 
