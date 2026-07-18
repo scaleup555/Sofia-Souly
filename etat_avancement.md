@@ -571,3 +571,84 @@ dans le récit)).
   terminés** ; tome 9 complet à 36 620 mots (sous la cible ~40 000,
   écart plus marqué que les tomes précédents mais jugé non bloquant
   par le jury), livré à 8,8/10, seuil d'acceptation officiel franchi.
+
+### Session 16 (tome 10, écriture complète) — 2026-07-18
+- Consigne explicite de l'utilisateur pour ce tome, plus stricte que
+  d'habitude : « très qualitatif. Pas moins de 36 000 mots, max
+  40 000 mots. On privilégie les dialogues plutôt que les longs
+  textes. Plusieurs passages très drôles. Des scènes embarrassantes
+  qui font sourire. » Le plancher de 36 000 mots est devenu un
+  plancher ferme (pas juste une cible tolérante comme aux tomes
+  précédents), et une nouvelle catégorie de scène est exigée pour la
+  première fois : des scènes embarrassantes-attendrissantes (un
+  personnage rougit, bafouille, se ridiculise gentiment mais jamais
+  humiliante), à distinguer explicitement des scènes « très drôles »,
+  et à répartir sur plusieurs personnages pour éviter la répétition.
+- Thème : entomologie / lucioles bioluminescentes (chimie de la
+  bioluminescence luciférine + luciférase + oxygène, cycle de vie
+  larve/adulte, langage lumineux et pollution lumineuse, trois mythes
+  démystifiés — attirance par la lumière, toutes les lucioles
+  brillent, ver luisant = ver). Décor : Aiguemarais, village construit
+  autour du Marais Doré, menacé de rater sa Nuit des Lucioles
+  annuelle. Nouveaux personnages ajoutés à `bible/personnages.md` :
+  Aurélie Fontenay (entomologiste, cousine de Mamie Rose — lien
+  familial inédit dans la série — rougit et perd ses mots dès qu'on la
+  complimente publiquement) et Mila Auvray (10 ans, fille d'une
+  maraîchère, artiste au carnet de croquis, facilement distraite par
+  un beau détail visuel). Double fair-play : élimination du Camping
+  des Roseaux par chronologie (le déclin précède l'installation des
+  guirlandes), traitement antimoustique à large spectre comme vraie
+  cause (négligence, pas malveillance, dans l'esprit des tomes 8-9),
+  vieille règle familiale « jamais de traitement entre mai et juillet »
+  validée scientifiquement, résolution collaborative par lutte ciblée
+  (suppression des eaux stagnantes + larves de libellules prédatrices)
+  plutôt que simple retrait d'un dispositif.
+- Nouvelle technique anti-erreur formalisée dans l'outline avant même
+  la rédaction : en plus du ledger jour-par-jour habituel, une
+  **« liste de faits numériques maîtres »** fixant la date calendaire
+  exacte de chaque événement-clé (déclin, traitement, installation du
+  camping) et un **tableau de recalcul pré-vérifié** donnant le
+  chiffre exact attendu pour chaque chapitre restant — pour empêcher
+  la classe de bugs arithmétiques qui avait nécessité plusieurs
+  passages jury au tome 9. Résultat : zéro incohérence de chronologie
+  détectée à aucun des deux passages jury sur livre complet, une
+  première pour la série.
+- Rédaction complète des 12 chapitres en une seule passe (chapitres
+  plus longs dès le départ, ~2200-2500 mots visés par chapitre plutôt
+  que ~1000, pour réduire la dépendance à une grosse vague d'expansion
+  tardive), puis renforcement ciblé du volume via des insertions
+  manuelles de scènes courtes (mûres et ronces, chute dans la boue,
+  anecdote du gâteau au chocolat caché dans une chaussure) pour
+  construire une marge confortable au-dessus du plancher de 36 000
+  mots avant la vérification structurelle. Vérification structurelle
+  dédiée en trois passages parallèles (un par groupe de 4 chapitres)
+  détectant une douzaine de bugs de « répliques consécutives du même
+  personnage » et deux incohérences « le lendemain matin » décalant la
+  chronologie d'une journée — tous corrigés avant le premier passage
+  jury.
+- 2 passages jury complets : 8,2/10 (trois bugs de répliques
+  consécutives restants malgré la vérification préalable, plus une
+  densité excessive de gabarits stylistiques répétés sur l'ensemble du
+  livre — « avec un sourire » utilisé ~39 fois comme étiquette de
+  dialogue, « sans se laisser démonter » ~14 fois, « radieux » ~13
+  fois pour décrire Barnabé, un gabarit de transition narrative quasi
+  identique répété 5 fois pour annoncer les arrivées de Barnabé,
+  « genre de » dépassant le plafond d'une occurrence par chapitre dans
+  quatre chapitres) → **8,8/10, seuil d'acceptation franchi** après
+  correction de tous les points (bugs de locuteurs réparés par
+  intercalation d'une réplique ou d'une action manquante plutôt que
+  par simple fusion ; gabarits stylistiques dégonflés et diversifiés
+  via des agents parallèles dédiés par groupe de chapitres, avec
+  consigne explicite de ne pas remplacer un tic surdosé par un
+  nouveau). Un dépassement du plafond « clin d'œil » (4 au lieu de 3)
+  et une réintroduction accidentelle du tic banni « imperturbable »
+  ont été introduits par inadvertance pendant cette même passe de
+  correction — les deux détectés et corrigés avant le second passage
+  jury, qui a explicitement revérifié l'absence de régression.
+- Livraison du fichier `.docx` final via un nouveau `build_docx.py`
+  (calqué sur les tomes 2-9). **Tomes 1 à 9 toujours entièrement
+  terminés** ; tome 10 complet à 37 916 mots — premier tome de la
+  série à respecter confortablement un plancher de mots strict fixé
+  par l'utilisateur plutôt qu'une simple cible — livré à 8,8/10, seuil
+  d'acceptation officiel franchi, avec zéro incohérence de chronologie
+  détectée sur les deux passages jury (une première pour la série).

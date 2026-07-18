@@ -428,8 +428,8 @@ voyage, déclara-t-elle.
 
 — On dit ça à chaque fois, remarqua Souly, amusé.
 
-— Et c'est toujours vrai, à chaque fois, répliqua Sofia, en croisant
-les bras d'un air décidé.
+— Et c'est toujours vrai, à chaque fois, répliqua Sofia, en tapant du
+pied d'un air décidé.
 
 — Je crois qu'elle a raison, dit Julien, qui n'avait pas encore quitté
 le jardin. Une soirée qui finit avec un renard dans un seau d'eau, ce

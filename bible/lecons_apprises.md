@@ -1244,3 +1244,101 @@ marqué que les tomes précédents (~8,5 % sous la cible ~40 000, contre
 ~6 % pour le tome 8), jugé non bloquant par le jury mais signalé comme
 point de vigilance pour les tomes suivants. .docx livré via un nouveau
 `build_docx.py` calqué sur ceux des tomes 2 à 8.
+
+## Leçons du tome 10 (2026-07-18)
+
+**Leçon méthodologique n°20 — un plancher de mots STRICT et non
+négociable (instruction explicite de l'utilisateur, distincte de la
+cible ~40 000 habituelle) change la marge de sécurité à viser.**
+Quand l'utilisateur fixe un minimum ferme (« pas moins de 36 000
+mots », pas une simple cible tolérante), ne pas s'arrêter dès que le
+total dépasse le plancher de peu (36 480 mots mesurés à un moment du
+tome 10, une marge de seulement 480 mots au-dessus du minimum) : les
+passages de vérification structurelle et jury qui suivent impliquent
+presque toujours des coupes, fusions ou reformulations qui réduisent
+légèrement le total. **Règle : viser une marge d'au moins 1 500-2 000
+mots au-dessus d'un plancher strict avant de lancer la vérification
+structurelle**, en ajoutant du contenu réel (scènes courtes mais
+fonctionnelles, pas du remplissage) plutôt que de repousser cette
+marge à plus tard.
+
+**Leçon méthodologique n°21 — la table de recalcul de chronologie
+pré-vérifiée (introduite au tome 10) élimine la classe de bugs
+arithmétiques qui avait coûté plusieurs passages jury au tome 9.**
+En plus du ledger jour-par-jour habituel, fixer dans l'outline, AVANT
+la rédaction, la date calendaire exacte de chaque fait numérique
+récurrent (ex. « déclin observé au Jour −22 ») et un tableau donnant
+le chiffre « il y a X jours » exact attendu pour chaque chapitre
+restant, prêt à copier directement dans le texte. Résultat mesuré :
+zéro incohérence de chronologie relevée sur les deux passages jury du
+tome 10, alors que le tome 9 avait dû corriger ce type de bug à
+plusieurs reprises. **Règle renforcée pour tous les tomes suivants :
+construire systématiquement cette table de recalcul dès l'outline,
+pas seulement le ledger jour/chapitre.**
+
+**Leçon méthodologique n°22 — une passe de correction stylistique
+(réduction de tics surdosés) peut elle-même introduire de nouveaux
+tics bannis ou dépasser un plafond ailleurs dans le livre, si chaque
+agent ne travaille que sur son propre lot de chapitres.** Pendant la
+correction post-jury du tome 10, un agent chargé de varier « avec un
+sourire » a remplacé une occurrence par « avec un clin d'œil » dans
+un chapitre qui n'avait pas encore atteint son quota — sauf que le
+plafond de 3 occurrences de cette expression était déjà entièrement
+consommé ailleurs dans le livre, portant le total à 4. Un autre agent
+a remplacé « sans se démonter » par « imperturbable », qui est
+pourtant un tic explicitement banni depuis plusieurs tomes. Les deux
+régressions ont été détectées uniquement grâce à un nouveau comptage
+book-wide (`grep -c`) après la passe de correction, avant le second
+passage jury — pas par les agents correcteurs eux-mêmes, qui n'avaient
+chacun une vue que sur leur propre lot de chapitres. **Règle
+renforcée : après toute passe de correction stylistique multi-agents
+(même quand chaque agent ne touche qu'un sous-ensemble de chapitres),
+refaire systématiquement un comptage `grep -c` book-wide de TOUS les
+tics bannis et plafonnés — pas seulement ceux visés par la correction
+— avant de recompiler et redispatcher au jury. Un fix local peut
+créer une régression globale invisible à l'échelle d'un seul agent.**
+
+**Leçon méthodologique n°23 — nouvelle catégorie de règle
+anti-contamination : ne jamais utiliser le prénom d'un membre FIXE du
+casting principal (la mère, le père, les grands-parents...) pour un
+personnage secondaire, même dans un tome où ce membre n'apparaît
+jamais à l'écran.** En rédigeant la fiche bible d'un nouveau
+personnage secondaire au tome 10, un brouillon initial l'avait nommée
+« Camille « Mila » Auvray » — reprenant sans y penser le prénom déjà
+fixé pour la mère de Sofia et Souly dans la bible générale de la
+série, alors que cette mère n'apparaît jamais dans les tomes
+individuels. L'erreur a été corrigée avant d'atteindre la moindre
+prose (juste au stade de la fiche bible), mais aurait pu passer
+inaperçue si elle avait été introduite plus tard, car aucune liste
+anti-contamination existante ne couvrait ce cas (les listes ne
+couvrent que les personnages secondaires des tomes précédents, pas
+les membres fixes du casting qui n'apparaissent jamais). **Règle
+ajoutée à la checklist anti-contamination de tous les tomes suivants :
+en plus de la liste des personnages secondaires des tomes 1-N, vérifier
+qu'aucun personnage secondaire ne porte le prénom d'un membre fixe du
+casting (parents, grands-parents) même si ce membre n'apparaît jamais
+dans le tome en cours.**
+
+**Rappel permanent (déjà noté aux tomes précédents mais confirmé
+récurrent au tome 10) : « avec un sourire fatigué » continue de
+s'infiltrer accidentellement dans la prose malgré son statut de tic
+banni de longue date — trois occurrences trouvées et corrigées seulement
+lors du passage jury de ce tome, dont une introduite par l'auteur
+lui-même en pleine séance de correction. Cette phrase spécifique
+mérite une vigilance permanente, phrase par phrase, et pas seulement
+un grep ponctuel en fin de session.**
+
+**Bilan chiffré (tome 10) :** rédaction des 12 chapitres en une seule
+passe avec chapitres plus longs dès le départ (~2200-2500 mots visés
+par chapitre au lieu de ~1000 au tome 9), renforcement manuel ciblé du
+volume pour construire une marge de sécurité, vérification
+structurelle en trois passages parallèles (une douzaine de bugs de
+répliques consécutives et deux incohérences « le lendemain matin »
+trouvés et corrigés avant jury). 2 passages jury complets sur le
+manuscrit fini : 8,2/10 → 8,8/10, seuil d'acceptation franchi, avec
+zéro incohérence de chronologie détectée sur les deux passages — une
+première pour la série, directement attribuée à la table de recalcul
+pré-vérifiée de l'outline. Tome complet à 37 916 mots, premier tome à
+respecter confortablement un plancher de mots strict fixé par
+l'utilisateur. .docx livré via un nouveau `build_docx.py` calqué sur
+ceux des tomes 2 à 9.
