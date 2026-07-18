@@ -63,10 +63,9 @@ toujours aux billes, à l'époque.
 cape.
 
 — Ça, ça ne m'étonne pas du tout, dit Souly, en repensant au mystère
-qu'elle entretenait sur le marais depuis leur arrivée.
-
-— Si ça ne vous dérange pas, dit Souly, avec le respect qu'il
-réservait toujours aux archives sérieuses.
+qu'elle entretenait sur le marais depuis leur arrivée. On peut voir
+vos carnets de comptage, si ça ne vous dérange pas ? demanda-t-il,
+avec le respect qu'il réservait toujours aux archives sérieuses.
 
 — Ça me dérange encore moins que vous ne l'imaginez, dit Henriette,
 en désignant une étagère entière couverte de cahiers reliés, classés

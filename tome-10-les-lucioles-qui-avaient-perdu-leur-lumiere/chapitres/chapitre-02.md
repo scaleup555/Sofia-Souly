@@ -28,10 +28,9 @@ Sofia.
 — Les deux ne s'excluent pas, répondit Souly, en citant sans le
 vouloir la phrase de Mamie Rose de la veille.
 
-Le lendemain matin, un brouillard léger flottait encore au-dessus du
-marais quand Sofia et Souly descendirent le sentier de bois qui y
-menait, Aurélie en tête, son carnet phosphorescent glissé dans sa
-poche arrière.
+Un brouillard léger flottait encore au-dessus du marais quand Sofia
+et Souly descendirent le sentier de bois qui y menait, Aurélie en
+tête, son carnet phosphorescent glissé dans sa poche arrière.
 
 — Il brille vraiment, votre carnet ? demanda Sofia, curieuse, en
 désignant le coin qui dépassait.
@@ -175,7 +174,9 @@ solidarité.
 — Vous deux, vous allez vous entendre à merveille, prédit Aurélie,
 amusée.
 
-— On a le temps de visiter un peu, alors, dit Aurélie.
+— On a le temps de visiter un peu, avant Henriette ? demanda Sofia.
+
+— Amplement, confirma Aurélie.
 
 — Je peux vous montrer, si vous voulez, proposa Mila. Je connais ce
 marais mieux que ma propre chambre.

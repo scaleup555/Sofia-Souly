@@ -246,9 +246,12 @@ mission.
 — Surtout couverte de boue jusqu'aux oreilles, corrigea Sofia. Ça
 prouve que je travaille dur.
 
-— Parie quand même, insista Sofia, déjà en train d'avancer vers la
+— Tu disais que tu courrais plus vite que moi, avec ces bottes,
+remarqua Souly, mi-figue mi-raisin.
+
+— Ça reste vrai, insista Sofia, déjà en train d'avancer vers la
 première mare, ses bottes trop grandes claquant contre ses mollets à
-chaque pas.
+chaque pas. Juste avec un petit détour par le sol, entre-temps.
 
 Un peu plus loin, Henriette supervisait le déversement précautionneux
 de larves de libellules dans les mares les plus problématiques, un
@@ -503,6 +506,9 @@ elle avait manifestement tout entendu. Beaucoup.
 
 — Personne ne t'a demandé ton avis, marmonna Souly, les oreilles
 écarlates.
+
+Mila pouffa de rire, vite imitée par Sofia, ce qui n'arrangea rien à
+la dignité de Souly.
 
 — Je peux quand même dire quelque chose de sérieux ? demanda Souly,
 une fois le rire un peu retombé.

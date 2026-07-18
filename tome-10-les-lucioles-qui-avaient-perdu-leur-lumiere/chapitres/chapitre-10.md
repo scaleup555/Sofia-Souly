@@ -380,10 +380,8 @@ transporter les larves de libellules jusqu'aux mares.
 que le reste du village. Autant y mettre du mien, tant qu'on y est.
 
 — Voilà exactement l'esprit qu'il nous faut, dit le maire,
-visiblement satisfaite. Merci, Julien.
-
-— Alors va pour les libellules, décida le maire, sous un tonnerre
-d'applaudissements.
+visiblement satisfaite. Merci, Julien. Alors va pour les libellules,
+décida-t-elle, sous un tonnerre d'applaudissements.
 
 Barnabé, profitant du moment, s'avança à son tour sur l'estrade, son
 dernier prototype sous le bras.

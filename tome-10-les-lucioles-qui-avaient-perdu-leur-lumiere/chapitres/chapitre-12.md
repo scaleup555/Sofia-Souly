@@ -9,10 +9,8 @@ mérité.
 — Debout, dit Sofia, en secouant doucement l'épaule de Souly. Mila
 nous attend au marais avant qu'on reparte.
 
-— Encore tôt ? grommela Souly, entrouvrant un œil.
-
-— Cinq minutes de plus, plaida-t-il, en ramenant la couverture
-par-dessus sa tête.
+— Encore tôt ? grommela Souly, entrouvrant un œil. Cinq minutes de
+plus, plaida-t-il, en ramenant la couverture par-dessus sa tête.
 
 — Tu as déjà dit ça il y a cinq minutes, remarqua Sofia.
 
@@ -25,11 +23,10 @@ théâtral.
 — C'est de la maltraitance, protesta-t-il, en s'asseyant enfin, les
 cheveux dressés dans tous les sens.
 
-— C'est de l'amour fraternel, corrigea Sofia. Debout.
-
-— C'est notre dernière matinée ici, insista Sofia, déjà en train
-d'enfiler ses baskets dépareillées, l'une rouge, l'autre bleue, sans
-même s'en apercevoir.
+— C'est de l'amour fraternel, corrigea Sofia. Debout. C'est notre
+dernière matinée ici, insista-t-elle, déjà en train d'enfiler ses
+baskets dépareillées, l'une rouge, l'autre bleue, sans même s'en
+apercevoir.
 
 Dans la cuisine, Mamie Rose préparait déjà un thermos de café,
 fredonnant doucement un air que les enfants ne reconnaissaient pas.
@@ -127,8 +124,11 @@ les voir n'importe quand.
 
 — C'est exactement ce que je me dis, à chaque fois, dit Mila.
 
-— J'ai un cadeau pour vous, annonça Mila, un peu intimidée, en
-tendant à Souly un carnet neuf, semblable au sien.
+— On va y repenser tout l'été, dit Souly, un peu nostalgique déjà.
+
+— Justement, dit Mila, en fouillant dans son sac. J'ai un cadeau pour
+vous, annonça-t-elle, un peu intimidée, en tendant à Souly un carnet
+neuf, semblable au sien.
 
 — Pour moi ? demanda Souly, surpris.
 
@@ -355,6 +355,9 @@ Barnabé. Moi, j'en ai bien trop pour m'arrêter.
 — Épuisante, mais jamais ennuyeuse, corrigea Barnabé. Je préfère
 largement ça.
 
+— Et le prototype six, ça donne quoi, alors ? demanda Souly, curieux
+malgré lui.
+
 — Cette fois, c'est un piège à moustiques, précisa Barnabé, fièrement.
 Complètement inoffensif pour les lucioles. J'ai vérifié la fréquence
 trois fois.
@@ -379,6 +382,9 @@ de rosée, mais avec toutes mes données.
 
 — Toujours, dit Barnabé, radieux. La science n'attend pas les gens
 bien reposés.
+
+— Vous nous tiendrez au courant, pour le prototype six ? demanda
+Sofia.
 
 — Je vous enverrai les résultats, promit Barnabé. Même si, cette
 fois, j'espère sincèrement me tromper sur l'ampleur du succès.

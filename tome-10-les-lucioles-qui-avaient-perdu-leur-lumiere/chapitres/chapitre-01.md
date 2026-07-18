@@ -14,6 +14,8 @@ temps.
 — C'est exactement la même question avec un mot en plus, corrigea
 Sofia.
 
+— Ce n'est pas un crime, de vouloir savoir, se défendit Souly.
+
 — De toute façon, dit Sofia, en sortant un caillou gris de sa poche
 pour l'examiner à la lumière, ce caillou-là sait qu'on n'est pas
 loin. Il devient tout excité.
@@ -281,6 +283,8 @@ pas pareil.
 
 — Nuance importante, reconnut Aurélie, avec sérieux.
 
+— Les chats boudent souvent, chez nous, ajouta Souly. On a l'habitude.
+
 — Ça arrive, apparemment, dit Aurélie, en riant.
 
 Sofia remarqua alors un détail sur le carnet qu'Aurélie tenait
@@ -439,12 +443,18 @@ en notant fébrilement.
 — La nature adore les exceptions, dit Aurélie, avec un sourire. C'est
 même souvent là que se cachent les indices les plus intéressants.
 
+— Et celle-ci, alors, elle brille comment ? demanda Sofia, en
+désignant vaguement le marais au loin.
+
 — Chaque année, en juin, des milliers de lucioles s'allument dans le
 marais chaque soir, expliqua Aurélie. Cette année, on en compte à
 peine quelques dizaines. Un effondrement d'une ampleur que je n'ai
 jamais observée en trois étés d'études ici.
 
 — Ça a commencé quand ? demanda Souly.
+
+— On y viendra, promit Aurélie, c'est justement la question numéro
+un.
 
 — En attendant, dit Sofia, j'ai une question plus importante. Comment
 elles font, pour briller ? C'est de la magie ?
@@ -488,6 +498,9 @@ essaient de se trouver, et on éteint la conversation sans le savoir.
 — C'est exactement pour ça qu'on va résoudre ce mystère, dit Aurélie,
 en posant doucement la main sur l'épaule de Sofia. Toutes les deux...
 enfin, tous les trois. Toute l'équipe.
+
+— Depuis quand exactement, ce déclin ? demanda Souly, son crayon déjà
+prêt.
 
 — C'est justement ce qu'on doit établir avec précision, dit Aurélie.
 Heureusement, quelqu'un au village tient des comptes très rigoureux

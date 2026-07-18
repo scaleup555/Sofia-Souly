@@ -42,8 +42,8 @@ officiel, dans cette famille.
 
 — Ça viendra, dit Sofia, pleine d'assurance.
 
-Le lendemain matin, en chemin vers la mairie, ils croisèrent un
-attroupement inhabituel devant le café du village, où plusieurs
+En chemin vers la mairie, ils croisèrent un attroupement inhabituel
+devant le café du village, où plusieurs
 personnes discutaient avec animation, un journal local circulant de
 main en main.
 
@@ -158,11 +158,10 @@ presque un passe-temps, chez lui.
 Souly, un peu vexé par la formulation.
 
 — Les deux ne s'excluent pas, dit Julien, en reprenant sans le
-savoir la phrase favorite de Mamie Rose, ce qui fit sourire Sofia.
-
-— Ce serait gentil, dit Julien, avec un sourire qui s'effaça presque
-aussitôt, remplacé par son inquiétude habituelle. Enfin, si jamais
-j'ai encore un camping, d'ici la fin de la semaine.
+savoir la phrase favorite de Mamie Rose, ce qui fit sourire Sofia. Ce
+serait gentil, votre aide, ajouta-t-il, avec un sourire qui s'effaça
+presque aussitôt, remplacé par son inquiétude habituelle. Enfin, si
+jamais j'ai encore un camping, d'ici la fin de la semaine.
 
 Souly nota le chiffre avec soin, avant de lever les yeux, un peu
 perplexe.
@@ -395,6 +394,9 @@ vraiment noté la météo.
 — Les jeunes posent beaucoup de questions, de nos jours, marmonna
 Régis, plus pour lui-même que pour eux.
 
+— Vous êtes venu pour autre chose que les relevés, non ? insista
+Sofia, sans le lâcher du regard.
+
 — Parmi d'autres choses, oui, admit-il. Mais je dois filer, on
 m'attend pour un autre relevé.
 
@@ -425,6 +427,9 @@ la façon dont on devrait s'adresser à lui.
 — Avec gentillesse plutôt qu'avec accusation, proposa Souly.
 
 — Exactement, confirma Aurélie.
+
+— On note ça comme piste numéro deux, alors, dit Sofia, en tapotant
+le carnet de son frère du bout du doigt.
 
 — Quatre jours avant la fête, murmura Aurélie, en regardant le
 scooter disparaître au loin. Je crois qu'on vient peut-être de
