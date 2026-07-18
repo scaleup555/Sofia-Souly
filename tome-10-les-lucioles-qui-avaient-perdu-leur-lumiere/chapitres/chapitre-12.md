@@ -34,8 +34,8 @@ fredonnant doucement un air que les enfants ne reconnaissaient pas.
 — Tu es de bonne humeur, ce matin, remarqua Sofia.
 
 — J'ai passé une semaine à regarder ma cousine rougir devant tout un
-village, dit Mamie Rose, avec un sourire attendri. Ça met de bonne
-humeur, ce genre de spectacle.
+village, dit Mamie Rose, les yeux pétillants de malice. Ça met de
+bonne humeur, ce genre de spectacle.
 
 — Vous nous préparez quoi, pour la route ? demanda Souly, attiré par
 l'odeur qui envahissait déjà la cuisine.
@@ -304,8 +304,8 @@ marais qui a appris à se défendre tout seul, avec un peu d'aide.
 
 — Ils ont tous une histoire, avec toi, remarqua Souly, tendrement.
 
-— C'est bien pour ça que je les garde, dit Sofia, avec un sourire
-satisfait.
+— C'est bien pour ça que je les garde, dit Sofia, la main sur sa
+poche, comme pour protéger son trésor.
 
 — Moi, je n'ai jamais gardé de cailloux, dit Souly, en réfléchissant
 tout haut. Mais j'ai gardé toutes les pages de mon carnet des
@@ -337,9 +337,10 @@ désignant le nouveau galet.
 — Il a vu tout un marais apprendre à se défendre, dit Sofia. C'est
 beaucoup, pour un seul caillou.
 
-Un raffut caractéristique annonça, une dernière fois, l'arrivée de
-Barnabé, cette fois sans invention du tout, seulement un sac à dos
-sur l'épaule.
+Pour la dernière fois du séjour, un concert de sacs qui
+s'entrechoquaient et de branches cassées précéda Barnabé de plusieurs
+mètres — sans le moindre prototype sous le bras, pour une fois,
+seulement un sac à dos sur l'épaule.
 
 — Je passais vous dire au revoir, dit-il, un peu essoufflé. Et vous
 prévenir que le prototype six est déjà en construction.
@@ -382,8 +383,9 @@ de rosée, mais avec toutes mes données.
 
 — Ça valait le coup ? demanda Mila.
 
-— Toujours, dit Barnabé, radieux. La science n'attend pas les gens
-bien reposés.
+— Toujours, dit Barnabé, en époussetant les brins d'herbe encore
+accrochés à sa manche, manifestement ravi de lui-même. La science
+n'attend pas les gens bien reposés.
 
 — Vous nous tiendrez au courant, pour le prototype six ? demanda
 Sofia.

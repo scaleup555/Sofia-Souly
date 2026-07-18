@@ -310,8 +310,8 @@ brutalement dans l'herbe humide.
 retenait de toutes ses forces.
 
 — Très bien, dit Régis, la voix étranglée, en se relevant tant bien
-que mal, le pantalon trempé jusqu'à la moitié de la cuisse. Ce genre
-de choses m'arrive souvent, en fait. Le stress, ça me rend maladroit.
+que mal, le pantalon trempé jusqu'à la moitié de la cuisse. Ces
+chutes m'arrivent souvent, en fait. Le stress, ça me rend maladroit.
 
 Il essaya de reprendre une posture digne, épousseta son uniforme d'un
 geste qu'il voulait assuré, et ne réussit qu'à s'étaler davantage de

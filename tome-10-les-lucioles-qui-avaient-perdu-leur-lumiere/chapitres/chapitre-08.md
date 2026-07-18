@@ -320,7 +320,7 @@ là, c'est le principal.
 
 — Vous êtes bien indulgents, avec moi, remarqua Régis, un peu surpris.
 
-— On essaie, dit Sofia, avec un sourire encourageant. Ça aide, pour
+— On essaie, dit Sofia, en lui tapotant l'épaule. Ça aide, pour
 avancer plus vite.
 
 — Ça ne rend pas la situation moins grave, dit Régis. Le village va
@@ -340,8 +340,8 @@ qu'elle voulait dire, je crois.
 — Sofia traduit un peu librement, parfois, expliqua Souly, avec un
 sourire en coin.
 
-— Je traduis avec le cœur, corrigea Sofia, sans se laisser démonter.
-C'est différent.
+— Je traduis avec le cœur, corrigea Sofia, en levant fièrement le
+menton. C'est différent.
 
 Régis eut un petit rire, le premier depuis son arrivée, qui sembla le
 surprendre lui-même.
@@ -495,7 +495,7 @@ monde a décidé, ensemble, de bien faire les choses, cette fois.
 — C'est une belle façon de voir une déception, remarqua Souly.
 
 — C'est la seule façon que je connaisse de survivre à ce métier, dit
-Aurélie, avec un sourire un peu triste mais sincère.
+Aurélie, en regardant au loin, un peu mélancolique mais sincère.
 
 — Vous avez déjà eu d'autres déceptions, comme celle-là ? demanda
 Mila, curieuse.

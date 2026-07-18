@@ -224,7 +224,7 @@ introduire des prédateurs naturels, comme des larves de libellules.
 cette idée.
 
 — Énormément de moustiques, confirma Aurélie. C'est un des meilleurs
-prédateurs naturels qui existent, pour ce genre de problème.
+prédateurs naturels qui existent pour régler ce problème.
 
 — Alors pourquoi Régis n'a pas fait ça depuis le début ? demanda
 Sofia.
@@ -246,12 +246,13 @@ dernière rencontre.
 — C'est un peu excessif, admit Souly. Mais ça vient d'un bon endroit,
 au fond.
 
-Un raffut caractéristique annonça, une fois de plus, l'arrivée de
-Barnabé, cette fois accompagné de Mila, qui portait un projecteur sur
-un trépied.
+Bien avant qu'on puisse l'apercevoir, les exclamations émerveillées de
+plusieurs voisins signalèrent que Barnabé approchait, cette fois
+accompagné de Mila, qui portait un projecteur sur un trépied.
 
-— J'ai amélioré le prototype ! annonça-t-il, radieux. Ce soir, c'est
-le grand test en conditions réelles, devant témoins !
+— J'ai amélioré le prototype ! annonça-t-il, les yeux brillants
+d'enthousiasme. Ce soir, c'est le grand test en conditions réelles,
+devant témoins !
 
 Mila posa le projecteur avec précaution, avant de sortir son carnet de
 croquis pour immortaliser la scène qui s'annonçait.
@@ -292,7 +293,7 @@ d'Aurélie. Impossible de résister à un raffut pareil, jusqu'au
 camping.
 
 — Vous arrivez juste à temps pour le grand test, annonça Barnabé,
-radieux. Installez-vous, ça devrait être spectaculaire.
+tout content. Installez-vous, ça devrait être spectaculaire.
 
 — C'est bien ce qui m'inquiète un peu, avoua Julien, en s'installant
 malgré tout près du voisin en pantoufles.
@@ -316,7 +317,8 @@ air d'expert. Le métal amplifie les vibrations lumineuses.
 tenta de préciser Aurélie, avec douceur.
 
 — Elles existeront, dès que j'aurai fini de les inventer, répliqua
-Barnabé, sans se démonter le moins du monde.
+Barnabé, en tapotant de nouveau la théière, comme si l'affaire était
+déjà entendue.
 
 — On ne peut pas discuter avec ça, murmura Souly à Sofia, qui hocha la
 tête, entièrement d'accord.
@@ -426,8 +428,8 @@ voyage, déclara-t-elle.
 
 — On dit ça à chaque fois, remarqua Souly, amusé.
 
-— Et c'est toujours vrai, à chaque fois, répliqua Sofia, sans se
-laisser démonter.
+— Et c'est toujours vrai, à chaque fois, répliqua Sofia, en croisant
+les bras d'un air décidé.
 
 — Je crois qu'elle a raison, dit Julien, qui n'avait pas encore quitté
 le jardin. Une soirée qui finit avec un renard dans un seau d'eau, ce

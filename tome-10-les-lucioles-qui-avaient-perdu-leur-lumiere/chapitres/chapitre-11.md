@@ -17,8 +17,8 @@ engloutir sa dernière tartine.
 Aujourd'hui, on sauve des lucioles.
 
 Mamie Rose, restée à la maison pour préparer le déjeuner de tout le
-monde, les avait regardés partir avec un sourire amusé, une liste de
-courses déjà à la main.
+monde, les avait regardés partir en secouant la tête, amusée par tant
+d'empressement, une liste de courses déjà à la main.
 
 — Ne rentrez pas trop couverts de boue, avait-elle lancé, en guise
 d'adieu.
@@ -72,7 +72,8 @@ servent de nurserie aux moustiques.
 — Une nurserie de moustiques, répéta Mila, en grimaçant. Ça sonne
 horrible, dit comme ça.
 
-— Ça l'est un peu, admit Régis, avec un sourire.
+— Ça l'est un peu, admit Régis, en tapotant sa carte du bout du
+doigt.
 
 — Mais pourquoi l'eau stagnante, précisément ? demanda Sofia. Il y a
 plein d'eau, dans un marais.
@@ -127,8 +128,8 @@ Aurélie, en s'approchant. Ce n'est pas parce qu'une première
 solution a échoué qu'on va se précipiter sur la deuxième sans
 vérifier.
 
-— Vous êtes devenue méfiante, remarqua Régis, avec un sourire un peu
-triste.
+— Vous êtes devenue méfiante, remarqua Régis, en se grattant la
+nuque, presque penaud.
 
 — Disons que j'ai appris de vos erreurs cette semaine, dit Aurélie.
 Enfin, j'ai surtout appris avec vous.
@@ -292,9 +293,10 @@ sous l'eau, pendant que tout le monde les ignore.
 — C'est un peu ça, toute la nature, remarqua Henriette, attendrie.
 Personne ne remarque jamais les héros les plus utiles.
 
-Un raffut familier annonça, sans grande surprise, l'arrivée de
-Barnabé, cette fois sans invention visible, mais avec un sourire
-particulièrement satisfait.
+Barnabé fit son entrée comme toujours, dans un vacarme de bottes mal
+refermées et de seaux renversés — sans invention sous le bras, cette
+fois, mais avec l'air d'un homme qui vient de résoudre une énigme à
+lui tout seul.
 
 — J'ai une confession à faire, annonça-t-il, en s'approchant du
 groupe.
@@ -360,9 +362,9 @@ quand même fini par convaincre tout le monde, hier soir.
 
 — Il n'a rien fait du tout, hier soir, lui rappela Aurélie.
 
-— Justement, dit Barnabé, radieux. Même sans rien faire, il a
-convaincu tout le monde. Imaginez ce que le prototype six pourrait
-accomplir s'il fonctionnait vraiment.
+— Justement, dit Barnabé, les yeux brillants d'enthousiasme. Même
+sans rien faire, il a convaincu tout le monde. Imaginez ce que le
+prototype six pourrait accomplir s'il fonctionnait vraiment.
 
 — C'est une logique qui ne devrait pas tenir debout, remarqua Souly,
 et pourtant, j'ai du mal à la contredire.
@@ -433,7 +435,7 @@ sauvé environ cent libellules bébés.
 — Cent larves, corrigea Souly, toujours précis. Pas tout à fait des
 bébés.
 
-— Cent larves-bébés, alors, trancha Sofia, sans se démonter.
+— Cent larves-bébés, alors, trancha Sofia, sans ciller.
 
 Henriette, assise un peu à l'écart avec sa propre tranche de pain,
 observait la scène avec un plaisir tranquille.

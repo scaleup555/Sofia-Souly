@@ -270,8 +270,8 @@ grand-mère me la répétait déjà, sans jamais m'expliquer pourquoi.
 maire.
 
 — Jamais vraiment, avoua Henriette. On pensait tous que c'était une
-vieille superstition de plus, le genre de règle qu'on respecte par
-habitude, sans trop y réfléchir.
+vieille superstition de plus, une règle qu'on respecte par habitude,
+sans trop y réfléchir.
 
 — Mais Aurélie a trouvé l'explication scientifique derrière, reprit
 le maire, se tournant vers elle.
