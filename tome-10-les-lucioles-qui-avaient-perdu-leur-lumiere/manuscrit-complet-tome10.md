@@ -443,8 +443,9 @@ adultes.
 — Ça fait beaucoup d'exceptions pour un seul insecte, remarqua Souly,
 en notant fébrilement.
 
-— La nature adore les exceptions, dit Aurélie, avec un sourire. C'est
-même souvent là que se cachent les indices les plus intéressants.
+— La nature adore les exceptions, dit Aurélie, en penchant légèrement
+la tête. C'est même souvent là que se cachent les indices les plus
+intéressants.
 
 — Et celle-ci, alors, elle brille comment ? demanda Sofia, en
 désignant vaguement le marais au loin.
@@ -922,7 +923,8 @@ conditions parfaites pour les faire revenir en masse.
 — Vous avez déjà testé ? demanda Souly, sincèrement intéressé par la
 mécanique de l'engin.
 
-— Cette nuit même, dit Barnabé, radieux. Les résultats ont été...
+— Cette nuit même, dit Barnabé, manifestement ravi de lui-même. Les
+résultats ont été...
 disons, instructifs.
 
 — Instructifs comment ? demanda Sofia, méfiante.
@@ -934,7 +936,8 @@ Aucune luciole. Mais je considère ça comme des données précieuses.
 — Vous voulez qu'on regarde comment ça marche ? proposa Souly, avec
 un intérêt sincère pour la mécanique.
 
-— Excellente idée ! s'exclama Barnabé, radieux. Regardez bien. On
+— Excellente idée ! s'exclama Barnabé, en se frottant les mains
+d'excitation. Regardez bien. On
 appuie ici, et...
 
 Il pressa un bouton sur le côté de l'appareil. Les guirlandes
@@ -983,8 +986,8 @@ Je le sens.
 — Et pour le prototype un, avant ça, ajouta Mila.
 
 — Les grandes inventions demandent de la persévérance, répliqua
-Barnabé, sans se laisser démonter. Newton n'a pas trouvé la gravité du
-premier coup.
+Barnabé, en balayant l'objection d'un revers de main. Newton n'a pas
+trouvé la gravité du premier coup.
 
 — Newton n'a pas inventé la gravité, elle existait déjà, fit
 remarquer Souly.
@@ -1277,7 +1280,8 @@ en se penchant à son tour sur le carnet.
 
 — Parfaitement normal, confirma Henriette. C'est bien ça qui
 m'inquiète. Il ne s'agit pas d'un déclin lent, comme on pourrait s'y
-attendre avec le changement climatique ou ce genre de choses. C'est
+attendre avec le changement climatique ou d'autres causes
+progressives. C'est
 arrivé d'un coup, presque du jour au lendemain.
 
 — Ce qui veut dire qu'il s'est passé quelque chose de précis, ce
@@ -1323,7 +1327,8 @@ fascinée. C'est le genre de détail que personne ne croirait, si je le
 racontais à l'école.
 
 — Beaucoup de choses en biologie ont l'air inventées, alors qu'elles
-sont parfaitement réelles, dit Aurélie, avec un sourire.
+sont parfaitement réelles, dit Aurélie, en tapotant son carnet de
+terrain.
 
 Mila, assise en tailleur sur le tapis, leva le nez de son propre
 carnet de croquis, où elle venait de dessiner un escargot minuscule
@@ -1345,7 +1350,7 @@ regardant Aurélie avec un sourire entendu.
 en même temps, ce qui les fit toutes les deux éclater de rire.
 
 — Bon, d'accord, ça pourrait quand même se transmettre par
-admiration, concéda Sofia, sans se démonter.
+admiration, concéda Sofia, sans perdre son aplomb.
 
 Henriette referma doucement le carnet, le regard perdu quelque part
 au-delà de la fenêtre.
@@ -1425,7 +1430,7 @@ phrases sortent plus vite que je ne peux les organiser.
 — Ce n'est pas vraiment un compliment que j'espérais, marmonna
 Aurélie, en se rasseyant, encore un peu essoufflée.
 
-Un raffut à la porte annonça, sans grande surprise, l'arrivée de
+La porte s'ouvrit dans un vacarme qui ne surprit personne : c'était
 Barnabé, toujours couvert de vase, un nouveau tube métallique sous le
 bras.
 
@@ -1451,13 +1456,11 @@ tout le monde davantage que n'importe quelle réponse improvisée.
 — Vous disiez la même chose pour le prototype deux, remarqua Mila.
 
 — Les estimations scientifiques évoluent avec les nouvelles données,
-répliqua Barnabé, sans se laisser troubler.
-
-— Le progrès scientifique a un prix, dit Barnabé, avec le plus grand
-sérieux.
+répliqua Barnabé, sans se laisser troubler. Le progrès scientifique a
+un prix, ajouta-t-il, avec le plus grand sérieux.
 
 — Le progrès scientifique vous a coûté sept moustiques et un hérisson
-furieux, jusqu'ici, lui rappela Mila, entrée derrière lui.
+furieux, jusqu'ici, lui rappela Mila.
 
 — Des données préliminaires prometteuses, insista Barnabé.
 
@@ -1653,7 +1656,7 @@ demandé de noter.
 — C'est ce qui fait de bonnes preuves, plus tard, se défendit Souly.
 
 — Et toi, tu apportes quoi à l'enquête, ce matin ? demanda Mamie Rose
-à Sofia, avec un sourire.
+à Sofia, en reposant sa tasse.
 
 — Moi, j'apporte l'enthousiasme, dit Sofia, sans la moindre hésitation.
 
@@ -1997,7 +2000,7 @@ lucioles. Bien sûr.
 qui n'avait pas manqué ce léger changement de ton.
 
 — Aucune idée, dit Régis, un peu trop vite. Je m'occupe surtout de
-l'entretien général. Les eaux, les routes, ce genre de choses.
+l'entretien général. Les eaux, les routes, et tout ce qui va avec.
 
 — Vous vous occupez aussi des traitements, contre les moustiques ou
 autre chose ? demanda Aurélie, avec une politesse professionnelle qui
@@ -2102,7 +2105,7 @@ seule journée.
 — C'est vrai, admit Sofia, un peu réconfortée.
 
 — Et Julien qui pleure presque de soulagement, c'était quand même un
-grand moment, ajouta-t-elle, avec un sourire.
+grand moment, ajouta-t-elle, en pouffant.
 
 — Il n'a pas pleuré, corrigea Souly.
 
@@ -2122,7 +2125,7 @@ conduisait déjà comme ça sur son vélo, quand il était enfant.
 
 — Vous le connaissez bien ? demanda Sofia.
 
-— Aiguemarais est petit, dit Mamie Rose, avec un sourire. Tout le
+— Aiguemarais est petit, dit Mamie Rose, avec un clin d'œil. Tout le
 monde connaît tout le monde depuis toujours, ici.
 
 — C'est plutôt rassurant, ou plutôt inquiétant, un village comme ça ?
@@ -2215,7 +2218,7 @@ marais.
 — Officielle comment ? insista l'employée.
 
 — Aussi officielle que possible, avec deux enfants et une
-entomologiste, répondit Aurélie, sans se démonter.
+entomologiste, répondit Aurélie, sans ciller.
 
 L'employée hésita un long moment, avant de finalement céder et de
 disparaître dans une pièce voisine, revenant avec un dossier en
@@ -2449,8 +2452,8 @@ brutalement dans l'herbe humide.
 retenait de toutes ses forces.
 
 — Très bien, dit Régis, la voix étranglée, en se relevant tant bien
-que mal, le pantalon trempé jusqu'à la moitié de la cuisse. Ce genre
-de choses m'arrive souvent, en fait. Le stress, ça me rend maladroit.
+que mal, le pantalon trempé jusqu'à la moitié de la cuisse. Ces
+chutes m'arrivent souvent, en fait. Le stress, ça me rend maladroit.
 
 Il essaya de reprendre une posture digne, épousseta son uniforme d'un
 geste qu'il voulait assuré, et ne réussit qu'à s'étaler davantage de
@@ -2591,8 +2594,8 @@ dents.
 son sac. On est en pleine enquête sur un traitement antimoustique, et
 tu penses à donner un nom à un caillou.
 
-— On peut penser à deux choses en même temps, répondit Sofia, sans se
-laisser démonter. C'est même plutôt facile.
+— On peut penser à deux choses en même temps, répondit Sofia, en
+haussant les épaules. C'est même plutôt facile.
 
 — Comment tu vas l'appeler ? demanda Aurélie, amusée.
 
@@ -2694,8 +2697,8 @@ d'Aurélie.
 tartine. Tu dormais, quand je suis passée devant ta chambre à
 minuit.
 
-— J'ai réfléchi avant de dormir, et dès le réveil, précisa Souly,
-sans se laisser démonter. Ça compte.
+— J'ai réfléchi avant de dormir, et dès le réveil, précisa Souly, en
+tapotant son carnet du bout du crayon. Ça compte.
 
 — Ça ne compte qu'à moitié, alors, remarqua Sofia.
 
@@ -2814,8 +2817,13 @@ quelques semaines.
 Souly, en notant l'information. Le camping ne peut vraiment pas être
 la cause principale.
 
+— Je peux voir vos carnets d'avant, aussi ? demanda-t-il, en désignant
+la pile qu'Henriette tenait toujours contre elle.
+
+— Bien sûr, dit Henriette, en lui tendant la pile entière.
+
 — Quarante ans de carnets, et jamais une seule date qui manque, dit
-Souly, en feuilletant les pages qu'Henriette leur tendait. C'est
+Souly, une fois les pages en main, en les feuilletant une à une. C'est
 franchement impressionnant, comme travail.
 
 Henriette rosit d'un coup, les mains soudain occupées à replacer une
@@ -2954,9 +2962,10 @@ amusée par la scène.
 — Je fais attention aux deux, protesta Souly, en retrouvant enfin son
 équilibre.
 
-Un raffut familier annonça, sans surprise, l'arrivée de Barnabé,
-poussant une brouette chargée d'un enchevêtrement de tubes, de
-guirlandes et de ce qui ressemblait fortement à un vieux ventilateur.
+Le grincement d'une roue de brouette mal huilée précéda Barnabé de
+plusieurs mètres, avant qu'il n'apparaisse en personne, tirant un
+enchevêtrement de tubes, de guirlandes et de ce qui ressemblait
+fortement à un vieux ventilateur.
 
 — J'ai le prototype trois ! s'exclama-t-il, radieux, malgré la vase
 qui maculait ses bottes jusqu'aux genoux.
@@ -3002,7 +3011,7 @@ Mila. À ce rythme, le prototype dix aura toutes les pièces qui
 manquent aux neuf précédents.
 
 — En tout cas, le cadran confirme que quelque chose s'est passé cette
-nuit, insista Barnabé, sans se laisser démonter. Et pas seulement le
+nuit, insista Barnabé, sans céder d'un pouce. Et pas seulement le
 cadran : j'ai attiré onze moustiques, un chat du voisinage, et le
 même hérisson que la dernière fois. Je crois qu'il commence même à
 m'attendre, celui-là.
@@ -3017,8 +3026,9 @@ Comme pour confirmer ses dires, un bruissement se fit entendre dans
 les buissons voisins, et un hérisson trottina jusqu'à la brouette,
 reniflant bruyamment les tubes et les guirlandes.
 
-— Le voilà justement, annonça Barnabé, radieux, comme s'il présentait
-un vieil ami à des invités de marque. Gaston, dis bonjour.
+— Le voilà justement, annonça Barnabé, un large sourire fier aux
+lèvres, comme s'il présentait un vieil ami à des invités de marque.
+Gaston, dis bonjour.
 
 Le hérisson, indifférent aux présentations, se contenta de grimper sur
 une des bottes de Barnabé et de s'y installer, immobile.
@@ -3058,8 +3068,8 @@ déclara Barnabé, imperméable aux moqueries amicales.
 — Deux jours avant la fête, murmura Sofia, en riant. Vous n'avez plus
 beaucoup de temps pour votre grande découverte, Barnabé.
 
-— Deux jours, ça suffit largement, à mon rythme, répliqua Barnabé,
-sans se démonter le moins du monde.
+— Deux jours, ça suffit largement, à mon rythme, répliqua Barnabé, en
+resserrant un boulon sur son appareil sans même lever les yeux.
 
 — Vous savez ce qui m'étonne, dans tout ça ? demanda Sofia, en se
 tournant vers Aurélie. Tout le monde croit que les lucioles sont
@@ -3167,7 +3177,8 @@ panier de linge de Mamie Rose.
 — Régis dit qu'il faut continuer, annonça-t-elle, très sérieusement,
 comme si le caillou venait vraiment de parler.
 
-— Régis a raison, dit Aurélie, en jouant le jeu avec un sourire.
+— Régis a raison, renchérit Aurélie, en jouant le jeu, un sourcil levé
+vers le caillou.
 
 — Ce soir, proposa Henriette, en se relevant, venez donc chez moi.
 J'ai encore des vieux papiers de famille à vous montrer. Peut-être
@@ -3411,7 +3422,7 @@ introduire des prédateurs naturels, comme des larves de libellules.
 cette idée.
 
 — Énormément de moustiques, confirma Aurélie. C'est un des meilleurs
-prédateurs naturels qui existent, pour ce genre de problème.
+prédateurs naturels qui existent pour régler ce problème.
 
 — Alors pourquoi Régis n'a pas fait ça depuis le début ? demanda
 Sofia.
@@ -3433,12 +3444,13 @@ dernière rencontre.
 — C'est un peu excessif, admit Souly. Mais ça vient d'un bon endroit,
 au fond.
 
-Un raffut caractéristique annonça, une fois de plus, l'arrivée de
-Barnabé, cette fois accompagné de Mila, qui portait un projecteur sur
-un trépied.
+Bien avant qu'on puisse l'apercevoir, les exclamations émerveillées de
+plusieurs voisins signalèrent que Barnabé approchait, cette fois
+accompagné de Mila, qui portait un projecteur sur un trépied.
 
-— J'ai amélioré le prototype ! annonça-t-il, radieux. Ce soir, c'est
-le grand test en conditions réelles, devant témoins !
+— J'ai amélioré le prototype ! annonça-t-il, les yeux brillants
+d'enthousiasme. Ce soir, c'est le grand test en conditions réelles,
+devant témoins !
 
 Mila posa le projecteur avec précaution, avant de sortir son carnet de
 croquis pour immortaliser la scène qui s'annonçait.
@@ -3479,7 +3491,7 @@ d'Aurélie. Impossible de résister à un raffut pareil, jusqu'au
 camping.
 
 — Vous arrivez juste à temps pour le grand test, annonça Barnabé,
-radieux. Installez-vous, ça devrait être spectaculaire.
+tout content. Installez-vous, ça devrait être spectaculaire.
 
 — C'est bien ce qui m'inquiète un peu, avoua Julien, en s'installant
 malgré tout près du voisin en pantoufles.
@@ -3503,7 +3515,8 @@ air d'expert. Le métal amplifie les vibrations lumineuses.
 tenta de préciser Aurélie, avec douceur.
 
 — Elles existeront, dès que j'aurai fini de les inventer, répliqua
-Barnabé, sans se démonter le moins du monde.
+Barnabé, en tapotant de nouveau la théière, comme si l'affaire était
+déjà entendue.
 
 — On ne peut pas discuter avec ça, murmura Souly à Sofia, qui hocha la
 tête, entièrement d'accord.
@@ -3613,8 +3626,8 @@ voyage, déclara-t-elle.
 
 — On dit ça à chaque fois, remarqua Souly, amusé.
 
-— Et c'est toujours vrai, à chaque fois, répliqua Sofia, sans se
-laisser démonter.
+— Et c'est toujours vrai, à chaque fois, répliqua Sofia, en croisant
+les bras d'un air décidé.
 
 — Je crois qu'elle a raison, dit Julien, qui n'avait pas encore quitté
 le jardin. Une soirée qui finit avec un renard dans un seau d'eau, ce
@@ -4028,7 +4041,7 @@ là, c'est le principal.
 
 — Vous êtes bien indulgents, avec moi, remarqua Régis, un peu surpris.
 
-— On essaie, dit Sofia, avec un sourire encourageant. Ça aide, pour
+— On essaie, dit Sofia, en lui tapotant l'épaule. Ça aide, pour
 avancer plus vite.
 
 — Ça ne rend pas la situation moins grave, dit Régis. Le village va
@@ -4048,8 +4061,8 @@ qu'elle voulait dire, je crois.
 — Sofia traduit un peu librement, parfois, expliqua Souly, avec un
 sourire en coin.
 
-— Je traduis avec le cœur, corrigea Sofia, sans se laisser démonter.
-C'est différent.
+— Je traduis avec le cœur, corrigea Sofia, en levant fièrement le
+menton. C'est différent.
 
 Régis eut un petit rire, le premier depuis son arrivée, qui sembla le
 surprendre lui-même.
@@ -4203,7 +4216,7 @@ monde a décidé, ensemble, de bien faire les choses, cette fois.
 — C'est une belle façon de voir une déception, remarqua Souly.
 
 — C'est la seule façon que je connaisse de survivre à ce métier, dit
-Aurélie, avec un sourire un peu triste mais sincère.
+Aurélie, en regardant au loin, un peu mélancolique mais sincère.
 
 — Vous avez déjà eu d'autres déceptions, comme celle-là ? demanda
 Mila, curieuse.
@@ -4552,8 +4565,9 @@ quand on sait, au fond, qu'on ne sera pas vraiment accusé.
 — On expliquera bien que ce n'est pas vous, promit Souly. On a les
 dates. Elles parlent d'elles-mêmes.
 
-— J'y compte, dit Julien, avec un sourire un peu tendu. Bon, je vous
-laisse à vos lucioles. Bonne nuit, et bon courage pour demain.
+— J'y compte, dit Julien, en se frottant la nuque d'un geste un peu
+raide. Bon, je vous laisse à vos lucioles. Bonne nuit, et bon courage
+pour demain.
 
 Il s'éloigna aussi discrètement qu'il était arrivé, sa lampe torche
 balayant le sol devant lui, laissant le petit groupe reprendre son
@@ -4796,8 +4810,8 @@ toujours.
 — Ils sont partout, remarqua Mila, un peu gênée de voir ses propres
 dessins reproduits sur des dizaines de petits drapeaux en papier.
 
-— C'est ce qui arrive quand on dessine bien, dit Souly, avec un
-sourire.
+— C'est ce qui arrive quand on dessine bien, dit Souly, en désignant
+les drapeaux d'un geste amical.
 
 Mila rosit et détourna le regard vers la foule, feignant de chercher
 quelqu'un.
@@ -5000,8 +5014,8 @@ grand-mère me la répétait déjà, sans jamais m'expliquer pourquoi.
 maire.
 
 — Jamais vraiment, avoua Henriette. On pensait tous que c'était une
-vieille superstition de plus, le genre de règle qu'on respecte par
-habitude, sans trop y réfléchir.
+vieille superstition de plus, une règle qu'on respecte par habitude,
+sans trop y réfléchir.
 
 — Mais Aurélie a trouvé l'explication scientifique derrière, reprit
 le maire, se tournant vers elle.
@@ -5138,7 +5152,7 @@ stupéfaits de la foule.
 
 — Ou alors, ce sont simplement de vraies lucioles qui reviennent
 naturellement, et qui n'ont rien à voir avec votre machine, remarqua
-Aurélie, avec un sourire affectueux.
+Aurélie, en lui donnant une petite tape amicale sur l'épaule.
 
 — Laissez-moi croire à ma petite victoire, ce soir, supplia Barnabé,
 sans quitter des yeux les deux points lumineux.
@@ -5165,8 +5179,8 @@ que j'améliore un détail, un autre se met à ne plus marcher du tout.
 
 — C'est le principe même de l'invention, non ? demanda Souly.
 
-— Exactement, confirma Barnabé, radieux. Ça, au moins, personne ne
-peut le breveter à ma place.
+— Exactement, confirma Barnabé, en tapant dans ses mains, ravi de sa
+trouvaille. Ça, au moins, personne ne peut le breveter à ma place.
 
 — Ce soir, tout le monde a droit à sa petite victoire, dit le maire,
 en riant. Bonne Nuit des Lucioles à tous, malgré tout.
@@ -5244,8 +5258,8 @@ engloutir sa dernière tartine.
 Aujourd'hui, on sauve des lucioles.
 
 Mamie Rose, restée à la maison pour préparer le déjeuner de tout le
-monde, les avait regardés partir avec un sourire amusé, une liste de
-courses déjà à la main.
+monde, les avait regardés partir en secouant la tête, amusée par tant
+d'empressement, une liste de courses déjà à la main.
 
 — Ne rentrez pas trop couverts de boue, avait-elle lancé, en guise
 d'adieu.
@@ -5299,7 +5313,8 @@ servent de nurserie aux moustiques.
 — Une nurserie de moustiques, répéta Mila, en grimaçant. Ça sonne
 horrible, dit comme ça.
 
-— Ça l'est un peu, admit Régis, avec un sourire.
+— Ça l'est un peu, admit Régis, en tapotant sa carte du bout du
+doigt.
 
 — Mais pourquoi l'eau stagnante, précisément ? demanda Sofia. Il y a
 plein d'eau, dans un marais.
@@ -5354,8 +5369,8 @@ Aurélie, en s'approchant. Ce n'est pas parce qu'une première
 solution a échoué qu'on va se précipiter sur la deuxième sans
 vérifier.
 
-— Vous êtes devenue méfiante, remarqua Régis, avec un sourire un peu
-triste.
+— Vous êtes devenue méfiante, remarqua Régis, en se grattant la
+nuque, presque penaud.
 
 — Disons que j'ai appris de vos erreurs cette semaine, dit Aurélie.
 Enfin, j'ai surtout appris avec vous.
@@ -5519,9 +5534,10 @@ sous l'eau, pendant que tout le monde les ignore.
 — C'est un peu ça, toute la nature, remarqua Henriette, attendrie.
 Personne ne remarque jamais les héros les plus utiles.
 
-Un raffut familier annonça, sans grande surprise, l'arrivée de
-Barnabé, cette fois sans invention visible, mais avec un sourire
-particulièrement satisfait.
+Barnabé fit son entrée comme toujours, dans un vacarme de bottes mal
+refermées et de seaux renversés — sans invention sous le bras, cette
+fois, mais avec l'air d'un homme qui vient de résoudre une énigme à
+lui tout seul.
 
 — J'ai une confession à faire, annonça-t-il, en s'approchant du
 groupe.
@@ -5587,9 +5603,9 @@ quand même fini par convaincre tout le monde, hier soir.
 
 — Il n'a rien fait du tout, hier soir, lui rappela Aurélie.
 
-— Justement, dit Barnabé, radieux. Même sans rien faire, il a
-convaincu tout le monde. Imaginez ce que le prototype six pourrait
-accomplir s'il fonctionnait vraiment.
+— Justement, dit Barnabé, les yeux brillants d'enthousiasme. Même
+sans rien faire, il a convaincu tout le monde. Imaginez ce que le
+prototype six pourrait accomplir s'il fonctionnait vraiment.
 
 — C'est une logique qui ne devrait pas tenir debout, remarqua Souly,
 et pourtant, j'ai du mal à la contredire.
@@ -5660,7 +5676,7 @@ sauvé environ cent libellules bébés.
 — Cent larves, corrigea Souly, toujours précis. Pas tout à fait des
 bébés.
 
-— Cent larves-bébés, alors, trancha Sofia, sans se démonter.
+— Cent larves-bébés, alors, trancha Sofia, sans ciller.
 
 Henriette, assise un peu à l'écart avec sa propre tranche de pain,
 observait la scène avec un plaisir tranquille.
@@ -5839,8 +5855,8 @@ fredonnant doucement un air que les enfants ne reconnaissaient pas.
 — Tu es de bonne humeur, ce matin, remarqua Sofia.
 
 — J'ai passé une semaine à regarder ma cousine rougir devant tout un
-village, dit Mamie Rose, avec un sourire attendri. Ça met de bonne
-humeur, ce genre de spectacle.
+village, dit Mamie Rose, les yeux pétillants de malice. Ça met de
+bonne humeur, ce genre de spectacle.
 
 — Vous nous préparez quoi, pour la route ? demanda Souly, attiré par
 l'odeur qui envahissait déjà la cuisine.
@@ -6038,8 +6054,10 @@ fois de plus, presque malgré elle.
 
 — À peine, admit Aurélie, en riant.
 
+— On a appris plein de choses de vous, en tout cas, dit Sofia.
+
 — Vous avez appris combien de mots compliqués, cette semaine ?
-demanda Aurélie à Sofia, avec malice.
+demanda Aurélie, avec malice.
 
 — Beaucoup trop, dit Sofia. Bioluminescence, luciférine,
 luciférase... Je vais les ressortir à l'école, à la rentrée, juste
@@ -6107,8 +6125,8 @@ marais qui a appris à se défendre tout seul, avec un peu d'aide.
 
 — Ils ont tous une histoire, avec toi, remarqua Souly, tendrement.
 
-— C'est bien pour ça que je les garde, dit Sofia, avec un sourire
-satisfait.
+— C'est bien pour ça que je les garde, dit Sofia, la main sur sa
+poche, comme pour protéger son trésor.
 
 — Moi, je n'ai jamais gardé de cailloux, dit Souly, en réfléchissant
 tout haut. Mais j'ai gardé toutes les pages de mon carnet des
@@ -6140,9 +6158,10 @@ désignant le nouveau galet.
 — Il a vu tout un marais apprendre à se défendre, dit Sofia. C'est
 beaucoup, pour un seul caillou.
 
-Un raffut caractéristique annonça, une dernière fois, l'arrivée de
-Barnabé, cette fois sans invention du tout, seulement un sac à dos
-sur l'épaule.
+Pour la dernière fois du séjour, un concert de sacs qui
+s'entrechoquaient et de branches cassées précéda Barnabé de plusieurs
+mètres — sans le moindre prototype sous le bras, pour une fois,
+seulement un sac à dos sur l'épaule.
 
 — Je passais vous dire au revoir, dit-il, un peu essoufflé. Et vous
 prévenir que le prototype six est déjà en construction.
@@ -6185,8 +6204,9 @@ de rosée, mais avec toutes mes données.
 
 — Ça valait le coup ? demanda Mila.
 
-— Toujours, dit Barnabé, radieux. La science n'attend pas les gens
-bien reposés.
+— Toujours, dit Barnabé, en époussetant les brins d'herbe encore
+accrochés à sa manche, manifestement ravi de lui-même. La science
+n'attend pas les gens bien reposés.
 
 — Vous nous tiendrez au courant, pour le prototype six ? demanda
 Sofia.

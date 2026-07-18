@@ -76,7 +76,7 @@ marais.
 — Officielle comment ? insista l'employée.
 
 — Aussi officielle que possible, avec deux enfants et une
-entomologiste, répondit Aurélie, imperturbable.
+entomologiste, répondit Aurélie, sans ciller.
 
 L'employée hésita un long moment, avant de finalement céder et de
 disparaître dans une pièce voisine, revenant avec un dossier en
