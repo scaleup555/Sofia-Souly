@@ -193,8 +193,11 @@ pas vivant.
 — Il a quand même une histoire, protesta Sofia, en le récupérant et en
 le remettant dans sa poche.
 
+— Ça ne l'aide pas beaucoup, pour l'instant, remarqua Colette, avec
+douceur.
+
 — Une anguille argentée fait quelle taille, à peu près ? demanda
-Sofia.
+Sofia, changeant de sujet sans la moindre gêne.
 
 — Ça dépend, mais souvent la taille d'un bras d'adulte, ou plus,
 répondit Colette. Bien trop grosse pour passer là-dedans.
@@ -345,6 +348,8 @@ vraiment trop tard ? demanda Vincent, en relevant la tête.
 — On ne sait pas exactement, avoua Colette. C'est justement pour ça
 qu'il faut faire vite.
 
+— C'est ma faute, dans tous les cas, dit Vincent, la voix serrée.
+
 — On n'est sûrs de rien, encore, tempéra Colette, avec gentillesse.
 Vous avez suivi les recommandations de sécurité. Ce n'est pas vous
 qui avez inventé cette grille.
@@ -396,6 +401,9 @@ même si ses yeux, eux, ne riaient pas encore tout à fait.
 — On répare les deux, promit Souly. La tasse est déjà sauvée.
 
 — Il en reste une, alors, dit Vincent, en se forçant à sourire.
+
+— Vous devriez vous asseoir, plutôt, suggéra Colette. Vous êtes debout
+depuis qu'on est arrivés.
 
 — Je peux vous offrir quelque chose, proposa Vincent, en se dirigeant
 vers un petit coin cuisine encombré d'outils. Un jus de fruit, un

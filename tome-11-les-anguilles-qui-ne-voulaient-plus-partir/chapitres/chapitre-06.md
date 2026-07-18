@@ -166,7 +166,12 @@ chiffres qui s'emboîtent bien, comme des pièces de mécanisme.
 
 — Nous aussi, dit Sofia. Enfin, lui surtout.
 
-— Moi aussi un peu, protesta Sofia, en riant.
+— Tu détestais les maths, la semaine dernière encore, lui rappela
+Souly.
+
+— Moi aussi un peu, alors, se corrigea Sofia, en riant. Ce ne sont
+plus vraiment des maths, une fois qu'il y a une vraie histoire
+derrière.
 
 — Vous devriez fonder un club, suggéra Auguste, amusé, en repliant son
 vieux carnet de comptes. Le club des gens qui aiment les chiffres qui
@@ -306,7 +311,9 @@ nos anguilles d'ici. C'est juste une confusion de nom.
 — Ça fait beaucoup de fausses idées, pour un seul poisson, remarqua
 Laurine.
 
-— Moi, petite, dit-elle, je courais toujours pieds nus sur le ponton
+— Vous en aviez peur, avant de mieux les connaître ? demanda Sofia.
+
+— Moi, petite, dit Laurine, je courais toujours pieds nus sur le ponton
 de mon père, en été. Je détestais sentir une anguille frôler mes
 chevilles dans l'eau trouble. Je criais comme si j'avais vu un
 requin.
@@ -463,8 +470,11 @@ On change de sujet.
 — C'était déjà le sujet, remarqua Mamie Rose, ravie, ce qui ne fit
 qu'empirer les choses.
 
-— Tu étais pareille, à son âge, ajouta Mamie Rose, à l'attention des
-enfants. Un vrai poisson rouge dès qu'on te complimentait devant
+Colette leva une main suppliante vers sa marraine, en vain.
+
+— Tu étais pareille, à son âge, poursuivit Mamie Rose, sans se laisser
+arrêter, à l'attention des enfants. Un vrai poisson rouge dès qu'on te
+complimentait devant
 quelqu'un d'autre que tes poissons. Tu partais te cacher derrière le
 premier meuble venu. J'ai des histoires entières là-dessus, si un
 jour vous voulez vraiment rire.

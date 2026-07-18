@@ -222,8 +222,12 @@ avec tendresse.
 seule, résuma Enzo, avec l'air de quelqu'un qui avait entendu la
 phrase un bon millier de fois.
 
-— Il vous a déjà raconté l'histoire du nœud qu'il a mis onze ans à
-comprendre ? demanda Enzo, un sourire en coin.
+— On dirait un dicton de plus, à ajouter à la collection familiale,
+remarqua Souly.
+
+— Il en a des dizaines, comme ça, confirma Enzo. Il vous a déjà
+raconté l'histoire du nœud qu'il a mis onze ans à comprendre ? demanda-
+t-il, un sourire en coin.
 
 — Onze ans ? répéta Sofia, incrédule.
 
@@ -265,9 +269,14 @@ avec attention.
 
 — Un peu, mentit visiblement Vincent, en évitant son regard.
 
+— On voit ça, dit Souly, avec tact, en désignant les cernes que
+Vincent n'avait manifestement pas pris le temps de cacher.
+
+Vincent étala ses documents à côté du schéma de Souly, son doigt
+tremblant légèrement en suivant les colonnes de chiffres.
+
 — Vos dates et les nôtres racontent exactement la même histoire,
-remarqua-t-il, en comparant les documents étalés côte à côte, son
-doigt tremblant légèrement en suivant les colonnes de chiffres.
+remarqua-t-il, en comparant les deux jeux de documents côte à côte.
 
 — C'est plutôt rassurant, en un sens, dit Souly. Ça veut dire qu'on
 n'a pas fait d'erreur.
@@ -435,9 +444,12 @@ choses correctement, cette fois.
 Vincent. Photos, plans, tout ce qui peut convaincre le maire d'aller
 vite.
 
-— Je peux organiser une réunion en urgence avec le maire, proposa
-Vincent, retrouvant peu à peu de l'assurance, en se levant, cette
-fois sans rien renverser. Ce soir même, avant la fête.
+— Ça pourrait suffire, à votre avis ? demanda Souly.
+
+— Ça devra suffire, dit Vincent, en se levant, cette fois sans rien
+renverser. Je peux organiser une réunion en urgence avec le maire,
+proposa-t-il, retrouvant peu à peu de l'assurance. Ce soir même, avant
+la fête.
 
 — C'est exactement notre plan, confirma Colette.
 
