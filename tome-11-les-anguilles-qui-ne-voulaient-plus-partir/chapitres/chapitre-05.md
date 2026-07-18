@@ -214,7 +214,7 @@ mauvais des deux, au pire moment possible.
 — Comme une route à sens unique fermée le seul jour où tout le monde
 doit y passer, résuma Sofia.
 
-— Exactement ce genre de situation, confirma Colette.
+— Voilà, c'est tout à fait ça, dit Colette.
 
 — Ces anguilles-là, celles qui essaient de sortir maintenant, elles
 ont quel âge ? demanda Sofia.

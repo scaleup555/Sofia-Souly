@@ -354,7 +354,7 @@ Aucune exception.
 
 — Comme le saumon, alors, dit Enzo, presque fier de sa comparaison.
 
-— Justement pas, corrigea Colette, avec un sourire. C'est même
+— Justement pas, corrigea Colette, en levant un doigt. C'est même
 exactement le contraire. Le saumon naît en eau douce, grandit un peu,
 part vivre en mer, puis revient dans sa rivière natale pour se
 reproduire. On dit qu'il est anadrome.

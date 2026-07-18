@@ -334,8 +334,8 @@ pour son travail, elle a remercié la mairie en appelant notre
 secrétaire général « Madame », alors que c'est un homme, et qu'il
 travaille ici depuis vingt ans.
 
-Un petit rire parcourut la foule. Colette leva les yeux au ciel,
-autant de dépit que d'amusement.
+Quelques rires fusèrent ici et là dans la foule. Colette leva les
+yeux au ciel, autant de dépit que d'amusement.
 
 — Ça, c'est de l'histoire ancienne, murmura-t-elle. Et je vous
 rappelle que c'était un très joli bouquet.
@@ -479,9 +479,9 @@ commencé.
 
 — Ce soir ? proposa Sofia, pleine d'entrain.
 
-— Demain matin, plutôt, tempéra Colette, avec un vrai sourire cette
-fois, sans la moindre trace de gêne. Il y a des choses qu'on voit
-mieux à la lumière du jour. Et vous avez eu une longue route.
+— Demain matin, plutôt, tempéra Colette, détendue cette fois, sans la
+moindre trace de gêne. Il y a des choses qu'on voit mieux à la
+lumière du jour. Et vous avez eu une longue route.
 
 — On a surtout hâte, corrigea Sofia.
 
@@ -594,7 +594,7 @@ information, presque autant qu'une présence.
 — C'est un peu comme chercher un caillou qui devrait être dans ma
 poche et qui n'y est plus, dit Sofia. On sent tout de suite le vide.
 
-— Exactement ce genre de vide, confirma Colette.
+— C'est exactement ça, dit Colette, en hochant la tête.
 
 — Il sert vraiment à quelque chose, ce sextant ? demanda Sofia, en
 désignant l'objet qui dépassait.
@@ -2025,7 +2025,7 @@ réponses.
 jour, comme pour sceller la promesse. Cette fois, on ne se laissera
 distraire par aucun article de journal.
 
-— On dit ça à chaque fois, remarqua Souly, avec un sourire.
+— On dit ça à chaque fois, remarqua Souly, en secouant la tête.
 
 — Et à chaque fois, c'est vrai jusqu'au lendemain matin, admit Sofia,
 sans la moindre honte.
@@ -2254,7 +2254,7 @@ mauvais des deux, au pire moment possible.
 — Comme une route à sens unique fermée le seul jour où tout le monde
 doit y passer, résuma Sofia.
 
-— Exactement ce genre de situation, confirma Colette.
+— Voilà, c'est tout à fait ça, dit Colette.
 
 — Ces anguilles-là, celles qui essaient de sortir maintenant, elles
 ont quel âge ? demanda Sofia.
@@ -2918,7 +2918,7 @@ Aucune exception.
 
 — Comme le saumon, alors, dit Enzo, presque fier de sa comparaison.
 
-— Justement pas, corrigea Colette, avec un sourire. C'est même
+— Justement pas, corrigea Colette, en levant un doigt. C'est même
 exactement le contraire. Le saumon naît en eau douce, grandit un peu,
 part vivre en mer, puis revient dans sa rivière natale pour se
 reproduire. On dit qu'il est anadrome.
@@ -3290,10 +3290,10 @@ paragraphe.
 — Je n'en doute pas une seconde, dit Colette, touchée par la
 proposition.
 
-Un raffut de bottes glissantes et d'exclamations indignées annonça,
-depuis le jardin, l'arrivée d'Octave, dégoulinant, une nouvelle
-caisse à outils sous le bras, une lampe frontale de travers sur le
-front qui n'éclairait plus que le plafond.
+Octave fit irruption depuis le jardin, dégoulinant, glissant sur le
+carrelage dans un raffut de bottes et d'exclamations indignées, une
+nouvelle caisse à outils sous le bras et une lampe frontale de
+travers sur le front qui n'éclairait plus que le plafond.
 
 — J'ai le prototype quatre ! s'exclama-t-il, en poussant la porte
 sans frapper.
@@ -5040,7 +5040,7 @@ Autour d'eux, les villageois riaient, pleuraient un peu aussi,
 levaient leurs lanternes plus haut pour ne rien perdre du passage,
 tandis que d'autres anguilles, une troisième, une quatrième, puis
 toute une file argentée, suivaient enfin le chemin qu'on venait,
-après vingt-huit nuits d'attente, de leur rouvrir.
+après vingt-neuf nuits d'attente, de leur rouvrir.
 
 Le maire, resté sur l'estrade, ne pensa même pas à reprendre le
 micro. Personne, de toute façon, n'aurait écouté un discours de plus
@@ -5483,7 +5483,8 @@ Vincent, une fois le calme à peu près revenu.
 
 — On a déjà un carnet, dit Souly. C'est presque pareil.
 
-— Presque, répéta Colette, avec un sourire en coin.
+— Presque, répéta Colette, en pinçant les lèvres pour ne pas rire tout
+à fait.
 
 Le repas terminé, chacun retourna à sa tâche avec un peu plus
 d'énergie.
@@ -6039,8 +6040,8 @@ vexé, en arrivant à leur hauteur.
 
 — Jamais, assura Sofia, en se précipitant pour le serrer contre elle.
 
-— Trente ans que je regarde cette rivière, dit Auguste, en leur
-rendant leur accolade, une main sur l'épaule de chacun. Et cette
+— J'en ai vu passer, des saisons, sur cette rivière, dit Auguste, en
+leur rendant leur accolade, une main sur l'épaule de chacun. Et cette
 semaine restera parmi les plus belles que j'aie vécues au bord de
 l'eau.
 

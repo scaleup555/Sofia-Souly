@@ -96,7 +96,7 @@ information, presque autant qu'une présence.
 — C'est un peu comme chercher un caillou qui devrait être dans ma
 poche et qui n'y est plus, dit Sofia. On sent tout de suite le vide.
 
-— Exactement ce genre de vide, confirma Colette.
+— C'est exactement ça, dit Colette, en hochant la tête.
 
 — Il sert vraiment à quelque chose, ce sextant ? demanda Sofia, en
 désignant l'objet qui dépassait.

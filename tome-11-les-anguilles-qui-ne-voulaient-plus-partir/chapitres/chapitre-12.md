@@ -467,8 +467,8 @@ vexé, en arrivant à leur hauteur.
 
 — Jamais, assura Sofia, en se précipitant pour le serrer contre elle.
 
-— Trente ans que je regarde cette rivière, dit Auguste, en leur
-rendant leur accolade, une main sur l'épaule de chacun. Et cette
+— J'en ai vu passer, des saisons, sur cette rivière, dit Auguste, en
+leur rendant leur accolade, une main sur l'épaule de chacun. Et cette
 semaine restera parmi les plus belles que j'aie vécues au bord de
 l'eau.
 

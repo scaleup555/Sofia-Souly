@@ -420,7 +420,8 @@ Vincent, une fois le calme à peu près revenu.
 
 — On a déjà un carnet, dit Souly. C'est presque pareil.
 
-— Presque, répéta Colette, avec un sourire en coin.
+— Presque, répéta Colette, en pinçant les lèvres pour ne pas rire tout
+à fait.
 
 Le repas terminé, chacun retourna à sa tâche avec un peu plus
 d'énergie.

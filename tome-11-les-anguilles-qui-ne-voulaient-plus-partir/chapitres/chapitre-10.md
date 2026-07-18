@@ -453,7 +453,7 @@ Autour d'eux, les villageois riaient, pleuraient un peu aussi,
 levaient leurs lanternes plus haut pour ne rien perdre du passage,
 tandis que d'autres anguilles, une troisième, une quatrième, puis
 toute une file argentée, suivaient enfin le chemin qu'on venait,
-après vingt-huit nuits d'attente, de leur rouvrir.
+après vingt-neuf nuits d'attente, de leur rouvrir.
 
 Le maire, resté sur l'estrade, ne pensa même pas à reprendre le
 micro. Personne, de toute façon, n'aurait écouté un discours de plus

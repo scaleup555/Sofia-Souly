@@ -492,7 +492,7 @@ réponses.
 jour, comme pour sceller la promesse. Cette fois, on ne se laissera
 distraire par aucun article de journal.
 
-— On dit ça à chaque fois, remarqua Souly, avec un sourire.
+— On dit ça à chaque fois, remarqua Souly, en secouant la tête.
 
 — Et à chaque fois, c'est vrai jusqu'au lendemain matin, admit Sofia,
 sans la moindre honte.

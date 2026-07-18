@@ -201,10 +201,10 @@ paragraphe.
 — Je n'en doute pas une seconde, dit Colette, touchée par la
 proposition.
 
-Un raffut de bottes glissantes et d'exclamations indignées annonça,
-depuis le jardin, l'arrivée d'Octave, dégoulinant, une nouvelle
-caisse à outils sous le bras, une lampe frontale de travers sur le
-front qui n'éclairait plus que le plafond.
+Octave fit irruption depuis le jardin, dégoulinant, glissant sur le
+carrelage dans un raffut de bottes et d'exclamations indignées, une
+nouvelle caisse à outils sous le bras et une lampe frontale de
+travers sur le front qui n'éclairait plus que le plafond.
 
 — J'ai le prototype quatre ! s'exclama-t-il, en poussant la porte
 sans frapper.

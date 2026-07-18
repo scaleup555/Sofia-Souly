@@ -331,8 +331,8 @@ pour son travail, elle a remercié la mairie en appelant notre
 secrétaire général « Madame », alors que c'est un homme, et qu'il
 travaille ici depuis vingt ans.
 
-Un petit rire parcourut la foule. Colette leva les yeux au ciel,
-autant de dépit que d'amusement.
+Quelques rires fusèrent ici et là dans la foule. Colette leva les
+yeux au ciel, autant de dépit que d'amusement.
 
 — Ça, c'est de l'histoire ancienne, murmura-t-elle. Et je vous
 rappelle que c'était un très joli bouquet.
@@ -476,9 +476,9 @@ commencé.
 
 — Ce soir ? proposa Sofia, pleine d'entrain.
 
-— Demain matin, plutôt, tempéra Colette, avec un vrai sourire cette
-fois, sans la moindre trace de gêne. Il y a des choses qu'on voit
-mieux à la lumière du jour. Et vous avez eu une longue route.
+— Demain matin, plutôt, tempéra Colette, détendue cette fois, sans la
+moindre trace de gêne. Il y a des choses qu'on voit mieux à la
+lumière du jour. Et vous avez eu une longue route.
 
 — On a surtout hâte, corrigea Sofia.
 
