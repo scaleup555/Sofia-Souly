@@ -355,7 +355,8 @@ conditions parfaites pour les faire revenir en masse.
 — Vous avez déjà testé ? demanda Souly, sincèrement intéressé par la
 mécanique de l'engin.
 
-— Cette nuit même, dit Barnabé, radieux. Les résultats ont été...
+— Cette nuit même, dit Barnabé, manifestement ravi de lui-même. Les
+résultats ont été...
 disons, instructifs.
 
 — Instructifs comment ? demanda Sofia, méfiante.
@@ -367,7 +368,8 @@ Aucune luciole. Mais je considère ça comme des données précieuses.
 — Vous voulez qu'on regarde comment ça marche ? proposa Souly, avec
 un intérêt sincère pour la mécanique.
 
-— Excellente idée ! s'exclama Barnabé, radieux. Regardez bien. On
+— Excellente idée ! s'exclama Barnabé, en se frottant les mains
+d'excitation. Regardez bien. On
 appuie ici, et...
 
 Il pressa un bouton sur le côté de l'appareil. Les guirlandes
@@ -416,8 +418,8 @@ Je le sens.
 — Et pour le prototype un, avant ça, ajouta Mila.
 
 — Les grandes inventions demandent de la persévérance, répliqua
-Barnabé, sans se laisser démonter. Newton n'a pas trouvé la gravité du
-premier coup.
+Barnabé, en balayant l'objection d'un revers de main. Newton n'a pas
+trouvé la gravité du premier coup.
 
 — Newton n'a pas inventé la gravité, elle existait déjà, fit
 remarquer Souly.

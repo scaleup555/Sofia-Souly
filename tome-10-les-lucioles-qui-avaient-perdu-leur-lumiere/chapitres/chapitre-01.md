@@ -440,8 +440,9 @@ adultes.
 — Ça fait beaucoup d'exceptions pour un seul insecte, remarqua Souly,
 en notant fébrilement.
 
-— La nature adore les exceptions, dit Aurélie, avec un sourire. C'est
-même souvent là que se cachent les indices les plus intéressants.
+— La nature adore les exceptions, dit Aurélie, en penchant légèrement
+la tête. C'est même souvent là que se cachent les indices les plus
+intéressants.
 
 — Et celle-ci, alors, elle brille comment ? demanda Sofia, en
 désignant vaguement le marais au loin.

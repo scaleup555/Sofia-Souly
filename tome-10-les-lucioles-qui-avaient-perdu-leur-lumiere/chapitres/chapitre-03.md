@@ -155,7 +155,8 @@ en se penchant à son tour sur le carnet.
 
 — Parfaitement normal, confirma Henriette. C'est bien ça qui
 m'inquiète. Il ne s'agit pas d'un déclin lent, comme on pourrait s'y
-attendre avec le changement climatique ou ce genre de choses. C'est
+attendre avec le changement climatique ou d'autres causes
+progressives. C'est
 arrivé d'un coup, presque du jour au lendemain.
 
 — Ce qui veut dire qu'il s'est passé quelque chose de précis, ce
@@ -201,7 +202,8 @@ fascinée. C'est le genre de détail que personne ne croirait, si je le
 racontais à l'école.
 
 — Beaucoup de choses en biologie ont l'air inventées, alors qu'elles
-sont parfaitement réelles, dit Aurélie, avec un sourire.
+sont parfaitement réelles, dit Aurélie, en tapotant son carnet de
+terrain.
 
 Mila, assise en tailleur sur le tapis, leva le nez de son propre
 carnet de croquis, où elle venait de dessiner un escargot minuscule
@@ -223,7 +225,7 @@ regardant Aurélie avec un sourire entendu.
 en même temps, ce qui les fit toutes les deux éclater de rire.
 
 — Bon, d'accord, ça pourrait quand même se transmettre par
-admiration, concéda Sofia, sans se démonter.
+admiration, concéda Sofia, sans perdre son aplomb.
 
 Henriette referma doucement le carnet, le regard perdu quelque part
 au-delà de la fenêtre.
@@ -303,7 +305,7 @@ phrases sortent plus vite que je ne peux les organiser.
 — Ce n'est pas vraiment un compliment que j'espérais, marmonna
 Aurélie, en se rasseyant, encore un peu essoufflée.
 
-Un raffut à la porte annonça, sans grande surprise, l'arrivée de
+La porte s'ouvrit dans un vacarme qui ne surprit personne : c'était
 Barnabé, toujours couvert de vase, un nouveau tube métallique sous le
 bras.
 

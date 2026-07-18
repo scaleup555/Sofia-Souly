@@ -66,8 +66,8 @@ toujours.
 — Ils sont partout, remarqua Mila, un peu gênée de voir ses propres
 dessins reproduits sur des dizaines de petits drapeaux en papier.
 
-— C'est ce qui arrive quand on dessine bien, dit Souly, avec un
-sourire.
+— C'est ce qui arrive quand on dessine bien, dit Souly, en désignant
+les drapeaux d'un geste amical.
 
 Mila rosit et détourna le regard vers la foule, feignant de chercher
 quelqu'un.
@@ -408,7 +408,7 @@ stupéfaits de la foule.
 
 — Ou alors, ce sont simplement de vraies lucioles qui reviennent
 naturellement, et qui n'ont rien à voir avec votre machine, remarqua
-Aurélie, avec un sourire affectueux.
+Aurélie, en lui donnant une petite tape amicale sur l'épaule.
 
 — Laissez-moi croire à ma petite victoire, ce soir, supplia Barnabé,
 sans quitter des yeux les deux points lumineux.
@@ -435,8 +435,8 @@ que j'améliore un détail, un autre se met à ne plus marcher du tout.
 
 — C'est le principe même de l'invention, non ? demanda Souly.
 
-— Exactement, confirma Barnabé, radieux. Ça, au moins, personne ne
-peut le breveter à ma place.
+— Exactement, confirma Barnabé, en tapant dans ses mains, ravi de sa
+trouvaille. Ça, au moins, personne ne peut le breveter à ma place.
 
 — Ce soir, tout le monde a droit à sa petite victoire, dit le maire,
 en riant. Bonne Nuit des Lucioles à tous, malgré tout.

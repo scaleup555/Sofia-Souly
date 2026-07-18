@@ -316,8 +316,9 @@ quand on sait, au fond, qu'on ne sera pas vraiment accusé.
 — On expliquera bien que ce n'est pas vous, promit Souly. On a les
 dates. Elles parlent d'elles-mêmes.
 
-— J'y compte, dit Julien, avec un sourire un peu tendu. Bon, je vous
-laisse à vos lucioles. Bonne nuit, et bon courage pour demain.
+— J'y compte, dit Julien, en se frottant la nuque d'un geste un peu
+raide. Bon, je vous laisse à vos lucioles. Bonne nuit, et bon courage
+pour demain.
 
 Il s'éloigna aussi discrètement qu'il était arrivé, sa lampe torche
 balayant le sol devant lui, laissant le petit groupe reprendre son

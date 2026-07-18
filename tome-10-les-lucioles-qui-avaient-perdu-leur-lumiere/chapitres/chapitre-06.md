@@ -30,8 +30,8 @@ d'Aurélie.
 tartine. Tu dormais, quand je suis passée devant ta chambre à
 minuit.
 
-— J'ai réfléchi avant de dormir, et dès le réveil, précisa Souly,
-sans se laisser démonter. Ça compte.
+— J'ai réfléchi avant de dormir, et dès le réveil, précisa Souly, en
+tapotant son carnet du bout du crayon. Ça compte.
 
 — Ça ne compte qu'à moitié, alors, remarqua Sofia.
 
@@ -295,9 +295,10 @@ amusée par la scène.
 — Je fais attention aux deux, protesta Souly, en retrouvant enfin son
 équilibre.
 
-Un raffut familier annonça, sans surprise, l'arrivée de Barnabé,
-poussant une brouette chargée d'un enchevêtrement de tubes, de
-guirlandes et de ce qui ressemblait fortement à un vieux ventilateur.
+Le grincement d'une roue de brouette mal huilée précéda Barnabé de
+plusieurs mètres, avant qu'il n'apparaisse en personne, tirant un
+enchevêtrement de tubes, de guirlandes et de ce qui ressemblait
+fortement à un vieux ventilateur.
 
 — J'ai le prototype trois ! s'exclama-t-il, radieux, malgré la vase
 qui maculait ses bottes jusqu'aux genoux.
@@ -343,7 +344,7 @@ Mila. À ce rythme, le prototype dix aura toutes les pièces qui
 manquent aux neuf précédents.
 
 — En tout cas, le cadran confirme que quelque chose s'est passé cette
-nuit, insista Barnabé, sans se laisser démonter. Et pas seulement le
+nuit, insista Barnabé, sans céder d'un pouce. Et pas seulement le
 cadran : j'ai attiré onze moustiques, un chat du voisinage, et le
 même hérisson que la dernière fois. Je crois qu'il commence même à
 m'attendre, celui-là.
@@ -358,8 +359,9 @@ Comme pour confirmer ses dires, un bruissement se fit entendre dans
 les buissons voisins, et un hérisson trottina jusqu'à la brouette,
 reniflant bruyamment les tubes et les guirlandes.
 
-— Le voilà justement, annonça Barnabé, radieux, comme s'il présentait
-un vieil ami à des invités de marque. Gaston, dis bonjour.
+— Le voilà justement, annonça Barnabé, un large sourire fier aux
+lèvres, comme s'il présentait un vieil ami à des invités de marque.
+Gaston, dis bonjour.
 
 Le hérisson, indifférent aux présentations, se contenta de grimper sur
 une des bottes de Barnabé et de s'y installer, immobile.
@@ -399,8 +401,8 @@ déclara Barnabé, imperméable aux moqueries amicales.
 — Deux jours avant la fête, murmura Sofia, en riant. Vous n'avez plus
 beaucoup de temps pour votre grande découverte, Barnabé.
 
-— Deux jours, ça suffit largement, à mon rythme, répliqua Barnabé,
-sans se démonter le moins du monde.
+— Deux jours, ça suffit largement, à mon rythme, répliqua Barnabé, en
+resserrant un boulon sur son appareil sans même lever les yeux.
 
 — Vous savez ce qui m'étonne, dans tout ça ? demanda Sofia, en se
 tournant vers Aurélie. Tout le monde croit que les lucioles sont
@@ -508,7 +510,8 @@ panier de linge de Mamie Rose.
 — Régis dit qu'il faut continuer, annonça-t-elle, très sérieusement,
 comme si le caillou venait vraiment de parler.
 
-— Régis a raison, dit Aurélie, en jouant le jeu avec un sourire.
+— Régis a raison, renchérit Aurélie, en jouant le jeu, un sourcil levé
+vers le caillou.
 
 — Ce soir, proposa Henriette, en se relevant, venez donc chez moi.
 J'ai encore des vieux papiers de famille à vous montrer. Peut-être

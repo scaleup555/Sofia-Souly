@@ -76,7 +76,7 @@ marais.
 — Officielle comment ? insista l'employée.
 
 — Aussi officielle que possible, avec deux enfants et une
-entomologiste, répondit Aurélie, sans se démonter.
+entomologiste, répondit Aurélie, imperturbable.
 
 L'employée hésita un long moment, avant de finalement céder et de
 disparaître dans une pièce voisine, revenant avec un dossier en
@@ -452,8 +452,8 @@ dents.
 son sac. On est en pleine enquête sur un traitement antimoustique, et
 tu penses à donner un nom à un caillou.
 
-— On peut penser à deux choses en même temps, répondit Sofia, sans se
-laisser démonter. C'est même plutôt facile.
+— On peut penser à deux choses en même temps, répondit Sofia, en
+haussant les épaules. C'est même plutôt facile.
 
 — Comment tu vas l'appeler ? demanda Aurélie, amusée.
 

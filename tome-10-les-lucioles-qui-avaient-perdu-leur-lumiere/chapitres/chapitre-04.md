@@ -28,7 +28,7 @@ demandé de noter.
 — C'est ce qui fait de bonnes preuves, plus tard, se défendit Souly.
 
 — Et toi, tu apportes quoi à l'enquête, ce matin ? demanda Mamie Rose
-à Sofia, avec un sourire.
+à Sofia, en reposant sa tasse.
 
 — Moi, j'apporte l'enthousiasme, dit Sofia, sans la moindre hésitation.
 
@@ -372,7 +372,7 @@ lucioles. Bien sûr.
 qui n'avait pas manqué ce léger changement de ton.
 
 — Aucune idée, dit Régis, un peu trop vite. Je m'occupe surtout de
-l'entretien général. Les eaux, les routes, ce genre de choses.
+l'entretien général. Les eaux, les routes, et tout ce qui va avec.
 
 — Vous vous occupez aussi des traitements, contre les moustiques ou
 autre chose ? demanda Aurélie, avec une politesse professionnelle qui
@@ -477,7 +477,7 @@ seule journée.
 — C'est vrai, admit Sofia, un peu réconfortée.
 
 — Et Julien qui pleure presque de soulagement, c'était quand même un
-grand moment, ajouta-t-elle, avec un sourire.
+grand moment, ajouta-t-elle, en pouffant.
 
 — Il n'a pas pleuré, corrigea Souly.
 
@@ -497,7 +497,7 @@ conduisait déjà comme ça sur son vélo, quand il était enfant.
 
 — Vous le connaissez bien ? demanda Sofia.
 
-— Aiguemarais est petit, dit Mamie Rose, avec un sourire. Tout le
+— Aiguemarais est petit, dit Mamie Rose, avec un clin d'œil. Tout le
 monde connaît tout le monde depuis toujours, ici.
 
 — C'est plutôt rassurant, ou plutôt inquiétant, un village comme ça ?
