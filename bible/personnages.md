@@ -385,6 +385,96 @@ Tout nouvel épisode doit relire ce fichier avant d'écrire une ligne.
 - Personnage-ressource pour tout tome futur à thème fluvial/tourisme
   local.
 
+### Solène Brassard (introduite au tome 12)
+- Cousine de Camille, la maman de Sofia et Souly (lien jamais utilisé
+  jusqu'ici — à varier systématiquement des liens déjà utilisés :
+  cousine de Mamie Rose, filleule de Mamie Rose, amie d'école de
+  Camille, ancienne élève de Mamie Rose, amie d'enfance du père, sœur
+  du père). La trentaine, ornithologue spécialisée dans les oiseaux
+  migrateurs, appelée par la mairie de Nidange pour comprendre
+  pourquoi les cigognes ne sont pas revenues avant la Fête du Retour.
+- Capable de réciter de mémoire l'itinéraire migratoire complet de
+  n'importe quel oiseau européen, mais devient volubile au point de ne
+  plus s'arrêter dès qu'on la lance sur le sujet — pas une maladresse
+  sociale comme Aurélie (tome 10, rougit sous les compliments) ou
+  Colette (tome 11, bafouille en conversation personnelle) : Solène,
+  elle, parle si vite et si longtemps par enthousiasme pur que les
+  autres personnages doivent régulièrement l'interrompre gentiment
+  pour la faire revenir au sujet — variation volontaire du gabarit
+  « scientifique socialement maladroite » déjà utilisé deux fois.
+- Porte toujours une paire de jumelles autour du cou, même à table.
+- Personnage-ressource pour tout tome futur à thème ornithologique/
+  migration animale.
+
+### Nino Faucher (introduit au tome 12)
+- 10 ans, vit à Nidange. Passionné d'identification des cigognes par
+  leurs bagues métalliques (chaque cigogne baguée porte un code
+  unique), tient un carnet où il consigne chaque oiseau reconnu d'une
+  année sur l'autre — à varier systématiquement des tempéraments déjà
+  utilisés pour les autres enfants-ressources (Max sûr de lui, Milo
+  grimpeur terre-à-terre, Yanis méfiant et loyal, Iris théâtrale et
+  enthousiaste, Zoé franche et bagarreuse, Bastien calme et très
+  observateur, Noé sceptique et pince-sans-rire, Mila artiste
+  distraite, Enzo distrait par le fonctionnel). Nino, lui, est obsédé
+  par l'identité individuelle des choses : il retient le nom, l'âge et
+  l'historique de chaque cigogne du village comme d'autres retiennent
+  des noms de footballeurs, mais confond régulièrement les prénoms des
+  humains qu'il rencontre.
+- Grimpe aux arbres et aux toitures avec une aisance déconcertante pour
+  observer les nids de plus près, ce qui inquiète systématiquement les
+  adultes du village.
+- Personnage-ressource pour tout tome futur à thème ornithologique/
+  village de toits et clochers.
+
+### Gaspard Riolan (introduit au tome 12)
+- Grand-père de Nino, ancien couvreur-ramoneur du village, à la
+  retraite. Dépositaire d'une règle familiale orale transmise depuis
+  des générations (« ne jamais toucher aux vieux fils près du clocher,
+  entre mars et avril ») longtemps prise pour une superstition de
+  toiture, qui se révèle décrire exactement le couloir de vol utilisé
+  par les cigognes pour rejoindre leur nid.
+- Contrairement à Henriette (tome 10, carnet de comptage chiffré) et
+  Auguste (tome 11, règle orale sur la pleine lune), Gaspard associe
+  sa règle à un souvenir professionnel très concret : il a fondé cette
+  règle sur des décennies à grimper sur les toits du village et à
+  observer, sans jamais le formuler scientifiquement, où les cigognes
+  passaient toujours.
+- Personnage-ressource pour tout tome futur à thème savoir
+  traditionnel villageois/toitures.
+
+### Ambroise Cadoret (introduit au tome 12)
+- La soixantaine, ancien facteur du village devenu inventeur amateur
+  excentrique à la retraite, construit des nichoirs et des dispositifs
+  d'observation de cigognes de plus en plus farfelus qui échouent
+  systématiquement de façon comique (rôle comique, distinct de Gustave
+  Pinatel [tome 8], Norbert Chabrol [tome 9], Barnabé Roquefeuil
+  [tome 10] et Octave Bouscaren [tome 11] : Ambroise ne cherche ni à
+  observer, ni à provoquer, ni à capturer en images un phénomène — il
+  veut construire un nid parfait pour attirer les cigognes lui-même,
+  ce qui se termine systématiquement par l'effondrement du nichoir).
+- Personnage-ressource pour tout tome futur à thème comique villageois.
+
+### Fabien Delorme (introduit au tome 12)
+- Technicien du réseau électrique local. A fait installer de nouveaux
+  câbles électriques près du clocher pour raccorder une nouvelle
+  antenne municipale, sans savoir qu'ils couperaient le couloir de vol
+  traditionnel des cigognes — erreur de négligence, pas de
+  malveillance (dans l'esprit d'Antoine Ferrieux [tome 8], Thibault
+  Norrain [tome 9], Régis Sabatier [tome 10] et Vincent Aubry
+  [tome 11]).
+- Personnage-ressource pour tout tome futur à thème infrastructure
+  municipale/faune.
+
+### Constance Vallier (introduite au tome 12)
+- Couvreure, chargée par la mairie de rénover la toiture du clocher
+  Saint-Martin récemment. Sincèrement inquiète d'être responsable du
+  déclin des cigognes à cause de son chantier, bien qu'innocente de la
+  cause principale — accepte volontiers d'ajuster son planning de
+  travaux par précaution, même une fois innocentée (dans l'esprit de
+  Julien Mercier [tome 10] et Laurine Ferretti [tome 11]).
+- Personnage-ressource pour tout tome futur à thème bâtiment/
+  patrimoine villageois.
+
 ## Règle d'or de continuité
 - Les faits établis dans un tome (âges, liens de parenté, peurs, habitudes) ne
   doivent JAMAIS être contredits dans un tome suivant.
