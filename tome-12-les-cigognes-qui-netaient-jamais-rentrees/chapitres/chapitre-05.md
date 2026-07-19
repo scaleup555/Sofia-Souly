@@ -197,7 +197,7 @@ deux fils gris presque de la couleur de la pierre ancienne, agrafés
 tous les mètres par de petites pattes métalliques. La pierre elle-même
 portait encore, ça et là, de petits trous ronds laissés par d'anciens
 échafaudages, des générations de couvreurs qui étaient montés là avant
-Constance, avant même Gaspard sans doute.
+Constance, avant même Gaspard.
 
 — On dirait presque une décoration, si on ne savait pas, remarqua
 Souly, en reculant de quelques pas pour observer l'ensemble du mur.

@@ -190,8 +190,8 @@ troisième ligne, retrouvant tout son sérieux. Onze jours après le
 déclin. Bien trop tard pour être la cause principale.
 
 Souly recula d'un pas pour admirer l'ensemble du schéma, les mains
-sur les hanches, dans une posture qu'il avait sans doute empruntée à
-un savant de bande dessinée.
+sur les hanches, dans une posture tout droit sortie d'une bande
+dessinée de savant.
 
 — Vingt-six, vingt-cinq, quatorze, récita-t-il, en pointant chaque
 ligne. Trois dates, trois écarts différents, et une seule qui colle

@@ -259,7 +259,7 @@ pourtant personne ne semblait pressé de finir de les tendre.
 
 Sofia sauta hors de la voiture la première, une basket rouge et une
 basket bleue frappant le pavé presque en même temps, ce qui ne parut
-déranger personne à Nidange, où l'on avait sans doute déjà vu des
+déranger personne à Nidange, où l'on avait manifestement déjà vu des
 choses plus étranges qu'une paire de chaussures dépareillées.
 
 Une femme les attendait sur la place principale, des jumelles autour
@@ -1158,7 +1158,7 @@ nous a toujours répétée.
 — Quelle règle ? demanda Souly, carnet prêt.
 
 — Ne jamais toucher aux vieux fils près du clocher, entre mars et
-avril, récita Gaspard, comme une comptine apprise par cœur. Toujours
+avril, récita Gaspard, d'un trait, sans même y réfléchir. Toujours
 entendu ça, jamais vraiment compris pourquoi.
 
 — Pourquoi justement mars et avril ? demanda Souly, qui notait déjà
@@ -2211,7 +2211,7 @@ deux fils gris presque de la couleur de la pierre ancienne, agrafés
 tous les mètres par de petites pattes métalliques. La pierre elle-même
 portait encore, ça et là, de petits trous ronds laissés par d'anciens
 échafaudages, des générations de couvreurs qui étaient montés là avant
-Constance, avant même Gaspard sans doute.
+Constance, avant même Gaspard.
 
 — On dirait presque une décoration, si on ne savait pas, remarqua
 Souly, en reculant de quelques pas pour observer l'ensemble du mur.
@@ -2667,8 +2667,21 @@ j'avais moi-même jetée pour faire un vœu.
 
 — Ça marche, au moins, les vœux dans les fontaines ? demanda Sofia.
 
-— Celui-là, non, dit Gaspard. J'avais souhaité ne plus jamais tomber
-dans une fontaine.
+— Celui-là, non, dit Gaspard, les oreilles soudain un peu plus roses
+que le reste de son visage buriné. J'avais souhaité ne plus jamais
+tomber dans une fontaine.
+
+— Vous rougissez, remarqua Nino, ravi de sa découverte. Je ne
+savais même pas que c'était possible, à votre âge.
+
+— Ça ne l'est pas, protesta Gaspard, en détournant les yeux vers le
+clocher avec un empressement suspect. C'est le soleil.
+
+— Il n'y a pas de soleil, fit remarquer Sofia, en désignant le ciel
+gris au-dessus d'eux.
+
+— Alors c'est le vent, corrigea Gaspard, sans se laisser démonter le
+moins du monde.
 
 Nino éclata de rire, si fort qu'il faillit à son tour perdre
 l'équilibre sur le rebord de pierre.
@@ -2880,8 +2893,8 @@ posée à la bonne personne, au bon moment.
 — Vous avez déjà résolu combien de mystères de crayon disparu, en
 tout, Mamie Rose ? demanda Nino, sincèrement curieux.
 
-— Bien plus que je ne saurais compter, dit Mamie Rose, avec un
-sourire mystérieux qui n'expliquait rien du tout.
+— Bien plus que je ne saurais compter, dit Mamie Rose, en éludant la
+question avec l'aisance d'une longue pratique.
 
 — Ça, c'est une réponse de maîtresse d'école, remarqua Nino, pas dupe
 une seconde.
@@ -3585,8 +3598,8 @@ troisième ligne, retrouvant tout son sérieux. Onze jours après le
 déclin. Bien trop tard pour être la cause principale.
 
 Souly recula d'un pas pour admirer l'ensemble du schéma, les mains
-sur les hanches, dans une posture qu'il avait sans doute empruntée à
-un savant de bande dessinée.
+sur les hanches, dans une posture tout droit sortie d'une bande
+dessinée de savant.
 
 — Vingt-six, vingt-cinq, quatorze, récita-t-il, en pointant chaque
 ligne. Trois dates, trois écarts différents, et une seule qui colle
@@ -4346,6 +4359,15 @@ champs, dans un grand battement d'ailes silencieux, laissant le ciel
 tout entier à l'aube naissante — et, pour la première fois depuis le
 début de leur enquête, personne n'eut envie de parler tout de suite.
 
+— Allez, dit Gaspard, en se relevant enfin, le genou craquant. On
+rentre tous dormir quelques heures. La vraie journée de la fête n'a
+même pas encore commencé, et elle sera longue.
+
+Ils redescendirent la ruelle en silence, trop fatigués pour parler
+davantage, laissant le clocher et son nid vide s'éclairer tout seul
+sous le premier vrai soleil du jour qui les attendait, quelques
+heures plus tard, une fois reposés.
+
 # Chapitre 10 — La Fête du Retour
 
 La place de Nidange n'avait jamais accueilli autant de monde. Tout le
@@ -4575,9 +4597,8 @@ cigogne devant tout un comité scientifique.
 
 — Vraiment, confirma Solène. Personne n'en est mort.
 
-— On dirait deux tomates, remarqua Nino, depuis le premier rang, en
-désignant tour à tour Sofia et Solène, qui rosissait encore un peu
-elle-même après sa propre interruption sur l'estrade.
+— On dirait une tomate, remarqua Nino, depuis le premier rang, en
+désignant Sofia du doigt.
 
 — Merci du compliment, Nino, dit Sofia, avec une grimace amusée.
 
@@ -4894,7 +4915,7 @@ la table.
 — Est-ce que d'autres villages ont eu le même problème ? demanda
 Souly, en refermant son carnet un instant.
 
-— Ça arrive souvent, ce genre d'erreur ? demanda Nino, sincèrement
+— Ça arrive souvent, une erreur pareille ? demanda Nino, sincèrement
 inquiet à l'idée que d'autres villages puissent connaître le même
 sort.
 

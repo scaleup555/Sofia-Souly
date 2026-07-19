@@ -256,7 +256,7 @@ pourtant personne ne semblait pressé de finir de les tendre.
 
 Sofia sauta hors de la voiture la première, une basket rouge et une
 basket bleue frappant le pavé presque en même temps, ce qui ne parut
-déranger personne à Nidange, où l'on avait sans doute déjà vu des
+déranger personne à Nidange, où l'on avait manifestement déjà vu des
 choses plus étranges qu'une paire de chaussures dépareillées.
 
 Une femme les attendait sur la place principale, des jumelles autour

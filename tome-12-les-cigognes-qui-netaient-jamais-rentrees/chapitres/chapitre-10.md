@@ -227,9 +227,8 @@ cigogne devant tout un comité scientifique.
 
 — Vraiment, confirma Solène. Personne n'en est mort.
 
-— On dirait deux tomates, remarqua Nino, depuis le premier rang, en
-désignant tour à tour Sofia et Solène, qui rosissait encore un peu
-elle-même après sa propre interruption sur l'estrade.
+— On dirait une tomate, remarqua Nino, depuis le premier rang, en
+désignant Sofia du doigt.
 
 — Merci du compliment, Nino, dit Sofia, avec une grimace amusée.
 

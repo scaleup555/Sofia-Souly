@@ -215,8 +215,21 @@ j'avais moi-même jetée pour faire un vœu.
 
 — Ça marche, au moins, les vœux dans les fontaines ? demanda Sofia.
 
-— Celui-là, non, dit Gaspard. J'avais souhaité ne plus jamais tomber
-dans une fontaine.
+— Celui-là, non, dit Gaspard, les oreilles soudain un peu plus roses
+que le reste de son visage buriné. J'avais souhaité ne plus jamais
+tomber dans une fontaine.
+
+— Vous rougissez, remarqua Nino, ravi de sa découverte. Je ne
+savais même pas que c'était possible, à votre âge.
+
+— Ça ne l'est pas, protesta Gaspard, en détournant les yeux vers le
+clocher avec un empressement suspect. C'est le soleil.
+
+— Il n'y a pas de soleil, fit remarquer Sofia, en désignant le ciel
+gris au-dessus d'eux.
+
+— Alors c'est le vent, corrigea Gaspard, sans se laisser démonter le
+moins du monde.
 
 Nino éclata de rire, si fort qu'il faillit à son tour perdre
 l'équilibre sur le rebord de pierre.
@@ -428,8 +441,8 @@ posée à la bonne personne, au bon moment.
 — Vous avez déjà résolu combien de mystères de crayon disparu, en
 tout, Mamie Rose ? demanda Nino, sincèrement curieux.
 
-— Bien plus que je ne saurais compter, dit Mamie Rose, avec un
-sourire mystérieux qui n'expliquait rien du tout.
+— Bien plus que je ne saurais compter, dit Mamie Rose, en éludant la
+question avec l'aisance d'une longue pratique.
 
 — Ça, c'est une réponse de maîtresse d'école, remarqua Nino, pas dupe
 une seconde.

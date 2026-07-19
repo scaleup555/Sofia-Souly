@@ -146,7 +146,7 @@ nous a toujours répétée.
 — Quelle règle ? demanda Souly, carnet prêt.
 
 — Ne jamais toucher aux vieux fils près du clocher, entre mars et
-avril, récita Gaspard, comme une comptine apprise par cœur. Toujours
+avril, récita Gaspard, d'un trait, sans même y réfléchir. Toujours
 entendu ça, jamais vraiment compris pourquoi.
 
 — Pourquoi justement mars et avril ? demanda Souly, qui notait déjà

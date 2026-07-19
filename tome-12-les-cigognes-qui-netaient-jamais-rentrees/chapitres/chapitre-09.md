@@ -475,3 +475,12 @@ part au-dessus d'eux, la cigogne finit par s'éloigner vers les
 champs, dans un grand battement d'ailes silencieux, laissant le ciel
 tout entier à l'aube naissante — et, pour la première fois depuis le
 début de leur enquête, personne n'eut envie de parler tout de suite.
+
+— Allez, dit Gaspard, en se relevant enfin, le genou craquant. On
+rentre tous dormir quelques heures. La vraie journée de la fête n'a
+même pas encore commencé, et elle sera longue.
+
+Ils redescendirent la ruelle en silence, trop fatigués pour parler
+davantage, laissant le clocher et son nid vide s'éclairer tout seul
+sous le premier vrai soleil du jour qui les attendait, quelques
+heures plus tard, une fois reposés.

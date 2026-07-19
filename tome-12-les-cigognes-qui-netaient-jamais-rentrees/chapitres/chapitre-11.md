@@ -59,7 +59,7 @@ la table.
 — Est-ce que d'autres villages ont eu le même problème ? demanda
 Souly, en refermant son carnet un instant.
 
-— Ça arrive souvent, ce genre d'erreur ? demanda Nino, sincèrement
+— Ça arrive souvent, une erreur pareille ? demanda Nino, sincèrement
 inquiet à l'idée que d'autres villages puissent connaître le même
 sort.
 
