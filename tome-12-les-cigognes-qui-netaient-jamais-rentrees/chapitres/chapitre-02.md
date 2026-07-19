@@ -411,7 +411,7 @@ lui-même, en le notant soigneusement dans son carnet.
 pour absolument tout.
 
 — Comment vous faites, pour repérer les bagues, d'ailleurs ? demanda
-Souly. De loin, moi, je ne vois qu'un point noir sur une patte.
+Sofia. De loin, moi, je ne vois qu'un point noir sur une patte.
 
 — Des jumelles, dit Nino, en tapotant celles qui pendaient à son cou.
 Et de l'entraînement. Papy dit que j'ai de meilleurs yeux que lui, mais

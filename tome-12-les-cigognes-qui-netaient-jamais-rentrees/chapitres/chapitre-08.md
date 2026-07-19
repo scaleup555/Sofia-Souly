@@ -146,7 +146,7 @@ La rigueur scientifique a ses limites, quand on manque de matériel.
 que la règle, suggéra Sofia.
 
 — Un emprunt non autorisé à la fois, c'est déjà bien assez de courage
-pour une seule matinée, répondit Souly, avec un sérieux imperturbable.
+pour une seule matinée, répondit Souly, très sérieux.
 
 — Le jaune-vert lui donne un certain charme, tempéra Solène, en
 observant la ligne de plus près. On dirait presque une décision
@@ -276,11 +276,11 @@ côté du grand schéma de Souly, les deux documents se retrouvant côte
 griffonnée dans un coin. Vingt-six jours. Regardez, ça correspond
 exactement à la date sur votre bon de commande.
 
-— À un jour de plus près qu'un rapport de mairie, en tout cas,
-remarqua Sofia, en comparant les deux documents à son tour.
+— Encore plus précis qu'un rapport de mairie, en tout cas, remarqua
+Sofia, en comparant les deux documents à son tour.
 
 — Vos dates et les nôtres racontent exactement la même histoire,
-remarqua-t-il, en comparant les documents du doigt.
+remarqua Fabien, en comparant les documents du doigt.
 
 — C'est plutôt rassurant, en un sens, dit Souly. Ça veut dire qu'on
 n'a pas fait d'erreur.
@@ -292,8 +292,9 @@ rire bref et sans grande joie.
 les recommandations standards. Ce n'est pas la même chose que de mal
 faire exprès.
 
-Fabien s'assit lourdement sur une chaise de la cuisine, qui grinça
-sous son poids comme si elle aussi trouvait la matinée difficile.
+Fabien se laissa tomber sur une chaise de la cuisine, les épaules
+basses, comme si la matinée entière venait soudain de lui retomber
+dessus d'un coup.
 
 — J'ai relu ce dossier dix fois, cette nuit, dit-il. À chaque fois,
 j'espérais avoir mal lu la première fois.
@@ -445,7 +446,7 @@ village, remarqua Souly, un peu jaloux malgré lui. Nous, on n'a que
 des cailloux et des carnets.
 
 — Les cailloux ne se coincent jamais dans les gouttières, fit
-remarquer Sofia, avec un aplomb absolu. C'est déjà un avantage.
+remarquer Sofia, sans la moindre hésitation. C'est déjà un avantage.
 
 — Un caillou n'a jamais sauvé personne non plus, fit remarquer Nino,
 pas méchamment.

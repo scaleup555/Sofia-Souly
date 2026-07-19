@@ -140,7 +140,7 @@ ce type de question, à l'époque.
 
 — Vous y croyiez un peu, quand même, remarqua Nino, presque timide.
 Vous n'avez jamais touché à un seul fil du clocher entre mars et
-avril, en trente ans.
+avril, en plus de trente ans.
 
 — C'est vrai, admit Gaspard, surpris par cette remarque de son propre
 petit-fils. Je l'ai fait par habitude. Mais je l'ai toujours fait.
@@ -260,8 +260,8 @@ Question d'emplacement, pas de conception.
 
 — Et le premier ? demanda Souly, presque malgré lui.
 
-— On n'en parle plus, du premier, dit Ambroise, avec une dignité
-soudaine. Disons simplement qu'il n'a jamais quitté le sol de mon
+— On n'en parle plus, du premier, dit Ambroise, en se redressant
+soudain. Disons simplement qu'il n'a jamais quitté le sol de mon
 atelier.
 
 — Ça fait quand même six nichoirs pour zéro cigogne, résuma Souly, en
@@ -416,25 +416,16 @@ pour lui. Presque comme en plein jour.
 — Je n'ai jamais dit que ça me dérangeait, répondit Souly, un peu
 trop vite.
 
-— Personne n'a dit non plus que la nuit dernière, tu avais laissé la
-lampe allumée jusqu'à deux heures du matin, ajouta Sofia, une lueur
-espiègle dans le regard.
+— Personne n'a dit non plus que la nuit dernière, tu avais relu tes
+notes jusqu'à deux heures du matin, ajouta Sofia, une lueur espiègle
+dans le regard, mais assez bas pour que seul son frère l'entende
+vraiment.
 
-— C'était pour relire mes notes, se défendit Souly, les oreilles
-soudain plus roses que le reste de son visage.
+— C'était pour être sûr de ne rien oublier, se défendit Souly, les
+oreilles soudain plus roses que le reste de son visage.
 
-— Bien sûr, dit Sofia, sans le croire une seconde.
-
-— Tout le monde a un peu peur du noir, de temps en temps, intervint
-Gaspard, sans lever les yeux de la théière qu'il essuyait. Même les
-couvreurs. Surtout les couvreurs, en fait. On sait trop bien ce qui
-peut arriver, quand on ne voit pas où on met les pieds.
-
-— Vous voyez, dit Souly, un peu trop soulagé par ce soutien inattendu.
-Ce n'est même pas un défaut d'enfant.
-
-— Je n'ai rien dit non plus, dit Sofia, en lui donnant un coup
-d'épaule affectueux.
+— Bien sûr, dit Sofia, sans le croire une seconde, avant de lui
+donner un coup d'épaule affectueux. Je ne dirai rien à personne.
 
 — Je viens, annonça Nino, aussitôt. Je connais le meilleur endroit
 pour observer sans être vu. C'est un vieux mur, juste à l'angle de la
@@ -443,7 +434,7 @@ m'y installe parfois, le matin, avant l'école.
 
 — Tu y vas tout seul ? demanda Sofia, un peu impressionnée.
 
-— Toujours, dit Nino, avec une fierté tranquille. Les cigognes
+— Toujours, dit Nino, en redressant les épaules. Les cigognes
 n'aiment pas trop le bruit d'un groupe.
 
 — Il faudra se lever avant le jour, prévint Gaspard, un demi-sourire

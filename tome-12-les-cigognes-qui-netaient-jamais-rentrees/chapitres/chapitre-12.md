@@ -372,13 +372,13 @@ mon âge.
 — Assez vieux pour savoir reconnaître un compliment, dit Gaspard,
 sans se démonter. Prenez-le comme il vient.
 
-Un raffut de brindilles éparpillées et d'exclamations satisfaites
-précéda, pour la dernière fois du séjour, l'arrivée d'Ambroise sur le
-chemin, un appareil sous le bras et de la sciure fraîche encore
-accrochée à ses manches.
+Ambroise déboula sur le chemin pour la dernière fois du séjour, de la
+sciure fraîche encore accrochée à ses manches, une petite tablette
+serrée si fort contre lui qu'on aurait cru qu'elle risquait de
+s'échapper toute seule.
 
-— J'ai les premières images ! s'exclama-t-il, en brandissant une
-petite tablette. Regardez !
+— J'ai les premières images ! s'exclama-t-il, en la brandissant.
+Regardez !
 
 Ils se penchèrent tous sur l'écran, où défilaient des images
 tremblantes mais nettes : une dizaine de cigognes installées sur
@@ -503,11 +503,11 @@ certitude tranquille dans sa voix.
 — Un peu, admit Souly. J'ai parlé devant tout un village sans compter
 jusqu'à dix avant. C'est déjà quelque chose.
 
-— Jusqu'à trois, corrigea Sofia, avec un sourire. Tu comptes jusqu'à
+— Jusqu'à trois, corrigea Sofia, en souriant. Tu comptes jusqu'à
 trois, pas dix.
 
 — Cette fois, je n'ai même pas eu besoin de compter du tout, dit
-Souly, avec une fierté tranquille. Enfin, presque pas.
+Souly, très fier de lui. Enfin, presque pas.
 
 — Presque, c'est déjà un début, dit Sofia, en lui volant sa propre
 phrase.

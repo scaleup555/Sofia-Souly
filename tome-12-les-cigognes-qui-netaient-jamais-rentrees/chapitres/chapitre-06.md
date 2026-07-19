@@ -41,10 +41,9 @@ avant même le petit-déjeuner.
 — Une chaussette égarée, ce n'est pas vraiment une preuve
 scientifique, remarqua Souly, sans lever les yeux de sa page.
 
-— C'est une victoire quand même, insista Sofia.
-
-— Tu notes vraiment tout, dans ce carnet ? demanda-t-elle, en se
-penchant par-dessus l'épaule de son frère.
+— C'est une victoire quand même, insista Sofia, en se penchant
+par-dessus l'épaule de son frère. Tu notes vraiment tout, dans ce
+carnet ?
 
 — Presque tout, admit Souly, en couvrant instinctivement la page
 d'une main. Sauf les choses embarrassantes.
@@ -156,7 +155,7 @@ Vous êtes allés fouiller les archives de la mairie tout seul ?
 lui ai réparé sa toiture gratuitement, l'hiver où il a eu des
 jumeaux, dit Gaspard, avec un geste évasif de la main. Dans un
 village comme celui-ci, tout le monde doit quelque chose à quelqu'un.
-Trente ans de toits, ça crée des dettes, dans les deux sens. Et je me
+Plus de trente ans de toits, ça crée des dettes, dans les deux sens. Et je me
 souviens encore exactement du jour où j'ai remarqué le silence,
 ajouta-t-il, en tapotant sa tempe. La mémoire, parfois, vaut bien un
 carnet.
@@ -228,7 +227,7 @@ Souly, amusé.
 — Les fontaines n'ont pas de mémoire, protesta Nino, en retrouvant
 son sérieux avec un peu de peine. C'est juste de la malchance.
 
-— Trente ans de toits et deux chutes de fontaine, résuma Sofia. Vous
+— Plus de trente ans de toits et deux chutes de fontaine, résuma Sofia. Vous
 avez une vie mouvementée, pour quelqu'un qui passe son temps à
 regarder le ciel.
 

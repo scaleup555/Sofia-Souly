@@ -130,8 +130,8 @@ cigognes se poser sur leurs nids.
 menait.
 
 — Cette année, il se pourrait qu'il n'y ait presque personne à fêter,
-dit Mamie Rose, plus grave. Ma cousine Solène dit que les cigognes ne
-sont pas revenues. Ou très peu.
+dit Mamie Rose, plus grave. La cousine de votre maman, Solène, dit
+que les cigognes ne sont pas revenues. Ou très peu.
 
 — Elles ont eu un empêchement ? demanda Sofia.
 

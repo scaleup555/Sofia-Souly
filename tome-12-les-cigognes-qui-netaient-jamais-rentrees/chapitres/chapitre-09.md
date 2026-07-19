@@ -342,13 +342,14 @@ Gaspard posa une main sur l'épaule de son petit-fils, sans rien
 ajouter, le regard toujours rivé sur la silhouette qui tournoyait
 au-dessus d'eux.
 
-Plus loin sur la place, une silhouette familière apparut sur le
-sentier, chargée d'un équipement dégoulinant de rosée qui cliquetait
-à chaque pas.
+Un bruit de ferraille dégoulinante annonça, avant même qu'on le voie,
+qu'Ambroise n'était pas loin : il finit par surgir de la brume basse,
+un équipement humide de rosée serré contre lui, essoufflé d'avoir
+grimpé trop vite la petite côte qui menait à la place.
 
-— J'ai apporté le nichoir sept ! annonça Ambroise, en s'approchant
-prudemment, un peu essoufflé. Je me suis dit qu'une observation
-matinale méritait bien une nouvelle tentative.
+— J'ai apporté le nichoir sept ! annonça-t-il, en s'approchant
+prudemment. Je me suis dit qu'une observation matinale méritait bien
+une nouvelle tentative.
 
 — Fiable comment, cette fois ? demanda Sofia, méfiante mais amusée.
 

@@ -104,6 +104,9 @@ Solène, sans hésiter une seconde.
 Souly rosit légèrement, plus surpris par le compliment que par la
 question sur son âge.
 
+— Je ne suis pas toujours raisonnable non plus, protesta-t-il, un peu
+gêné de tant d'éloges.
+
 — C'est plus rapide, de conclure directement, remarqua Solène. Mais
 c'est aussi plus souvent faux.
 
@@ -125,9 +128,9 @@ se détendit d'un cran.
 villageois, en repliant son journal avec un geste presque
 cérémonieux.
 
-— On verra, confirma Souly, imperturbable.
+— On verra, confirma Souly, très calme.
 
-— On devrait aller voir ça de plus près, dit Souly.
+— On devrait aller voir ça de plus près, dit Sofia.
 
 Ils s'éloignèrent du café, laissant le petit attroupement à ses
 discussions, et remontèrent la rue pavée qui menait vers le clocher,
@@ -156,8 +159,8 @@ deux nids différents, avec deux femelles différentes, la même saison.
 — Attends, sérieux ? s'exclama Sofia, scandalisée. C'est un peu
 malhonnête, non ?
 
-— La nature n'a pas vraiment de morale, dit Solène, avec un sourire
-en coin. Ce n'est ni honnête ni malhonnête. C'est juste une stratégie
+— La nature n'a pas vraiment de morale, dit Solène, mi-amusée
+mi-sérieuse. Ce n'est ni honnête ni malhonnête. C'est juste une stratégie
 qui fonctionne, dans certaines conditions, pour avoir plus de chances
 que des petits survivent.
 
@@ -205,8 +208,8 @@ donne envie d'en savoir plus.
 
 — Ou juste envie de hurler, corrigea Souly.
 
-— Les deux marchent très bien ensemble, dit Sofia, avec un aplomb
-tranquille.
+— Les deux marchent très bien ensemble, dit Sofia, sans hésiter une
+seconde.
 
 Le clocher apparut bientôt au bout de la rue, sa silhouette
 familière désormais enveloppée d'un échafaudage métallique qui
@@ -244,7 +247,7 @@ Mais tout le village semble déjà avoir décidé, de toute façon.
 — Tout le village n'a pas vérifié les dates, corrigea Souly. Nous,
 si. Enfin, on va le faire.
 
-— Vous avez commencé quand, exactement ? demanda Souly.
+— Vous avez commencé quand, exactement ? demanda Sofia.
 
 — Il y a onze jours, précisa Constance. On a monté l'échafaudage le
 jour même du début du chantier. Je voulais que tout soit prêt avant
@@ -268,7 +271,7 @@ temps.
 — Merci, je crois, dit Souly, sans être tout à fait sûr d'avoir été
 complimenté.
 
-— Vous saviez, pour les cigognes, avant de commencer ? demanda Souly.
+— Vous saviez, pour les cigognes, avant de commencer ? demanda Sofia.
 
 — Bien sûr, dit Constance. Toute la région le sait. J'ai même
 retardé le début des travaux d'une semaine, pour être sûre de ne pas
@@ -307,8 +310,8 @@ donner, en réalité, mais je n'ai jamais eu le cœur de le lui dire.
 Constance essuya rapidement quelque chose au coin de son œil, avant
 de se reprendre.
 
-— Ça ne se donne pas vraiment, du pain, alors ? demanda Sofia, un peu
-inquiète d'avoir déjà commis cette erreur ailleurs.
+— Ça ne se donne pas vraiment, du pain, alors ? demanda Souly, un peu
+inquiet d'avoir déjà commis cette erreur ailleurs.
 
 — Pas en trop grande quantité, en tout cas, dit Solène, ravie qu'on
 lui pose enfin une question sur laquelle elle avait une vraie
@@ -371,8 +374,8 @@ Sofia, qui reconnut la phrase préférée de Mamie Rose.
 
 — Vous la connaissez, vous aussi ? s'étonna Sofia.
 
-— Je viens de l'inventer, avoua Constance, avec un petit rire. Mais
-elle sonnait juste, alors je l'ai dite comme si elle était de moi.
+— Je viens de l'inventer, avoua Constance, amusée. Mais elle sonnait
+juste, alors je l'ai dite comme si elle était de moi.
 
 — C'est du vol de phrase caractérisé, dit Sofia, faussement outrée.
 
