@@ -282,7 +282,7 @@ d'écrire.
 remarqua-t-il, impressionné.
 
 — C'est le compliment le plus scientifique qu'on m'ait fait cette
-semaine, dit Souly, sans lever les yeux pour autant.
+semaine, dit Souly, toujours penché sur sa page.
 
 Un bruit de pas prudents dans l'herbe mouillée annonça l'arrivée de
 Gaspard, enveloppé dans un vieux manteau, une lampe éteinte à la

@@ -1410,3 +1410,78 @@ contenu). 2 passages jury complets sur le manuscrit fini : 8,5/10 →
 obtenue par un tome de la série dès le deuxième passage jury. Tome
 complet à 37 557 mots. .docx livré via un nouveau `build_docx.py`
 calqué sur ceux des tomes 2 à 10.
+
+**Leçon méthodologique n°27 — une relecture stylistique dédiée
+« avec un(e) + nom », appliquée dès la conception du tome (avant même
+la rédaction), réduit mais n'élimine pas ce type de doublon ; elle
+reste indispensable en aval, chapitre par chapitre, group par group.**
+Au tome 12, la règle renforcée n°26 avait été inscrite explicitement
+dans l'outline ET rappelée dans les prompts des agents d'expansion —
+et malgré ça, les passages de vérification par groupes de 4 chapitres
+ont quand même trouvé plusieurs doublons croisés (« avec un sourire en
+coin » répété entre deux personnages à un chapitre d'écart, « avec un
+aplomb tranquille » réutilisé mot pour mot sur le même personnage à
+quatre chapitres d'intervalle, « avec une fierté tranquille » recopié
+identique dans le même chapitre puis à nouveau dans l'épilogue). Le
+jury final a confirmé qu'aucun de ces doublons n'était bloquant une
+fois corrigé, mais leur simple existence malgré une règle déjà
+explicite prouve que cette classe de tic ne peut pas être neutralisée
+en amont par une seule mention dans l'outline : il faut systématiquement
+un grep de contrôle post-écriture sur l'ensemble du livre (pas
+seulement par groupe de chapitres, qui rate les doublons inter-groupes),
+en complément — pas en remplacement — de la vigilance à l'écriture.
+
+**Leçon méthodologique n°28 — une scène d'aube littérale (lever de
+soleil décrit dans le texte) peut entrer en contradiction avec un
+calendrier narratif qui prévoit que le « jour » suivant ne commence
+qu'après une coupure de sommeil des personnages.** Au tome 12, le
+chapitre 9 (veille nocturne d'observation) se terminait sur un vrai
+lever de soleil décrit en détail, immédiatement suivi d'une réplique
+« Un jour avant la fête... Demain, tout le village saura » — alors que
+selon le calendrier de l'outline, cette aube appartient encore au
+« Jour 7 », le « Jour 8 » (jour de la fête) ne commençant officiellement
+qu'au chapitre suivant. Le jury a relevé la contradiction apparente : un
+lecteur littéral peut légitimement se demander pourquoi le lever du
+soleil montré à l'écran n'est pas déjà celui du jour de la fête.
+Correction appliquée : ajout d'une réplique explicite d'un adulte («
+On rentre tous dormir quelques heures. La vraie journée de la fête n'a
+même pas encore commencé ») qui ancre textuellement la convention
+« le jour ne bascule qu'après le sommeil des personnages », plutôt que
+de laisser cette convention implicite. **Règle ajoutée : toute scène
+qui se termine sur une aube ou un coucher de soleil décrit littéralement,
+alors que le calendrier narratif prévoit que le jour-histoire ne change
+qu'au chapitre suivant, doit contenir une phrase d'ancrage explicite
+(un personnage qui dit qu'on rentre dormir, que la vraie journée n'a
+pas commencé, etc.) — ne jamais compter sur le lecteur pour deviner
+la convention de comptage des jours.**
+
+**Leçon méthodologique n°29 — un agent d'expansion parallèle qui
+échoue en cours de tâche (limite de session API) laisse un travail
+partiel mais cohérent, récupérable manuellement sans tout
+redispatcher.** Au tome 12, les trois agents d'expansion (groupes de
+chapitres 1-4, 5-8, 9-12) ont tous échoué avant la fin pour une raison
+d'infrastructure identique (limite de session API atteinte), mais
+seuls deux chapitres sur douze (un par agent défaillant, chapitres 4
+et 8) sont restés significativement sous la cible de mots (environ
+1 400-2 500 mots au lieu de ~3 000). Plutôt que de relancer des agents
+depuis zéro, la complétion manuelle ciblée de ces deux chapitres
+(insertions de dialogue supplémentaires respectant la chronologie déjà
+établie par le reste du chapitre) s'est avérée plus rapide et plus
+sûre qu'un nouveau dispatch complet. **Règle ajoutée : en cas d'échec
+d'infrastructure d'un agent d'expansion à mi-tâche, vérifier d'abord
+l'état réel du fichier sur disque (le travail déjà écrit persiste
+souvent malgré l'échec du processus) avant de redispatcher — une
+complétion manuelle ciblée du reliquat est souvent suffisante.**
+
+**Bilan chiffré (tome 12) :** rédaction des 12 chapitres en une seule
+passe (~11 550 mots), expansion parallèle par 3 agents ayant tous
+échoué à mi-tâche (limite de session API) mais laissé un travail
+substantiel et récupérable, complétion manuelle des deux chapitres
+restés incomplets, puis renforcement manuel ciblé jusqu'à ~37 300 mots
+de marge de sécurité. Vérification structurelle en trois passages
+parallèles (8 bugs de répliques consécutives trouvés et corrigés, 1
+tic banni « imperturbable » ×2, 1 doublon exact « avec un(e) + nom »,
+1 erreur de généalogie, 3 occurrences de « trente ans » non vagues
+corrigées). 2 passages jury complets sur le manuscrit fini : 8,4/10 →
+**8,8/10, seuil d'acceptation franchi**. Tome complet à 37 425 mots.
+.docx livré via un nouveau `build_docx.py` calqué sur celui du tome 11.

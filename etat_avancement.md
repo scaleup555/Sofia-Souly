@@ -729,3 +729,74 @@ dans le récit)).
   terminés** ; tome 11 complet à 37 557 mots, livré à 9,0/10 — la
   meilleure note jamais obtenue par un tome de la série dès le
   deuxième passage jury.
+
+### Session 18 (tome 12, écriture complète) — 2026-07-19
+- Même consigne explicite que les tomes 10 et 11 : « tome suivant,
+  mêmes exigences » — qualité très soignée, plancher ferme de 36 000
+  mots (max 40 000), dialogues privilégiés, plusieurs passages très
+  drôles, scènes embarrassantes-attendrissantes réparties sur
+  plusieurs personnages.
+- Thème : migration des cigognes blanches (ornithologie), premier
+  tome de la série sur ce thème. Deux routes migratoires évitant la
+  Méditerranée (détroit de Gibraltar à l'ouest, Bosphore à l'est) car
+  le vol plané thermique ne fonctionne pas au-dessus de l'eau,
+  fidélité au NID (pas nécessairement au même partenaire — certaines
+  cigognes pratiquent la polygamie occasionnelle), suivi individuel
+  par bagues numérotées, populations devenues sédentaires à cause des
+  hivers plus doux, démystification du mythe des cigognes portant les
+  bébés. Décor : Nidange, le Clocher Saint-Martin dit « le Clocher aux
+  Cigognes », la Fête du Retour menacée. Nouveaux personnages ajoutés
+  à `bible/personnages.md` : Solène Brassard (ornithologue, cousine de
+  Camille — lien familial inédit —, intarissable et volubile dès
+  qu'on la lance sur les cigognes, doit être interrompue gentiment),
+  Nino Faucher (10 ans, identifie chaque cigogne par sa bague, confond
+  souvent les prénoms de Sofia et Souly), Gaspard Riolan (grand-père
+  de Nino, ancien couvreur-ramoneur, dépositaire d'une règle orale sur
+  les vieux fils du clocher entre mars et avril), Ambroise Cadoret
+  (ancien facteur devenu inventeur amateur, construit des nichoirs de
+  plus en plus farfelus qui s'effondrent systématiquement), Fabien
+  Delorme (technicien du réseau électrique, négligent-pas-malveillant)
+  et Constance Vallier (couvreure injustement soupçonnée).
+- Double fair-play : élimination du chantier de rénovation du clocher
+  par chronologie (écart constant de onze jours), câbles électriques
+  installés sans protection visuelle comme vraie cause (écart constant
+  d'un jour avec le déclin — la preuve numérique clé), règle familiale
+  orale sur les vieux fils du clocher validée scientifiquement (elle
+  décrit exactement le couloir de vol et la période de retour des
+  cigognes), résolution collaborative par balises visuelles orange sur
+  les câbles plutôt que simple retrait de l'installation.
+- Rédaction complète des 12 chapitres en une seule passe (~11 550
+  mots), puis expansion en parallèle via 3 agents dédiés (ch1-4,
+  ch5-8, ch9-12). **Les trois agents ont échoué à mi-tâche pour une
+  raison d'infrastructure identique (limite de session API)**, mais
+  le travail déjà écrit sur disque est resté cohérent et récupérable ;
+  seuls deux chapitres sur douze (un par agent défaillant) sont restés
+  significativement sous la cible de mots et ont été complétés
+  manuellement par insertions de dialogue supplémentaires, sans
+  redispatcher de nouveaux agents (cf. leçon n°29). Renforcement
+  manuel ciblé du volume ensuite pour construire une marge de sécurité
+  d'environ 1 300 mots au-dessus du plancher strict avant la
+  vérification structurelle.
+- Vérification structurelle dédiée en trois passages parallèles par
+  groupe de chapitres : 8 bugs de « répliques consécutives du même
+  personnage » trouvés et corrigés, 1 tic banni (« imperturbable »
+  ×2), 1 doublon exact « avec un(e) + nom » (« avec un sourire en
+  coin » réutilisé mot pour mot un chapitre plus tard), 1 erreur de
+  généalogie (une cousine de la maman des enfants présentée à tort
+  comme la cousine de leur grand-mère), 3 occurrences de « trente ans »
+  non vagues corrigées en « plus de trente ans » pour le personnage
+  du grand-père couvreur, et une scène ajoutée pendant le renforcement
+  manuel révélant publiquement un trait secret d'un personnage fixe
+  (peur du noir de Souly) rendue privée pour respecter la bible.
+- 2 passages jury complets sur le manuscrit fini : 8,4/10 (une
+  ambiguïté de chronologie entre une scène d'aube littérale et le
+  calendrier narratif du livre, trois hedges narratoriaux hors
+  dialogue, deux doublons de gabarit stylistique supplémentaires,
+  un dépassement du plafond « genre de » dans un chapitre, une
+  répartition des scènes attendrissantes-gênantes trop concentrée
+  sur un seul personnage) → **8,8/10, seuil d'acceptation franchi**
+  après correction ciblée de tous les points, vérifiée sans régression
+  par un passage de contrôle dédié avant le second passage jury.
+- Livraison du fichier `.docx` final via un nouveau `build_docx.py`
+  (calqué sur celui du tome 11). **Tomes 1 à 11 toujours entièrement
+  terminés** ; tome 12 complet à 37 425 mots, livré à 8,8/10.
