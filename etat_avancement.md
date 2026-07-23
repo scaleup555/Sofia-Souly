@@ -800,3 +800,70 @@ dans le récit)).
 - Livraison du fichier `.docx` final via un nouveau `build_docx.py`
   (calqué sur celui du tome 11). **Tomes 1 à 11 toujours entièrement
   terminés** ; tome 12 complet à 37 425 mots, livré à 8,8/10.
+
+### Session 19 (tome 13, écriture complète) — 2026-07-23
+- Même consigne implicite (« tome suivant »), mêmes exigences que les
+  tomes 10 à 12 : qualité très soignée, plancher ferme de 36 000 mots
+  (max 40 000), dialogues privilégiés, plusieurs passages très drôles,
+  scènes embarrassantes-attendrissantes réparties sur plusieurs
+  personnages.
+- Thème : nidification et désorientation lumineuse des tortues marines
+  (chélonologie), premier tome de la série sur ce thème. Nidification
+  de tortues caouannes de plus en plus au nord due au réchauffement des
+  eaux (fait réel), détermination du sexe par la température du sable,
+  éclosion nocturne groupée, mécanisme de phototaxie (les nouveau-nées
+  rampent vers l'horizon le plus lumineux — normalement la mer, sauf
+  lumière artificielle plus forte côté terre), fidélité de plage natale
+  par mémoire magnétique, démystification du mythe des « larmes de
+  tristesse » des tortues (en réalité évacuation de sel). Décor :
+  Portelune, le Vieux Phare, la Nuit de l'Éclosion menacée. Nouveaux
+  personnages ajoutés à `bible/personnages.md` : Naïma Berthelot
+  (biologiste marine, **ancienne élève de Mamie Rose** — nouveau lien
+  familial inédit dans la série), Alma Vidal (9 ans, planificatrice
+  obsessionnelle avec Plan A/B/C, panique brièvement puis se
+  reprend), Madeleine Aubanel (ancienne gardienne de phare, règle
+  orale sur les lampes tournées vers les dunes), Odette Rocher
+  (inventrice amateur excentrique, balises lumineuses qui échouent
+  systématiquement), Maxime Ravier (commerçant négligent-pas-
+  malveillant) et Roxane Guibert (restauratrice injustement
+  soupçonnée).
+- Double fair-play : élimination du snack-bar de Roxane par
+  chronologie (écart constant de onze jours), guirlande lumineuse
+  décorative de Maxime comme vraie cause (écart constant d'un jour
+  avec l'incident déclencheur — la preuve numérique clé), règle
+  familiale orale de Madeleine validée scientifiquement (elle décrit
+  exactement le phénomène de désorientation lumineuse), résolution
+  collaborative par remplacement de l'éclairage blanc par un éclairage
+  ambré plutôt que simple extinction.
+- Rédaction complète des 12 chapitres en une seule passe (~13 500
+  mots — la plus longue première passe de la série à ce jour), puis
+  expansion en parallèle via 3 agents dédiés (ch1-4, ch5-8, ch9-12),
+  **menés à terme sans échec d'infrastructure cette fois** (contraste
+  avec le tome 12), suivie d'un renforcement manuel ciblé du volume
+  jusqu'à une marge de sécurité d'environ 1 250 mots au-dessus du
+  plancher strict.
+- Vérification structurelle dédiée en trois passages parallèles par
+  groupe de chapitres : 9 bugs de « répliques consécutives du même
+  personnage » trouvés et corrigés, une incohérence de généalogie
+  provenant de la bible elle-même (l'entrée de Madeleine se
+  contredisait entre « grand-mère » et « arrière-grand-père »,
+  propagée indépendamment dans deux chapitres par deux agents
+  d'expansion différents — nouvelle leçon n°30), une contradiction
+  d'âge introduite par une insertion tampon manuelle (comparaison
+  anodine « Sept ans, comme Alma » contredisant l'âge établi de neuf
+  ans — nouvelle leçon n°31), plusieurs doublons stylistiques mineurs
+  corrigés (gabarits d'arrivée d'Odette, formulations « avec un(e) +
+  nom »).
+- 1 seul passage jury complet nécessaire sur le manuscrit fini :
+  **8,9/10 dès le premier passage**, le meilleur résultat jamais
+  obtenu au premier passage jury dans l'histoire de la série — verdict
+  « à corriger, polish uniquement », sans détecter aucun problème
+  structurel de fond. Corrections mineures de polish appliquées
+  directement (répétitions « la voix un peu + adjectif », « sans
+  lever les yeux », une phrase dupliquée mot pour mot) sans nécessiter
+  de second passage jury complet.
+- Livraison du fichier `.docx` final via un nouveau `build_docx.py`
+  (calqué sur celui du tome 12). **Tomes 1 à 12 toujours entièrement
+  terminés** ; tome 13 complet à 37 280 mots, livré à 8,9/10 — validation
+  directe que l'application cumulative des leçons n°20 à 29 réduit le
+  nombre de rounds de correction nécessaires.

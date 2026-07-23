@@ -1485,3 +1485,62 @@ tic banni « imperturbable » ×2, 1 doublon exact « avec un(e) + nom »,
 corrigées). 2 passages jury complets sur le manuscrit fini : 8,4/10 →
 **8,8/10, seuil d'acceptation franchi**. Tome complet à 37 425 mots.
 .docx livré via un nouveau `build_docx.py` calqué sur celui du tome 11.
+
+**Leçon méthodologique n°30 — une incohérence de lien de parenté dans
+la bible elle-même (pas seulement dans un chapitre) se propage
+silencieusement dans plusieurs chapitres différents, écrits par des
+agents différents, sans qu'aucun d'eux ne la détecte individuellement.**
+Au tome 13, l'entrée bible de Madeleine Aubanel contenait elle-même
+une incohérence : un premier bullet point disait que sa règle venait
+de sa « grand-mère », un second bullet point disait « arrière-grand-
+père » (génération ET genre différents). Résultat : le chapitre 3
+(écrit en premier jet) utilisait « grand-mère », mais les agents
+d'expansion des chapitres 7 et 9 — travaillant chacun sur des groupes
+de chapitres différents, sans se voir l'un l'autre — ont chacun
+indépendamment suivi le second bullet erroné et écrit « arrière-
+grand-mère » puis « arrière-grand-père ». Aucun des deux agents
+d'expansion n'a pu détecter l'erreur par lui-même car chacun ne voyait
+que sa propre insertion, cohérente avec la bible (fautive) qu'il
+lisait. **Règle ajoutée : avant de rédiger le premier jet, relire
+l'entrée bible de chaque nouveau personnage une deuxième fois,
+spécifiquement pour chercher une auto-contradiction interne (même
+fait décrit différemment dans deux bullet points du même
+personnage) — ce type d'erreur ne sera jamais détecté par les agents
+d'expansion, qui font confiance à la bible par construction.**
+
+**Leçon méthodologique n°31 — une contradiction d'âge introduite
+pendant une insertion tampon manuelle (pas une expansion d'agent) peut
+passer inaperçue même en relecture rapide, car elle prend la forme
+d'une comparaison anodine plutôt que d'une affirmation directe.** Au
+tome 13, une insertion manuelle de renforcement de mots a ajouté la
+réplique « Sept ans, comme Alma », alors qu'Alma est explicitement
+établie à neuf ans (et a commencé à six ans) dans un chapitre
+antérieur. La contradiction n'a été détectée que par un agent de
+vérification dédié, pas par une relecture rapide au moment de
+l'insertion. **Règle ajoutée : toute insertion tampon qui mentionne
+l'âge, même en passant ou par comparaison avec un autre personnage,
+doit être vérifiée contre la bible avant d'être validée — ne pas
+supposer qu'une comparaison d'âge anodine est sans risque simplement
+parce que ce n'est pas une affirmation d'âge directe.**
+
+**Bilan chiffré (tome 13) :** rédaction des 12 chapitres en une seule
+passe (~13 500 mots, la plus longue première passe de la série à ce
+jour), expansion parallèle par 3 agents menés à terme sans échec
+d'infrastructure cette fois, renforcement manuel ciblé jusqu'à
+~37 250 mots de marge de sécurité. Vérification structurelle en trois
+passages parallèles (9 bugs de répliques consécutives trouvés et
+corrigés, 1 incohérence de généalogie dans la bible elle-même propagée
+sur 2 chapitres, 1 contradiction d'âge introduite par une insertion
+tampon, plusieurs doublons stylistiques mineurs). 2 passages jury
+complets sur le manuscrit fini : 8,4/10 de conception initiale
+anticipée évitée grâce à l'application préventive des leçons n°26-29 →
+premier passage jury direct à **8,9/10**, corrections mineures de
+polish appliquées sans nouveau passage jury complet (répétitions
+« la voix un peu + adjectif », « sans lever les yeux », une phrase
+dupliquée mot pour mot). Tome complet à 37 280 mots. .docx livré via
+un nouveau `build_docx.py` calqué sur celui du tome 12. Meilleur
+score jury obtenu dès le premier passage complet dans l'histoire de
+la série — validation directe que l'application cumulative des
+leçons n°20-29 (marge de mots, grep de contrôle global post-écriture,
+ancrage de calendrier explicite, vigilance bible) réduit
+significativement le nombre de rounds de correction nécessaires.
