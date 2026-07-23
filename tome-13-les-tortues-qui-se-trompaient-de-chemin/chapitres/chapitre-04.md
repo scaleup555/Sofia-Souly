@@ -240,7 +240,7 @@ l'argent. Cette plage en fait partie.
 
 — Vos concurrents n'ont pas fait le même choix ? demanda Souly.
 
-— Je n'ai pas de concurrents, dit Roxane, avec un petit rire. Je
+— Je n'ai pas de concurrents, dit Roxane, amusée malgré elle. Je
 suis le seul commerce du soir sur tout le front de mer. Ce qui
 explique aussi pourquoi tout le monde regarde vers moi en premier,
 dès qu'un problème apparaît.
