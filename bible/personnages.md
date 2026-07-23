@@ -475,6 +475,101 @@ Tout nouvel épisode doit relire ce fichier avant d'écrire une ligne.
 - Personnage-ressource pour tout tome futur à thème bâtiment/
   patrimoine villageois.
 
+### Naïma Berthelot (introduite au tome 13)
+- Biologiste marine spécialisée dans les tortues marines, la
+  trentaine. **Ancienne élève de Mamie Rose** — lien familial inédit
+  dans la série (à distinguer de marraine de Camille, amie de longue
+  date de Mamie Rose, cousine de Camille [utilisé deux fois : Karim
+  tome 2, Solène tome 12], tante paternelle, amie d'enfance du père) :
+  Mamie Rose l'a eue en classe il y a plus de vingt ans, et Naïma cite
+  encore de mémoire une phrase que sa maîtresse lui répétait, ce qui
+  attendrit systématiquement Mamie Rose sans qu'elle l'admette
+  ouvertement.
+- Rigoureuse et passionnée, mais désarçonnée dès qu'on la complimente
+  publiquement sur son travail plutôt que sur les tortues elles-mêmes —
+  rougit et perd ses mots, à la manière de Colette (tome 11), mais
+  déclenchée par la reconnaissance professionnelle plutôt que par la
+  conversation personnelle en général : une nuance distincte.
+- Personnage-ressource pour tout tome futur à thème marin/plages/
+  conservation animale.
+
+### Alma Vidal (introduite au tome 13)
+- 9 ans, vit à Portelune. Bénévole depuis toute petite pour la
+  surveillance des nids de tortues, tient un registre où elle
+  numérote et localise chaque nid avec des fanions de couleur — à
+  varier des tempéraments déjà utilisés pour les autres
+  enfants-ressources (Max sûr de lui, Milo grimpeur terre-à-terre,
+  Yanis méfiant et loyal, Iris théâtrale et enthousiaste, Zoé franche
+  et bagarreuse, Bastien calme et très observateur, Noé sceptique et
+  pince-sans-rire, Mila artiste distraite, Enzo distrait par le
+  fonctionnel, Nino obsédé par l'identité individuelle). Alma, elle,
+  est une planificatrice obsessionnelle : elle a un plan pour chaque
+  éventualité (une liste de « si X arrive, on fait Y ») mais panique
+  brièvement dès que la réalité dévie de son plan, avant de se
+  reprendre.
+- Creuse dans le sable avec un sérieux absolu, capable de rester
+  immobile des heures à surveiller un nid — inquiète régulièrement les
+  touristes qui la croisent seule sur la plage à l'aube.
+- Personnage-ressource pour tout tome futur à thème plage/conservation
+  animale menée par des enfants.
+
+### Madeleine Aubanel (introduite au tome 13)
+- La soixantaine-dizaine (âge volontairement vague, jamais précisé),
+  ancienne gardienne du Vieux Phare de Portelune avant son
+  automatisation. Dépositaire d'une règle familiale orale transmise
+  depuis sa propre grand-mère (« jamais une lampe tournée vers les
+  dunes, une fois les œufs pondus ») longtemps prise pour une
+  superstition de gardienne de phare, qui se révèle décrire exactement
+  le phénomène qui guide les tortues naissantes vers la mer.
+- Contrairement à Henriette (tome 10, carnet de comptage chiffré),
+  Auguste (tome 11, règle orale sur la pleine lune) et Gaspard (tome
+  12, règle orale liée à un souvenir professionnel de couvreur),
+  Madeleine associe sa règle à une routine physique très précise
+  qu'elle a maintenue toute sa carrière : elle réglait elle-même
+  l'angle du faisceau du phare pour qu'il ne balaie jamais les dunes,
+  sans jamais comprendre scientifiquement pourquoi son propre
+  arrière-grand-père le lui avait appris ainsi.
+- Personnage-ressource pour tout tome futur à thème savoir
+  traditionnel côtier/phares.
+
+### Odette Rocher (introduite au tome 13)
+- La soixantaine, ancienne tenancière de la boutique de matériel de
+  pêche du village devenue inventrice amateur excentrique à la
+  retraite, construit des balises lumineuses et des chemins de
+  reflets censés guider les tortues naissantes vers la mer, qui
+  échouent systématiquement de façon comique (rôle comique, distinct
+  de Gustave Pinatel [tome 8], Norbert Chabrol [tome 9], Barnabé
+  Roquefeuil [tome 10], Octave Bouscaren [tome 11] et Ambroise Cadoret
+  [tome 12] : Odette ne cherche ni à observer, ni à provoquer, ni à
+  capturer en images, ni à attirer un animal chez elle — elle veut
+  activement guider un phénomène naturel en cours, ce qui se termine
+  systématiquement par des balises qui s'éteignent, tombent, ou
+  attirent les mouettes plutôt que les tortues).
+- Personnage-ressource pour tout tome futur à thème comique villageois/
+  bricolage.
+
+### Maxime Ravier (introduit au tome 13)
+- Jeune commerçant, tient la boutique de souvenirs récemment rénovée
+  sur le front de mer. A fait installer une guirlande lumineuse
+  décorative le long du chemin d'accès à la plage pour attirer les
+  touristes du soir, sans savoir qu'elle éblouirait les tortues
+  naissantes au point de les détourner de la mer — erreur de
+  négligence, pas de malveillance (dans l'esprit d'Antoine Ferrieux
+  [tome 8], Thibault Norrain [tome 9], Régis Sabatier [tome 10],
+  Vincent Aubry [tome 11] et Fabien Delorme [tome 12]).
+- Personnage-ressource pour tout tome futur à thème commerce local/
+  faune.
+
+### Roxane Guibert (introduite au tome 13)
+- Restauratrice, a ouvert récemment un snack-bar de plage, injustement
+  soupçonnée d'avoir fait fuir les tortues avec le bruit et l'agitation
+  de sa terrasse en soirée — accepte volontiers d'ajuster ses horaires
+  d'éclairage extérieur par précaution, même une fois innocentée (dans
+  l'esprit de Julien Mercier [tome 10], Laurine Ferretti [tome 11] et
+  Constance Vallier [tome 12]).
+- Personnage-ressource pour tout tome futur à thème restauration/
+  tourisme côtier.
+
 ## Règle d'or de continuité
 - Les faits établis dans un tome (âges, liens de parenté, peurs, habitudes) ne
   doivent JAMAIS être contredits dans un tome suivant.
