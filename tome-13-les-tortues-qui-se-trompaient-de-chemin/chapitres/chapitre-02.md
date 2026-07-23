@@ -55,6 +55,8 @@ avait ouvert sans même s'en rendre compte.
 — On y va, confirma Sofia, en clopinant vers la porte, sa chaussette
 manquante toujours introuvable.
 
+— Toujours aussi pressée, remarqua Souly, en la suivant.
+
 — Vous ne venez pas, Mamie Rose ? demanda Sofia, sur le pas de la
 porte.
 
@@ -284,12 +286,10 @@ heures.
 — Ce n'est pas ta faute, dit Sofia, aussitôt.
 
 — J'avais un plan, insista Alma, presque paniquée. Un plan aurait dû
-fonctionner.
-
-— J'avais prévu la pluie, prévu la marée haute, prévu même une panne
-de lampe de poche, énuméra-t-elle, de plus en plus vite, en tournant
-les pages si fort que deux d'entre elles se déchirèrent net. J'avais
-tout prévu sauf ma propre mère.
+fonctionner. J'avais prévu la pluie, prévu la marée haute, prévu même
+une panne de lampe de poche, énuméra-t-elle, de plus en plus vite, en
+tournant les pages si fort que deux d'entre elles se déchirèrent net.
+J'avais tout prévu sauf ma propre mère.
 
 Le classeur lui glissa des mains et s'ouvrit à plat sur le sable,
 éparpillant une demi-douzaine de fiches cartonnées.
@@ -420,7 +420,7 @@ village, entre les dunes.
 — On devrait suivre ce chemin nous-mêmes, proposa Sofia. Voir ce
 qu'une tortue aurait vu, cette nuit-là.
 
-— De nuit ? demanda Souly, une pointe d'hésitation dans la voix.
+— De nuit ? demanda Souly, en déglutissant discrètement.
 
 Sofia lui donna un petit coup de coude discret, sans un mot.
 

@@ -118,7 +118,8 @@ payait pour vérifier, chaque soir, que le faisceau tournait bien.
 mécanisme, et c'est le silence, quand il s'arrête, qui devient
 inquiétant.
 
-— Vous avez vu beaucoup de tortues, en trente ans ? demanda Sofia.
+— Vous avez vu beaucoup de tortues, en plus de trente ans ? demanda
+Sofia.
 
 — Plus que je ne saurais compter, dit Madeleine. Et le plus étrange,
 c'est que ce sont presque toujours les mêmes qui reviennent, année
@@ -459,7 +460,7 @@ vérifient toujours tout, deux fois plutôt qu'une.
 ajouta Souly, en notant la piste dans la marge. Un appel, un
 calendrier, et voilà.
 
-— Et la guirlande de la mairie ? demanda Souly. Vous savez quand elle
+— Et la guirlande de la mairie ? demanda Sofia. Vous savez quand elle
 a été installée, exactement ?
 
 — Il faudrait demander à Maxime, dit Madeleine. C'est lui qui l'a
@@ -469,8 +470,7 @@ fait poser, devant sa boutique.
 
 — Prudemment, conseilla Madeleine. Maxime est quelqu'un de bien. S'il
 a fait quelque chose, ce n'était sûrement pas pour nuire à quiconque.
-
-— Il s'inquiète facilement, ajouta Madeleine. Ne le brusquez pas.
+Il s'inquiète facilement, aussi. Ne le brusquez pas.
 
 — On sera doux comme des agneaux, promit Sofia. On n'accuse jamais
 personne sans preuve. C'est la règle.

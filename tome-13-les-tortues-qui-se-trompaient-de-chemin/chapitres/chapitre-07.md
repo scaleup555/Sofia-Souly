@@ -178,7 +178,7 @@ depuis le début, sans même le savoir.
 
 — Ça vous est déjà arrivé, à vous, ce genre de chose ? demanda Sofia.
 
-— Mon arrière-grand-mère savait ça, dit Madeleine, sans jamais savoir
+— Mon grand-mère savait ça, dit Madeleine, sans jamais savoir
 pourquoi. Et moi, je l'ai répété toute ma vie sans y croire vraiment.
 
 — Vous y croyiez un peu, quand même, remarqua Alma, presque timide.
@@ -187,7 +187,7 @@ Vous n'avez jamais tourné le faisceau vers les dunes, en trente ans.
 — C'est vrai, admit Madeleine, plus de trente ans, en fait. Je l'ai
 fait par habitude. Mais je l'ai toujours fait.
 
-— Comment elle vous l'a apprise, votre arrière-grand-mère ? demanda
+— Comment elle vous l'a apprise, votre grand-mère ? demanda
 Alma.
 
 — Un soir, sur cette même plage, à peu près à ton âge, dit Madeleine,
@@ -264,10 +264,10 @@ carnet, avant de le refermer d'un geste presque cérémonieux.
 
 — Il y a toujours une prochaine chose, admit Souly.
 
-Un raffut de piquets qui s'entrechoquent annonça, depuis le jardin,
-l'arrivée d'Odette, poussant une nouvelle charrette chargée de
-matériaux, une lampe de poche coincée entre les dents et un rouleau
-de câble ambré enroulé autour du cou comme une écharpe.
+Odette surgit depuis le jardin sans prévenir, une lampe de poche
+coincée entre les dents et un rouleau de câble ambré enroulé autour
+du cou comme une écharpe, poussant devant elle une nouvelle
+charrette dont les piquets s'entrechoquaient à chaque pavé.
 
 — J'ai le chemin numéro cinq ! s'exclama-t-elle, la voix étouffée
 par la lampe.

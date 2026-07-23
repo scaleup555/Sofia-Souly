@@ -527,8 +527,8 @@ Tout nouvel épisode doit relire ce fichier avant d'écrire une ligne.
   Madeleine associe sa règle à une routine physique très précise
   qu'elle a maintenue toute sa carrière : elle réglait elle-même
   l'angle du faisceau du phare pour qu'il ne balaie jamais les dunes,
-  sans jamais comprendre scientifiquement pourquoi son propre
-  arrière-grand-père le lui avait appris ainsi.
+  sans jamais comprendre scientifiquement pourquoi sa propre
+  grand-mère le lui avait appris ainsi.
 - Personnage-ressource pour tout tome futur à thème savoir
   traditionnel côtier/phares.
 

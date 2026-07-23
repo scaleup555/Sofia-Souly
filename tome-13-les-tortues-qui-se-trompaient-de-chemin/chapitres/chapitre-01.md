@@ -420,7 +420,10 @@ problème ? demanda Sofia, en posant le doigt dessus.
 y retournera ensemble, demain, pour que vous voyiez de vos propres
 yeux.
 
-— Chaque nid a son dossier, expliqua Naïma. La ponte, puis environ
+— Chaque nid a un dossier, comme ça ? demanda Souly, en désignant la
+carte.
+
+— Chaque nid a son dossier, confirma Naïma. La ponte, puis environ
 deux mois d'incubation, et l'éclosion, presque toujours la nuit,
 quand le sable est plus frais.
 

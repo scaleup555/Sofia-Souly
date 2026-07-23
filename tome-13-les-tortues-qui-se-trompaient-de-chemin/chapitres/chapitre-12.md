@@ -289,6 +289,9 @@ remarqua Alma. Un simple merci suffira.
 
 — Merci, dit Souly, sincèrement.
 
+— Ouvre-le, au moins, avant de me remercier pour de bon, insista
+Alma, un peu impatiente.
+
 — Regarde celle-là, dit Souly à Sofia, en tournant une page. Elle a
 même dessiné le renflement exact du grand nid, avec la date de
 l'éclosion notée dans la marge.
@@ -334,7 +337,7 @@ d'accuser une fois.
 — Trois fois, corrigea Alma, depuis un peu plus loin. Toujours mieux
 trois fois qu'une.
 
-Elle détacha ses jumelles infrarouges de son cou et les tendit, avec
+Naïma détacha ses jumelles infrarouges de son cou et les tendit, avec
 une hésitation visible, vers Souly.
 
 — Je voudrais que tu les gardes, dit-elle. Elles m'ont accompagnée sur
@@ -406,11 +409,12 @@ en un seul après-midi.
 sans personne pour la surveiller finit toujours par oublier ses
 propres règles.
 
-Une silhouette apparut sur le chemin pour la dernière fois du séjour,
-une petite tablette serrée contre elle comme un trophée fragile.
+— J'ai les premières images ! cria une voix essoufflée, avant même
+qu'Odette n'ait fini de dévaler le sentier, une petite tablette
+serrée contre elle comme un trophée fragile, pour la dernière fois
+du séjour.
 
-— J'ai les premières images ! s'exclama Odette, en la brandissant.
-Regardez !
+— Regardez ! insista-t-elle, en la brandissant, à bout de souffle.
 
 Ils se penchèrent tous sur l'écran, où défilaient des images
 tremblantes mais nettes : des dizaines de petites carapaces glissant

@@ -277,10 +277,11 @@ perdu vers la baie vitrée. On marchait jusqu'aux dunes sans un mot,
 et il me montrait où poser les pieds pour ne jamais écraser un nid
 sans le savoir. Je devais avoir sept ans, la première fois.
 
-— Sept ans, comme Alma, remarqua Sofia.
+— Presque l'âge qu'avait Alma, à ses débuts, remarqua Sofia.
 
-— Presque, dit Roxane, avec un sourire. Je crois que toutes les
-gardiennes de cette plage ont commencé à peu près au même âge.
+— Ça ne m'étonne pas, dit Roxane, avec un sourire. Je crois que
+toutes les gardiennes de cette plage ont commencé à peu près au même
+âge.
 
 — Ça change tout, ce que vous venez de dire, remarqua Sofia, touchée.
 
@@ -453,8 +454,10 @@ prévint Souly. Juste que ce n'est sûrement pas la cause principale.
 — Je m'en contente très volontiers, dit Roxane. C'est déjà bien mieux
 que ce matin.
 
+— On préfère toujours vérifier plutôt que juger, remarqua Sofia.
+
 — Merci d'être venus me parler directement, plutôt que de me juger
-depuis la rue, ajouta Roxane, avec sincérité.
+depuis la rue, ajouta Roxane, sincèrement soulagée.
 
 — C'est plus juste, dit Souly. Et plus utile, aussi. Les rumeurs ne
 mènent jamais nulle part. Les questions, si.

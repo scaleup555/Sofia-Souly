@@ -408,8 +408,8 @@ fois.
 — Vous avez déjà vu une éclosion complète, avant ? demanda Souly.
 
 — Deux fois, en plus de trente ans de service, dit Madeleine. La
-première, j'avais l'âge d'Alma. Mon arrière-grand-père m'avait
-réveillée en pleine nuit pour ça, sans un mot d'explication.
+première, j'avais l'âge d'Alma. Mon grand-père m'avait réveillée en
+pleine nuit pour ça, sans un mot d'explication.
 
 — Et vous n'étiez pas fâchée d'être réveillée ? demanda Sofia.
 
@@ -541,6 +541,7 @@ quelques heures. La vraie journée de la fête n'a même pas encore
 commencé, et elle sera longue.
 
 Ils redescendirent le sentier en silence, trop fatigués pour parler
-davantage, laissant le grand nid s'éclairer tout seul sous le premier
-vrai soleil du jour qui les attendait, quelques heures plus tard, une
-fois reposés.
+davantage, laissant le grand nid derrière eux dans la pénombre
+grise qui précède l'aube. Le vrai lever du soleil, celui de la
+journée de la fête, ne viendrait que plus tard, une fois qu'ils
+auraient tous dormi quelques heures.
