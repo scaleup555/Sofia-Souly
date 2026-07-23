@@ -204,7 +204,8 @@ erreur.
 — Vous saviez, pour la règle de Madeleine ? cria une voix, quelque
 part au milieu de la foule.
 
-— Pas avant cette semaine, avoua Maxime, la voix un peu tremblante.
+— Pas avant cette semaine, avoua Maxime, en s'efforçant de garder une
+voix posée.
 
 — On vous croit, dit une voix compatissante, quelque part dans la
 foule.
@@ -395,8 +396,8 @@ classeur, malgré les mains qui la bousculaient de tous les côtés.
 
 — Tu notes, maintenant ? s'étonna Sofia.
 
-— Surtout maintenant, dit Alma, sans lever les yeux de sa page.
-C'est le moment qui compte le plus.
+— Surtout maintenant, dit Alma, toute son attention rivée sur sa
+page. C'est le moment qui compte le plus.
 
 Maxime, debout un peu en retrait, regardait le spectacle sans un
 mot, une main sur la bouche. Roxane, à côté de lui, lui donna un

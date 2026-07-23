@@ -132,7 +132,7 @@ tasse de thé.
 — Elle fait toujours ça, glissa Sofia à Souly, tout bas. Elle rougit
 dès qu'on lui dit qu'elle est douée.
 
-— J'ai entendu, dit Naïma, sans lever les yeux, ce qui les fit tous
+— J'ai entendu, dit Naïma, du fond de la pièce, ce qui les fit tous
 rire.
 
 — Alors la règle ne parle pas des lampes en général, comprit Souly,

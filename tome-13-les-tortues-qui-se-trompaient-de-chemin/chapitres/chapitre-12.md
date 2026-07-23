@@ -504,8 +504,8 @@ vitre arrière, Sofia et Souly regardèrent Alma agiter le bras jusqu'à
 ce que la route tourne et que le phare disparaisse derrière les
 dunes, puis derrière les pins.
 
-— On reviendra vraiment, tu crois ? demanda Sofia, la voix un peu
-serrée.
+— On reviendra vraiment, tu crois ? demanda Sofia, en ravalant
+quelque chose qui ressemblait fort à un sanglot.
 
 — On revient toujours, d'une manière ou d'une autre, dit Souly, en
 posant une main sur les jumelles autour de son cou.

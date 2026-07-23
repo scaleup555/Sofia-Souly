@@ -136,9 +136,9 @@ nouée à la hampe.
 
 — Nid numéro sept, encore ? demanda Sofia, en s'approchant.
 
-— Toujours celui-là, confirma Alma, sans lever les yeux. C'est le
-premier qui a eu des ennuis, cette année. Je le surveille plus que
-les autres, par précaution.
+— Toujours celui-là, confirma Alma, le nez toujours plongé dans son
+classeur. C'est le premier qui a eu des ennuis, cette année. Je le
+surveille plus que les autres, par précaution.
 
 — On va justement essayer de comprendre pourquoi, dit Souly.
 
@@ -441,8 +441,8 @@ partie où j'annonce ça devant le village entier.
 
 — On sera là aussi, ce jour-là, promit Sofia.
 
-— Ça compte plus que vous ne le croyez, dit Maxime, la voix un peu
-enrouée.
+— Ça compte plus que vous ne le croyez, dit Maxime, en détournant
+un instant le regard.
 
 — Ça compte pour vrai, confirma Naïma, sans détour. Ce n'est pas rien,
 de le dire à voix haute au lieu de l'espérer en silence.

@@ -2233,9 +2233,9 @@ nouée à la hampe.
 
 — Nid numéro sept, encore ? demanda Sofia, en s'approchant.
 
-— Toujours celui-là, confirma Alma, sans lever les yeux. C'est le
-premier qui a eu des ennuis, cette année. Je le surveille plus que
-les autres, par précaution.
+— Toujours celui-là, confirma Alma, le nez toujours plongé dans son
+classeur. C'est le premier qui a eu des ennuis, cette année. Je le
+surveille plus que les autres, par précaution.
 
 — On va justement essayer de comprendre pourquoi, dit Souly.
 
@@ -2538,8 +2538,8 @@ partie où j'annonce ça devant le village entier.
 
 — On sera là aussi, ce jour-là, promit Sofia.
 
-— Ça compte plus que vous ne le croyez, dit Maxime, la voix un peu
-enrouée.
+— Ça compte plus que vous ne le croyez, dit Maxime, en détournant
+un instant le regard.
 
 — Ça compte pour vrai, confirma Naïma, sans détour. Ce n'est pas rien,
 de le dire à voix haute au lieu de l'espérer en silence.
@@ -3280,7 +3280,7 @@ tasse de thé.
 — Elle fait toujours ça, glissa Sofia à Souly, tout bas. Elle rougit
 dès qu'on lui dit qu'elle est douée.
 
-— J'ai entendu, dit Naïma, sans lever les yeux, ce qui les fit tous
+— J'ai entendu, dit Naïma, du fond de la pièce, ce qui les fit tous
 rire.
 
 — Alors la règle ne parle pas des lampes en général, comprit Souly,
@@ -3986,7 +3986,7 @@ Maxime posa son dossier sur le seul coin de table encore libre.
 — J'ai retrouvé toutes les factures, dit-il. Ça confirme tout ce
 qu'on craignait.
 
-— On peut voir ? demanda Souly, déjà penché en avant.
+— Vous nous montrez ? demanda Souly, déjà penché en avant.
 
 Maxime ouvrit le dossier et le fit glisser au centre de la table, à
 côté du grand schéma de Souly.
@@ -4967,7 +4967,8 @@ erreur.
 — Vous saviez, pour la règle de Madeleine ? cria une voix, quelque
 part au milieu de la foule.
 
-— Pas avant cette semaine, avoua Maxime, la voix un peu tremblante.
+— Pas avant cette semaine, avoua Maxime, en s'efforçant de garder une
+voix posée.
 
 — On vous croit, dit une voix compatissante, quelque part dans la
 foule.
@@ -5158,8 +5159,8 @@ classeur, malgré les mains qui la bousculaient de tous les côtés.
 
 — Tu notes, maintenant ? s'étonna Sofia.
 
-— Surtout maintenant, dit Alma, sans lever les yeux de sa page.
-C'est le moment qui compte le plus.
+— Surtout maintenant, dit Alma, toute son attention rivée sur sa
+page. C'est le moment qui compte le plus.
 
 Maxime, debout un peu en retrait, regardait le spectacle sans un
 mot, une main sur la bouche. Roxane, à côté de lui, lui donna un
@@ -6346,8 +6347,8 @@ vitre arrière, Sofia et Souly regardèrent Alma agiter le bras jusqu'à
 ce que la route tourne et que le phare disparaisse derrière les
 dunes, puis derrière les pins.
 
-— On reviendra vraiment, tu crois ? demanda Sofia, la voix un peu
-serrée.
+— On reviendra vraiment, tu crois ? demanda Sofia, en ravalant
+quelque chose qui ressemblait fort à un sanglot.
 
 — On revient toujours, d'une manière ou d'une autre, dit Souly, en
 posant une main sur les jumelles autour de son cou.

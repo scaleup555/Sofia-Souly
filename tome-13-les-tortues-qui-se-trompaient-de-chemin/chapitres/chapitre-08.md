@@ -326,7 +326,7 @@ Maxime posa son dossier sur le seul coin de table encore libre.
 — J'ai retrouvé toutes les factures, dit-il. Ça confirme tout ce
 qu'on craignait.
 
-— On peut voir ? demanda Souly, déjà penché en avant.
+— Vous nous montrez ? demanda Souly, déjà penché en avant.
 
 Maxime ouvrit le dossier et le fit glisser au centre de la table, à
 côté du grand schéma de Souly.
