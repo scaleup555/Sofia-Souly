@@ -163,6 +163,22 @@ Un nouveau tableau, à côté des dates.
 
 — On n'a jamais trop de tableaux, répliqua Alma, très sérieusement.
 
+— Tu en as combien, en tout, dans ce classeur ? demanda Souly,
+curieux.
+
+— Je ne les compte plus vraiment, avoua Alma. J'en ajoute un dès que
+j'ai une bonne raison. Le classeur, lui, doit sûrement les compter à
+ma place.
+
+— Un classeur ne compte rien du tout, fit remarquer Souly. Ce sont
+des feuilles de papier.
+
+— Celui-là, si, insista Alma, avec le même aplomb tranquille que
+Sofia pour ses cailloux. Je le sens, parfois, un peu plus lourd que
+la dernière fois.
+
+— Ça, dit Sofia, ravie, c'est exactement ce que je dirais, moi.
+
 Un long silence retomba, seulement troublé par le bruissement du vent
 dans les couvertures et le clapotis des vagues, un peu plus bas.
 

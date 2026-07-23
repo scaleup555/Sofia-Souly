@@ -139,6 +139,25 @@ répondit Souly.
 Les valises attendaient déjà, bouclées depuis la veille au soir,
 entassées près de la porte.
 
+— Tu as tout rangé ? demanda Mamie Rose, en désignant la pile.
+
+— Presque tout, dit Souly. Il me manque juste le classeur d'Alma, que
+je n'ai pas encore emballé. Je voulais le garder à part, pour ne pas
+le froisser.
+
+— Tu traites ce classeur comme un objet précieux, remarqua Sofia.
+
+— Il l'est, dit Souly, simplement. Ça se voit à la façon dont elle
+l'a rempli, page après page.
+
+— Comme mes cailloux, alors, dit Sofia, satisfaite de la comparaison.
+
+— Un peu comme tes cailloux, admit Souly. En moins susceptible de
+rouler sous le lit.
+
+— Mes cailloux ne roulent jamais sous le lit, protesta Sofia, vexée
+qu'on en doute. Ils savent rester à leur place.
+
 Ils quittèrent la maison peu après, chacun portant une part du
 petit-déjeuner de Mamie Rose. Le village semblait encore endormi. Une
 brume légère traînait entre les toits, et quelque part un volet

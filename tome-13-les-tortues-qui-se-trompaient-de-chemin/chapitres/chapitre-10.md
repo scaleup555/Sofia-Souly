@@ -73,6 +73,24 @@ d'Alma.
 — Bénévole officielle de la soirée, expliqua Alma, fièrement.
 Madeleine me l'a épinglé elle-même.
 
+— Ça se mérite, ce ruban ? demanda Sofia.
+
+— On me l'a donné pour toutes les nuits passées à surveiller les
+nids, dit Alma. Même celles où il ne se passait rien du tout.
+
+— Surtout celles-là, en fait, précisa Madeleine, en les rejoignant.
+C'est facile de veiller quand il se passe quelque chose. C'est
+autrement plus difficile de continuer, nuit après nuit, quand il ne
+se passe rien.
+
+— J'ai un plan pour ça aussi, avoua Alma. Rester éveillée en comptant
+les étoiles jusqu'à ce que j'en perde le fil.
+
+— Et ça marche ? demanda Souly.
+
+— Jamais, avoua Alma, sans la moindre honte. Je m'endors toujours
+avant la centième étoile. Mais au moins, j'ai essayé.
+
 — Elle l'a bien mérité, dit Madeleine. Personne n'a autant surveillé
 ce nid qu'elle, ces deux derniers mois.
 

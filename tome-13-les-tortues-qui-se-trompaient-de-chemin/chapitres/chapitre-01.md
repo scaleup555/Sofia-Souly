@@ -486,5 +486,20 @@ peut-être tout le monde. »
 — Un bon enquêteur ne raye personne de la liste trop tôt, dit Souly,
 en refermant le carnet. Même les gens les plus gentils du monde.
 
+— Même Naïma ? insista Sofia, un peu scandalisée par l'idée.
+
+— Surtout Naïma, dit Souly. C'est elle qui connaît le mieux les
+tortues. Si quelqu'un savait comment les faire se tromper de chemin,
+ce serait elle.
+
+— Tu ne penses pas vraiment ça, dit Sofia, les yeux plissés.
+
+— Non, admit Souly. Mais un bon enquêteur doit pouvoir l'écrire quand
+même, sans se laisser influencer par ce qu'il aimerait croire.
+
+— Ça a l'air fatigant, d'être toi, remarqua Sofia, en bâillant.
+
+— Ça l'est, un peu, avoua Souly. Mais quelqu'un doit le faire.
+
 — Sept jours avant la Nuit de l'Éclosion, murmura Sofia, en regardant
 le phare au loin. On ferait bien de commencer.

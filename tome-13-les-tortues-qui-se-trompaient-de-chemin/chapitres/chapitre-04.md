@@ -8,6 +8,20 @@ Par la fenêtre ouverte entrait déjà une chaleur de fin de matinée, et
 le café refroidissait plus vite que d'habitude dans les tasses, tant
 la discussion s'annonçait animée.
 
+— J'ai déjà fait ma tournée des nids, ce matin, annonça Naïma, en
+s'asseyant avec sa troisième tasse de café. Rien à signaler. Alma
+avait tout vérifié avant moi, comme toujours.
+
+— Elle se lève encore plus tôt que moi, remarqua Sofia, presque
+vexée.
+
+— Personne ne se lève plus tôt qu'Alma, confirma Naïma.
+
+— Un jour, je la battrai, promit Sofia, pas franchement convaincue
+elle-même.
+
+— Ce jour-là, prévenez-moi, dit Mamie Rose. Je veux voir ça.
+
 — Qui est pour aller directement voir Maxime, à la boutique ? demanda
 Souly, en levant lui-même la main.
 
@@ -46,10 +60,18 @@ et maintenant ça.
 — Trois, si on compte le fait que j'ai raison de vouloir vérifier
 cette histoire de guirlande, ajouta Souly.
 
-— On ne sait même pas encore si c'est la guirlande, tempéra Naïma.
+— On ne sait même pas encore si c'est la guirlande, tempéra Naïma. Ou
+le snack-bar, ou autre chose encore qu'on n'a même pas envisagé. On
+garde l'esprit ouvert jusqu'au bout.
 
 — C'est bien ce que je dis, répliqua Souly. J'ai raison de vouloir
 vérifier. Pas raison sur la réponse. Nuance.
+
+Sofia glissa ses deux cailloux dans sa poche avant de sortir, comme
+si l'enquête en personne pouvait s'en trouver renforcée.
+
+Depuis la porte, le Vieux Phare se découpait au loin sur le ciel
+clair, fidèle poste de guet silencieux au-dessus des toits.
 
 Le village s'éveillait doucement sous un ciel sans nuages, des
 effluves de pain chaud s'échappant de la boulangerie, et les premiers
@@ -90,6 +112,12 @@ plus pour ne pas s'en prendre à la première venue.
 réponse claire, suggéra encore la femme au journal, sous les
 hochements de tête de plusieurs badauds.
 
+— Qui a écrit cet article, d'ailleurs ? demanda le vieux pêcheur. Il
+n'y a même pas de nom en bas.
+
+— Ça ne l'empêche pas d'être dans le journal, répondit la femme, un
+peu vexée qu'on remette sa source en question.
+
 Le petit groupe s'était formé juste devant la devanture vitrée, si
 bien que la restauratrice à l'intérieur ne pouvait manquer un mot de
 la conversation.
@@ -98,20 +126,41 @@ Souly, qui avait suivi la conversation depuis le trottoir d'en face,
 fronça les sourcils.
 
 — Personne ne mentionne de date précise, murmura-t-il. Juste des
-impressions.
-
-— Une impression, ce n'est pas une preuve, dit Souly, plus fort cette
-fois. Mamie Rose l'a toujours dit : il faut observer avant de
-conclure.
+impressions. Une impression, ce n'est pas une preuve, ajouta-t-il,
+plus fort cette fois. Mamie Rose l'a toujours dit : il faut observer
+avant de conclure.
 
 Deux ou trois têtes se tournèrent vers eux, surprises qu'un enfant
 s'invite ainsi dans la conversation des adultes.
 
 — Il n'a pas tort, le petit, admit finalement la femme au journal, un
-peu penaude, en repliant la page. On s'emballe vite, dans ce village.
+peu penaude, en repliant la page. On s'emballe vite, dans ce village,
+surtout quand une nouveauté fait jaser.
 
 — C'est plus rapide, de conclure directement, remarqua Naïma. Mais
 c'est aussi plus souvent faux.
+
+— Vous êtes bien placée pour parler, vous qui étudiez les tortues,
+remarqua la femme au journal, radoucie.
+
+— Justement, dit Naïma. Et je peux vous dire qu'on ne résout jamais
+un vrai mystère en accusant le premier commerce venu. On vérifie, on
+date, on recoupe. C'est long, et beaucoup moins satisfaisant qu'un
+article, mais c'est la seule méthode qui marche.
+
+— Ça vaut aussi pour les phares et les guirlandes, glissa Souly, sans
+regarder personne en particulier.
+
+Le silence qui suivit dura juste assez longtemps pour que Sofia
+comprenne que son frère venait de faire mouche.
+
+Le petit attroupement commença à se disperser, un peu penaud, le
+journal repassant de main en main sans plus la même conviction
+qu'avant.
+
+— Bien joué, glissa Sofia à son frère, discrètement impressionnée.
+
+— J'ai des bons jours, dit Souly, modeste.
 
 — On devrait aller voir ça de plus près, dit Sofia.
 
@@ -124,12 +173,18 @@ officiellement. On pose des questions, on n'accuse personne.
 
 Ils s'éloignèrent du petit attroupement et poussèrent bientôt la
 porte vitrée d'un snack-bar tout neuf, où une femme d'une trentaine
-d'années essuyait le comptoir avec une énergie un peu excessive.
+d'années essuyait le comptoir avec une énergie un peu excessive. Un
+tablier bleu marine, brodé à ses initiales, portait encore une tache
+de sirop qu'elle n'avait pas eu le temps d'essuyer.
 
 L'intérieur sentait encore la peinture fraîche et le bois neuf, des
 étagères à moitié remplies de bouteilles de sirop artisanal, et une
 grande baie vitrée ouvrait sur une terrasse vide, tournée avec soin
 loin des dunes.
+
+Une ardoise accrochée au mur annonçait le nom de l'établissement —
+« Chez Roxane, la Terrasse des Dunes » — la peinture encore un peu
+grasse sur les lettres les plus récentes.
 
 — Bonjour, dit-elle, un peu méfiante. Vous cherchez une table ?
 
@@ -183,6 +238,19 @@ la complication.
 — Un peu, avoua Roxane. Mais certaines choses valent plus cher que de
 l'argent. Cette plage en fait partie.
 
+— Vos concurrents n'ont pas fait le même choix ? demanda Souly.
+
+— Je n'ai pas de concurrents, dit Roxane, avec un petit rire. Je
+suis le seul commerce du soir sur tout le front de mer. Ce qui
+explique aussi pourquoi tout le monde regarde vers moi en premier,
+dès qu'un problème apparaît.
+
+— Vous avez pensé à baisser complètement les lumières, un soir, pour
+voir si ça changeait quelque chose ? demanda Naïma.
+
+— Une fois, dit Roxane. Toute la terrasse dans le noir complet. Mes
+clients n'ont pas apprécié, mais moi, ça m'a rassurée.
+
 — Vous avez l'air sincèrement inquiète, remarqua Sofia.
 
 — Je le suis, avoua Roxane. Si mon snack-bar est vraiment responsable,
@@ -204,6 +272,16 @@ le tien, on dirait.
 Souly referma instinctivement son propre carnet, presque gêné d'être
 ainsi percé à jour.
 
+— Il m'emmenait à l'aube, avant l'école, se souvint Roxane, le regard
+perdu vers la baie vitrée. On marchait jusqu'aux dunes sans un mot,
+et il me montrait où poser les pieds pour ne jamais écraser un nid
+sans le savoir. Je devais avoir sept ans, la première fois.
+
+— Sept ans, comme Alma, remarqua Sofia.
+
+— Presque, dit Roxane, avec un sourire. Je crois que toutes les
+gardiennes de cette plage ont commencé à peu près au même âge.
+
 — Ça change tout, ce que vous venez de dire, remarqua Sofia, touchée.
 
 Roxane essuya rapidement quelque chose au coin de son œil, avant de
@@ -220,11 +298,35 @@ qui les fais.
 Roxane servit deux petits verres, puis un troisième pour Naïma sans
 même qu'on le lui demande.
 
+— Vous vendez ça aussi en bouteille ? demanda Naïma, après une
+gorgée. C'est le meilleur sirop que j'aie goûté depuis des années.
+
+Roxane rosit légèrement, visiblement touchée par le compliment,
+elle qui s'attendait plutôt à des reproches ce matin.
+
+— Je peux vous en mettre une de côté, proposa-t-elle.
+
+— C'est délicieux, dit Sofia, la bouche déjà pleine de pêche-romarin.
+
+— Meilleur que la limonade de Bellerive-sur-Loire ? s'inquiéta Souly,
+presque personnellement vexé.
+
+— Différent, corrigea diplomatiquement Sofia. On ne compare pas des
+sirops. C'est comme comparer des cailloux.
+
 — Vous avez de l'aide, au moins, ici le soir ? demanda Souly, en
 désignant la salle vide.
 
 — Deux serveurs, dit Roxane. Ils sont partis chercher des glaces au
 marché, ce matin.
+
+— Ça leur arrive souvent, de traîner comme ça ? demanda Souly, en
+jetant un œil aux bacs vides derrière le comptoir, déjà prêt à noter
+la réponse.
+
+— Toujours, dit Roxane, en balayant l'air d'un geste indulgent. Mais
+ils travaillent bien, le soir venu, alors je ferme les yeux sur le
+reste.
 
 — Et personne d'entre eux n'a de théorie sur les tortues ? demanda
 Sofia, curieuse.
@@ -270,6 +372,12 @@ Il n'osa pas terminer sa phrase.
 — On ne sait pas encore, dit Naïma, doucement. Mais on aimerait bien
 en discuter, si ça ne vous dérange pas.
 
+— J'ai... beaucoup de choses à faire, aujourd'hui, bafouilla Maxime,
+en reculant d'un pas vers la porte. La boutique. Les commandes. Tout
+ça.
+
+— On comprend, dit Sofia, gentiment.
+
 — Demain, peut-être ? proposa Maxime, visiblement pris de court. Je
 dois d'abord... enfin, je dois réfléchir à deux ou trois choses.
 
@@ -299,6 +407,20 @@ guirlandes de Noël l'a rendu presque malade d'inquiétude.
 
 — Ou qu'il a peur de savoir quelque chose, corrigea Naïma.
 
+Souly feuilleta son carnet jusqu'à une page qu'il avait intitulée
+« Suspects et innocents provisoires », où deux colonnes se
+remplissaient peu à peu.
+
+— Roxane, colonne de droite, murmura-t-il, en écrivant. Probablement
+innocente.
+
+— Et Maxime ? demanda Sofia.
+
+— Colonne du milieu, dit Souly. Ni coupable ni innocent. Juste
+inquiet.
+
+— Et le chiffre, alors ? relança Naïma. Qu'est-ce que ça donne ?
+
 — Onze jours d'écart avec l'incident du nid numéro sept, calcula
 Souly, en comparant ses deux chiffres. Le snack-bar est arrivé bien
 après le début du problème.
@@ -312,6 +434,17 @@ c'était bien avant l'ouverture d'ici.
 — On va vérifier avec plusieurs sources avant de l'affirmer, tempéra
 Naïma. Mais ça va plutôt dans le sens de Roxane, oui.
 
+— Une source, celle de Roxane. Une autre, l'article local, plus
+vague. Il en faudrait une troisième pour être vraiment sûrs, résuma
+Souly, en repensant à la règle édictée chez Madeleine.
+
+— Madeleine avait raison, dit Sofia. Trois sources, ça change tout.
+
+— Le registre de la mairie, peut-être, suggéra Alma. Toutes les
+ouvertures de commerce sont déclarées quelque part.
+
+— Bonne idée, approuva Naïma. On vérifiera ça aussi.
+
 — C'est déjà ça, dit Roxane, dans un souffle de soulagement.
 
 — Ça ne veut pas dire que vous êtes complètement hors de cause,
@@ -320,14 +453,67 @@ prévint Souly. Juste que ce n'est sûrement pas la cause principale.
 — Je m'en contente très volontiers, dit Roxane. C'est déjà bien mieux
 que ce matin.
 
+— Merci d'être venus me parler directement, plutôt que de me juger
+depuis la rue, ajouta Roxane, avec sincérité.
+
+— C'est plus juste, dit Souly. Et plus utile, aussi. Les rumeurs ne
+mènent jamais nulle part. Les questions, si.
+
 — On reviendra vous dire où on en est, promit Sofia.
 
 — Quand vous voulez, dit Roxane. La maison est ouverte. Enfin — le
 snack-bar.
 
+La porte du fond s'ouvrit enfin sur les deux serveurs, radieux,
+chacun brandissant un bac de glace comme un trophée.
+
+— On a trouvé de la pistache ! annonça le premier, avant de remarquer
+l'atmosphère un peu grave de la salle. On a raté quelque chose ?
+
+— Juste une enquête entière, dit Roxane, amusée. Rangez la glace, je
+vous raconterai tout ça.
+
+— C'était laquelle, ta théorie, déjà ? demanda le second serveur, à
+son collègue. La pollution, ou le renard ?
+
+— Le renard, avoua le premier, un peu penaud. Je m'étais trompé.
+
+— On s'est tous trompés, le consola Sofia, avec bienveillance. C'est
+même tout l'intérêt d'une enquête.
+
+— Ça console à moitié, dit le serveur, en riant quand même.
+
+— La moitié, c'est déjà un début, remarqua Sofia, avec un aplomb qui
+fit sourire Roxane elle-même.
+
 Ils ressortirent dans la lumière déclinante du début de soirée,
 laissant Roxane à son comptoir et à ses bouteilles de sirop
 artisanal.
+
+— Je dois aller vérifier les nids avant la nuit, annonça Alma.
+Fanions à recompter.
+
+— On t'accompagne un bout de chemin, proposa Sofia.
+
+Ils marchèrent tous les quatre le long du quai, où les lampadaires
+commençaient à s'allumer un à un, projetant de longues ombres sur les
+pavés encore tièdes de la journée.
+
+Au loin, sur la plage, les petits fanions d'Alma commençaient déjà à
+se fondre dans la pénombre, minuscules taches de couleur avant la
+nuit.
+
+— Demain, Maxime, résuma Naïma. Et sans doute Madeleine à nouveau,
+pour l'histoire du registre de la mairie.
+
+— On ne s'arrête jamais, remarqua Souly, avec satisfaction.
+
+— C'est justement pour ça qu'on avance, dit Alma, en tournant déjà
+les talons vers la plage.
+
+Souly rangea son carnet dans son sac sans le refermer tout à fait,
+comme s'il s'attendait à devoir le ressortir avant même d'arriver à
+la maison.
 
 — Quatre jours avant la fête, murmura Sofia, en regardant le soleil
 descendre sur le port. On ferait mieux de continuer.

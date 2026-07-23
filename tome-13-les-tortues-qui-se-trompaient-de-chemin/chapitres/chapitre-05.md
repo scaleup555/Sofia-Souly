@@ -490,8 +490,27 @@ Un groupe de touristes les croisa, appareil photo autour du cou,
 discutant fort du programme de la Nuit de l'Éclosion affiché sur un
 panneau du front de mer.
 
-— Trois jours, encore, l'entendirent-ils dire. On ne va rien rater,
-avec un peu de chance.
+— Vous croyez qu'on pourra les toucher, les petites tortues, une fois
+sur la plage ? demanda l'un d'eux, assez fort pour que Naïma
+l'entende.
+
+Naïma se retourna, hésitant visiblement entre intervenir ou laisser
+passer.
+
+— Il vaut mieux ne jamais y toucher, glissa-t-elle, en s'approchant du
+groupe. Même avec les meilleures intentions du monde. Le simple
+contact d'une main peut leur faire perdre du temps précieux, ou pire,
+les stresser au point de les épuiser avant même d'atteindre l'eau.
+
+— On ne savait pas, s'excusa le touriste, un peu penaud.
+
+— Personne ne sait, avant qu'on le lui dise, dit Naïma, avec un
+sourire qui effaça aussitôt toute gêne. C'est justement pour ça qu'on
+est là.
+
+— Trois jours, encore, l'entendirent-ils dire, tandis que le groupe
+s'éloignait déjà vers le front de mer. On ne va rien rater, avec un
+peu de chance.
 
 — Ils ne savent pas encore à quel point ça se joue serré, murmura
 Souly, une fois le groupe passé.

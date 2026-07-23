@@ -226,6 +226,20 @@ la caisse.
 lui rappela Naïma. Une différence de teinte, ça se voit tout de suite
 depuis là-bas.
 
+— J'ai déjà repéré deux ampoules un peu trop pâles, annonça Alma, en
+désignant deux points sur le chemin depuis sa position, allongée dans
+le sable. Numéro douze et numéro vingt-trois.
+
+— Tu as vraiment mémorisé les numéros ? s'étonna Souly.
+
+— J'ai un système, dit Alma, comme si la question ne se posait même
+pas. Chaque chose compte plus facilement quand elle a un numéro.
+
+— Ça, c'est une phrase que je pourrais utiliser pour mon propre
+carnet, remarqua Souly, sincèrement admiratif.
+
+— Je te la prête, dit Alma, généreuse. Je n'en manque pas.
+
 Souly profita d'une pause pour noter, en toutes lettres et bien au
 centre d'une page neuve : « Solution : remplacer la lumière blanche
 par de la lumière ambrée. Le problème n'était pas la lumière

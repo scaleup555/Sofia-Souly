@@ -492,6 +492,26 @@ d'été.
 — Tout est nouveau, par ici, ces derniers temps, dit Naïma, sans
 s'arrêter. On verra tout ça en temps voulu.
 
+— On devrait déjà noter les deux commerces, suggéra Souly, en
+sortant son carnet sans ralentir le pas. Question d'habitude. Même
+si rien ne les relie encore à l'enquête.
+
+— Tu notes toujours tout, même ce qui n'a peut-être aucun rapport ?
+demanda Alma, curieuse.
+
+— Surtout ce qui n'a peut-être aucun rapport, corrigea Souly. C'est
+souvent là que se cache le vrai rapport, plus tard.
+
+— Ça, c'est une phrase digne d'un vrai détective, remarqua Alma,
+impressionnée malgré elle.
+
+— Je l'ai empruntée à Mamie Rose, avoua Souly. Mais je la trouve
+bonne, alors je la garde.
+
+— Tout le monde emprunte des phrases à Mamie Rose, remarqua Sofia,
+avec une fierté un peu possessive. Même les gens qui ne l'ont jamais
+rencontrée.
+
 Ils marchèrent un moment en silence, le bruit des vagues s'éloignant
 peu à peu derrière eux.
 

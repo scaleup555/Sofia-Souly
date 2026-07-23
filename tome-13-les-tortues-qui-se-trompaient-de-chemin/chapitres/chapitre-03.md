@@ -478,6 +478,29 @@ personne sans preuve. C'est la règle.
 — Vous avez bien été éduqués, remarqua Madeleine, un sourire sincère
 cette fois.
 
+— C'est Mamie Rose, expliqua Sofia. Elle a une règle pour absolument
+tout.
+
+— Une règle pour ne jamais accuser sans preuve, une règle pour ne
+jamais mentir, une règle pour partager les sablés équitablement,
+énuméra Souly. On perd un peu le compte, à force.
+
+— Ça ne m'étonne pas d'elle, dit Madeleine, avec un petit rire. Même
+enfant, elle inventait déjà des règles pour tout le monde. Je me
+souviens d'un été entier où elle avait décrété que personne n'avait le
+droit de courir sur la jetée avant d'avoir récité une table de
+multiplication.
+
+— Ça ressemble à une légende, ça aussi, remarqua Sofia, ravie.
+
+— Celle-là, je peux la confirmer, dit Madeleine. J'y étais.
+
+Alma referma son classeur, satisfaite.
+
+— Je vais ajouter une règle à mon propre carnet, décida-t-elle. Ne
+jamais douter d'une grand-mère qui a des règles pour tout. Elles ont
+souvent raison.
+
 Madeleine les raccompagna jusqu'au sentier, une main posée un instant
 sur l'épaule d'Alma.
 
