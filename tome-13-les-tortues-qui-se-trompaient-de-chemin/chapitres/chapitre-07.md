@@ -220,6 +220,8 @@ catégorie. Plans qui ne savent pas qu'ils en sont un.
 
 — Ça ne va pas tenir sur un seul fanion, ça, remarqua Souly, amusé.
 
+— On trouvera un plus grand fanion, dit Alma, très sérieuse.
+
 — Attendez, dit Souly, se redressant d'un coup. La règle parle des
 « lampes ». Pas de la guirlande spécifiquement.
 

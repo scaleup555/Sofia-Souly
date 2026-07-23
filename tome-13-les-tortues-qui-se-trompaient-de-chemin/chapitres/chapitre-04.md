@@ -4,6 +4,10 @@ Le quatrième jour commença par un vote à main levée autour de la
 table du petit-déjeuner, entre une théière fumante et la boîte en fer
 qui disait « THÉ » sans jamais en avoir contenu.
 
+Par la fenêtre ouverte entrait déjà une chaleur de fin de matinée, et
+le café refroidissait plus vite que d'habitude dans les tasses, tant
+la discussion s'annonçait animée.
+
 — Qui est pour aller directement voir Maxime, à la boutique ? demanda
 Souly, en levant lui-même la main.
 
@@ -66,6 +70,22 @@ cette musique, ces lumières allumées tard le soir, ça ne peut pas
 — On n'avait jamais eu ce problème avant que ce snack-bar n'ouvre,
 ajouta une troisième personne.
 
+— Elle a pourtant tourné sa terrasse loin des dunes, exprès, fit
+remarquer un vieux pêcheur appuyé contre un pilier. Je l'ai vue
+faire, moi, le premier jour.
+
+— Ça ne l'empêche pas d'avoir de la musique et des lumières,
+répliqua la femme au journal.
+
+— De la musique douce et deux lampions, corrigea le pêcheur. Pas de
+quoi affoler une tortue.
+
+— Alors c'est quoi, si ce n'est pas elle ? demanda quelqu'un d'autre
+dans le groupe.
+
+— Ça, personne ne le sait encore, admit le vieux pêcheur. Raison de
+plus pour ne pas s'en prendre à la première venue.
+
 — Il faudrait fermer cette terrasse le soir, tant qu'on n'a pas de
 réponse claire, suggéra encore la femme au journal, sous les
 hochements de tête de plusieurs badauds.
@@ -94,6 +114,13 @@ peu penaude, en repliant la page. On s'emballe vite, dans ce village.
 c'est aussi plus souvent faux.
 
 — On devrait aller voir ça de plus près, dit Sofia.
+
+— Doucement, prévint Naïma. Roxane n'est accusée de rien,
+officiellement. On pose des questions, on n'accuse personne.
+
+— Comme avec Maxime, résuma Sofia.
+
+— Exactement comme avec Maxime, confirma Naïma.
 
 Ils s'éloignèrent du petit attroupement et poussèrent bientôt la
 porte vitrée d'un snack-bar tout neuf, où une femme d'une trentaine
@@ -182,6 +209,17 @@ ainsi percé à jour.
 Roxane essuya rapidement quelque chose au coin de son œil, avant de
 se reprendre.
 
+— Vous voulez un sirop maison, en attendant ? proposa-t-elle,
+retrouvant contenance. Menthe-basilic, ou pêche-romarin. C'est moi
+qui les fais.
+
+— Pêche-romarin, dit Sofia, aussitôt curieuse.
+
+— Menthe-basilic, dit Souly, presque en même temps.
+
+Roxane servit deux petits verres, puis un troisième pour Naïma sans
+même qu'on le lui demande.
+
 — Vous avez de l'aide, au moins, ici le soir ? demanda Souly, en
 désignant la salle vide.
 
@@ -239,7 +277,9 @@ dois d'abord... enfin, je dois réfléchir à deux ou trois choses.
 
 Maxime s'éclipsa presque en courant, le rouleau de câble toujours
 sous le bras, manquant de renverser un présentoir de cartes postales
-au passage.
+au passage. Une carte représentant le Vieux Phare voltigea jusque
+sous une table, et Maxime, après une brève hésitation sur le pas de
+la porte, jugea visiblement plus urgent de fuir que de la ramasser.
 
 — Il a l'air terrifié, remarqua Alma, qui les avait rejoints entre
 deux vérifications de fanions.
@@ -262,6 +302,12 @@ guirlandes de Noël l'a rendu presque malade d'inquiétude.
 — Onze jours d'écart avec l'incident du nid numéro sept, calcula
 Souly, en comparant ses deux chiffres. Le snack-bar est arrivé bien
 après le début du problème.
+
+Alma sortit son propre classeur et vérifia la date à son tour,
+remontant une page qu'elle seule savait vraiment interpréter.
+
+— Ça correspond à ce que j'ai noté, confirma-t-elle. Le nid sept,
+c'était bien avant l'ouverture d'ici.
 
 — On va vérifier avec plusieurs sources avant de l'affirmer, tempéra
 Naïma. Mais ça va plutôt dans le sens de Roxane, oui.
