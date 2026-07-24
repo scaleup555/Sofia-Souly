@@ -29,8 +29,9 @@ le lit.
 — Une seule chaussette, annonça-t-il, après un moment. L'autre a
 disparu.
 
-— Elles ne disparaissent jamais vraiment, dit Sofia, avec l'autorité
-de quelqu'un qui a déjà perdu des dizaines de chaussettes. Elles se
+— Elles ne disparaissent jamais vraiment, dit Sofia, en comptant sur
+ses doigts comme quelqu'un qui a déjà perdu des dizaines de
+chaussettes. Elles se
 cachent.
 
 — Et elles se cachent où, en général ? demanda Souly, sans grand
@@ -55,8 +56,8 @@ pétillants de malice. Ça met de bonne humeur, ce genre de découverte.
 
 — Demande-lui toi-même, dit Mamie Rose, avec un clin d'œil.
 
-— Je n'oserais jamais, dit Sofia, avec un sérieux qui ne trompait
-personne.
+— Je n'oserais jamais, dit Sofia, prenant son air le plus sérieux,
+sans tromper personne.
 
 — Depuis quand ça t'arrête, toi ? remarqua Mamie Rose, amusée.
 
@@ -108,7 +109,7 @@ traite.
 jamais de vacances tranquilles, tous les deux.
 
 — Les vacances tranquilles, c'est pour les gens qui ont le temps,
-répondit Sofia, avec une assurance totale.
+répondit Sofia, du tac au tac.
 
 — Où as-tu entendu ça, toi ? demanda Camille, amusée.
 
@@ -361,8 +362,8 @@ devant tout le monde, à la fête.
 savent plein de choses peuvent se tromper devant tout le monde, et
 que ce n'est pas la fin du monde.
 
-Elle détacha sa loupe pliante de son cou et la tendit, avec une
-hésitation visible, vers Souly.
+Elle détacha sa loupe pliante de son cou et la tendit vers Souly,
+sans la lâcher tout de suite.
 
 — Je voudrais que tu la gardes, dit-elle. Elle m'a accompagnée sur
 cette haie depuis mes tout premiers étés. Mais toi, tu sauras t'en
@@ -377,8 +378,8 @@ chercher à le cacher, cette fois.
 Souly prit la loupe entre ses doigts, la faisant délicatement tourner
 pour observer le reflet du soleil levant sur le verre.
 
-— Elle a un peu d'usure, sur le bord, remarqua-t-il, avec une
-tendresse inattendue dans la voix.
+— Elle a un peu d'usure, sur le bord, remarqua-t-il, la voix
+soudain plus douce.
 
 — Beaucoup d'usure, corrigea Salomé, en riant doucement. Elle a vu
 plus de toiles que moi.

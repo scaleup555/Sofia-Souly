@@ -87,7 +87,7 @@ même faire l'affaire, pour creuser un peu.
 — Tu es sûre que tu veux creuser avec ça ? demanda Timéo à Sofia, en
 désignant le manche presque deux fois plus grand qu'elle.
 
-— C'est le protocole, dit Sofia, avec le sérieux d'un vrai
+— C'est le protocole, dit Sofia, en bombant le torse comme un vrai
 professionnel.
 
 Sofia empoigna la pelle et planta la lame dans la terre avec un
@@ -111,7 +111,7 @@ Sofia resta assise là, couverte de terre des pieds à la taille, avant
 qu'un fou rire ne commence à lui secouer les épaules.
 
 — C'était la chute la plus stratégique de tout le village, annonça-
-t-elle, depuis son tas de terre, avec un aplomb remarquable.
+t-elle, depuis son tas de terre, la voix parfaitement calme.
 
 — Tu es sûre que tu n'as rien de cassé ? insista Souly.
 
@@ -140,14 +140,15 @@ prédit Souly.
 — Mamie Rose a vu bien pire, assura Sofia. La fois du chocolat, tu te
 souviens ?
 
-— Je préfère ne pas m'en souvenir, dit Souly, avec une grimace.
+— Je préfère ne pas m'en souvenir, dit Souly, en fermant les yeux
+très fort.
 
 Sylvain s'approcha, un sourire qu'il ne cherchait plus à retenir.
 
 — Je vous en redonne une pelle plus petite, proposa-t-il.
 
-— Je vais d'abord finir avec celle-ci, décida Sofia, avec une
-obstination totale.
+— Je vais d'abord finir avec celle-ci, décida Sofia, en resserrant sa
+prise sur le manche.
 
 Au fil de la matinée, le travail collectif prit forme : le trou
 creusé, le socle de caoutchouc installé et calé, la pompe déplacée
@@ -246,8 +247,8 @@ penché absorberait moins bien les vibrations.
 
 — À toi de vérifier, dit Sylvain, en lui tendant de nouveau le niveau.
 
-Sofia s'exécuta avec une concentration soudaine, la langue légèrement
-sortie, comme chaque fois qu'elle prenait une tâche très au sérieux.
+Sofia s'exécuta, la langue légèrement sortie, comme chaque fois
+qu'elle prenait une tâche très au sérieux.
 
 — Parfait aussi, annonça-t-elle, radieuse. Je crois que je suis douée
 pour ça.
@@ -304,7 +305,8 @@ compliment.
 — Beaucoup de questions, corrigea Sylvain, en souriant enfin
 franchement. Et les bonnes, en plus.
 
-— C'est notre spécialité, dit Sofia, avec fierté. Les questions
+— C'est notre spécialité, dit Sofia, ravie de l'effet produit. Les
+questions
 gênantes.
 
 — La vôtre, peut-être, dit Souly. Moi, je préfère dire que je pose des
@@ -426,8 +428,8 @@ chronomètre qui a tout déclenché.
 — Vous vous en êtes rendu compte tout seul ? demanda Souly, surpris.
 
 — J'ai comparé l'heure de mon déclenchement avec l'heure où vous avez
-tous crié « elle est finie », expliqua Léonard, avec une fierté
-étrange pour quelqu'un qui venait d'admettre un échec.
+tous crié « elle est finie », expliqua Léonard, étrangement fier
+pour quelqu'un qui venait d'admettre un échec.
 
 — Et ça ne vous décourage pas ? demanda Timéo.
 

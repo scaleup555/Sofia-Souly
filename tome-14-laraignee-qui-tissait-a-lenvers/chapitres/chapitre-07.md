@@ -62,8 +62,8 @@ demanda Sofia.
 Certaines araignées mangent même leur ancienne toile avant d'en
 tisser une nouvelle, pour recycler les protéines. Rien ne se perd.
 
-— Ça, c'est dégoûtant et fascinant en même temps, remarqua Sofia,
-avec une grimace ravie.
+— Ça, c'est dégoûtant et fascinant en même temps, remarqua Sofia, le
+nez plissé de dégoût.
 
 — Elle mange sa propre toile ? demanda Timéo, sincèrement captivé.
 Chaque soir ?
@@ -304,8 +304,9 @@ même pas ma faute.
 
 — Ça va ? demanda Salomé, entre inquiétude et fou rire mal caché.
 
-— Parfaitement, dit Léonard, depuis le sol, avec une dignité totale.
-C'était un test de résistance au choc non prévu au programme.
+— Parfaitement, dit Léonard, en se redressant depuis le sol comme si
+de rien n'était. C'était un test de résistance au choc non prévu au
+programme.
 
 — Bon réflexe, dit Angèle à Timéo, avec un signe de menton vers la
 théière sauvée.
@@ -321,7 +322,7 @@ déclara Sofia, entre deux hoquets.
 — Vous ne connaissez encore presque personne du village, remarqua
 Souly.
 
-— Ça ne changera rien, dit Sofia, avec assurance.
+— Ça ne changera rien, dit Sofia, sans hésiter.
 
 — Vous êtes sûr que vous n'avez rien de cassé, à part la manivelle ?
 demanda Salomé, encore inquiète.
@@ -370,8 +371,8 @@ cette fois.
 mécanisme plus lent. Ou peut-être moins de pièces mobiles, en fait.
 C'est encore flou.
 
-— Ou peut-être pas de mécanisme du tout, suggéra Angèle, avec un
-calme redoutable. Juste un cadre en bois, et de la patience. Les
+— Ou peut-être pas de mécanisme du tout, suggéra Angèle, sans se
+presser. Juste un cadre en bois, et de la patience. Les
 dentellières s'en sortent très bien avec ça, depuis toujours.
 
 — Le bois, c'est dépassé, protesta Léonard, presque vexé. L'avenir,

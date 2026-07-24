@@ -117,7 +117,7 @@ bonnes idées commencent en pièces détachées.
 — Comme le cadre numéro un, remarqua Timéo.
 
 — Le cadre numéro un n'a jamais été une bonne idée, corrigea Léonard,
-avec une honnêteté soudaine. Mais il a ouvert la voie.
+après un silence. Mais il a ouvert la voie.
 
 — Vers quoi, exactement ? demanda Sofia.
 
@@ -162,7 +162,7 @@ vibrations, ce qui explique pourquoi des arachnides à huit pattes,
 donc pas des insectes, contrairement à ce qu'on croit souvent,
 réagissent si fortement à—
 
-— Salomé, glissa le maire, avec un sourire patient. L'explication
+— Salomé, glissa le maire, en consultant sa montre. L'explication
 courte, peut-être ?
 
 Salomé s'arrêta net, rougit, et hocha la tête.
@@ -318,7 +318,7 @@ une toile orbitèle devant tout un comité scientifique.
 — Vous rougissez presque autant qu'elle, remarqua Timéo, depuis le
 premier rang, en désignant tour à tour Sofia et Salomé.
 
-— Merci du compliment, Timéo, dit Sofia, avec une grimace amusée.
+— Merci du compliment, Timéo, dit Sofia, retenant un fou rire.
 
 Mamie Rose lui adressa un clin d'œil discret depuis le premier rang,
 ce qui suffit à faire retomber les dernières rougeurs de Sofia.

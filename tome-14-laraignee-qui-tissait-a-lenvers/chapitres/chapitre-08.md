@@ -89,7 +89,7 @@ son œuvre.
 — Vous avez fait ça pendant que je dormais ? demanda Salomé,
 impressionnée, en nouant la ceinture de sa robe de chambre.
 
-— Depuis six heures, précisa Sofia, avec une fierté empruntée à son
+— Depuis six heures, précisa Sofia, en redressant le menton comme son
 frère. Moi, je me suis surtout contentée de le regarder faire.
 
 — Ce n'est pas rien, de regarder quelqu'un travailler pendant des
@@ -252,8 +252,8 @@ pas vraiment une.
 — Je crois qu'on est prêts, dit Souly, en refermant enfin son carnet
 d'un air presque solennel.
 
-— On n'est jamais complètement prêts, corrigea Timéo, avec la sagesse
-d'un habitué des imprévus. Mais on est aussi prêts qu'on peut l'être.
+— On n'est jamais complètement prêts, corrigea Timéo, sans se départir
+de son calme habituel. Mais on est aussi prêts qu'on peut l'être.
 
 Un coup frappé à la porte annonça l'arrivée de Sylvain, visiblement
 mal à l'aise, un dossier serré contre sa poitrine à deux mains.
@@ -335,7 +335,7 @@ le faire.
 — C'est là que ça devient difficile, avoua Sylvain. Faire quelque
 chose de difficile sans le trouver facile pour autant.
 
-— Bienvenue dans la vie adulte, remarqua Timéo, avec un sérieux qui
+— Bienvenue dans la vie adulte, remarqua Timéo, très sérieux, ce qui
 fit sourire tout le monde, lui y compris.
 
 — Merci pour l'encouragement, dit Sylvain, un sourire franc perçant
@@ -361,8 +361,8 @@ une ligne pointillée.
 
 — Comme ça ? demanda-t-il, en tournant le carnet vers Salomé.
 
-— À peu près, confirma Salomé, en observant le croquis avec sérieux.
-Sauf que la distance devrait être un peu plus grande, ici.
+— À peu près, confirma Salomé, penchée sur le croquis. Sauf que la
+distance devrait être un peu plus grande, ici.
 
 — Combien de mètres, exactement ? demanda Timéo, son crayon déjà prêt
 à corriger.
@@ -436,8 +436,8 @@ fête.
 comptable, avant d'être élu. Il ne discute jamais un calcul bien
 présenté.
 
-— Alors notre schéma tombe bien, remarqua Souly, avec une certaine
-satisfaction.
+— Alors notre schéma tombe bien, remarqua Souly, en se frottant les
+mains.
 
 — Il tombe même très bien, confirma Sylvain. Vous devriez venir avec
 moi, ce soir, pour le lui montrer directement.

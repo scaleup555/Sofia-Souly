@@ -159,7 +159,7 @@ invisible sur l'herbe. Elle avait sûrement sept pattes et demie.
 — Tu comptes vraiment les pattes, d'aussi loin, dans le noir ? demanda
 Timéo, sceptique.
 
-— Je les compte de mémoire, corrigea Sofia, avec dignité. C'est une
+— Je les compte de mémoire, corrigea Sofia, le menton levé. C'est une
 compétence.
 
 — Huit pattes, comme toutes les autres, certainement, dit Salomé, en

@@ -289,14 +289,15 @@ entier, même s'il n'est pas là.
 
 — Trois, alors, admit Souly.
 
-— Ça dépend des gens, dit Sofia, avec une franchise désarmante. Il y
-en a qui pardonnent vite. Il y en a qui n'oublient jamais rien, même
+— Ça dépend des gens, dit Sofia, sans détour. Il y en a qui
+pardonnent vite. Il y en a qui n'oublient jamais rien, même
 dix ans après. On ne peut pas savoir à l'avance.
 
 — Merci pour l'honnêteté, dit Sylvain, dans un petit rire sans joie.
 
-— Certains vous en voudront peut-être, admit Souly, avec honnêteté.
-Mais d'autres comprendront que c'était une erreur, pas une intention.
+— Certains vous en voudront peut-être, admit Souly, sans détourner le
+regard. Mais d'autres comprendront que c'était une erreur, pas une
+intention.
 
 Sylvain se laissa tomber sur une caisse de matériel posée au pied du
 boîtier, la tête entre les mains.
@@ -491,8 +492,8 @@ drôle reste drôle, même répétée.
 
 — C'est presque la même chose, insista Sofia.
 
-— Ce n'est pas du tout la même chose, dit Souly, mais avec un sourire
-qui contredisait un peu sa protestation.
+— Ce n'est pas du tout la même chose, dit Souly, mais le coin de sa
+bouche trahissait un peu sa protestation.
 
 Le village, en contrebas, commençait tout juste à s'animer : une
 odeur de pain chaud montait de la boulangerie, et quelque part une

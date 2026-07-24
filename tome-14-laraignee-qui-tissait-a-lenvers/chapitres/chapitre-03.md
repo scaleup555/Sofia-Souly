@@ -236,8 +236,8 @@ comprendre.
 
 — Angèle ! J'ai fini le cadre numéro quatre ! s'exclama-t-il, radieux.
 
-— Léonard, dit Angèle, avec un mélange d'affection et
-d'appréhension. Qu'est-ce que c'est, cette fois ?
+— Léonard, dit Angèle en levant les yeux au ciel. Qu'est-ce que
+c'est, cette fois ?
 
 — Un métier à tisser miniature, annonça-t-il fièrement, en désignant
 sa construction. De la précision d'horloger, pour aider les araignées
@@ -376,8 +376,8 @@ démonter.
 bien que mal les débris du cadre quatre dans sa remorque. J'ai déjà
 des idées pour corriger l'angle des poulies.
 
-— Bonne chance, Léonard, dit Angèle, avec une tendresse manifeste
-malgré tout.
+— Bonne chance, Léonard, dit Angèle, en lui pressant l'épaule malgré
+tout.
 
 — Merci, Angèle, répondit-il, radieux, comme si rien de tout cela
 n'avait eu lieu. À la prochaine visite !
@@ -465,8 +465,8 @@ Une de groseillier, une de je-ne-sais-quoi.
 
 — Il ne s'en rendra compte qu'en rentrant chez lui, prédit Souly.
 
-— Et il dira que c'était voulu, ajouta Angèle, avec un petit rire.
-Comme pour les cadres.
+— Et il dira que c'était voulu, ajouta Angèle en riant. Comme pour
+les cadres.
 
 — Vous croyez qu'il va vraiment tester le cadre cinq ? demanda
 Sofia.

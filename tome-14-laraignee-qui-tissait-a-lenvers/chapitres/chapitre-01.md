@@ -329,7 +329,7 @@ d'un pas vif. Rose m'a tellement parlé de vous.
 
 — Vous êtes Salomé ? demanda Sofia.
 
-— C'est moi, confirma Salomé, avec un large sourire. Bienvenue à
+— C'est moi, confirma Salomé en ouvrant les bras. Bienvenue à
 Filargent.
 
 Le maire du village, un homme mince à lunettes rondes, sortit à cet
@@ -346,9 +346,9 @@ gêne apparente.
 des années, insista le maire, à voix haute, ce qui fit hocher la tête
 à plusieurs personnes dans la petite foule rassemblée.
 
-— C'est très gentil, dit Salomé, avec assurance, en saluant la foule
-d'un geste large. Mais c'est surtout le travail des araignées
-elles-mêmes. Moi, je ne fais que regarder.
+— C'est très gentil, dit Salomé, en saluant la foule d'un geste
+large. Mais c'est surtout le travail des araignées elles-mêmes. Moi,
+je ne fais que regarder.
 
 — Elle prend toujours tout ça avec beaucoup de calme, chuchota Mamie
 Rose à Sofia.
@@ -451,8 +451,8 @@ Ils s'installèrent autour de la table de la cuisine, où Salomé sortit
 de son sac un vieux carnet à la couverture usée, presque semblable à
 celui de Souly, mais rempli de croquis de toiles plutôt que de listes.
 
-— C'est là-dedans que vous notez tout ? demanda Souly, avec un
-intérêt immédiat.
+— C'est là-dedans que vous notez tout ? demanda Souly, en se penchant
+aussitôt par-dessus son épaule.
 
 — Depuis des années, confirma Salomé. Chaque toile inhabituelle que
 j'ai croisée. Celle de cette semaine mérite sa propre page, et pas

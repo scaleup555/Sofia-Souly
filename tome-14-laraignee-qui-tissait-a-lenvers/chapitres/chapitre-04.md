@@ -198,8 +198,8 @@ Vous êtes Margaux Fontelle ?
 Margaux pâlit légèrement, le vaporisateur suspendu à mi-geste entre
 ses deux mains.
 
-— C'est encore à cause de cet article, c'est ça, dit-elle, avec un
-soupir résigné. Je l'ai lu ce matin. Je m'attendais à ce que quelqu'un
+— C'est encore à cause de cet article, c'est ça, dit-elle en
+soupirant. Je l'ai lu ce matin. Je m'attendais à ce que quelqu'un
 vienne me poser des questions.
 
 — On n'est pas venus vous accuser, précisa Sofia, aussitôt.
@@ -516,7 +516,8 @@ presque suppliante.
 — Promis, dit Sofia. Et si ce n'est pas vous, tout le village le
 saura aussi.
 
-— Ça me suffit largement, dit Margaux, avec un soulagement visible.
+— Ça me suffit largement, dit Margaux, les épaules soudain plus
+légères.
 
 — On devrait vous laisser travailler, dit Sofia.
 

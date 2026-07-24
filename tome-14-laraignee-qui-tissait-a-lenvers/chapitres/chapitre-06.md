@@ -168,8 +168,8 @@ lui, a été pulvérisé il y a dix jours. Dix jours d'écart.
 — J'ai vérifié trois fois le calcul, précisa Timéo, un peu fier. Je
 n'aime pas me tromper sur les chiffres.
 
-— C'est faux, protesta Angèle, avec un faux air vexé. Je ne l'ai
-corrigé qu'une seule fois.
+— C'est faux, protesta Angèle, faussement vexée. Je ne l'ai corrigé
+qu'une seule fois.
 
 — Ce qui arrive souvent, avoua Timéo, sans se démonter.
 
@@ -235,7 +235,7 @@ Margaux sourit franchement pour la première fois depuis leur arrivée,
 deux fossettes apparaissant qu'ils ne lui connaissaient pas encore.
 
 — Ça fait beaucoup de choses à porter toute seule, remarqua Souly,
-avec une gravité inhabituelle chez lui.
+la voix étrangement grave pour lui.
 
 — Vous devriez peut-être en parler directement au journal, suggéra
 Sofia. Pour qu'ils écrivent la vraie version.
@@ -448,8 +448,9 @@ conviction.
 — Aucun plaisir pour moi, en tout cas, marmonna Salomé, sans grande
 conviction non plus.
 
-— C'est une preuve d'affection, corrigea Mamie Rose, avec tendresse.
-On ne raconte ces histoires-là qu'aux gens qu'on aime bien.
+— C'est une preuve d'affection, corrigea Mamie Rose, en lui
+ébouriffant les cheveux. On ne raconte ces histoires-là qu'aux gens
+qu'on aime bien.
 
 — Alors on est quittes, dit Salomé, en riant enfin de bon cœur. Je
 raconterai la vôtre, un jour.
@@ -466,7 +467,7 @@ moins une histoire embarrassante, à un moment de sa vie.
 — La nuance ne change rien à la question, insista Timéo. Vous avez
 une histoire, oui ou non ?
 
-— Elle n'existe pas, dit Mamie Rose, avec une assurance totale.
+— Elle n'existe pas, dit Mamie Rose, sans l'ombre d'une hésitation.
 
 — C'est exactement ce que dirait quelqu'un qui en a une, remarqua
 Timéo, pas dupe une seconde.
@@ -507,8 +508,7 @@ prévenir. Il voudra sûrement construire quelque chose pour l'occasion.
 question, c'est plutôt combien de temps ça tiendra debout, cette
 fois-ci.
 
-— Pas longtemps, prédit Timéo, avec l'assurance tranquille d'un
-habitué.
+— Pas longtemps, prédit Timéo, du ton blasé d'un habitué.
 
 Le soleil grimpait déjà haut au-dessus de la haie, annonçant une de
 ces journées de plein automne où même les pierres du village

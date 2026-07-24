@@ -14,8 +14,8 @@ nous montrerait la haie ce matin.
 — Il y a combien de toiles, sur cette haie ? demanda Souly, en
 s'attablant devant un bol de café au lait.
 
-— Elle a dit qu'on verrait, répondit Sofia, avec un mystère qu'elle ne
-maîtrisait visiblement pas très bien elle-même.
+— Elle a dit qu'on verrait, répondit Sofia, en prenant un air
+mystérieux qu'elle ne maîtrisait visiblement pas très bien elle-même.
 
 — Et ta deuxième chaussette, elle est où ? demanda Souly, en désignant
 son pied du menton.
@@ -345,8 +345,8 @@ Timéo referma lentement son carnet, en respirant plus calmement.
 
 — Un motif à trouver, répéta-t-il. Ça, je peux faire.
 
-— Voilà, dit Salomé, avec un sourire soulagé. C'est exactement ce
-qu'on va faire, tous ensemble.
+— Voilà, dit Salomé, en relâchant enfin les épaules. C'est exactement
+ce qu'on va faire, tous ensemble.
 
 — Tu es toujours comme ça, avec les motifs cassés ? demanda Souly,
 curieux.
@@ -372,7 +372,8 @@ jusqu'à un renfoncement plus large entouré d'une petite clôture en
 bois.
 
 — Voici l'emplacement de la grande toile collective, annonça Salomé,
-avec une fierté visible. Celle qui doit atteindre sa taille maximale
+en désignant l'enclos d'un grand geste. Celle qui doit atteindre sa
+taille maximale
 pour la Nuit de la Grande Toile. Plusieurs araignées tissent
 ensemble, année après année, au même endroit.
 
