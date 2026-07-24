@@ -270,7 +270,7 @@ spirales noté dans la marge.
 — C'est... dit-il, avant de s'interrompre, cherchant ses mots.
 
 — Vous n'êtes pas obligé de trouver quelque chose de brillant à dire,
-remarqua Timéo, avec un sourire taquin. Un simple merci suffira.
+remarqua Timéo, l'air taquin. Un simple merci suffira.
 
 — Merci, dit Souly, sincèrement.
 

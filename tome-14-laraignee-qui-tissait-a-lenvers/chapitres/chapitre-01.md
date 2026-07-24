@@ -375,7 +375,8 @@ contenance. Demandez-moi d'expliquer la structure d'une toile devant
 cent adultes, aucun problème. Un enfant de huit ans qui me dit un mot
 gentil, et je perds tous mes moyens.
 
-— Je m'en souviendrai, dit Sofia, avec un sourire un peu malicieux.
+— Je m'en souviendrai, dit Sofia, un sourire un peu malicieux aux
+lèvres.
 
 Le maire s'attarda encore un moment sur la place, discutant du
 programme des festivités avec deux villageois attroupés près de la
