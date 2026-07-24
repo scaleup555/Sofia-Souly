@@ -5,7 +5,11 @@ chapitres, ~36 600 mots), approuvé par le jury à 8,8/10 après deux
 rounds de corrections, .docx livré — 2026-07-17*
 
 **À LIRE INTÉGRALEMENT avant de démarrer toute nouvelle session d'écriture**,
-avec `bible/personnages.md` et `bible/lecons_apprises.md` (sections
+avec `bible/personnages.md`, `bible/lecons_apprises.md`, et — depuis le
+2026-07-24 — `bible/titres_futurs.md` (liste fixée par l'utilisateur des
+titres réservés pour les tomes 14 à 33, à respecter dans l'ordre pour
+tout « tome suivant » futur). Sections de `lecons_apprises.md` à relire
+en priorité :
 « Tome 4 — session 1 » et « Tome 4 — session 2 », « Tome 2 — session de
 réétoffement », et désormais aussi « Tome 3 — session de réétoffement » :
 leçons méthodologiques majeures sur les gabarits liés à un objet/geste
