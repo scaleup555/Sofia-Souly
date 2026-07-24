@@ -570,6 +570,97 @@ Tout nouvel épisode doit relire ce fichier avant d'écrire une ligne.
 - Personnage-ressource pour tout tome futur à thème restauration/
   tourisme côtier.
 
+### Salomé Grangier (introduite au tome 14)
+- Arachnologue, **nièce de Mamie Rose** (lien familial inédit dans la
+  série, à distinguer de marraine de Camille, amie de longue date de
+  Mamie Rose, cousine de Camille [Karim tome 2, Solène tome 12],
+  ancienne élève de Mamie Rose [Naïma tome 13]). La trentaine.
+- Parle avec une aisance et une précision totales de son sujet devant
+  n'importe quel adulte, y compris en public — mais devient
+  timide et cherche ses mots dès qu'un ENFANT (jamais un adulte) lui
+  fait un compliment direct et personnel, une nuance distincte de
+  Naïma (tome 13, gênée par les compliments professionnels publics) et
+  de Solène (tome 12, intarissable jusqu'à devoir être interrompue).
+- Porte toujours une petite loupe pliante autour du cou, qu'elle sort
+  sans même y penser dès qu'elle s'approche d'une toile.
+- Personnage-ressource pour tout tome futur à thème arachnologie/
+  jardins/vergers.
+
+### Timéo Salvan (introduit au tome 14)
+- 9 ans, vit à Filargent. Fasciné par la géométrie et les motifs
+  répétitifs — à varier systématiquement des tempéraments déjà
+  utilisés pour les autres enfants-ressources (Max sûr de lui, Milo
+  grimpeur terre-à-terre, Yanis méfiant et loyal, Iris théâtrale et
+  enthousiaste, Zoé franche et bagarreuse, Bastien calme et très
+  observateur, Noé sceptique et pince-sans-rire, Mila artiste
+  distraite, Enzo distrait par le fonctionnel, Nino obsédé par
+  l'identité individuelle, Alma planificatrice obsessionnelle). Timéo,
+  lui, a besoin d'ordre et de symétrie pour se sentir bien : une toile
+  d'araignée asymétrique ou un motif cassé le déstabilise brièvement
+  (il compte et recompte, de plus en plus vite, jusqu'à ce qu'on
+  l'aide à recadrer le problème), avant de retrouver son calme et de
+  redevenir méthodique.
+- Dessine chaque toile qu'il observe dans un carnet à petits carreaux,
+  toujours à la même échelle.
+- Personnage-ressource pour tout tome futur à thème motifs naturels/
+  géométrie du vivant.
+
+### Angèle Pradier (introduite au tome 14)
+- La soixantaine-dizaine (âge volontairement vague, jamais précisé),
+  ancienne dentellière du village, à la retraite. Dépositaire d'une
+  règle familiale orale transmise depuis sa propre grand-mère
+  (« jamais de machine près de la haie, pendant les nuits de
+  tissage ») longtemps prise pour une superstition d'atelier, qui se
+  révèle décrire exactement la sensibilité des araignées aux
+  vibrations du sol.
+- Contrairement à Henriette (tome 10, carnet de comptage chiffré),
+  Auguste (tome 11, règle orale sur la pleine lune), Gaspard (tome 12,
+  règle liée à un souvenir professionnel de couvreur) et Madeleine
+  (tome 13, règle liée à une routine physique de gardienne de phare),
+  Angèle associe sa règle à son propre métier de dentellière : elle a
+  toujours travaillé la dentelle en silence absolu, convaincue depuis
+  l'enfance qu'« un fil qui tremble est un fil perdu », sans jamais
+  faire le lien avec les araignées du jardin avant cette enquête.
+- Personnage-ressource pour tout tome futur à thème artisanat
+  traditionnel/savoir-faire textile.
+
+### Léonard Cabestan (introduit au tome 14)
+- La soixantaine, ancien horloger du village devenu inventeur amateur
+  excentrique à la retraite, construit des cadres métalliques et des
+  dévidoirs de fil censés « aider » les araignées à retisser des
+  toiles parfaites, qui échouent systématiquement de façon comique
+  (rôle comique, distinct de Gustave Pinatel [tome 8], Norbert Chabrol
+  [tome 9], Barnabé Roquefeuil [tome 10], Octave Bouscaren [tome 11],
+  Ambroise Cadoret [tome 12] et Odette Rocher [tome 13] : Léonard ne
+  cherche ni à observer, ni à provoquer, ni à capturer en images, ni à
+  attirer, ni à guider un phénomène en cours — il veut littéralement
+  retisser une toile à la place de l'araignée, avec une précision
+  d'horloger complètement inadaptée à un fil de soie vivant).
+- Personnage-ressource pour tout tome futur à thème comique villageois/
+  mécanique de précision.
+
+### Sylvain Auberval (introduit au tome 14)
+- Technicien agricole, a fait installer une nouvelle pompe à eau
+  motorisée pour irriguer le verger voisin, sans savoir que ses
+  vibrations continues dans le sol perturberaient la perception
+  vibratoire des araignées du jardin — erreur de négligence, pas de
+  malveillance (dans l'esprit d'Antoine Ferrieux [tome 8], Thibault
+  Norrain [tome 9], Régis Sabatier [tome 10], Vincent Aubry [tome 11]
+  et Fabien Delorme [tome 12], Maxime Ravier [tome 13]).
+- Personnage-ressource pour tout tome futur à thème agriculture/
+  irrigation/faune.
+
+### Margaux Fontelle (introduite au tome 14)
+- Nouvelle propriétaire du verger voisin, injustement soupçonnée
+  d'avoir fait fuir ou tué les araignées avec un pesticide biologique
+  récemment pulvérisé sur ses arbres — accepte volontiers d'ajuster
+  son calendrier de traitement par précaution, même une fois
+  innocentée (dans l'esprit de Julien Mercier [tome 10], Laurine
+  Ferretti [tome 11], Constance Vallier [tome 12] et Roxane Guibert
+  [tome 13]).
+- Personnage-ressource pour tout tome futur à thème verger/agriculture
+  biologique.
+
 ## Règle d'or de continuité
 - Les faits établis dans un tome (âges, liens de parenté, peurs, habitudes) ne
   doivent JAMAIS être contredits dans un tome suivant.
