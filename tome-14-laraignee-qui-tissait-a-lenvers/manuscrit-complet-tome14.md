@@ -260,12 +260,17 @@ artistique.
 
 — Huit pattes, remarqua Souly. Ils ont bien compté, au moins.
 
+— Toi aussi, tu te mets à compter les pattes, maintenant ? demanda
+Sofia, amusée.
+
 — Contrairement à ton araignée à sept pattes et demie, plaisanta
 Souly.
 
 — Ce n'était qu'une seule fois, protesta Sofia. Et je maintiens ce
-que j'ai vu. Huit pattes, ça prouve surtout un truc, ajouta Souly, la
-tête penchée vers le panneau : une araignée, ce n'est pas un insecte.
+que j'ai vu.
+
+— Huit pattes, ça prouve surtout un truc, ajouta Souly, la tête
+penchée vers le panneau : une araignée, ce n'est pas un insecte.
 
 — Bien sûr que si, dit Sofia. Ça a des pattes, ça grouille un peu, ça
 fait peur. C'est un insecte.
@@ -3461,11 +3466,11 @@ elle, ça ne s'arrête jamais vraiment de la déranger, ajouta Souly.
 absente. Plus de trente ans à faire silence sans en connaître la
 raison, et voilà qu'un enfant me l'explique en une phrase.
 
-Un raffut de cadres qui s'entrechoquent annonça, depuis le jardin,
-l'arrivée de Léonard, poussant une nouvelle remorque chargée
-d'engrenages minuscules, une loupe de bijoutier vissée sur un œil et
-un rouleau de fil de soie synthétique enroulé autour du cou comme une
-écharpe.
+Une voix chantonnante, encore invisible derrière la haie du jardin,
+annonça Léonard bien avant qu'on ne le voie apparaître, poussant une
+nouvelle remorque chargée d'engrenages minuscules, une loupe de
+bijoutier vissée sur un œil et un rouleau de fil de soie synthétique
+enroulé autour du cou comme une écharpe.
 
 Il portait, en équilibre précaire sur la remorque, une structure
 métallique haute comme lui, hérissée de petites roues dentées et de
@@ -4957,13 +4962,13 @@ Le maire monta sur l'estrade, tapotant un micro qui grésilla.
 
 — Mes chers concitoyens, commença-t-il. Cette année, la Nuit de la
 Grande Toile risquait d'être bien triste. Depuis que mon arrière-
-grand-père a fondé cette fête, jamais la toile n'avait tissé de
-travers deux années de suite. Certains d'entre vous commençaient même
-à parler de malédiction, ce qui, en tant que maire, m'obligeait à
-sourire poliment tout en m'inquiétant sérieusement. Mais grâce au
-travail de notre arachnologue Salomé Grangier, et de deux jeunes
-enquêteurs particulièrement déterminés, nous avons enfin une
-explication.
+grand-père a fondé cette fête, jamais, de mémoire de village, la
+toile n'avait tissé de travers comme cette année. Certains d'entre
+vous commençaient même à parler de malédiction, ce qui, en tant que
+maire, m'obligeait à sourire poliment tout en m'inquiétant
+sérieusement. Mais grâce au travail de notre arachnologue Salomé
+Grangier, et de deux jeunes enquêteurs particulièrement déterminés,
+nous avons enfin une explication.
 
 Un murmure d'approbation parcourut la foule, et plusieurs têtes se
 tournèrent vers Sofia et Souly.
@@ -5542,7 +5547,7 @@ mais avec style.
 
 — Si tu le dis, dit Souly, en réprimant un sourire.
 
-— Pourquoi juste un socle en caoutchouc, remarqua Souly, en tenant un
+— Pourquoi juste un socle en caoutchouc, remarqua Timéo, en tenant un
 bloc dans ses mains. Pourquoi pas juste arrêter complètement la
 pompe, la nuit ?
 

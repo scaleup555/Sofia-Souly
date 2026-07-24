@@ -257,12 +257,17 @@ artistique.
 
 — Huit pattes, remarqua Souly. Ils ont bien compté, au moins.
 
+— Toi aussi, tu te mets à compter les pattes, maintenant ? demanda
+Sofia, amusée.
+
 — Contrairement à ton araignée à sept pattes et demie, plaisanta
 Souly.
 
 — Ce n'était qu'une seule fois, protesta Sofia. Et je maintiens ce
-que j'ai vu. Huit pattes, ça prouve surtout un truc, ajouta Souly, la
-tête penchée vers le panneau : une araignée, ce n'est pas un insecte.
+que j'ai vu.
+
+— Huit pattes, ça prouve surtout un truc, ajouta Souly, la tête
+penchée vers le panneau : une araignée, ce n'est pas un insecte.
 
 — Bien sûr que si, dit Sofia. Ça a des pattes, ça grouille un peu, ça
 fait peur. C'est un insecte.

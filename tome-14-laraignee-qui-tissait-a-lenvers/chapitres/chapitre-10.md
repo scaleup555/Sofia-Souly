@@ -132,13 +132,13 @@ Le maire monta sur l'estrade, tapotant un micro qui grésilla.
 
 — Mes chers concitoyens, commença-t-il. Cette année, la Nuit de la
 Grande Toile risquait d'être bien triste. Depuis que mon arrière-
-grand-père a fondé cette fête, jamais la toile n'avait tissé de
-travers deux années de suite. Certains d'entre vous commençaient même
-à parler de malédiction, ce qui, en tant que maire, m'obligeait à
-sourire poliment tout en m'inquiétant sérieusement. Mais grâce au
-travail de notre arachnologue Salomé Grangier, et de deux jeunes
-enquêteurs particulièrement déterminés, nous avons enfin une
-explication.
+grand-père a fondé cette fête, jamais, de mémoire de village, la
+toile n'avait tissé de travers comme cette année. Certains d'entre
+vous commençaient même à parler de malédiction, ce qui, en tant que
+maire, m'obligeait à sourire poliment tout en m'inquiétant
+sérieusement. Mais grâce au travail de notre arachnologue Salomé
+Grangier, et de deux jeunes enquêteurs particulièrement déterminés,
+nous avons enfin une explication.
 
 Un murmure d'approbation parcourut la foule, et plusieurs têtes se
 tournèrent vers Sofia et Souly.

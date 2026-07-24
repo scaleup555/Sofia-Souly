@@ -241,11 +241,11 @@ elle, ça ne s'arrête jamais vraiment de la déranger, ajouta Souly.
 absente. Plus de trente ans à faire silence sans en connaître la
 raison, et voilà qu'un enfant me l'explique en une phrase.
 
-Un raffut de cadres qui s'entrechoquent annonça, depuis le jardin,
-l'arrivée de Léonard, poussant une nouvelle remorque chargée
-d'engrenages minuscules, une loupe de bijoutier vissée sur un œil et
-un rouleau de fil de soie synthétique enroulé autour du cou comme une
-écharpe.
+Une voix chantonnante, encore invisible derrière la haie du jardin,
+annonça Léonard bien avant qu'on ne le voie apparaître, poussant une
+nouvelle remorque chargée d'engrenages minuscules, une loupe de
+bijoutier vissée sur un œil et un rouleau de fil de soie synthétique
+enroulé autour du cou comme une écharpe.
 
 Il portait, en équilibre précaire sur la remorque, une structure
 métallique haute comme lui, hérissée de petites roues dentées et de

@@ -189,7 +189,7 @@ mais avec style.
 
 — Si tu le dis, dit Souly, en réprimant un sourire.
 
-— Pourquoi juste un socle en caoutchouc, remarqua Souly, en tenant un
+— Pourquoi juste un socle en caoutchouc, remarqua Timéo, en tenant un
 bloc dans ses mains. Pourquoi pas juste arrêter complètement la
 pompe, la nuit ?
 
