@@ -1,8 +1,8 @@
 # État d'avancement — Série Sofia & Souly
 
-*Dernière mise à jour : Tome 9 rédigé en une seule passe (12/12
-chapitres, ~36 600 mots), approuvé par le jury à 8,8/10 après deux
-rounds de corrections, .docx livré — 2026-07-17*
+*Dernière mise à jour : Tome 14 rédigé en une seule passe (12/12
+chapitres, 37 280 mots), approuvé par le jury à 8,4/10 dès le premier
+passage (« polish uniquement »), .docx livré — 2026-07-24*
 
 **À LIRE INTÉGRALEMENT avant de démarrer toute nouvelle session d'écriture**,
 avec `bible/personnages.md`, `bible/lecons_apprises.md`, et — depuis le
@@ -871,3 +871,71 @@ dans le récit)).
   terminés** ; tome 13 complet à 37 280 mots, livré à 8,9/10 — validation
   directe que l'application cumulative des leçons n°20 à 29 réduit le
   nombre de rounds de correction nécessaires.
+
+### Session 20 (tome 14, écriture complète) — 2026-07-24
+- Même consigne implicite (« tome suivant »), mêmes exigences que les
+  tomes 10 à 13 : qualité très soignée, plancher ferme de 36 000 mots
+  (max 40 000), dialogues privilégiés, plusieurs passages très drôles,
+  scènes embarrassantes-attendrissantes réparties sur plusieurs
+  personnages.
+- En amont de ce tome, à la demande explicite de l'utilisateur, une
+  liste de 20 titres énigmatiques pour les tomes 14 à 33 a été
+  produite et enregistrée dans `bible/titres_futurs.md`, à respecter
+  dans l'ordre pour toute future session « tome suivant ». Ce tome 14
+  reprend le premier titre de cette liste : « L'Araignée qui tissait à
+  l'envers ».
+- Thème : arachnologie (construction de toile, deux types de soie —
+  soie de cadre pour la structure, soie de capture pour la spirale
+  collante —, recyclage nocturne de la toile, perception par
+  vibrations/mécanoréception, dispersion des araignillons par
+  « ballooning »), premier tome de la série sur ce thème. Décor :
+  Filargent, la Haie d'Argent, la Nuit de la Grande Toile (phénomène
+  réel et rare de toiles collectives/sociales). Nouveaux personnages
+  ajoutés à `bible/personnages.md` : Salomé Grangier (arachnologue,
+  nièce de Mamie Rose et fille du grand-oncle Théo — lien de parenté
+  explicitement établi pour éviter toute ambiguïté généalogique
+  future), Timéo Salvan (9 ans, observateur méthodique des toiles),
+  Angèle Pradier (ancienne dentellière, règle familiale orale), Léonard
+  Cabestan (horloger retraité, inventeur de « cadres » qui échouent en
+  progressant), Sylvain Auberval (installateur de la pompe, cause
+  réelle par excès de bonne volonté) et Margaux Fontelle (nouvelle
+  propriétaire du verger, injustement soupçonnée).
+- Double fair-play : élimination du pesticide de Margaux par
+  chronologie (écart constant de dix jours avec l'incident —
+  délibérément différent des onze jours utilisés aux tomes 10 à 12,
+  pour varier le motif numérique), pompe à eau de Sylvain comme vraie
+  cause (écart constant d'un jour avec l'incident déclencheur), règle
+  familiale orale d'Angèle validée scientifiquement (vibrations
+  perturbant le tissage), résolution collaborative par un socle
+  amortisseur en caoutchouc plutôt qu'un simple arrêt de la pompe.
+- Rédaction complète des 12 chapitres en une seule passe (~14 576
+  mots), puis expansion en parallèle via 3 agents dédiés (ch1-4,
+  ch5-8, ch9-12), **menés à terme sans échec d'infrastructure**,
+  suivie d'un renforcement manuel ciblé du volume jusqu'à une marge de
+  sécurité de plus de 1 200 mots au-dessus du plancher strict.
+- Vérification structurelle dédiée en trois passages parallèles par
+  groupe de chapitres : aucun bug de répliques consécutives détecté à
+  ce stade (contraste net avec les tomes précédents), chronologie
+  entièrement cohérente, mais plusieurs défauts réels trouvés et
+  corrigés : contradiction de chronologie interne entre les
+  chapitres 7 et 8 sur la nuit d'observation (le départ nocturne du
+  ch.7 anticipait à tort l'intrigue du ch.9), incohérence sur le
+  caillou prêté à Sylvain, incohérence mineure sur l'heure de réveil
+  de Souly, attribution erronée du gag « sept pattes et demie » (blague
+  de Sofia, pas de Souly), duplication du tic de comptage sous stress
+  de Souly par le nouveau personnage Timéo, et une ambiguïté
+  généalogique sur le père de Salomé, clarifiée dans le texte et la
+  bible. Passe stylistique dédiée supplémentaire : 44 étiquettes de
+  dialogue « avec un(e) + nom abstrait » reformulées sur l'ensemble du
+  livre (le point faible historique n°1 de la série depuis le tome 10).
+- 1 seul passage jury complet nécessaire sur le manuscrit fini :
+  **8,4/10 dès le premier passage**, verdict « à corriger, polish
+  uniquement ». Défauts de polish trouvés et corrigés directement, sans
+  second passage jury complet : un bug résiduel de répliques
+  consécutives/fusionnées (ch.1), un gabarit d'arrivée de Léonard trop
+  proche entre deux chapitres (ch.3/ch.7), une phrase du maire (ch.10)
+  sous-entendant à tort un précédent historique non établi, et une
+  réattribution de réplique (ch.11).
+- Livraison du fichier `.docx` final via un nouveau `build_docx.py`
+  (calqué sur celui du tome 13). **Tomes 1 à 13 toujours entièrement
+  terminés** ; tome 14 complet à 37 280 mots, livré à 8,4/10.

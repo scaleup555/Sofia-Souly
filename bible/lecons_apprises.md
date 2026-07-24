@@ -1523,6 +1523,65 @@ doit être vérifiée contre la bible avant d'être validée — ne pas
 supposer qu'une comparaison d'âge anodine est sans risque simplement
 parce que ce n'est pas une affirmation d'âge directe.**
 
+**Leçon méthodologique n°32 — une insertion tampon manuelle peut
+réintroduire un tic déjà plafonné/banni ailleurs dans le livre, y
+compris un tic que l'auteur (moi) vient tout juste d'apprendre à
+éviter dans la même session.** Au tome 14, deux insertions tampons
+manuelles ont chacune fait remonter un tic au-delà de son plafond dans
+le même chapitre : « genre de » (plafond d'une occurrence par
+chapitre) dans les chapitres 3 et 12, et « imperturbable » (banni
+depuis plusieurs tomes) proposé dans un dialogue de Léonard au
+chapitre 10, avant d'être remplacé par « sans se vexer » lors de la
+relecture immédiate. **Règle ajoutée : après CHAQUE insertion tampon
+manuelle (pas seulement à la fin du renforcement de volume), relire la
+phrase ajoutée à voix haute contre la liste des tics bannis/plafonnés
+— une insertion de « remplissage » express, écrite vite pour atteindre
+un objectif de mots, est statistiquement plus risquée qu'un texte
+rédigé posément, précisément parce qu'elle est écrite sans la même
+vigilance stylistique.**
+
+**Leçon méthodologique n°33 — un agent jury qui relit un manuscrit
+compilé (tous les chapitres concaténés dans un seul fichier) peut mal
+localiser un chapitre d'origine à partir du numéro de ligne du fichier
+compilé, produisant un faux positif de type « répétition dans le même
+chapitre ».** Au tome 14, le jury a signalé une violation du plafond
+« genre de » (max 1 par chapitre) en citant deux numéros de ligne
+proches dans le fichier `manuscrit-complet-tome14.md`, les attribuant
+tous deux au chapitre 4 — alors qu'en réalité, une occurrence se
+trouvait dans le chapitre 4 et l'autre dans le chapitre 5 (la jonction
+entre les deux chapitres, dans le fichier compilé, tombait à un
+endroit qui a trompé l'attribution de l'agent). Une vérification
+directe avec `grep -c` sur les fichiers de chapitres individuels a
+confirmé qu'il n'y avait aucune violation réelle. **Règle ajoutée :
+avant d'appliquer une correction demandée par le jury sur la base d'un
+numéro de ligne du manuscrit compilé, toujours revérifier avec un grep
+ciblé sur les fichiers de chapitres individuels — ne pas supposer que
+l'attribution de chapitre du jury est exacte, en particulier pour des
+défauts « proches » signalés à des lignes voisines.**
+
+**Bilan chiffré (tome 14) :** rédaction des 12 chapitres en une seule
+passe (~14 576 mots), expansion parallèle par 3 agents menés à terme
+sans échec d'infrastructure, puis renforcement manuel ciblé du volume
+jusqu'à 37 188 mots. Trois bugs auto-détectés et corrigés pendant la
+rédaction elle-même (avant tout passage de vérification) : une
+incohérence grand-mère/arrière-grand-mère, un bug de répliques
+consécutives, et un tic banni combiné à un problème de point de vue.
+Vérification structurelle en trois passages parallèles : zéro bug de
+répliques consécutives détecté à ce stade (record de la série),
+chronologie entièrement cohérente dès la première vérification, mais
+plusieurs défauts réels trouvés : contradiction de chronologie interne
+entre deux chapitres consécutifs sur une scène d'observation nocturne,
+une incohérence d'objet (caillou prêté puis réapparu à tort), une
+ambiguïté généalogique sur un nouveau personnage, et une duplication de
+tic de personnage par un nouveau personnage. Passe stylistique dédiée :
+44 étiquettes « avec un(e) + nom abstrait » reformulées sur l'ensemble
+du livre. 1 seul passage jury complet sur le manuscrit fini : **8,4/10
+dès le premier passage**, verdict « à corriger, polish uniquement »,
+avec un seul vrai bug de répliques résiduel détecté sur l'ensemble du
+livre — confirmation que l'application cumulative des leçons
+antérieures continue de réduire le nombre de défauts structurels
+trouvés à ce stade tardif du pipeline.
+
 **Bilan chiffré (tome 13) :** rédaction des 12 chapitres en une seule
 passe (~13 500 mots, la plus longue première passe de la série à ce
 jour), expansion parallèle par 3 agents menés à terme sans échec
