@@ -53,8 +53,8 @@ pas, j'espère.
 — Elle t'en voudra sûrement un peu, dit Sofia. Mais pour une bonne
 raison, ça compte différemment.
 
-— C'est exactement ce que je me suis dit, à cinq heures et demie du
-matin, admit Souly.
+— C'est exactement ce que je me suis dit, dès six heures ce matin,
+admit Souly.
 
 Un petit coup discret contre la fenêtre les fit sursauter. Timéo se
 tenait dehors, son carnet à petits carreaux sous le bras et un panier
@@ -258,14 +258,15 @@ d'un habitué des imprévus. Mais on est aussi prêts qu'on peut l'être.
 Un coup frappé à la porte annonça l'arrivée de Sylvain, visiblement
 mal à l'aise, un dossier serré contre sa poitrine à deux mains.
 
-Il portait encore, glissé dans la poche de sa chemise, un petit
-caillou gris qu'il n'avait visiblement pas quitté depuis plusieurs
-jours.
+Il portait, glissé dans la poche de sa chemise, un petit caillou gris
+— pas celui de Sofia, rendu depuis longtemps, mais un autre, ramassé
+depuis sur le même rebord de fenêtre, comme pour prolonger le geste.
 
-— Vous l'avez gardé, remarqua Sofia, en désignant sa poche.
+— Vous en avez trouvé un autre, remarqua Sofia, en désignant sa poche.
 
-— Il porte chance, dit Sylvain, presque gêné. Enfin, je crois de plus
-en plus qu'il porte surtout un peu de courage.
+— Celui-là ne me quitte plus, avoua Sylvain, presque gêné. Il porte
+chance. Enfin, je crois de plus en plus qu'il porte surtout un peu de
+courage.
 
 — C'est déjà beaucoup, dit Sofia, ravie.
 

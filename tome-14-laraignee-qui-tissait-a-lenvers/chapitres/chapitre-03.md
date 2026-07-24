@@ -460,7 +460,7 @@ peu plus grand, et un peu plus de travers.
 — Il a encore une feuille dans les cheveux, remarqua Sofia, en
 regardant Léonard s'éloigner sur le sentier.
 
-— Deux, corrigea Timéo, qui avait l'œil pour ce genre de détail.
+— Deux, corrigea Timéo, qui avait l'œil pour ces petits détails-là.
 Une de groseillier, une de je-ne-sais-quoi.
 
 — Il ne s'en rendra compte qu'en rentrant chez lui, prédit Souly.

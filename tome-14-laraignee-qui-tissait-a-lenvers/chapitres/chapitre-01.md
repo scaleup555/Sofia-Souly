@@ -54,7 +54,7 @@ de dessous une toile d'araignée. C'est presque pareil.
 — Rien de ce que tu viens de dire n'est presque pareil, remarqua
 Souly.
 
-— Toi, tu gardes bien ta veilleuse grenouille depuis huit ans,
+— Toi, tu gardes bien ta veilleuse grenouille depuis toujours,
 rétorqua Sofia. On ne va pas parler de ce qui est presque pareil ou
 pas.
 
@@ -148,9 +148,11 @@ Rose.
 — Votre nièce ? s'étonna Sofia. On ne savait même pas que vous aviez
 une nièce.
 
-— La fille de mon frère, expliqua Mamie Rose. Elle est devenue
-arachnologue. Elle étudie les araignées depuis qu'elle est toute
-petite, et je ne l'ai jamais vue s'ennuyer une seule fois avec elles.
+— La fille de votre grand-oncle Théo, figurez-vous, expliqua Mamie
+Rose. Il ne vous en a sans doute jamais parlé, toujours entre deux
+fouilles. Elle est devenue arachnologue. Elle étudie les araignées
+depuis qu'elle est toute petite, et je ne l'ai jamais vue s'ennuyer
+une seule fois avec elles.
 
 — Et cette année ? demanda Souly, qui sentait déjà où la conversation
 menait.
@@ -255,13 +257,12 @@ artistique.
 
 — Huit pattes, remarqua Souly. Ils ont bien compté, au moins.
 
-— Contrairement à toi et tes araignées à sept pattes et demie,
-plaisanta Sofia.
+— Contrairement à ton araignée à sept pattes et demie, plaisanta
+Souly.
 
-— Ce n'était qu'une seule fois, protesta Souly. Et c'est TOI qui as
-vu ça, pas moi. Huit pattes, ça prouve surtout un truc, ajouta-t-il,
-la tête penchée vers le panneau : une araignée, ce n'est pas un
-insecte.
+— Ce n'était qu'une seule fois, protesta Sofia. Et je maintiens ce
+que j'ai vu. Huit pattes, ça prouve surtout un truc, ajouta Souly, la
+tête penchée vers le panneau : une araignée, ce n'est pas un insecte.
 
 — Bien sûr que si, dit Sofia. Ça a des pattes, ça grouille un peu, ça
 fait peur. C'est un insecte.

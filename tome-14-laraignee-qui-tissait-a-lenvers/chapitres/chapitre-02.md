@@ -317,8 +317,9 @@ Et puis celle-ci a tout cassé.
 — Ce n'est pas ta faute, dit Sofia, aussitôt.
 
 — Je sais, dit Timéo, en recomptant les pages de son carnet, de plus
-en plus vite, comme s'il cherchait à retrouver un ordre disparu. Un.
-Deux. Trois. Vingt-deux toiles parfaites. Vingt-deux.
+en plus vite, comme s'il cherchait à retrouver un ordre disparu.
+Vingt, vingt-et-un, vingt-deux. Vingt-deux toiles parfaites.
+Vingt-deux.
 
 — Timéo, l'appela doucement Salomé.
 

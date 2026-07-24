@@ -153,8 +153,8 @@ poussière du verger, remarqua Souly.
 
 — Celle-là pourrait être la première, dit Sofia, pleine d'espoir.
 
-— Propose l'idée à Léonard, suggéra Souly. Il adorerait ce genre de
-défi.
+— Propose l'idée à Léonard, suggéra Souly. Un défi pareil, il
+adorerait.
 
 — Le cadre dix, peut-être, dit Sofia, en riant. Une douche de voiture
 qui ne fonctionnerait sûrement pas du premier coup.

@@ -495,18 +495,20 @@ me les rendre.
 écarlates, en rechargeant sa remorque un peu trop vite pour que ça
 paraisse naturel.
 
-— En attendant, dit Salomé, il faudrait surtout qu'on rentre se
-préparer. La nuit d'observation commence bientôt, et personne n'a
-encore mangé.
+— En attendant, dit Salomé, il faudrait surtout qu'on pense à rentrer.
+La vraie nuit d'observation viendra bien assez tôt, et personne n'a
+encore dîné.
 
-— Je peux vous préparer quelque chose à emporter, proposa Angèle, déjà
-debout. Ça ira plus vite que de rentrer chacun de son côté.
+— Je peux vous préparer quelque chose avant que vous partiez, proposa
+Angèle, déjà debout. Un peu de soupe, ça tient chaud, avant une longue
+soirée à ne rien faire d'autre qu'attendre.
 
 — Vous êtes sûre que ça ne vous dérange pas ? demanda Souly.
 
 — Ça me dérangerait bien plus de vous laisser partir le ventre vide,
 répondit Angèle, en ouvrant déjà son garde-manger. Une nuit
-d'observation, ça se fait toujours mieux l'estomac plein.
+d'observation, quelle qu'elle soit, ça se prépare toujours mieux
+l'estomac plein.
 
 Dehors, la nuit avait fini de tomber tout à fait, et les premières
 étoiles perçaient au-dessus de la haie, contre laquelle la lumière de

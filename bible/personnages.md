@@ -55,6 +55,8 @@ Tout nouvel épisode doit relire ce fichier avant d'écrire une ligne.
 - Distrait au point d'oublier où il a garé sa voiture, mais mémoire photographique
   pour tout ce qui a plus de 2000 ans.
 - Porte un gilet à mille poches, ne s'en sépare jamais.
+- Père de Salomé Grangier (tome 14), qu'il voit peu, toujours entre deux fouilles —
+  fait établi au tome 14 pour lever toute ambiguïté sur le lien de parenté.
 
 ## Personnages récurrents secondaires (apparitions possibles, pas obligatoires)
 
@@ -571,10 +573,11 @@ Tout nouvel épisode doit relire ce fichier avant d'écrire une ligne.
   tourisme côtier.
 
 ### Salomé Grangier (introduite au tome 14)
-- Arachnologue, **nièce de Mamie Rose** (lien familial inédit dans la
-  série, à distinguer de marraine de Camille, amie de longue date de
-  Mamie Rose, cousine de Camille [Karim tome 2, Solène tome 12],
-  ancienne élève de Mamie Rose [Naïma tome 13]). La trentaine.
+- Arachnologue, **nièce de Mamie Rose, fille de Grand-oncle Théo**
+  (lien familial explicitement établi au tome 14, à distinguer de
+  marraine de Camille, amie de longue date de Mamie Rose, cousine de
+  Camille [Karim tome 2, Solène tome 12], ancienne élève de Mamie Rose
+  [Naïma tome 13]). La trentaine.
 - Parle avec une aisance et une précision totales de son sujet devant
   n'importe quel adulte, y compris en public — mais devient
   timide et cherche ses mots dès qu'un ENFANT (jamais un adulte) lui
