@@ -472,6 +472,9 @@ chiffre à ajouter à sa collection.
 — C'est exactement le plan, confirma Sofia, en s'installant à table,
 l'appétit soudain décuplé par l'odeur de la soupe.
 
+— On y va tous les trois, alors, décida Souly, en repoussant son
+assiette vide.
+
 — Vous croyez qu'elle va nous croire tout de suite, ou qu'elle voudra
 vérifier trois fois avant ? demanda Sofia, la cuillère déjà en main.
 
@@ -494,6 +497,9 @@ aussitôt une ligne à son carnet pour ne pas l'oublier.
 oublient parfois quelque chose.
 
 — Une fois, corrigea Souly, un peu vexé. Ça n'arrivera plus.
+
+— On te croit, dit Sofia, sans la moindre trace de doute dans la
+voix.
 
 — Demain, alors, dit Souly, en refermant son carnet pour de bon,
 cette fois. Une bonne nuit de sommeil, et on repart de plus belle.

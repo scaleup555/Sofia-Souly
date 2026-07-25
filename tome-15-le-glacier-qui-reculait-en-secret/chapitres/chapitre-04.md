@@ -434,7 +434,7 @@ plat fumant, qu'est-ce que ça peut bien être ?
 — Ça, dit Aude, plus grave soudain, c'est exactement la question
 qu'on devrait tous se poser un peu plus fort.
 
-— On a rencontré Firmin, avant-hier, dit Sofia, la fourchette
+— On a rencontré Firmin, hier, dit Sofia, la fourchette
 suspendue. Il a une petite idée, mais il ne veut rien dire.
 
 — Ça ne m'étonne pas de lui, dit Aude, en secouant la tête d'un air

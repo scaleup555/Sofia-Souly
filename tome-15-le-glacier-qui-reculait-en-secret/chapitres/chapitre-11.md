@@ -91,11 +91,8 @@ Souly, en évaluant du regard le poids de la caisse.
 — Toute la matinée, sans doute, dit Aude. Peut-être un peu plus, si
 le vent se lève sur la crête.
 
-— Des années, en principe, dit Aude. À condition que personne ne le
-prenne pour un rocher intéressant à déplacer.
-
-— On devrait mettre un panneau, suggéra Sofia. « Ne pas toucher, ceci
-n'est pas un rocher. »
+— On devrait mettre un panneau, pour prévenir les randonneurs,
+suggéra Sofia. « Ne pas toucher, ceci n'est pas un rocher. »
 
 — Ça ferait un très bel écriteau, dit Aude, amusée. Je note l'idée.
 

@@ -299,9 +299,10 @@ Aude bondit vers son écran, les yeux rivés sur une courbe qui venait de tressa
 
 — Enregistré, souffla-t-elle, presque religieusement. Un grondement, suivi d'un silence. Exactement le schéma qu'on cherchait.
 
-— On l'a eu, dit Souly, le carnet tremblant un peu dans ses mains froides.
-
-— Un. Deux. Trois, compta-t-il tout bas, avant de rouvrir son carnet d'une main plus assurée. Grondement enregistré à vingt-deux heures dix-sept.
+— On l'a eu, dit Souly, le carnet tremblant un peu dans ses mains
+froides. Un. Deux. Trois, compta-t-il tout bas, avant de rouvrir son
+carnet d'une main plus assurée. Grondement enregistré à vingt-deux
+heures dix-sept.
 
 — Tu comptes même les minutes, remarqua Sofia.
 

@@ -32,6 +32,9 @@ l'enthousiasme. Ça ne fait pas de la musique, ça fait du bruit.
 
 — Ça peut être les deux à la fois, répliqua Sofia.
 
+— Ça, ce n'est pas très scientifique, remarqua Souly, en jetant un
+œil au chat gris toujours immobile sur son rebord de fenêtre.
+
 — Il connaît déjà toute l'enquête, celui-là, j'en suis sûre, dit
 Sofia, en saluant le chat d'un signe de tête.
 
@@ -341,8 +344,8 @@ ceinture. Une autre fois, peut-être. Aujourd'hui, j'ai un volet à
 finir.
 
 — Vous dites toujours ça, remarqua Basile, en levant les yeux au
-ciel comme quelqu'un qui a déjà entendu la phrase cent fois. Le
-volet, ça fait trois jours qu'il est fini.
+ciel comme quelqu'un qui a déjà entendu la phrase cent fois. Celui
+d'hier était déjà fini quand vous l'avez dit.
 
 — Il y a toujours un autre volet, quelque part, répondit Firmin, sans
 se démonter, avant de rentrer chez lui en sifflotant le même air que
@@ -435,6 +438,9 @@ temps de s'inquiéter pour de vraies souris dans la maison.
 
 — Ça, ça m'aurait étonnée de ta part, dit Mamie Rose, amusée, en
 resservant une louche de soupe à Sofia sans même qu'elle la demande.
+
+— Des vraies souris, ce serait quand même moins joli, remarqua Sofia,
+la cuillère déjà en main.
 
 — Et Firmin ? demanda Mamie Rose, plus doucement, en s'asseyant
 enfin avec eux. Il a bien fini par vous dire quelque chose ?

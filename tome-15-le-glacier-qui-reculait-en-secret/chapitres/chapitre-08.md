@@ -38,6 +38,8 @@ par-dessus son épaule.
 centimètre. Comme ça, on voit tout de suite si un écart est plus
 grand qu'un autre.
 
+— Et les couleurs, c'est pour faire joli ? demanda Sofia.
+
 — J'ai utilisé trois couleurs, précisa-t-il, non sans fierté. Bleu
 pour le lac, rouge pour l'incident, vert pour la conduite du refuge.
 
@@ -162,6 +164,9 @@ comme toujours, à la main.
 
 — Une preuve qui bouge selon le jour où on la regarde n'en est pas
 vraiment une, ajouta-t-elle, en s'installant à table.
+
+— Vous avez du nouveau, vous aussi ? demanda Souly, en désignant le
+capteur qu'elle venait de poser.
 
 — On a testé le Bouquetin III hier soir, annonça-t-elle. Il capte
 enfin quelque chose. D'assez mauvaise qualité, mais quelque chose.

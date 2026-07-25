@@ -454,7 +454,8 @@ Elle glissa le nouveau caillou dans sa poche, juste à côté de celui
 que Firmin lui avait offert, et les fit tinter légèrement l'un contre
 l'autre.
 
-— Deux, cette fois, remarqua Souly. Un nouveau record.
+— Ta poche pèse de plus en plus lourd, à chaque village, remarqua
+Souly.
 
 — Celui de Firmin ne compte pas vraiment, expliqua Sofia, sérieuse.
 C'est un cadeau. Ceux que je trouve moi-même, c'est différent.

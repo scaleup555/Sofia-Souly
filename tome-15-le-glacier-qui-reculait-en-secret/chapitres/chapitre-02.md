@@ -116,7 +116,7 @@ plutôt deux virgule trois.
 — Vous avez ce chiffre en tête comme ça, sans réfléchir ? s'étonna
 Souly, impressionné malgré lui.
 
-— Vingt ans de métier, dit Aude. Je pourrais vous réciter le débit du
+— Dix ans de métier, dit Aude. Je pourrais vous réciter le débit du
 torrent en dormant.
 
 — Est-ce que vous le faites vraiment, en dormant ? demanda Sofia,
@@ -152,6 +152,9 @@ Sofia, en regardant le thermos qu'Aude venait de poser sur la table.
 
 — Un thermos par génération, confirma Aude. C'est presque une
 tradition, à ce stade.
+
+— Et ces points rouges, sur la carte ? demanda Souly, en désignant
+l'écran.
 
 — Ces points, ce sont mes balises, expliqua Aude. Plantées dans la
 glace, elles bougent avec elle. Je les mesure chaque semaine pour

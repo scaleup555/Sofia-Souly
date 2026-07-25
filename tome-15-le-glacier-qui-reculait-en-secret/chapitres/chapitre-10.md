@@ -435,13 +435,14 @@ applaudissements reprirent, plus graves que les premiers, mais sincères.
 — Merci de nous avoir dit la vérité, même la partie difficile, lança
 une voix depuis le premier rang.
 
-— C'est notre travail, dit Aude, avec un sourire fatigué mais réel.
+— C'est notre travail, dit Aude, la fatigue de la nuit perçant sous
+le soulagement.
 Et celui de deux enquêteurs qui n'ont rien lâché de toute la semaine.
 
 Sofia et Souly échangèrent un regard, un peu dépassés par l'ampleur
 de ce qu'ils venaient de déclencher.
 
-— Cinq jours de vacances, et on a fait pleurer un glacier, chuchota
+— Une semaine de vacances, et on a fait pleurer un glacier, chuchota
 Sofia, mi-fière mi-secouée.
 
 — Techniquement, c'est nous qui l'avons fait parler, corrigea Souly.

@@ -120,7 +120,7 @@ apparut, immense, presque irréelle sous le soleil de fin de matinée.
 — C'est lui ? demanda Sofia, la bouche entrouverte.
 
 — Le Glacier des Trois Sœurs, confirma Mamie Rose. On le voit depuis
-tout le village, à Neigerive. Ma vieille amie Aude passe sa vie à le
+tout le village, à Neigerive. Une amie de la famille passe sa vie à le
 regarder de plus près que quiconque.
 
 — Vous avez une amie glaciologue ? s'étonna Souly. Vous ne l'avez
@@ -239,9 +239,9 @@ poche de sa veste polaire.
 buta contre le rebord d'une jardinière et rattrapa de justesse son
 thermos avant qu'il ne bascule. Ça fait un temps fou.
 
-— Toujours aussi pressée de me voir, remarqua Mamie Rose, un sourcil
-levé, en désignant du menton le café qui avait quand même éclaboussé
-la manche d'Aude.
+— Toujours aussi pressée de me voir, remarqua Mamie Rose, amusée, en
+désignant du menton le café qui avait quand même éclaboussé la manche
+d'Aude.
 
 — C'est le thermos qui est pressé, se défendit Aude, en essuyant sa
 manche d'un geste rapide, les joues un peu rouges. Moi, je suis
