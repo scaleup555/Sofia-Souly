@@ -664,6 +664,67 @@ Tout nouvel épisode doit relire ce fichier avant d'écrire une ligne.
 - Personnage-ressource pour tout tome futur à thème verger/agriculture
   biologique.
 
+### Aude Sernin (introduite au tome 15)
+- Glaciologue, tient la station de mesure au pied du Glacier des Trois
+  Sœurs. Amie de longue date de Grand-oncle Théo (rencontrés lors d'une
+  mission commune où une carotte de glace avait révélé du pollen
+  ancien) — lien d'entrée en scène volontairement différent des liens
+  « nièce/cousine/ancienne élève de Mamie Rose » déjà utilisés aux
+  tomes 12 à 14, pour varier le mécanisme d'introduction du personnage-
+  ressource. La trentaine.
+- Refuse de jamais arrondir un chiffre : donne systématiquement la
+  décimale exacte, même quand personne ne le lui demande (tic distinct
+  du tic de Salomé [tome 14, rougit devant les compliments d'enfants]).
+- Garde en permanence un thermos de café cabossé qui semble ne jamais
+  se vider, malgré ce qu'elle en verse.
+- Personnage-ressource pour tout tome futur à thème glaciologie/
+  montagne/hydrologie.
+
+### Basile Ancelin (introduit au tome 15)
+- 9 ans, garçon du village de Neigerive. Photographie la Pierre-Repère
+  chaque année et superpose les clichés pour mesurer le recul du
+  glacier — habitude commencée avec son grand-père, décédé l'année
+  précédente (mentionné avec pudeur, jamais de scène de deuil appuyée).
+  Range ses photos dans une pochette plastique qu'il trie sans cesse.
+- Exprime tout en pourcentages et en ratios plutôt qu'en comptage brut
+  (tic distinct du comptage à voix haute de Timéo [tome 14]).
+- Personnage-ressource pour tout tome futur à thème montagne/mesure/
+  photographie scientifique.
+
+### Firmin Roybon (introduit au tome 15)
+- Ancien guide de haute montagne à la retraite, plus de 70 ans. Détient
+  une règle orale transmise par les guides avant lui : « Quand le Lac
+  Furtif se tait, ne fais pas confiance au moulin. » Longtemps prise
+  pour une superstition de vieux guide, validée scientifiquement dans
+  le tome où elle apparaît.
+- Personnage-ressource pour tout tome futur à thème montagne/savoir
+  traditionnel de guide.
+
+### Hippolyte Fresnel (introduit au tome 15)
+- Inventeur amateur du village de Neigerive, 60 ans passés. Construit
+  des dispositifs de mesure toujours plus élaborés qui échouent avec
+  bonne humeur, numérotés par noms d'animaux de montagne plutôt que
+  par chiffres bruts (« Le Chamois I », « Le Bouquetin II »...) —
+  gabarit comique volontairement distinct de celui de Léonard Cabestan
+  [tome 14, cadres numérotés]. Son dernier prototype finit par se
+  révéler utile en fin de tome.
+- Personnage-ressource pour tout tome futur à thème invention amateur/
+  bricolage scientifique (dans l'esprit de Léonard Cabestan [tome 14]
+  et Odette Rocher [tome 13], sans jamais être le même personnage).
+
+### Corentin Chalvin (introduit au tome 15)
+- Gérant du refuge de montagne près de Neigerive, 35-40 ans. A fait
+  agrandir récemment la conduite d'arrivée d'eau du refuge ; soupçonné
+  à tort d'avoir asséché le moulin du village. Sincère, inquiet,
+  coopératif une fois innocenté (dans l'esprit d'Antoine Ferrieux
+  [tome 8], Thibault Norrain [tome 9], Régis Sabatier [tome 10],
+  Vincent Aubry [tome 11], Fabien Delorme [tome 12], Maxime Ravier
+  [tome 13] et Sylvain Auberval [tome 14]) — prénom volontairement
+  distinct de « Thibault Norrain » (tome 9) malgré le thème rural
+  partagé, pour éviter toute confusion.
+- Personnage-ressource pour tout tome futur à thème montagne/tourisme/
+  refuge.
+
 ## Règle d'or de continuité
 - Les faits établis dans un tome (âges, liens de parenté, peurs, habitudes) ne
   doivent JAMAIS être contredits dans un tome suivant.
