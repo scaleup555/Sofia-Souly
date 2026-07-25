@@ -1,8 +1,8 @@
 # État d'avancement — Série Sofia & Souly
 
-*Dernière mise à jour : Tome 14 rédigé en une seule passe (12/12
-chapitres, 37 280 mots), approuvé par le jury à 8,4/10 dès le premier
-passage (« polish uniquement »), .docx livré — 2026-07-24*
+*Dernière mise à jour : Tome 15 rédigé en une seule passe (12/12
+chapitres, 36 998 mots), approuvé par le jury à 8,1/10 dès le premier
+passage (« polish uniquement »), .docx livré — 2026-07-25*
 
 **À LIRE INTÉGRALEMENT avant de démarrer toute nouvelle session d'écriture**,
 avec `bible/personnages.md`, `bible/lecons_apprises.md`, et — depuis le
@@ -939,3 +939,74 @@ dans le récit)).
 - Livraison du fichier `.docx` final via un nouveau `build_docx.py`
   (calqué sur celui du tome 13). **Tomes 1 à 13 toujours entièrement
   terminés** ; tome 14 complet à 37 280 mots, livré à 8,4/10.
+
+### Session 21 (tome 15, écriture complète) — 2026-07-25
+- Consigne implicite (« enchaine avec le tome suivant »), mêmes
+  exigences que les tomes 10 à 14 : qualité très soignée, plancher
+  ferme de 36 000 mots (max 40 000), dialogues privilégiés, plusieurs
+  passages très drôles, scènes embarrassantes-attendrissantes réparties
+  sur plusieurs personnages. Titre imposé par `bible/titres_futurs.md`
+  (deuxième titre de la liste réservée par l'utilisateur) : « Le
+  Glacier qui reculait en secret ».
+- Thème : glaciologie (écoulement glaciaire, zones d'accumulation/
+  ablation, moraine, moulins glaciaires, vidange soudaine de lac
+  supraglaciaire, effet isolant contre-intuitif de la glace couverte
+  de débris rocheux), premier tome de la série sur ce thème. Décor :
+  Neigerive, le Glacier des Trois Sœurs, la Pierre-Repère, le Lac
+  Furtif, la Journée de la Ligne de Glace. Nouveaux personnages ajoutés
+  à `bible/personnages.md` : Aude Sernin (glaciologue, introduite comme
+  amie de longue date de Grand-oncle Théo — mécanisme d'entrée en scène
+  volontairement différent des liens « nièce/cousine/ancienne élève de
+  Mamie Rose » des tomes 12 à 14), Basile Ancelin (9 ans, photographie
+  et mesure le glacier, tic de pourcentages/ratios plutôt que de
+  comptage brut), Firmin Roybon (ancien guide de haute montagne, règle
+  orale sur le Lac Furtif), Hippolyte Fresnel (inventeur amateur,
+  dispositifs nommés d'après des animaux de montagne — « Le Chamois »,
+  « Le Bouquetin » — gabarit comique volontairement distinct des
+  cadres numérotés de Léonard [tome 14]) et Corentin Chalvin (gérant de
+  refuge injustement soupçonné, prénom délibérément différent de
+  « Thibault Norrain » [tome 9] malgré le thème rural partagé).
+- Double fair-play : élimination de la conduite d'eau du refuge de
+  Corentin par chronologie (écart constant de huit jours, la conduite
+  étant plus récente que l'incident — motif numérique délibérément
+  différent des onze/dix jours des tomes 10-14), vidange soudaine du
+  Lac Furtif comme vraie cause (écart constant d'un jour avant
+  l'incident déclencheur), règle orale de Firmin validée
+  scientifiquement (grondements précurseurs réels avant une vidange de
+  lac supraglaciaire), rebondissement du titre : la mesure officielle
+  à la Pierre-Repère se révèle trompeuse (portion de glace isolée par
+  un éboulis ancien), le vrai recul (28 mètres) étant bien supérieur à
+  la mesure rassurante (12 mètres) — résolution collaborative par
+  points de mesure multiples et capteur de niveau au Lac Furtif.
+- Rédaction complète des 12 chapitres en une seule passe (~13 900
+  mots), puis expansion en parallèle via 3 agents dédiés (ch1-4, ch5-8,
+  ch9-12), **menés à terme sans échec d'infrastructure**, suivie d'un
+  renforcement manuel ciblé du volume jusqu'à une marge de sécurité
+  d'environ 900 mots au-dessus du plancher strict.
+- Vérification structurelle dédiée en trois passages parallèles par
+  groupe de chapitres (le premier essai a échoué pour cause de quota de
+  session API, relancé avec succès après reset) : 9 bugs de répliques
+  consécutives trouvés et corrigés, deux incohérences chronologiques
+  secondaires (référence « avant-hier » erronée, exagération non
+  voulue sur un volet réparé), une auto-contradiction bible sur le lien
+  Aude/Mamie Rose, un âge incohérent pour Aude, un tic plafonné dépassé
+  (« un sourcil levé » — 3e occurrence masquée par un retour à la
+  ligne, échappant à un grep naïf sur une seule ligne), un tic banni
+  (« avec un sourire fatigué »), et un risque de confusion sur le
+  compte des cailloux de Sofia en fin de livre. Passe stylistique
+  dédiée supplémentaire : 19 étiquettes de dialogue « avec un(e) + nom
+  abstrait » reformulées, plus un anglicisme égaré (« too much »)
+  corrigé.
+- 1 seul passage jury complet sur le manuscrit fini : **8,1/10 dès le
+  premier passage**, verdict « à corriger, polish uniquement ». Le
+  jury a détecté une confusion de personnage/âge résiduelle (ch.5, un
+  passage attribuait à tort le running gag des « moulins confondus » à
+  Souly avec un âge erroné), une erreur de calcul dans une réplique de
+  Basile (1/16 présenté comme 0,5 % au lieu de 6,25 %), un écho
+  numérique malheureux entre deux mesures sans rapport, et une faille
+  de fair-play sur le sous-mystère du titre (aucun indice avant le
+  climax) — corrigée par l'ajout d'une remarque précoce et discrète de
+  Basile au chapitre 3, sans dévoiler le mécanisme.
+- Livraison du fichier `.docx` final via un nouveau `build_docx.py`
+  (calqué sur celui du tome 14). **Tomes 1 à 14 toujours entièrement
+  terminés** ; tome 15 complet à 36 998 mots, livré à 8,1/10.

@@ -1559,6 +1559,62 @@ ciblé sur les fichiers de chapitres individuels — ne pas supposer que
 l'attribution de chapitre du jury est exacte, en particulier pour des
 défauts « proches » signalés à des lignes voisines.**
 
+**Leçon méthodologique n°34 — un grep sur une seule ligne peut manquer
+un tic dont la formulation est coupée par un retour à la ligne
+markdown, faussant le comptage utilisé pour faire respecter un
+plafond.** Au tome 15, un comptage `grep -c "sourcil levé"` donnait
+2 occurrences dans le livre (le plafond exact), alors qu'une 3e
+occurrence existait réellement au chapitre 1 : la phrase « un sourcil
+levé » était coupée par un retour à la ligne (« ...un sourcil\nlevé,
+en désignant... »), invisible à un grep ligne par ligne mais bien
+présente dans le texte aplati. Un agent de vérification dédié ne l'a
+détectée qu'en relisant le chapitre intégralement plutôt qu'en se
+fiant au seul comptage automatique. **Règle ajoutée : pour tout
+comptage de tic servant à faire respecter un plafond strict, ne jamais
+se fier uniquement à un grep ligne par ligne — recouper avec soit un
+grep sur le texte aplati (fusionnant les retours à la ligne), soit une
+relecture humaine/agent des passages concernés, en particulier pour
+les phrases coupées par la justification du texte source.**
+
+**Leçon méthodologique n°35 — le fair-play doit couvrir TOUS les
+rebondissements du livre, pas seulement le mystère principal, y
+compris un sous-mystère qui donne son titre à l'ouvrage.** Au tome 15,
+le mystère principal (pourquoi le moulin a manqué d'eau) était
+irréprochable sur le plan du fair-play — chronologie vérifiable,
+quatre sources croisées, fausse piste éliminée par preuve. Mais le
+rebondissement qui donne son titre au livre (« Le Glacier qui
+reculait EN SECRET » — la zone de mesure officielle isolée par un
+éboulis, faussant le recul apparent) n'était annoncé nulle part avant
+d'être révélé et résolu dans la même scène du climax (chapitre 10) :
+aucun indice antérieur, alors que le personnage le mieux placé
+pour le remarquer (Basile, qui compare des photos depuis le chapitre 3)
+aurait pu en planter un sans rien dévoiler. Le jury l'a détecté par une
+recherche exhaustive de mots clés (« éboulement », « isol- »,
+« débris ») à travers tout le manuscrit compilé. **Règle ajoutée :
+lors de la planification (outline.md), lister explicitement TOUS les
+rebondissements du livre — pas seulement la cause vraie/fausse piste
+centrale — et pour chacun, noter dans quel chapitre un indice discret
+sera planté avant la révélation. Vérifier cette liste pendant la
+rédaction, pas seulement après coup lors du passage jury.**
+
+**Leçon méthodologique n°36 — une contradiction signalée comme « erreur
+d'âge » par un outil de vérification peut en réalité cacher une
+confusion de personnage plus profonde, qu'une simple correction
+numérique ne résout pas complètement.** Au tome 15, le jury a signalé
+une phrase où Firmin disait à un enfant « Toi, tu as onze ans » alors
+que l'âge exact de Sofia est huit ans. En creusant le contexte complet
+(pas seulement la ligne isolée), il est apparu que la réplique
+attribuait aussi, à tort, le running gag des « moulins confondus »
+(spécifique à Sofia dans ce tome) à Souly, que Sofia interpellait par
+erreur comme cible de la taquinerie de Firmin. La correction du seul
+chiffre (« onze » → « huit ») aurait laissé subsister une scène
+incohérente sur le plan du personnage visé. **Règle ajoutée : quand un
+passage de vérification signale une contradiction numérique isolée
+(âge, date, mesure), toujours relire le paragraphe entier avant de
+corriger — le chiffre fautif est parfois seulement le symptôme visible
+d'une confusion plus large (mauvais personnage, mauvaise réplique
+attribuée) qu'une simple substitution de nombre ne répare pas.**
+
 **Bilan chiffré (tome 14) :** rédaction des 12 chapitres en une seule
 passe (~14 576 mots), expansion parallèle par 3 agents menés à terme
 sans échec d'infrastructure, puis renforcement manuel ciblé du volume
