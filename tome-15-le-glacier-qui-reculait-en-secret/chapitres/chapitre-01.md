@@ -12,7 +12,34 @@ horloge suisse. Tu devrais varier tes questions, à force.
 
 — C'est la même question avec un mot en plus, corrigea Sofia.
 
-Elle farfouilla dans le sac posé entre eux et en sortit la vieille
+— Il reste combien de virages, alors, si on ne compte pas en minutes ?
+demanda Souly, changeant de tactique.
+
+— Tu essaies de me piéger avec une question qui a l'air d'être autre
+chose qu'une question, remarqua Sofia, en plissant les yeux.
+
+— C'est un objectif purement scientifique, se défendit Souly. Compter
+les virages, c'est plus précis que compter le temps.
+
+— Trente-sept, annonça Mamie Rose, sans même hésiter, les yeux
+toujours rivés sur la route. Encore douze, à partir de maintenant.
+
+Sofia et Souly échangèrent un regard.
+
+— Vous avez compté les virages ? s'étonna Souly, un peu jaloux de ne
+pas y avoir pensé le premier.
+
+— Je les ai comptés une fois, il y a très longtemps, avec votre
+grand-père, dit Mamie Rose. Après, on n'a plus vraiment besoin de
+compter. On les sent venir, à force.
+
+— Ça, c'est un talent que je n'ai pas encore, avoua Souly, en se
+resservant dans le sac de biscuits posé à ses pieds.
+
+— Tu l'auras, un jour, promit Mamie Rose. En attendant, mange un
+biscuit et laisse la route à ceux qui la connaissent.
+
+Sofia farfouilla dans le sac posé entre eux et en sortit la vieille
 boîte en fer qui disait « THÉ » sur le couvercle, sans qu'il n'y ait
 jamais eu de thé dedans depuis que Sofia était née. Elle souleva le
 couvercle en grinçant, huma l'odeur de sablés au beurre, et en tendit
@@ -70,8 +97,21 @@ fermés.
 
 — Tu ronflais, précisa Souly.
 
-— Un peu de réflexion peut ressembler à un ronflement, dit Sofia,
-avec un aplomb qui ne convainquit personne.
+— Un peu de réflexion peut ressembler à un ronflement, décréta Sofia,
+en croisant les bras d'un geste qui refusait toute discussion
+supplémentaire.
+
+Souly baissa complètement sa vitre, et un courant d'air frais
+s'engouffra dans la voiture, chargé d'une odeur de résine et de pierre
+mouillée qu'aucun des deux enfants ne connaissait encore.
+
+— Ça sent différent, à chaque virage, remarqua Souly, le nez tendu
+dehors comme une girouette.
+
+— Tu vas gober une mouche, à respirer comme ça, le prévint Sofia.
+
+— Ça vaudrait le coup, pour cette odeur-là, répondit Souly, sans
+retirer la tête.
 
 Au détour d'un virage, la vallée s'ouvrit tout entière, et tout au
 fond, entre deux crêtes rocheuses, une masse blanche et bleutée
@@ -113,10 +153,39 @@ remarqua Souly.
 — Rien de ce que je dis n'a besoin de l'être, répliqua Sofia, du tac
 au tac.
 
+Elle colla le caillou contre la vitre, comme pour lui offrir une
+meilleure vue.
+
+— Regarde bien, lui chuchota-t-elle. C'est le plus gros truc que tu
+verras jamais.
+
+— Tu parles à un caillou, remarqua Souly.
+
+— Je parle À TRAVERS un caillou, corrigea Sofia. C'est différent.
+
+— Ça ne l'est pas du tout, dit Souly.
+
+— Laisse-moi mes méthodes, tu as les tiennes, répliqua Sofia, sans se
+démonter.
+
 La route redescendit doucement vers un hameau de pierre grise aux
 toits pentus, serré autour d'un clocher trapu et d'un vieux bâtiment
 de bois dont une grande roue tournait lentement, éclaboussant l'eau
 d'un petit torrent.
+
+La voiture s'engagea dans une ruelle pavée si étroite que les
+branches des géraniums, accrochés aux fenêtres, frôlaient presque les
+vitres. Une odeur de pain chaud flottait quelque part, mêlée à celle,
+plus fraîche, du torrent qui courait sous un petit pont de pierre.
+
+— Ça sent le petit-déjeuner de partout à la fois, remarqua Sofia, en
+reniflant avec application.
+
+— C'est la boulangerie, sans doute, dit Mamie Rose. Il n'y en a
+qu'une, ici. Tout le village y passe, tôt ou tard.
+
+Une cloche sonna quelque part au-dessus des toits, un son grave et
+un peu fêlé qui roula longuement dans l'air avant de s'éteindre.
 
 — Ça, c'est le moulin ? demanda Sofia, en pointant du doigt.
 
@@ -147,8 +216,7 @@ Rose. Et personne n'a encore de réponse.
 — Attends, sérieux ? demanda Sofia, les yeux ronds. On a une enquête
 avant même d'être sortis de la voiture ?
 
-— On dirait bien, dit Mamie Rose, avec un sourire qu'elle ne cachait
-pas vraiment.
+— On dirait bien, dit Mamie Rose, en réprimant mal un sourire.
 
 Souly sortit déjà son Carnet des Preuves de son sac et, sur la
 première page vierge, écrivit en lettres appliquées : « Neigerive —
@@ -167,8 +235,17 @@ Une femme d'une trentaine d'années les attendait sur la petite place,
 un gros thermos cabossé à la main et une carte pliée dépassant de la
 poche de sa veste polaire.
 
-— Rose ! lança-t-elle, en s'avançant à grands pas. Ça fait un temps
-fou.
+— Rose ! lança-t-elle, en s'avançant à grands pas, si vite qu'elle
+buta contre le rebord d'une jardinière et rattrapa de justesse son
+thermos avant qu'il ne bascule. Ça fait un temps fou.
+
+— Toujours aussi pressée de me voir, remarqua Mamie Rose, un sourcil
+levé, en désignant du menton le café qui avait quand même éclaboussé
+la manche d'Aude.
+
+— C'est le thermos qui est pressé, se défendit Aude, en essuyant sa
+manche d'un geste rapide, les joues un peu rouges. Moi, je suis
+parfaitement calme.
 
 — Aude, dit Mamie Rose, en l'embrassant. Voici Sofia et Souly, mes
 petits-enfants. Ils viennent d'apprendre l'existence du moulin en
@@ -177,7 +254,7 @@ faisant à peine trois pas hors de la voiture.
 — Vous êtes déjà au courant, alors, dit Aude, amusée. Ça vous
 intéresse, les glaciers ?
 
-— Énormément, dit Sofia, avec un sérieux absolu.
+— Énormément, dit Sofia, en posant la main sur le cœur.
 
 — Un peu, précisa Souly, plus mesuré. Beaucoup, en fait, se corrigea-
 t-il aussitôt, en croisant le regard noir de sa sœur.
@@ -198,6 +275,30 @@ que « deux kilomètres », devina Souly.
 — Deux virgule trois-quatre, précisa Aude, sans même sourciller. Vous
 apprenez vite.
 
+— Et le thermos, il donne combien de tasses avant de se vider ? demanda
+Sofia, en désignant l'objet cabossé.
+
+— Douze virgule cinq, en théorie, répondit Aude, du tac au tac. En
+pratique, je n'ai jamais réussi à le vider complètement. Il se
+recharge tout seul, on dirait.
+
+— Les thermos ne se rechargent pas tout seuls, objecta Souly.
+
+— Celui-là, si, insista Aude, en tapotant le couvercle du plat de la
+main. Demandez à n'importe qui au village.
+
+— Ça, c'est du Sofia tout craché, cette logique, remarqua Souly, en
+se tournant vers sa sœur.
+
+— Merci, dit Sofia, ravie du compliment déguisé.
+
+— Ce n'était pas vraiment un compliment, précisa Souly.
+
+— Je le prends quand même, décréta Sofia.
+
+— Tu prends toujours tout, soupira Souly, sans grande conviction dans
+le reproche.
+
 — Ça va être un tome à chiffres, chuchota Sofia à son frère, mi-
 ravie mi-inquiète.
 
@@ -217,9 +318,11 @@ mesure, on vérifie. Le reste suit tout seul.
 regard complice avec Aude.
 
 Un peu plus loin sur la place, un homme âgé aux épaules encore
-larges malgré les années s'affairait à réparer un vieux volet,
-tandis qu'un enfant d'une dizaine d'années passait en courant, une
-pochette de photos plastifiées serrée contre lui.
+larges malgré les années s'affairait à réparer un vieux volet à grands
+coups de marteau réguliers, une pipe éteinte coincée au coin de la
+bouche, tandis qu'un enfant d'une dizaine d'années passait en
+courant, une pochette de photos plastifiées serrée contre lui comme
+un trésor.
 
 — Ça, c'est Basile, précisa Aude, en suivant son regard. Il mesure le
 glacier presque aussi sérieusement que moi. Vous le rencontrerez
@@ -240,8 +343,14 @@ yeux au ciel.
 
 — Quel genre de règles ? insista Sofia.
 
-— Vous verrez, dit Aude, avec un sourire qui n'en disait pas plus.
-Chaque chose en son temps.
+— Vous verrez, dit Aude, en refermant le bouchon de son thermos sans
+en dire davantage. Chaque chose en son temps.
+
+— Elle dit toujours ça, remarqua Mamie Rose. Depuis que je la connais,
+elle a toujours une réponse pour plus tard.
+
+— Ça marche à chaque fois, se défendit Aude. Personne n'a jamais
+oublié de revenir me demander.
 
 Mamie Rose porta les valises jusqu'à une petite maison de pierre aux
 volets bleus, tout près du torrent, où l'eau chantait déjà contre les
@@ -260,6 +369,59 @@ on ne l'entend même plus.
 l'eau, maintenant. C'est elle, le vrai personnage de cette enquête.
 
 — Ça commence bien, remarqua Aude, amusée.
+
+Aude les accompagna jusqu'à la porte, où elle promit de repasser en
+fin d'après-midi avant de retourner surveiller ses écrans, et Mamie
+Rose poussa la porte de bois qui grinça exactement comme celle de sa
+propre maison à Bellerive-sur-Loire, en plus aigu.
+
+— Même grincement, remarqua Souly, en tendant l'oreille.
+
+— Toutes les vieilles portes se ressemblent un peu, dit Mamie Rose.
+C'est rassurant, d'une certaine manière.
+
+À l'intérieur, la maison sentait le bois ciré et un peu la cendre
+froide de la cheminée. Sofia posa son sac par terre et fila droit
+vers la fenêtre de la cuisine, aimantée par la masse blanche qui
+dominait les toits.
+
+— On le voit d'ici aussi ! s'exclama-t-elle. Il nous suit partout,
+ce glacier.
+
+— C'est plutôt lui qui reste immobile, et nous qui tournons autour,
+corrigea Souly, en la rejoignant.
+
+— Question de point de vue, répliqua Sofia, sans se laisser démonter.
+
+Mamie Rose sortit de son sac la vieille boîte en fer qui disait « THÉ »,
+la posa sur la table de la cuisine et souleva le couvercle en
+grinçant, exactement comme dans la voiture, quelques heures plus tôt.
+
+— Vous en aviez déjà mangé dans la voiture, remarqua Souly, un
+sourcil levé.
+
+— Il y a toujours de la place pour un deuxième sablé, répondit Mamie
+Rose, sans se démonter le moins du monde. C'est une règle que même
+votre grand-oncle Théo respecte.
+
+Le téléphone de Mamie Rose sonna justement à cet instant, et le nom
+de Théo s'afficha à l'écran.
+
+— Quand on parle du loup, dit-elle, en décrochant. Théo ? Oui, on
+vient d'arriver... Non, je n'ai pas vu tes lunettes de soleil, je ne
+les ai même pas vues depuis Pâques... Non, je ne fouillerai pas dans
+la voiture, on l'a laissée sur la place... Théo, je viens d'arriver.
+
+Elle raccrocha en secouant la tête, mi-exaspérée mi-attendrie.
+
+— Il a perdu ses lunettes de soleil, résuma-t-elle. Encore. Il est
+persuadé de les avoir oubliées dans notre voiture, alors qu'on ne
+l'a même pas vu depuis trois mois.
+
+— Il les retrouvera sur sa tête, comme la dernière fois, prédit
+Souly.
+
+— Sans doute, admit Mamie Rose, en riant.
 
 Ils s'installèrent dans la petite cuisine, où une fenêtre encadrait
 parfaitement le glacier, suspendu au-dessus des toits comme un
@@ -282,14 +444,41 @@ s'arrêter, remarqua Souly, en le notant soigneusement.
 — Exactement, confirma Aude, plus grave soudain. Ce qui n'aide pas
 franchement à rassurer tout le monde.
 
-— On va vous aider, promit Sofia, avec une conviction totale.
+Souly feuilleta son carnet jusqu'à une page vierge et traça une
+colonne bien droite à la règle, du premier coup.
+
+— Il nous faut une liste, annonça-t-il. Suspects, indices, dates.
+Dans cet ordre.
+
+— Tu fais toujours une liste avant même d'avoir un seul indice,
+remarqua Sofia.
+
+— C'est justement pour ça qu'elle est vide pour l'instant, expliqua
+Souly, sans se vexer. Une liste vide, c'est une liste prête.
+
+— Ça, c'est une phrase de futur ingénieur, dit Aude, amusée.
+
+— De futur scientifique officiel, corrigea Souly. Le mot exact varie
+encore un peu.
+
+— On va vous aider, promit Sofia, en tapant du poing sur la table,
+juste assez fort pour faire tinter les tasses.
 
 — J'y compte bien, dit Aude, en resservant du café dans son thermos
 qui, décidément, ne semblait jamais tout à fait vide.
 
+— Sérieusement, comment il fait ? chuchota Sofia à son frère.
+
+— Aucune idée, chuchota Souly en retour. Ça mérite sa propre ligne
+d'enquête.
+
 Dehors, le soleil déclinait doucement derrière la crête, et la
 dernière lumière du jour glissait sur le glacier comme sur un miroir
-trop grand pour la vallée.
+trop grand pour la vallée, teintant la neige d'un rose pâle qui ne
+durerait que quelques minutes. Le torrent, en contrebas, continuait
+sa chanson sans se soucier de personne, et quelque part, plus haut sur
+la montagne, une dernière marmotte lança son cri aigu avant de
+disparaître sous une pierre pour la nuit.
 
 — Sept jours, répéta Sofia, en regardant par la fenêtre. On ferait
 bien de ne pas les gaspiller.
