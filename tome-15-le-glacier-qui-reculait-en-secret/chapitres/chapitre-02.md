@@ -271,7 +271,7 @@ qu'on ne le croit.
 — Il descend jusqu'où, celui-là ? demanda Souly, en pointant le puits
 noir sur la photo.
 
-— Celui-ci mesurait vingt-huit virgule sept mètres, la dernière fois
+— Celui-ci mesurait dix-neuf virgule quatre mètres, la dernière fois
 que je l'ai sondé, dit Aude. Mais ça change tout le temps. Un moulin
 glaciaire peut se refermer, ou s'approfondir encore, d'une saison à
 l'autre.

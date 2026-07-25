@@ -784,7 +784,7 @@ qu'on ne le croit.
 — Il descend jusqu'où, celui-là ? demanda Souly, en pointant le puits
 noir sur la photo.
 
-— Celui-ci mesurait vingt-huit virgule sept mètres, la dernière fois
+— Celui-ci mesurait dix-neuf virgule quatre mètres, la dernière fois
 que je l'ai sondé, dit Aude. Mais ça change tout le temps. Un moulin
 glaciaire peut se refermer, ou s'approfondir encore, d'une saison à
 l'autre.
@@ -1164,6 +1164,17 @@ chiffre en mètres, tout seul.
 — De la distance entre le rocher et le front du glacier, sur la photo
 de référence, expliqua Basile. Ça permet de comparer d'une année sur
 l'autre, même si je ne me tiens jamais exactement au même endroit.
+
+— Il y a un truc bizarre, remarqua Basile, en désignant une portion
+plus sombre du glacier, couverte de pierres grisâtres. Cette partie-là
+ne bouge presque jamais, d'une photo à l'autre. Comme si elle
+n'écoutait pas les mêmes règles que le reste.
+
+— Peut-être qu'elle est plus solide, suggéra Sofia.
+
+— Peut-être, dit Basile, pas convaincu. Mon grand-père disait toujours
+qu'il fallait s'en méfier, de cette zone-là. Je n'ai jamais bien
+compris pourquoi.
 
 — C'est malin, admit Souly, en le notant dans son carnet.
 
@@ -2182,11 +2193,11 @@ moulin elle parlait. Elle a ri pendant cinq bonnes minutes.
 
 Sofia manqua s'étouffer avec son sablé.
 
-— Vous voyez ! s'exclama-t-elle, en se tournant vers Souly. Même
-Firmin a confondu les moulins, petit !
+— Vous voyez ! s'exclama-t-elle. Même Firmin a confondu les moulins,
+et il n'avait que huit ans !
 
-— Ce n'est pas vraiment pareil, protesta Firmin. J'avais huit ans.
-Toi, tu as onze ans et tu le fais encore.
+— Ce n'est pas vraiment une excuse, ça, protesta Firmin, amusé. Toi,
+tu en as huit aussi, et tu le fais encore.
 
 — C'est un mot mal choisi, se défendit Sofia. Ce n'est pas ma faute.
 
@@ -3699,7 +3710,7 @@ la cause.
 — Toujours aussi net, ton raisonnement, remarqua Souly, admiratif.
 
 — Vous vous rendez compte, dit Basile, songeur, que le rapport entre
-l'écart et le total, ça donne presque zéro virgule cinq pour cent
+l'écart et le total, ça donne à peine six virgule vingt-cinq pour cent
 d'erreur possible ? C'est un taux de certitude excellent, pour une
 enquête.
 

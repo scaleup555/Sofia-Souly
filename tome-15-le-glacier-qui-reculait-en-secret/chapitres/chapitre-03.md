@@ -148,6 +148,17 @@ chiffre en mètres, tout seul.
 de référence, expliqua Basile. Ça permet de comparer d'une année sur
 l'autre, même si je ne me tiens jamais exactement au même endroit.
 
+— Il y a un truc bizarre, remarqua Basile, en désignant une portion
+plus sombre du glacier, couverte de pierres grisâtres. Cette partie-là
+ne bouge presque jamais, d'une photo à l'autre. Comme si elle
+n'écoutait pas les mêmes règles que le reste.
+
+— Peut-être qu'elle est plus solide, suggéra Sofia.
+
+— Peut-être, dit Basile, pas convaincu. Mon grand-père disait toujours
+qu'il fallait s'en méfier, de cette zone-là. Je n'ai jamais bien
+compris pourquoi.
+
 — C'est malin, admit Souly, en le notant dans son carnet.
 
 — Vous devriez comparer vos méthodes, tous les deux, remarqua Sofia.

@@ -133,7 +133,7 @@ la cause.
 — Toujours aussi net, ton raisonnement, remarqua Souly, admiratif.
 
 — Vous vous rendez compte, dit Basile, songeur, que le rapport entre
-l'écart et le total, ça donne presque zéro virgule cinq pour cent
+l'écart et le total, ça donne à peine six virgule vingt-cinq pour cent
 d'erreur possible ? C'est un taux de certitude excellent, pour une
 enquête.
 

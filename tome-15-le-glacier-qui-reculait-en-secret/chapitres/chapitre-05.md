@@ -146,11 +146,11 @@ moulin elle parlait. Elle a ri pendant cinq bonnes minutes.
 
 Sofia manqua s'étouffer avec son sablé.
 
-— Vous voyez ! s'exclama-t-elle, en se tournant vers Souly. Même
-Firmin a confondu les moulins, petit !
+— Vous voyez ! s'exclama-t-elle. Même Firmin a confondu les moulins,
+et il n'avait que huit ans !
 
-— Ce n'est pas vraiment pareil, protesta Firmin. J'avais huit ans.
-Toi, tu as onze ans et tu le fais encore.
+— Ce n'est pas vraiment une excuse, ça, protesta Firmin, amusé. Toi,
+tu en as huit aussi, et tu le fais encore.
 
 — C'est un mot mal choisi, se défendit Sofia. Ce n'est pas ma faute.
 
