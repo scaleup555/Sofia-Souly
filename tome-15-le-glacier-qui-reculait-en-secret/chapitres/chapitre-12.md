@@ -63,8 +63,7 @@ pétillants de malice. Ça met de bonne humeur, ce genre de découverte.
 
 — Demande-lui toi-même, dit Mamie Rose, avec un clin d'œil.
 
-— Je n'oserais jamais, dit Sofia, avec un sérieux qui ne trompait
-personne.
+— Je n'oserais jamais, dit Sofia, la bouche pincée pour ne pas rire.
 
 — Tu oserais, la contredit Souly, en beurrant une tartine. Tu n'as
 jamais rien osé de moins que ça, dans toute ta vie.

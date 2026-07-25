@@ -93,7 +93,7 @@ ancienne en haut à gauche. La plus récente en bas à droite. On lit le
 mur comme un livre, justement.
 
 — Mon grand-père a commencé cette collection, expliqua-t-il ensuite,
-avec une pudeur qui ne cherchait pas à se cacher tout à fait. Je
+les yeux rivés sur la plus ancienne photo du mur. Je
 continue, depuis l'an dernier.
 
 — Elles se ressemblent presque toutes, remarqua Sofia, en s'approchant
@@ -243,7 +243,7 @@ demanda Souly.
 mardi matin, presque plus rien.
 
 — Une chute en une seule nuit, ça, c'est un vrai indice, dit Souly,
-en le notant avec un soin particulier.
+en le notant dans son carnet, d'un trait appuyé.
 
 La porte du moulin s'ouvrit sur une femme couverte de farine jusqu'aux
 coudes, qui s'essuya les mains sur son tablier avant de les tendre

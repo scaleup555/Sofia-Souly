@@ -219,8 +219,8 @@ refuge.
 — Corentin, dit Aude, surprise. C'est beaucoup, pour une simple
 visite.
 
-— C'est trop, admit Corentin, en posant le panier avec un soulagement
-visible. Ma cuisinière a préparé le double, ce matin, et je n'ai
+— C'est trop, admit Corentin, en posant le panier au sol, soufflant
+un grand coup. Ma cuisinière a préparé le double, ce matin, et je n'ai
 trouvé personne d'autre à qui l'offrir. Enfin, si. Vous. Enfin, pas
 que vous.
 
@@ -306,8 +306,7 @@ pour admirer l'ensemble du tableau. Le maire va être impressionné.
 comptable, avant d'être élu. Il ne discute jamais un calcul bien
 présenté.
 
-— Alors notre tableau tombe bien, remarqua Souly, avec une certaine
-satisfaction.
+— Alors notre tableau tombe bien, remarqua Souly, ravi de son effet.
 
 — Il tombe même très bien, ajouta Basile. Je dirais quatre-vingt-dix
 pour cent de chances qu'il soit convaincu du premier coup.

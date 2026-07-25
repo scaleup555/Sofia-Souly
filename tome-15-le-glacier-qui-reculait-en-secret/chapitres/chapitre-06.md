@@ -287,8 +287,8 @@ adoré cette histoire de lac furtif.
 — Ça me touche plus que je ne saurais le dire, avoua Basile, en
 détournant le regard vers ses photos.
 
-— Alors ne dis rien, proposa Sofia, avec une douceur inattendue.
-Range juste tes photos. On a compris.
+— Alors ne dis rien, proposa Sofia, en lui tendant un morceau de sa
+propre tarte. Range juste tes photos. On a compris.
 
 Un silence chaleureux flotta un instant, avant qu'Aude ne le brise,
 en tapotant sa montre.
@@ -476,8 +476,8 @@ conduites d'eau qui explosaient. Ce n'était pas franchement reposant.
 — Ça a l'air d'un très mauvais rêve, remarqua Souly.
 
 — Le pire, c'est que dans le rêve, c'était toujours moi qui devais
-tout réparer avec une petite cuillère, précisa Corentin, avec un
-sérieux qui contrastait comiquement avec l'absurdité du récit.
+tout réparer avec une petite cuillère, précisa Corentin, en gardant
+un visage totalement impassible.
 
 — Une cuillère ? répéta Sofia, en pouffant.
 

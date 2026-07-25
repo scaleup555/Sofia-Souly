@@ -362,7 +362,7 @@ le regard.
 — On ira lui demander, décida Sofia, sans relever.
 
 — Elle va enfin avoir de quoi remplir son fameux tableau de chiffres,
-remarqua Firmin, avec un sourire en coin.
+remarqua Firmin, en donnant un coup de talon dans la terre sèche.
 
 — Elle en a déjà plein, dit Souly. Mais celui-là, elle ne l'avait
 pas encore.
@@ -498,8 +498,8 @@ oublient parfois quelque chose.
 
 — Une fois, corrigea Souly, un peu vexé. Ça n'arrivera plus.
 
-— On te croit, dit Sofia, sans la moindre trace de doute dans la
-voix.
+— On te croit, dit Sofia, en posant une main ferme sur l'épaule de
+son frère.
 
 — Demain, alors, dit Souly, en refermant son carnet pour de bon,
 cette fois. Une bonne nuit de sommeil, et on repart de plus belle.

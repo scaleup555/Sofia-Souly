@@ -467,7 +467,7 @@ montagne, dit Firmin. Mais on peut toujours commencer.
 
 — On commence par où ? demanda Sofia, aussitôt prête.
 
-— Par se taire un peu, parfois, dit Firmin, avec un sourire en coin.
+— Par se taire un peu, parfois, s'amusa Firmin.
 Ce sera votre première leçon, et sans doute la plus difficile pour
 toi.
 

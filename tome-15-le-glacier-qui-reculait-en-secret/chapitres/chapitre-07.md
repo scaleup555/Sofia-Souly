@@ -463,7 +463,7 @@ l'enlever, à ce stade. C'est automatique.
 demanda Mamie Rose, en resservant une louche de soupe. Une nuit
 dehors, même encadrée, ce n'est pas rien.
 
-— On en a très envie, dit Sofia, sans la moindre hésitation.
+— On en a très envie, dit Sofia, en hochant vigoureusement la tête.
 
 — On sera avec Aude et Firmin, ajouta Souly. Et le garde du parc,
 s'il donne son autorisation. On ne sera pas seuls une seconde.

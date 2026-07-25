@@ -309,7 +309,7 @@ lui rappela Souly.
 tort avant qu'on ne le sauve à la dernière minute.
 
 — On n'accuse jamais personne à tort volontairement, corrigea Aude,
-en fronçant les sourcils avec un demi-sourire. On observe, on
+en fronçant les sourcils, sans parvenir à garder son sérieux. On observe, on
 mesure, on vérifie. Le reste suit tout seul.
 
 — Ça, c'est du Mamie Rose tout craché, remarqua Souly.

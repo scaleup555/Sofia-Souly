@@ -14,7 +14,7 @@ pour cent de nuages, ce n'est pas cent pour cent.
 — Tu parles comme Basile, remarqua Sofia.
 
 — C'est plutôt lui qui parle comme moi, l'inverse est impossible, se
-défendit Souly, sans la moindre honte.
+défendit Souly, en redressant le menton.
 
 — Ça, ça reste à prouver, dit Sofia, pas convaincue une seconde.
 
@@ -487,8 +487,7 @@ l'écouter, même quand il refuse de tout dire d'un coup.
 
 — Presque, corrigea Souly. Il manque encore le plus important.
 
-— On l'aura, répéta Sofia, avec une conviction qui ne semblait pas
-près de faiblir.
+— On l'aura, répéta Sofia, en plantant les mains sur ses hanches.
 
 Dehors, la pluie continuait de tambouriner doucement sur les volets
 bleus, et le glacier avait complètement disparu derrière les nuages,

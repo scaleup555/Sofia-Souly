@@ -93,7 +93,7 @@ s'est vidé par un moulin, ce qui, contrairement à ce qu'on pourrait
 croire, n'a strictement rien à voir avec le moulin du village, sauf
 que le mot est le même, ce qui explique en partie pourquoi—
 
-— Aude, glissa le maire, avec un sourire patient. L'explication
+— Aude, glissa le maire, en levant une main apaisante. L'explication
 courte, peut-être ?
 
 Aude s'arrêta net, rougit, et hocha la tête.

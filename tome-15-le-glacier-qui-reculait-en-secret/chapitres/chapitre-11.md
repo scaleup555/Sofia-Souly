@@ -139,10 +139,10 @@ avoua Corentin, touché.
 mains vides de Corentin.
 
 — J'ai décidé d'arrêter, dit Corentin, entre fierté et regret.
-Quatre tartes pour une seule matinée, hier, c'était sans doute too
-much, comme dirait Basile.
+Quatre tartes pour une seule matinée, hier, c'était sans doute
+excessif, comme dirait Basile.
 
-— Basile ne dit jamais « too much », le corrigea Sofia. Il dirait
+— Basile ne dit jamais « excessif », le corrigea Sofia. Il dirait
 plutôt « quatre cents pour cent d'une tarte normale ».
 
 — C'est vrai que ça sonne mieux, admit Corentin, en riant.
@@ -216,7 +216,7 @@ niveau à ce câble, qui remonte jusqu'à l'antenne, et l'antenne
 transmet directement aux serveurs de la station, ce qui veut dire que
 dès que le niveau change de plus de—
 
-— Aude, dit Firmin, avec un sourire amusé. On n'est pas devant un
+— Aude, dit Firmin, en secouant la tête, amusé. On n'est pas devant un
 comité scientifique.
 
 — Pardon, dit Aude, en rougissant légèrement. Vieille habitude.
@@ -234,7 +234,8 @@ carnet déjà à moitié rempli de notes.
 — On perce d'abord le trou pour l'ancrage, ou on visse directement ?
 demanda Corentin, une perceuse déjà en main.
 
-— On perce d'abord, dit Aude, avec un empressement soudain. Sinon la
+— On perce d'abord, dit Aude, en tendant déjà la main vers la
+perceuse. Sinon la
 vis n'accroche pas correctement.
 
 Sofia, elle, avait entrepris d'aider en tenant fermement un câble
@@ -297,8 +298,7 @@ faisait tout le travail. La perche, elle, ne servait presque à rien.
 — Vous vous en êtes rendu compte tout seul ? demanda Souly, surpris.
 
 — J'ai comparé mes propres mesures avec celles de Basile, expliqua
-Hippolyte, avec une fierté étrange pour quelqu'un qui venait
-d'admettre une erreur.
+Hippolyte, en redressant les épaules, déjà remis de son erreur.
 
 — Et ça ne vous décourage pas ? demanda Firmin.
 
@@ -309,7 +309,7 @@ nouvelle qu'une invention compliquée qui fonctionne à moitié.
 — Le Chamois II mesurait quoi, déjà ? demanda Souly, curieux.
 
 — La distance entre moi et une crevasse que je n'avais pas vue,
-avoua Hippolyte, sans la moindre gêne. Une mesure très précise,
+avoua Hippolyte, en comptant sur ses doigts. Une mesure très précise,
 d'ailleurs. Deux mètres quarante.
 
 — Et le III ? insista Souly.
