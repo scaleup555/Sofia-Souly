@@ -169,6 +169,13 @@ simple à recouper.
 
 — Rabat-joie, marmonna Sofia, sans grande conviction.
 
+— Zéro pour cent de chance que ça change, précisa Basile, taquin.
+
+— Tu apprends vite, remarqua Sofia, presque fière de lui.
+
+— J'ai un bon professeur, dit Basile, en désignant son propre mur de
+photos.
+
 — Parlez-nous du moulin, plutôt, dit Souly, revenant à l'essentiel.
 Celui qui a failli s'arrêter.
 
@@ -289,8 +296,7 @@ temps.
 
 — Faux, protesta Souly. Vingt pour cent du temps, peut-être.
 
-— Vingt pour cent, ça sonne comme du Basile, remarqua Firmin, un
-sourcil levé.
+— Vingt pour cent, ça sonne comme du Basile, remarqua Firmin, amusé.
 
 — Ça, c'est vrai, admit Basile, plutôt fier de son influence.
 
@@ -460,6 +466,19 @@ temps.
 différent.
 
 — Ce n'est pas différent du tout, dit Sofia.
+
+— Ça l'est, insista Souly. Une question écrite, on peut la relire.
+Une question juste dite, elle s'envole.
+
+— Tant qu'elle finit par trouver une réponse, peu importe comment
+elle voyage, trancha Mamie Rose, en resservant tout le monde.
+
+— Ça, c'est une phrase à noter, dit Souly, impressionné, en la
+recopiant aussitôt dans son carnet.
+
+— Vous notez mes phrases, maintenant ? demanda Mamie Rose, amusée.
+
+— Seulement les bonnes, dit Souly.
 
 — On verra ça, dit Mamie Rose, en échangeant avec Souly un regard qui
 ressemblait beaucoup à celui de Firmin, un instant plus tôt.

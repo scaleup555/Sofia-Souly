@@ -174,8 +174,8 @@ plus vite qu'elle n'arrive.
 — Donc là-haut, le glacier grossit, et là-bas, il maigrit, résuma
 Sofia, très fière de sa formule.
 
-— C'est une manière de le dire qui n'est pas fausse, admit Aude, un
-sourcil levé. Un peu familière, mais pas fausse.
+— C'est une manière de le dire qui n'est pas fausse, admit Aude, à
+moitié convaincue. Un peu familière, mais pas fausse.
 
 — Les glaciers ont droit à un régime, alors, comme tout le monde,
 plaisanta Sofia.
@@ -443,7 +443,36 @@ chose de nouveau à montrer, même à ceux qui croient tout savoir.
 — Ça, c'est du Firmin tout craché, remarqua Aude, en riant.
 
 — Et ça, c'est réciproque, répliqua Firmin, en refermant sa boîte à
-outils avant de rentrer chez lui en sifflotant.
+outils.
+
+— Vous descendez souvent au village, ou vous restez surtout ici-haut ?
+demanda Sofia, curieuse.
+
+— Un peu des deux, dit Firmin. Le village, c'est pour le pain et les
+nouvelles. La montagne, c'est pour le reste.
+
+— C'est quoi, le reste ? insista Sofia.
+
+— Tout ce qui compte vraiment, dit Firmin, avec un geste vague vers
+le glacier. Le silence. Les bruits qui le remplacent, parfois. On
+apprend à les distinguer, avec le temps.
+
+— On pourrait apprendre, nous aussi ? demanda Souly.
+
+— Une semaine, ce n'est pas beaucoup, pour apprendre à écouter une
+montagne, dit Firmin. Mais on peut toujours commencer.
+
+— On commence par où ? demanda Sofia, aussitôt prête.
+
+— Par se taire un peu, parfois, dit Firmin, avec un sourire en coin.
+Ce sera votre première leçon, et sans doute la plus difficile pour
+toi.
+
+— Ça, c'est un peu injuste, protesta Sofia.
+
+— La montagne n'est jamais injuste, corrigea Firmin, en rangeant son
+chiffon dans sa poche arrière, avant de rentrer chez lui en
+sifflotant.
 
 Souly rouvrit son carnet une dernière fois avant de rentrer, et
 ajouta, sous la colonne « indices » : « moulin glaciaire — mot piège,

@@ -464,6 +464,39 @@ C'est un cadeau. Ceux que je trouve moi-même, c'est différent.
 — Elle tient très bien debout, protesta Sofia. Dans ma tête, en tout
 cas.
 
+Le téléphone de Mamie Rose sonna alors qu'ils chargeaient les
+dernières valises dans le coffre.
+
+— C'est maman ! s'écria Sofia, en reconnaissant la sonnerie.
+
+— Allô, chérie, dit Camille, la voix un peu essoufflée. Vous êtes
+bien sur la route ?
+
+— Presque, dit Mamie Rose. On charge les derniers sacs.
+
+— Il paraît qu'il y a eu une vraie enquête, cette fois, dit Camille,
+amusée. Un glacier, un lac secret, tout un village ?
+
+— Toute une montagne, corrigea Sofia, fièrement. On a même fait
+pleurer un peu tout le monde, à la fin.
+
+— Vous ne perdez jamais de temps, tous les deux, dit Camille, une
+pointe d'admiration dans la voix.
+
+— On a eu de l'aide, précisa Souly, en récupérant le téléphone à son
+tour. Toute une équipe.
+
+— Si vous avez le temps d'avoir peur, vous avez le temps de
+réfléchir, récita Camille, comme une formule cent fois répétée.
+
+— On réfléchit d'abord, on a peur après, s'il le faut vraiment,
+récitèrent Sofia et Souly presque en chœur.
+
+— Voilà, dit Camille, en riant. Je vous embrasse fort, tous les deux.
+Toi aussi, maman.
+
+— Sauve qui peut, dit Mamie Rose, amusée, en raccrochant.
+
 Ils remontèrent tous dans la voiture sous un concert d'au revoir :
 Firmin levant son bâton en signe de salut, Corentin brandissant son
 panier désormais vide, et Hippolyte, déjà reparti vers son atelier,

@@ -274,6 +274,23 @@ Le silence retomba, seulement troublé par le cliquetis discret du Bouquetin III
 
 — C'en était un, assura Sofia.
 
+— Vous dormez, ou vous écoutez juste les yeux fermés ? demanda Basile.
+
+— Les deux à la fois, à mon âge, ça devient une compétence, répondit
+Firmin, un sourire au coin des lèvres. Réveillez-moi si le glacier
+dit quelque chose d'important.
+
+— Et s'il dit juste quelque chose de moyennement important ? demanda
+Sofia, taquine.
+
+— Alors laissez-moi dormir un peu plus, dit Firmin. La montagne
+répète toujours ses meilleures phrases, tôt ou tard.
+
+— Ça, c'est une philosophie bien pratique, remarqua Souly.
+
+— Quarante ans de guide, ça forge quelques philosophies pratiques,
+confirma Firmin, sans bouger d'un pouce.
+
 Quelques minutes passèrent, silencieuses, avant qu'un grésillement inattendu ne s'échappe du Bouquetin III, suivi d'un grondement sourd, lointain mais net, qui roula depuis les hauteurs du glacier.
 
 — Là ! chuchota Firmin, en se redressant d'un coup. Ce bruit. C'est exactement celui que j'ai entendu, avant.

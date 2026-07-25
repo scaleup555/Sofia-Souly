@@ -397,8 +397,7 @@ Mamie Rose sortit de son sac la vieille boîte en fer qui disait « THÉ »,
 la posa sur la table de la cuisine et souleva le couvercle en
 grinçant, exactement comme dans la voiture, quelques heures plus tôt.
 
-— Vous en aviez déjà mangé dans la voiture, remarqua Souly, un
-sourcil levé.
+— Vous en aviez déjà mangé dans la voiture, remarqua Souly, sceptique.
 
 — Il y a toujours de la place pour un deuxième sablé, répondit Mamie
 Rose, sans se démonter le moins du monde. C'est une règle que même
@@ -471,6 +470,31 @@ qui, décidément, ne semblait jamais tout à fait vide.
 
 — Aucune idée, chuchota Souly en retour. Ça mérite sa propre ligne
 d'enquête.
+
+— On pourrait l'ajouter tout en haut de la liste, proposa Sofia, très
+sérieuse. « Suspect n°1 : le thermos. »
+
+— Un thermos n'est pas un suspect valable, objecta Souly.
+
+— Un thermos qui ne se vide jamais, si, insista Sofia. C'est même le
+suspect le plus louche de toute la pièce.
+
+— Techniquement, le glacier est plus grand, remarqua Souly.
+
+— Le glacier ne rentre pas dans mon carnet à moi, répliqua Sofia. Le
+thermos, si.
+
+— Ça, c'est un argument que je ne peux pas vraiment contredire, admit
+Souly, en riant.
+
+Mamie Rose, qui avait suivi la conversation en silence, secoua la
+tête avec amusement.
+
+— Vous êtes déjà en train d'enquêter sur ma meilleure amie, remarqua-
+t-elle. On progresse vite, dans cette famille.
+
+— On ne progresse jamais assez lentement, corrigea Sofia, très fière
+de sa formule.
 
 Dehors, le soleil déclinait doucement derrière la crête, et la
 dernière lumière du jour glissait sur le glacier comme sur un miroir

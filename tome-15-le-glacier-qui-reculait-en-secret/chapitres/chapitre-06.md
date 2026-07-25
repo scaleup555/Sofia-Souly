@@ -242,7 +242,7 @@ On n'est pas pressés.
 
 — Demain, peut-être, promit Hippolyte. Il sera prêt demain.
 
-— On verra bien, dit Souly, un sourcil levé.
+— On verra bien, dit Souly, peu convaincu.
 
 Hippolyte repartit en sifflotant, la bâche cognant contre le chambranle
 de la porte au passage, et Aude referma les yeux un instant, comme
@@ -466,6 +466,28 @@ redescendait du refuge, les bras chargés de cageots vides.
 
 — Je vous fais confiance, dit Corentin, en agitant la main. Vous avez
 déjà innocenté mon refuge. Le reste, ce n'est plus mon problème.
+
+— Vous dormez mieux, depuis qu'on vous a innocenté ? demanda Sofia,
+curieuse.
+
+— Beaucoup mieux, avoua Corentin. Je m'étais mis à rêver de
+conduites d'eau qui explosaient. Ce n'était pas franchement reposant.
+
+— Ça a l'air d'un très mauvais rêve, remarqua Souly.
+
+— Le pire, c'est que dans le rêve, c'était toujours moi qui devais
+tout réparer avec une petite cuillère, précisa Corentin, avec un
+sérieux qui contrastait comiquement avec l'absurdité du récit.
+
+— Une cuillère ? répéta Sofia, en pouffant.
+
+— Une petite cuillère à café, insista Corentin. Les rêves n'ont
+aucune logique.
+
+— Au moins, celui-là, il est drôle, dit Sofia.
+
+— Maintenant qu'on en rit, oui, admit Corentin. Sur le moment,
+beaucoup moins.
 
 — Ce n'est le problème de personne, en fait, remarqua Souly, une fois
 Corentin hors de portée de voix. C'est juste un lac qui a besoin

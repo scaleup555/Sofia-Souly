@@ -472,6 +472,29 @@ chiffre à ajouter à sa collection.
 — C'est exactement le plan, confirma Sofia, en s'installant à table,
 l'appétit soudain décuplé par l'odeur de la soupe.
 
+— Vous croyez qu'elle va nous croire tout de suite, ou qu'elle voudra
+vérifier trois fois avant ? demanda Sofia, la cuillère déjà en main.
+
+— Elle voudra vérifier, dit Souly, sans hésiter. C'est ce qu'elle
+fait toujours.
+
+— Alors on aura bien fait de tout noter, remarqua Sofia. Date, heure,
+et le nom exact de l'anniversaire du petit-fils de Firmin.
+
+— Je n'ai pas noté le nom de l'anniversaire, avoua Souly, un peu
+pris de court.
+
+— Attends, sérieux ? s'exclama Sofia. C'est justement le genre de
+détail qu'elle va demander en premier.
+
+— Je le demanderai à Firmin demain, promit Souly, en ajoutant
+aussitôt une ligne à son carnet pour ne pas l'oublier.
+
+— Tu vois, conclut Mamie Rose, amusée. Même les meilleurs carnets
+oublient parfois quelque chose.
+
+— Une fois, corrigea Souly, un peu vexé. Ça n'arrivera plus.
+
 — Demain, alors, dit Souly, en refermant son carnet pour de bon,
 cette fois. Une bonne nuit de sommeil, et on repart de plus belle.
 

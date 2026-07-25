@@ -227,7 +227,8 @@ pour stabiliser l'entonnoir.
 — Cette idée-là ne fonctionnait pas, admit Hippolyte. Celle-ci
 fonctionne. La différence est de taille.
 
-— On verra ça au Bouquetin III, alors, conclut Souly, un sourcil levé.
+— On verra ça au Bouquetin III, alors, conclut Souly, pas convaincu
+pour un sou.
 
 — Vous verrez, promit Hippolyte, radieux malgré les orties.
 
@@ -486,6 +487,28 @@ touchée. Tu grandis trop vite, tous les deux.
 
 — On grandit à la vitesse d'une enquête, corrigea Sofia. Ce n'est pas
 tout à fait pareil.
+
+— Vous préparerez quoi, comme sac, pour demain soir ? demanda Mamie
+Rose, en débarrassant les assiettes.
+
+— Des couvertures, une lampe, et beaucoup de sablés, énuméra Sofia,
+sans hésiter une seconde.
+
+— Un carnet de rechange, aussi, ajouta Souly. On ne sait jamais si le
+premier se remplit trop vite.
+
+— Un carnet de rechange, pour une seule nuit ? s'étonna Sofia.
+
+— On ne sait jamais, répéta Souly, très sérieux. Une bonne nuit
+d'écoute peut remplir beaucoup de pages.
+
+— Tu dis toujours ça, remarqua Sofia, amusée. Et pourtant, le
+carnet de rechange, il ne sert jamais.
+
+— Il sert de filet de sécurité, corrigea Souly. Ce n'est pas pareil
+que servir vraiment.
+
+— Ça, c'est un raisonnement bien pratique, dit Mamie Rose, en riant.
 
 Ils montèrent se coucher bien avant neuf heures, en réalité, trop
 excités pour vraiment protester, et Sofia s'endormit en imaginant le

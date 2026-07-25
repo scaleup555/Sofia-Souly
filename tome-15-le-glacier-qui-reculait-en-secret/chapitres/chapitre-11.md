@@ -91,6 +91,23 @@ Souly, en évaluant du regard le poids de la caisse.
 — Toute la matinée, sans doute, dit Aude. Peut-être un peu plus, si
 le vent se lève sur la crête.
 
+— Des années, en principe, dit Aude. À condition que personne ne le
+prenne pour un rocher intéressant à déplacer.
+
+— On devrait mettre un panneau, suggéra Sofia. « Ne pas toucher, ceci
+n'est pas un rocher. »
+
+— Ça ferait un très bel écriteau, dit Aude, amusée. Je note l'idée.
+
+— Vous notez vraiment tout ce qu'on dit ? s'étonna Sofia.
+
+— Seulement les bonnes idées, dit Aude, en riant. Comme Souly.
+
+— Il va falloir que je surveille mes propres phrases, remarqua Sofia,
+mi-flattée mi-inquiète.
+
+— Un peu tard pour ça, taquina Souly.
+
 — Et le capteur, il va durer longtemps, une fois posé ? insista
 Souly.
 
@@ -501,3 +518,25 @@ Demande à Sofia.
 tient.
 
 — Ce n'est pas faux, admit Souly.
+
+— Tu tiens un compte de tes promesses tenues ? s'étonna Basile.
+
+— Trente-deux, pour l'instant, précisa Souly, sans même réfléchir.
+Toutes tenues.
+
+— Trente-deux, répéta Basile, admiratif. Tu comptes vraiment tout.
+
+— Pas tout, corrigea Souly. Juste ce qui compte.
+
+— Ça, c'est presque un jeu de mots, remarqua Sofia.
+
+— Je ne l'avais pas prévu, avoua Souly, un peu surpris de lui-même.
+
+— On va l'ajouter à la liste, alors, décida Basile, en sortant son
+propre carnet. Promesse numéro trente-trois : revenir un jour.
+
+— Numéro trente-trois, confirma Souly, en tendant la main pour
+sceller l'accord. Officiel.
+
+Ils se serrèrent la main avec un sérieux qui les fit tous les deux
+sourire l'instant d'après.

@@ -74,6 +74,19 @@ menton.
 — Ça a surtout l'air fatigant, répéta Sofia, sans se laisser
 convaincre.
 
+— Tu préférerais qu'on accuse les gens sans vérifier ? demanda Souly.
+
+— Non, admit Sofia. Je préférerais juste que la vérification aille
+un peu plus vite, parfois.
+
+— La vérité ne va jamais plus vite qu'elle ne peut, dit Mamie Rose,
+en refermant la porte derrière eux. C'est même souvent l'inverse.
+
+— Ça, c'est encore une de vos phrases à noter, remarqua Sofia.
+
+— Toutes mes phrases méritent d'être notées, dit Mamie Rose, avec un
+clin d'œil. Mais je ne vous en voudrai pas de faire un tri.
+
 Le sentier qui montait vers le refuge de la Croix-Blanche grimpait en
 lacets serrés à travers une forêt clairsemée où l'odeur de résine se
 mêlait à celle, plus fraîche, de la terre encore humide de la nuit,
@@ -136,7 +149,7 @@ la neige.
 contraption. Un capteur de débit d'eau, alimenté par une petite
 éolienne. Théoriquement infaillible.
 
-— Théoriquement ? releva Souly, un sourcil levé.
+— Théoriquement ? releva Souly, dubitatif.
 
 — Le vent d'aujourd'hui manque cruellement de conviction, avoua
 Hippolyte, en jetant un œil désolé vers son hélice immobile.
@@ -402,7 +415,7 @@ dîner ensemble, et je suis arrivée juste à temps pour le spectacle.
 — On a une piste éliminée, annonça fièrement Sofia, en se déchaussant
 sur le pas de la porte.
 
-— Le refuge ? demanda Aude, un sourcil levé.
+— Le refuge ? demanda Aude, surprise.
 
 — Huit jours d'écart entre l'incident et la conduite, confirma Souly,
 en tendant son carnet trempé, dont l'encre avait légèrement coulé sur
@@ -452,6 +465,30 @@ gratin. Il finira bien par craquer.
 — Je vous parie que non, répliqua Sofia, du tac au tac.
 
 — Ça, c'est un pari que je veux bien perdre, dit Aude, en riant.
+
+— Vous pariez souvent, avec les gens du village ? demanda Souly,
+curieux.
+
+— De temps en temps, avoua Aude. Jamais pour de l'argent. Juste pour
+le principe.
+
+— Et vous gagnez souvent ? insista Sofia.
+
+— Presque toujours, dit Aude. Sauf contre Firmin. Lui, il connaît la
+montagne mieux que mes propres capteurs, certains jours.
+
+— Ça doit être agaçant, remarqua Souly, de perdre contre quelqu'un
+qui n'a même pas de machine.
+
+— Un peu, admit Aude. Mais c'est aussi pour ça que je continue à
+l'écouter, même quand il refuse de tout dire d'un coup.
+
+— Nous, il nous a presque tout dit, remarqua Sofia, fièrement.
+
+— Presque, corrigea Souly. Il manque encore le plus important.
+
+— On l'aura, répéta Sofia, avec une conviction qui ne semblait pas
+près de faiblir.
 
 Dehors, la pluie continuait de tambouriner doucement sur les volets
 bleus, et le glacier avait complètement disparu derrière les nuages,

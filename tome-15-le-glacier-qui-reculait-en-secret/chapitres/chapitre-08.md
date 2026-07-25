@@ -359,7 +359,7 @@ table.
 — C'est une coïncidence, tenta Souly.
 
 — Une coïncidence bleue, à en juger par ce petit coin qui dépasse,
-observa Mamie Rose, un sourcil levé.
+observa Mamie Rose, nullement dupe.
 
 — Je peux tout expliquer, dit Souly.
 
@@ -509,3 +509,19 @@ dominait le village.
 — Il parlera, dit Aude, d'un ton tranquille qui ne semblait admettre
 aucun doute. Les glaciers finissent toujours par parler. Il suffit
 juste de savoir où et quand écouter.
+
+— Et s'il ne dit rien, ce soir ? insista Basile.
+
+— Alors on écoutera encore, dit Aude. Une nuit sans rien n'est jamais
+vraiment une nuit perdue. On apprend même du silence, parfois.
+
+— Ça, c'est une phrase digne de Firmin, remarqua Souly.
+
+— Il a dû déteindre sur moi, à force, admit Aude, en souriant.
+
+— Vous devriez tous les deux ouvrir un magasin de phrases sages, à ce
+rythme, proposa Sofia. Ce serait rentable, dans un village comme
+celui-ci.
+
+— Je préfère rester glaciologue, dit Aude, en riant. Mais je note
+l'idée, au cas où.
