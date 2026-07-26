@@ -61,7 +61,14 @@ du tome (outline.md), tant que le titre lui-même n'est pas changé.
   jamais l'agent d'expansion précédent fiable à 100 %, vérification
   structurelle par groupes de chapitres PLUS un grep de contrôle
   global post-écriture (leçon n°27), passage(s) jury jusqu'au seuil
-  ~8,5-9,3/10.
+  ~8,5-9,3/10, **et — depuis le tome 15 — rédaction de la quatrième de
+  couverture du tome dans `marketing/quatriemes-de-couverture.md`**
+  (même gabarit que les entrées existantes : accroche, lieu/enjeu avec
+  la personne injustement soupçonnée, paragraphe d'enquête mentionnant
+  l'allié local, chute thématique, tagline variée, pied de page
+  standard — sans spoiler sur les twists), à faire une fois le titre
+  définitif et l'intrigue du tome stabilisés (donc dès l'outline
+  terminé, sans attendre la livraison finale du .docx).
 - Si l'utilisateur demande explicitement un tome hors de cette liste
   (thème imposé, titre différent), l'écrire normalement mais laisser
   la liste intacte pour reprendre à l'endroit où elle s'était arrêtée
