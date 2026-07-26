@@ -1,5 +1,60 @@
 # Chapitre 2 — La Chambre aux Échos
 
+Le lendemain matin, Sofia fut debout avant tout le monde, déjà en train
+de faire les cent pas devant la porte d'entrée quand Souly descendit
+encore à moitié endormi.
+
+— T'as dormi combien de temps, en vrai ? demanda-t-il, en bâillant.
+
+— Assez. On y va ?
+
+— Suzanne a dit à la première heure. On n'est même pas censés partir
+avant que Théo ait fini son café.
+
+— Alors on n'a qu'à le faire boire plus vite.
+
+Il ne fallut, en réalité, pas longtemps pour convaincre tout le monde :
+Théo lui-même semblait presque aussi impatient que Sofia, et Mamie
+Rose, une fois de plus, choisit de rester à la maison avec ses mots
+croisés plutôt que d'affronter les escaliers.
+
+Suzanne les attendait déjà devant la grille, une tasse de café fumante
+à la main, la mine du genre qui n'avait pas beaucoup dormi non plus.
+
+— Prêts ? demanda-t-elle, en reposant sa tasse sur le muret.
+
+— Depuis hier, dit Sofia.
+
+Suzanne poussa la grille, qui grinça longuement, et un souffle d'air
+frais et humide monta vers eux depuis l'obscurité, comme si la grotte
+tout entière venait de respirer.
+
+Sofia attrapa la main de Souly sans même s'en rendre compte — pas pour
+elle, se dit-elle très fort, juste au cas où lui aurait un peu peur du
+noir, ce qui n'était absolument, absolument pas vrai pour elle-même.
+
+Les premières marches étaient encore taillées dans une pierre presque
+sèche, rugueuse sous les baskets dépareillées de Sofia. Puis, très
+vite, l'air changea de texture : plus frais de plusieurs degrés d'un
+coup, plus lourd aussi, chargé d'une odeur de calcaire mouillé et
+d'une pointe de mousse qui rappelait, en beaucoup plus profond, l'odeur
+d'une cave après la pluie. Le bruit du village — les premiers volets
+qui s'ouvraient, un chien qui aboyait au loin — s'effaça complètement
+en quelques marches à peine, remplacé par un silence différent, plus
+dense, que seul venait troubler, très loin devant eux, le murmure
+régulier d'une eau invisible.
+
+— On dirait que le village entier vient de se taire d'un coup, chuchota
+Sofia.
+
+— C'est juste qu'on n'entend plus rien depuis la surface, dit Suzanne,
+sa voix étrangement proche dans l'obscurité grandissante. Attendez de
+voir ce qu'on entend, en bas, à la place.
+
+Ils descendirent tous les deux dans le noir, sourcils froncés, mains
+toujours nouées, vers le bruit d'une chute d'eau qu'on entendait déjà,
+loin devant, résonner trois fois avant de s'éteindre.
+
 Le couloir d'entrée serpentait sur une centaine de mètres, assez large
 pour marcher deux par deux, éclairé par de petites lampes fixées au
 sol tous les dix pas, comme une piste d'atterrissage miniature glissée

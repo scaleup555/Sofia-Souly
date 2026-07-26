@@ -364,8 +364,8 @@ l'intention de laisser tomber le sujet.
 retrouvé coincé dans la porte de la boulangerie. Toute la matinée. Le
 boulanger a dû vendre son pain par la fenêtre.
 
-Souly, malgré lui, laissa échapper un petit rire qu'il tenta aussitôt
-de dissimuler derrière son carnet.
+Souly pouffa malgré lui, et tenta aussitôt de dissimuler ça derrière
+son carnet.
 
 — Riez, riez, dit Anatole, sans la moindre rancune. Ce Numéro Neuf, au
 moins, faisait vraiment beaucoup de bruit. C'est une qualité, dans mon
@@ -413,40 +413,34 @@ la nuance dans son carnet.
 — C'est déjà beaucoup, dans mon métier, répondit Anatole, sans la
 moindre trace de gêne.
 
-Suzanne poussa la grille, qui grinça longuement, et un souffle d'air frais
-et humide monta vers eux depuis l'obscurité, comme si la grotte tout
-entière venait de respirer.
+Suzanne posa la main sur la grille sans encore l'ouvrir, et sembla
+hésiter une seconde de trop.
 
-Sofia attrapa la main de Souly sans même s'en rendre compte — pas pour
-elle, se dit-elle très fort, juste au cas où lui aurait un peu peur du
-noir, ce qui n'était absolument, absolument pas vrai pour elle-même.
+— En fait, dit-elle, je crois qu'on va garder la Chambre aux Échos pour
+demain matin. La lumière est meilleure, tôt, et j'ai encore deux ou
+trois mesures à terminer ce soir avant de vous la faire visiter dans de
+bonnes conditions. Sans compter que vous sortez d'un long trajet de
+voiture, et qu'une grotte se mérite un peu de patience.
 
-— Sept jours et demi avant la fête, murmura Souly en descendant la
-première marche, son carnet serré contre sa poitrine. Techniquement,
-il en reste huit. Mais ça sonnait mieux avec la demie.
+— On peut pas juste jeter un œil, vite fait ? tenta Sofia.
+
+— Une grotte, ça ne se visite jamais « vite fait », dit Suzanne, en lui
+ébouriffant les cheveux pour adoucir le refus. Demain. Promis, ce sera
+la toute première chose qu'on fera.
+
+— Sept jours et demi avant la fête, murmura Souly, son carnet déjà
+ressorti. Techniquement, il en reste huit. Mais ça sonnait mieux avec
+la demie.
 
 — C'est toi qui as l'air inquiet, là, remarqua Sofia.
 
 — N'importe quoi.
 
-Les premières marches étaient encore taillées dans une pierre presque
-sèche, rugueuse sous les baskets dépareillées de Sofia. Puis, très
-vite, l'air changea de texture : plus frais de plusieurs degrés d'un
-coup, plus lourd aussi, chargé d'une odeur de calcaire mouillé et
-d'une pointe de mousse qui rappelait, en beaucoup plus profond, l'odeur
-d'une cave après la pluie. Le bruit de la rue — les pas des habitants,
-le grincement lointain d'un volet — s'effaça complètement en quelques
-marches à peine, remplacé par un silence différent, plus dense, que
-seul venait troubler, très loin devant eux, le murmure régulier d'une
-eau invisible.
-
-— On dirait que le village entier vient de se taire d'un coup, chuchota
-Sofia.
-
-— C'est juste qu'on n'entend plus rien depuis la surface, dit Suzanne,
-sa voix étrangement proche dans l'obscurité grandissante. Attendez de
-voir ce qu'on entend, en bas, à la place.
-
-Ils descendirent tous les deux dans le noir, sourcils froncés, mains
-toujours nouées, vers le bruit d'une chute d'eau qu'on entendait déjà,
-loin devant, résonner trois fois avant de s'éteindre.
+Mamie Rose ne se fit pas prier deux fois pour reprendre le chemin de la
+maison, ses mots croisés déjà sous le bras, et le petit groupe
+retraversa la placette dans la lumière dorée de fin d'après-midi, le
+grincement de la fontaine les accompagnant jusqu'au bout de la rue.
+Sofia, qui trottinait un peu en arrière, jeta un dernier regard vers la
+grille fermée de la grotte, presque déçue — mais une déception
+tellement pleine d'impatience qu'elle ressemblait déjà, davantage, à
+une promesse.

@@ -221,9 +221,9 @@ case imaginaire dans son esprit, satisfait comme rarement.
 — Bon, dit-il, une fois de retour. Il faut recommencer à zéro. Si ce
 n'est pas Grotte Aventure, c'est quoi ?
 
-— C'est là qu'une enquête devient intéressante, dit Suzanne, le coin
-de la bouche relevé. Le moment où on a éliminé le suspect facile, et
-où il faut recommencer à chercher partout ailleurs.
+— C'est là qu'une enquête devient intéressante, dit Suzanne, presque
+ravie. Le moment où on a éliminé le suspect facile, et où il faut
+recommencer à chercher partout ailleurs.
 
 Suzanne soupira, se leva, et s'étira longuement.
 
