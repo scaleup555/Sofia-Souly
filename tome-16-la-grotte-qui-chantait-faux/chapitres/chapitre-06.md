@@ -189,7 +189,7 @@ mi-sérieuse mi-résignée.
 
 — Une preuve pour vous, corrigea Souly, en lui tendant son carnet
 ouvert à la bonne page. Quatre sources, complètement indépendantes.
-Vos groupes élargis sont arrivés cinq jours après le problème. Vous
+Vos groupes élargis sont arrivés six jours après le problème. Vous
 n'y êtes pour rien.
 
 Yasmine lut la page deux fois, très lentement, en suivant chaque ligne
@@ -341,7 +341,7 @@ petite voix qui n'avait plus grand-chose à voir avec celle, hilare, de
 trente secondes plus tôt.
 
 — Je ne sais pas, dit honnêtement Suzanne. Mais je sais que tu as un an
-de plus qu'à ton premier chœur, et six jours de moins avant la fête
+de plus qu'à ton premier chœur, et un jour de moins avant la fête
 qu'hier. Le temps ne s'arrête pas pour attendre qu'on soit prêt. Alors
 autant s'entraîner un peu, en attendant d'être prêt ou pas.
 

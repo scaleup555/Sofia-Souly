@@ -124,15 +124,13 @@ pourrait le prendre mal.
 
 Souly nota le chiffre, puis leva les yeux, songeur.
 
-— Quatorze jours pour l'éboulis. Dix jours pour l'écho faux. Ça fait
-quatre jours d'écart.
+— Quatorze jours pour l'éboulis. Treize jours pour l'écho faux. Ça
+fait un jour d'écart.
 
 — Ça pourrait coller, dit Suzanne. Un passage qui se bouche, l'air qui
-change de trajet, et quelques jours plus tard, l'effet se fait sentir
-sur l'écho principal — la roche met parfois un peu de temps à
-« s'installer » dans son nouvel état. Mais je ne veux rien affirmer
-avant d'avoir des preuves plus solides. Une coïncidence de dates n'est
-pas une preuve.
+change de trajet, et dès le lendemain, l'effet se fait déjà sentir sur
+l'écho principal. Mais je ne veux rien affirmer avant d'avoir des
+preuves plus solides. Une coïncidence de dates n'est pas une preuve.
 
 — Vous dites toujours ça, remarqua Sofia. « Une coïncidence n'est pas
 une preuve. » C'est écrit sur un mur, chez vous, ou quoi ?
