@@ -172,8 +172,9 @@ dire ce qu'ils pensent, eux.
 — C'est bizarre, ça, remarqua Souly. Les gens préfèrent en général
 avoir raison plutôt que d'avoir des réponses.
 
-— C'est exactement ça, dit Yasmine, sincèrement impressionnée. Tu
-devrais écrire des citations, en plus de tes preuves.
+— C'est exactement ça, dit Yasmine, en dévisageant Souly comme si elle
+le voyait pour la première fois. Tu devrais écrire des citations, en
+plus de tes preuves.
 
 — Il en a déjà un carnet entier, dit Sofia. Enfin, façon de parler. Le
 même carnet, mais plein.
@@ -256,10 +257,9 @@ récupérer le cornet avant qu'il ne reparte en vadrouille.
 — Le mot « catastrophique » est un peu fort pour un objet qui n'a
 touché personne, fit remarquer Anatole, digne malgré tout.
 
-— Pourquoi vous faites tout ça, en fait ? demanda Sofia, sincèrement
-curieuse, en désignant d'un geste large tout l'attirail de cornets et
-de caisses qui traînait sur la place. Vous pourriez juste... ne rien
-faire.
+— Pourquoi vous faites tout ça, en fait ? demanda Sofia, en désignant
+d'un geste large tout l'attirail de cornets et de caisses qui traînait
+sur la place. Vous pourriez juste... ne rien faire.
 
 Anatole s'immobilisa un instant, la question l'ayant visiblement pris
 au dépourvu.
@@ -273,7 +273,8 @@ mes dimanches. Même si, pour l'instant, mes dimanches se terminent
 surtout par terre.
 
 — Ça, c'est une belle raison de se faire propulser par un tuba, admit
-Sofia, sincèrement touchée.
+Sofia, la tête un peu penchée, comme si elle rangeait cette phrase
+quelque part pour plus tard.
 
 — Merci. Je la trouve plutôt bonne moi-même, dit Anatole, en époussetant
 une dernière fois son costume.
