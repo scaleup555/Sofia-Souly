@@ -378,9 +378,9 @@ Le sourire d'Anatole vacilla, à peine, une fraction de seconde.
 
 — Vous ne savez pas ? Ah. Suzanne, tu ne leur as pas dit ?
 
-— Je préférais qu'ils l'entendent par eux-mêmes, dit Suzanne, et pour
-la première fois depuis leur arrivée, sa voix perdit un peu de sa
-gaieté. Venez. On descend.
+— Je préférais qu'ils l'entendent par eux-mêmes, dit Suzanne. Pour la
+première fois depuis leur arrivée, son sourire s'effaça presque
+complètement. Venez. On descend.
 
 Mamie Rose, qui avait suivi toute la scène un peu en retrait, referma
 son cahier de mots croisés et le glissa sous son bras.

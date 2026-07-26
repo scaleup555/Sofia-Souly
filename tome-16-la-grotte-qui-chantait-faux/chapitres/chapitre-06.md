@@ -356,10 +356,9 @@ discrètement une gorgée du chocolat chaud renversé à moitié, qui, à ce
 stade, avait tiédi jusqu'à devenir presque tolérable.
 
 Ilan, encouragé peut-être par la mauvaise humeur généralisée de la
-matinée, se leva, s'éclaircit la gorge à son tour, et entonna, tout
-bas, les trois premières notes du chant traditionnel — justes, claires,
-sans le moindre effort, exactement comme il fredonnait toujours,
-sans même y penser.
+matinée, se leva, s'éclaircit la gorge à son tour, et chanta, tout bas,
+l'ouverture du chant traditionnel — juste, claire, sans le moindre
+effort, exactement comme il fredonnait toujours, sans même y penser.
 
 — Attends, dit Sofia. C'était... carrément bien, ça.
 

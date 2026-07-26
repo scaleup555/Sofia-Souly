@@ -129,9 +129,9 @@ Premier billet « groupe élargi » vendu il y a cinq jours, à quatorze
 heures trente-deux.
 
 Souly recopia soigneusement les deux dates dans son carnet, sous la
-ligne « il y a dix jours : écho faux (répétition) ».
+ligne « il y a onze jours : écho faux (répétition) ».
 
-— Ça fait cinq jours d'écart, murmura-t-il, plus pour lui-même que
+— Ça fait six jours d'écart, murmura-t-il, plus pour lui-même que
 pour les autres. Si l'écho était déjà faux avant que vos groupes
 existent seulement...
 

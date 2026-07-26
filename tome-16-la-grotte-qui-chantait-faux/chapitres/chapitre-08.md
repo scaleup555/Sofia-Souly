@@ -269,15 +269,16 @@ tableau qu'il avait pris en photo avant de quitter le salon de Mamie
 Rose — il faut la veillée nocturne. Ernest a dit que c'est le meilleur
 moyen de vraiment entendre si le passage respire encore ou pas.
 
-— Cette nuit ? demanda Sofia, les yeux brillants.
+— Cette nuit ? demanda Sofia, qui n'avait clairement pas envie
+d'attendre un jour de plus.
 
 — Non, dit fermement Souly, en repensant à la mise en garde de
 Suzanne. Demain soir. Il faut d'abord tout organiser correctement.
 
 Et malgré lui, en prononçant cette phrase, il serra son carnet un peu
-plus fort contre sa poitrine. Une nuit entière, dans le noir, sous la
-terre — il n'était pas tout à fait pressé de voir ça arriver, même si
-rien, dans sa voix, n'aurait permis à quiconque de le deviner.
+plus fort contre sa poitrine. Passer toute une nuit là-dessous, sans
+lumière, ne le tentait pas franchement — même si rien, dans sa voix,
+n'aurait permis à quiconque de le deviner.
 
 — Je peux venir aussi ? demanda Denis, si vite que les mots se
 télescopaient presque. Pour la veillée. Je voudrais vraiment aider,
@@ -392,7 +393,7 @@ genoux.
 qu'on se retrouve au pied du mur, à deux jours de la fête, sans aucune
 réponse ?
 
-Personne ne répondit tout de suite. Même Ernest, qui avait pourtant
+Le silence dura un long moment. Même Ernest, qui avait pourtant
 toujours une phrase toute prête pour chaque situation, sembla chercher
 ses mots plus longtemps que d'habitude.
 

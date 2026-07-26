@@ -7,27 +7,29 @@ temps, ni pour calmer qui que ce soit, avant que Souly ne finisse par
 lui confisquer gentiment ce privilège.
 
 — Elle a promis d'appeler, répétait-il, en vérifiant pour la
-quinzième fois que le téléphone de Mamie Rose était bien allumé et
-posé bien en évidence sur la table de la cuisine.
+quinzième fois que le téléphone de Mamie Rose était bien allumé, posé
+bien droit au centre de la table de la cuisine, comme s'il risquait de
+sonner plus fort ainsi.
 
 — Je sais, dit Sofia. Je demande juste si tu crois qu'elle a trouvé
 un truc horrible, ou un truc génial.
 
-— Les deux sont possibles en même temps, dit Mamie Rose, sans lever
-le nez de ses mots croisés. C'est même souvent le cas, dans la vraie
-vie. Un truc horrible peut être exactement ce qu'il fallait trouver.
+— Les deux sont possibles en même temps, dit Mamie Rose, le crayon
+suspendu au-dessus de sa grille sans y toucher. C'est même souvent le
+cas, dans la vraie vie. Un truc horrible peut être exactement ce qu'il
+fallait trouver.
 
 Ni Sofia ni Souly ne surent vraiment quoi répondre à ça, mais le
 téléphone sonna avant qu'ils n'aient eu le temps d'essayer : Suzanne,
 qui préférait leur montrer plutôt qu'expliquer par téléphone, et qui
 les attendait déjà devant l'entrée de la grotte.
 
-— On peut y aller ? demanda Sofia, déjà debout, une chaussure à la
-main et l'autre encore aux pieds.
+— On y va tout de suite ? demanda Sofia, déjà debout, une chaussure à
+la main et l'autre encore aux pieds.
 
-— Allez-y, dit Mamie Rose, sans même lever les yeux de sa grille de
-mots croisés. Et mettez vos deux chaussures avant de sortir, Sofia, on
-ne court pas bien avec une seule.
+— Allez-y, dit Mamie Rose, tout entière absorbée par une case vide de
+sa grille. Et mettez vos deux chaussures avant de sortir, Sofia, on ne
+court pas bien avec une seule.
 
 Sofia enfila sa seconde basket — la bleue, ce jour-là, l'autre restant
 fidèlement rouge — en sautillant sur un pied jusqu'à la porte, sous le
@@ -88,7 +90,7 @@ calculant à voix haute — c'est un éboulis d'environ quatorze jours. Pas
 plus vieux.
 
 — Comment vous savez ça, juste en regardant de la poussière ?
-demanda Souly, son stylo déjà en action.
+demanda Souly, qui grattait déjà quelques mots sur son carnet.
 
 — C'est une vieille technique de terrain. Ici, dans cette partie de la
 grotte, une fine pellicule de calcite se dépose sur toute surface
@@ -164,8 +166,8 @@ Suzanne se pencha à son tour, plissant les yeux.
 — Je ne sais pas. Un reflet de ma propre lampe sur une pierre humide,
 sans doute. Il faudra que j'y retourne avec un meilleur éclairage.
 
-Un raclement métallique, suivi d'un « Ah ! Enfin ! » triomphal, les
-fit tous se retourner.
+Un « Ah ! Enfin ! » triomphal, suivi d'un raclement métallique,
+retentit dans leur dos.
 
 Anatole avançait vers eux en traînant son Diapason Numéro Onze sur un
 petit chariot bricolé, le visage rayonnant de fierté.
@@ -287,7 +289,7 @@ travaille toujours en silence, sauf quand il compte.
 
 — Ce n'est pas un travail, protesta Souly. C'est une enquête.
 
-— Pareil, dit Sofia, en haussant les épaules, avant de se tourner vers
+— Pareil, dit Sofia, sans se laisser démonter, avant de se tourner vers
 Suzanne pour couper court à toute discussion supplémentaire sur le
 sujet. Et pour écouter le souffle, comme disait Ernest ? Ça se fait à
 quel moment de la journée ?
@@ -318,7 +320,8 @@ de la déranger le moins du monde. On apporte des sandwichs ?
 c'était réellement une question importante à trancher. Ce qui compte
 surtout, c'est d'éteindre les lampes et de ne parler que pour signaler
 un son. Le noir aide à entendre — c'est contre-intuitif, mais c'est
-prouvé : moins on utilise ses yeux, plus on utilise ses oreilles.
+prouvé : un cerveau qui n'a plus rien à regarder se met, presque malgré
+lui, à mieux écouter.
 
 Sofia hocha la tête, très sérieuse à son tour, sans laisser paraître
 la moindre inquiétude à l'idée de rester longtemps sans lumière — pour
@@ -338,15 +341,15 @@ l'impatience, ce n'est pas une méthode. C'est juste un sentiment.
 Utile pour donner envie de continuer, dangereux si on le laisse
 décider à notre place.
 
-Souly nota cette phrase-là aussi, tout en bas de la page, dans un coin
-qu'il réservait, sans se l'avouer complètement, aux idées qui
-n'avaient rien à voir avec l'enquête, mais qu'il ne voulait pas perdre
-non plus — juste au-dessus de la ligne suivante, où il écrivit, en
-lettres bien droites pour ne pas laisser voir sa main trembler un peu :
-« Veillée nocturne — à planifier, inviter Ernest et Ilan. » Une nuit
-entière dans le noir, même pour la bonne cause, n'était peut-être pas
-exactement ce qu'il avait le plus envie de vivre — mais ça, il préféra
-ne le dire à voix haute à personne.
+Souly garda cette phrase-là pour lui aussi, tout en bas de la page,
+dans un coin qu'il réservait, sans se l'avouer complètement, aux idées
+qui n'avaient rien à voir avec l'enquête, mais qu'il ne voulait pas
+perdre non plus — juste au-dessus de la ligne suivante, où il écrivit,
+en lettres bien droites pour ne pas laisser voir sa main trembler un
+peu : « Veillée nocturne — à planifier, inviter Ernest et Ilan. »
+L'idée de passer des heures sous terre sans lampe allumée lui nouait
+déjà un peu l'estomac, même pour la meilleure des raisons — mais ça, il
+préféra ne le dire à voix haute à personne.
 
 Suzanne rangeait déjà son matériel, le petit écran de contrôle glissé
 dans sa caisse à outils, quand elle s'arrêta net, un doigt suspendu
@@ -377,15 +380,16 @@ nuit avec son grincement habituel, et le silence retomba, presque
 solennel, sur la place déserte.
 
 — Un reflet qui apparaît et qui disparaît, un passage qui ne respire
-plus, un éboulis presque au bon moment, récita Souly, en refermant
-son carnet pour de bon, lui aussi. Ça fait beaucoup de pièces, pour un
-puzzle qu'on n'a même pas encore commencé à assembler.
+plus, un éboulis presque au bon moment, récita Souly, en fermant son
+carnet à son tour, comme un écho tardif de la grille. Ça fait beaucoup
+de pièces, pour un puzzle qu'on n'a même pas encore commencé à
+assembler.
 
 — Moi, je trouve qu'on avance drôlement vite, dit Sofia, en glissant
 sa main dans celle de son frère pour traverser la place plongée dans
-la pénombre — pas pour elle, bien sûr, jamais pour elle, uniquement au
-cas où lui aurait un peu peur du noir tombant, ce qui, comme toujours,
-n'était absolument pas le cas.
+la pénombre. C'était pour lui, évidemment, seulement pour lui — Souly,
+qui n'avait absolument rien demandé, ne dit rien non plus, et referma
+simplement ses doigts autour des siens.
 
 Ils remontèrent vers la maison de Mamie Rose sans un mot de plus,
 chacun se demandant, en silence, ce que la nuit suivante — ou celle
