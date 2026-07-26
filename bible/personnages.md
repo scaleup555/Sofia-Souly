@@ -725,6 +725,86 @@ Tout nouvel épisode doit relire ce fichier avant d'écrire une ligne.
 - Personnage-ressource pour tout tome futur à thème montagne/tourisme/
   refuge.
 
+### Suzanne Verlac (introduite au tome 16)
+- Spéléologue-acousticienne, étudie l'acoustique souterraine de la Grotte
+  Chantante de Résonac. Introduite comme ancienne doctorante de
+  Grand-oncle Théo — elle a commencé une thèse d'archéologie sous sa
+  direction avant de bifurquer vers la spéléologie (lien d'entrée en
+  scène différent de « nièce/cousine/ancienne élève de Mamie Rose/amie de
+  longue date de Théo » déjà utilisés aux tomes 12 à 15, pour varier). La
+  trentaine-quarantaine.
+- Fredonne toujours la note exacte d'un son avant de le décrire avec des
+  mots (tic distinct de celui d'Aude [tome 15, ne jamais arrondir un
+  chiffre]). Grande ironie attendrissante : experte en justesse
+  acoustique, elle chante affreusement faux elle-même dès qu'on lui
+  demande une démonstration.
+- Personnage-ressource pour tout tome futur à thème spéléologie/
+  acoustique/karst.
+
+### Ilan Brasier (introduit au tome 16)
+- 10 ans, vit à Résonac, petit-fils d'Ernest Vialar. Fredonne sans arrêt,
+  même sans s'en rendre compte, même concentré sur autre chose — mais
+  paralysé par le trac dès qu'il doit chanter SEUL devant un public (à
+  l'aise en chœur, muet en solo) — à varier systématiquement des
+  tempéraments déjà utilisés pour les autres enfants-ressources (Max sûr
+  de lui, Milo grimpeur terre-à-terre, Yanis méfiant et loyal, Iris
+  théâtrale et enthousiaste, Zoé franche et bagarreuse, Bastien calme et
+  très observateur, Noé sceptique et pince-sans-rire, Mila artiste
+  distraite, Enzo distrait par le fonctionnel, Nino obsédé par l'identité
+  individuelle, Alma planificatrice obsessionnelle, Timéo besoin d'ordre
+  et de symétrie, Basile pourcentages/ratios). Ilan porte un arc
+  émotionnel entier autour du trac plutôt qu'un simple tic d'observation —
+  rêve de chanter en solo à la Nuit du Chant de Pierre pour la première
+  fois cette année.
+- Personnage-ressource pour tout tome futur à thème musical/spéléologie/
+  village karstique.
+
+### Ernest Vialar (introduit au tome 16)
+- Ancien guide spéléologue professionnel à la retraite, plus de 70 ans,
+  grand-père d'Ilan. Détient une règle orale transmise par les guides
+  avant lui : « Quand la grotte retient son souffle, retiens le tien
+  aussi. » Longtemps prise pour une image poétique de vieux guide,
+  validée scientifiquement au tome où elle apparaît (l'absence du léger
+  courant d'air habituel signale un passage obstrué).
+- Personnage-ressource pour tout tome futur à thème spéléologie/savoir
+  traditionnel de guide.
+
+### Anatole Delmas (introduit au tome 16)
+- Ancien organiste de l'église du village à la retraite, plus de 60 ans.
+  Construit des dispositifs sonores toujours plus élaborés censés
+  « corriger » un écho ou un son, qui échouent avec bonne humeur
+  (diapasons géants, caisses de résonance portables, cornets démesurés) —
+  gabarit comique volontairement distinct de celui d'Hippolyte Fresnel
+  [tome 15, dispositifs de mesure numérotés par noms d'animaux] : Anatole
+  ne cherche pas à mesurer un phénomène, il veut activement le réparer
+  par la musique, ce qui se termine systématiquement par un vacarme
+  encore pire. Son dernier prototype se révèle finalement utile en fin de
+  tome (arc de rédemption, comme Léonard [tome 14] et Hippolyte [tome 15]).
+- Personnage-ressource pour tout tome futur à thème comique villageois/
+  musique/bricolage sonore.
+
+### Yasmine Ducros (introduite au tome 16)
+- A récemment élargi son entreprise de visites guidées de grotte (groupes
+  plus grands, nouvelles visites en soirée). Soupçonnée à tort d'avoir
+  perturbé une acoustique souterraine avec le bruit et le passage plus
+  fréquent des visiteurs — sincèrement inquiète d'en être responsable,
+  coopérative une fois innocentée (dans l'esprit de Julien Mercier
+  [tome 10] et Laurine Ferretti [tome 11]).
+- Personnage-ressource pour tout tome futur à thème tourisme souterrain/
+  visites guidées.
+
+### Denis Mourier (introduit au tome 16)
+- Technicien, a récemment installé un nouvel éclairage de sécurité et une
+  rampe métallique dans une partie ouverte au public d'une grotte, ce qui
+  a nécessité de percer près d'un passage étroit sans consulter d'expert
+  en acoustique — erreur de négligence, pas de malveillance (dans
+  l'esprit d'Antoine Ferrieux [tome 8], Thibault Norrain [tome 9], Régis
+  Sabatier [tome 10], Vincent Aubry [tome 11], Fabien Delorme [tome 12],
+  Maxime Ravier [tome 13], Sylvain Auberval [tome 14] et Corentin Chalvin
+  [tome 15]).
+- Personnage-ressource pour tout tome futur à thème travaux publics/
+  patrimoine souterrain.
+
 ## Règle d'or de continuité
 - Les faits établis dans un tome (âges, liens de parenté, peurs, habitudes) ne
   doivent JAMAIS être contredits dans un tome suivant.
