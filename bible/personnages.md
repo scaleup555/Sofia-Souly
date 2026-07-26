@@ -805,6 +805,79 @@ Tout nouvel épisode doit relire ce fichier avant d'écrire une ligne.
 - Personnage-ressource pour tout tome futur à thème travaux publics/
   patrimoine souterrain.
 
+### Romane Ferec (introduite au tome 17)
+- Biologiste polaire, dirige le programme de suivi GPS des manchots
+  royaux à Port-Venteux, sur l'île de Kerlan. Introduite comme cousine
+  de Grand-oncle Théo (lien d'entrée en scène jamais utilisé jusqu'ici —
+  à distinguer de nièce/amie de longue date/ancienne doctorante de Théo
+  déjà utilisés aux tomes 14 à 16). La trentaine.
+- Personnage-ressource pour tout tome futur à thème biologie polaire/
+  ornithologie marine/faune australe.
+
+### Elouan Prigent (introduit au tome 17)
+- 10 ans, vit à l'année à Port-Venteux, fils d'un couple de
+  scientifiques. Traduit systématiquement toute distance en nombre de
+  pas plutôt qu'en mètres ou en kilomètres, y compris pour des choses
+  qui n'ont rien à voir avec la marche — à varier systématiquement des
+  tempéraments déjà utilisés pour les autres enfants-ressources (Max
+  sûr de lui, Milo grimpeur terre-à-terre, Yanis méfiant et loyal, Iris
+  théâtrale et enthousiaste, Zoé franche et bagarreuse, Bastien calme et
+  très observateur, Noé sceptique et pince-sans-rire, Mila artiste
+  distraite, Enzo distrait par le fonctionnel, Nino obsédé par
+  l'identité individuelle, Alma planificatrice obsessionnelle, Timéo
+  besoin d'ordre et de symétrie, Basile pourcentages/ratios, Ilan
+  paralysé par le trac du solo).
+- Personnage-ressource pour tout tome futur à thème polaire/mesure/
+  base scientifique isolée.
+
+### Sylvestre Ranguin (introduit au tome 17)
+- Technicien-naturaliste, dix-huit campagnes australes à son actif, la
+  plus ancienne présence de la base de Port-Venteux. Détient une règle
+  orale transmise par les hivernants avant lui : « Ne coupe jamais le
+  Chemin des Manchots, même de trois pas. » Longtemps prise pour une
+  politesse envers les oiseaux plutôt qu'une vraie consigne de sécurité
+  écologique, validée scientifiquement au tome où elle apparaît.
+- Personnage-ressource pour tout tome futur à thème polaire/savoir
+  traditionnel de terrain.
+
+### Gaëtan Vasnier (introduit au tome 17)
+- Ancien réparateur de machines à laver reconverti en bricoleur de la
+  base de Port-Venteux. Construit des compte-pas mécaniques pour
+  manchots toujours plus élaborés, qui échouent avec bonne humeur
+  (gabarit comique distinct de tous les inventeurs comiques précédents
+  de la série — Gustave Pinatel [tome 8], Norbert Chabrol [tome 9],
+  Barnabé Roquefeuil [tome 10], Octave Bouscaren [tome 11], Ambroise
+  Cadoret [tome 12], Odette Rocher [tome 13], Léonard Cabestan
+  [tome 14], Hippolyte Fresnel [tome 15], Anatole Delmas [tome 16] :
+  Gaëtan ne cherche ni à observer, ni à provoquer, ni à capturer en
+  images, ni à attirer, ni à guider, ni à réparer un phénomène — il
+  veut mesurer automatiquement les pas d'un animal qui ne coopère
+  jamais). Son dernier prototype se révèle finalement utile en fin de
+  tome (arc de rédemption, comme ses prédécesseurs).
+- Personnage-ressource pour tout tome futur à thème comique/bricolage
+  scientifique amateur.
+
+### Noémie Falret (introduite au tome 17)
+- Réalisatrice de documentaire animalier, en mission d'observation avec
+  une petite équipe de tournage récemment arrivée à Port-Venteux.
+  Injustement soupçonnée d'avoir dérouté le Chemin des Manchots avec
+  son matériel de tournage — sincèrement inquiète d'en être
+  responsable, coopérative une fois innocentée (dans l'esprit de Julien
+  Mercier [tome 10], Laurine Ferretti [tome 11] et Yasmine Ducros
+  [tome 16]).
+- Personnage-ressource pour tout tome futur à thème documentaire
+  animalier/médias.
+
+### Tanguy Aumont (introduit au tome 17)
+- Technicien logistique de la base de Port-Venteux, a récemment
+  installé un nouveau mât scientifique (station météo autonome) sans
+  consulter l'équipe biologie, bloquant sans le savoir une portion du
+  Chemin des Manchots — erreur de négligence, pas de malveillance (dans
+  l'esprit de tous les techniciens précédents de la série, notamment
+  Denis Mourier [tome 16]).
+- Personnage-ressource pour tout tome futur à thème installation
+  technique/base scientifique isolée.
+
 ## Règle d'or de continuité
 - Les faits établis dans un tome (âges, liens de parenté, peurs, habitudes) ne
   doivent JAMAIS être contredits dans un tome suivant.
