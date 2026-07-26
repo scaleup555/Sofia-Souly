@@ -1,8 +1,8 @@
 # État d'avancement — Série Sofia & Souly
 
-*Dernière mise à jour : Tome 15 rédigé en une seule passe (12/12
-chapitres, 36 998 mots), approuvé par le jury à 8,1/10 dès le premier
-passage (« polish uniquement »), .docx livré — 2026-07-25*
+*Dernière mise à jour : Tome 16 rédigé en une seule passe (12/12
+chapitres, 36 940 mots), approuvé par le jury à 8,6/10 dès le premier
+passage (« polish uniquement »), .docx livré — 2026-07-26*
 
 **À LIRE INTÉGRALEMENT avant de démarrer toute nouvelle session d'écriture**,
 avec `bible/personnages.md`, `bible/lecons_apprises.md`, et — depuis le
@@ -1010,3 +1010,75 @@ dans le récit)).
 - Livraison du fichier `.docx` final via un nouveau `build_docx.py`
   (calqué sur celui du tome 14). **Tomes 1 à 14 toujours entièrement
   terminés** ; tome 15 complet à 36 998 mots, livré à 8,1/10.
+
+### Session 22 (tome 16, écriture complète) — 2026-07-26
+- Consigne explicite de l'utilisateur pour ce tome : « L'ouvrage doit
+  bien respecter toutes les consignes. Il doit être drôle et comprendre
+  plusieurs scènes qui font rire et des scènes embarrassantes qui font
+  sourire. » — mêmes exigences que les tomes 10 à 15 : plancher ferme de
+  36 000 mots (max 40 000), dialogues privilégiés. Titre imposé par
+  `bible/titres_futurs.md` (troisième titre de la liste réservée) :
+  « La Grotte qui chantait faux ».
+- Thème : spéléologie (formation karstique, acoustique souterraine —
+  réverbération/absorption selon la roche, écho-sondage, phénomène
+  d'interférence par deux chemins sonores de longueurs légèrement
+  différentes —, écosystème cavernicole avec le protée, salamandre
+  aveugle des eaux souterraines calcaires), premier tome de la série sur
+  ce thème. Décor : Résonac, la Grotte Chantante, la Chambre aux Échos,
+  le Couloir Sonore, le Puits du Sourd, la Nuit du Chant de Pierre.
+  Nouveaux personnages ajoutés à `bible/personnages.md` : Suzanne Verlac
+  (spéléologue-acousticienne, ancienne doctorante de Grand-oncle Théo —
+  lien d'entrée en scène inédit —, fredonne la note d'un son avant de le
+  décrire, chante affreusement faux malgré son expertise), Ilan Brasier
+  (10 ans, fredonne sans arrêt mais paralysé par le trac dès qu'il doit
+  chanter en solo), Ernest Vialar (ancien guide spéléologue, grand-père
+  d'Ilan, règle orale sur le souffle de la grotte), Anatole Delmas
+  (ancien organiste, inventeur comique de dispositifs sonores), Yasmine
+  Ducros (visites guidées élargies, injustement soupçonnée) et Denis
+  Mourier (technicien, cause réelle par excès de précaution mal
+  informée).
+- Double fair-play : élimination des visites élargies de Yasmine par
+  chronologie (écart constant de six jours après l'incident — motif
+  numérique délibérément différent des tomes précédents), éboulis du
+  perçage de Denis comme vraie cause (écart constant d'un jour avant
+  l'incident), règle orale d'Ernest sur le souffle de la grotte validée
+  scientifiquement, rebondissement du titre : l'écho n'est pas cassé
+  mais dédoublé (interférence entre le Couloir Sonore et une fissure
+  nouvellement ouverte), révélant une poche cavernicole inexplorée
+  abritant des protées — résolution collaborative par cartographie
+  complète financée par Yasmine et surveillance du courant d'air.
+- Rédaction complète des 12 chapitres en une seule passe (~11 800
+  mots), puis expansion en parallèle via 3 agents dédiés (ch1-4, ch5-8,
+  ch9-12), **menés à terme sans échec d'infrastructure**, jusqu'à
+  36 549 mots (marge initiale plus mince que d'habitude, ~550 mots).
+- Vérification structurelle dédiée en trois passages parallèles par
+  groupe de chapitres, avec recoupement croisé explicite entre agents :
+  un bug de chronologie détecté indépendamment par les trois agents à la
+  fois (chapitres 6 et 7 recopiaient des décomptes de jours périmés des
+  chapitres 3-4 au lieu de les recalculer pour leur propre jour du
+  récit, cassant les deux invariants numériques du fair-play — écart
+  d'un jour et écart de six jours), corrigé par l'agent en charge des
+  chapitres concernés ; un bug de répliques consécutives (chapitre 5) ;
+  une douzaine de doublons de formulation/gabarit détectés et corrigés
+  par recoupement entre les trois agents (chacun signalant dans son
+  rapport les doublons trouvés hors de son périmètre pour que l'agent
+  responsable les corrige).
+- 1 seul passage jury complet sur le manuscrit fini : **8,6/10 dès le
+  premier passage**, verdict « à corriger, polish uniquement » — le
+  deuxième meilleur résultat jamais obtenu dès le premier passage jury
+  de la série, derrière le tome 13 (8,9/10). Le jury a détecté un
+  dernier bug de chronologie résiduel (les
+  chapitres 1 et 2 s'enchaînaient en une scène continue sans nuit de
+  sommeil, alors que leur décompte de jours avant la fête avançait quand
+  même de huit à sept), corrigé en restructurant la transition en deux
+  jours distincts (report de la visite au chapitre 1, descente
+  effective le lendemain matin au chapitre 2) — correction qui a aussi
+  reconstitué une marge de longueur plus confortable. Deux doublons de
+  formulation mineurs supplémentaires également corrigés, ainsi qu'un
+  tic banni « avec un sourire » réintroduit par inadvertance pendant la
+  correction elle-même et repéré seulement après aplatissement du texte
+  (un retour à la ligne markdown le rendait invisible à un grep naïf sur
+  une seule ligne — leçon n°34 confirmée une nouvelle fois).
+- Livraison du fichier `.docx` final via un nouveau `build_docx.py`
+  (calqué sur celui du tome 15). **Tomes 1 à 15 toujours entièrement
+  terminés** ; tome 16 complet à 36 940 mots, livré à 8,6/10.

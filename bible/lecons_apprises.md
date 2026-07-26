@@ -1659,3 +1659,89 @@ la série — validation directe que l'application cumulative des
 leçons n°20-29 (marge de mots, grep de contrôle global post-écriture,
 ancrage de calendrier explicite, vigilance bible) réduit
 significativement le nombre de rounds de correction nécessaires.
+
+**Leçon méthodologique n°37 — une scène qui s'étend sur deux chapitres
+sans aucune coupure narrative (pas de sommeil, pas de saut de temps)
+doit garder un décompte de jours strictement identique d'un chapitre à
+l'autre, même si chaque chapitre, pris isolément, semble correspondre à
+« son » jour dans la table de recalcul de l'outline.** Au tome 16, le
+chapitre 1 se terminait sur la descente dans la grotte avec un décompte
+« il en reste huit [jours] », et le chapitre 2 reprenait la scène sans
+aucune coupure (même couloir, mêmes personnages, aucune nuit passée)
+mais affichait « dans sept jours » quelques lignes plus loin — chaque
+chapitre étant individuellement conforme à l'entrée correspondante de
+la table de recalcul (chapitre 1 = Jour 1, chapitre 2 = Jour 2), mais
+la table elle-même supposait implicitement une coupure de jour entre
+les deux qui n'existait pas dans le texte réellement écrit. Trois
+agents de vérification différents, chacun assigné à un tiers du livre,
+ont laissé passer ce bug car il se situait exactement à la frontière
+entre deux lots de chapitres (chapitre 1 dans le lot 1-4, chapitre 2
+aussi dans le lot 1-4 — donc en théorie visible par le même agent, qui
+a validé chaque chapitre séparément contre la table sans remarquer que
+la scène ne comportait aucune transition de jour). C'est un jury lisant
+le manuscrit compilé d'une traite qui l'a détecté. **Règle ajoutée :
+lors de la vérification de chronologie, ne pas se contenter de valider
+chaque décompte contre la table chapitre par chapitre — vérifier aussi,
+pour chaque transition entre deux chapitres consécutifs, qu'une coupure
+de jour explicite (nuit, sommeil, changement de lieu avec ellipse
+temporelle) existe bien dans le texte si la table prévoit un changement
+de jour, et qu'aucune n'existe si la table prévoit le même jour. Une
+scène continue qui enjambe une frontière de chapitre est le point
+aveugle typique d'une vérification découpée par lots.**
+
+**Leçon méthodologique n°38 — le recoupement explicite entre agents de
+vérification parallèles (chacun signalant dans son rapport les bugs
+trouvés hors de son périmètre d'édition) est un mécanisme de sécurité
+qui fonctionne, mais seulement si quelqu'un consolide activement les
+rapports.** Au tome 16, le bug de chronologie du chapitre 7 (un
+decompte de jours périmé, recopié depuis un chapitre antérieur au lieu
+d'être recalculé) a été signalé indépendamment par les TROIS agents de
+vérification (celui qui l'a trouvé sans avoir le droit de le corriger
+car hors périmètre, et les deux autres qui l'ont revérifié et confirmé
+en le recalculant eux-mêmes) avant d'être effectivement corrigé par
+l'agent responsable du chapitre concerné. Ce triple signalement
+independant a servi de confirmation croisée forte — mais seulement
+parce que chaque rapport a été lu et son contenu « hors périmètre »
+explicitement recherché avant de passer à l'étape suivante du
+pipeline. **Règle ajoutée : quand plusieurs agents de vérification
+tournent en parallèle sur des lots différents, toujours lire les
+sections « bugs trouvés hors de mon périmètre » de CHAQUE rapport avant
+de considérer la vérification terminée — ce sont souvent les bugs à la
+frontière entre deux lots, les plus susceptibles d'échapper à une
+vérification strictement cloisonnée par chapitre.**
+
+**Leçon méthodologique n°39 — une correction appliquée pendant la
+relecture finale peut elle-même introduire un tic banni, invisible au
+grep habituel si la nouvelle phrase est coupée par un retour à la ligne
+markdown.** Au tome 16, en réécrivant une scène pour corriger le bug de
+chronologie de la leçon n°37, une nouvelle phrase a été insérée
+(« dit Suzanne, avec un sourire qui enlevait tout regret à la
+phrase ») qui réintroduisait exactement le tic banni « avec un(e) +
+nom abstrait » — repéré seulement après aplatissement du texte, un
+grep ligne par ligne ne l'ayant pas détecté car la phrase était coupée
+entre « avec » et « un sourire ». Confirmation directe de la leçon n°34
+appliquée cette fois à une correction, pas seulement à une rédaction
+initiale. **Règle ajoutée : toute correction de dernière minute,
+aussi ciblée soit-elle, doit être revérifiée par un grep sur texte
+aplati avant d'être considérée comme définitive — une correction n'est
+jamais « trop petite » pour réintroduire un tic.**
+
+**Bilan chiffré (tome 16) :** rédaction des 12 chapitres en une seule
+passe (~11 800 mots), expansion parallèle par 3 agents menés à terme
+sans échec d'infrastructure, jusqu'à 36 549 mots — marge initiale plus
+mince que les tomes précédents (~550 mots au lieu de 900-1500),
+reconstituée à ~940 mots par la correction de chronologie du passage
+jury. Vérification structurelle en trois passages parallèles avec
+recoupement croisé explicite (voir leçons n°37-38) : un bug de
+répliques consécutives, une douzaine de doublons de formulation/gabarit
+détectés et corrigés par recoupement inter-agents, chronologie
+intra-chapitre entièrement cohérente (le seul bug résiduel se situant
+précisément à la frontière entre deux chapitres, voir leçon n°37). 1
+seul passage jury complet sur le manuscrit fini : **8,6/10 dès le
+premier passage**, verdict « à corriger, polish uniquement » — le
+deuxième meilleur score jury obtenu dès le premier passage complet de
+la série, derrière le tome 13 (8,9/10). Un bug de chronologie inter-chapitres
+(leçon n°37) et deux doublons de formulation corrigés, plus un tic
+banni réintroduit pendant la correction elle-même et repéré par
+aplatissement (leçon n°39). Tome complet à 36 940 mots. .docx livré via
+un nouveau `build_docx.py` calqué sur celui du tome 15.

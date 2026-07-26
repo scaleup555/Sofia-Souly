@@ -504,3 +504,37 @@ qui n'ont jamais froid aux yeux, même sur la glace, ne laissent jamais
 une question sans réponse.*
 
 **Dès 8 ans. 12 chapitres, une énigme, deux twists.**
+
+---
+
+## Tome 16 — La Grotte qui chantait faux
+
+Un écho parfait, chanté au même endroit depuis plus de cent ans. Une
+Nuit du Chant de Pierre qui approche. Et un soir de répétition où,
+pour la première fois de son histoire, la grotte du village répond...
+faux.
+
+À Résonac, village creusé comme un gruyère par des siècles d'eau et de
+calcaire, la Grotte Chantante est la fierté discrète de tout le monde.
+Mais l'écho de la Chambre aux Échos revient désormais trouble, comme
+deux voix presque d'accord mais pas tout à fait — et les soupçons se
+tournent vite vers une entreprise de visites guidées qui vient
+justement d'agrandir ses groupes.
+
+Sofia et Souly, venus rencontrer Suzanne Verlac, spéléologue-
+acousticienne aussi savante sur le son qu'incapable de chanter juste
+elle-même, se lient d'amitié avec Ilan, dix ans, qui fredonne sans
+arrêt mais se tait dès qu'il doit chanter seul devant un public. Avec
+l'aide d'Ernest, ancien guide qui connaît une règle sur le souffle de
+la grotte que plus personne ne prend au sérieux, les enfants vont
+devoir écouter un endroit où presque personne ne va jamais — avant
+qu'il ne soit trop tard pour la fête.
+
+Une grotte ne chante jamais faux sans raison. Parfois, elle vient
+juste de trouver une deuxième voix.
+
+*Seizième tome d'une série où la science, l'aventure et deux enquêteurs
+à l'oreille toujours plus fine ne laissent jamais une question sans
+réponse.*
+
+**Dès 8 ans. 12 chapitres, une énigme, deux twists.**
