@@ -68,7 +68,7 @@ le monde.
 toute la journée. Elle n'a pas le temps de bousiller un écho.
 
 — Ça, ça me change, dit Yasmine, en s'asseyant lourdement sur un des
-bacs retournés. Depuis dix jours, j'ai l'impression d'être le suspect
+bacs retournés. Depuis onze jours, j'ai l'impression d'être le suspect
 numéro un du village, alors que je n'ai strictement rien fait de
 différent, à part...
 
@@ -165,7 +165,7 @@ prêter serment, exactement comme elle le faisait pour ses promesses les
 plus sérieuses.
 
 — Vous savez, dit Yasmine, en les regardant tous les deux d'un œil
-neuf, vous êtes les deux premières personnes du village, en dix jours,
+neuf, vous êtes les deux premières personnes du village, en onze jours,
 à me demander ce que MOI j'en pense, plutôt que de me
 dire ce qu'ils pensent, eux.
 

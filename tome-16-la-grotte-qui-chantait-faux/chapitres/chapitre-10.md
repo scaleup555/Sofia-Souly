@@ -20,13 +20,13 @@ envoyer le retrouver au milieu d'un de ses prototypes.
 
 Devant l'entrée de la grotte, Denis vissait, presque trop
 méticuleusement, une dernière plaque décorative sur la rampe métallique
-qu'il avait installée deux semaines plus tôt, vérifiant chaque vis deux
-fois plutôt qu'une.
+qu'il avait installée un peu plus de deux semaines plus tôt, vérifiant
+chaque vis deux fois plutôt qu'une.
 
 — Vous en faites trop, lui dit Souly, en passant.
 
-— Peut-être, admit Denis, sans lever les yeux de son tournevis. Mais
-ce soir, tout le village va poser la main sur cette rampe en
+— Peut-être, admit Denis, tout entier concentré sur la vis qu'il
+resserrait. Mais ce soir, tout le village va poser la main sur cette rampe en
 descendant. Alors je préfère qu'elle tienne, cette fois-ci, jusqu'au
 dernier boulon.
 
@@ -98,8 +98,8 @@ Sofia accepta le dépliant en redressant le menton, tel un rescapé d'un
 moment terrible qui, contre toute attente, s'en sort avec un souvenir
 en prime plutôt qu'une humiliation. Elle glissa
 le papier dans sa poche, à côté de son caillou du jour, et se dépêcha
-de rattraper Souly, les joues encore chaudes mais un petit sourire
-irrépressible au coin des lèvres.
+de rattraper Souly, les joues encore chaudes mais déjà presque prête à
+en rire elle-même.
 
 — C'était horrible, dit-elle.
 
@@ -154,7 +154,8 @@ très précisément. Onze prototypes ratés, et c'est le douzième essai qui
 compte enfin — même s'il ne sert à rien de spécial, celui-là, à part
 faire du bruit au bon moment.
 
-— C'est déjà un immense progrès, dit Suzanne, avec un clin d'œil.
+— C'est déjà un immense progrès, dit Suzanne, en lui donnant une
+petite tape sur l'épaule.
 
 — Vous croyez que ça va marcher, ce soir, devant tout le monde ?
 demanda Anatole, la voix soudain moins sûre. J'ai passé des mois à
@@ -201,9 +202,9 @@ de son carnet. Elle chante double.
 — C'est une façon élégante de le dire, admit Suzanne.
 
 — Comme deux personnes qui chantent la même chanson, une demi-seconde
-en retard l'une sur l'autre, dit Yasmine, songeuse. J'ai déjà entendu
-ça, en fait. Dans une visite en soirée, la semaine dernière. Je croyais
-juste que mon groupe chantait mal.
+en retard l'une sur l'autre, dit Yasmine, la tête légèrement penchée.
+J'ai déjà entendu ça, en fait. Dans une visite en soirée, la semaine
+dernière. Je croyais juste que mon groupe chantait mal.
 
 — Ils chantaient sans doute très bien, dit Suzanne en riant. C'est la
 grotte qui a changé de voix sous leurs pieds, pas eux.
@@ -309,8 +310,9 @@ exactement ?
 — Sur celles d'Anatole, de préférence, dit Sofia. Il en a assez de
 moches pour ne pas s'en apercevoir.
 
-Ilan pouffa malgré lui, un rire nerveux et bref qui parut le soulager
-davantage qu'il ne s'y attendait.
+Ilan pouffa malgré lui, la main plaquée sur la bouche une seconde trop
+tard, visiblement soulagé d'avoir, enfin, quelque chose d'autre à quoi
+penser.
 
 — Comment tu as fait, toi, ce matin ? demanda-t-il à Sofia. Devant les
 touristes. Comment tu as continué à parler après t'être trompée ?
@@ -335,8 +337,8 @@ Et j'y vais.
 
 — Ça marche vraiment ? demanda Ilan.
 
-— Ça n'a jamais raté. Enfin — Ernest hésita, un sourire au coin des
-lèvres — presque jamais.
+— Ça n'a jamais raté. Enfin — Ernest laissa passer un silence amusé —
+presque jamais.
 
 — « Presque », c'est censé me rassurer ?
 
@@ -395,7 +397,7 @@ malgré ses dix ans et sa taille déjà bien avancée, tandis qu'Ernest,
 resté au premier rang, essuyait discrètement quelque chose au coin de
 son œil qu'il attribua aussitôt, très fort, à la poussière du soir.
 
-— Il a réussi, souffla Sofia, des étoiles plein les yeux.
+— Il a réussi, souffla Sofia, incapable de dire autre chose.
 
 — Il a fait mieux que réussir, dit Souly. Il a fait chanter une grotte
 qui n'avait encore jamais chanté comme ça.

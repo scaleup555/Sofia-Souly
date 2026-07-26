@@ -10,7 +10,8 @@ concentrée et silencieuse qu'une inspectrice des douanes.
 — Tu comptes vraiment tout emporter ? demanda Souly, depuis le pas de
 la porte, son propre sac déjà bouclé depuis la veille au soir.
 
-— Chaque caillou a une histoire, dit Sofia, sans même lever les yeux.
+— Chaque caillou a une histoire, dit Sofia, tout occupée à aligner ses
+trésors sur la couette.
 Celui-là — elle brandit le galet plat trouvé sous le porche de la
 boulangerie — c'est le caillou de la veillée. Je l'ai touché pendant
 qu'on découvrait la salamandre. Il compte double.
@@ -49,7 +50,7 @@ Sofia, satisfaite de la comparaison. On est pareils, en fait. Toi avec
 tes pages, moi avec mes cailloux.
 
 — On n'est pas DU TOUT pareils, protesta Souly, mais sans grande
-conviction, et surtout sans lever les yeux de son carnet.
+conviction, et surtout tout entier absorbé par la page qu'il relisait.
 
 En bas, Théo avait déjà chargé la voiture aux trois quarts et
 recommençait, pour la énième fois, à chercher ses clés qu'il tenait
@@ -362,8 +363,9 @@ moi.
 Mamie Rose, depuis le siège avant, referma ses mots croisés, un sourire
 qu'elle ne chercha même pas à cacher, cette fois.
 
-— C'est en général comme ça que ça marche, dit-elle, sans lever les
-yeux. Pour les mots. Et pour presque tout le reste.
+— C'est en général comme ça que ça marche, dit-elle, la pointe du
+stylo déjà posée sur la case suivante. Pour les mots. Et pour presque
+tout le reste.
 
 — Neuf lettres, dit Théo, un œil sur la route et l'autre, tant bien que
 mal, sur la grille de mots croisés posée entre les deux sièges avant.
@@ -375,7 +377,7 @@ par hasard ?
 — Je le savais. Je testais juste ta vigilance.
 
 — Bien sûr, dit Mamie Rose, avant de reprendre sa grille sans un mot
-de plus, un sourire toujours accroché au coin des lèvres.
+de plus, visiblement ravie de son petit effet.
 
 Ils s'arrêtèrent, une heure plus tard, à la même station-service où
 Sofia avait ramassé, le tout premier jour de leurs vacances, le petit

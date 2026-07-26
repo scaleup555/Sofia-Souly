@@ -19,8 +19,9 @@ son sac à dos, où trônait, bien en évidence, le Carnet des Preuves.
 — Je sais que c'est pour l'enquête. Ce que je te demande, c'est si TOI,
 tu es sûr.
 
-Souly hésita une fraction de seconde de trop pour que ça passe
-inaperçu, mais répondit quand même, d'une voix qu'il voulut ferme :
+Souly ne répondit pas tout de suite — assez longtemps pour que Mamie
+Rose le remarque — avant de se reprendre, d'une voix qu'il voulut
+ferme :
 
 — Je suis sûr.
 
@@ -277,8 +278,9 @@ L'air a trouvé un nouveau chemin pour sortir.
 encore floue, à mesure qu'elle se développait. Le son, il pourrait
 trouver un nouveau chemin, lui aussi ?
 
-— C'est exactement la question que je me pose, dit Suzanne, les yeux
-brillants dans la faible lumière. Si le son de la Chambre aux Échos
+— C'est exactement la question que je me pose, dit Suzanne, penchée si
+près de la fissure que sa lampe frontale frôlait presque la roche. Si
+le son de la Chambre aux Échos
 trouve maintenant deux chemins différents pour revenir jusqu'à
 l'entrée — l'ancien, par le Couloir Sonore, et un nouveau, plus long ou
 plus court de quelques centimètres seulement, par cette fissure —

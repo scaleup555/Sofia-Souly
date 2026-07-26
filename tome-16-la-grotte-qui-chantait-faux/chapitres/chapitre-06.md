@@ -61,10 +61,10 @@ sûrs, pour Yasmine. Complètement sûrs.
 
 — Sûrs comment ?
 
-— On a sa date à elle — dépliants et billets, il y a cinq jours. On a
-la date de l'incident racontée par Ilan — il y a dix jours, un samedi.
-Mais on n'a encore rien de vraiment... indépendant. Deux témoins qui
-n'ont rien à voir l'un avec l'autre.
+— On a sa date à elle — dépliants et billets, il y a sept jours. On a
+la date de l'incident racontée par Ilan — il y a treize jours, un
+samedi. Mais on n'a encore rien de vraiment... indépendant. Deux
+témoins qui n'ont rien à voir l'un avec l'autre.
 
 Suzanne hocha la tête, visiblement impressionnée.
 
@@ -89,8 +89,8 @@ Elle en sortit son petit enregistreur noir.
 
 — Voilà la première. J'ai enregistré la répétition ratée moi-même, ce
 jour-là. Le fichier est daté automatiquement par l'appareil, pas par
-moi — impossible à trafiquer sans que ça se voie. Il y a exactement dix
-jours.
+moi — impossible à trafiquer sans que ça se voie. Il y a exactement
+treize jours.
 
 — Une, dit Souly en cochant une case dans son carnet.
 
@@ -163,14 +163,14 @@ d'accord.
 — Et la quatrième ? demanda Ilan.
 
 — La quatrième, c'est Yasmine elle-même, dit Sofia. Ses dépliants, ses
-billets. Cinq jours après l'incident, pas avant.
+billets. Six jours après l'incident, pas avant.
 
 Souly traça un grand tableau dans son carnet, deux colonnes, une ligne
 du milieu bien nette :
 
-*Incident : il y a dix jours (3 sources indépendantes).*
-*Groupes élargis de Yasmine : il y a cinq jours (2 preuves écrites).*
-*Écart : cinq jours. Les groupes sont arrivés APRÈS le problème.*
+*Incident : il y a treize jours (3 sources indépendantes).*
+*Groupes élargis de Yasmine : il y a sept jours (2 preuves écrites).*
+*Écart : six jours. Les groupes sont arrivés APRÈS le problème.*
 
 — Ça veut dire qu'elle est complètement innocentée, dit-il enfin, en
 soulignant le mot deux fois, presque aussi énergiquement qu'avait dû

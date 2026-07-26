@@ -80,13 +80,14 @@ la grotte — tous les passages, pas seulement le Puits du Sourd — pour
 qu'on ne se retrouve plus jamais à découvrir un problème après coup,
 sans savoir ce qu'il y a autour.
 
-— Ça, dit Suzanne, les yeux brillants, c'est exactement le genre de
+— Ça, dit Suzanne, en se redressant d'un coup sur sa chaise de
+camping, c'est exactement le genre de
 projet que je rêve de faire depuis des années, sans jamais avoir le
 budget. Une cartographie complète, avec relevés d'air, de température,
 d'humidité, partout. On saurait enfin où sont TOUS les passages
 étroits, pas seulement celui qui nous a posé problème cette fois.
 
-— Après tout, dit Yasmine, un sourire un peu triste au coin des lèvres,
+— Après tout, dit Yasmine, la voix un peu changée,
 vu que tout le village m'a soupçonnée pendant une semaine, le moins que
 je puisse faire, c'est aider à ce que ça n'arrive plus à personne
 d'autre.
@@ -239,7 +240,7 @@ provisoire, annonça Suzanne, en retirant son casque. Rien de définitif
 — juste de quoi être sûrs que plus rien ne bouge tout seul avant qu'on
 ait fini la cartographie complète.
 
-— On peut voir ? demanda Sofia, pleine d'espoir.
+— On peut voir ? demanda Sofia, déjà sur la pointe des pieds.
 
 — La grille, oui. La salamandre, pas aujourd'hui. Elle a eu assez
 d'émotions pour la semaine, comme nous tous.
@@ -340,7 +341,8 @@ qui m'a envoyé voler douze mètres en arrière, un qui a fait fuir toute
 une colonie de chauves-souris. Et c'est le seul qui ne cherchait même
 pas à réparer quoi que ce soit qui a fini par vraiment servir.
 
-— C'est parce qu'il n'essayait pas de réparer, dit Souly, songeur. Il
+— C'est parce qu'il n'essayait pas de réparer, dit Souly, après un
+vrai temps de réflexion. Il
 mesurait, c'est tout. Vous n'aviez pas besoin de corriger l'écho.
 Juste de le comprendre.
 
@@ -374,8 +376,8 @@ Sofia ouvrit le sac avec précaution. À l'intérieur, un minuscule
 morceau de pop-corn de grotte, à peine plus gros qu'un ongle, brillait
 faiblement à la lumière du jour.
 
-— Un vrai, souffla-t-elle, des étoiles plein les yeux. Un vrai
-coralloïde.
+— Un vrai, souffla-t-elle, en le retournant délicatement entre deux
+doigts. Un vrai coralloïde.
 
 — Suzanne a dit que tu en voulais un depuis le premier jour, dit Ilan,
 un peu gêné. Ça m'a semblé normal, après tout ce que vous avez fait.

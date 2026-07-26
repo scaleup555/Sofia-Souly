@@ -46,11 +46,9 @@ d'elles, du bout d'un doigt.
 — Celle-là, non. Trop vieille, trop raide, elle casserait comme du
 verre au premier vrai effort. Je la garde quand même. On ne jette pas
 une corde qui vous a tenu en vie une centaine de fois, jeune fille,
-même à la retraite.
-
-— Alors entrez. Mais essuyez vos pieds — ma femme n'est plus là pour
-me le rappeler, alors je le fais moi-même, systématiquement, pour tout
-le monde.
+même à la retraite. Alors entrez. Mais essuyez vos pieds — ma femme
+n'est plus là pour me le rappeler, alors je le fais moi-même,
+systématiquement, pour tout le monde.
 
 Ernest les fit asseoir dans une cuisine qui sentait la cire et le café,
 aux murs couverts de photographies encadrées : un jeune homme casqué,
@@ -306,8 +304,8 @@ presque du miracle.
 — C'est le plus bel objet que j'aie jamais vu, décida-t-elle enfin, sans
 la moindre trace d'ironie dans la voix.
 
-— Je te préviens tout de suite, dit Ernest, un petit rire dans la
-voix : celui-là, il ne bouge pas de cette soucoupe.
+— Je te préviens tout de suite, dit Ernest, un coin de la bouche
+relevé malgré lui : celui-là, il ne bouge pas de cette soucoupe.
 
 — Je le regardais juste, protesta Sofia, avec la mine de quelqu'un qui
 avait, en effet, sérieusement envisagé une autre option deux secondes
@@ -320,8 +318,8 @@ lanternes en papier d'une gouttière à l'autre, et, sur le panneau de
 bois où le décompte s'affichait à la craie, un chiffre fraîchement
 récrit : *Nuit du Chant de Pierre dans 4 jours.*
 
-— Quatre jours, lut Souly à voix haute, en s'arrêtant net devant le
-panneau. Ça se rapproche vite.
+— Quatre jours, lut Souly à voix haute, le doigt posé sur le dernier
+chiffre comme pour l'empêcher de changer. Ça se rapproche vite.
 
 — Trop vite pour Ilan, dit Sofia, en pensant au visage soudain pâle de
 leur nouvel ami dès qu'on prononçait le mot « solo ».

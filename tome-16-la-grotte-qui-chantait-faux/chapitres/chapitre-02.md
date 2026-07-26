@@ -232,12 +232,10 @@ Les stalactites, elles, pendent du plafond.
 
 — Stalactite, stalagmite, c'est vraiment le même mot avec deux lettres
 différentes, protesta Sofia. Pourquoi ils ont fait ça exprès pour nous
-embrouiller ?
+embrouiller ? Alors c'est la faute du mot, pas la mienne.
 
 — Ce n'est pas fait exprès. C'est juste que « tite » et « mite », ça se
 ressemble.
-
-— Alors c'est la faute du mot, pas la mienne.
 
 — Peu importe, la coupa Sofia, très digne. L'important, c'est qu'elle
 soit belle.
