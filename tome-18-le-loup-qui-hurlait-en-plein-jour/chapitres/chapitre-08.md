@@ -18,7 +18,7 @@ Fabienne, qui avait pris le bouquet par politesse, l'examina un instant et retin
 
 « Ce sont effectivement des edelweiss, Baptiste. Une espèce strictement protégée. Il est interdit de les cueillir — ça pousse en général plus haut, sur des pentes rocailleuses, mais on en trouve parfois plus bas, autour de la crête, justement.
 
-— Protégée pourquoi, exactement ? demanda-t-il, comme si le détail pouvait encore le sauver.
+— Protégée pourquoi, exactement ? demanda-t-il, avec l'espoir vain que le détail pourrait encore le sauver.
 
 — Parce qu'elle est devenue rare, dit Fabienne, pas peu ironique. On l'a tellement cueillie, pendant des décennies, comme symbole de la montagne, qu'il a fallu l'interdire pour qu'il en reste encore aujourd'hui. »
 
@@ -52,7 +52,7 @@ Une fois le pot installé sur le rebord de la fenêtre — Sofia vérifiant troi
 
 « Vous restez manger quelque chose, dit-elle, ce n'est pas une proposition. Vous avez l'air d'un homme qui n'a rien avalé depuis hier midi.
 
-— C'est à peu près ça, avoua Baptiste, en s'asseyant timidement au bout de la table, comme s'il craignait encore d'être de trop.
+— C'est à peu près ça, avoua Baptiste, en s'asseyant timidement au bout de la table, l'air de quelqu'un qui craignait encore d'être de trop.
 
 — Tartines ou céréales ? demanda Mamie Rose, déjà debout, comme si la question ne se posait même pas.
 
@@ -164,13 +164,15 @@ Il s'arrêta, le crayon en l'air, avant d'ajouter, en petites lettres, tout en b
 
 *Baptiste a offert des edelweiss protégés pour s'excuser d'avoir dérangé des loups protégés. Personne dans ce village ne fait jamais les choses à moitié.*
 
-Au dîner, ce soir-là, la table était plus animée que d'habitude : Cyprien était passé en fin d'après-midi apporter un fromage de sa fabrication en guise de remerciement supplémentaire, Isidore avait envoyé un message annonçant fièrement qu'il ajoutait « une sangle de transport renforcée » à son détecteur pour la veillée du lendemain, et Baptiste, avant de repartir vers la vallée, avait promis de revenir dès l'aube du lendemain avec du café — du vrai, cette fois, pour tout le monde, en réparation collective de tous les cafés renversés de la semaine.
+Au dîner, ce soir-là, la table était plus animée que d'habitude : Cyprien était passé en fin d'après-midi apporter un fromage de sa fabrication en guise de remerciement supplémentaire, escorté par Frimousse et Grizou qui avaient reniflé consciencieusement chaque recoin du jardin avant de s'installer, sagement couchés, sous la table de la cuisine ; Isidore avait envoyé un message annonçant fièrement qu'il ajoutait « une sangle de transport renforcée » à son détecteur pour la veillée du lendemain ; et Baptiste, avant de repartir vers la vallée, avait promis de revenir dès l'aube du lendemain avec du café — du vrai, cette fois, pour tout le monde, en réparation collective de tous les cafés renversés de la semaine.
 
 « Cette famille attire les catastrophes de café comme d'autres attirent les moustiques, observa Mamie Rose, en servant la soupe.
 
 — C'est un talent rare, reconnut Théo avec une fausse modestie. Il faut des années de pratique.
 
 — Toi, en tout cas, tu as clairement un don », dit Sofia, et personne, cette fois, n'eut le cœur de la contredire.
+
+Cyprien, qui n'était pas encore au courant de l'épisode du café renversé chez l'organisateur du concours, réclama qu'on lui raconte l'histoire dans le détail, ce que Sofia fit avec un tel enthousiasme théâtral, gestes à l'appui, que Frimousse leva la tête sous la table, visiblement convaincue qu'il se passait quelque chose d'important.
 
 Fabienne, plus silencieuse que d'habitude, observait la carte du massif des Trois Cimes punaisée au mur, le regard perdu du côté du Pas du Berger.
 
@@ -196,4 +198,14 @@ Ce soir-là, une fois la vaisselle rangée et les lumières de la cuisine étein
 
 — C'est un peu le sujet quand même. »
 
-Ils se souhaitèrent bonne nuit chacun devant leur porte, et le village de Loubarèges, au-dehors, s'endormit à son tour sous les Trois Cimes, sans savoir qu'à quelques centaines de mètres de là, sur la crête, une meute de loups entamait déjà sa nuit — la dernière avant que des humains, enfin, ne viennent l'écouter avec toute l'attention qu'elle méritait.
+Mamie Rose passa par leurs chambres, comme chaque soir, pour un dernier tour de vérification qu'elle prétendait faire « par habitude d'ancienne institutrice », sans jamais admettre que c'était surtout par affection. Elle s'arrêta un instant sur le seuil de celle de Souly, où la petite veilleuse en forme de grenouille projetait sa lueur verte familière sur le plafond.
+
+« Tout va bien ? demanda-t-elle doucement.
+
+— Tout va bien, dit Souly, déjà à moitié endormi. J'ai juste hâte d'être à après-demain.
+
+— Après-demain viendra, dit Mamie Rose. Ils viennent toujours, les lendemains, que ça nous arrange ou non. Dors, maintenant. Tu réfléchiras mieux demain avec une bonne nuit de sommeil derrière toi. »
+
+Elle éteignit la lumière du couloir, non celle de la chambre, et redescendit rejoindre Fabienne et Théo, qui discutaient encore à voix basse dans la cuisine, penchés sur la carte du massif comme deux généraux préparant une expédition — ce qui, d'une certaine façon, n'était pas tout à fait faux.
+
+Le village de Loubarèges, au-dehors, s'endormit à son tour sous les Trois Cimes, sans savoir qu'à quelques centaines de mètres de là, sur la crête, une meute de loups entamait déjà sa nuit — la dernière avant que des humains, enfin, ne viennent l'écouter avec toute l'attention qu'elle méritait.

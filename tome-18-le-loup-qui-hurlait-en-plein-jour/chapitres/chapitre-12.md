@@ -144,7 +144,7 @@ Elle se tourna ensuite vers Souly, qui serrait déjà son nouveau carnet de cuir
 
 La camionnette démarra peu après, dans un concert d'au revoir criés depuis la place. Elle traversa lentement tout le village, klaxonnant deux fois devant la boulangerie où la boulangère, occupée à balayer son pas de porte, leva une main enfarinée en guise de salut ; puis devant la mairie, où le maire lui-même, sortant justement de son bureau, s'arrêta pour agiter largement les deux bras comme s'il dirigeait un avion sur un tarmac. Sofia resta agrippée à la vitre baissée jusqu'au dernier virage, son foulard bleu flottant dans le vent de la descente, et, juste avant que la route ne plonge définitivement dans les arbres, elle crut apercevoir, tout en haut, la silhouette familière du Pas du Berger, déjà baignée de la lumière calme du matin.
 
-À l'avant, Mamie Rose ajusta le rétroviseur pour un dernier coup d'œil au village qui rapetissait, tandis que Théo, une carte routière ouverte sur les genoux — dans le bon sens, cette fois, comme promis —, sifflotait un air que personne ne reconnut vraiment.
+À l'avant, Théo, une carte routière glissée dans la pochette de la portière — dans le bon sens, cette fois, comme promis, mais rangée plutôt que consultée en conduisant, Mamie Rose y ayant veillé personnellement —, sifflotait un air que personne ne reconnut vraiment, les deux mains bien sagement posées sur le volant.
 
 « Vous avez été formidables, tous les deux, dit Mamie Rose, sans se retourner, les yeux toujours sur la route. Vous savez ça ?
 

@@ -112,7 +112,7 @@ Un silence stupéfait s'installa dans la pièce.
 
 « Tu es en train de dire, dit Souly lentement, en assemblant les pièces à voix haute comme il le faisait toujours quand une théorie prenait forme sous ses yeux, que ce n'est pas "un loup" anonyme qui a paniqué en plein jour. C'est Écho elle-même.
 
-— Ça change tout, murmura Fabienne, en se penchant à son tour vers l'écran, le doigt tremblant légèrement en ouvrant un logiciel d'analyse plus précis, celui qui affichait le spectrogramme — une sorte de dessin en couleurs du son, expliqua-t-elle rapidement aux enfants, où l'on pouvait voir la forme exacte de chaque hurlement plutôt que de simplement l'entendre.
+— Ça change tout, murmura Fabienne, en se penchant à son tour vers l'écran, le doigt tremblant légèrement en ouvrant un logiciel d'analyse plus précis, celui qui affichait le spectrogramme — une sorte de dessin en couleurs du son, expliqua-t-elle rapidement aux enfants, où l'on pouvait voir la forme exacte de chaque hurlement plutôt que de simplement l'entendre. »
 
 Elle superposa les deux tracés à l'écran : celui du hurlement de contact de la veille, et celui de l'incident.
 
