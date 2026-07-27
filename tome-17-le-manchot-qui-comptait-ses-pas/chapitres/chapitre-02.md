@@ -261,7 +261,7 @@ argentée.
 
 — Exactement le même. Sur terre, un poids, un déséquilibre permanent.
 Dans l'eau, un des animaux les plus rapides de toute la colonie —
-jusqu'à trente-cinq kilomètres à l'heure en pointe, pour échapper à un
+jusqu'à douze kilomètres à l'heure en pointe, pour échapper à un
 prédateur.
 
 — C'est complètement injuste, dit Souly. Comment on peut être aussi

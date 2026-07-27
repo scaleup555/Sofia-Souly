@@ -1,5 +1,10 @@
 # Chapitre 4 — L'équipe de tournage
 
+Le lendemain matin, la pluie de la veille avait cédé la place à un
+ciel dégagé, rare assez pour que tout le village semble s'en étonner à
+voix haute sur le pas des portes. Romane les retrouva devant la maison
+rouge, tenant fermement sa promesse de la veille.
+
 Devant le bâtiment principal, un amoncellement de caisses noires,
 trépieds et câbles enroulés formait un petit campement improvisé, au
 milieu duquel une femme en anorak orange vérifiait le contenu d'une

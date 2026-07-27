@@ -462,5 +462,19 @@ Théo dans n'importe quel désaccord mineur.
 
 — C'est ce qui inquiète justement une partie de la base, dit Romane, à
 voix plus basse, comme si elle regrettait déjà d'avoir laissé échapper
-la phrase. Venez. Autant que vous entendiez ça par vous-mêmes plutôt
-que par les rumeurs du village.
+la phrase.
+
+Elle jeta un œil vers le campement, où l'équipe s'affairait encore à
+décharger du matériel dans la bruine.
+
+— Ils ont l'air en plein montage, pour l'instant — pas le moment idéal
+pour débarquer avec des questions. Allons plutôt les voir demain matin,
+à tête reposée, une fois qu'ils seront installés. Ce soir, il vaut
+mieux se sécher et dormir : la journée a été longue, et celle de demain
+le sera tout autant.
+
+Souly, qui mourait pourtant d'envie d'aller poser des questions sur-le-champ,
+dut reconnaître que la pluie qui redoublait donnait raison à Romane. Ils
+rentrèrent tous les trois d'un bon pas, et cette nuit-là, malgré le
+nœud d'enquête qui continuait de tourner dans sa tête, Souly s'endormit
+presque aussitôt, épuisé par sa nuit blanche de la veille.

@@ -418,8 +418,8 @@ se calmer pour vous faire plaisir.
 — Tu n'as pas peur, toi, de tout ça ? demanda Sofia, à moitié dans les
 couvertures. Le bout du monde, le vent, les manchots partout ?
 
-— J'ai vu pire qu'un peu de vent, dit Mamie Rose. Trente ans d'élèves
-de CP un lundi matin de pluie, ça forge un certain courage.
+— J'ai vu pire qu'un peu de vent, dit Mamie Rose. Douze ans d'élèves
+de CM2 un lundi matin de pluie, ça forge un certain courage.
 
 — C'est pas pareil.
 

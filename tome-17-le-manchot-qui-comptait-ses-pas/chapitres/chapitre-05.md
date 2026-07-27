@@ -195,7 +195,9 @@ mes vieux souvenirs de campagne.
 
 Il se leva de nouveau, un peu raide cette fois, et décrocha une
 pochette cartonnée épaisse de plusieurs centimètres, rangée à l'écart
-sur une étagère basse, comme un objet qu'on ne déplace pas souvent.
+sur une étagère basse qu'il n'avait manifestement pas rouverte depuis
+longtemps, à en juger par la fine couche de poussière qu'il souffla
+dessus avant de la poser sur la table.
 
 — C'est vous, sur toutes ces photos ? demanda Souly, en désignant le
 mur avant que Sylvestre ne revienne s'asseoir.

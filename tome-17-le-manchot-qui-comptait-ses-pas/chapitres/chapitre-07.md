@@ -63,10 +63,11 @@ précipitation risquait de tout faire s'écrouler.
 — Ils marchent vraiment n'importe comment, remarqua-t-elle.
 
 — Sur terre, oui, dit Romane. C'est leur seul point faible. Dans
-l'eau, ces mêmes manchots deviennent des athlètes olympiques — trente
-kilomètres à l'heure en pointe, parfois plus, et ils peuvent plonger à
-plus de trois cents mètres de profondeur pour chasser. Sur terre, ils
-ont du mal à éviter un caillou un peu trop gros.
+l'eau, ces mêmes manchots deviennent des athlètes olympiques — douze
+kilomètres à l'heure en pointe, une vitesse de croisière qu'ils
+tiennent des heures durant, et ils peuvent plonger à plus de trois
+cents mètres de profondeur pour chasser. Sur terre, ils ont du mal à
+éviter un caillou un peu trop gros.
 
 — C'est un peu injuste, dit Sofia. Être un champion dans un élément et
 une catastrophe ambulante dans l'autre.
