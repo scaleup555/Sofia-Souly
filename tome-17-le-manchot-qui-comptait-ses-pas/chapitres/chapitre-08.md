@@ -388,8 +388,8 @@ Sofia. Moi, je dis qu'il a une part de responsabilité.
 
 — Justement. C'est encore pire, s'il n'a même pas d'excuse.
 
-Théo, qui suivait la conversation avec un amusement grandissant,
-choisit ce moment pour intervenir.
+Théo, qui suivait la conversation en retenant de moins en moins bien
+son rire, choisit ce moment pour intervenir.
 
 — Je propose qu'on laisse le tribunal des mâts pour un autre soir,
 dit-il. Il se fait tard, et demain, si j'ai bien compris, vous partez
@@ -407,7 +407,10 @@ Le soir venu, une fois le tableau de Souly soigneusement rangé dans
 sa pochette et les carnets de Sylvestre remis à leur place sur
 l'étagère, Sofia s'endormit presque aussitôt, épuisée par une
 journée entière passée à courir entre le hangar, la salle commune et
-le sommet de la crête.
+le sommet de la crête. Elle garda malgré tout, serré dans son poing
+fermé jusque sous la couverture, le caillou du jour — celui-là,
+décida-t-elle juste avant de sombrer, aurait pour histoire d'avoir
+vu un technicien s'excuser sept fois en une seule journée.
 
 — Demain, on prépare la veillée. Et demain soir, on saura enfin,
 murmura Souly, plus pour lui-même que pour qui que ce soit, en

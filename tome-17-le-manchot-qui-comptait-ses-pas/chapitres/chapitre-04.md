@@ -26,9 +26,9 @@ Silencieux.
 
 Théo, qui les avait suivis d'un pas légèrement plus rapide que
 d'habitude depuis qu'il avait entendu le mot « tournage », se fraya un
-chemin entre deux caisses de matériel avec un empressement qu'il ne
-prit même pas la peine de dissimuler, manquant au passage de renverser
-un trépied qu'il rattrapa d'une main experte, presque sans y penser.
+chemin entre deux caisses de matériel sans prendre la peine de
+dissimuler sa hâte, manquant au passage de renverser un trépied qu'il
+rattrapa d'une main experte, presque sans y penser.
 
 — Et voici Théo, mon cousin, dit Romane, en soupirant d'avance. Il
 espère du café.
@@ -82,8 +82,8 @@ le put.
 sa réponse. On a eu de la chance avec le bateau, cette saison — pas de
 tempête à l'aller, pour une fois.
 
-Souly nota le chiffre avec une discrétion qu'il jugeait lui-même très
-réussie, ce qui ne l'empêcha pas d'attirer immédiatement l'attention de
+Souly nota le chiffre le plus discrètement du monde, du moins le
+crut-il, ce qui ne l'empêcha pas d'attirer immédiatement l'attention de
 Sofia.
 
 — Pourquoi tu écris ça comme si c'était un secret ? chuchota-t-elle,
@@ -316,18 +316,16 @@ sérieusement, ce qui déclencha un nouveau fou rire chez Sofia.
 petit-déjeuner, marmonna Gaëtan, les lèvres pourtant retroussées
 malgré lui.
 
-Il souleva son chariot dégoulinant avec un grognement d'effort et
-entreprit de le pousser vers l'atelier, non sans se retourner une
-dernière fois.
+Il tenta de soulever son chariot dégoulinant, renonça presque
+aussitôt devant le poids de la boue accumulée, et le laissa reposer
+sur le flanc, provisoirement vaincu.
 
 — Numéro Sept sera différent, promit-il, à personne en particulier.
 Vous verrez.
 
-— C'est ce que vous avez dit pour le Numéro Six, lui rappela Romane,
-avec affection.
+— C'est ce que vous avez dit pour le Numéro Six, lui rappela Romane.
 
-— Cette fois, c'est vrai, insista Gaëtan, en s'éloignant, laissant
-derrière lui une trace de boue en ligne quasiment droite.
+— Cette fois, c'est vrai, insista Gaëtan, sans grande conviction.
 
 Noémie, qui avait profité de l'interruption pour reprendre contenance,
 s'approcha de Souly avec un petit carnet à spirale, presque identique
@@ -392,8 +390,8 @@ carnet.
 
 Gaëtan, qui avait fini par renoncer à extraire son engin tout seul,
 les rejoignit avec un vieux chiffon et entreprit de nettoyer
-méthodiquement chaque roue, une à une, avec une patience qui
-contrastait totalement avec la panique de tout à l'heure.
+méthodiquement chaque roue, une à une, sans plus rien de la panique de
+tout à l'heure.
 
 — Vous savez ce qui est étrange, dit-il, sans lever les yeux de son
 travail. Chaque fois qu'un prototype échoue, j'apprends quelque chose
