@@ -154,6 +154,11 @@ amusé. Tu ferais un bon scientifique, toi, un jour.
 — Il en est déjà un, officieusement, glissa Sofia. Il a un carnet et
 tout.
 
+— Officieusement, ça compte double, dit Sylvestre, en hochant la tête
+vers Souly avec un respect qui n'avait rien de moqueur, cette fois.
+J'ai mis douze campagnes avant d'oser me dire vrai scientifique, moi.
+Toi, tu y es déjà, à ton âge.
+
 Sylvestre feuilleta une dernière fois l'un de ses vieux carnets, celui
 de sa toute première campagne, la couverture tellement usée qu'elle
 avait perdu toute couleur d'origine.
@@ -292,6 +297,13 @@ sérieux à faire.
 — Les élèves bougent moins, dit Mamie Rose, songeuse. Enfin. Ça
 dépend des élèves.
 
+— Tu vas compter juste, au moins ? demanda Sofia, un peu inquiète
+pour la réputation scientifique de sa grand-mère.
+
+— Douze ans de CM2 m'ont appris à compter même les élèves qui
+essayaient de se cacher derrière le radiateur, dit Mamie Rose. Un
+manchot qui ne bouge pas, c'est presque reposant, en comparaison.
+
 Devant le bâtiment principal, Sofia trouva Tanguy et Noémie penchés
 ensemble sur une carte du village, en pleine discussion animée, un
 crayon passant d'une main à l'autre.
@@ -375,6 +387,17 @@ bougeait. Le Sept, lui, sait s'arrêter. C'est toute la différence.
 Gaëtan, tout son sérieux revenu d'un coup. Pas brutalement. Il
 ralentit, d'abord. J'ai fini par comprendre qu'une machine qui veut
 suivre un animal doit d'abord apprendre à penser un peu comme lui.
+
+— Vous avez regardé longtemps ? demanda Souly.
+
+— Trois soirs entiers, allongé dans l'herbe mouillée avec un carnet
+et une lampe frontale, dit Gaëtan. Sylvestre m'a vu faire, une fois,
+et n'a posé aucune question. Il devine ces choses-là sans qu'on ait
+besoin de les lui expliquer.
+
+— C'est romantique, à sa façon, décréta Sofia.
+
+— C'est surtout froid, à sa façon, corrigea Gaëtan, en riant.
 
 — Ça, dit Sofia, c'est presque une phrase de scientifique.
 

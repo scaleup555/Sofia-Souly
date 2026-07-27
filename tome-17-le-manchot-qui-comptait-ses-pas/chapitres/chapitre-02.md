@@ -40,15 +40,16 @@ prononcer distinctement une phrase qui fit sourire les deux enfants :
 — Restez groupés, ne courez pas après les oiseaux, et amusez-vous. Je
 vous aime.
 
-— Reçu, dit Souly dans le micro, très sérieux, comme s'il parlait
-vraiment à un poste de commandement.
+— Reçu, dit Souly dans le micro, en redressant les épaules, comme
+s'il parlait vraiment à un poste de commandement.
 
 — On ne va pas courir après les oiseaux, promit Sofia, les doigts
 déjà croisés dans son dos.
 
 Romane les attendait dehors, une longue-vue en bandoulière, le
-capuchon rabattu à peine, comme si le vent qui décoiffait tout le
-monde autour d'elle avait depuis longtemps renoncé à l'atteindre.
+capuchon rabattu à peine — le vent qui décoiffait tout le monde
+autour d'elle semblait avoir renoncé à l'atteindre, elle, depuis
+longtemps déjà.
 
 — Direction le Cap Silencieux, annonça-t-elle. Trois quarts d'heure de
 marche. Et je vous préviens tout de suite : le nom du cap ne veut
@@ -123,6 +124,14 @@ semblaient monter du ventre même des oiseaux, des petits cris aigus de
 poussins invisibles quelque part dans la masse, et, entre les deux, un
 bourdonnement continu, presque mécanique, produit par des dizaines de
 milliers de becs qui claquaient sans discontinuer.
+
+Le sol changeait lui aussi, à mesure qu'ils approchaient : la roche
+grise uniforme du sentier cédait la place à une terre tachetée de
+blanc, de rose pâle et d'un roux presque orange, semée de plumes
+détachées et de vieux fragments de coquille polis par le vent. Sofia
+tendit machinalement la main vers une pierre marbrée de couleurs
+qu'elle n'avait encore jamais vues, avant de se souvenir, la mine
+déconfite, qu'elle n'avait le droit d'en ramasser aucune ici.
 
 Ils descendirent prudemment vers un chemin balisé qui longeait la
 colonie sans y pénétrer, où un garçon d'environ dix ans, accroupi près
@@ -366,6 +375,18 @@ désigna la colonie d'un geste ample, ses trois pulls ayant eu le temps
 de se tasser un peu depuis la veille. Ce paysage-là n'a rien à envier
 à un désert, remarque. Juste plus froid, et beaucoup plus bruyant.
 
+— C'était où, le plus froid ? demanda Souly, curieux.
+
+— Un site de fouille en haute montagne, une fois, où le café gelait
+dans la tasse avant même que j'aie fini de le préparer, dit Théo.
+J'ai mis six ans à me remettre complètement les orteils. Kerlan, à
+côté, c'est presque une plage.
+
+— C'est une blague ? demanda Sofia, pas totalement convaincue.
+
+— À moitié seulement, dit Théo. Ce qui, chez un archéologue, est déjà
+un taux de sincérité tout à fait honorable.
+
 Elouan, qui avait délaissé la moitié de son sandwich pour continuer de
 surveiller le boîtier GPS, leva soudain la tête.
 
@@ -378,8 +399,8 @@ annonça-t-il, sans qu'on lui ait rien demandé.
 mange, en fait — ça m'occupe les yeux pendant que ma bouche s'occupe
 du sandwich.
 
-— C'est une philosophie de vie très solide, décréta Sofia, très
-sérieuse.
+— C'est une philosophie de vie très solide, décréta Sofia, en hochant
+gravement la tête.
 
 — Je peux le voir, Nougat ? demanda-t-elle ensuite, déjà penchée
 par-dessus la corde qui délimitait le chemin.

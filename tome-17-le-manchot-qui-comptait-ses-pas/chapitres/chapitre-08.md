@@ -105,7 +105,12 @@ parfaitement immobiles, bloquées par le sel accumulé au fil des
 saisons. À l'intérieur régnait une odeur de graisse et de métal froid,
 et des rangées entières d'étagères portaient des pièces détachées
 soigneusement étiquetées — le domaine de Tanguy depuis, disait-on à la
-base, plus de six ans.
+base, plus de six ans. Sur un mur du fond, une carte de Port-Venteux
+entièrement recouverte de petites gommettes de couleur indiquait,
+supposa Souly, l'état de chaque instrument de la base — vertes pour
+ce qui fonctionnait, rouges pour ce qui attendait réparation, et une
+seule gommette dorée, isolée près du sommet, dont personne
+n'expliqua jamais le sens exact ce jour-là.
 
 Ils le trouvèrent près du hangar à instruments, en train de vérifier
 des batteries alignées sur un établi, une liste de contrôle à la main.
@@ -231,7 +236,7 @@ qui commençait enfin à percer. Depuis ce matin, je m'attendais à ce
 que tout le monde me crie dessus. Et vous êtes juste là, tous les
 quatre, à me regarder avec un tableau à craie.
 
-— Le tableau à craie, c'est pire, en fait, glissa Souly, très sérieux.
+— Le tableau à craie, c'est pire, en fait, glissa Souly, pince-sans-rire.
 Il ne pardonne jamais rien.
 
 Cette fois, tout le monde éclata de rire, y compris Tanguy, dont les
@@ -290,11 +295,21 @@ On se relaie, deux par deux, par tranches de deux heures. L'important,
 c'est qu'il y ait toujours des yeux ouverts sur le chemin, pas
 forcément les mêmes.
 
-— Je peux prendre le premier tour, proposa Elouan, très sérieux. Je
-ne m'endors jamais avant minuit, de toute façon.
+— Je peux prendre le premier tour, proposa Elouan, en se redressant
+de toute sa hauteur. Je ne m'endors jamais avant minuit, de toute
+façon.
 
 — On verra ça demain, avec les grands, dit Romane, en lui ébouriffant
 les cheveux pour adoucir le refus. Une chose à la fois.
+
+— Je compterai quand même les manchots qui passent, même sans tour
+officiel, prévint Elouan, pas franchement disposé à renoncer tout à
+fait. Il y a bien un moyen de compter depuis mon lit, par la fenêtre.
+
+— Ta fenêtre ne donne pas sur le chemin, lui rappela Romane, amusée.
+
+— Je sais. Mais je peux toujours compter autre chose, en attendant.
+Les secondes, par exemple.
 
 — Je peux venir ? demanda Tanguy, presque timidement. Je voudrais
 voir ça de mes propres yeux. Pas juste l'imaginer sur un graphique.
@@ -387,6 +402,12 @@ Sofia. Moi, je dis qu'il a une part de responsabilité.
 — On ne peut pas juger un mât, Sofia. Il n'a pas de cerveau.
 
 — Justement. C'est encore pire, s'il n'a même pas d'excuse.
+
+— On ne condamne pas un mât à la prison, tu sais, dit Souly,
+mi-amusé mi-lassé.
+
+— Dommage, dit Sofia. Ça lui aurait fait les pieds. Enfin — il n'a
+pas de pieds. Ça lui aurait fait les câbles, alors.
 
 Théo, qui suivait la conversation en retenant de moins en moins bien
 son rire, choisit ce moment pour intervenir.

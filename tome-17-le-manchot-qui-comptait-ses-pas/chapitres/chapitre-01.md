@@ -30,6 +30,16 @@ crayon suspendu.
 
 — Ça n'en fait que six, dit Mamie Rose. Mais l'idée est là.
 
+— Neuf lettres, répéta-t-elle, songeuse, en recomptant sur ses doigts
+celles du mot qu'elle croyait presque tenir. Onze, en fait, à me
+relire. J'ai dû mal recopier la grille en embarquant.
+
+— Ça t'arrive souvent, de mal recopier une grille ? demanda Sofia.
+
+— Une fois par traversée en mer agitée, à peu près, dit Mamie Rose.
+C'est ma façon à moi d'avoir le mal de mer — par les chiffres, plutôt
+que par l'estomac.
+
 Sofia, elle, avait passé le plus clair de la traversée collée au
 hublot, un caillou gris dans la poche — un galet ramassé sur le port
 de départ, parce qu'il avait une histoire, celui-là, il venait de très
@@ -243,10 +253,11 @@ poches de son gilet, l'air de plus en plus contrarié.
 avant de partir, pour le voyage.
 
 Il continua de tapoter chaque poche l'une après l'autre, sortant tour
-à tour un mouchoir, deux stylos cassés et un morceau de sucre
-d'origine mystérieuse, avant de finalement extraire, d'une poche
-intérieure qu'il avait pourtant fouillée deux fois déjà, un petit
-carnet à couverture cartonnée illustré d'un manchot royal.
+à tour un mouchoir, deux stylos cassés, un ticket de musée périmé
+depuis au moins six ans et un morceau de sucre d'origine mystérieuse,
+avant de finalement extraire, d'une poche intérieure qu'il avait
+pourtant fouillée deux fois déjà, un petit carnet à couverture
+cartonnée illustré d'un manchot royal.
 
 — Ah ! Il était là depuis le début.
 
@@ -277,6 +288,20 @@ brouette chargée de bonbonnes de gaz, courbée contre les rafales, sans
 un regard pour les nouveaux arrivants : ici, visiblement, on ne
 s'arrêtait pas de travailler pour observer un bateau qui accostait,
 aussi rare soit-il.
+
+Sofia s'arrêta devant une fenêtre embuée où quelqu'un avait dessiné,
+du bout du doigt, un manchot approximatif — deux ronds et un
+triangle en guise de bec — et décida aussitôt que c'était le plus bel
+accueil qu'elle ait jamais reçu de toute sa vie de voyageuse. Un peu
+plus loin, elle ramassa encore un caillou, plus petit que les deux
+premiers, presque noir, et le soupesa longuement avant de le glisser
+dans sa poche déjà pleine.
+
+— Celui-là, il a quelle histoire ? demanda Souly, résigné d'avance à
+la réponse.
+
+— Je ne sais pas encore, dit Sofia. Je la lui donnerai plus tard,
+quand il l'aura méritée.
 
 — Ça a l'air d'un endroit où il ne se passe jamais rien, remarqua
 Souly.
@@ -346,9 +371,9 @@ distinguer un seul oiseau en particulier.
 — C'est déjà elle, confirma Romane. Demain, vous serez juste à côté.
 
 Mamie Rose, elle, se contenta d'observer la scène un instant, avant de
-hausser légèrement les épaules, comme si des dizaines de milliers
-d'oiseaux braillant au bout du monde n'étaient, somme toute, pas plus
-étonnants qu'une averse un jour de lessive.
+hausser légèrement les épaules. Pour elle, visiblement, des dizaines
+de milliers d'oiseaux braillant au bout du monde n'étaient, somme
+toute, pas plus étonnants qu'une averse un jour de lessive.
 
 — Ça a l'air bruyant, se contenta-t-elle de dire.
 

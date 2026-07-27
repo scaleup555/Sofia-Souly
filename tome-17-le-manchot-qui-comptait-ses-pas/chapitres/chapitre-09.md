@@ -36,7 +36,7 @@ amplement d'en rejoindre les rangs.
 — Il ne fait rien de spécial, ce caillou, remarqua Souly, en
 l'observant par-dessus l'épaule de sa sœur.
 
-— Pas encore, dit Sofia, très sérieuse. Ça viendra.
+— Pas encore, dit Sofia, en refermant le poing dessus. Ça viendra.
 
 Dehors, le vent cognait contre les volets, régulier comme un
 métronome grandeur nature. Mamie Rose les
@@ -46,6 +46,13 @@ tous les deux, emmitouflés jusqu'aux oreilles.
 
 — Vous ressemblez à deux petits phoques, dit-elle, satisfaite de son
 inspection. Allez. Le mystère n'attend pas les retardataires.
+
+— Tu comptes les heures, en nous attendant ? demanda Sofia, sur le
+pas de la porte.
+
+— Je compte les grilles de mots croisés que j'aurai fini avant votre
+retour, dit Mamie Rose. C'est une meilleure unité de mesure, pour une
+grand-mère. Filez, maintenant.
 
 La veillée fut organisée dans un ordre presque militaire, sous la
 direction conjointe de Romane et de Sylvestre, qui avait insisté pour
@@ -68,6 +75,10 @@ familier depuis la première visite au Cap Silencieux, paraissait
 différent dans cette pénombre — les touffes d'herbe rase se
 confondaient avec les rochers, et seule la rumeur lointaine de la
 colonie, portée par le vent, indiquait encore la bonne direction.
+Chaque respiration ressortait en un petit nuage blanc, aussitôt
+déchiqueté par le vent, et Sofia s'amusa un moment à souffler le plus
+fort possible pour voir lequel des deux nuages, le sien ou celui de
+Souly, tiendrait le plus longtemps avant de disparaître.
 Elouan marchait en tête, comptant ses pas à mi-voix par pure habitude,
 sans même s'en rendre compte, jusqu'à ce que Gaëtan, juste derrière
 lui, pousse son chariot imaginaire — les deux mains tendues devant
@@ -105,6 +116,13 @@ honneur d'inventeur. Bandé, mais sagement.
 — Bandé ? répéta Sofia.
 
 — Une roue tordue, depuis hier. Rien de grave. Il se repose.
+
+— Il se repose où ? demanda Sofia, imaginant sans peine un petit lit
+pour chariot.
+
+— Sur l'établi, avec une couverture dessus, avoua Gaëtan, un peu
+penaud. On se moque, mais ça marche : il n'a jamais aussi bien roulé
+que depuis que je lui parle un peu, le soir.
 
 — Vous parlez de cette machine comme d'un patient, remarqua Tanguy,
 amusé malgré la tension qu'on lisait encore sur son visage.

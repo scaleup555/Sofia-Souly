@@ -43,8 +43,8 @@ J'ai vérifié trois fois.
 — Sept heures, répéta Sofia. C'est long.
 
 — C'est rien, comparé à dix-huit ans d'attente pour comprendre
-pourquoi le chemin s'allongeait, remarqua Elouan, très sérieux, avant
-de filer déjà vers son secteur assigné.
+pourquoi le chemin s'allongeait, remarqua Elouan, avant de filer déjà
+vers son secteur assigné.
 
 — Aujourd'hui, on compte chaque manchot de la colonie, un par un,
 expliqua Romane à Sofia et Souly, en distribuant des petits compteurs
@@ -105,7 +105,15 @@ volontaire posté à un point précis de la colonie, cliquant à chaque
 manchot repéré. Toute la crête s'était couverte de silhouettes
 espacées à intervalles réguliers, chacune penchée sur son secteur, si
 concentrée que le vacarme habituel de la colonie semblait, par
-contraste, presque discret. Mamie Rose, postée fièrement dans son
+contraste, presque discret. Ici et là, quelqu'un avait improvisé un
+pare-vent avec une bâche tendue entre deux piquets ; un autre
+comptait à l'abri d'un parapluie retourné par une rafale trois
+minutes plus tôt et jamais réparé depuis, la moitié de sa toile
+pendouillant tristement. Personne, apparemment, n'avait le temps de
+s'en soucier davantage : les clics des compteurs manuels formaient,
+ensemble, un cliquetis continu qui rappelait, en plus sec, le
+bourdonnement des becs de la colonie elle-même. Mamie Rose, postée
+fièrement dans son
 secteur douze, comptait à voix basse, régulière comme un métronome,
 s'interrompant seulement pour noter un chiffre rond dans un petit
 carnet qu'elle avait apporté « pour vérifier deux fois, on n'est
@@ -284,8 +292,9 @@ comptage. On ne compte pas juste des chiffres. On compte des vies qui
 continuent.
 
 Le comptage se termina en fin d'après-midi, sous un ciel
-exceptionnellement dégagé, comme si Kerlan elle-même avait décidé
-d'offrir une belle journée à la fête. Tout le village se rassembla de
+exceptionnellement dégagé — la plus belle rareté météo que Kerlan
+ait offerte à la fête depuis le début de leur séjour. Tout le village
+se rassembla de
 nouveau sur la place, fatigué mais électrique, pendant que Romane
 centralisait les chiffres de chaque secteur sur un grand tableau
 installé pour l'occasion, Elouan à ses côtés, chargé de vérifier
@@ -347,6 +356,13 @@ souvint Souly.
 
 — Bouclé, dit Elouan, tranquillement satisfait, d'un ton qui en disait
 plus long que n'importe quel discours.
+
+— Neuf cent trente-quatre, répéta Sofia, comme pour se convaincre
+elle-même que ce chiffre avait vraiment existé, du premier jour
+jusqu'à maintenant. Ça semble tellement loin, déjà.
+
+— Neuf jours, corrigea Souly, qui n'avait pas pu s'empêcher de
+vérifier. Pas si loin que ça, en vrai.
 
 Le soir tomba lentement sur Port-Venteux, dans cette lumière grise et
 persistante qui refusait toujours de choisir entre le jour et la

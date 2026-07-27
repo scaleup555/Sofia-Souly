@@ -39,6 +39,13 @@ spectaculaire à regarder.
 toujours ce qui est solide à ce qui est spectaculaire. Moi, c'est
 l'inverse.
 
+— Un jour, tu préféreras un fait solide à une bonne histoire, et ce
+jour-là, je ne te reconnaîtrai plus, ajouta-t-elle, presque
+menaçante.
+
+— Ce jour-là, je saurai enfin où sont passées mes chaussettes,
+répliqua Souly. Ça vaudrait presque le sacrifice.
+
 Mamie Rose, qui avait fini par relever le nez de ses mots croisés,
 tapota la boîte en fer marquée « THÉ » posée devant elle, toujours
 vide de thé comme toujours.
@@ -49,6 +56,10 @@ personne ce soir.
 
 — C'est pour la science, plaida Sofia, en piochant malgré tout un
 biscuit de plus.
+
+— La science a toujours bon dos, remarqua Mamie Rose, pas dupe une
+seconde, en refermant malgré tout la boîte un peu moins vite que
+d'habitude.
 
 Dehors, le vent du nord avait cédé la place, dans la nuit, à quelque
 chose de plus doux — pas vraiment du beau temps, jamais tout à fait
@@ -67,7 +78,13 @@ différemment selon la direction.
 
 Ils traversèrent le village d'un bon pas, saluant au passage deux
 techniciens en combinaison qui réparaient une antenne couchée par la
-dernière tempête, jusqu'au bâtiment principal, dont la porte battait
+dernière tempête. Devant la cuisine collective, quelqu'un avait
+accroché une pancarte de fortune annonçant « poisson, encore » avec
+un dessin de poisson visiblement peu enthousiaste à l'idée d'être
+mangé une fois de plus, et une odeur de friture flottait jusque sur
+le chemin, mêlée à celle, plus tenace, de la colonie toute proche.
+
+Ils continuèrent jusqu'au bâtiment principal, dont la porte battait
 doucement contre son cadre, jamais tout à fait fermée. À l'intérieur,
 ils retrouvèrent Romane, qui avait déjà étalé, sur toute la table de
 la salle commune, les données GPS de Nougat imprimées sur de longues

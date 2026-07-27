@@ -19,6 +19,20 @@ en pliant méthodiquement une dernière couverture.
 — Les preuves pèsent parfois plus lourd que l'île elle-même, dit
 Mamie Rose, l'air entendu qui n'avait pas besoin d'explication.
 
+Elouan, venu prêter main-forte au chargement des sacs sans qu'on le
+lui demande, ouvrit d'autorité la boîte en fer et compta son contenu
+avant que Mamie Rose n'ait eu le temps de protester.
+
+— Sept sablés, annonça-t-il. Il en restait douze hier soir. Vous en
+avez mangé cinq, ou vous en avez donné cinq.
+
+— Un peu des deux, avoua Mamie Rose, sans la moindre gêne, en
+refermant la boîte. On ne dit jamais non à un dernier sablé, au bout
+du monde.
+
+— Je note quand même le chiffre, dit Elouan, en griffonnant sur son
+carnet neuf, sans lever les yeux. Pour la postérité.
+
 Théo, pour sa part, avait déjà égaré deux fois son écharpe entre la
 chambre et l'entrée, la retrouvant la seconde fois nouée autour d'une
 des mille poches de son gilet, sans le moindre souvenir de l'y avoir
@@ -35,8 +49,8 @@ juste provisoirement ailleurs.
 
 — C'est exactement ce que dit Souly de ses chaussettes, glissa Sofia.
 
-— Souly a raison, alors, dit Théo, très sérieux, en croquant dans le
-sablé retrouvé sans la moindre gêne.
+— Souly a raison, alors, dit Théo, la mine faussement solennelle, en
+croquant dans le sablé retrouvé sans la moindre gêne.
 
 Avant de rejoindre le quai, Romane insista pour qu'ils fassent un
 dernier détour par les hauteurs du Cap Silencieux — « cinq minutes,
@@ -125,8 +139,8 @@ sur les grandes personnes qui s'impatientent.
 
 — Prends les deux, suggéra Sofia. On ne sait jamais.
 
-— C'est en effet une sage politique de mesure, approuva Elouan,
-très sérieusement, ce qui fit rire tout le monde autour d'eux.
+— C'est en effet une sage politique de mesure, approuva Elouan, fier
+de sa formule, ce qui fit rire tout le monde autour d'eux.
 
 — Et pour nous, tu comptes en quoi, maintenant ? demanda Sofia. En
 pas, en soupirs, ou en clignements d'œil ?
@@ -212,7 +226,7 @@ moindre marge de négociation.
 peu près digne. Elle m'apprend à cadrer, je lui montre les meilleurs
 horizons dégagés du vent. Chacun son domaine.
 
-— Vous ferez un bon duo, dit Souly, très sérieux.
+— Vous ferez un bon duo, dit Souly.
 
 — C'est déjà ce qu'on dit de nous, au village, confirma Noémie, en
 lançant un regard amusé vers Romane, qui pouffa discrètement dans son
@@ -273,7 +287,7 @@ côté, plutôt. Elle est un peu grosse pour tenir entre deux pages.
 — Vous devriez ouvrir une école, un jour, dit Sofia. « L'école de
 Gaëtan : comment rater sept fois avant de réussir. »
 
-— Mauvais nom, dit Gaëtan, en secouant la tête, très sérieux. Ce
+— Mauvais nom, dit Gaëtan, en secouant la tête. Ce
 serait plutôt : « comment sept échecs font une réussite. » Ça sonne
 tout de suite plus encourageant pour les élèves.
 
@@ -350,6 +364,14 @@ jamais.
 
 — On dirait bien que ça marche, dit Sylvestre, tout le visage
 creusé de rides joyeuses.
+
+Il tapota deux fois la pochette de carnets, désormais dans les mains
+de Souly, comme on salue un vieil ami qu'on s'apprête à confier à
+quelqu'un de confiance.
+
+— Prends-en soin, dit-il. Pas parce qu'elle est fragile. Parce
+qu'elle a mis dix-huit ans à devenir utile, et que ce genre de
+chose-là mérite un peu de respect.
 
 Sur la passerelle, Souly se retourna une dernière fois vers Elouan,
 resté en retrait, les mains dans les poches de son manteau trop grand

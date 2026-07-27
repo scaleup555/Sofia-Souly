@@ -54,7 +54,11 @@ même personne. Des dizaines de photographies jaunies couvraient les
 murs, punaisées sans ordre apparent : des manchots par centaines, des
 tempêtes de neige presque horizontale, des visages d'hommes et de
 femmes emmitouflés, souriant devant des bâtiments qui n'existaient
-peut-être même plus.
+peut-être même plus. Sur une étagère basse, entre un réveil qui
+n'indiquait plus la bonne heure depuis des années et une pile de
+piles usagées gardées « au cas où », un vieux compas de marine
+rouillé servait manifestement plus de presse-papiers que
+d'instrument de navigation.
 
 — Cinq jours avant le Grand Comptage, et vous voilà déjà chez moi,
 observa Sylvestre en les voyant entrer, sans marquer la moindre
@@ -272,9 +276,9 @@ vous trouvez vraiment quelque chose là-dedans. Dix-huit ans de notes
 qui dorment dans un tiroir, ça ne sert à rien tant que personne ne
 les relit avec les bonnes questions en tête.
 
-— On a déjà les bonnes questions, dit Elouan, très sérieux, en
-comptant sur ses doigts. Pourquoi Nougat marche plus. Pourquoi le
-chemin grignote. Et pourquoi personne n'a rien vu avant nous.
+— On a déjà les bonnes questions, dit Elouan, en comptant sur ses
+doigts. Pourquoi Nougat marche plus. Pourquoi le chemin grignote. Et
+pourquoi personne n'a rien vu avant nous.
 
 — Trois bonnes questions, confirma Sylvestre, presque amusé. Ça
 promet.
@@ -356,6 +360,19 @@ Ils repartirent un peu plus tard, la pochette calée sous le bras de
 Souly comme un objet précieux, tandis que le vent du nord continuait
 de souffler sur le village, chargé d'une odeur de pierre froide que
 Sofia, seule, semblait vraiment sentir.
+
+— J'ai trouvé l'histoire de mon caillou, annonça-t-elle, en le
+sortant de sa poche pour l'examiner une dernière fois à la lumière
+plate du soir. C'est un morceau du vieux poteau de Sylvestre. Celui
+qui a fait dévier tout un chemin pendant une saison entière, avant
+qu'on le déplace.
+
+— Ça m'étonnerait beaucoup, dit Souly. Ce poteau était en bois, pas
+en pierre.
+
+— Les histoires n'ont pas besoin d'être vraies pour être vraies, dit
+Sofia, très digne, en le rangeant précieusement. Elles ont juste
+besoin d'être racontées comme il faut.
 
 — Cinq jours, murmura Souly, en refermant la porte de la cabane
 derrière eux. Cinq jours avant le Grand Comptage, et on a maintenant

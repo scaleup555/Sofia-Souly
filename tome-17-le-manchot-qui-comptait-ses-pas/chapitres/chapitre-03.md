@@ -28,6 +28,22 @@ réponse, mais qui en disait long quand même.
 l'était en réalité, puisqu'elle n'avait, pour tout dire, absolument
 aucune idée si ça allait s'arranger.
 
+— Tu veux un caillou ? proposa-t-elle ensuite, dans le noir, en
+tâtonnant déjà vers sa poche. J'en ai un qui n'a pas encore
+d'histoire. Tu pourrais lui en inventer une, toi, pendant que tu
+comptes.
+
+— Ça ne marche pas comme ça, les cailloux, dit Souly, mais il tendit
+quand même la main.
+
+— Ça marche comme on veut, avec les cailloux. C'est moi qui ai
+inventé les règles.
+
+Il referma les doigts sur la pierre froide, sans vraiment savoir
+pourquoi ça l'aidait un peu à respirer plus lentement, et recommença
+à compter depuis le début, jusqu'à ce que le sommeil finisse par
+gagner la partie.
+
 Au matin, ils se précipitèrent vers le bâtiment de recherche avant
 même que Mamie Rose n'ait fini son café — laquelle leur cria, depuis
 la cuisine, une recommandation de manteau qui se perdit complètement
@@ -172,8 +188,8 @@ clavier.
 
 — Tiens. Pour Nougat. Ça porte chance, un caillou qui a une histoire.
 
-— Un manchot ne sait pas ce qu'est la chance, dit Elouan, très
-sérieux.
+— Un manchot ne sait pas ce qu'est la chance, dit Elouan, en fronçant
+le nez, peu convaincu.
 
 — Alors ça lui fera une surprise.
 
@@ -233,7 +249,7 @@ plaignit Sofia. « Pas maintenant, plus tard, on verra. »
 quand elle est franchement agaçante à entendre.
 
 Elouan, qui avait suivi toute la conversation sans dire un mot depuis
-un moment, choisit ce moment pour intervenir, très sérieusement.
+un moment, choisit ce moment pour intervenir.
 
 — Neuf cent trente-quatre pas de plus qu'avant, précisa-t-il, en
 pointant un chiffre sur l'écran que personne d'autre n'avait encore
@@ -280,6 +296,18 @@ perd le fil.
 
 — Tu perdrais le fil, dit Elouan, sans méchanceté. Il faut des années
 d'entraînement.
+
+— Combien d'années, exactement ? demanda Souly, qui aimait mettre un
+chiffre sur tout, lui aussi, à sa manière.
+
+— Quatre, dit Elouan, sans hésiter. Cinq, si on compte l'année où
+j'ai dû tout réapprendre parce que j'écrivais mes chiffres à
+l'envers.
+
+— Ça vaut le coup, au moins ?
+
+— Ça vaut largement le coup, dit Elouan. Depuis, je ne perds plus
+jamais le fil de rien. Enfin — presque plus jamais.
 
 La porte du bâtiment claqua contre le mur, portée par une bourrasque,
 et Mamie Rose entra sans frapper, un thermos fumant dans chaque main

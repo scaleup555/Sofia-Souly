@@ -40,6 +40,20 @@ peu comme votre frère avec son carnet, en fait.
 — Ne lui dites pas ça, elle va lui donner des idées, prévint Souly,
 qui souriait pourtant, lui aussi, en suivant la conversation.
 
+Sofia se pencha pour ramasser un éclat de basalte tombé au pied d'un
+bloc, le tourna entre ses doigts, hésita, puis le reposa avec un
+soupir théâtral.
+
+— Celui-là, il a sûrement une histoire immense, dit-elle. Mais je ne
+peux même pas le garder, on est encore dans la zone protégée.
+
+— Presque, dit Romane. Encore deux cents mètres, et on est en dehors.
+Tiens bon.
+
+— Je note l'endroit exact, annonça Sofia, en donnant un petit coup de
+talon au sol pour marquer sa mémoire. Je reviendrai le chercher,
+celui-là précisément, avant de repartir.
+
 Un peu plus haut, le sentier se resserra entre deux parois de roche,
 et Sofia, pressée d'arriver la première, manqua de trébucher sur une
 pierre mal calée. Romane la rattrapa d'un geste sans même sembler y
@@ -259,6 +273,16 @@ angle mort — il a pensé à tout ce qui concerne le vent et les
 instruments, et strictement rien à ce qui concerne les manchots,
 parce que ce n'est simplement pas son domaine.
 
+— Il a un carnet, lui aussi ? demanda Souly, qui commençait à
+soupçonner que tout le monde, sur cette île, finissait tôt ou tard
+par en tenir un.
+
+— Un carnet, un tableau, et trois applications différentes pour
+vérifier la météo en même temps, dit Romane, avec un petit rire.
+Kerlan rend tout le monde méticuleux, à force. Ou alors, c'est Kerlan
+qui attire les gens déjà méticuleux. Je n'ai jamais tranché la
+question.
+
 — Il l'a fait exprès ? demanda Sofia, inquiète.
 
 — Sûrement pas, dit Romane, catégorique. Tanguy est quelqu'un de très
@@ -362,7 +386,7 @@ Demain matin, à tête reposée, avec tout ce qu'on a rassemblé
 aujourd'hui.
 
 — Ça vous laisse la nuit pour trouver les bons mots, remarqua Sofia,
-très sérieuse tout à coup.
+soudain toute calme.
 
 — Ça me laisse surtout la nuit pour ne pas dormir en y pensant, dit
 Romane, en grimaçant malgré son sourire.

@@ -79,6 +79,18 @@ nouveau pour moi. Et déjà mon sujet préféré, je crois.
 Noémie, radieuse. C'est rare, un animal qui arrive à être les deux à
 la fois, sans que ça se contredise.
 
+— Le pire tournage, c'était lequel ? demanda Souly, toujours curieux
+des pires scénarios.
+
+— Trois semaines à attendre qu'un phoque léopard daigne apparaître
+devant l'objectif, dit Noémie, une grimace nostalgique aux lèvres. Il
+est arrivé le jour où j'avais rangé la caméra pour de bon. Depuis, je
+ne range jamais rien avant d'être vraiment, vraiment sûre que la
+scène est finie.
+
+— C'est un peu comme nous, avec Nougat, remarqua Sofia. On ne sait
+jamais quand il va se montrer.
+
 — Depuis combien de temps vous êtes là, vous, exactement ? demanda
 Souly, très professionnel, changeant de sujet aussi discrètement qu'il
 le put.
@@ -122,7 +134,7 @@ d'eux, aussi long que son avant-bras.
 plus cher qu'un an de mes courses.
 
 — Il sert à quoi, celui-là précisément ? demanda Sofia, reposant
-l'objectif avec des précautions soudain très sérieuses.
+l'objectif avec un luxe de précautions soudain.
 
 — À filmer de très loin sans déranger personne. Avec ça, je peux
 capturer un poussin qui sort la tête de sous l'aile de son parent
@@ -272,6 +284,22 @@ manchot qui dandine et un chariot qui cahote sur un caillou. Ce qui
 explique une bonne partie de mes ennuis avec les cinq précédents
 modèles.
 
+— Le Numéro Deux et le Numéro Quatre, ils ont fait quoi ? demanda
+Sofia, qui voulait la collection complète des catastrophes.
+
+— Le Numéro Deux a compté les vagues, toute une après-midi, avant que
+je comprenne mon erreur, dit Gaëtan, songeur. Le Numéro Quatre, lui,
+s'est vexé — enfin, il s'est arrêté net, et j'ai préféré croire qu'il
+s'était vexé plutôt que juste cassé. C'est plus supportable, comme
+explication.
+
+— Vous parlez de vos machines comme si elles avaient des sentiments,
+remarqua Souly.
+
+— Après trente-deux ans de machines à laver, on finit par leur prêter
+un peu de caractère, dit Gaëtan. Ça ne coûte rien, et ça aide à ne
+pas trop s'énerver contre elles.
+
 — Et le Numéro Six ? demanda Sofia.
 
 — Le Numéro Six roule très bien. Le problème, c'est qu'il n'écoute
@@ -314,8 +342,8 @@ arrivé, sans même reprendre son souffle.
 
 — Je ne sais pas, dit Gaëtan. Je courais après lui, pas à côté.
 
-— Il faudrait un compte-pas pour le compte-pas, dit Elouan, très
-sérieusement, ce qui déclencha un nouveau fou rire chez Sofia.
+— Il faudrait un compte-pas pour le compte-pas, dit Elouan, sans
+ciller, ce qui déclencha un nouveau fou rire chez Sofia.
 
 — Voilà bien le commentaire dont je me serais passé avant le
 petit-déjeuner, marmonna Gaëtan, les lèvres pourtant retroussées
@@ -449,8 +477,8 @@ casserole :
 
 — Alors, cette équipe de tournage, coupable ou pas coupable ?
 
-— Trop tôt pour le dire, répondit Souly, très sérieux, en sortant son
-carnet une dernière fois avant le dîner.
+— Trop tôt pour le dire, répondit Souly, la mine grave, en sortant
+son carnet une dernière fois avant le dîner.
 
 — Elle a de très bons objectifs de caméra, ajouta Sofia, comme si
 c'était un argument juridique recevable.
