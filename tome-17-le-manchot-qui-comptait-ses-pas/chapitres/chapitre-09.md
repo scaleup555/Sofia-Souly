@@ -20,8 +20,8 @@ merci. Je préfère mes mots croisés et mon lit. Mais je vous
 attendrai debout, avec du café chaud pour demain matin.
 
 — Tu n'as pas peur qu'on s'ennuie ? demanda Souly, qui enfilait déjà
-sa troisième couche de pull avec la lenteur méthodique de quelqu'un
-qui redoutait secrètement l'obscurité, même partielle.
+sa troisième couche de pull, méthodique et lent, comme quelqu'un qui
+redoutait secrètement l'obscurité, même partielle.
 
 — Peur, non, dit Mamie Rose, sans lever le nez de ses mots croisés.
 Curieuse, oui. Vous me raconterez tout, demain, mot pour mot.
@@ -199,8 +199,8 @@ meilleure que ce qu'elle est vraiment.
 — J'aurais préféré ne jamais avoir besoin de le savoir, murmura
 Tanguy.
 
-— Personne ne préfère jamais ça, dit Romane, avec douceur. Mais c'est
-toujours mieux que de continuer sans savoir.
+— Personne ne préfère jamais ça, dit Romane, la voix radoucie. Mais
+c'est toujours mieux que de continuer sans savoir.
 
 Les minutes s'étirèrent, longues et froides, jusqu'à ce qu'Elouan,
 allongé à plat ventre au bord du rocher, chuchote :

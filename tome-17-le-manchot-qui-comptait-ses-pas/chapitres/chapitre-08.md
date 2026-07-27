@@ -95,7 +95,7 @@ comme un enquêteur soucieux des convenances. C'est une conversation.
 bandes de données GPS. Ça ressemble beaucoup à un procès, si tu veux
 mon avis.
 
-— Elle n'a pas complètement tort, admit Romane, avec un demi-sourire.
+— Elle n'a pas complètement tort, admit Romane, d'un ton amusé.
 Allons-y doucement, dans ce cas. Personne ne va accuser personne.
 
 Le hangar à instruments se trouvait tout au bout du village, un long

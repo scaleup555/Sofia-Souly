@@ -17,7 +17,7 @@ en pliant méthodiquement une dernière couverture.
 — Je n'emporte pas l'île, protesta Souly. Juste les preuves.
 
 — Les preuves pèsent parfois plus lourd que l'île elle-même, dit
-Mamie Rose, avec un sourire qui n'avait pas besoin d'explication.
+Mamie Rose, l'air entendu qui n'avait pas besoin d'explication.
 
 Théo, pour sa part, avait déjà égaré deux fois son écharpe entre la
 chambre et l'entrée, la retrouvant la seconde fois nouée autour d'une
@@ -30,7 +30,7 @@ Sofia, en l'aidant à récupérer, au fond d'une poche qui n'était
 manifestement pas la bonne, un des sablés de Mamie Rose disparu la
 veille.
 
-— Un objet égaré n'est jamais perdu, dit Théo, avec dignité. Il est
+— Un objet égaré n'est jamais perdu, dit Théo, très digne. Il est
 juste provisoirement ailleurs.
 
 — C'est exactement ce que dit Souly de ses chaussettes, glissa Sofia.
@@ -61,7 +61,7 @@ avec ou sans vous — c'est même tout l'intérêt d'un chemin.
 continue de se remplir, même quand on n'écrit pas dedans tous les
 jours.
 
-— Exactement comme ça, confirma Romane, avec un sourire.
+— Exactement comme ça, confirma Romane, le regard brillant.
 
 Sofia observa une dernière fois un couple de manchots, l'un contre
 l'autre, l'œuf invisible sous leur poche de peau chaude, et se dit
@@ -167,14 +167,15 @@ j'ai enfin de la compagnie pour compter.
 
 — Ça vous manquera, la solitude ? demanda Sofia, curieuse.
 
-— Pas une seconde, dit Sylvestre, avec un petit rire silencieux. On
-croit qu'on aime être seul, jusqu'au jour où on ne l'est plus, et
-qu'on se demande comment on a bien pu tenir aussi longtemps autrement.
+— Pas une seconde, dit Sylvestre, laissant échapper un petit rire
+silencieux. On croit qu'on aime être seul, jusqu'au jour où on ne
+l'est plus, et qu'on se demande comment on a bien pu tenir aussi
+longtemps autrement.
 
 — Vous allez faire une dix-neuvième campagne, alors ? demanda Souly.
 
-— Une vingtième, corrigea Sylvestre, en se redressant avec une
-fierté toute neuve. Autant viser un chiffre rond, tant qu'à faire. Et
+— Une vingtième, corrigea Sylvestre, en se redressant, une fierté
+toute neuve dans la voix. Autant viser un chiffre rond, tant qu'à faire. Et
 puis, il faut bien quelqu'un pour surveiller si le Numéro Huit de
 Gaëtan tient ses promesses, le jour où il finira par exister.
 
@@ -189,9 +190,9 @@ meilleurs angles pour filmer le nouvel emplacement du mât — une
 amitié improbable née directement de l'enquête, songea Sofia, pas peu
 fière d'y avoir contribué.
 
-— Merci encore, dit Tanguy, en serrant la main de Souly avec un
-sérieux presque solennel. Grâce à vous, je vérifie maintenant deux
-fois plutôt qu'une avant de planter le moindre piquet sur cette île.
+— Merci encore, dit Tanguy, en serrant la main de Souly d'une poigne
+presque solennelle. Grâce à vous, je vérifie maintenant deux fois
+plutôt qu'une avant de planter le moindre piquet sur cette île.
 
 — C'est une bonne habitude à garder, dit Souly, très professionnel.
 
@@ -207,8 +208,8 @@ fois, et c'était sur de l'herbe.
 moindre marge de négociation.
 
 — On repart bientôt tourner ensemble sur le chemin, expliqua Tanguy
-à Sofia et Souly, ignorant la correction avec une dignité toute
-relative. Elle m'apprend à cadrer, je lui montre les meilleurs
+à Sofia et Souly, ignorant la correction d'un air digne — enfin, à
+peu près digne. Elle m'apprend à cadrer, je lui montre les meilleurs
 horizons dégagés du vent. Chacun son domaine.
 
 — Vous ferez un bon duo, dit Souly, très sérieux.
@@ -236,11 +237,11 @@ leurs pieds, sans le moindre écart.
 — Vous devriez lui trouver un petit nom, à celui-là, suggéra Sofia. Il
 le mérite, après sept essais.
 
-Gaëtan considéra la question avec un sérieux inattendu.
+Gaëtan considéra la question, soudain sérieux.
 
 — « Le Fidèle », décida-t-il enfin. Ça lui va bien, non ?
 
-— Ça lui va parfaitement, confirma Sofia, avec la satisfaction d'une
+— Ça lui va parfaitement, confirma Sofia, aussi satisfaite qu'une
 marraine officielle.
 
 — Et le Numéro Six ? demanda Souly. Il va bien, malgré sa roue tordue ?
@@ -254,7 +255,7 @@ de musée personnel de tout ce qu'il ne faut jamais refaire deux fois.
 — Ils l'ont bien mérité, dit Gaëtan. Sans eux, pas de Numéro Sept.
 
 Il sortit alors de sa poche un petit objet enveloppé dans un chiffon,
-qu'il tendit à Souly avec une solennité inattendue.
+qu'il tendit à Souly, soudain aussi solennel qu'un notaire.
 
 — Une roue du Numéro Six, expliqua-t-il. La fameuse, celle qui s'est
 tordue le soir de la veillée. Je me suis dit qu'un enquêteur méritait
@@ -284,13 +285,13 @@ pousser son Compte-Pas Numéro Sept vers un nouveau groupe
 d'admirateurs venus lui serrer la main.
 
 Mamie Rose, qui avait discrètement distribué le reste de ses sablés au
-beurre à quiconque passait à sa portée — y compris, remarqua Sofia
-avec amusement, à un Sylvestre visiblement ravi de l'aubaine —, referma
-sa boîte en fer vide et la rangea dans son sac avec la satisfaction
-d'une mission accomplie.
+beurre à quiconque passait à sa portée — y compris, remarqua Sofia,
+amusée, à un Sylvestre visiblement ravi de l'aubaine —, referma
+sa boîte en fer vide et la rangea dans son sac, satisfaite d'une
+mission accomplie.
 
 — Elle repartira pleine, la prochaine fois, promit-elle à Romane, qui
-l'observait faire avec attendrissement.
+l'observait faire, attendrie.
 
 — Pleine de quoi ? demanda Romane, amusée. Toujours pas de thé,
 j'imagine.
@@ -318,8 +319,8 @@ l'admiration sincère.
 pourras ressortir n'importe quand.
 
 — C'est le plus beau cadeau qu'on m'ait jamais fait, dit Souly,
-sincèrement ému, en serrant la main du garçon avec une gravité qui
-dépassait largement son âge.
+sincèrement ému, en serrant la main du garçon d'une poigne bien plus
+grave que son âge ne le laissait deviner.
 
 — C'est juste des pas, dit Elouan, en rougissant.
 
@@ -327,8 +328,8 @@ dépassait largement son âge.
 
 L'appel du capitaine, annonçant l'embarquement, dispersa le groupe en
 une dernière vague d'embrassades pressées. Mamie Rose serra Sylvestre
-dans ses bras avec une familiarité qui semblait dater de bien plus
-qu'une semaine, Théo manqua deux fois de faire tomber son sac en
+dans ses bras comme s'ils se connaissaient depuis bien plus qu'une
+semaine, Théo manqua deux fois de faire tomber son sac en
 voulant serrer la main de tout le monde à la fois, et Sofia, debout
 sur la pointe des pieds, réussit à peine à atteindre le cou de Romane
 pour un dernier câlin.
@@ -368,11 +369,11 @@ dernières marches de la passerelle.
 Alors que la passerelle du bateau s'apprêtait à se relever, un dernier
 manchot solitaire — pas Nougat, celui-là avait un plumage plus pâle —
 traversa le quai en dandinant, indifférent à toute l'agitation des
-adieux, avant de plonger dans l'eau grise avec une aisance qui
-contrastait totalement avec sa démarche maladroite sur terre.
+adieux, avant de plonger dans l'eau grise, aussi à l'aise soudain
+qu'il était maladroit sur terre.
 
-— Regarde, ce PINGOUIN, dit Souly, un sourire en coin, en désignant
-l'oiseau.
+— Regarde, ce PINGOUIN, dit Souly, en désignant l'oiseau d'un air
+faussement innocent.
 
 Sofia se figea, prête à corriger, avant de croiser le regard amusé de
 son frère et de comprendre la blague un quart de seconde trop tard.

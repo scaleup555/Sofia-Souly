@@ -289,9 +289,9 @@ réchauffer entre deux sorties.
 — Ça sent quoi, cette odeur ? demanda Sofia, le nez plissé. On dirait
 du poisson mélangé à des œufs pourris.
 
-— C'est la colonie, dit Romane, un sourire en coin. Attends de la voir
-de près. Cette odeur-là, tu ne l'oublieras jamais — dans le bon sens,
-promis.
+— C'est la colonie, dit Romane, pas franchement rassurante. Attends de
+la voir de près. Cette odeur-là, tu ne l'oublieras jamais — dans le bon
+sens, promis.
 
 — Il n'y a pas de voitures ? remarqua Souly, qui avait retrouvé des
 couleurs normales depuis qu'il avait posé le pied sur la terre ferme.

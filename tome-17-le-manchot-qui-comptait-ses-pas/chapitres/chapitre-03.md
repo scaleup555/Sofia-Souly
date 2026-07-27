@@ -155,9 +155,9 @@ plusieurs semaines d'affilée, en puisant dans ses réserves de graisse.
 C'est pour ça que le trajet de son ou sa partenaire compte autant :
 plus il traîne, plus longtemps l'autre reste sans manger.
 
-— Donc si Nougat marche neuf cent trente-quatre pas de plus à chaque
-fois, dit Souly, en refaisant le calcul à voix haute, son ou sa
-partenaire attend plus longtemps, sans manger, à chaque relais.
+— Donc si Nougat marche tous ces pas en plus à chaque fois, dit Souly,
+en réfléchissant à voix haute, son ou sa partenaire attend plus
+longtemps, sans manger, à chaque relais.
 
 — Exactement, dit Romane, redevenue grave d'un coup. C'est peut-être
 une question de survie, à force de se répéter.
@@ -229,8 +229,8 @@ nous. Sylvestre, par exemple.
 — On dirait toujours la même réponse, avec vous les adultes, se
 plaignit Sofia. « Pas maintenant, plus tard, on verra. »
 
-— C'est parce que c'est souvent la bonne réponse, dit Romane, un
-sourire en coin. Même quand elle est franchement agaçante à entendre.
+— C'est parce que c'est souvent la bonne réponse, dit Romane. Même
+quand elle est franchement agaçante à entendre.
 
 Elouan, qui avait suivi toute la conversation sans dire un mot depuis
 un moment, choisit ce moment pour intervenir, très sérieusement.

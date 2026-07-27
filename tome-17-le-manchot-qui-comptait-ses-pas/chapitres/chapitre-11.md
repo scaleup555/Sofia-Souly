@@ -106,13 +106,13 @@ manchot repéré. Toute la crête s'était couverte de silhouettes
 espacées à intervalles réguliers, chacune penchée sur son secteur, si
 concentrée que le vacarme habituel de la colonie semblait, par
 contraste, presque discret. Mamie Rose, postée fièrement dans son
-secteur douze, comptait à voix basse avec une régularité de
-métronome, s'interrompant seulement pour noter un chiffre rond dans
-un petit carnet qu'elle avait apporté « pour vérifier deux fois, on
-n'est jamais trop prudent avec les grands nombres ».
+secteur douze, comptait à voix basse, régulière comme un métronome,
+s'interrompant seulement pour noter un chiffre rond dans un petit
+carnet qu'elle avait apporté « pour vérifier deux fois, on n'est
+jamais trop prudent avec les grands nombres ».
 
-Sofia et Souly, postés côte à côte avec Elouan, se prirent au jeu avec
-un sérieux absolu.
+Sofia et Souly, postés côte à côte avec Elouan, se prirent au jeu,
+aussi sérieux que de vrais scientifiques en mission.
 
 — Deux cent quatorze, murmura Elouan, sans quitter son secteur des
 yeux.
@@ -164,8 +164,8 @@ sous les rires bienveillants de tout son secteur.
 — Ça, c'est de la précision, commenta Elouan, admiratif, sans
 quitter son propre secteur des yeux plus de deux secondes.
 
-Un peu avant midi, Noémie s'approcha, sa caméra à l'épaule, un large
-sourire aux lèvres.
+Un peu avant midi, Noémie s'approcha, sa caméra à l'épaule, visiblement
+ravie de la matinée.
 
 — J'ai eu une idée, cette nuit, annonça-t-elle à Romane et Sylvestre,
 rassemblés pour une pause. Plutôt qu'un simple documentaire sur la
@@ -211,8 +211,8 @@ après tant d'échecs précédents.
 tremblant légèrement — d'excitation, pas de froid, précisa-t-il avant
 qu'on ne le lui demande.
 
-Le chariot s'avança avec une lenteur mesurée, exactement calée sur le
-rythme d'un manchot voisin, ses petites roues comptant fidèlement
+Le chariot s'avança d'une allure lente et mesurée, exactement calée
+sur le rythme d'un manchot voisin, ses petites roues comptant fidèlement
 chaque tour, sans dévier, sans se coincer, sans foncer vers la moindre
 flaque de boue. Il suivit son manchot pendant une bonne trentaine de
 mètres, s'arrêta net quand celui-ci s'arrêta pour se secouer les
@@ -239,13 +239,11 @@ n'en ont aucun.
 
 — Vous croyez qu'il faudra un Numéro Huit, un jour ? demanda Sofia.
 
-— J'espère bien que non, dit Gaëtan, avec un grand sourire. Le Sept
-me suffit très largement pour le reste de ma vie de bricoleur. Sauf
-si, évidemment, il se met en tête de rouler dans une flaque de boue
-la semaine prochaine. Dans ce cas, on reparlera d'un Numéro Huit.
-
-— Je vais graver ça sur une plaque, décida Gaëtan, radieux. Juste en
-dessous du nom du Numéro Sept.
+— J'espère bien que non, dit Gaëtan, manifestement content de lui. Le
+Sept me suffit très largement pour le reste de ma vie de bricoleur.
+Sauf si, évidemment, il se met en tête de rouler dans une flaque de
+boue la semaine prochaine — dans ce cas, je graverai déjà une plaque
+pour le Numéro Huit, juste en dessous de celle du Sept.
 
 Souly, qui avait suivi toute la scène en silence, s'approcha du
 chariot, fasciné par le mécanisme.
@@ -262,8 +260,8 @@ regarder, avant de fabriquer.
 — C'est un peu ce qu'on a fait, nous aussi, dit Souly, en y réfléchissant.
 Regarder d'abord. Compter ensuite.
 
-— Vous feriez de bons bricoleurs, tous les deux, dit Gaëtan, un large
-sourire aux lèvres.
+— Vous feriez de bons bricoleurs, tous les deux, dit Gaëtan, la mine
+réjouie.
 
 Le comptage se poursuivit tout l'après-midi, méthodique, ponctué de
 pauses café et de comparaisons de chiffres entre secteurs voisins.
@@ -278,7 +276,7 @@ qu'attendrissant.
 Regarde, ils essaient de suivre les adultes, mais ils n'ont pas encore
 le coup.
 
-— Ils vont y arriver, dit Sofia, avec la certitude tranquille d'une
+— Ils vont y arriver, dit Sofia, aussi tranquillement certaine qu'une
 grande sœur d'expérience.
 
 — Toujours, dit Elouan. C'est ça, le plus beau, dans tout ce
@@ -311,8 +309,8 @@ jamais vu un chiffre pareil.
 — Ça veut dire que le mât n'a pas fait trop de dégâts, finalement ?
 demanda Tanguy, encore un peu inquiet malgré la liesse générale.
 
-— Ça veut dire que la colonie est solide, corrigea Sylvestre, avec
-douceur. Mais que sans vous tous, elle aurait dû se battre plus fort
+— Ça veut dire que la colonie est solide, corrigea Sylvestre, la voix
+radoucie. Mais que sans vous tous, elle aurait dû se battre plus fort
 encore pour l'être. Il n'y a pas de contradiction là-dedans.
 
 Noémie, sa caméra braquée sur le tableau couvert de chiffres, capta
@@ -338,7 +336,7 @@ vie.
 
 — Et Nougat, dans tout ça ? demanda Sofia. Il va bien ?
 
-Romane consulta une dernière fois son écran, un sourire aux lèvres.
+Romane consulta une dernière fois son écran, le visage détendu.
 
 — Nougat va très bien. Depuis le déplacement du mât, son trajet est
 revenu à la normale. Neuf cent trente-quatre pas de moins qu'avant,
@@ -347,7 +345,7 @@ exactement.
 — C'est le chiffre qu'Elouan avait calculé le premier jour, se
 souvint Souly.
 
-— Bouclé, dit Elouan, avec une satisfaction tranquille qui en disait
+— Bouclé, dit Elouan, tranquillement satisfait, d'un ton qui en disait
 plus long que n'importe quel discours.
 
 Le soir tomba lentement sur Port-Venteux, dans cette lumière grise et
@@ -379,8 +377,8 @@ enfants du village, qui se disputaient chacun leur tour pour actionner
 le petit levier. Sylvestre, assis un peu à l'écart avec Mamie Rose,
 comparait leurs deux carnets respectifs — l'un couvert de dix-huit
 ans de notes sur les manchots, l'autre de plusieurs décennies de
-grilles de mots croisés — avec le sérieux amusé de deux personnes
-qui venaient de découvrir un point commun inattendu.
+grilles de mots croisés —, aussi sérieux qu'amusés d'avoir découvert
+un point commun inattendu.
 
 — Vous notez tout, vous aussi, remarqua Mamie Rose.
 

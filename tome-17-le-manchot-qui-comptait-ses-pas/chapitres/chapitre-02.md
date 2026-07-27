@@ -110,7 +110,8 @@ grise, un entre-deux permanent qui ne semblait jamais devoir trancher.
 — Plus de quarante mille, rien que sur cette colonie. Des manchots
 royaux.
 
-— PINGOUINS royaux, tenta Sofia, un sourire en coin.
+— PINGOUINS royaux, tenta Sofia, guettant la réaction de Théo du coin
+de l'œil.
 
 — Manchots, corrigèrent en chœur Romane et Théo, ce qui fit rire tout
 le monde, y compris Sofia elle-même.
@@ -297,7 +298,7 @@ journée et qu'on compare les résultats.
 aucune discussion.
 
 — Personne ne se trompe jamais, avant d'avoir fait sa première grosse
-erreur, dit Romane, un sourire en coin.
+erreur, dit Romane, en rajustant sa longue-vue sur l'épaule.
 
 — Ça ne m'est jamais arrivé.
 
@@ -323,7 +324,7 @@ plus doré que la moyenne sur la poitrine.
 Souly à Elouan.
 
 — Douze, dit Elouan sans hésiter. Enfin, onze vivants. Nougat,
-Praline, Escargot — il marche bizarrement —, Tornade — elle, elle ne
+Frimas, Escargot — il marche bizarrement —, Tornade — elle, elle ne
 marche pas bizarrement du tout, plutôt l'inverse —, et les autres.
 J'ai la liste complète à la maison, si tu veux.
 

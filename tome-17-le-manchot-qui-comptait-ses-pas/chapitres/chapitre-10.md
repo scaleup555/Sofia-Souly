@@ -57,11 +57,11 @@ Sylvestre se tenait un peu à l'écart, une tasse de thé fumante entre
 les mains, observant la scène avec l'air de quelqu'un qui n'était pas
 encore tout à fait certain de vouloir connaître la réponse.
 
-— Alors, dit Elouan, avec la solennité d'un scientifique annonçant
+— Alors, dit Elouan, aussi solennel qu'un vrai scientifique annonçant
 une découverte, regardez la courbe.
 
-Sur l'écran, une ligne montait, lentement mais sûrement, d'année en
-année, un peu plus haute à chaque saison — jusqu'à un bond soudain,
+Sur l'écran, une ligne montait, lentement mais régulièrement, d'année
+en année, un peu plus haute à chaque saison — jusqu'à un bond soudain,
 tout à la fin, correspondant aux derniers jours.
 
 — Le grand saut, à la fin, c'est le mât, dit Romane, en pointant le
@@ -132,13 +132,13 @@ représentait venait tout juste de retomber sur ses épaules.
 jamais pris le temps de les mettre bout à bout avant vous.
 
 — C'est Elouan qui a eu l'idée de tout reporter sur un seul graphique,
-précisa Romane, avec un regard fier vers le garçon, qui rougit
+précisa Romane, en couvant le garçon d'un regard fier, qui rougit
 jusqu'aux oreilles sans savoir où regarder.
 
 — J'ai juste compté, marmonna-t-il. C'est tout ce que je sais faire.
 
-— C'est exactement ce qu'il fallait faire, dit Sylvestre, avec une
-douceur inhabituelle dans la voix. Ne dis jamais « juste » compter,
+— C'est exactement ce qu'il fallait faire, dit Sylvestre, la voix
+soudain plus douce qu'à l'habitude. Ne dis jamais « juste » compter,
 petit. Ça vient de résoudre un mystère que dix-huit campagnes
 d'adultes n'avaient jamais vu.
 
@@ -241,9 +241,9 @@ moindre honte. Enseigner, puis abuser de l'enseignement pour rire un
 bon coup.
 
 Sofia, rouge de confusion, contempla tour à tour son plat de biscuits,
-Théo hilare, et le manchot égaré qui les observait tous les deux avec
-une indifférence royale, avant d'éclater de rire elle-même, incapable
-de rester vexée plus de trois secondes.
+Théo hilare, et le manchot égaré qui les observait tous les deux,
+parfaitement indifférent à leur numéro, avant d'éclater de rire
+elle-même, incapable de rester vexée plus de trois secondes.
 
 — C'est bon, T'AS GAGNÉ CETTE FOIS, cria-t-elle, alors que Théo
 s'éloignait déjà en riant, la main plongée dans une des mille poches
@@ -281,7 +281,7 @@ riant.
 Plus loin, devant le réfectoire, quelqu'un avait accroché une immense
 carte de la colonie découpée en secteurs numérotés, chacun affecté à
 un binôme de volontaires. Mamie Rose elle-même, croisée en chemin,
-étudiait la sienne avec la concentration d'une élève appliquée.
+étudiait la sienne, aussi concentrée qu'une élève appliquée.
 
 — Secteur douze, annonça-t-elle fièrement à Sofia. Je vais compter
 des manchots demain. Trente ans que je n'ai pas eu un travail aussi
@@ -326,13 +326,13 @@ peu près tout. C'est un peu bête, en fait, quand on vit tous les deux
 sur la même île minuscule.
 
 — Fallait qu'on plante un mât au mauvais endroit pour se parler
-vraiment, dit Tanguy, avec un petit rire un peu gêné. Pas la méthode
+vraiment, dit Tanguy, un petit rire gêné lui échappant. Pas la méthode
 que je recommanderais.
 
 — La prochaine fois, on essaiera juste de se dire bonjour, proposa
-Noémie, en lui tendant la main pour sceller la plaisanterie, ce que
-Tanguy accepta avec un sourire qui, pour la première fois depuis
-plusieurs jours, ne semblait porter aucune trace de culpabilité.
+Noémie, en lui tendant la main pour sceller la plaisanterie. Tanguy la
+serra sans hésiter, pour la première fois depuis plusieurs jours
+débarrassé de la moindre trace de culpabilité.
 
 Un peu plus loin, près du hangar, Gaëtan travaillait penché sur un
 nouveau chariot, encore à moitié démonté, entouré d'outils éparpillés
@@ -372,13 +372,13 @@ bougeait. Le Sept, lui, sait s'arrêter. C'est toute la différence.
 — Comment vous avez appris à le faire s'arrêter ?
 
 — En regardant, un soir, comment un vrai manchot s'arrête, dit
-Gaëtan, redevenu sérieux d'un coup. Pas brutalement. Il ralentit,
-d'abord. J'ai fini par comprendre qu'une machine qui veut suivre un
-animal doit d'abord apprendre à penser un peu comme lui.
+Gaëtan, tout son sérieux revenu d'un coup. Pas brutalement. Il
+ralentit, d'abord. J'ai fini par comprendre qu'une machine qui veut
+suivre un animal doit d'abord apprendre à penser un peu comme lui.
 
 — Ça, dit Sofia, c'est presque une phrase de scientifique.
 
-— Ne le répétez à personne, dit Gaëtan, avec un faux air affolé. Ma
+— Ne le répétez à personne, dit Gaëtan, feignant l'affolement. Ma
 réputation de bricoleur maladroit en prendrait un coup.
 
 Le soir venu, une fois les biscuits distribués et le village

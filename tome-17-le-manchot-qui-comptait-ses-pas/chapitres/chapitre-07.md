@@ -56,9 +56,9 @@ Du sommet, le Chemin des Manchots se dessinait clairement, un ruban
 brun serpentant entre les rochers, ponctué de petites silhouettes
 noir et blanc qui avançaient en file, dodelinant à chaque pas. Sofia
 observa la scène un long moment, fascinée par la lenteur méthodique de
-la procession, chaque individu se balançant d'un pied sur l'autre avec
-une gravité presque comique, comme si la moindre précipitation
-risquait de tout faire s'écrouler.
+la procession, chaque individu se balançant d'un pied sur l'autre, le
+menton haut et les nageoires écartées, comme si la moindre
+précipitation risquait de tout faire s'écrouler.
 
 — Ils marchent vraiment n'importe comment, remarqua-t-elle.
 
@@ -205,8 +205,9 @@ de l'écart qu'on a vu sur les données de Nougat.
 — Il compterait ça en combien de pas, Elouan, à votre avis ? demanda
 Sofia, presque pour elle-même.
 
-— Beaucoup trop, pour lui, dit Souly, avec un demi-sourire. Il aurait
-déjà tout mesuré trois fois avant qu'on ait fini de discuter.
+— Beaucoup trop, pour lui, dit Souly, en désignant le mât du menton.
+Il aurait déjà tout mesuré trois fois avant qu'on ait fini de
+discuter.
 
 — Depuis quand il est là, ce mât ? demanda Souly, redevenu sérieux,
 déjà en train d'examiner la base métallique à la recherche d'une date,
@@ -363,7 +364,7 @@ aujourd'hui.
 très sérieuse tout à coup.
 
 — Ça me laisse surtout la nuit pour ne pas dormir en y pensant, dit
-Romane, avec une grimace amusée.
+Romane, en grimaçant malgré son sourire.
 
 — Demain, alors, accepta Souly, en refermant son carnet.
 
@@ -375,9 +376,10 @@ Ils redescendirent en silence pendant un long moment, chacun perdu
 dans ses propres calculs, le bruit de leurs pas se mêlant à celui,
 plus régulier, du chariot cahotant derrière eux.
 
-— Treize jours, murmura enfin Souly, surtout pour lui-même. Un jour
-avant les neuf jours qu'on avait au début. Ça fait un sacré paquet de
-preuves, pour un seul mât.
+— Treize jours, murmura enfin Souly, surtout pour lui-même. Un jour de
+plus que les douze jours de l'incident, pile ce qu'on avait recalculé
+avec Romane ce matin. Ça fait un sacré paquet de preuves, pour un seul
+mât.
 
 — Trop, tu veux dire, pour que ce soit un hasard, corrigea Sofia.
 
