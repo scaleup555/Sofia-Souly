@@ -6,9 +6,27 @@ La camionnette de Grand-oncle Théo montait depuis vingt minutes en lacets, et S
 
 — C'est le vent, dit Souly sans lever les yeux de son carnet. Le vent dominant. Ça s'appelle des arbres drapeaux, je l'ai lu.
 
-— Des arbres drapeaux, répéta Sofia, ravie. C'est le plus beau nom d'arbre que j'aie jamais entendu. »
+— Des arbres drapeaux, répéta Sofia, ravie. C'est le plus beau nom d'arbre que j'aie jamais entendu.
 
-À l'avant, Mamie Rose tenait la carte à l'envers depuis un moment sans que personne n'ose le lui dire, et Théo conduisait avec la concentration très particulière d'un homme qui a raté deux embranchements et refuse de l'admettre.
+— À cette altitude, le vent souffle presque toujours dans le même sens, ajouta Mamie Rose sans lever les yeux de son magazine de mots croisés. C'est pour ça qu'ils poussent tous penchés. La montagne a ses habitudes, comme tout le monde.
+
+— Toi aussi, t'as des habitudes, dit Sofia. Tu fais toujours tes mots croisés en voiture, même sur les petites routes qui font des virages.
+
+— Justement. C'est là que le cerveau travaille le mieux, sur les petites routes qui font des virages. »
+
+Théo faillit rater un panneau de sortie de virage en entendant ça, ce qui ne fit qu'appuyer discrètement le contraire.
+
+À l'avant, Mamie Rose tenait la carte à l'envers depuis un moment sans que personne n'ose le lui dire.
+
+« Mamie Rose, ta carte est à l'envers, dit Sofia, qui ne se retenait jamais de dire ce qu'elle voyait.
+
+— Je sais très bien ce que je fais, répondit Mamie Rose sans ciller, en tournant la carte de quatre-vingt-dix degrés d'un geste décidé. Voilà. Maintenant elle est dans le bon sens.
+
+— Elle était déjà dans le bon sens avant.
+
+— Alors elle l'est encore plus, maintenant. »
+
+Théo conduisait les mains crispées sur le volant, la mâchoire serrée — l'air d'un homme qui a raté deux embranchements et refuse de l'admettre.
 
 « C'est encore loin ? demanda Sofia.
 
@@ -18,11 +36,25 @@ La camionnette de Grand-oncle Théo montait depuis vingt minutes en lacets, et S
 
 — La première fois, j'ai oublié la réponse en sortant de la boutique. »
 
+À la recherche d'un bonbon pour se donner du courage avant le dernier virage, Théo plongea la main dans une poche de son gilet, puis dans une deuxième, puis dans une troisième, sans jamais quitter la route des yeux — ce qui n'était pas franchement rassurant pour ses passagers.
+
+« Alors... » Il en ressortit un trombone tordu, un ticket de musée vieux de plusieurs années, et enfin, triomphant, un caramel entouré de mie de pain. « Ah, le voilà !
+
+— C'est immangeable, ça, dit Sofia.
+
+— Je le sais bien. Je le gardais pour le principe. »
+
 Sofia et Souly échangèrent un regard. C'était typiquement le genre de choses qui n'étonnait plus personne dans la famille.
 
-Le virage suivant révéla effectivement un clocher, minuscule, posé sur un fond de montagnes si hautes que Sofia dut se pencher pour en voir le sommet par la vitre. Le village s'accrochait au flanc de la pente comme s'il avait toujours été un peu inquiet de glisser, des toits de lauzes grises serrés autour d'une place, et au-dessus, une forêt sombre qui montait jusqu'à des crêtes dénudées.
+Le virage suivant révéla effectivement un clocher, minuscule, posé sur un fond de montagnes si hautes que Sofia dut se pencher pour en voir le sommet par la vitre. Le village s'accrochait au flanc de la pente, des toits de lauzes grises serrés autour d'une place, et au-dessus, une forêt sombre qui montait jusqu'à des crêtes dénudées. Une odeur de bois brûlé entrait par la vitre entrouverte, mêlée à quelque chose de plus frais, presque poivré, que Sofia n'arrivait pas à identifier.
 
-« La forêt de Corbenoire, annonça Théo avec la fierté d'un homme qui vient enfin de retenir un nom de lieu. Et là-haut, tout au fond, c'est le massif des Trois Cimes.
+« Ça sent quoi ? demanda-t-elle.
+
+— Le sapin, je crois, dit Souly. Et la fumée de cheminée.
+
+— Ça sent la montagne, tout simplement, dit Mamie Rose, qui avait enfin réussi à remettre la carte dans le bon sens — le vrai, cette fois. »
+
+« La forêt de Corbenoire, annonça Théo, la poitrine un peu bombée d'avoir enfin retenu un nom de lieu. Et là-haut, tout au fond, c'est le massif des Trois Cimes.
 
 — Et c'est là qu'habite Fabienne ? demanda Souly.
 
@@ -52,7 +84,19 @@ Fabienne éclata de rire, un rire franc qui fit se retourner deux passants sur l
 
 — À cause d'une conversation, corrigea Fabienne. L'entorse n'y est pour rien. »
 
-Mamie Rose, qui descendait de voiture avec la lenteur soigneuse d'une personne qui a fait le trajet assise sur une carte routière tout du long, s'avança pour serrer Fabienne dans ses bras comme si elles se connaissaient depuis toujours.
+Pendant que les adultes finissaient de se saluer, Sofia s'était déjà accroupie près du rebord de la fontaine, en train d'inspecter les pavés comme une géologue en mission officielle.
+
+« Qu'est-ce que tu fabriques ? demanda Souly.
+
+— Je cherche mon premier caillou de Loubarèges. Chaque endroit a le sien. »
+
+Elle en repéra un, gris avec une veine blanche qui le traversait de part en part, et le glissa dans sa poche — puis se releva trop vite et trébucha sur le rebord de pierre. Ce fut le gilet de Théo, providentiellement situé juste derrière elle, qui amortit sa chute.
+
+« Merci, Théo.
+
+— De rien. C'est bien la première fois que ce gilet sert à quelque chose d'utile depuis le début du voyage. »
+
+Mamie Rose, qui descendait de voiture avec des gestes prudents, comme une personne qui a passé tout le trajet assise sur une carte routière, s'avança pour serrer Fabienne dans ses bras comme si elles se connaissaient depuis toujours.
 
 « Camille nous a tellement parlé de vous, dit-elle. Elle dit que vous étiez la seule collègue capable de la faire rire un soir de garde de nuit difficile.
 
@@ -62,7 +106,19 @@ La maison de Fabienne sentait le bois et le café froid, avec des cartes du mass
 
 « C'est quoi, ces lignes ?
 
-— Des déplacements. On suit certains loups avec des colliers GPS, et ça trace leur trajet sur la carte. Regarde celle-ci, en rouge. »
+— Des déplacements. On suit certains loups avec des colliers GPS, et ça trace leur trajet sur la carte. Regarde celle-ci, en rouge.
+
+— Et les jaunes ? demanda Souly, déjà penché si près de la carte que son nez touchait presque le papier.
+
+— Des indices trouvés au sol — empreintes, poils accrochés à un fil de clôture. Les vertes, ce sont des zones de chasse probables. »
+
+Souly nota chaque couleur dans son carnet avec l'application d'un cartographe officiel, pendant que Sofia, elle, s'était déjà emparée d'un petit boîtier hérissé d'antennes posé sur l'étagère et commençait à en dévisser le capot arrière.
+
+« Sofia ! Repose ça, s'il te plaît, c'est un récepteur qui vaut plus cher que ma camionnette — enfin, que celle de Théo.
+
+— Je voulais juste voir comment ça marchait à l'intérieur.
+
+— Je te montrerai comment ça marche sans le démonter, promis. »
 
 Souly s'approcha à son tour, carnet déjà sorti.
 
@@ -74,13 +130,25 @@ Souly s'approcha à son tour, carnet déjà sorti.
 
 — Non, c'est mon prédécesseur, il y a des années. Il paraît qu'elle a un hurlement particulièrement reconnaissable — d'où le nom. Je ne l'ai jamais entendue moi-même, en direct, mais je l'ai beaucoup écoutée en enregistrement. »
 
-Il y eut un silence très bref, à peine perceptible, pendant lequel Fabienne referma la carte d'un geste un peu trop rapide et changea de sujet en désignant la chambre du couloir. Souly, qui remarquait ce genre de choses — c'était même sa spécialité —, nota mentalement le détail sans rien dire. Pas encore.
+Il y eut un silence très bref, à peine perceptible, pendant lequel Fabienne referma la carte d'un geste un peu trop rapide et changea de sujet en désignant la chambre du couloir. Souly, qui remarquait ces détails-là — c'était même sa spécialité —, nota mentalement l'instant sans rien dire. Pas encore.
 
-Le repas eut lieu dehors, sur la terrasse en bois qui donnait sur la vallée, autour d'une tarte aux myrtilles que Fabienne avait manifestement faite la veille en prévision de leur arrivée. Le village s'animait doucement en contrebas : quelqu'un rentrait du bois fendu dans une brouette, deux chiens se poursuivaient devant l'épicerie, une cloche de troupeau tintait quelque part plus haut sur la pente.
+Le repas eut lieu dehors, sur la terrasse en bois qui donnait sur la vallée, autour d'une tarte aux myrtilles que Fabienne avait manifestement faite la veille en prévision de leur arrivée. Le village s'animait doucement en contrebas : une cloche de troupeau tintait quelque part plus haut sur la pente, deux chiens se poursuivaient devant l'épicerie, et un homme âgé poussait une brouette de bois fendu en sifflotant, un sifflement si faux que Sofia dut se retenir de rire.
 
 « C'est calme, ici, dit Mamie Rose.
 
 — D'habitude, oui, répondit Fabienne. Cette semaine un peu moins. »
+
+L'homme à la brouette, passant devant la terrasse, s'arrêta un instant pour saluer.
+
+« Alors, Fabienne, toujours pas dormi, avec cette histoire de loup ?
+
+— On fait aller, Marcel, répondit Fabienne d'un ton qui coupait court à la conversation. Je te présente de la famille, en visite.
+
+— Enchanté. » Il souleva sa casquette d'un geste bref, jeta un œil vers la forêt sombre au-dessus du village, et reprit sa route sans rien ajouter de plus, sa brouette grinçant à chaque tour de roue.
+
+Sofia, la fourchette à mi-chemin de la bouche, n'avait rien laissé passer.
+
+« C'est quoi, cette histoire de loup ? »
 
 Théo leva un sourcil.
 
@@ -88,7 +156,7 @@ Théo leva un sourcil.
 
 — Rien de grave. Enfin — rien de grave pour l'instant. Il y a eu une histoire, la semaine dernière. Un loup qui a hurlé en plein jour, tout près du troupeau communal. Ça a fait beaucoup de bruit au village — dans tous les sens du terme. »
 
-Sofia, la fourchette à mi-chemin de la bouche, s'arrêta net.
+Sofia, la fourchette de nouveau suspendue en l'air, faillit renverser son verre de sirop.
 
 « Un loup a hurlé en plein jour ? C'est mal ?
 
@@ -96,9 +164,9 @@ Sofia, la fourchette à mi-chemin de la bouche, s'arrêta net.
 
 — Pourquoi ils hurlent surtout le soir ?
 
-— C'est toute une histoire, répondit Fabienne en souriant. Je vous montrerai la station demain, on aura toute la place et tout le temps pour en parler correctement. Ce soir, je préfère qu'on parle d'autre chose — par exemple, de comment ça se fait qu'une fille de huit ans porte une basket rouge et une basket bleue. »
+— C'est toute une histoire, répondit Fabienne. Je vous montrerai la station demain, on aura toute la place et tout le temps pour en parler correctement. Ce soir, je préfère qu'on parle d'autre chose — par exemple, de comment ça se fait qu'une fille de huit ans porte une basket rouge et une basket bleue. »
 
-Sofia baissa les yeux vers ses pieds avec la fierté tranquille d'une personne qui attendait cette question depuis le début du repas.
+Sofia baissa les yeux vers ses pieds, manifestement ravie qu'on lui pose enfin cette question.
 
 « C'est exprès. C'est pour qu'on me reconnaisse de loin.
 
@@ -118,13 +186,33 @@ Sofia, elle, en était restée à un mot bien plus important.
 
 « Louveteaux ! s'écria-t-elle. J'adore les Louveteaux ! J'ai un cousin qui est Louveteau, il a un foulard bleu et il sait faire des nœuds de chaise avec les yeux fermés.
 
-— Sofia, dit Souly avec la patience un peu lasse d'un grand frère habitué, elle parle des bébés loups. Louveteau, c'est aussi le nom d'un petit loup.
+— Sofia, dit Souly, du ton un peu lasse d'un grand frère habitué, elle parle des bébés loups. Louveteau, c'est aussi le nom d'un petit loup.
 
-— Ah bon ? » Sofia parut sincèrement déçue, puis se ressaisit aussitôt. « Bon, ben, ils ont sûrement un foulard quand même. Ou un badge. »
+— Ah bon ? » Sofia parut sincèrement déçue, puis se ressaisit aussitôt. « Bon, ben, ils ont sûrement un foulard quand même. Ou un badge.
+
+— Et ils font quoi, toute la journée, tes louveteaux à toi ? insista-t-elle. Ils apprennent des chants, ils passent des épreuves ?
+
+— Ils tètent leur mère, ils dorment énormément, et ils apprennent à mordiller sans faire mal, dit Fabienne, qui semblait s'amuser beaucoup de la conversation. Pas vraiment de chants, non.
+
+— Dommage. Le mien — le cousin Louveteau, je veux dire — il sait chanter la chanson de la promesse. C'est très joli. Vous êtes sûrs qu'ils n'ont pas au moins un badge « je sais chasser » ? »
 
 Fabienne pouffa dans sa serviette, et Mamie Rose échangea avec Théo un regard qui signifiait clairement : ça va être un tome mémorable.
 
 Après le repas, alors que le soleil commençait à décliner derrière les crêtes en teintant la vallée d'orange, Fabienne les emmena faire quelques pas jusqu'à la place du village pour leur montrer, disait-elle, « l'endroit le plus important de Loubarèges après la fontaine » — qui se révéla être la boulangerie, déjà fermée à cette heure, mais dont Fabienne connaissait apparemment les horaires par cœur.
+
+« Six heures et demie, tous les matins, sauf le lundi, dit-elle en collant presque le nez à la vitrine. Les croissants partent en douze minutes en général. Je le sais parce que je les ai chronométrés, une fois, par simple curiosité scientifique. »
+
+Souly nota l'information dans son carnet, sous une nouvelle rubrique qu'il venait d'inventer, « Faits utiles sur Loubarèges », pendant que Sofia essayait, sans succès, de voir à travers le rideau baissé s'il restait des pains au chocolat en vitrine.
+
+Un chien roux, sorti de nulle part, trotta jusqu'à eux et se mit à renifler méthodiquement les baskets dépareillées de Sofia, puis sa poche, le museau plissé comme un vrai limier.
+
+« Il sent mon caillou, dit Sofia, ravie.
+
+— Il sent surtout que tu as marché dans quelque chose, dit Souly.
+
+— C'est vexant, pour un caillou. »
+
+Le chien, peu concerné par ce débat, s'assit sur les pavés et se gratta l'oreille avec application, avant de repartir sans un regard vers une destination connue de lui seul.
 
 Devant la fontaine, un vieil homme au chapeau de feutre était assis sur le rebord de pierre, une canne posée en travers des genoux, à observer la montagne comme s'il la connaissait mieux que sa propre maison.
 
@@ -132,11 +220,15 @@ Devant la fontaine, un vieil homme au chapeau de feutre était assis sur le rebo
 
 — Je me souviens de tout ce qu'on me dit une seule fois, dit le vieil homme sans se retourner. C'est mon seul vrai talent. » Il tourna enfin la tête, et Sofia découvrit un visage buriné, des yeux très clairs, et un sourire qui prenait son temps pour s'installer. « Élie Ganivet. Berger. Enfin — ancien berger, officiellement, mais le troupeau ne le sait pas encore. »
 
-Souly lui tendit la main avec le sérieux qu'il réservait aux adultes qu'il jugeait dignes d'intérêt dès la première phrase.
+Souly lui tendit la main, sérieux comme il ne l'était qu'avec les adultes qu'il jugeait dignes d'intérêt dès la première phrase.
 
 « Vous gardez le troupeau communal ?
 
-— Depuis plus de quarante ans, mon garçon. J'en connais chaque brebis par son nom, et la montagne me connaît par le mien. On se fait confiance, elle et moi. »
+— Depuis plus de quarante ans, mon garçon. J'en connais chaque brebis par son nom, et la montagne me connaît par le mien. On se fait confiance, elle et moi.
+
+— Vous vous souvenez vraiment de tout ce qu'on vous dit une seule fois ? l'interrompit Sofia, qui n'avait jamais rencontré une affirmation qu'elle ne voulait pas immédiatement mettre à l'épreuve. Je m'appelle Sofia. Répétez-le.
+
+— Sofia, répéta Élie sans hésiter une seconde. Voilà. Et je le saurai encore dans dix ans, si je suis toujours vivant pour le dire. »
 
 Sofia, qui n'avait jamais rencontré quelqu'un capable de dire une phrase pareille sans avoir l'air ridicule, se laissa tomber assise sur le rebord de la fontaine à côté de lui.
 
@@ -148,16 +240,28 @@ Sofia, qui n'avait jamais rencontré quelqu'un capable de dire une phrase pareil
 
 — Ça, mon garçon, ajouta Élie en se levant péniblement à l'aide de sa canne, c'est justement la question. »
 
+Sofia, qui n'avait pas fini d'explorer ses poches, en sortit son caillou gris tout neuf et le tendit vers le vieux berger, comme une pièce à conviction.
+
+« Tiens, regarde. Mon premier caillou de Loubarèges. Je les collectionne, ceux qui ont une histoire.
+
+— Celui-là vient du lit du torrent, dit Élie après l'avoir examiné une seconde à peine, sans même le toucher. La veine blanche, c'est du quartz. Il a dû rouler des années avant d'arriver jusqu'à la fontaine.
+
+— Attends, sérieux ? Tu sais ça juste en le regardant ?
+
+— Je garde des moutons depuis quarante ans, petite. J'ai eu le temps de regarder beaucoup de cailloux. » Il eut un demi-sourire, le premier depuis qu'il avait parlé du loup. « Garde celui-là. Il a mérité sa place dans ta poche. »
+
 Il s'éloigna en direction de la ruelle qui montait vers les hauteurs du village, sa silhouette se découpant un instant sur le ciel qui rosissait, avant de disparaître derrière un mur de pierre sèche.
 
 Fabienne poussa un petit soupir amusé.
 
 « Il adore faire des sorties théâtrales comme ça. Ne vous inquiétez pas trop. »
 
-Mais en chemin vers la maison, alors que Sofia trottinait devant en imitant un hurlement de loup qui ressemblait davantage à une sirène de pompiers, Souly remarqua que Fabienne, elle, n'avait pas ri une seule fois depuis les mots d'Élie. Elle regardait la forêt sombre, tout là-haut, avec une attention qui n'avait plus rien d'un simple intérêt professionnel.
+Mais en chemin vers la maison, alors que Sofia trottinait devant en imitant un hurlement de loup qui ressemblait davantage à une sirène de pompiers — et manqua deux fois de trébucher sur les pavés inégaux de la ruelle sans jamais s'arrêter pour autant —, Souly remarqua que Fabienne, elle, n'avait pas ri une seule fois depuis les mots d'Élie. Elle regardait la forêt sombre, tout là-haut, les yeux plissés, quelque chose dans sa façon de la fixer qui n'avait plus rien d'un simple intérêt professionnel.
 
-Ce soir-là, dans la chambre qu'ils partageaient sous les combles, Sofia s'endormit en moins de dix minutes, épuisée par la route et la montagne. Souly, lui, resta un moment éveillé à écouter le silence — un silence différent de celui de Bellerive-sur-Loire, plus dense, plus vivant, ponctué de bruits qu'il n'arrivait pas à identifier.
+Ce soir-là, dans la chambre qu'ils partageaient sous les combles, Sofia s'endormit en moins de dix minutes, épuisée par la route et la montagne, son caillou gris posé en évidence sur la table de nuit, entre une pierre rapportée l'an dernier de Bellerive-sur-Loire et une autre dont plus personne dans la famille ne se rappelait plus très bien la provenance exacte. Souly, lui, resta un moment éveillé à écouter le silence — un silence différent de celui de Bellerive-sur-Loire, plus dense, plus vivant, ponctué de bruits qu'il n'arrivait pas à identifier.
 
 Il sortit son carnet à la lueur de sa lampe de poche et écrivit, en haut d'une page neuve : *Le Carnet des Preuves — Tome Loubarèges.* Puis, en dessous : *Un loup a hurlé en plein jour. Fabienne sait quelque chose qu'elle ne dit pas. Écho a un hurlement reconnaissable. À vérifier demain.*
+
+Par la fenêtre entrouverte montaient les bruits ordinaires d'un village de montagne qui se couche tôt : un volet qu'on referme deux maisons plus loin, le carillon très doux de la fontaine sur la place, une cloche de troupeau qui tintait encore, quelque part très haut, avant de se taire complètement. Souly essaya, sans succès, de deviner à quelle distance exacte se trouvait cette dernière cloche — un exercice qu'il abandonna au bout de quelques minutes, faute de données suffisantes, ce qui l'agaça presque autant que d'avoir eu tort.
 
 Il referma le carnet, éteignit sa lampe, et s'endormit à son tour, pendant que dehors, très loin sur les hauteurs, quelque chose remuait dans la forêt de Corbenoire sans qu'aucun humain du village ne s'en aperçoive.
