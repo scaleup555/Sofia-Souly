@@ -1,8 +1,9 @@
 # État d'avancement — Série Sofia & Souly
 
-*Dernière mise à jour : Tome 16 rédigé en une seule passe (12/12
-chapitres, 36 940 mots), approuvé par le jury à 8,6/10 dès le premier
-passage (« polish uniquement »), .docx livré — 2026-07-26*
+*Dernière mise à jour : Tome 17 rédigé en une seule passe (12/12
+chapitres, 38 248 mots), jury à 7,5/10 dès le premier passage
+(« polish uniquement »), corrections appliquées, .docx livré —
+2026-07-27*
 
 **À LIRE INTÉGRALEMENT avant de démarrer toute nouvelle session d'écriture**,
 avec `bible/personnages.md`, `bible/lecons_apprises.md`, et — depuis le
@@ -1082,3 +1083,80 @@ dans le récit)).
 - Livraison du fichier `.docx` final via un nouveau `build_docx.py`
   (calqué sur celui du tome 15). **Tomes 1 à 15 toujours entièrement
   terminés** ; tome 16 complet à 36 940 mots, livré à 8,6/10.
+
+### Session 23 (tome 17, écriture complète) — 2026-07-27
+- Consigne implicite (« enchaine avec le tome suivant »), mêmes
+  exigences que les tomes 10 à 16 : qualité très soignée, plancher
+  ferme de 36 000 mots (max 40 000), dialogues privilégiés, plusieurs
+  passages très drôles, scènes embarrassantes-attendrissantes réparties
+  sur plusieurs personnages. Titre imposé par `bible/titres_futurs.md`
+  (quatrième titre de la liste réservée) : « Le Manchot qui comptait
+  ses pas ».
+- Thème : biologie polaire (manchot royal — distinction manchot/
+  pingouin, œuf porté sur les pieds sous la poche incubatrice, relais
+  des parents pour les trajets de nourrissage en mer, poussin en duvet
+  brun « oakum boy »), premier tome de la série sur ce thème. Décor :
+  Port-Venteux, base-village scientifique semi-permanente sur l'île
+  fictive de Kerlan (dans l'esprit des Terres australes françaises),
+  la Colonie du Cap Silencieux, le Chemin des Manchots, le Grand
+  Comptage annuel. Nouveaux personnages ajoutés à `bible/personnages.md` :
+  Romane Ferec (biologiste polaire, cousine de Grand-oncle Théo — lien
+  d'entrée en scène inédit), Elouan Prigent (10 ans, vit à l'année sur
+  la base, traduit toute distance en nombre de pas), Sylvestre Ranguin
+  (technicien-naturaliste, dix-huit campagnes australes, règle orale
+  sur le Chemin des Manchots), Gaëtan Vasnier (bricoleur comique,
+  compte-pas mécaniques pour manchots), Noémie Falret (réalisatrice de
+  documentaire animalier, injustement soupçonnée) et Tanguy Aumont
+  (technicien logistique, cause réelle par excès de précaution mal
+  informée).
+- Double fair-play : élimination de l'équipe de tournage de Noémie par
+  chronologie (écart constant de quatre jours après l'incident — motif
+  numérique délibérément différent des tomes précédents), mât météo de
+  Tanguy comme vraie cause (écart constant d'un jour avant l'incident),
+  règle orale de Sylvestre validée scientifiquement, rebondissement du
+  titre : en comparant les données GPS de Nougat aux dix-huit ans de
+  carnets de terrain de Sylvestre, les enfants découvrent que le
+  Chemin des Manchots s'allongeait déjà, très lentement, saison après
+  saison, bien avant l'installation du mât — résolution collaborative
+  par déplacement du mât, projet de documentaire de suivi à long terme
+  et surveillance régulière de la longueur du chemin.
+- Rédaction complète des 12 chapitres en une seule passe (~9 950
+  mots), puis expansion en parallèle via 3 agents dédiés (ch1-4, ch5-8,
+  ch9-12). Les trois agents d'expansion ET les trois agents de
+  vérification structurelle initialement dispatchés en parallèle ont
+  échoué pour cause de limite de session API — contrairement aux tomes
+  précédents touchés par ce type d'incident, le travail déjà écrit sur
+  disque au moment de l'échec s'est révélé complet et directement
+  exploitable (~36 250 mots), sans qu'aucun redispatch de l'expansion
+  n'ait été nécessaire.
+- Vérification structurelle relancée avec succès en trois passages
+  parallèles avec recoupement croisé explicite entre agents (leçon
+  n°38) : une révélation prématurée cassant le fair-play (un chiffre
+  énoncé par un personnage avant d'être « découvert » par un autre),
+  une contamination bible inter-tomes (nom déjà utilisé pour un animal
+  du tome 5), un bug de répliques consécutives, une confusion de
+  chronologie (recopie d'un chiffre périmé au lieu du recalcul du jour
+  même), et une vingtaine d'étiquettes de dialogue « avec un(e) + nom
+  abstrait » reformulées — dont deux nouveaux doublons introduits par
+  les agents eux-mêmes en corrigeant, détectés par une seconde passe
+  d'aplatissement (leçon n°39).
+- 1 seul passage jury complet sur le manuscrit fini : **7,5/10 dès le
+  premier passage**, verdict « à corriger, polish uniquement ». Le
+  jury a détecté un bug de chronologie de fond entre les chapitres 3 et
+  4 (scène continue sans coupure de jour, alors que leur décompte de
+  jours avant le Grand Comptage avançait quand même) — exactement le
+  piège que l'outline de ce tome avait pourtant signalé nommément comme
+  nécessitant une vigilance renforcée (leçon n°37) — corrigé en
+  reportant la rencontre avec l'équipe de tournage au lendemain matin,
+  sans toucher aux chiffres du chapitre 4 déjà cohérents avec le reste
+  du livre. Trois incohérences mineures également corrigées (carrière
+  d'enseignante de Mamie Rose donnée deux fois avec des chiffres
+  différents, vitesse de pointe du manchot royal incohérente et
+  correspondant en réalité à une autre espèce, doublon de formulation
+  interne au chapitre 5), plus une marge de longueur reconstituée
+  (36 402 → 38 248 mots) et une réduction du gabarit « très sérieux »
+  (29 → 12 occurrences) signalé par le jury comme surdosé sans être
+  formellement banni.
+- Livraison du fichier `.docx` final via un nouveau `build_docx.py`
+  (calqué sur celui du tome 16). **Tomes 1 à 16 toujours entièrement
+  terminés** ; tome 17 complet à 38 248 mots, livré à 7,5/10.

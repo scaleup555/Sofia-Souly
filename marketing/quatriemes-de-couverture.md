@@ -538,3 +538,36 @@ juste de trouver une deuxième voix.
 réponse.*
 
 **Dès 8 ans. 12 chapitres, une énigme, deux twists.**
+
+---
+
+## Tome 17 — Le Manchot qui comptait ses pas
+
+Un chemin emprunté par la même colonie depuis des générations. Un
+Grand Comptage qui approche. Et un manchot bagué dont les données
+GPS affichent, un matin, presque deux fois plus de pas que d'habitude.
+
+À Port-Venteux, petite base scientifique au bout du monde, Nougat le
+manchot royal est suivi à la trace depuis des saisons — et son trajet
+quotidien vient soudain de s'allonger, au pire moment possible. Les
+soupçons se tournent vite vers une équipe de tournage tout juste
+arrivée pour filmer la colonie.
+
+Sofia et Souly, venus rencontrer Romane, biologiste polaire et
+cousine de Grand-oncle Théo, se lient d'amitié avec Elouan, dix ans,
+qui ne mesure jamais rien autrement qu'en pas. Avec l'aide de
+Sylvestre, dix-huit campagnes australes à son actif et une règle
+qu'on ne prend plus très au sérieux, ils vont devoir comprendre
+pourquoi un chemin vieux comme la colonie elle-même a soudain
+changé — et depuis combien de temps, en réalité, il n'a jamais
+vraiment cessé de changer.
+
+Un pas de plus ne veut rien dire. Des milliers de pas de plus,
+répétés chaque jour depuis des années, racontent toujours une
+histoire.
+
+*Dix-septième tome d'une série où la science, l'aventure et deux
+enquêteurs qui ne perdent jamais le compte ne laissent jamais une
+question sans réponse.*
+
+**Dès 8 ans. 12 chapitres, une énigme, deux twists.**
