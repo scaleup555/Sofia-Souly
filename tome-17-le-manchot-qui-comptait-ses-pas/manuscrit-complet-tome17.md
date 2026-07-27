@@ -30,6 +30,16 @@ crayon suspendu.
 
 — Ça n'en fait que six, dit Mamie Rose. Mais l'idée est là.
 
+— Neuf lettres, répéta-t-elle, songeuse, en recomptant sur ses doigts
+celles du mot qu'elle croyait presque tenir. Onze, en fait, à me
+relire. J'ai dû mal recopier la grille en embarquant.
+
+— Ça t'arrive souvent, de mal recopier une grille ? demanda Sofia.
+
+— Une fois par traversée en mer agitée, à peu près, dit Mamie Rose.
+C'est ma façon à moi d'avoir le mal de mer — par les chiffres, plutôt
+que par l'estomac.
+
 Sofia, elle, avait passé le plus clair de la traversée collée au
 hublot, un caillou gris dans la poche — un galet ramassé sur le port
 de départ, parce qu'il avait une histoire, celui-là, il venait de très
@@ -243,10 +253,11 @@ poches de son gilet, l'air de plus en plus contrarié.
 avant de partir, pour le voyage.
 
 Il continua de tapoter chaque poche l'une après l'autre, sortant tour
-à tour un mouchoir, deux stylos cassés et un morceau de sucre
-d'origine mystérieuse, avant de finalement extraire, d'une poche
-intérieure qu'il avait pourtant fouillée deux fois déjà, un petit
-carnet à couverture cartonnée illustré d'un manchot royal.
+à tour un mouchoir, deux stylos cassés, un ticket de musée périmé
+depuis au moins six ans et un morceau de sucre d'origine mystérieuse,
+avant de finalement extraire, d'une poche intérieure qu'il avait
+pourtant fouillée deux fois déjà, un petit carnet à couverture
+cartonnée illustré d'un manchot royal.
 
 — Ah ! Il était là depuis le début.
 
@@ -277,6 +288,20 @@ brouette chargée de bonbonnes de gaz, courbée contre les rafales, sans
 un regard pour les nouveaux arrivants : ici, visiblement, on ne
 s'arrêtait pas de travailler pour observer un bateau qui accostait,
 aussi rare soit-il.
+
+Sofia s'arrêta devant une fenêtre embuée où quelqu'un avait dessiné,
+du bout du doigt, un manchot approximatif — deux ronds et un
+triangle en guise de bec — et décida aussitôt que c'était le plus bel
+accueil qu'elle ait jamais reçu de toute sa vie de voyageuse. Un peu
+plus loin, elle ramassa encore un caillou, plus petit que les deux
+premiers, presque noir, et le soupesa longuement avant de le glisser
+dans sa poche déjà pleine.
+
+— Celui-là, il a quelle histoire ? demanda Souly, résigné d'avance à
+la réponse.
+
+— Je ne sais pas encore, dit Sofia. Je la lui donnerai plus tard,
+quand il l'aura méritée.
 
 — Ça a l'air d'un endroit où il ne se passe jamais rien, remarqua
 Souly.
@@ -346,9 +371,9 @@ distinguer un seul oiseau en particulier.
 — C'est déjà elle, confirma Romane. Demain, vous serez juste à côté.
 
 Mamie Rose, elle, se contenta d'observer la scène un instant, avant de
-hausser légèrement les épaules, comme si des dizaines de milliers
-d'oiseaux braillant au bout du monde n'étaient, somme toute, pas plus
-étonnants qu'une averse un jour de lessive.
+hausser légèrement les épaules. Pour elle, visiblement, des dizaines
+de milliers d'oiseaux braillant au bout du monde n'étaient, somme
+toute, pas plus étonnants qu'une averse un jour de lessive.
 
 — Ça a l'air bruyant, se contenta-t-elle de dire.
 
@@ -418,8 +443,8 @@ se calmer pour vous faire plaisir.
 — Tu n'as pas peur, toi, de tout ça ? demanda Sofia, à moitié dans les
 couvertures. Le bout du monde, le vent, les manchots partout ?
 
-— J'ai vu pire qu'un peu de vent, dit Mamie Rose. Trente ans d'élèves
-de CP un lundi matin de pluie, ça forge un certain courage.
+— J'ai vu pire qu'un peu de vent, dit Mamie Rose. Douze ans d'élèves
+de CM2 un lundi matin de pluie, ça forge un certain courage.
 
 — C'est pas pareil.
 
@@ -483,15 +508,16 @@ prononcer distinctement une phrase qui fit sourire les deux enfants :
 — Restez groupés, ne courez pas après les oiseaux, et amusez-vous. Je
 vous aime.
 
-— Reçu, dit Souly dans le micro, très sérieux, comme s'il parlait
-vraiment à un poste de commandement.
+— Reçu, dit Souly dans le micro, en redressant les épaules, comme
+s'il parlait vraiment à un poste de commandement.
 
 — On ne va pas courir après les oiseaux, promit Sofia, les doigts
 déjà croisés dans son dos.
 
 Romane les attendait dehors, une longue-vue en bandoulière, le
-capuchon rabattu à peine, comme si le vent qui décoiffait tout le
-monde autour d'elle avait depuis longtemps renoncé à l'atteindre.
+capuchon rabattu à peine — le vent qui décoiffait tout le monde
+autour d'elle semblait avoir renoncé à l'atteindre, elle, depuis
+longtemps déjà.
 
 — Direction le Cap Silencieux, annonça-t-elle. Trois quarts d'heure de
 marche. Et je vous préviens tout de suite : le nom du cap ne veut
@@ -566,6 +592,14 @@ semblaient monter du ventre même des oiseaux, des petits cris aigus de
 poussins invisibles quelque part dans la masse, et, entre les deux, un
 bourdonnement continu, presque mécanique, produit par des dizaines de
 milliers de becs qui claquaient sans discontinuer.
+
+Le sol changeait lui aussi, à mesure qu'ils approchaient : la roche
+grise uniforme du sentier cédait la place à une terre tachetée de
+blanc, de rose pâle et d'un roux presque orange, semée de plumes
+détachées et de vieux fragments de coquille polis par le vent. Sofia
+tendit machinalement la main vers une pierre marbrée de couleurs
+qu'elle n'avait encore jamais vues, avant de se souvenir, la mine
+déconfite, qu'elle n'avait le droit d'en ramasser aucune ici.
 
 Ils descendirent prudemment vers un chemin balisé qui longeait la
 colonie sans y pénétrer, où un garçon d'environ dix ans, accroupi près
@@ -704,7 +738,7 @@ argentée.
 
 — Exactement le même. Sur terre, un poids, un déséquilibre permanent.
 Dans l'eau, un des animaux les plus rapides de toute la colonie —
-jusqu'à trente-cinq kilomètres à l'heure en pointe, pour échapper à un
+jusqu'à douze kilomètres à l'heure en pointe, pour échapper à un
 prédateur.
 
 — C'est complètement injuste, dit Souly. Comment on peut être aussi
@@ -809,6 +843,18 @@ désigna la colonie d'un geste ample, ses trois pulls ayant eu le temps
 de se tasser un peu depuis la veille. Ce paysage-là n'a rien à envier
 à un désert, remarque. Juste plus froid, et beaucoup plus bruyant.
 
+— C'était où, le plus froid ? demanda Souly, curieux.
+
+— Un site de fouille en haute montagne, une fois, où le café gelait
+dans la tasse avant même que j'aie fini de le préparer, dit Théo.
+J'ai mis six ans à me remettre complètement les orteils. Kerlan, à
+côté, c'est presque une plage.
+
+— C'est une blague ? demanda Sofia, pas totalement convaincue.
+
+— À moitié seulement, dit Théo. Ce qui, chez un archéologue, est déjà
+un taux de sincérité tout à fait honorable.
+
 Elouan, qui avait délaissé la moitié de son sandwich pour continuer de
 surveiller le boîtier GPS, leva soudain la tête.
 
@@ -821,8 +867,8 @@ annonça-t-il, sans qu'on lui ait rien demandé.
 mange, en fait — ça m'occupe les yeux pendant que ma bouche s'occupe
 du sandwich.
 
-— C'est une philosophie de vie très solide, décréta Sofia, très
-sérieuse.
+— C'est une philosophie de vie très solide, décréta Sofia, en hochant
+gravement la tête.
 
 — Je peux le voir, Nougat ? demanda-t-elle ensuite, déjà penchée
 par-dessus la corde qui délimitait le chemin.
@@ -923,6 +969,22 @@ réponse, mais qui en disait long quand même.
 — Ça va s'arranger, dit Sofia, d'une voix bien plus assurée qu'elle ne
 l'était en réalité, puisqu'elle n'avait, pour tout dire, absolument
 aucune idée si ça allait s'arranger.
+
+— Tu veux un caillou ? proposa-t-elle ensuite, dans le noir, en
+tâtonnant déjà vers sa poche. J'en ai un qui n'a pas encore
+d'histoire. Tu pourrais lui en inventer une, toi, pendant que tu
+comptes.
+
+— Ça ne marche pas comme ça, les cailloux, dit Souly, mais il tendit
+quand même la main.
+
+— Ça marche comme on veut, avec les cailloux. C'est moi qui ai
+inventé les règles.
+
+Il referma les doigts sur la pierre froide, sans vraiment savoir
+pourquoi ça l'aidait un peu à respirer plus lentement, et recommença
+à compter depuis le début, jusqu'à ce que le sommeil finisse par
+gagner la partie.
 
 Au matin, ils se précipitèrent vers le bâtiment de recherche avant
 même que Mamie Rose n'ait fini son café — laquelle leur cria, depuis
@@ -1068,8 +1130,8 @@ clavier.
 
 — Tiens. Pour Nougat. Ça porte chance, un caillou qui a une histoire.
 
-— Un manchot ne sait pas ce qu'est la chance, dit Elouan, très
-sérieux.
+— Un manchot ne sait pas ce qu'est la chance, dit Elouan, en fronçant
+le nez, peu convaincu.
 
 — Alors ça lui fera une surprise.
 
@@ -1129,7 +1191,7 @@ plaignit Sofia. « Pas maintenant, plus tard, on verra. »
 quand elle est franchement agaçante à entendre.
 
 Elouan, qui avait suivi toute la conversation sans dire un mot depuis
-un moment, choisit ce moment pour intervenir, très sérieusement.
+un moment, choisit ce moment pour intervenir.
 
 — Neuf cent trente-quatre pas de plus qu'avant, précisa-t-il, en
 pointant un chiffre sur l'écran que personne d'autre n'avait encore
@@ -1176,6 +1238,18 @@ perd le fil.
 
 — Tu perdrais le fil, dit Elouan, sans méchanceté. Il faut des années
 d'entraînement.
+
+— Combien d'années, exactement ? demanda Souly, qui aimait mettre un
+chiffre sur tout, lui aussi, à sa manière.
+
+— Quatre, dit Elouan, sans hésiter. Cinq, si on compte l'année où
+j'ai dû tout réapprendre parce que j'écrivais mes chiffres à
+l'envers.
+
+— Ça vaut le coup, au moins ?
+
+— Ça vaut largement le coup, dit Elouan. Depuis, je ne perds plus
+jamais le fil de rien. Enfin — presque plus jamais.
 
 La porte du bâtiment claqua contre le mur, portée par une bourrasque,
 et Mamie Rose entra sans frapper, un thermos fumant dans chaque main
@@ -1358,11 +1432,30 @@ Théo dans n'importe quel désaccord mineur.
 
 — C'est ce qui inquiète justement une partie de la base, dit Romane, à
 voix plus basse, comme si elle regrettait déjà d'avoir laissé échapper
-la phrase. Venez. Autant que vous entendiez ça par vous-mêmes plutôt
-que par les rumeurs du village.
+la phrase.
+
+Elle jeta un œil vers le campement, où l'équipe s'affairait encore à
+décharger du matériel dans la bruine.
+
+— Ils ont l'air en plein montage, pour l'instant — pas le moment idéal
+pour débarquer avec des questions. Allons plutôt les voir demain matin,
+à tête reposée, une fois qu'ils seront installés. Ce soir, il vaut
+mieux se sécher et dormir : la journée a été longue, et celle de demain
+le sera tout autant.
+
+Souly, qui mourait pourtant d'envie d'aller poser des questions sur-le-champ,
+dut reconnaître que la pluie qui redoublait donnait raison à Romane. Ils
+rentrèrent tous les trois d'un bon pas, et cette nuit-là, malgré le
+nœud d'enquête qui continuait de tourner dans sa tête, Souly s'endormit
+presque aussitôt, épuisé par sa nuit blanche de la veille.
 
 
 # Chapitre 4 — L'équipe de tournage
+
+Le lendemain matin, la pluie de la veille avait cédé la place à un
+ciel dégagé, rare assez pour que tout le village semble s'en étonner à
+voix haute sur le pas des portes. Romane les retrouva devant la maison
+rouge, tenant fermement sa promesse de la veille.
 
 Devant le bâtiment principal, un amoncellement de caisses noires,
 trépieds et câbles enroulés formait un petit campement improvisé, au
@@ -1438,6 +1531,18 @@ nouveau pour moi. Et déjà mon sujet préféré, je crois.
 Noémie, radieuse. C'est rare, un animal qui arrive à être les deux à
 la fois, sans que ça se contredise.
 
+— Le pire tournage, c'était lequel ? demanda Souly, toujours curieux
+des pires scénarios.
+
+— Trois semaines à attendre qu'un phoque léopard daigne apparaître
+devant l'objectif, dit Noémie, une grimace nostalgique aux lèvres. Il
+est arrivé le jour où j'avais rangé la caméra pour de bon. Depuis, je
+ne range jamais rien avant d'être vraiment, vraiment sûre que la
+scène est finie.
+
+— C'est un peu comme nous, avec Nougat, remarqua Sofia. On ne sait
+jamais quand il va se montrer.
+
 — Depuis combien de temps vous êtes là, vous, exactement ? demanda
 Souly, très professionnel, changeant de sujet aussi discrètement qu'il
 le put.
@@ -1481,7 +1586,7 @@ d'eux, aussi long que son avant-bras.
 plus cher qu'un an de mes courses.
 
 — Il sert à quoi, celui-là précisément ? demanda Sofia, reposant
-l'objectif avec des précautions soudain très sérieuses.
+l'objectif avec un luxe de précautions soudain.
 
 — À filmer de très loin sans déranger personne. Avec ça, je peux
 capturer un poussin qui sort la tête de sous l'aile de son parent
@@ -1631,6 +1736,22 @@ manchot qui dandine et un chariot qui cahote sur un caillou. Ce qui
 explique une bonne partie de mes ennuis avec les cinq précédents
 modèles.
 
+— Le Numéro Deux et le Numéro Quatre, ils ont fait quoi ? demanda
+Sofia, qui voulait la collection complète des catastrophes.
+
+— Le Numéro Deux a compté les vagues, toute une après-midi, avant que
+je comprenne mon erreur, dit Gaëtan, songeur. Le Numéro Quatre, lui,
+s'est vexé — enfin, il s'est arrêté net, et j'ai préféré croire qu'il
+s'était vexé plutôt que juste cassé. C'est plus supportable, comme
+explication.
+
+— Vous parlez de vos machines comme si elles avaient des sentiments,
+remarqua Souly.
+
+— Après trente-deux ans de machines à laver, on finit par leur prêter
+un peu de caractère, dit Gaëtan. Ça ne coûte rien, et ça aide à ne
+pas trop s'énerver contre elles.
+
 — Et le Numéro Six ? demanda Sofia.
 
 — Le Numéro Six roule très bien. Le problème, c'est qu'il n'écoute
@@ -1673,8 +1794,8 @@ arrivé, sans même reprendre son souffle.
 
 — Je ne sais pas, dit Gaëtan. Je courais après lui, pas à côté.
 
-— Il faudrait un compte-pas pour le compte-pas, dit Elouan, très
-sérieusement, ce qui déclencha un nouveau fou rire chez Sofia.
+— Il faudrait un compte-pas pour le compte-pas, dit Elouan, sans
+ciller, ce qui déclencha un nouveau fou rire chez Sofia.
 
 — Voilà bien le commentaire dont je me serais passé avant le
 petit-déjeuner, marmonna Gaëtan, les lèvres pourtant retroussées
@@ -1808,8 +1929,8 @@ casserole :
 
 — Alors, cette équipe de tournage, coupable ou pas coupable ?
 
-— Trop tôt pour le dire, répondit Souly, très sérieux, en sortant son
-carnet une dernière fois avant le dîner.
+— Trop tôt pour le dire, répondit Souly, la mine grave, en sortant
+son carnet une dernière fois avant le dîner.
 
 — Elle a de très bons objectifs de caméra, ajouta Sofia, comme si
 c'était un argument juridique recevable.
@@ -1887,7 +2008,11 @@ même personne. Des dizaines de photographies jaunies couvraient les
 murs, punaisées sans ordre apparent : des manchots par centaines, des
 tempêtes de neige presque horizontale, des visages d'hommes et de
 femmes emmitouflés, souriant devant des bâtiments qui n'existaient
-peut-être même plus.
+peut-être même plus. Sur une étagère basse, entre un réveil qui
+n'indiquait plus la bonne heure depuis des années et une pile de
+piles usagées gardées « au cas où », un vieux compas de marine
+rouillé servait manifestement plus de presse-papiers que
+d'instrument de navigation.
 
 — Cinq jours avant le Grand Comptage, et vous voilà déjà chez moi,
 observa Sylvestre en les voyant entrer, sans marquer la moindre
@@ -2028,7 +2153,9 @@ mes vieux souvenirs de campagne.
 
 Il se leva de nouveau, un peu raide cette fois, et décrocha une
 pochette cartonnée épaisse de plusieurs centimètres, rangée à l'écart
-sur une étagère basse, comme un objet qu'on ne déplace pas souvent.
+sur une étagère basse qu'il n'avait manifestement pas rouverte depuis
+longtemps, à en juger par la fine couche de poussière qu'il souffla
+dessus avant de la poser sur la table.
 
 — C'est vous, sur toutes ces photos ? demanda Souly, en désignant le
 mur avant que Sylvestre ne revienne s'asseoir.
@@ -2103,9 +2230,9 @@ vous trouvez vraiment quelque chose là-dedans. Dix-huit ans de notes
 qui dorment dans un tiroir, ça ne sert à rien tant que personne ne
 les relit avec les bonnes questions en tête.
 
-— On a déjà les bonnes questions, dit Elouan, très sérieux, en
-comptant sur ses doigts. Pourquoi Nougat marche plus. Pourquoi le
-chemin grignote. Et pourquoi personne n'a rien vu avant nous.
+— On a déjà les bonnes questions, dit Elouan, en comptant sur ses
+doigts. Pourquoi Nougat marche plus. Pourquoi le chemin grignote. Et
+pourquoi personne n'a rien vu avant nous.
 
 — Trois bonnes questions, confirma Sylvestre, presque amusé. Ça
 promet.
@@ -2187,6 +2314,19 @@ Ils repartirent un peu plus tard, la pochette calée sous le bras de
 Souly comme un objet précieux, tandis que le vent du nord continuait
 de souffler sur le village, chargé d'une odeur de pierre froide que
 Sofia, seule, semblait vraiment sentir.
+
+— J'ai trouvé l'histoire de mon caillou, annonça-t-elle, en le
+sortant de sa poche pour l'examiner une dernière fois à la lumière
+plate du soir. C'est un morceau du vieux poteau de Sylvestre. Celui
+qui a fait dévier tout un chemin pendant une saison entière, avant
+qu'on le déplace.
+
+— Ça m'étonnerait beaucoup, dit Souly. Ce poteau était en bois, pas
+en pierre.
+
+— Les histoires n'ont pas besoin d'être vraies pour être vraies, dit
+Sofia, très digne, en le rangeant précieusement. Elles ont juste
+besoin d'être racontées comme il faut.
 
 — Cinq jours, murmura Souly, en refermant la porte de la cabane
 derrière eux. Cinq jours avant le Grand Comptage, et on a maintenant
@@ -2281,6 +2421,13 @@ spectaculaire à regarder.
 toujours ce qui est solide à ce qui est spectaculaire. Moi, c'est
 l'inverse.
 
+— Un jour, tu préféreras un fait solide à une bonne histoire, et ce
+jour-là, je ne te reconnaîtrai plus, ajouta-t-elle, presque
+menaçante.
+
+— Ce jour-là, je saurai enfin où sont passées mes chaussettes,
+répliqua Souly. Ça vaudrait presque le sacrifice.
+
 Mamie Rose, qui avait fini par relever le nez de ses mots croisés,
 tapota la boîte en fer marquée « THÉ » posée devant elle, toujours
 vide de thé comme toujours.
@@ -2291,6 +2438,10 @@ personne ce soir.
 
 — C'est pour la science, plaida Sofia, en piochant malgré tout un
 biscuit de plus.
+
+— La science a toujours bon dos, remarqua Mamie Rose, pas dupe une
+seconde, en refermant malgré tout la boîte un peu moins vite que
+d'habitude.
 
 Dehors, le vent du nord avait cédé la place, dans la nuit, à quelque
 chose de plus doux — pas vraiment du beau temps, jamais tout à fait
@@ -2309,7 +2460,13 @@ différemment selon la direction.
 
 Ils traversèrent le village d'un bon pas, saluant au passage deux
 techniciens en combinaison qui réparaient une antenne couchée par la
-dernière tempête, jusqu'au bâtiment principal, dont la porte battait
+dernière tempête. Devant la cuisine collective, quelqu'un avait
+accroché une pancarte de fortune annonçant « poisson, encore » avec
+un dessin de poisson visiblement peu enthousiaste à l'idée d'être
+mangé une fois de plus, et une odeur de friture flottait jusque sur
+le chemin, mêlée à celle, plus tenace, de la colonie toute proche.
+
+Ils continuèrent jusqu'au bâtiment principal, dont la porte battait
 doucement contre son cadre, jamais tout à fait fermée. À l'intérieur,
 ils retrouvèrent Romane, qui avait déjà étalé, sur toute la table de
 la salle commune, les données GPS de Nougat imprimées sur de longues
@@ -2714,6 +2871,20 @@ peu comme votre frère avec son carnet, en fait.
 — Ne lui dites pas ça, elle va lui donner des idées, prévint Souly,
 qui souriait pourtant, lui aussi, en suivant la conversation.
 
+Sofia se pencha pour ramasser un éclat de basalte tombé au pied d'un
+bloc, le tourna entre ses doigts, hésita, puis le reposa avec un
+soupir théâtral.
+
+— Celui-là, il a sûrement une histoire immense, dit-elle. Mais je ne
+peux même pas le garder, on est encore dans la zone protégée.
+
+— Presque, dit Romane. Encore deux cents mètres, et on est en dehors.
+Tiens bon.
+
+— Je note l'endroit exact, annonça Sofia, en donnant un petit coup de
+talon au sol pour marquer sa mémoire. Je reviendrai le chercher,
+celui-là précisément, avant de repartir.
+
 Un peu plus haut, le sentier se resserra entre deux parois de roche,
 et Sofia, pressée d'arriver la première, manqua de trébucher sur une
 pierre mal calée. Romane la rattrapa d'un geste sans même sembler y
@@ -2737,10 +2908,11 @@ précipitation risquait de tout faire s'écrouler.
 — Ils marchent vraiment n'importe comment, remarqua-t-elle.
 
 — Sur terre, oui, dit Romane. C'est leur seul point faible. Dans
-l'eau, ces mêmes manchots deviennent des athlètes olympiques — trente
-kilomètres à l'heure en pointe, parfois plus, et ils peuvent plonger à
-plus de trois cents mètres de profondeur pour chasser. Sur terre, ils
-ont du mal à éviter un caillou un peu trop gros.
+l'eau, ces mêmes manchots deviennent des athlètes olympiques — douze
+kilomètres à l'heure en pointe, une vitesse de croisière qu'ils
+tiennent des heures durant, et ils peuvent plonger à plus de trois
+cents mètres de profondeur pour chasser. Sur terre, ils ont du mal à
+éviter un caillou un peu trop gros.
 
 — C'est un peu injuste, dit Sofia. Être un champion dans un élément et
 une catastrophe ambulante dans l'autre.
@@ -2932,6 +3104,16 @@ angle mort — il a pensé à tout ce qui concerne le vent et les
 instruments, et strictement rien à ce qui concerne les manchots,
 parce que ce n'est simplement pas son domaine.
 
+— Il a un carnet, lui aussi ? demanda Souly, qui commençait à
+soupçonner que tout le monde, sur cette île, finissait tôt ou tard
+par en tenir un.
+
+— Un carnet, un tableau, et trois applications différentes pour
+vérifier la météo en même temps, dit Romane, avec un petit rire.
+Kerlan rend tout le monde méticuleux, à force. Ou alors, c'est Kerlan
+qui attire les gens déjà méticuleux. Je n'ai jamais tranché la
+question.
+
 — Il l'a fait exprès ? demanda Sofia, inquiète.
 
 — Sûrement pas, dit Romane, catégorique. Tanguy est quelqu'un de très
@@ -3035,7 +3217,7 @@ Demain matin, à tête reposée, avec tout ce qu'on a rassemblé
 aujourd'hui.
 
 — Ça vous laisse la nuit pour trouver les bons mots, remarqua Sofia,
-très sérieuse tout à coup.
+soudain toute calme.
 
 — Ça me laisse surtout la nuit pour ne pas dormir en y pensant, dit
 Romane, en grimaçant malgré son sourire.
@@ -3187,7 +3369,12 @@ parfaitement immobiles, bloquées par le sel accumulé au fil des
 saisons. À l'intérieur régnait une odeur de graisse et de métal froid,
 et des rangées entières d'étagères portaient des pièces détachées
 soigneusement étiquetées — le domaine de Tanguy depuis, disait-on à la
-base, plus de six ans.
+base, plus de six ans. Sur un mur du fond, une carte de Port-Venteux
+entièrement recouverte de petites gommettes de couleur indiquait,
+supposa Souly, l'état de chaque instrument de la base — vertes pour
+ce qui fonctionnait, rouges pour ce qui attendait réparation, et une
+seule gommette dorée, isolée près du sommet, dont personne
+n'expliqua jamais le sens exact ce jour-là.
 
 Ils le trouvèrent près du hangar à instruments, en train de vérifier
 des batteries alignées sur un établi, une liste de contrôle à la main.
@@ -3313,7 +3500,7 @@ qui commençait enfin à percer. Depuis ce matin, je m'attendais à ce
 que tout le monde me crie dessus. Et vous êtes juste là, tous les
 quatre, à me regarder avec un tableau à craie.
 
-— Le tableau à craie, c'est pire, en fait, glissa Souly, très sérieux.
+— Le tableau à craie, c'est pire, en fait, glissa Souly, pince-sans-rire.
 Il ne pardonne jamais rien.
 
 Cette fois, tout le monde éclata de rire, y compris Tanguy, dont les
@@ -3372,11 +3559,21 @@ On se relaie, deux par deux, par tranches de deux heures. L'important,
 c'est qu'il y ait toujours des yeux ouverts sur le chemin, pas
 forcément les mêmes.
 
-— Je peux prendre le premier tour, proposa Elouan, très sérieux. Je
-ne m'endors jamais avant minuit, de toute façon.
+— Je peux prendre le premier tour, proposa Elouan, en se redressant
+de toute sa hauteur. Je ne m'endors jamais avant minuit, de toute
+façon.
 
 — On verra ça demain, avec les grands, dit Romane, en lui ébouriffant
 les cheveux pour adoucir le refus. Une chose à la fois.
+
+— Je compterai quand même les manchots qui passent, même sans tour
+officiel, prévint Elouan, pas franchement disposé à renoncer tout à
+fait. Il y a bien un moyen de compter depuis mon lit, par la fenêtre.
+
+— Ta fenêtre ne donne pas sur le chemin, lui rappela Romane, amusée.
+
+— Je sais. Mais je peux toujours compter autre chose, en attendant.
+Les secondes, par exemple.
 
 — Je peux venir ? demanda Tanguy, presque timidement. Je voudrais
 voir ça de mes propres yeux. Pas juste l'imaginer sur un graphique.
@@ -3470,6 +3667,12 @@ Sofia. Moi, je dis qu'il a une part de responsabilité.
 
 — Justement. C'est encore pire, s'il n'a même pas d'excuse.
 
+— On ne condamne pas un mât à la prison, tu sais, dit Souly,
+mi-amusé mi-lassé.
+
+— Dommage, dit Sofia. Ça lui aurait fait les pieds. Enfin — il n'a
+pas de pieds. Ça lui aurait fait les câbles, alors.
+
 Théo, qui suivait la conversation en retenant de moins en moins bien
 son rire, choisit ce moment pour intervenir.
 
@@ -3543,7 +3746,7 @@ amplement d'en rejoindre les rangs.
 — Il ne fait rien de spécial, ce caillou, remarqua Souly, en
 l'observant par-dessus l'épaule de sa sœur.
 
-— Pas encore, dit Sofia, très sérieuse. Ça viendra.
+— Pas encore, dit Sofia, en refermant le poing dessus. Ça viendra.
 
 Dehors, le vent cognait contre les volets, régulier comme un
 métronome grandeur nature. Mamie Rose les
@@ -3553,6 +3756,13 @@ tous les deux, emmitouflés jusqu'aux oreilles.
 
 — Vous ressemblez à deux petits phoques, dit-elle, satisfaite de son
 inspection. Allez. Le mystère n'attend pas les retardataires.
+
+— Tu comptes les heures, en nous attendant ? demanda Sofia, sur le
+pas de la porte.
+
+— Je compte les grilles de mots croisés que j'aurai fini avant votre
+retour, dit Mamie Rose. C'est une meilleure unité de mesure, pour une
+grand-mère. Filez, maintenant.
 
 La veillée fut organisée dans un ordre presque militaire, sous la
 direction conjointe de Romane et de Sylvestre, qui avait insisté pour
@@ -3575,6 +3785,10 @@ familier depuis la première visite au Cap Silencieux, paraissait
 différent dans cette pénombre — les touffes d'herbe rase se
 confondaient avec les rochers, et seule la rumeur lointaine de la
 colonie, portée par le vent, indiquait encore la bonne direction.
+Chaque respiration ressortait en un petit nuage blanc, aussitôt
+déchiqueté par le vent, et Sofia s'amusa un moment à souffler le plus
+fort possible pour voir lequel des deux nuages, le sien ou celui de
+Souly, tiendrait le plus longtemps avant de disparaître.
 Elouan marchait en tête, comptant ses pas à mi-voix par pure habitude,
 sans même s'en rendre compte, jusqu'à ce que Gaëtan, juste derrière
 lui, pousse son chariot imaginaire — les deux mains tendues devant
@@ -3612,6 +3826,13 @@ honneur d'inventeur. Bandé, mais sagement.
 — Bandé ? répéta Sofia.
 
 — Une roue tordue, depuis hier. Rien de grave. Il se repose.
+
+— Il se repose où ? demanda Sofia, imaginant sans peine un petit lit
+pour chariot.
+
+— Sur l'établi, avec une couverture dessus, avoua Gaëtan, un peu
+penaud. On se moque, mais ça marche : il n'a jamais aussi bien roulé
+que depuis que je lui parle un peu, le soir.
 
 — Vous parlez de cette machine comme d'un patient, remarqua Tanguy,
 amusé malgré la tension qu'on lisait encore sur son visage.
@@ -4091,6 +4312,11 @@ amusé. Tu ferais un bon scientifique, toi, un jour.
 — Il en est déjà un, officieusement, glissa Sofia. Il a un carnet et
 tout.
 
+— Officieusement, ça compte double, dit Sylvestre, en hochant la tête
+vers Souly avec un respect qui n'avait rien de moqueur, cette fois.
+J'ai mis douze campagnes avant d'oser me dire vrai scientifique, moi.
+Toi, tu y es déjà, à ton âge.
+
 Sylvestre feuilleta une dernière fois l'un de ses vieux carnets, celui
 de sa toute première campagne, la couverture tellement usée qu'elle
 avait perdu toute couleur d'origine.
@@ -4229,6 +4455,13 @@ sérieux à faire.
 — Les élèves bougent moins, dit Mamie Rose, songeuse. Enfin. Ça
 dépend des élèves.
 
+— Tu vas compter juste, au moins ? demanda Sofia, un peu inquiète
+pour la réputation scientifique de sa grand-mère.
+
+— Douze ans de CM2 m'ont appris à compter même les élèves qui
+essayaient de se cacher derrière le radiateur, dit Mamie Rose. Un
+manchot qui ne bouge pas, c'est presque reposant, en comparaison.
+
 Devant le bâtiment principal, Sofia trouva Tanguy et Noémie penchés
 ensemble sur une carte du village, en pleine discussion animée, un
 crayon passant d'une main à l'autre.
@@ -4312,6 +4545,17 @@ bougeait. Le Sept, lui, sait s'arrêter. C'est toute la différence.
 Gaëtan, tout son sérieux revenu d'un coup. Pas brutalement. Il
 ralentit, d'abord. J'ai fini par comprendre qu'une machine qui veut
 suivre un animal doit d'abord apprendre à penser un peu comme lui.
+
+— Vous avez regardé longtemps ? demanda Souly.
+
+— Trois soirs entiers, allongé dans l'herbe mouillée avec un carnet
+et une lampe frontale, dit Gaëtan. Sylvestre m'a vu faire, une fois,
+et n'a posé aucune question. Il devine ces choses-là sans qu'on ait
+besoin de les lui expliquer.
+
+— C'est romantique, à sa façon, décréta Sofia.
+
+— C'est surtout froid, à sa façon, corrigea Gaëtan, en riant.
 
 — Ça, dit Sofia, c'est presque une phrase de scientifique.
 
@@ -4419,8 +4663,8 @@ J'ai vérifié trois fois.
 — Sept heures, répéta Sofia. C'est long.
 
 — C'est rien, comparé à dix-huit ans d'attente pour comprendre
-pourquoi le chemin s'allongeait, remarqua Elouan, très sérieux, avant
-de filer déjà vers son secteur assigné.
+pourquoi le chemin s'allongeait, remarqua Elouan, avant de filer déjà
+vers son secteur assigné.
 
 — Aujourd'hui, on compte chaque manchot de la colonie, un par un,
 expliqua Romane à Sofia et Souly, en distribuant des petits compteurs
@@ -4481,7 +4725,15 @@ volontaire posté à un point précis de la colonie, cliquant à chaque
 manchot repéré. Toute la crête s'était couverte de silhouettes
 espacées à intervalles réguliers, chacune penchée sur son secteur, si
 concentrée que le vacarme habituel de la colonie semblait, par
-contraste, presque discret. Mamie Rose, postée fièrement dans son
+contraste, presque discret. Ici et là, quelqu'un avait improvisé un
+pare-vent avec une bâche tendue entre deux piquets ; un autre
+comptait à l'abri d'un parapluie retourné par une rafale trois
+minutes plus tôt et jamais réparé depuis, la moitié de sa toile
+pendouillant tristement. Personne, apparemment, n'avait le temps de
+s'en soucier davantage : les clics des compteurs manuels formaient,
+ensemble, un cliquetis continu qui rappelait, en plus sec, le
+bourdonnement des becs de la colonie elle-même. Mamie Rose, postée
+fièrement dans son
 secteur douze, comptait à voix basse, régulière comme un métronome,
 s'interrompant seulement pour noter un chiffre rond dans un petit
 carnet qu'elle avait apporté « pour vérifier deux fois, on n'est
@@ -4660,8 +4912,9 @@ comptage. On ne compte pas juste des chiffres. On compte des vies qui
 continuent.
 
 Le comptage se termina en fin d'après-midi, sous un ciel
-exceptionnellement dégagé, comme si Kerlan elle-même avait décidé
-d'offrir une belle journée à la fête. Tout le village se rassembla de
+exceptionnellement dégagé — la plus belle rareté météo que Kerlan
+ait offerte à la fête depuis le début de leur séjour. Tout le village
+se rassembla de
 nouveau sur la place, fatigué mais électrique, pendant que Romane
 centralisait les chiffres de chaque secteur sur un grand tableau
 installé pour l'occasion, Elouan à ses côtés, chargé de vérifier
@@ -4723,6 +4976,13 @@ souvint Souly.
 
 — Bouclé, dit Elouan, tranquillement satisfait, d'un ton qui en disait
 plus long que n'importe quel discours.
+
+— Neuf cent trente-quatre, répéta Sofia, comme pour se convaincre
+elle-même que ce chiffre avait vraiment existé, du premier jour
+jusqu'à maintenant. Ça semble tellement loin, déjà.
+
+— Neuf jours, corrigea Souly, qui n'avait pas pu s'empêcher de
+vérifier. Pas si loin que ça, en vrai.
 
 Le soir tomba lentement sur Port-Venteux, dans cette lumière grise et
 persistante qui refusait toujours de choisir entre le jour et la
@@ -4827,6 +5087,20 @@ en pliant méthodiquement une dernière couverture.
 — Les preuves pèsent parfois plus lourd que l'île elle-même, dit
 Mamie Rose, l'air entendu qui n'avait pas besoin d'explication.
 
+Elouan, venu prêter main-forte au chargement des sacs sans qu'on le
+lui demande, ouvrit d'autorité la boîte en fer et compta son contenu
+avant que Mamie Rose n'ait eu le temps de protester.
+
+— Sept sablés, annonça-t-il. Il en restait douze hier soir. Vous en
+avez mangé cinq, ou vous en avez donné cinq.
+
+— Un peu des deux, avoua Mamie Rose, sans la moindre gêne, en
+refermant la boîte. On ne dit jamais non à un dernier sablé, au bout
+du monde.
+
+— Je note quand même le chiffre, dit Elouan, en griffonnant sur son
+carnet neuf, sans lever les yeux. Pour la postérité.
+
 Théo, pour sa part, avait déjà égaré deux fois son écharpe entre la
 chambre et l'entrée, la retrouvant la seconde fois nouée autour d'une
 des mille poches de son gilet, sans le moindre souvenir de l'y avoir
@@ -4843,8 +5117,8 @@ juste provisoirement ailleurs.
 
 — C'est exactement ce que dit Souly de ses chaussettes, glissa Sofia.
 
-— Souly a raison, alors, dit Théo, très sérieux, en croquant dans le
-sablé retrouvé sans la moindre gêne.
+— Souly a raison, alors, dit Théo, la mine faussement solennelle, en
+croquant dans le sablé retrouvé sans la moindre gêne.
 
 Avant de rejoindre le quai, Romane insista pour qu'ils fassent un
 dernier détour par les hauteurs du Cap Silencieux — « cinq minutes,
@@ -4933,8 +5207,8 @@ sur les grandes personnes qui s'impatientent.
 
 — Prends les deux, suggéra Sofia. On ne sait jamais.
 
-— C'est en effet une sage politique de mesure, approuva Elouan,
-très sérieusement, ce qui fit rire tout le monde autour d'eux.
+— C'est en effet une sage politique de mesure, approuva Elouan, fier
+de sa formule, ce qui fit rire tout le monde autour d'eux.
 
 — Et pour nous, tu comptes en quoi, maintenant ? demanda Sofia. En
 pas, en soupirs, ou en clignements d'œil ?
@@ -5020,7 +5294,7 @@ moindre marge de négociation.
 peu près digne. Elle m'apprend à cadrer, je lui montre les meilleurs
 horizons dégagés du vent. Chacun son domaine.
 
-— Vous ferez un bon duo, dit Souly, très sérieux.
+— Vous ferez un bon duo, dit Souly.
 
 — C'est déjà ce qu'on dit de nous, au village, confirma Noémie, en
 lançant un regard amusé vers Romane, qui pouffa discrètement dans son
@@ -5081,7 +5355,7 @@ côté, plutôt. Elle est un peu grosse pour tenir entre deux pages.
 — Vous devriez ouvrir une école, un jour, dit Sofia. « L'école de
 Gaëtan : comment rater sept fois avant de réussir. »
 
-— Mauvais nom, dit Gaëtan, en secouant la tête, très sérieux. Ce
+— Mauvais nom, dit Gaëtan, en secouant la tête. Ce
 serait plutôt : « comment sept échecs font une réussite. » Ça sonne
 tout de suite plus encourageant pour les élèves.
 
@@ -5158,6 +5432,14 @@ jamais.
 
 — On dirait bien que ça marche, dit Sylvestre, tout le visage
 creusé de rides joyeuses.
+
+Il tapota deux fois la pochette de carnets, désormais dans les mains
+de Souly, comme on salue un vieil ami qu'on s'apprête à confier à
+quelqu'un de confiance.
+
+— Prends-en soin, dit-il. Pas parce qu'elle est fragile. Parce
+qu'elle a mis dix-huit ans à devenir utile, et que ce genre de
+chose-là mérite un peu de respect.
 
 Sur la passerelle, Souly se retourna une dernière fois vers Elouan,
 resté en retrait, les mains dans les poches de son manteau trop grand
