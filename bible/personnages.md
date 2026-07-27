@@ -878,6 +878,82 @@ Tout nouvel épisode doit relire ce fichier avant d'écrire une ligne.
 - Personnage-ressource pour tout tome futur à thème installation
   technique/base scientifique isolée.
 
+### Fabienne Réault (introduite au tome 18)
+- Biologiste, dirige la Station de suivi de la meute de Corbenoire à
+  Loubarèges. Introduite comme **ancienne collègue infirmière de
+  Camille** — elles ont travaillé ensemble à l'hôpital avant que
+  Fabienne reprenne des études pour devenir spécialiste des loups —
+  lien d'entrée en scène jamais utilisé jusqu'ici (à distinguer de
+  nièce/cousine/amie de longue date/ancienne doctorante/ancienne élève
+  de Théo ou Mamie Rose, et de cousine de Théo [tome 17], déjà utilisés).
+  La quarantaine.
+- Personnage-ressource pour tout tome futur à thème éthologie/faune
+  sauvage de montagne.
+
+### Capucine Anglade (introduite au tome 18)
+- 9 ans, vit à Loubarèges, fille d'éleveurs. Associe systématiquement
+  chaque son à une couleur (son jeu à elle, pas un diagnostic médical) —
+  un hurlement « gris clair » n'est pas la même chose qu'un hurlement
+  « orange » — à varier systématiquement des tempéraments déjà utilisés
+  pour les autres enfants-ressources (Max sûr de lui, Milo grimpeur
+  terre-à-terre, Yanis méfiant et loyal, Iris théâtrale et enthousiaste,
+  Zoé franche et bagarreuse, Bastien calme et très observateur, Noé
+  sceptique et pince-sans-rire, Mila artiste distraite, Enzo distrait
+  par le fonctionnel, Nino obsédé par l'identité individuelle, Alma
+  planificatrice obsessionnelle, Timéo besoin d'ordre et de symétrie,
+  Basile pourcentages/ratios, Ilan paralysé par le trac du solo, Elouan
+  qui traduit tout en nombre de pas).
+- Personnage-ressource pour tout tome futur à thème son/perception/
+  montagne.
+
+### Élie Ganivet (introduit au tome 18)
+- Vieux berger de Loubarèges, garde le troupeau communal depuis plus de
+  quarante ans. Détient une règle orale transmise par les bergers avant
+  lui : « Jamais de bruit au Pas du Berger avant midi. » Longtemps
+  prise pour une superstition plutôt qu'une vraie consigne de respect
+  du rythme de la faune, validée scientifiquement au tome où il
+  apparaît.
+- Personnage-ressource pour tout tome futur à thème pastoralisme/savoir
+  traditionnel de montagne.
+
+### Isidore Panchaud (introduit au tome 18)
+- Bricoleur du village de Loubarèges, construit des inventions de plus
+  en plus élaborées pour protéger les troupeaux tout seul, sans berger
+  ni chien, qui échouent avec bonne humeur (gabarit comique distinct de
+  tous les inventeurs comiques précédents de la série — Gustave Pinatel
+  [tome 8], Norbert Chabrol [tome 9], Barnabé Roquefeuil [tome 10],
+  Octave Bouscaren [tome 11], Ambroise Cadoret [tome 12], Odette Rocher
+  [tome 13], Léonard Cabestan [tome 14], Hippolyte Fresnel [tome 15],
+  Anatole Delmas [tome 16], Gaëtan Vasnier [tome 17] : Isidore ne
+  cherche ni à observer, ni à provoquer, ni à capturer en images, ni à
+  attirer, ni à guider, ni à réparer, ni à mesurer un animal — il veut
+  protéger un troupeau tout seul). Son dernier prototype (un cône
+  d'écoute directionnel) se révèle finalement utile en fin de tome (arc
+  de rédemption, comme ses prédécesseurs).
+- Personnage-ressource pour tout tome futur à thème comique/bricolage
+  scientifique amateur.
+
+### Cyprien Chambon (introduit au tome 18)
+- Dresseur de patous (chiens de protection des troupeaux), récemment
+  arrivé à Loubarèges pour aider deux fermes locales. Injustement
+  soupçonné d'avoir perturbé la meute avec son sifflet d'entraînement à
+  ultrasons — sincèrement inquiet d'en être responsable, coopératif une
+  fois innocenté (dans l'esprit de Julien Mercier [tome 10], Laurine
+  Ferretti [tome 11], Yasmine Ducros [tome 16] et Noémie Falret
+  [tome 17]).
+- Personnage-ressource pour tout tome futur à thème pastoralisme/chiens
+  de protection.
+
+### Baptiste Sorlin (introduit au tome 18)
+- Technicien télécom, a récemment installé un nouveau relais d'antenne
+  sur une crête près du Pas du Berger pour améliorer la couverture
+  réseau du village, sans consulter la station de suivi de la meute —
+  erreur de négligence, pas de malveillance (dans l'esprit de tous les
+  techniciens précédents de la série, notamment Tanguy Aumont
+  [tome 17]).
+- Personnage-ressource pour tout tome futur à thème installation
+  technique/village de montagne.
+
 ## Règle d'or de continuité
 - Les faits établis dans un tome (âges, liens de parenté, peurs, habitudes) ne
   doivent JAMAIS être contredits dans un tome suivant.
