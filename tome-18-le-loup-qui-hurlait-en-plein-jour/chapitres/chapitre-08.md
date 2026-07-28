@@ -34,7 +34,7 @@ Sofia et Souly, arrivés entre-temps sur le pas de la porte en pyjama, assistèr
 
 — Complètement, confirma Souly. Et Cyprien, le dresseur de chiens, a renversé le sien deux fois de suite sur un buffet, à sa compétition, pendant qu'il s'inquiétait pour sa chienne. On collectionne un peu les catastrophes attendrissantes, dans cette famille — et apparemment dans tout le village aussi.
 
-— Alors je suppose que je fais maintenant partie de la collection, dit Baptiste avec un pauvre sourire.
+— Alors je suppose que je fais maintenant partie de la collection, dit Baptiste, un pauvre sourire aux lèvres.
 
 — Officiellement, oui, dit Fabienne en riant encore. Tenez — on va planter ces edelweiss dans un pot, ici à la station, pour qu'ils repoussent racines et graines l'année prochaine, plutôt que de les jeter. Ça vous va, comme réparation symbolique ?
 
@@ -164,7 +164,7 @@ Il s'arrêta, le crayon en l'air, avant d'ajouter, en petites lettres, tout en b
 
 *Baptiste a offert des edelweiss protégés pour s'excuser d'avoir dérangé des loups protégés. Personne dans ce village ne fait jamais les choses à moitié.*
 
-Au dîner, ce soir-là, la table était plus animée que d'habitude : Cyprien était passé en fin d'après-midi apporter un fromage de sa fabrication en guise de remerciement supplémentaire, escorté par Frimousse et Grizou qui avaient reniflé consciencieusement chaque recoin du jardin avant de s'installer, sagement couchés, sous la table de la cuisine ; Isidore avait envoyé un message annonçant fièrement qu'il ajoutait « une sangle de transport renforcée » à son détecteur pour la veillée du lendemain ; et Baptiste, avant de repartir vers la vallée, avait promis de revenir dès l'aube du lendemain avec du café — du vrai, cette fois, pour tout le monde, en réparation collective de tous les cafés renversés de la semaine.
+Au dîner, ce soir-là, la table était plus animée que d'habitude : Cyprien était passé en fin d'après-midi apporter un fromage de sa fabrication en guise de remerciement supplémentaire, escorté par Frimousse et Gruyère qui avaient reniflé consciencieusement chaque recoin du jardin avant de s'installer, sagement couchés, sous la table de la cuisine ; Isidore avait envoyé un message annonçant fièrement qu'il ajoutait « une sangle de transport renforcée » à son détecteur pour la veillée du lendemain ; et Baptiste, avant de repartir vers la vallée, avait promis de revenir dès l'aube du lendemain avec du café — du vrai, cette fois, pour tout le monde, en réparation collective de tous les cafés renversés de la semaine.
 
 « Cette famille attire les catastrophes de café comme d'autres attirent les moustiques, observa Mamie Rose, en servant la soupe.
 

@@ -2,7 +2,7 @@
 
 Jour 5. Souly le nota dans son carnet avant même de sortir du lit, ajoutant aussitôt le calcul correspondant pour l'incident — dix jours — avec la satisfaction tranquille d'un homme qui maîtrise enfin son sujet.
 
-Dans la cuisine de la station, Mamie Rose beurrait des tartines avec une concentration qui n'avait d'égale que sa détermination à ne jamais les laisser brûler, pendant que Grand-oncle Théo, déjà habillé mais chaussé d'une seule pantoufle, fouillait consciencieusement les moindres recoins de la pièce.
+Dans la cuisine de la station, Mamie Rose beurrait des tartines en surveillant le grille-pain du coin de l'œil, bien décidée à ne jamais les laisser brûler, pendant que Grand-oncle Théo, déjà habillé mais chaussé d'une seule pantoufle, fouillait consciencieusement les moindres recoins de la pièce.
 
 « Tu cherches quoi, cette fois ? demanda Sofia, la bouche pleine de confiture.
 
@@ -60,7 +60,7 @@ Sofia attendit une suite qui ne vint pas.
 
 — Et personne n'a jamais su pourquoi ? demanda Souly, incrédule à l'idée qu'une règle puisse survivre des générations sans explication.
 
-— Personne, jusqu'à ce que Fabienne s'installe ici, dit Élie avec un petit sourire. Elle a commencé à me poser des questions sur cette règle, il y a deux ans, la première fois que je la lui ai racontée. Depuis, elle me demande régulièrement si j'ai de nouveaux détails à lui donner. Je crois qu'elle est en train de bâtir quelque chose avec ça, mais elle ne m'a jamais dit quoi exactement.
+— Personne, jusqu'à ce que Fabienne s'installe ici, dit Élie, un petit sourire aux lèvres. Elle a commencé à me poser des questions sur cette règle, il y a deux ans, la première fois que je la lui ai racontée. Depuis, elle me demande régulièrement si j'ai de nouveaux détails à lui donner. Je crois qu'elle est en train de bâtir quelque chose avec ça, mais elle ne m'a jamais dit quoi exactement.
 
 — Vous croyez que ça a un rapport avec les loups ? demanda Sofia.
 

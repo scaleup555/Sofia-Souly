@@ -2,7 +2,7 @@
 
 Jour 6. Souly l'annonça au petit-déjeuner avec son sérieux habituel, précisant aussitôt que l'incident remontait désormais à onze jours, information que personne à table n'avait explicitement demandée mais que tout le monde accueillit avec la résignation affectueuse propre aux familles.
 
-Dehors, le ciel s'était chargé de nuages bas accrochés aux sommets des Trois Cimes, et une petite pluie fine tombait sur le potager de la station, faisant ployer les tiges de tomates que Fabienne cultivait entre deux missions de terrain. Sofia, le nez collé à la fenêtre de la cuisine, observait la scène avec une fascination inexpliquée.
+Dehors, le ciel s'était chargé de nuages bas accrochés aux sommets des Trois Cimes, et une petite pluie fine tombait sur le potager de la station, faisant ployer les tiges de tomates que Fabienne cultivait entre deux missions de terrain. Sofia, le nez collé à la fenêtre de la cuisine, observait la scène sans ciller, incapable de détacher les yeux des tiges qui pliaient sous la pluie.
 
 « Il pleut sur les louveteaux, dit-elle, pensive.
 
@@ -16,7 +16,7 @@ Dehors, le ciel s'était chargé de nuages bas accrochés aux sommets des Trois 
 
 « Aujourd'hui, dit Fabienne en resservant du café à Théo, on va vérifier l'alibi de Cyprien pour de bon. Pas de suppositions. Des preuves, et plusieurs, si possible — une seule preuve, ça peut se tromper. Quatre preuves qui disent la même chose, c'est beaucoup plus solide. »
 
-Théo, qui avait suivi l'enquête avec un intérêt grandissant depuis deux jours — nostalgique, disait-il lui-même, de ses propres fouilles archéologiques, où l'on croisait rarement les techniciens réseau, mais où l'on recoupait beaucoup de sources —, se porta immédiatement volontaire.
+Théo, qui suivait l'enquête de plus près à chaque jour qui passait — nostalgique, disait-il lui-même, de ses propres fouilles archéologiques, où l'on croisait rarement les techniciens réseau, mais où l'on recoupait beaucoup de sources —, se porta immédiatement volontaire.
 
 « Je peux appeler l'organisateur de la compétition canine, si vous avez le numéro. J'ai fait ça toute ma carrière, vérifier des dates auprès d'institutions un peu sourcilleuses. »
 
@@ -40,7 +40,7 @@ Mamie Rose profita de l'instant pour resservir du café à tout le monde, y comp
 
 — Ça, je peux vous aider, j'ai une mémoire de greffier pour tout ce qui touche à ce concours, c'est même un peu une manie chez moi. Attendez, je regarde le registre... » Un bruit de papier froissé résonna dans le combiné. « Voilà, c'était il y a huit jours. Je me souviens très bien, il pleuvait des cordes, on a failli annuler.
 
-— Il y a huit jours, répéta Théo avec emphase, en levant un doigt triomphant vers Fabienne et les enfants — un geste qui, malheureusement, fit également glisser sa tasse de café tout juste remplie, laquelle se renversa avec une précision presque chirurgicale dans le sac à main ouvert de Mamie Rose, posé juste à côté de lui.
+— Il y a huit jours, répéta Théo en martelant chaque mot, un doigt triomphant levé vers Fabienne et les enfants — un geste qui, malheureusement, fit également glisser sa tasse de café tout juste remplie, laquelle se renversa avec une précision presque chirurgicale dans le sac à main ouvert de Mamie Rose, posé juste à côté de lui.
 
 — Théo ! » s'exclama Mamie Rose en récupérant son sac dégoulinant, tandis que Théo, encore au téléphone, tentait tant bien que mal de continuer la conversation d'une main tout en épongeant frénétiquement de l'autre avec la première serviette venue.
 
@@ -80,9 +80,9 @@ Elle fit défiler l'écran jusqu'à une page manuscrite, où l'on pouvait lire, 
 
 « Le vétérinaire ? dit Souly. Le jour même de l'incident, à 10h30 ? Mais l'incident a eu lieu à 11h42.
 
-— Exactement, dit Fabienne. Et le cabinet vétérinaire de Vallée-Verte se trouve à quarante-cinq minutes de route de Loubarèges. Si Cyprien avait un rendez-vous à 10h30 là-bas, il ne pouvait matériellement pas se trouver ici, près du troupeau d'Élie, à 11h42.
+— Exactement, dit Fabienne. Et le cabinet vétérinaire où il avait rendez-vous se trouve à quarante-cinq minutes de route de Loubarèges. Si Cyprien avait un rendez-vous à 10h30 là-bas, il ne pouvait matériellement pas se trouver ici, près du troupeau d'Élie, à 11h42.
 
-Souly fronça les sourcils, refaisant le calcul à voix basse. « Dix heures trente, plus quarante-cinq minutes de route... ça fait onze heures quinze, au plus tôt, pour repartir du cabinet. Même en roulant vite, il ne pouvait pas être ici avant midi.
+Souly fronça les sourcils, refaisant le calcul à voix basse. Dix heures trente, plus quarante-cinq minutes de route... ça fait onze heures quinze, au plus tôt, pour repartir du cabinet. Même en roulant vite, il ne pouvait pas être ici avant midi.
 
 — Exactement le raisonnement que je voulais vous entendre faire », dit Fabienne, visiblement ravie.
 
@@ -126,11 +126,11 @@ La ferme où logeait Cyprien se trouvait à l'écart du village, au bout d'un ch
 
 — Il ferait mieux, dit Théo. Sinon j'aurai renversé un café pour rien. »
 
-Cyprien accueillit la nouvelle avec un soulagement si visible qu'il faillit en laisser tomber le seau d'eau qu'il portait pour ses chiens.
+Cyprien faillit en laisser tomber le seau d'eau qu'il portait pour ses chiens.
 
 Autour de lui, deux patous massifs, blancs comme neige fraîche, redressèrent la tête à l'unisson, sentant confusément que quelque chose d'important venait de se passer, sans bien comprendre quoi.
 
-« Frimousse, Grizou, couchés », ordonna Cyprien d'une voix qui ne laissait aucune place au doute, et les deux chiens obéirent instantanément, sans quitter leur maître des yeux.
+« Frimousse, Gruyère, couchés », ordonna Cyprien d'une voix qui ne laissait aucune place au doute, et les deux chiens obéirent instantanément, sans quitter leur maître des yeux.
 
 « Vous êtes sûrs ? Complètement sûrs ?
 
@@ -146,7 +146,7 @@ Sofia, qui n'avait pas quitté les deux chiens des yeux depuis leur arrivée, s'
 
 « Je peux les caresser ?
 
-— Grizou, oui, il adore ça. Frimousse est un peu plus timide avec les inconnus, elle préfère observer d'abord. » Cyprien s'accroupit près de ses chiens. « Ce sont des patous, des chiens de protection. Pas des chiens de troupeau comme on l'imagine parfois — ils ne rassemblent pas les moutons, ils vivent avec eux, jour et nuit, depuis qu'ils sont tout petits. Le troupeau les considère presque comme des leurs.
+— Gruyère, oui, il adore ça. Frimousse est un peu plus timide avec les inconnus, elle préfère observer d'abord. » Cyprien s'accroupit près de ses chiens. « Ce sont des patous, des chiens de protection. Pas des chiens de troupeau comme on l'imagine parfois — ils ne rassemblent pas les moutons, ils vivent avec eux, jour et nuit, depuis qu'ils sont tout petits. Le troupeau les considère presque comme des leurs.
 
 — Et ça marche contre les loups ? demanda Souly.
 
@@ -162,7 +162,7 @@ Il alla chercher, dans la poche de sa veste, un petit sifflet argenté qu'il ten
 
 — Sans doute, oui, en théorie. Mais je n'utilise ce sifflet que dans l'enclos, jamais du côté du Pas du Berger, et jamais avant midi ni après le coucher du soleil, par principe. Fabienne me l'a confirmé ce matin par message : la fréquence ne porte de toute façon pas assez loin pour atteindre la crête depuis chez moi. C'est ce détail-là, en plus des quatre preuves, qui m'a définitivement tranquillisé. »
 
-Sofia caressa la tête de Grizou, qui ferma les yeux de contentement avec un soupir sonore qui fit rire toute la petite assemblée.
+Sofia caressa la tête de Gruyère, qui ferma les yeux de contentement avec un soupir sonore qui fit rire toute la petite assemblée.
 
 Sur le chemin du retour, Théo, en observant les enfants marcher devant lui, laissa échapper un petit rire.
 
@@ -178,7 +178,7 @@ Sur le chemin du retour, Théo, en observant les enfants marcher devant lui, lai
 
 — C'était hilarant, dit Sofia sans la moindre pitié. Mamie Rose va s'en souvenir toute sa vie.
 
-— C'est bien ce qui m'inquiète », soupira Théo, mais avec un sourire qui démentait complètement son inquiétude.
+— C'est bien ce qui m'inquiète », soupira Théo, un sourire démentant complètement son inquiétude.
 
 Ils retrouvèrent Fabienne et Mamie Rose à la station en fin d'après-midi, le sac à main de Mamie Rose désormais sec mais visiblement marqué à vie par l'incident, pendu par une bretelle au-dessus de la cuisinière comme un trophée de guerre dont personne n'osait se moquer ouvertement devant sa propriétaire.
 
@@ -208,7 +208,7 @@ Au dîner, l'ambiance était plus légère que la veille, la piste de Cyprien d�
 
 « Pas "enfin", corrigea gentiment Fabienne. Une chose à la fois, tu te souviens ? On a vérifié Cyprien avant de foncer vers Baptiste, et c'était la bonne méthode. Une enquête bien menée ne va jamais plus vite que ses preuves. »
 
-Théo, qui avait fini par obtenir l'entière contrition de Mamie Rose — moyennant la promesse renouvelée d'un sac à main neuf, avec poche extérieure pour le téléphone —, leva son verre d'eau avec une solennité manifestement excessive.
+Théo, qui avait fini par obtenir l'entière contrition de Mamie Rose — moyennant la promesse renouvelée d'un sac à main neuf, avec poche extérieure pour le téléphone —, leva son verre d'eau d'un geste bien plus solennel que nécessaire.
 
 « À Cyprien, innocenté. Et à mon futur sac à main de remplacement, qui n'aura, je l'espère, jamais à connaître un sort aussi tragique. »
 

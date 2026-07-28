@@ -124,7 +124,7 @@ Sofia, qui avait observé la scène en silence, s'approcha du technicien avec la
 
 — Très important, dit Baptiste. Ce qui rend tout ça encore plus difficile à digérer, en fait. J'ai voulu bien faire, et j'ai peut-être dérangé toute une famille de loups en même temps. »
 
-Fabienne griffonna quelques notes sur son propre carnet, puis se tourna vers les enfants avec une expression qui mêlait soulagement et gravité.
+Fabienne griffonna quelques notes sur son propre carnet, puis se tourna vers les enfants, le visage mêlant soulagement et gravité.
 
 « Bon. Je crois qu'on tient notre vraie cause. Mais il nous manque encore une confirmation directe — entendre, nous-mêmes, un hurlement de la meute, et vérifier s'il ressemble à celui de l'incident ou pas. Pour ça, il faudra une veillée nocturne, avec du matériel d'enregistrement.
 
@@ -168,7 +168,7 @@ Fabienne pouffa, incapable de se retenir, tandis que Sofia et Souly partaient ex
 
 — Un touriste fatigué, répéta Isidore, mi-vexé, mi-amusé, en se grattant la nuque sous sa casquette. Bon. Au moins, ça prouve que le cône capte bien les sons de loin et dans la bonne direction. C'est déjà ça. »
 
-Il rangea son trépied avec un soupir résigné, mais Fabienne, en l'aidant à replier son matériel, s'arrêta soudain, songeuse.
+Il rangea son trépied en poussant un soupir résigné, mais Fabienne, en l'aidant à replier son matériel, s'arrêta soudain, songeuse.
 
 « Isidore. Ton cône, là. Il capte vraiment très bien les sons directionnels ?
 
@@ -186,7 +186,7 @@ Le visage d'Isidore s'illumina d'un coup, d'une fierté presque enfantine.
 
 — Si tu es d'accord pour venir avec nous, dit Fabienne, ce serait même plus qu'utile. »
 
-Isidore hocha la tête si vigoureusement que sa casquette manqua tomber, et repartit vers le village en poussant sa brouette avec un entrain nouveau, comme si le poids de dix inventions ratées venait soudain de s'alléger d'un coup.
+Isidore hocha la tête si vigoureusement que sa casquette manqua tomber, et repartit vers le village en poussant sa brouette d'un pas nettement plus vif qu'à l'aller, comme si dix inventions ratées venaient tout juste de lui peser un peu moins lourd sur les épaules.
 
 Il était largement midi passé quand ils retrouvèrent enfin la station, affamés, les jambes lourdes de la double montée du matin. Mamie Rose avait préparé une omelette aux herbes et une salade du jardin, et Théo, en les voyant arriver dans cet état, ne put s'empêcher de sourire.
 
@@ -214,4 +214,4 @@ Sofia parut un instant songeuse, se demandant visiblement si, à huit ans, elle-
 
 Ce soir-là, Souly referma son carnet sur une note satisfaite : *Vraie cause probable identifiée : relais de Baptiste Sorlin, installé il y a treize jours, un jour avant l'incident (douze jours). Site de rendez-vous perturbé par le bruit des travaux. Confirmation nécessaire : veillée nocturne prévue dans deux jours, jour 9, avec le détecteur d'Isidore. Pas ce soir — Fabienne a été très claire.*
 
-Il souligna « pas ce soir » avec un petit sourire, se souvenant vaguement d'une histoire que Grand-oncle Théo leur avait racontée un jour, à propos d'un tome précédent où quelqu'un n'avait pas eu cette sagesse, puis referma son carnet, alluma sa veilleuse-grenouille, et s'endormit avant même d'avoir fini de se demander à quoi pourrait bien ressembler un hurlement de loup entendu de ses propres oreilles.
+Il souligna « pas ce soir », un petit sourire aux lèvres, se souvenant vaguement d'une histoire que Grand-oncle Théo leur avait racontée un jour, à propos d'un tome précédent où quelqu'un n'avait pas eu cette sagesse, puis referma son carnet, alluma sa veilleuse-grenouille, et s'endormit avant même d'avoir fini de se demander à quoi pourrait bien ressembler un hurlement de loup entendu de ses propres oreilles.

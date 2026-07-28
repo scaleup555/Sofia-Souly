@@ -52,11 +52,11 @@ Cyprien s'avança, un peu gêné par tous les regards tournés vers lui, mais re
 
 « Je tiens à dire, publiquement, que je comprends qu'on m'ait soupçonné, commença-t-il. Mon sifflet à ultrasons pouvait sembler une explication logique. Mais l'enquête — menée avec beaucoup plus de rigueur que je ne l'aurais imaginé de la part de deux enfants en vacances — a prouvé que je n'y étais pour rien. » Un petit rire parcourut l'assemblée. « J'en profite pour rappeler une chose importante : mes patous ne sont pas des loups. Je sais que ça peut prêter à confusion, surtout au crépuscule, de loin, mais un patou reste avec le troupeau en permanence, il ne chasse jamais les brebis, il les protège. Si vous voyez un grand chien blanc près d'un troupeau, ce n'est pas un danger — c'est exactement le contraire.
 
-— Et comment on fait la différence, de loin, si les deux sont gris-blanc dans la pénombre ? cria une voix depuis le fond de la place — celle d'un homme que Sofia reconnut comme le boulanger, croisé le premier jour.
+— Et comment on fait la différence, de loin, si les deux sont gris-blanc dans la pénombre ? cria une voix depuis le fond de la place — celle d'une femme que Sofia reconnut comme la boulangère, croisée dès les premiers jours de leur enquête.
 
 — Excellente question, dit Cyprien, visiblement ravi qu'on la lui pose. Un loup fuit dès qu'il aperçoit un humain, presque toujours. Un patou, lui, reste, parce que son travail, c'est justement de rester avec le troupeau, même quand des humains approchent. Si le chien ne bouge pas, c'est un patou. S'il détale, c'est un loup — et il n'y a de toute façon aucune raison d'avoir peur, parce qu'un loup qui voit un humain choisit presque toujours de partir en premier. »
 
-Le boulanger hocha la tête, satisfait, et un murmure d'approbation parcourut l'assemblée.
+La boulangère hocha la tête, satisfaite, et un murmure d'approbation parcourut l'assemblée.
 
 Cyprien fit un signe à ses trois chiens, restés sagement assis au pied de l'estrade, qui remuèrent la queue de concert, provoquant un attendrissement général dans la foule. La petite fille aux couettes rousses, restée fièrement en poste avec la laisse de Frimousse, salua la foule d'un geste solennel, visiblement persuadée que les applaudissements lui étaient au moins un peu destinés.
 

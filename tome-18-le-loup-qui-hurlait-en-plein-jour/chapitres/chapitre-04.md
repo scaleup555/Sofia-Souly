@@ -90,7 +90,7 @@ Fabienne posa une main rassurante sur son épaule.
 
 — Après, oui, dit Cyprien sans paraître y accorder d'importance particulière. Ça n'empêche pas que je pourrais très bien avoir dérangé la meute avant, avec mon sifflet, pendant les jours où j'étais là. Ce n'est pas une compétition trois jours plus tard qui prouve quoi que ce soit sur ce qui s'est passé avant. »
 
-Souly hocha la tête, notant la remarque sans relever qu'elle contenait, sans que Cyprien s'en rende compte lui-même, le tout premier fragment d'une preuve qui finirait par le disculper complètement.
+Souly hocha la tête, notant la remarque sans relever qu'elle contenait peut-être, sans que Cyprien s'en rende compte lui-même, un détail qui compterait plus qu'il n'y paraissait.
 
 Fabienne échangea un regard avec Souly qui en disait long : voilà, précisément, le genre de preuve vérifiable qu'ils cherchaient.
 
