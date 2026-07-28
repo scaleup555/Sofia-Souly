@@ -60,7 +60,7 @@ Sofia attendit une suite qui ne vint pas.
 
 — Et personne n'a jamais su pourquoi ? demanda Souly, incrédule à l'idée qu'une règle puisse survivre des générations sans explication.
 
-— Personne, jusqu'à ce que Fabienne s'installe ici, dit Élie, un petit sourire aux lèvres. Elle a commencé à me poser des questions sur cette règle, il y a deux ans, la première fois que je la lui ai racontée. Depuis, elle me demande régulièrement si j'ai de nouveaux détails à lui donner. Je crois qu'elle est en train de bâtir quelque chose avec ça, mais elle ne m'a jamais dit quoi exactement.
+— Personne, jusqu'à ce que Fabienne s'installe ici, dit Élie, la moustache frémissant d'amusement. Elle a commencé à me poser des questions sur cette règle, il y a deux ans, la première fois que je la lui ai racontée. Depuis, elle me demande régulièrement si j'ai de nouveaux détails à lui donner. Je crois qu'elle est en train de bâtir quelque chose avec ça, mais elle ne m'a jamais dit quoi exactement.
 
 — Vous croyez que ça a un rapport avec les loups ? demanda Sofia.
 

@@ -106,7 +106,7 @@ Fabienne les invita à entrer dans la station, où un mur entier était couvert 
 
 — C'est exactement pareil, en fait, dit Fabienne en riant. Bon, l'analogie a ses limites, mais l'idée est là. Le mot "alpha", d'ailleurs, le chercheur qui l'avait inventé a lui-même publiquement demandé, des décennies plus tard, qu'on arrête de l'utiliser, parce qu'il donnait une fausse image des loups. »
 
-Souly griffonna frénétiquement dans son carnet, sous-lignant deux fois « MYTHE DE L'ALPHA — FAUX », visiblement ravi d'avoir enfin quelque chose d'aussi définitif à écrire noir sur blanc.
+Souly griffonna frénétiquement dans son carnet, sous-lignant deux fois « MYTHE DE L'ALPHA — FAUX », ravi d'avoir enfin quelque chose d'aussi définitif à écrire noir sur blanc.
 
 Capucine, qui suivait la conversation depuis le canapé sans un mot, choisit ce moment pour ajouter, sur le même ton tranquille que si elle commentait la météo :
 
@@ -116,7 +116,7 @@ Capucine, qui suivait la conversation depuis le canapé sans un mot, choisit ce 
 
 — Je classe tout ce qui fait du bruit. Un mot, c'est du bruit, non ? »
 
-Souly n'avait, pour une fois, aucune réponse préparée, ce qui l'agaça visiblement plus que n'importe quel exercice de mathématiques.
+Souly n'avait, pour une fois, aucune réponse préparée, ce qui l'agaça plus que n'importe quel exercice de mathématiques.
 
 « Alors comment ils communiquent, dans une vraie meute, s'il n'y a pas de chef qui donne des ordres ? demanda-t-il, une fois remis.
 
@@ -260,7 +260,7 @@ Ils croisèrent Capucine, qui rentrait de son côté avec son père, un homme ro
 
 — C'est un compliment ou pas ?
 
-— C'est une observation, dit Capucine, sans se démonter — ce qui fit rire son père, qui n'avait pas dit un mot depuis dix minutes et n'allait visiblement pas en dire un de plus avant d'arriver chez lui.
+— C'est une observation, dit Capucine, sans se démonter — ce qui fit rire son père, qui n'avait pas dit un mot depuis dix minutes et n'allait pas en dire un de plus avant d'arriver chez lui.
 
 — Je vais m'améliorer, annonça Sofia. Demain, ce sera doré. Comme Écho.
 

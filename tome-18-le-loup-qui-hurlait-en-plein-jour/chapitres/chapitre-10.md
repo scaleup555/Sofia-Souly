@@ -58,7 +58,7 @@ Capucine hocha la tête, sérieuse.
 
 — Moi je trouve ça génial, dit Sofia.
 
-— Toi, dit Capucine, un demi-sourire aux lèvres, tu trouves génial à peu près tout ce qui sort de l'ordinaire. C'est différent.
+— Toi, dit Capucine, mi-amusée, tu trouves génial à peu près tout ce qui sort de l'ordinaire. C'est différent.
 
 — C'est vrai, admit Sofia. Mais là, en plus, c'est vraiment génial. »
 
@@ -172,7 +172,7 @@ Souly referma son carnet d'un geste solennel, comme s'il venait de clore une aff
 
 — Parce que parfois, dit Souly, la voix soudain grave, presque celle d'un adulte, on laisse les gens avoir leur poussière imaginaire. C'est une forme de politesse. »
 
-Sofia le regarda un instant, visiblement impressionnée malgré elle, avant de hocher lentement la tête, comme si cette phrase venait tout juste d'entrer dans sa propre collection de vérités importantes.
+Sofia le regarda un instant, impressionnée malgré elle, avant de hocher lentement la tête, comme si cette phrase venait tout juste d'entrer dans sa propre collection de vérités importantes.
 
 L'après-midi fut consacré à préparer la nouvelle qui allait, le lendemain, être annoncée officiellement au village entier lors de la Fête de la Transhumance. Fabienne convoqua tout le petit groupe autour de la grande carte de la station — Élie, Baptiste, Cyprien, Isidore, Capucine, Sofia et Souly serrés autour de la table — et déroula son plan point par point, comme une générale préparant une bataille amicale.
 
@@ -182,7 +182,7 @@ L'après-midi fut consacré à préparer la nouvelle qui allait, le lendemain, �
 
 — Votre détecteur rejoint le matériel permanent de la station, dit Fabienne en souriant. Devant tout le monde, demain. »
 
-Isidore porta une main à sa poitrine, visiblement ému, et dut se racler la gorge deux fois avant de retrouver une voix à peu près normale.
+Isidore porta une main à sa poitrine, ému, et dut se racler la gorge deux fois avant de retrouver une voix à peu près normale.
 
 « Après... » il compta rapidement sur ses doigts. « Après dix prototypes ratés, j'en ai enfin réussi un.
 

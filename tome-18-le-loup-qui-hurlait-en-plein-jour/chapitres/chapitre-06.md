@@ -84,7 +84,7 @@ Elle fit défiler l'écran jusqu'à une page manuscrite, où l'on pouvait lire, 
 
 Souly fronça les sourcils, refaisant le calcul à voix basse. Dix heures trente, plus quarante-cinq minutes de route... ça fait onze heures quinze, au plus tôt, pour repartir du cabinet. Même en roulant vite, il ne pouvait pas être ici avant midi.
 
-— Exactement le raisonnement que je voulais vous entendre faire », dit Fabienne, visiblement ravie.
+— Exactement le raisonnement que je voulais vous entendre faire », dit Fabienne, les yeux brillants.
 
 « Troisième preuve ! » s'écria Sofia, qui avait pris goût au jeu et comptait sur ses doigts avec application.
 
@@ -102,7 +102,7 @@ Elle posa son téléphone et croisa les bras, satisfaite.
 
 « Elle a même ajouté un détail amusant, poursuivit Fabienne en relisant le message. Cyprien aurait passé une bonne partie du déjeuner à s'inquiéter pour sa chienne, au point de renverser deux fois son café sur la table du buffet.
 
-— Deux fois ? répéta Sofia, un large sourire aux lèvres, en jetant un regard appuyé vers son grand-oncle. On dirait que le café et les enquêtes sur les loups ne font pas bon ménage, dans ce village.
+— Deux fois ? répéta Sofia, en jetant un regard appuyé et ravi vers son grand-oncle. On dirait que le café et les enquêtes sur les loups ne font pas bon ménage, dans ce village.
 
 — Je préfère ne pas commenter », dit Théo, la dignité d'un homme qui refusait catégoriquement toute solidarité avec un renverseur de café occasionnel.
 
@@ -114,7 +114,7 @@ Il referma son carnet d'un geste sec.
 
 « Cyprien ne peut pas être responsable de l'incident. Il était ailleurs, prouvé quatre fois. »
 
-Fabienne hocha la tête, visiblement soulagée pour Cyprien autant que frustrée de ne pas avoir avancé sur la vraie cause.
+Fabienne hocha la tête, soulagée pour Cyprien autant que frustrée de ne pas avoir avancé sur la vraie cause.
 
 « C'est une très bonne nouvelle pour lui, et une enquête qui repart de zéro pour nous. » Elle se tourna vers la fenêtre, en direction de la crête. « Ce qui nous laisse avec une seule autre piste sérieuse pour l'instant : le relais téléphonique de Baptiste Sorlin. »
 
@@ -180,7 +180,7 @@ Sur le chemin du retour, Théo, en observant les enfants marcher devant lui, lai
 
 — C'est bien ce qui m'inquiète », soupira Théo, un sourire démentant complètement son inquiétude.
 
-Ils retrouvèrent Fabienne et Mamie Rose à la station en fin d'après-midi, le sac à main de Mamie Rose désormais sec mais visiblement marqué à vie par l'incident, pendu par une bretelle au-dessus de la cuisinière comme un trophée de guerre dont personne n'osait se moquer ouvertement devant sa propriétaire.
+Ils retrouvèrent Fabienne et Mamie Rose à la station en fin d'après-midi, le sac à main de Mamie Rose désormais sec mais marqué à vie par l'incident, pendu par une bretelle au-dessus de la cuisinière comme un trophée de guerre dont personne n'osait se moquer ouvertement devant sa propriétaire.
 
 « Alors ? demanda Fabienne. Cyprien a bien pris la nouvelle ?
 

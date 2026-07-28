@@ -26,7 +26,7 @@ Fabienne les attendait dans la cuisine, une carte topographique du massif des Tr
 
 — Reste plutôt ici avec moi, proposa Mamie Rose, avec la fermeté douce de quelqu'un qui connaissait son frère depuis plus de soixante ans. Deux jambes fatiguées valent mieux qu'une cheville tordue à mi-montagne. On ira voir ce relais un autre jour, tous les deux, à notre rythme. »
 
-Théo se rassit, visiblement partagé entre le soulagement et une pointe de déception, tandis que Sofia lui tapotait affectueusement l'épaule en passant.
+Théo se rassit, partagé entre le soulagement et une pointe de déception, tandis que Sofia lui tapotait affectueusement l'épaule en passant.
 
 La montée jusqu'à la crête au-dessus du Pas du Berger prit près de deux heures, à travers une forêt de plus en plus dense, où les troncs se resserraient et où la lumière du matin peinait à percer le feuillage. L'air sentait la résine et la terre humide, et le seul bruit, par endroits, était celui de leurs propres pas sur les aiguilles de pin.
 
@@ -50,7 +50,7 @@ La montée jusqu'à la crête au-dessus du Pas du Berger prit près de deux heur
 
 — Dans les cas les plus graves, les adultes déplacent les petits vers un autre site. Parfois un par un, portés par la peau du cou, en se repérant entre eux à l'aide de hurlements de contact — pour rester coordonnés dans la confusion. C'est rare, et généralement, ça se passe la nuit, discrètement. » Fabienne s'arrêta un instant sur le sentier, le regard tourné vers la crête. « Mais dans de très rares cas documentés, si la perturbation est vraiment soudaine, ce déplacement peut avoir lieu en plein jour.
 
-— Comme notre incident, dit Sofia, qui commençait visiblement à voir où tout ça menait.
+— Comme notre incident, dit Sofia, qui commençait à voir où tout ça menait.
 
 — Comme notre incident, peut-être, dit Fabienne, prudente. On n'en est pas encore sûrs. C'est justement ce qu'on va essayer de vérifier aujourd'hui. »
 
@@ -86,7 +86,7 @@ Un homme en gilet orange, occupé à vérifier des câbles au pied de la structu
 
 — Vous n'avez rien fait de lâche, Baptiste, dit Fabienne. Vous avez fait votre travail, avec l'autorisation de la mairie. On va juste vérifier les faits, ensemble, calmement. Quand exactement avez-vous commencé l'installation de ce relais ?
 
-— Il y a treize jours, dit-il sans hésiter — visiblement, la question l'obsédait déjà lui-même. Trois jours de travaux, générateur, perceuse, câblage. On a terminé le premier jour, avec l'équipe complète, du matin jusqu'au soir.
+— Il y a treize jours, dit-il sans hésiter, la question l'obsédait déjà lui-même depuis un moment. Trois jours de travaux, générateur, perceuse, câblage. On a terminé le premier jour, avec l'équipe complète, du matin jusqu'au soir.
 
 — Treize jours, répéta Souly en écrivant frénétiquement. Et l'incident a eu lieu il y a douze jours. »
 
@@ -210,8 +210,8 @@ Au dîner, ce soir-là, la conversation tourna presque entièrement autour du re
 
 — On la préviendra demain, promit Fabienne. Mais une veillée nocturne, en pleine forêt, ce n'est pas vraiment un endroit pour une enfant de neuf ans, même douée pour reconnaître les couleurs des sons. On lui fera écouter l'enregistrement dès le lendemain matin, ça, en revanche, c'est promis. »
 
-Sofia parut un instant songeuse, se demandant visiblement si, à huit ans, elle-même avait sa place dans une forêt la nuit — avant de se rappeler qu'elle y allait déjà, elle, et que la logique des adultes restait décidément difficile à suivre.
+Sofia parut un instant songeuse, se demandant si, à huit ans, elle-même avait sa place dans une forêt la nuit — avant de se rappeler qu'elle y allait déjà, elle, et que la logique des adultes restait décidément difficile à suivre.
 
 Ce soir-là, Souly referma son carnet sur une note satisfaite : *Vraie cause probable identifiée : relais de Baptiste Sorlin, installé il y a treize jours, un jour avant l'incident (douze jours). Site de rendez-vous perturbé par le bruit des travaux. Confirmation nécessaire : veillée nocturne prévue dans deux jours, jour 9, avec le détecteur d'Isidore. Pas ce soir — Fabienne a été très claire.*
 
-Il souligna « pas ce soir », un petit sourire aux lèvres, se souvenant vaguement d'une histoire que Grand-oncle Théo leur avait racontée un jour, à propos d'un tome précédent où quelqu'un n'avait pas eu cette sagesse, puis referma son carnet, alluma sa veilleuse-grenouille, et s'endormit avant même d'avoir fini de se demander à quoi pourrait bien ressembler un hurlement de loup entendu de ses propres oreilles.
+Il souligna « pas ce soir », amusé malgré lui, se souvenant vaguement d'une histoire que Grand-oncle Théo leur avait racontée un jour, à propos d'un tome précédent où quelqu'un n'avait pas eu cette sagesse, puis referma son carnet, alluma sa veilleuse-grenouille, et s'endormit avant même d'avoir fini de se demander à quoi pourrait bien ressembler un hurlement de loup entendu de ses propres oreilles.

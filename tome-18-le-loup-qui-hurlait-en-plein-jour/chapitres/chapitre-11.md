@@ -8,11 +8,11 @@ Jour 11. Souly ne prit même pas la peine de noter le décompte des jours ce mat
 
 — Attends, sérieux ? » Sofia le regarda, la bouche entrouverte de stupeur théâtrale. « Souly Duchêne-je-ne-sais-plus-quoi renonce à un chiffre ? Il faut noter ça dans le carnet.
 
-— Ironiquement, dit Souly, un demi-sourire aux lèvres, ce serait exactement ce que je noterais, d'habitude. »
+— Ironiquement, dit Souly, presque amusé de lui-même, ce serait exactement ce que je noterais, d'habitude. »
 
 « C'est le plus grand jour de l'année ici, expliqua Fabienne en enfilant une veste plus habillée que d'habitude. Tout le monde descend des estives avec les bêtes, et tout le village fête ça ensemble — la fin de la saison, les récoltes, les retrouvailles. »
 
-Sur la place, une foule s'était déjà rassemblée pour accueillir le troupeau communal, mené par un Élie visiblement ému, sa canne remplacée pour l'occasion par un bâton de berger orné de rubans, suivi par des dizaines de brebis dont les clochettes composaient une mélodie assourdissante mais joyeuse. Des enfants couraient entre les jambes des adultes, des grand-mères applaudissaient depuis leurs fenêtres, et quelque part, un coq, visiblement dépassé par l'agitation, chantait à contretemps depuis deux bonnes minutes sans que personne ne s'en formalise.
+Sur la place, une foule s'était déjà rassemblée pour accueillir le troupeau communal, mené par un Élie ému aux larmes, sa canne remplacée pour l'occasion par un bâton de berger orné de rubans, suivi par des dizaines de brebis dont les clochettes composaient une mélodie assourdissante mais joyeuse. Des enfants couraient entre les jambes des adultes, des grand-mères applaudissaient depuis leurs fenêtres, et quelque part, un coq complètement dépassé par l'agitation chantait à contretemps depuis deux bonnes minutes sans que personne ne s'en formalise.
 
 « Regarde, dit Sofia en tirant la manche de Souly. Cyprien est là, avec ses patous. »
 
@@ -54,17 +54,17 @@ Cyprien s'avança, un peu gêné par tous les regards tournés vers lui, mais re
 
 — Et comment on fait la différence, de loin, si les deux sont gris-blanc dans la pénombre ? cria une voix depuis le fond de la place — celle d'une femme que Sofia reconnut comme la boulangère, croisée dès les premiers jours de leur enquête.
 
-— Excellente question, dit Cyprien, visiblement ravi qu'on la lui pose. Un loup fuit dès qu'il aperçoit un humain, presque toujours. Un patou, lui, reste, parce que son travail, c'est justement de rester avec le troupeau, même quand des humains approchent. Si le chien ne bouge pas, c'est un patou. S'il détale, c'est un loup — et il n'y a de toute façon aucune raison d'avoir peur, parce qu'un loup qui voit un humain choisit presque toujours de partir en premier. »
+— Excellente question, dit Cyprien, en se redressant fièrement. Un loup fuit dès qu'il aperçoit un humain, presque toujours. Un patou, lui, reste, parce que son travail, c'est justement de rester avec le troupeau, même quand des humains approchent. Si le chien ne bouge pas, c'est un patou. S'il détale, c'est un loup — et il n'y a de toute façon aucune raison d'avoir peur, parce qu'un loup qui voit un humain choisit presque toujours de partir en premier. »
 
 La boulangère hocha la tête, satisfaite, et un murmure d'approbation parcourut l'assemblée.
 
-Cyprien fit un signe à ses trois chiens, restés sagement assis au pied de l'estrade, qui remuèrent la queue de concert, provoquant un attendrissement général dans la foule. La petite fille aux couettes rousses, restée fièrement en poste avec la laisse de Frimousse, salua la foule d'un geste solennel, visiblement persuadée que les applaudissements lui étaient au moins un peu destinés.
+Cyprien fit un signe à ses trois chiens, restés sagement assis au pied de l'estrade, qui remuèrent la queue de concert, provoquant un attendrissement général dans la foule. La petite fille aux couettes rousses, restée fièrement en poste avec la laisse de Frimousse, salua la foule d'un geste solennel, persuadée que les applaudissements lui étaient au moins un peu destinés.
 
 Baptiste monta ensuite, un peu plus raide, le bouquet d'edelweiss replanté encore frais dans sa mémoire. Il tira sur les manches de sa veste, comme s'il espérait qu'un geste suffirait à calmer sa nervosité, puis se lança.
 
 « J'ai installé ce relais sans savoir qu'il se trouvait près d'un site aussi sensible, dit-il. C'était une erreur, pas une intention. Certains d'entre vous m'en ont voulu, à raison, et je ne vous en tiens absolument pas rigueur. Je tenais à vous annoncer, ici, publiquement, que la mairie et moi avons déjà identifié un nouvel emplacement, de l'autre côté de la crête, à plus de huit cents mètres du Pas du Berger. Les travaux de déplacement commenceront dès la semaine prochaine, en concertation complète avec la station de suivi. Et pour ceux qui craignent de perdre en réseau téléphonique le temps des travaux — » il marqua une pause, presque comique tant elle semblait calculée, « — sachez que j'ai personnellement vérifié : la nouvelle antenne portera même un peu plus loin que l'ancienne. »
 
-Quelques rires accueillirent cette dernière précision, suivis d'applaudissements nourris, et Élie, resté au premier rang, hocha la tête, visiblement satisfait.
+Quelques rires accueillirent cette dernière précision, suivis d'applaudissements nourris, et Élie, resté au premier rang, hocha la tête, satisfait.
 
 « Enfin, dit Fabienne, je voudrais que tout le village sache officiellement quelque chose qu'Élie garde depuis des décennies, et qu'on vient tout juste de confirmer scientifiquement. »
 
@@ -74,7 +74,7 @@ Elle se tourna vers le vieux berger, qui monta à son tour, non sans réticence,
 
 Un silence recueilli suivit ces mots, avant qu'un tonnerre d'applaudissements ne s'élève, plus long que tous les précédents. Quelqu'un, quelque part dans la foule, cria « Pour la grand-mère d'Élie ! », et toute la place reprit le toast en riant.
 
-Le maire, visiblement ému, s'avança pour serrer la main d'Élie sous une nouvelle salve d'applaudissements, avant d'ajouter, presque en aparté mais suffisamment fort pour que tout le monde entende :
+Le maire, la voix soudain moins assurée, s'avança pour serrer la main d'Élie sous une nouvelle salve d'applaudissements, avant d'ajouter, presque en aparté mais suffisamment fort pour que tout le monde entende :
 
 « Et sachez qu'on aura désormais un outil supplémentaire pour surveiller tout ça de près. »
 
@@ -88,7 +88,7 @@ Isidore, rouge de fierté, ôta sa casquette dans un geste presque théâtral, a
 
 « Après dix échecs, dit-il, la voix un peu tremblante, j'ai enfin réussi quelque chose d'utile. Mon père serait content, je crois. »
 
-Un silence chaleureux accueillit ces mots. Élie, depuis le premier rang, posa une main brève sur l'épaule d'Isidore lorsque celui-ci redescendit de l'estrade, sans un mot, un geste que le vieux berger réservait visiblement à de rares occasions.
+Un silence chaleureux accueillit ces mots. Élie, depuis le premier rang, posa une main brève sur l'épaule d'Isidore lorsque celui-ci redescendit de l'estrade, sans un mot, un geste que le vieux berger réservait à de rares occasions.
 
 La fête reprit alors son cours, musique, rires, et une longue tablée commune où villageois et invités se mêlèrent sans distinction, croulant bientôt sous les plateaux de fromages de montagne, les tourtes salées encore fumantes et les carafes de limonade maison que les enfants du village se disputaient à qui en aurait le plus.
 
@@ -118,13 +118,13 @@ Elle traversa la place sans un regard en arrière, sous les yeux d'un village en
 
 « Écho, dit-elle d'une voix solennelle qui porta jusqu'aux dernières tables, tu as protégé tes louveteaux toute seule, en plein jour, avec tout le courage du monde. »
 
-Un murmure ému parcourut l'assemblée. Fabienne, au bord de l'estrade, porta une main à son cœur. Même le maire, sur le côté, hocha gravement la tête, visiblement touché par la solennité du moment.
+Un murmure ému parcourut l'assemblée. Fabienne, au bord de l'estrade, porta une main à son cœur. Même le maire, sur le côté, hocha gravement la tête, touché par la solennité du moment.
 
 Sofia marqua une pause théâtrale, le visage soudain d'un sérieux presque cérémonial, avant d'ajouter :
 
 « Est-ce que ça veut dire que t'es cheftaine ? »
 
-Il y eut un silence stupéfait de deux secondes — deux secondes pendant lesquelles on aurait pu entendre une clochette de brebis tinter à l'autre bout du village — puis toute la place éclata d'un rire immense, un rire qui roula de table en table comme une vague, impossible à arrêter une fois lancée. Fabienne fut la première pliée en deux, une main plaquée sur la bouche, incapable de reprendre son souffle. Souly cacha son visage dans ses mains en gémissant « Sofia, non », avant de céder lui-même au fou rire général, ce qui ne fit qu'amplifier les rires autour de lui. Élie riait si fort qu'il dut s'appuyer sur son bâton de berger fleuri pour ne pas tomber, en répétant entre deux quintes « cheftaine, elle a dit cheftaine », visiblement plus ravi à chaque répétition qu'à la précédente. Cyprien, hilare, dut retenir ses trois patous qui, sentant l'agitation générale, s'étaient mis à aboyer joyeusement sans comprendre pourquoi. Même le maire, qui tentait vaillamment de garder une contenance officielle, finit par abandonner et rire à son tour, le micro toujours à la main, ce qui diffusa son rire dans tous les haut-parleurs de la place et déclencha une deuxième vague de rires, plus forte encore que la première.
+Il y eut un silence stupéfait de deux secondes — deux secondes pendant lesquelles on aurait pu entendre une clochette de brebis tinter à l'autre bout du village — puis toute la place éclata d'un rire immense, un rire qui roula de table en table comme une vague, impossible à arrêter une fois lancée. Fabienne fut la première pliée en deux, une main plaquée sur la bouche, incapable de reprendre son souffle. Souly cacha son visage dans ses mains en gémissant « Sofia, non », avant de céder lui-même au fou rire général, ce qui ne fit qu'amplifier les rires autour de lui. Élie riait si fort qu'il dut s'appuyer sur son bâton de berger fleuri pour ne pas tomber, en répétant entre deux quintes « cheftaine, elle a dit cheftaine », plus ravi à chaque répétition qu'à la précédente. Cyprien, hilare, dut retenir ses trois patous qui, sentant l'agitation générale, s'étaient mis à aboyer joyeusement sans comprendre pourquoi. Même le maire, qui tentait vaillamment de garder une contenance officielle, finit par abandonner et rire à son tour, le micro toujours à la main, ce qui diffusa son rire dans tous les haut-parleurs de la place et déclencha une deuxième vague de rires, plus forte encore que la première.
 
 « Sofia, dit finalement Fabienne, en essuyant une larme de rire, techniquement, une louve dominante ne porte pas de foulard.
 

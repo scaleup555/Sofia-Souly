@@ -94,7 +94,7 @@ Derrière eux, Isidore trébucha légèrement sur une racine, son détecteur cog
 
 — Compris, chef. »
 
-Baptiste, qui fermait la marche, échangea un regard avec Souly, un demi-sourire aux lèvres malgré la tension.
+Baptiste, qui fermait la marche, échangea un regard avec Souly, presque amusé malgré la tension.
 
 « On dirait un peu une expédition de cambrioleurs maladroits, non ?
 

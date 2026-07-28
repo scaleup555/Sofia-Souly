@@ -142,7 +142,7 @@ Un attroupement s'était formé un peu plus loin sur la place, autour d'un homme
 
 — Je parle au sens figuré, madame. »
 
-Souly, carnet ouvert et crayon en action, s'approcha suffisamment pour capter la fin de la conversation, pendant que Sofia, elle, s'était arrêtée devant l'épicerie voisine, où une affichette manuscrite annonçait : « RÉUNION EXCEPTIONNELLE DU CONSEIL — SUJET : L'INCIDENT — Salle des fêtes, 18h », avec le mot « INCIDENT » souligné trois fois, à l'encre rouge, par une main visiblement très énervée.
+Souly, carnet ouvert et crayon en action, s'approcha suffisamment pour capter la fin de la conversation, pendant que Sofia, elle, s'était arrêtée devant l'épicerie voisine, où une affichette manuscrite annonçait : « RÉUNION EXCEPTIONNELLE DU CONSEIL — SUJET : L'INCIDENT — Salle des fêtes, 18h », avec le mot « INCIDENT » souligné trois fois, à l'encre rouge, par une main très énervée.
 
 « Ils ont même fait une affiche, dit-elle, impressionnée.
 
@@ -264,7 +264,7 @@ Sofia, qui avait fini par abandonner son entraînement de hurlement pour s'attaq
 
 — Une enquête, ça ne marche pas comme une histoire, Sofia, dit Souly, excédé.
 
-— Tout marche comme une histoire, en fait, si on y réfléchit bien, répondit Sofia, la bouche pleine de biscuit, avant de retourner à son goûter, visiblement persuadée d'avoir dit quelque chose de définitif. »
+— Tout marche comme une histoire, en fait, si on y réfléchit bien, répondit Sofia, la bouche pleine de biscuit, avant de retourner à son goûter, persuadée d'avoir dit quelque chose de définitif. »
 
 Souly griffonna la phrase de Capucine presque mot pour mot dans son carnet, avant de refermer la page en fin de journée.
 

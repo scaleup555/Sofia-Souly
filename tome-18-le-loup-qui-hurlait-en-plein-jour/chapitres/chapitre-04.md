@@ -100,7 +100,7 @@ Fabienne échangea un regard avec Souly qui en disait long : voilà, préciséme
 
 Le plus jeune des trois patous, profitant de la pause dans la conversation, avait entrepris de mâchouiller consciencieusement le lacet de la botte gauche de Cyprien, qui ne s'en aperçut qu'au moment de faire un pas et de manquer trébucher.
 
-« Réglisse ! Non ! » Il récupéra son lacet à moitié détrempé, visiblement habitué à ces petits dégâts quotidiens. « Celui-là, il mâchouille tout ce qui traîne. J'ai déjà perdu deux paires de gants et une télécommande.
+« Réglisse ! Non ! » Il récupéra son lacet à moitié détrempé, habitué à ces petits dégâts quotidiens. « Celui-là, il mâchouille tout ce qui traîne. J'ai déjà perdu deux paires de gants et une télécommande.
 
 — Il s'appelle Réglisse ? dit Sofia, ravie. C'est un super nom pour un chien blanc.
 
@@ -110,7 +110,7 @@ Le plus jeune des trois patous, profitant de la pause dans la conversation, avai
 
 — La grande, là, qui nous regarde comme si on l'ennuyait profondément, c'est Frimousse. Trois ans, la plus sérieuse des trois, ma meilleure élève. Et le mâle un peu en retrait, qui préfère observer plutôt qu'agir, c'est Gruyère. Ne me demandez pas qui choisit les noms dans cette famille, ce n'est pas moi.
 
-— Gruyère, répéta Souly, qui trouvait visiblement le nom aussi improbable que réussi.
+— Gruyère, répéta Souly, qui trouvait le nom aussi improbable que réussi.
 
 — Il a des taches qui ressemblent à des trous, expliqua Cyprien. Ça s'imposait. »
 

@@ -72,11 +72,11 @@ Cyprien arriva ensuite, ses trois patous sur les talons, Frimousse en tête, la 
 
 — Statistiquement, répéta Souly, ravi qu'on emploie ce mot devant lui, c'est un argument que j'apprécie beaucoup. »
 
-Isidore, lui, attendait un peu à l'écart, visiblement nerveux, un petit paquet enveloppé de papier journal serré contre lui.
+Isidore, lui, attendait un peu à l'écart, nerveux, un petit paquet enveloppé de papier journal serré contre lui.
 
 « J'ai fait ça cette nuit, dit-il en le tendant à Souly, presque timidement. Enfin. Cette nuit et une bonne partie de l'après-midi d'hier, si on compte tout. »
 
-Souly déballa le paquet : un carnet relié de cuir, à la couverture épaisse et un peu irrégulière, visiblement façonnée à la main.
+Souly déballa le paquet : un carnet relié de cuir, à la couverture épaisse et un peu irrégulière, façonnée à la main.
 
 « C'est pour ton prochain tableau chronologique, mon garçon, expliqua Isidore, la voix un peu tremblante. Tu en auras sûrement besoin, où que t'emmène ta prochaine enquête. Et cette fois, le cuir ne craint pas la pluie. J'ai vérifié. Deux fois.
 
@@ -114,7 +114,7 @@ Sofia, sincèrement émue — un état suffisamment rare chez elle pour que Soul
 
 « Je vais enregistrer plein de trucs. Et je te dirai leurs couleurs, moi aussi, même si je suis nulle pour ça.
 
-— Personne n'est nul pour ça, dit Capucine, un vrai sourire aux lèvres. C'est juste une question d'écoute.
+— Personne n'est nul pour ça, dit Capucine, radieuse. C'est juste une question d'écoute.
 
 — On s'écrit ? demanda Sofia. Je t'enverrai des enregistrements, et toi tu me dis leurs couleurs.
 
@@ -124,7 +124,7 @@ Au moment de monter dans la camionnette, alors que Théo vérifiait pour la troi
 
 « J'ai quelque chose pour vous deux. » Elle déplia un morceau de tissu bleu, un simple foulard, brodé à la hâte d'un petit loup stylisé dans un coin. « Ce n'est pas un vrai foulard de Louveteaux, précisa-t-elle avec un clin d'œil vers Sofia, mais j'ai pensé que ça pourrait faire l'affaire. »
 
-Sofia le prit du bout des doigts, comme une conservatrice de musée manipulant une pièce rare, l'examina sous toutes les coutures, avant de le nouer autour de son cou, le menton levé, visiblement très fière du résultat.
+Sofia le prit du bout des doigts, comme une conservatrice de musée manipulant une pièce rare, l'examina sous toutes les coutures, avant de le nouer autour de son cou, le menton levé, très fière du résultat.
 
 « Ça veut dire que je suis officiellement Louveteau, maintenant ? Ou louveteau ? Je sais toujours pas lequel des deux je préfère.
 

@@ -375,7 +375,7 @@ Fabienne les invita à entrer dans la station, où un mur entier était couvert 
 
 — C'est exactement pareil, en fait, dit Fabienne en riant. Bon, l'analogie a ses limites, mais l'idée est là. Le mot "alpha", d'ailleurs, le chercheur qui l'avait inventé a lui-même publiquement demandé, des décennies plus tard, qu'on arrête de l'utiliser, parce qu'il donnait une fausse image des loups. »
 
-Souly griffonna frénétiquement dans son carnet, sous-lignant deux fois « MYTHE DE L'ALPHA — FAUX », visiblement ravi d'avoir enfin quelque chose d'aussi définitif à écrire noir sur blanc.
+Souly griffonna frénétiquement dans son carnet, sous-lignant deux fois « MYTHE DE L'ALPHA — FAUX », ravi d'avoir enfin quelque chose d'aussi définitif à écrire noir sur blanc.
 
 Capucine, qui suivait la conversation depuis le canapé sans un mot, choisit ce moment pour ajouter, sur le même ton tranquille que si elle commentait la météo :
 
@@ -385,7 +385,7 @@ Capucine, qui suivait la conversation depuis le canapé sans un mot, choisit ce 
 
 — Je classe tout ce qui fait du bruit. Un mot, c'est du bruit, non ? »
 
-Souly n'avait, pour une fois, aucune réponse préparée, ce qui l'agaça visiblement plus que n'importe quel exercice de mathématiques.
+Souly n'avait, pour une fois, aucune réponse préparée, ce qui l'agaça plus que n'importe quel exercice de mathématiques.
 
 « Alors comment ils communiquent, dans une vraie meute, s'il n'y a pas de chef qui donne des ordres ? demanda-t-il, une fois remis.
 
@@ -529,7 +529,7 @@ Ils croisèrent Capucine, qui rentrait de son côté avec son père, un homme ro
 
 — C'est un compliment ou pas ?
 
-— C'est une observation, dit Capucine, sans se démonter — ce qui fit rire son père, qui n'avait pas dit un mot depuis dix minutes et n'allait visiblement pas en dire un de plus avant d'arriver chez lui.
+— C'est une observation, dit Capucine, sans se démonter — ce qui fit rire son père, qui n'avait pas dit un mot depuis dix minutes et n'allait pas en dire un de plus avant d'arriver chez lui.
 
 — Je vais m'améliorer, annonça Sofia. Demain, ce sera doré. Comme Écho.
 
@@ -682,7 +682,7 @@ Un attroupement s'était formé un peu plus loin sur la place, autour d'un homme
 
 — Je parle au sens figuré, madame. »
 
-Souly, carnet ouvert et crayon en action, s'approcha suffisamment pour capter la fin de la conversation, pendant que Sofia, elle, s'était arrêtée devant l'épicerie voisine, où une affichette manuscrite annonçait : « RÉUNION EXCEPTIONNELLE DU CONSEIL — SUJET : L'INCIDENT — Salle des fêtes, 18h », avec le mot « INCIDENT » souligné trois fois, à l'encre rouge, par une main visiblement très énervée.
+Souly, carnet ouvert et crayon en action, s'approcha suffisamment pour capter la fin de la conversation, pendant que Sofia, elle, s'était arrêtée devant l'épicerie voisine, où une affichette manuscrite annonçait : « RÉUNION EXCEPTIONNELLE DU CONSEIL — SUJET : L'INCIDENT — Salle des fêtes, 18h », avec le mot « INCIDENT » souligné trois fois, à l'encre rouge, par une main très énervée.
 
 « Ils ont même fait une affiche, dit-elle, impressionnée.
 
@@ -804,7 +804,7 @@ Sofia, qui avait fini par abandonner son entraînement de hurlement pour s'attaq
 
 — Une enquête, ça ne marche pas comme une histoire, Sofia, dit Souly, excédé.
 
-— Tout marche comme une histoire, en fait, si on y réfléchit bien, répondit Sofia, la bouche pleine de biscuit, avant de retourner à son goûter, visiblement persuadée d'avoir dit quelque chose de définitif. »
+— Tout marche comme une histoire, en fait, si on y réfléchit bien, répondit Sofia, la bouche pleine de biscuit, avant de retourner à son goûter, persuadée d'avoir dit quelque chose de définitif. »
 
 Souly griffonna la phrase de Capucine presque mot pour mot dans son carnet, avant de refermer la page en fin de journée.
 
@@ -917,7 +917,7 @@ Fabienne échangea un regard avec Souly qui en disait long : voilà, préciséme
 
 Le plus jeune des trois patous, profitant de la pause dans la conversation, avait entrepris de mâchouiller consciencieusement le lacet de la botte gauche de Cyprien, qui ne s'en aperçut qu'au moment de faire un pas et de manquer trébucher.
 
-« Réglisse ! Non ! » Il récupéra son lacet à moitié détrempé, visiblement habitué à ces petits dégâts quotidiens. « Celui-là, il mâchouille tout ce qui traîne. J'ai déjà perdu deux paires de gants et une télécommande.
+« Réglisse ! Non ! » Il récupéra son lacet à moitié détrempé, habitué à ces petits dégâts quotidiens. « Celui-là, il mâchouille tout ce qui traîne. J'ai déjà perdu deux paires de gants et une télécommande.
 
 — Il s'appelle Réglisse ? dit Sofia, ravie. C'est un super nom pour un chien blanc.
 
@@ -927,7 +927,7 @@ Le plus jeune des trois patous, profitant de la pause dans la conversation, avai
 
 — La grande, là, qui nous regarde comme si on l'ennuyait profondément, c'est Frimousse. Trois ans, la plus sérieuse des trois, ma meilleure élève. Et le mâle un peu en retrait, qui préfère observer plutôt qu'agir, c'est Gruyère. Ne me demandez pas qui choisit les noms dans cette famille, ce n'est pas moi.
 
-— Gruyère, répéta Souly, qui trouvait visiblement le nom aussi improbable que réussi.
+— Gruyère, répéta Souly, qui trouvait le nom aussi improbable que réussi.
 
 — Il a des taches qui ressemblent à des trous, expliqua Cyprien. Ça s'imposait. »
 
@@ -1100,7 +1100,7 @@ Sofia attendit une suite qui ne vint pas.
 
 — Et personne n'a jamais su pourquoi ? demanda Souly, incrédule à l'idée qu'une règle puisse survivre des générations sans explication.
 
-— Personne, jusqu'à ce que Fabienne s'installe ici, dit Élie, un petit sourire aux lèvres. Elle a commencé à me poser des questions sur cette règle, il y a deux ans, la première fois que je la lui ai racontée. Depuis, elle me demande régulièrement si j'ai de nouveaux détails à lui donner. Je crois qu'elle est en train de bâtir quelque chose avec ça, mais elle ne m'a jamais dit quoi exactement.
+— Personne, jusqu'à ce que Fabienne s'installe ici, dit Élie, la moustache frémissant d'amusement. Elle a commencé à me poser des questions sur cette règle, il y a deux ans, la première fois que je la lui ai racontée. Depuis, elle me demande régulièrement si j'ai de nouveaux détails à lui donner. Je crois qu'elle est en train de bâtir quelque chose avec ça, mais elle ne m'a jamais dit quoi exactement.
 
 — Vous croyez que ça a un rapport avec les loups ? demanda Sofia.
 
@@ -1333,7 +1333,7 @@ Elle fit défiler l'écran jusqu'à une page manuscrite, où l'on pouvait lire, 
 
 Souly fronça les sourcils, refaisant le calcul à voix basse. Dix heures trente, plus quarante-cinq minutes de route... ça fait onze heures quinze, au plus tôt, pour repartir du cabinet. Même en roulant vite, il ne pouvait pas être ici avant midi.
 
-— Exactement le raisonnement que je voulais vous entendre faire », dit Fabienne, visiblement ravie.
+— Exactement le raisonnement que je voulais vous entendre faire », dit Fabienne, les yeux brillants.
 
 « Troisième preuve ! » s'écria Sofia, qui avait pris goût au jeu et comptait sur ses doigts avec application.
 
@@ -1351,7 +1351,7 @@ Elle posa son téléphone et croisa les bras, satisfaite.
 
 « Elle a même ajouté un détail amusant, poursuivit Fabienne en relisant le message. Cyprien aurait passé une bonne partie du déjeuner à s'inquiéter pour sa chienne, au point de renverser deux fois son café sur la table du buffet.
 
-— Deux fois ? répéta Sofia, un large sourire aux lèvres, en jetant un regard appuyé vers son grand-oncle. On dirait que le café et les enquêtes sur les loups ne font pas bon ménage, dans ce village.
+— Deux fois ? répéta Sofia, en jetant un regard appuyé et ravi vers son grand-oncle. On dirait que le café et les enquêtes sur les loups ne font pas bon ménage, dans ce village.
 
 — Je préfère ne pas commenter », dit Théo, la dignité d'un homme qui refusait catégoriquement toute solidarité avec un renverseur de café occasionnel.
 
@@ -1363,7 +1363,7 @@ Il referma son carnet d'un geste sec.
 
 « Cyprien ne peut pas être responsable de l'incident. Il était ailleurs, prouvé quatre fois. »
 
-Fabienne hocha la tête, visiblement soulagée pour Cyprien autant que frustrée de ne pas avoir avancé sur la vraie cause.
+Fabienne hocha la tête, soulagée pour Cyprien autant que frustrée de ne pas avoir avancé sur la vraie cause.
 
 « C'est une très bonne nouvelle pour lui, et une enquête qui repart de zéro pour nous. » Elle se tourna vers la fenêtre, en direction de la crête. « Ce qui nous laisse avec une seule autre piste sérieuse pour l'instant : le relais téléphonique de Baptiste Sorlin. »
 
@@ -1429,7 +1429,7 @@ Sur le chemin du retour, Théo, en observant les enfants marcher devant lui, lai
 
 — C'est bien ce qui m'inquiète », soupira Théo, un sourire démentant complètement son inquiétude.
 
-Ils retrouvèrent Fabienne et Mamie Rose à la station en fin d'après-midi, le sac à main de Mamie Rose désormais sec mais visiblement marqué à vie par l'incident, pendu par une bretelle au-dessus de la cuisinière comme un trophée de guerre dont personne n'osait se moquer ouvertement devant sa propriétaire.
+Ils retrouvèrent Fabienne et Mamie Rose à la station en fin d'après-midi, le sac à main de Mamie Rose désormais sec mais marqué à vie par l'incident, pendu par une bretelle au-dessus de la cuisinière comme un trophée de guerre dont personne n'osait se moquer ouvertement devant sa propriétaire.
 
 « Alors ? demanda Fabienne. Cyprien a bien pris la nouvelle ?
 
@@ -1494,7 +1494,7 @@ Fabienne les attendait dans la cuisine, une carte topographique du massif des Tr
 
 — Reste plutôt ici avec moi, proposa Mamie Rose, avec la fermeté douce de quelqu'un qui connaissait son frère depuis plus de soixante ans. Deux jambes fatiguées valent mieux qu'une cheville tordue à mi-montagne. On ira voir ce relais un autre jour, tous les deux, à notre rythme. »
 
-Théo se rassit, visiblement partagé entre le soulagement et une pointe de déception, tandis que Sofia lui tapotait affectueusement l'épaule en passant.
+Théo se rassit, partagé entre le soulagement et une pointe de déception, tandis que Sofia lui tapotait affectueusement l'épaule en passant.
 
 La montée jusqu'à la crête au-dessus du Pas du Berger prit près de deux heures, à travers une forêt de plus en plus dense, où les troncs se resserraient et où la lumière du matin peinait à percer le feuillage. L'air sentait la résine et la terre humide, et le seul bruit, par endroits, était celui de leurs propres pas sur les aiguilles de pin.
 
@@ -1518,7 +1518,7 @@ La montée jusqu'à la crête au-dessus du Pas du Berger prit près de deux heur
 
 — Dans les cas les plus graves, les adultes déplacent les petits vers un autre site. Parfois un par un, portés par la peau du cou, en se repérant entre eux à l'aide de hurlements de contact — pour rester coordonnés dans la confusion. C'est rare, et généralement, ça se passe la nuit, discrètement. » Fabienne s'arrêta un instant sur le sentier, le regard tourné vers la crête. « Mais dans de très rares cas documentés, si la perturbation est vraiment soudaine, ce déplacement peut avoir lieu en plein jour.
 
-— Comme notre incident, dit Sofia, qui commençait visiblement à voir où tout ça menait.
+— Comme notre incident, dit Sofia, qui commençait à voir où tout ça menait.
 
 — Comme notre incident, peut-être, dit Fabienne, prudente. On n'en est pas encore sûrs. C'est justement ce qu'on va essayer de vérifier aujourd'hui. »
 
@@ -1554,7 +1554,7 @@ Un homme en gilet orange, occupé à vérifier des câbles au pied de la structu
 
 — Vous n'avez rien fait de lâche, Baptiste, dit Fabienne. Vous avez fait votre travail, avec l'autorisation de la mairie. On va juste vérifier les faits, ensemble, calmement. Quand exactement avez-vous commencé l'installation de ce relais ?
 
-— Il y a treize jours, dit-il sans hésiter — visiblement, la question l'obsédait déjà lui-même. Trois jours de travaux, générateur, perceuse, câblage. On a terminé le premier jour, avec l'équipe complète, du matin jusqu'au soir.
+— Il y a treize jours, dit-il sans hésiter, la question l'obsédait déjà lui-même depuis un moment. Trois jours de travaux, générateur, perceuse, câblage. On a terminé le premier jour, avec l'équipe complète, du matin jusqu'au soir.
 
 — Treize jours, répéta Souly en écrivant frénétiquement. Et l'incident a eu lieu il y a douze jours. »
 
@@ -1678,22 +1678,22 @@ Au dîner, ce soir-là, la conversation tourna presque entièrement autour du re
 
 — On la préviendra demain, promit Fabienne. Mais une veillée nocturne, en pleine forêt, ce n'est pas vraiment un endroit pour une enfant de neuf ans, même douée pour reconnaître les couleurs des sons. On lui fera écouter l'enregistrement dès le lendemain matin, ça, en revanche, c'est promis. »
 
-Sofia parut un instant songeuse, se demandant visiblement si, à huit ans, elle-même avait sa place dans une forêt la nuit — avant de se rappeler qu'elle y allait déjà, elle, et que la logique des adultes restait décidément difficile à suivre.
+Sofia parut un instant songeuse, se demandant si, à huit ans, elle-même avait sa place dans une forêt la nuit — avant de se rappeler qu'elle y allait déjà, elle, et que la logique des adultes restait décidément difficile à suivre.
 
 Ce soir-là, Souly referma son carnet sur une note satisfaite : *Vraie cause probable identifiée : relais de Baptiste Sorlin, installé il y a treize jours, un jour avant l'incident (douze jours). Site de rendez-vous perturbé par le bruit des travaux. Confirmation nécessaire : veillée nocturne prévue dans deux jours, jour 9, avec le détecteur d'Isidore. Pas ce soir — Fabienne a été très claire.*
 
-Il souligna « pas ce soir », un petit sourire aux lèvres, se souvenant vaguement d'une histoire que Grand-oncle Théo leur avait racontée un jour, à propos d'un tome précédent où quelqu'un n'avait pas eu cette sagesse, puis referma son carnet, alluma sa veilleuse-grenouille, et s'endormit avant même d'avoir fini de se demander à quoi pourrait bien ressembler un hurlement de loup entendu de ses propres oreilles.
+Il souligna « pas ce soir », amusé malgré lui, se souvenant vaguement d'une histoire que Grand-oncle Théo leur avait racontée un jour, à propos d'un tome précédent où quelqu'un n'avait pas eu cette sagesse, puis referma son carnet, alluma sa veilleuse-grenouille, et s'endormit avant même d'avoir fini de se demander à quoi pourrait bien ressembler un hurlement de loup entendu de ses propres oreilles.
 
 
 # Chapitre 8 — Le bouquet de Baptiste
 
-Jour 8. Treize jours depuis l'incident, nota Souly au réveil, avant de descendre à la cuisine où une surprise l'attendait : Baptiste Sorlin, planté devant la porte de la station, un énorme bouquet de fleurs sauvages à la main, visiblement récolté à la hâte et déjà un peu fané.
+Jour 8. Treize jours depuis l'incident, nota Souly au réveil, avant de descendre à la cuisine où une surprise l'attendait : Baptiste Sorlin, planté devant la porte de la station, un énorme bouquet de fleurs sauvages à la main, récolté à la hâte et déjà un peu fané.
 
 Il avait les cheveux en bataille, les yeux cernés d'un homme qui n'avait clairement pas fermé l'œil de la nuit, et son gilet orange était enfilé de travers, un pan rentré dans son pantalon, l'autre non.
 
 « Bonjour ! dit-il d'une voix un peu trop forte, avant de tendre le bouquet à Fabienne qui venait d'ouvrir la porte. C'est pour... enfin, pour m'excuser. Pour le relais. Pour tout, en fait.
 
-— Baptiste, dit Fabienne, touchée mais visiblement embarrassée, ce n'est pas nécessaire, vraiment...
+— Baptiste, dit Fabienne, touchée mais embarrassée, ce n'est pas nécessaire, vraiment...
 
 — Si, si, c'est nécessaire, insista-t-il, en tendant le bouquet un peu plus fort, ce qui eut pour effet de secouer plusieurs pétales sur le pas de la porte. Je n'ai pas dormi de la nuit, j'ai pensé à cette pauvre meute perturbée par mon générateur, alors ce matin je suis allé cueillir ce que j'ai trouvé de plus joli sur le chemin en montant, et — »
 
@@ -1701,7 +1701,7 @@ Il s'interrompit, le regard soudain fixé sur le bouquet qu'il tenait, comme s'i
 
 « Attendez. Ce sont des... ce ne sont pas des edelweiss, ça, par hasard ? »
 
-Fabienne, qui avait pris le bouquet par politesse, l'examina un instant et retint visiblement un fou rire.
+Fabienne, qui avait pris le bouquet par politesse, l'examina un instant et retint un fou rire.
 
 « Ce sont effectivement des edelweiss, Baptiste. Une espèce strictement protégée. Il est interdit de les cueillir — ça pousse en général plus haut, sur des pentes rocailleuses, mais on en trouve parfois plus bas, autour de la crête, justement.
 
@@ -1721,11 +1721,11 @@ Sofia et Souly, arrivés entre-temps sur le pas de la porte en pyjama, assistèr
 
 — Complètement, confirma Souly. Et Cyprien, le dresseur de chiens, a renversé le sien deux fois de suite sur un buffet, à sa compétition, pendant qu'il s'inquiétait pour sa chienne. On collectionne un peu les catastrophes attendrissantes, dans cette famille — et apparemment dans tout le village aussi.
 
-— Alors je suppose que je fais maintenant partie de la collection, dit Baptiste, un pauvre sourire aux lèvres.
+— Alors je suppose que je fais maintenant partie de la collection, dit Baptiste, piteux.
 
 — Officiellement, oui, dit Fabienne en riant encore. Tenez — on va planter ces edelweiss dans un pot, ici à la station, pour qu'ils repoussent racines et graines l'année prochaine, plutôt que de les jeter. Ça vous va, comme réparation symbolique ?
 
-— Ça me va très bien », dit Baptiste, visiblement soulagé qu'on lui offre une porte de sortie honorable.
+— Ça me va très bien », dit Baptiste, soulagé qu'on lui offre une porte de sortie honorable.
 
 Sofia s'empara aussitôt du pot en terre cuite qui traînait près de l'évier, et entreprit d'y transférer le bouquet sans quitter des yeux la moindre racine, terre jusqu'aux coudes, sous l'œil attendri de tout le monde.
 
@@ -1767,15 +1767,19 @@ Souly, ravi qu'on lui offre enfin l'occasion officielle de présenter le fruit d
 
 — Exactement, confirma Souly sans se laisser déstabiliser. Suspect numéro un : Cyprien Chambon, éliminé par quatre preuves indépendantes — concours canin confirmé par l'organisateur, photos horodatées, rendez-vous vétérinaire à 10h30, témoignage de Léa. Cause probable numéro deux : le relais téléphonique de Baptiste Sorlin, installé il y a quatorze jours, exactement un jour avant l'incident, à proximité immédiate d'un site de rendez-vous de la meute. »
 
-Il marqua une pause, satisfait de son effet, avant de conclure :
+Il s'arrêta net, la bouche encore ouverte sur son idée suivante, parce qu'à cet instant précis la bouilloire que Mamie Rose venait de poser sur la cuisinière se mit à siffler si fort que tout le monde sursauta d'un bloc, Baptiste manquant renverser sa chaise en se retournant, une main déjà plaquée sur le cœur.
+
+« Ce n'est que la bouilloire, Baptiste, dit Mamie Rose en la retirant du feu, pas la moindre trace d'inquiétude dans la voix. Personne ne vient vous accuser de rien, cette fois. »
+
+Une fois le silence revenu et les rires retombés, Souly marqua une pause, satisfait de son effet, avant de conclure :
 
 « Il manque encore une confirmation directe : entendre nous-mêmes un hurlement de la meute, pour vérifier s'il correspond au hurlement de détresse enregistré ce jour-là, ou si c'est autre chose. »
 
-Fabienne applaudit, suivie par Baptiste, un peu gêné mais visiblement ému par tant de rigueur venant d'un garçon de douze ans, et par Mamie Rose, qui avait abandonné sa vaisselle pour assister à la scène depuis le pas de la porte, un torchon encore à la main.
+Fabienne applaudit, suivie par Baptiste, un peu gêné mais ému par tant de rigueur venant d'un garçon de douze ans, et par Mamie Rose, qui avait abandonné sa vaisselle pour assister à la scène depuis le pas de la porte, un torchon encore à la main.
 
 « Bravo, mon grand, dit-elle. Ta maman va être fière, quand je lui raconterai ça au téléphone ce soir. »
 
-Souly rosit, referma son carnet un instant, puis, incapable de résister, le rouvrit aussitôt pour ajouter la remarque de Sofia sur leur date d'arrivée, qu'il jugea visiblement digne de figurer dans les preuves officielles.
+Souly rosit, referma son carnet un instant, puis, incapable de résister, le rouvrit aussitôt pour ajouter la remarque de Sofia sur leur date d'arrivée, qu'il jugea digne de figurer dans les preuves officielles.
 
 « Il y a quand même une chose qui me chiffonne, dit Souly en se rasseyant. Élie nous a parlé de sa règle — jamais de bruit au Pas du Berger avant midi. Si c'est vrai scientifiquement, pourquoi l'incident a eu lieu à 11h42 ? C'est juste avant midi.
 
@@ -1823,7 +1827,7 @@ En milieu d'après-midi, Élie descendit lui-même jusqu'à la station, sa canne
 
 — Quarante ans de plus que les vôtres, en tout cas, dit Élie, un clin d'œil qui n'avait rien perdu de sa malice malgré son âge. »
 
-Le vieux berger resta encore un moment à observer longuement le pot d'edelweiss sur le rebord de la fenêtre, sans faire le moindre commentaire sur son origine — un silence que Baptiste, encore présent dans la pièce, apprécia visiblement plus que n'importe quel mot de réconfort.
+Le vieux berger resta encore un moment à observer longuement le pot d'edelweiss sur le rebord de la fenêtre, sans faire le moindre commentaire sur son origine — un silence que Baptiste, encore présent dans la pièce, apprécia plus que n'importe quel mot de réconfort.
 
 « On compte bien sûr sur vous pour nous conseiller, avant la veillée de demain soir, dit Fabienne. Vous connaissez ce sentier mieux que quiconque.
 
@@ -1859,7 +1863,29 @@ Au dîner, ce soir-là, la table était plus animée que d'habitude : Cyprien é
 
 — Toi, en tout cas, tu as clairement un don », dit Sofia, et personne, cette fois, n'eut le cœur de la contredire.
 
-Cyprien, qui n'était pas encore au courant de l'épisode du café renversé chez l'organisateur du concours, réclama qu'on lui raconte l'histoire dans le détail, ce que Sofia fit avec de grands gestes théâtraux, si bien que Frimousse leva la tête sous la table, visiblement convaincue qu'il se passait quelque chose d'important.
+« Attendez, quel épisode de café renversé ? » demanda Cyprien, la fourchette suspendue à mi-chemin de sa bouche.
+
+« Le tien, dit Sofia avec un plaisir non dissimulé. Chez l'organisateur du concours. Théo a appelé pour vérifier ton alibi, et la dame au téléphone lui a raconté que tu avais renversé ton café deux fois de suite sur le buffet, tellement tu t'inquiétais pour Frimousse. »
+
+Cyprien reposa lentement sa fourchette, le visage traversé par une horreur grandissante.
+
+« Deux fois ? Elle a vraiment dit deux fois ?
+
+— Deux fois, confirma Théo depuis l'autre bout de la table, avec la satisfaction d'un homme qui n'est soudain plus seul dans sa catégorie. La première fois sur les gobelets, la seconde directement sur le podium, à ce qu'il paraît.
+
+— Sur le podium. » Cyprien se prit le visage entre les mains. « J'avais complètement oublié ce détail. Ou plutôt : j'avais activement essayé de l'oublier.
+
+— Pourquoi tu étais si inquiet, en fait ? demanda Sofia. Frimousse a fini troisième. C'est plutôt une bonne nouvelle, non ?
+
+— Parce qu'à ce moment-là, je ne le savais pas encore, avoua Cyprien. Et parce que toute cette histoire de meute perturbée me trottait déjà dans la tête, même de là-bas. Un chien qui tremble un peu trop avant son passage, et moi qui renverse du café partout en me demandant si mon sifflet avait un rapport avec des loups à trois cents kilomètres de distance. Ce n'était pas ma matinée la plus glorieuse. »
+
+Sofia raconta la suite avec de grands gestes théâtraux, si bien que Frimousse leva la tête sous la table, convaincue qu'il se passait quelque chose d'important, pendant que Gruyère, égal à lui-même, se rendormait aussitôt sur les pieds de Cyprien.
+
+« Bienvenue dans la collection, alors, conclut Baptiste, un morceau de fromage à la main. On dirait qu'elle s'agrandit de jour en jour, cette collection.
+
+— Il paraît que c'est un talent de famille, chez nous, ajouta Théo, tout sourire. Vous êtes officiellement adopté. »
+
+Cyprien leva son verre d'eau en signe de résignation joyeuse, sous les rires de toute la tablée.
 
 Fabienne, plus silencieuse que d'habitude, observait la carte du massif des Trois Cimes punaisée au mur, le regard perdu du côté du Pas du Berger.
 
@@ -1994,7 +2020,7 @@ Derrière eux, Isidore trébucha légèrement sur une racine, son détecteur cog
 
 — Compris, chef. »
 
-Baptiste, qui fermait la marche, échangea un regard avec Souly, un demi-sourire aux lèvres malgré la tension.
+Baptiste, qui fermait la marche, échangea un regard avec Souly, presque amusé malgré la tension.
 
 « On dirait un peu une expédition de cambrioleurs maladroits, non ?
 
@@ -2213,7 +2239,7 @@ Capucine hocha la tête, sérieuse.
 
 — Moi je trouve ça génial, dit Sofia.
 
-— Toi, dit Capucine, un demi-sourire aux lèvres, tu trouves génial à peu près tout ce qui sort de l'ordinaire. C'est différent.
+— Toi, dit Capucine, mi-amusée, tu trouves génial à peu près tout ce qui sort de l'ordinaire. C'est différent.
 
 — C'est vrai, admit Sofia. Mais là, en plus, c'est vraiment génial. »
 
@@ -2327,7 +2353,7 @@ Souly referma son carnet d'un geste solennel, comme s'il venait de clore une aff
 
 — Parce que parfois, dit Souly, la voix soudain grave, presque celle d'un adulte, on laisse les gens avoir leur poussière imaginaire. C'est une forme de politesse. »
 
-Sofia le regarda un instant, visiblement impressionnée malgré elle, avant de hocher lentement la tête, comme si cette phrase venait tout juste d'entrer dans sa propre collection de vérités importantes.
+Sofia le regarda un instant, impressionnée malgré elle, avant de hocher lentement la tête, comme si cette phrase venait tout juste d'entrer dans sa propre collection de vérités importantes.
 
 L'après-midi fut consacré à préparer la nouvelle qui allait, le lendemain, être annoncée officiellement au village entier lors de la Fête de la Transhumance. Fabienne convoqua tout le petit groupe autour de la grande carte de la station — Élie, Baptiste, Cyprien, Isidore, Capucine, Sofia et Souly serrés autour de la table — et déroula son plan point par point, comme une générale préparant une bataille amicale.
 
@@ -2337,7 +2363,7 @@ L'après-midi fut consacré à préparer la nouvelle qui allait, le lendemain, �
 
 — Votre détecteur rejoint le matériel permanent de la station, dit Fabienne en souriant. Devant tout le monde, demain. »
 
-Isidore porta une main à sa poitrine, visiblement ému, et dut se racler la gorge deux fois avant de retrouver une voix à peu près normale.
+Isidore porta une main à sa poitrine, ému, et dut se racler la gorge deux fois avant de retrouver une voix à peu près normale.
 
 « Après... » il compta rapidement sur ses doigts. « Après dix prototypes ratés, j'en ai enfin réussi un.
 
@@ -2398,11 +2424,11 @@ Jour 11. Souly ne prit même pas la peine de noter le décompte des jours ce mat
 
 — Attends, sérieux ? » Sofia le regarda, la bouche entrouverte de stupeur théâtrale. « Souly Duchêne-je-ne-sais-plus-quoi renonce à un chiffre ? Il faut noter ça dans le carnet.
 
-— Ironiquement, dit Souly, un demi-sourire aux lèvres, ce serait exactement ce que je noterais, d'habitude. »
+— Ironiquement, dit Souly, presque amusé de lui-même, ce serait exactement ce que je noterais, d'habitude. »
 
 « C'est le plus grand jour de l'année ici, expliqua Fabienne en enfilant une veste plus habillée que d'habitude. Tout le monde descend des estives avec les bêtes, et tout le village fête ça ensemble — la fin de la saison, les récoltes, les retrouvailles. »
 
-Sur la place, une foule s'était déjà rassemblée pour accueillir le troupeau communal, mené par un Élie visiblement ému, sa canne remplacée pour l'occasion par un bâton de berger orné de rubans, suivi par des dizaines de brebis dont les clochettes composaient une mélodie assourdissante mais joyeuse. Des enfants couraient entre les jambes des adultes, des grand-mères applaudissaient depuis leurs fenêtres, et quelque part, un coq, visiblement dépassé par l'agitation, chantait à contretemps depuis deux bonnes minutes sans que personne ne s'en formalise.
+Sur la place, une foule s'était déjà rassemblée pour accueillir le troupeau communal, mené par un Élie ému aux larmes, sa canne remplacée pour l'occasion par un bâton de berger orné de rubans, suivi par des dizaines de brebis dont les clochettes composaient une mélodie assourdissante mais joyeuse. Des enfants couraient entre les jambes des adultes, des grand-mères applaudissaient depuis leurs fenêtres, et quelque part, un coq complètement dépassé par l'agitation chantait à contretemps depuis deux bonnes minutes sans que personne ne s'en formalise.
 
 « Regarde, dit Sofia en tirant la manche de Souly. Cyprien est là, avec ses patous. »
 
@@ -2444,17 +2470,17 @@ Cyprien s'avança, un peu gêné par tous les regards tournés vers lui, mais re
 
 — Et comment on fait la différence, de loin, si les deux sont gris-blanc dans la pénombre ? cria une voix depuis le fond de la place — celle d'une femme que Sofia reconnut comme la boulangère, croisée dès les premiers jours de leur enquête.
 
-— Excellente question, dit Cyprien, visiblement ravi qu'on la lui pose. Un loup fuit dès qu'il aperçoit un humain, presque toujours. Un patou, lui, reste, parce que son travail, c'est justement de rester avec le troupeau, même quand des humains approchent. Si le chien ne bouge pas, c'est un patou. S'il détale, c'est un loup — et il n'y a de toute façon aucune raison d'avoir peur, parce qu'un loup qui voit un humain choisit presque toujours de partir en premier. »
+— Excellente question, dit Cyprien, en se redressant fièrement. Un loup fuit dès qu'il aperçoit un humain, presque toujours. Un patou, lui, reste, parce que son travail, c'est justement de rester avec le troupeau, même quand des humains approchent. Si le chien ne bouge pas, c'est un patou. S'il détale, c'est un loup — et il n'y a de toute façon aucune raison d'avoir peur, parce qu'un loup qui voit un humain choisit presque toujours de partir en premier. »
 
 La boulangère hocha la tête, satisfaite, et un murmure d'approbation parcourut l'assemblée.
 
-Cyprien fit un signe à ses trois chiens, restés sagement assis au pied de l'estrade, qui remuèrent la queue de concert, provoquant un attendrissement général dans la foule. La petite fille aux couettes rousses, restée fièrement en poste avec la laisse de Frimousse, salua la foule d'un geste solennel, visiblement persuadée que les applaudissements lui étaient au moins un peu destinés.
+Cyprien fit un signe à ses trois chiens, restés sagement assis au pied de l'estrade, qui remuèrent la queue de concert, provoquant un attendrissement général dans la foule. La petite fille aux couettes rousses, restée fièrement en poste avec la laisse de Frimousse, salua la foule d'un geste solennel, persuadée que les applaudissements lui étaient au moins un peu destinés.
 
 Baptiste monta ensuite, un peu plus raide, le bouquet d'edelweiss replanté encore frais dans sa mémoire. Il tira sur les manches de sa veste, comme s'il espérait qu'un geste suffirait à calmer sa nervosité, puis se lança.
 
 « J'ai installé ce relais sans savoir qu'il se trouvait près d'un site aussi sensible, dit-il. C'était une erreur, pas une intention. Certains d'entre vous m'en ont voulu, à raison, et je ne vous en tiens absolument pas rigueur. Je tenais à vous annoncer, ici, publiquement, que la mairie et moi avons déjà identifié un nouvel emplacement, de l'autre côté de la crête, à plus de huit cents mètres du Pas du Berger. Les travaux de déplacement commenceront dès la semaine prochaine, en concertation complète avec la station de suivi. Et pour ceux qui craignent de perdre en réseau téléphonique le temps des travaux — » il marqua une pause, presque comique tant elle semblait calculée, « — sachez que j'ai personnellement vérifié : la nouvelle antenne portera même un peu plus loin que l'ancienne. »
 
-Quelques rires accueillirent cette dernière précision, suivis d'applaudissements nourris, et Élie, resté au premier rang, hocha la tête, visiblement satisfait.
+Quelques rires accueillirent cette dernière précision, suivis d'applaudissements nourris, et Élie, resté au premier rang, hocha la tête, satisfait.
 
 « Enfin, dit Fabienne, je voudrais que tout le village sache officiellement quelque chose qu'Élie garde depuis des décennies, et qu'on vient tout juste de confirmer scientifiquement. »
 
@@ -2464,7 +2490,7 @@ Elle se tourna vers le vieux berger, qui monta à son tour, non sans réticence,
 
 Un silence recueilli suivit ces mots, avant qu'un tonnerre d'applaudissements ne s'élève, plus long que tous les précédents. Quelqu'un, quelque part dans la foule, cria « Pour la grand-mère d'Élie ! », et toute la place reprit le toast en riant.
 
-Le maire, visiblement ému, s'avança pour serrer la main d'Élie sous une nouvelle salve d'applaudissements, avant d'ajouter, presque en aparté mais suffisamment fort pour que tout le monde entende :
+Le maire, la voix soudain moins assurée, s'avança pour serrer la main d'Élie sous une nouvelle salve d'applaudissements, avant d'ajouter, presque en aparté mais suffisamment fort pour que tout le monde entende :
 
 « Et sachez qu'on aura désormais un outil supplémentaire pour surveiller tout ça de près. »
 
@@ -2478,7 +2504,7 @@ Isidore, rouge de fierté, ôta sa casquette dans un geste presque théâtral, a
 
 « Après dix échecs, dit-il, la voix un peu tremblante, j'ai enfin réussi quelque chose d'utile. Mon père serait content, je crois. »
 
-Un silence chaleureux accueillit ces mots. Élie, depuis le premier rang, posa une main brève sur l'épaule d'Isidore lorsque celui-ci redescendit de l'estrade, sans un mot, un geste que le vieux berger réservait visiblement à de rares occasions.
+Un silence chaleureux accueillit ces mots. Élie, depuis le premier rang, posa une main brève sur l'épaule d'Isidore lorsque celui-ci redescendit de l'estrade, sans un mot, un geste que le vieux berger réservait à de rares occasions.
 
 La fête reprit alors son cours, musique, rires, et une longue tablée commune où villageois et invités se mêlèrent sans distinction, croulant bientôt sous les plateaux de fromages de montagne, les tourtes salées encore fumantes et les carafes de limonade maison que les enfants du village se disputaient à qui en aurait le plus.
 
@@ -2508,13 +2534,13 @@ Elle traversa la place sans un regard en arrière, sous les yeux d'un village en
 
 « Écho, dit-elle d'une voix solennelle qui porta jusqu'aux dernières tables, tu as protégé tes louveteaux toute seule, en plein jour, avec tout le courage du monde. »
 
-Un murmure ému parcourut l'assemblée. Fabienne, au bord de l'estrade, porta une main à son cœur. Même le maire, sur le côté, hocha gravement la tête, visiblement touché par la solennité du moment.
+Un murmure ému parcourut l'assemblée. Fabienne, au bord de l'estrade, porta une main à son cœur. Même le maire, sur le côté, hocha gravement la tête, touché par la solennité du moment.
 
 Sofia marqua une pause théâtrale, le visage soudain d'un sérieux presque cérémonial, avant d'ajouter :
 
 « Est-ce que ça veut dire que t'es cheftaine ? »
 
-Il y eut un silence stupéfait de deux secondes — deux secondes pendant lesquelles on aurait pu entendre une clochette de brebis tinter à l'autre bout du village — puis toute la place éclata d'un rire immense, un rire qui roula de table en table comme une vague, impossible à arrêter une fois lancée. Fabienne fut la première pliée en deux, une main plaquée sur la bouche, incapable de reprendre son souffle. Souly cacha son visage dans ses mains en gémissant « Sofia, non », avant de céder lui-même au fou rire général, ce qui ne fit qu'amplifier les rires autour de lui. Élie riait si fort qu'il dut s'appuyer sur son bâton de berger fleuri pour ne pas tomber, en répétant entre deux quintes « cheftaine, elle a dit cheftaine », visiblement plus ravi à chaque répétition qu'à la précédente. Cyprien, hilare, dut retenir ses trois patous qui, sentant l'agitation générale, s'étaient mis à aboyer joyeusement sans comprendre pourquoi. Même le maire, qui tentait vaillamment de garder une contenance officielle, finit par abandonner et rire à son tour, le micro toujours à la main, ce qui diffusa son rire dans tous les haut-parleurs de la place et déclencha une deuxième vague de rires, plus forte encore que la première.
+Il y eut un silence stupéfait de deux secondes — deux secondes pendant lesquelles on aurait pu entendre une clochette de brebis tinter à l'autre bout du village — puis toute la place éclata d'un rire immense, un rire qui roula de table en table comme une vague, impossible à arrêter une fois lancée. Fabienne fut la première pliée en deux, une main plaquée sur la bouche, incapable de reprendre son souffle. Souly cacha son visage dans ses mains en gémissant « Sofia, non », avant de céder lui-même au fou rire général, ce qui ne fit qu'amplifier les rires autour de lui. Élie riait si fort qu'il dut s'appuyer sur son bâton de berger fleuri pour ne pas tomber, en répétant entre deux quintes « cheftaine, elle a dit cheftaine », plus ravi à chaque répétition qu'à la précédente. Cyprien, hilare, dut retenir ses trois patous qui, sentant l'agitation générale, s'étaient mis à aboyer joyeusement sans comprendre pourquoi. Même le maire, qui tentait vaillamment de garder une contenance officielle, finit par abandonner et rire à son tour, le micro toujours à la main, ce qui diffusa son rire dans tous les haut-parleurs de la place et déclencha une deuxième vague de rires, plus forte encore que la première.
 
 « Sofia, dit finalement Fabienne, en essuyant une larme de rire, techniquement, une louve dominante ne porte pas de foulard.
 
@@ -2639,11 +2665,11 @@ Cyprien arriva ensuite, ses trois patous sur les talons, Frimousse en tête, la 
 
 — Statistiquement, répéta Souly, ravi qu'on emploie ce mot devant lui, c'est un argument que j'apprécie beaucoup. »
 
-Isidore, lui, attendait un peu à l'écart, visiblement nerveux, un petit paquet enveloppé de papier journal serré contre lui.
+Isidore, lui, attendait un peu à l'écart, nerveux, un petit paquet enveloppé de papier journal serré contre lui.
 
 « J'ai fait ça cette nuit, dit-il en le tendant à Souly, presque timidement. Enfin. Cette nuit et une bonne partie de l'après-midi d'hier, si on compte tout. »
 
-Souly déballa le paquet : un carnet relié de cuir, à la couverture épaisse et un peu irrégulière, visiblement façonnée à la main.
+Souly déballa le paquet : un carnet relié de cuir, à la couverture épaisse et un peu irrégulière, façonnée à la main.
 
 « C'est pour ton prochain tableau chronologique, mon garçon, expliqua Isidore, la voix un peu tremblante. Tu en auras sûrement besoin, où que t'emmène ta prochaine enquête. Et cette fois, le cuir ne craint pas la pluie. J'ai vérifié. Deux fois.
 
@@ -2681,7 +2707,7 @@ Sofia, sincèrement émue — un état suffisamment rare chez elle pour que Soul
 
 « Je vais enregistrer plein de trucs. Et je te dirai leurs couleurs, moi aussi, même si je suis nulle pour ça.
 
-— Personne n'est nul pour ça, dit Capucine, un vrai sourire aux lèvres. C'est juste une question d'écoute.
+— Personne n'est nul pour ça, dit Capucine, radieuse. C'est juste une question d'écoute.
 
 — On s'écrit ? demanda Sofia. Je t'enverrai des enregistrements, et toi tu me dis leurs couleurs.
 
@@ -2691,7 +2717,7 @@ Au moment de monter dans la camionnette, alors que Théo vérifiait pour la troi
 
 « J'ai quelque chose pour vous deux. » Elle déplia un morceau de tissu bleu, un simple foulard, brodé à la hâte d'un petit loup stylisé dans un coin. « Ce n'est pas un vrai foulard de Louveteaux, précisa-t-elle avec un clin d'œil vers Sofia, mais j'ai pensé que ça pourrait faire l'affaire. »
 
-Sofia le prit du bout des doigts, comme une conservatrice de musée manipulant une pièce rare, l'examina sous toutes les coutures, avant de le nouer autour de son cou, le menton levé, visiblement très fière du résultat.
+Sofia le prit du bout des doigts, comme une conservatrice de musée manipulant une pièce rare, l'examina sous toutes les coutures, avant de le nouer autour de son cou, le menton levé, très fière du résultat.
 
 « Ça veut dire que je suis officiellement Louveteau, maintenant ? Ou louveteau ? Je sais toujours pas lequel des deux je préfère.
 

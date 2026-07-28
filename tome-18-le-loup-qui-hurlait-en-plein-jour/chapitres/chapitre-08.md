@@ -1,12 +1,12 @@
 # Chapitre 8 — Le bouquet de Baptiste
 
-Jour 8. Treize jours depuis l'incident, nota Souly au réveil, avant de descendre à la cuisine où une surprise l'attendait : Baptiste Sorlin, planté devant la porte de la station, un énorme bouquet de fleurs sauvages à la main, visiblement récolté à la hâte et déjà un peu fané.
+Jour 8. Treize jours depuis l'incident, nota Souly au réveil, avant de descendre à la cuisine où une surprise l'attendait : Baptiste Sorlin, planté devant la porte de la station, un énorme bouquet de fleurs sauvages à la main, récolté à la hâte et déjà un peu fané.
 
 Il avait les cheveux en bataille, les yeux cernés d'un homme qui n'avait clairement pas fermé l'œil de la nuit, et son gilet orange était enfilé de travers, un pan rentré dans son pantalon, l'autre non.
 
 « Bonjour ! dit-il d'une voix un peu trop forte, avant de tendre le bouquet à Fabienne qui venait d'ouvrir la porte. C'est pour... enfin, pour m'excuser. Pour le relais. Pour tout, en fait.
 
-— Baptiste, dit Fabienne, touchée mais visiblement embarrassée, ce n'est pas nécessaire, vraiment...
+— Baptiste, dit Fabienne, touchée mais embarrassée, ce n'est pas nécessaire, vraiment...
 
 — Si, si, c'est nécessaire, insista-t-il, en tendant le bouquet un peu plus fort, ce qui eut pour effet de secouer plusieurs pétales sur le pas de la porte. Je n'ai pas dormi de la nuit, j'ai pensé à cette pauvre meute perturbée par mon générateur, alors ce matin je suis allé cueillir ce que j'ai trouvé de plus joli sur le chemin en montant, et — »
 
@@ -14,7 +14,7 @@ Il s'interrompit, le regard soudain fixé sur le bouquet qu'il tenait, comme s'i
 
 « Attendez. Ce sont des... ce ne sont pas des edelweiss, ça, par hasard ? »
 
-Fabienne, qui avait pris le bouquet par politesse, l'examina un instant et retint visiblement un fou rire.
+Fabienne, qui avait pris le bouquet par politesse, l'examina un instant et retint un fou rire.
 
 « Ce sont effectivement des edelweiss, Baptiste. Une espèce strictement protégée. Il est interdit de les cueillir — ça pousse en général plus haut, sur des pentes rocailleuses, mais on en trouve parfois plus bas, autour de la crête, justement.
 
@@ -34,11 +34,11 @@ Sofia et Souly, arrivés entre-temps sur le pas de la porte en pyjama, assistèr
 
 — Complètement, confirma Souly. Et Cyprien, le dresseur de chiens, a renversé le sien deux fois de suite sur un buffet, à sa compétition, pendant qu'il s'inquiétait pour sa chienne. On collectionne un peu les catastrophes attendrissantes, dans cette famille — et apparemment dans tout le village aussi.
 
-— Alors je suppose que je fais maintenant partie de la collection, dit Baptiste, un pauvre sourire aux lèvres.
+— Alors je suppose que je fais maintenant partie de la collection, dit Baptiste, piteux.
 
 — Officiellement, oui, dit Fabienne en riant encore. Tenez — on va planter ces edelweiss dans un pot, ici à la station, pour qu'ils repoussent racines et graines l'année prochaine, plutôt que de les jeter. Ça vous va, comme réparation symbolique ?
 
-— Ça me va très bien », dit Baptiste, visiblement soulagé qu'on lui offre une porte de sortie honorable.
+— Ça me va très bien », dit Baptiste, soulagé qu'on lui offre une porte de sortie honorable.
 
 Sofia s'empara aussitôt du pot en terre cuite qui traînait près de l'évier, et entreprit d'y transférer le bouquet sans quitter des yeux la moindre racine, terre jusqu'aux coudes, sous l'œil attendri de tout le monde.
 
@@ -80,15 +80,19 @@ Souly, ravi qu'on lui offre enfin l'occasion officielle de présenter le fruit d
 
 — Exactement, confirma Souly sans se laisser déstabiliser. Suspect numéro un : Cyprien Chambon, éliminé par quatre preuves indépendantes — concours canin confirmé par l'organisateur, photos horodatées, rendez-vous vétérinaire à 10h30, témoignage de Léa. Cause probable numéro deux : le relais téléphonique de Baptiste Sorlin, installé il y a quatorze jours, exactement un jour avant l'incident, à proximité immédiate d'un site de rendez-vous de la meute. »
 
-Il marqua une pause, satisfait de son effet, avant de conclure :
+Il s'arrêta net, la bouche encore ouverte sur son idée suivante, parce qu'à cet instant précis la bouilloire que Mamie Rose venait de poser sur la cuisinière se mit à siffler si fort que tout le monde sursauta d'un bloc, Baptiste manquant renverser sa chaise en se retournant, une main déjà plaquée sur le cœur.
+
+« Ce n'est que la bouilloire, Baptiste, dit Mamie Rose en la retirant du feu, pas la moindre trace d'inquiétude dans la voix. Personne ne vient vous accuser de rien, cette fois. »
+
+Une fois le silence revenu et les rires retombés, Souly marqua une pause, satisfait de son effet, avant de conclure :
 
 « Il manque encore une confirmation directe : entendre nous-mêmes un hurlement de la meute, pour vérifier s'il correspond au hurlement de détresse enregistré ce jour-là, ou si c'est autre chose. »
 
-Fabienne applaudit, suivie par Baptiste, un peu gêné mais visiblement ému par tant de rigueur venant d'un garçon de douze ans, et par Mamie Rose, qui avait abandonné sa vaisselle pour assister à la scène depuis le pas de la porte, un torchon encore à la main.
+Fabienne applaudit, suivie par Baptiste, un peu gêné mais ému par tant de rigueur venant d'un garçon de douze ans, et par Mamie Rose, qui avait abandonné sa vaisselle pour assister à la scène depuis le pas de la porte, un torchon encore à la main.
 
 « Bravo, mon grand, dit-elle. Ta maman va être fière, quand je lui raconterai ça au téléphone ce soir. »
 
-Souly rosit, referma son carnet un instant, puis, incapable de résister, le rouvrit aussitôt pour ajouter la remarque de Sofia sur leur date d'arrivée, qu'il jugea visiblement digne de figurer dans les preuves officielles.
+Souly rosit, referma son carnet un instant, puis, incapable de résister, le rouvrit aussitôt pour ajouter la remarque de Sofia sur leur date d'arrivée, qu'il jugea digne de figurer dans les preuves officielles.
 
 « Il y a quand même une chose qui me chiffonne, dit Souly en se rasseyant. Élie nous a parlé de sa règle — jamais de bruit au Pas du Berger avant midi. Si c'est vrai scientifiquement, pourquoi l'incident a eu lieu à 11h42 ? C'est juste avant midi.
 
@@ -136,7 +140,7 @@ En milieu d'après-midi, Élie descendit lui-même jusqu'à la station, sa canne
 
 — Quarante ans de plus que les vôtres, en tout cas, dit Élie, un clin d'œil qui n'avait rien perdu de sa malice malgré son âge. »
 
-Le vieux berger resta encore un moment à observer longuement le pot d'edelweiss sur le rebord de la fenêtre, sans faire le moindre commentaire sur son origine — un silence que Baptiste, encore présent dans la pièce, apprécia visiblement plus que n'importe quel mot de réconfort.
+Le vieux berger resta encore un moment à observer longuement le pot d'edelweiss sur le rebord de la fenêtre, sans faire le moindre commentaire sur son origine — un silence que Baptiste, encore présent dans la pièce, apprécia plus que n'importe quel mot de réconfort.
 
 « On compte bien sûr sur vous pour nous conseiller, avant la veillée de demain soir, dit Fabienne. Vous connaissez ce sentier mieux que quiconque.
 
@@ -172,7 +176,29 @@ Au dîner, ce soir-là, la table était plus animée que d'habitude : Cyprien é
 
 — Toi, en tout cas, tu as clairement un don », dit Sofia, et personne, cette fois, n'eut le cœur de la contredire.
 
-Cyprien, qui n'était pas encore au courant de l'épisode du café renversé chez l'organisateur du concours, réclama qu'on lui raconte l'histoire dans le détail, ce que Sofia fit avec de grands gestes théâtraux, si bien que Frimousse leva la tête sous la table, visiblement convaincue qu'il se passait quelque chose d'important.
+« Attendez, quel épisode de café renversé ? » demanda Cyprien, la fourchette suspendue à mi-chemin de sa bouche.
+
+« Le tien, dit Sofia avec un plaisir non dissimulé. Chez l'organisateur du concours. Théo a appelé pour vérifier ton alibi, et la dame au téléphone lui a raconté que tu avais renversé ton café deux fois de suite sur le buffet, tellement tu t'inquiétais pour Frimousse. »
+
+Cyprien reposa lentement sa fourchette, le visage traversé par une horreur grandissante.
+
+« Deux fois ? Elle a vraiment dit deux fois ?
+
+— Deux fois, confirma Théo depuis l'autre bout de la table, avec la satisfaction d'un homme qui n'est soudain plus seul dans sa catégorie. La première fois sur les gobelets, la seconde directement sur le podium, à ce qu'il paraît.
+
+— Sur le podium. » Cyprien se prit le visage entre les mains. « J'avais complètement oublié ce détail. Ou plutôt : j'avais activement essayé de l'oublier.
+
+— Pourquoi tu étais si inquiet, en fait ? demanda Sofia. Frimousse a fini troisième. C'est plutôt une bonne nouvelle, non ?
+
+— Parce qu'à ce moment-là, je ne le savais pas encore, avoua Cyprien. Et parce que toute cette histoire de meute perturbée me trottait déjà dans la tête, même de là-bas. Un chien qui tremble un peu trop avant son passage, et moi qui renverse du café partout en me demandant si mon sifflet avait un rapport avec des loups à trois cents kilomètres de distance. Ce n'était pas ma matinée la plus glorieuse. »
+
+Sofia raconta la suite avec de grands gestes théâtraux, si bien que Frimousse leva la tête sous la table, convaincue qu'il se passait quelque chose d'important, pendant que Gruyère, égal à lui-même, se rendormait aussitôt sur les pieds de Cyprien.
+
+« Bienvenue dans la collection, alors, conclut Baptiste, un morceau de fromage à la main. On dirait qu'elle s'agrandit de jour en jour, cette collection.
+
+— Il paraît que c'est un talent de famille, chez nous, ajouta Théo, tout sourire. Vous êtes officiellement adopté. »
+
+Cyprien leva son verre d'eau en signe de résignation joyeuse, sous les rires de toute la tablée.
 
 Fabienne, plus silencieuse que d'habitude, observait la carte du massif des Trois Cimes punaisée au mur, le regard perdu du côté du Pas du Berger.
 
