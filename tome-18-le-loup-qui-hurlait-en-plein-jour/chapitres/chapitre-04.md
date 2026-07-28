@@ -100,7 +100,7 @@ Fabienne échangea un regard avec Souly qui en disait long : voilà, préciséme
 
 Le plus jeune des trois patous, profitant de la pause dans la conversation, avait entrepris de mâchouiller consciencieusement le lacet de la botte gauche de Cyprien, qui ne s'en aperçut qu'au moment de faire un pas et de manquer trébucher.
 
-« Réglisse ! Non ! » Il récupéra son lacet à moitié détrempé, visiblement habitué à ce genre d'incident. « Celui-là, il mâchouille tout ce qui traîne. J'ai déjà perdu deux paires de gants et une télécommande.
+« Réglisse ! Non ! » Il récupéra son lacet à moitié détrempé, visiblement habitué à ces petits dégâts quotidiens. « Celui-là, il mâchouille tout ce qui traîne. J'ai déjà perdu deux paires de gants et une télécommande.
 
 — Il s'appelle Réglisse ? dit Sofia, ravie. C'est un super nom pour un chien blanc.
 
@@ -132,7 +132,7 @@ Un homme d'une soixantaine d'années, en salopette et casquette de travers, s'af
 
 — Le Berger Automatique Mark IV ! » annonça-t-il, la poitrine gonflée, en tapotant l'assemblage de tuyaux comme on flatte l'encolure d'un cheval de course. « Un système entièrement solaire qui détecte l'approche d'un prédateur grâce à des capteurs de mouvement, et qui déclenche automatiquement un aboiement enregistré, assez fort pour effrayer n'importe quel loup. Plus besoin de berger, plus besoin de chien, le troupeau se garde tout seul !
 
-— Et le Mark III ? demanda Souly, qui n'avait pas manqué de remarquer le chiffre romain, comme toujours attentif à ce genre de détail.
+— Et le Mark III ? demanda Souly, qui n'avait pas manqué de remarquer le chiffre romain, toujours attentif aux détails que d'autres auraient laissés filer.
 
 — Le Mark III avait un léger défaut de conception, admit Isidore après une hésitation. Il confondait les moutons eux-mêmes avec des prédateurs, et se déclenchait toutes les trente secondes. Les brebis n'ont pas fermé l'œil pendant deux nuits.
 

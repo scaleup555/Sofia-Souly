@@ -210,7 +210,7 @@ Sur la place, en fin de journée, le village entier semblait s'être donné rend
 
 Sofia, qui avait suivi de loin le va-et-vient de deux jeunes loups aperçus depuis le promontoire du matin même par les jumelles de la station (« à bonne distance, avait précisé Fabienne, jamais trop près »), se planta devant Élie avec une question qui la taraudait depuis la veille.
 
-« Élie. Si les louveteaux, c'est les bébés loups, et pas les scouts avec les foulards... ils ont quand même un genre de cheffe, non ? Genre, Écho, elle est un peu comme une cheftaine, pour eux ?
+« Élie. Si les louveteaux, c'est les bébés loups, et pas les scouts avec les foulards... ils ont quand même une sorte de cheffe, non ? Genre, Écho, elle est un peu comme une cheftaine, pour eux ?
 
 — Une cheftaine, répéta Élie, un sourire naissant sous sa moustache. C'est une façon de voir les choses, petite. Une drôle de façon, mais pas complètement fausse.
 

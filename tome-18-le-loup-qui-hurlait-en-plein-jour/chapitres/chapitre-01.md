@@ -112,7 +112,7 @@ La maison de Fabienne sentait le bois et le café froid, avec des cartes du mass
 
 — Des indices trouvés au sol — empreintes, poils accrochés à un fil de clôture. Les vertes, ce sont des zones de chasse probables. »
 
-Souly nota chaque couleur dans son carnet avec l'application d'un cartographe officiel, pendant que Sofia, elle, s'était déjà emparée d'un petit boîtier hérissé d'antennes posé sur l'étagère et commençait à en dévisser le capot arrière.
+Souly nota chaque couleur dans son carnet, aussi appliqué qu'un cartographe officiel, pendant que Sofia, elle, s'était déjà emparée d'un petit boîtier hérissé d'antennes posé sur l'étagère et commençait à en dévisser le capot arrière.
 
 « Sofia ! Repose ça, s'il te plaît, c'est un récepteur qui vaut plus cher que ma camionnette — enfin, que celle de Théo.
 

@@ -18,7 +18,7 @@ Fabienne, qui avait pris le bouquet par politesse, l'examina un instant et retin
 
 « Ce sont effectivement des edelweiss, Baptiste. Une espèce strictement protégée. Il est interdit de les cueillir — ça pousse en général plus haut, sur des pentes rocailleuses, mais on en trouve parfois plus bas, autour de la crête, justement.
 
-— Protégée pourquoi, exactement ? demanda-t-il, avec l'espoir vain que le détail pourrait encore le sauver.
+— Protégée pourquoi, exactement ? demanda-t-il, s'accrochant encore à l'espoir que ce détail puisse le sauver.
 
 — Parce qu'elle est devenue rare, dit Fabienne, pas peu ironique. On l'a tellement cueillie, pendant des décennies, comme symbole de la montagne, qu'il a fallu l'interdire pour qu'il en reste encore aujourd'hui. »
 
@@ -40,13 +40,13 @@ Sofia et Souly, arrivés entre-temps sur le pas de la porte en pyjama, assistèr
 
 — Ça me va très bien », dit Baptiste, visiblement soulagé qu'on lui offre une porte de sortie honorable.
 
-Sofia s'empara aussitôt du pot en terre cuite qui traînait près de l'évier, et entreprit d'y transférer le bouquet avec une concentration absolue, terre jusqu'aux coudes, sous l'œil attendri de tout le monde.
+Sofia s'empara aussitôt du pot en terre cuite qui traînait près de l'évier, et entreprit d'y transférer le bouquet sans quitter des yeux la moindre racine, terre jusqu'aux coudes, sous l'œil attendri de tout le monde.
 
 « Je me déclare responsable officielle des edelweiss, annonça-t-elle solennellement, une motte de terre tombant de sa main directement sur ses chaussettes dépareillées. Si quelqu'un les touche sans ma permission, il aura affaire à moi.
 
 — Ça me semble une menace tout à fait raisonnable, dit Fabienne, très sérieuse. Baptiste, vous voilà officiellement sous la protection de la responsable officielle des edelweiss. Vous pouvez dormir tranquille.
 
-— Ça, j'en doute encore un peu, dit Baptiste, mais avec un vrai sourire, cette fois, le premier depuis son arrivée. »
+— Ça, j'en doute encore un peu, dit Baptiste, un vrai sourire aux lèvres cette fois, le premier depuis son arrivée. »
 
 Une fois le pot installé sur le rebord de la fenêtre — Sofia vérifiant trois fois qu'il ne risquait pas de tomber —, Fabienne insista pour que tout le monde s'attable enfin devant un vrai petit-déjeuner, Baptiste compris.
 
@@ -114,7 +114,7 @@ Baptiste, qui avait suivi toute la démonstration sans oser respirer trop fort, 
 
 — Il faudra être très silencieux, prévint Souly, du ton d'un vétéran de la question. Élie a été formel là-dessus. Pas de bruit, pas de lumière, pas de gestes brusques.
 
-— Je peux être silencieux, dit Baptiste, avec le sérieux d'un homme prêt à tout pour se racheter. Je peux même ne pas respirer, s'il le faut.
+— Je peux être silencieux, dit Baptiste, du ton d'un homme prêt à tout pour se racheter. Je peux même ne pas respirer, s'il le faut.
 
 — Ça, ce serait contre-productif, dit Fabienne, amusée. Respirez, Baptiste. Juste doucement. »
 
@@ -136,13 +136,13 @@ En milieu d'après-midi, Élie descendit lui-même jusqu'à la station, sa canne
 
 — Quarante ans de plus que les vôtres, en tout cas, dit Élie, un clin d'œil qui n'avait rien perdu de sa malice malgré son âge. »
 
-Le vieux berger resta encore un moment, à examiner avec un intérêt sincère le pot d'edelweiss sur le rebord de la fenêtre, sans faire le moindre commentaire sur son origine — un silence que Baptiste, encore présent dans la pièce, apprécia visiblement plus que n'importe quel mot de réconfort.
+Le vieux berger resta encore un moment à observer longuement le pot d'edelweiss sur le rebord de la fenêtre, sans faire le moindre commentaire sur son origine — un silence que Baptiste, encore présent dans la pièce, apprécia visiblement plus que n'importe quel mot de réconfort.
 
 « On compte bien sûr sur vous pour nous conseiller, avant la veillée de demain soir, dit Fabienne. Vous connaissez ce sentier mieux que quiconque.
 
 — Vous conseiller, répéta Élie, pas dupe une seconde. On verra ce que ça veut dire exactement, "conseiller". » Il ne précisa rien de plus, mais quelque chose dans sa façon de tapoter sa canne contre le sol laissait deviner qu'il n'avait pas l'intention de rester chez lui pendant que d'autres arpentaient sa montagne de nuit.
 
-Dans l'après-midi, alors que Sofia arrosait consciencieusement son pot d'edelweiss adopté — avec un enthousiasme qui laissait présager un excès d'eau plutôt qu'un déficit —, Théo la trouva penchée sur le rebord de la fenêtre, l'arrosoir dangereusement incliné.
+Dans l'après-midi, alors que Sofia arrosait consciencieusement son pot d'edelweiss adopté — au risque de les noyer plutôt que de les assoiffer —, Théo la trouva penchée sur le rebord de la fenêtre, l'arrosoir dangereusement incliné.
 
 « Tu en es à combien d'arrosages, aujourd'hui ?
 
@@ -168,11 +168,11 @@ Au dîner, ce soir-là, la table était plus animée que d'habitude : Cyprien é
 
 « Cette famille attire les catastrophes de café comme d'autres attirent les moustiques, observa Mamie Rose, en servant la soupe.
 
-— C'est un talent rare, reconnut Théo avec une fausse modestie. Il faut des années de pratique.
+— C'est un talent rare, reconnut Théo, faussement modeste. Il faut des années de pratique.
 
 — Toi, en tout cas, tu as clairement un don », dit Sofia, et personne, cette fois, n'eut le cœur de la contredire.
 
-Cyprien, qui n'était pas encore au courant de l'épisode du café renversé chez l'organisateur du concours, réclama qu'on lui raconte l'histoire dans le détail, ce que Sofia fit avec un tel enthousiasme théâtral, gestes à l'appui, que Frimousse leva la tête sous la table, visiblement convaincue qu'il se passait quelque chose d'important.
+Cyprien, qui n'était pas encore au courant de l'épisode du café renversé chez l'organisateur du concours, réclama qu'on lui raconte l'histoire dans le détail, ce que Sofia fit avec de grands gestes théâtraux, si bien que Frimousse leva la tête sous la table, visiblement convaincue qu'il se passait quelque chose d'important.
 
 Fabienne, plus silencieuse que d'habitude, observait la carte du massif des Trois Cimes punaisée au mur, le regard perdu du côté du Pas du Berger.
 
@@ -190,7 +190,7 @@ Ce soir-là, une fois la vaisselle rangée et les lumières de la cuisine étein
 
 « Demain, dit-elle, on aura enfin la vraie réponse, hein ? La vraie, vraie réponse.
 
-— Demain soir, la corrigea Souly, avec la précision qui ne le quittait jamais tout à fait, même à moitié endormi. Demain soir, c'est la veillée. La vraie réponse, celle qu'on pourra écrire noir sur blanc, ce sera sans doute le jour d'après, une fois qu'on aura pu comparer l'enregistrement avec les archives de la station.
+— Demain soir, la corrigea Souly, précis même à moitié endormi. Demain soir, c'est la veillée. La vraie réponse, celle qu'on pourra écrire noir sur blanc, ce sera sans doute le jour d'après, une fois qu'on aura pu comparer l'enregistrement avec les archives de la station.
 
 — Demain soir, puis après-demain, alors, répéta Sofia, en bâillant à s'en décrocher la mâchoire. J'espère qu'Écho a une belle voix.
 

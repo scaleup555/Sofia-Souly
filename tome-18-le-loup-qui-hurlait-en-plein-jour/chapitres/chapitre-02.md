@@ -234,7 +234,7 @@ Avant de repartir, Souly voulut absolument savoir combien de loups comptait la m
 
 — Pas celui-là, non. On ne peut pas tout suivre. Il faudrait plus de colliers que de biologistes dans ce pays. »
 
-Sur le chemin de la sortie, Sofia trébucha sur le tapis de l'entrée, envoyant valser un gobelet de sirop de myrtille encore à moitié plein, qui laissa sur le plancher une tache orange que Fabienne épongea sans même paraître surprise, comme si ce genre d'incident faisait déjà partie du décor habituel de la station.
+Sur le chemin de la sortie, Sofia trébucha sur le tapis de l'entrée, envoyant valser un gobelet de sirop de myrtille encore à moitié plein, qui laissa sur le plancher une tache orange que Fabienne épongea sans même paraître surprise, comme si ce petit désastre faisait déjà partie du décor habituel de la station.
 
 « Désolée !
 

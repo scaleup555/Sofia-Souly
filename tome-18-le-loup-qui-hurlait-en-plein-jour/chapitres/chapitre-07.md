@@ -12,7 +12,7 @@ Théo, déjà attablé, abaissa son journal, amusé.
 
 « Leur maison ? Je croyais que les loups n'avaient pas de maison, justement. C'est un peu tout l'intérêt de la question, non ?
 
-— Ils ont un endroit où ils laissent les bébés, corrigea Sofia avec le sérieux d'une professionnelle. C'est presque pareil. »
+— Ils ont un endroit où ils laissent les bébés, corrigea Sofia, aussi sérieuse qu'une vraie professionnelle. C'est presque pareil. »
 
 Fabienne les attendait dans la cuisine, une carte topographique du massif des Trois Cimes étalée sur la table, plusieurs zones entourées au feutre rouge.
 
