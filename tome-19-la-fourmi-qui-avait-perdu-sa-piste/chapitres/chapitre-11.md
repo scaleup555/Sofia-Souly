@@ -122,7 +122,7 @@ Les tables débordaient de victuailles : pain de campagne encore tiède, fromage
 
 C'est au moment du dessert — une tarte aux noix géante, préparée collectivement selon une recette qu'Honoré jurait tenir de sa propre grand-mère — que Sofia, qui n'avait pas dit un mot depuis un moment — signe, chez elle, d'une intense préparation intérieure —, se leva soudain de sa chaise et s'approcha du maire, planté près du micro éteint, en pleine conversation avec deux conseillers municipaux.
 
-« Excusez-moi, Monsieur le Maire, dit-elle avec le plus grand sérieux. Vous avez des vraies, ou des fourmis d'expression ? »
+« Excusez-moi, Monsieur le Maire, dit Sofia en plantant ses mains sur les hanches. Vous avez des vraies, ou des fourmis d'expression ? »
 
 Le maire, interrompu en pleine phrase, la regarda un instant sans comprendre.
 

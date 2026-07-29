@@ -6,9 +6,9 @@ Le lendemain matin, jour 12, Sofia se réveilla avec la sensation étrange qui a
 
 — Après le petit-déjeuner, confirma Mamie Rose, déjà occupée à préparer des tartines. Théo veut éviter les embouteillages de la départementale, il paraît qu'il y a des vendanges qui bloquent la route un peu plus loin.
 
-« Des vendanges ? s'étonna Sofia. On n'est même pas dans la bonne saison pour les vendanges, si ?
+— Des vendanges ? s'étonna Sofia. On n'est même pas dans la bonne saison pour les vendanges, si ?
 
-— Théo a ses propres sources d'information sur la circulation, dit Mamie Rose, qui n'ont jamais eu besoin d'être exactes pour le convaincre de partir plus tôt. »
+— Théo a ses propres sources d'information sur la circulation, dit Mamie Rose, qui n'ont jamais eu besoin d'être exactes pour le convaincre de partir plus tôt.
 
 — Encore une route qui pourrait le perdre, murmura Sofia à Souly, qui ne put retenir un sourire.
 

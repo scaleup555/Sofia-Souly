@@ -188,7 +188,7 @@ Honoré, en se relevant à l'aide de sa canne, salua Sofia et Souly d'un signe d
 
 — Rien que pour celui-là, confirma Souly. Certains levers de soleil méritent plus qu'une ligne. »
 
-Honoré hocha la tête, satisfait, et s'éloigna sur le chemin en direction de sa propre maison, sa canne frappant le gravier à un rythme régulier, presque musical, jusqu'à ce que la haie du verger le cache à leur vue. laissa échapper un bâillement qu'elle tenta immédiatement de dissimuler derrière sa main.
+Honoré hocha la tête, satisfait, et s'éloigna sur le chemin en direction de sa propre maison, sa canne frappant le gravier à un rythme régulier, presque musical, jusqu'à ce que la haie du verger le cache à leur vue. Cannelle laissa échapper un bâillement qu'elle tenta immédiatement de dissimuler derrière sa main.
 
 « J'ai tout ce qu'il faut pour finir la maquette, dit-elle, la voix un peu pâteuse. Le trajet complet de Rubis, minute par minute. Demain, je la termine.
 

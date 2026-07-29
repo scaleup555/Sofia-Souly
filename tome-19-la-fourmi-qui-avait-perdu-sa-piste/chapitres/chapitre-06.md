@@ -60,7 +60,7 @@ Il s'interrompit, refaisant le calcul une seconde fois pour être sûr, pendant 
 
 — Les preuves, elles, ça ne s'oublie pas non plus, ajouta Souly, retour à ses moutons avec toute la sévérité affectueuse qui le caractérisait.
 
-— Ça faisait des années que je n'avais pas eu l'occasion de vérifier une date aussi officiellement, dit Théo en raccrochant son téléphone avec un soupir satisfait. Ça m'a manqué, je dois dire.
+— Ça faisait des années que je n'avais pas eu l'occasion de vérifier une date aussi officiellement, dit Théo en raccrochant son téléphone, un soupir satisfait lui échappant. Ça m'a manqué, je dois dire.
 
 — Tu peux vérifier la mienne, si tu veux, proposa Sofia. Je suis née un mardi, il paraît.
 
@@ -84,9 +84,9 @@ Sofia, qui passait devant la fenêtre de la cuisine, s'arrêta net, la bouche en
 
 « Euh. Mamie Rose. Tu devrais peut-être pas rester assise là. »
 
-Mamie Rose rouvrit les yeux, suivit le regard de sa petite-fille jusqu'à ses propres pieds, et découvrit, avec un flegme tout britannique malgré ses origines strictement françaises, une colonne parfaitement organisée de fourmis remontant le long du pied du fauteuil, contournant méthodiquement ses chevilles, et disparaissant sous l'accoudoir.
+Mamie Rose rouvrit les yeux, suivit le regard de sa petite-fille jusqu'à ses propres pieds, et découvrit — sans un battement de cils, flegme tout britannique malgré ses origines strictement françaises — une colonne parfaitement organisée de fourmis remontant le long du pied du fauteuil, contournant méthodiquement ses chevilles, et disparaissant sous l'accoudoir.
 
-« Eh bien, dit-elle après un silence d'une seconde, sans bouger d'un centimètre. Il semblerait que ce fauteuil ait un charme que j'ignorais.
+« Eh bien, dit-elle après un silence d'une seconde, sans bouger d'un centimètre ni même hausser la voix. Il semblerait que ce fauteuil ait un charme que j'ignorais.
 
 — Mamie Rose, dit Sofia, des larmes de rire déjà aux yeux. Pour une fois, c'est vraiment des fourmis dans les jambes ! Des vraies, en plus !
 
@@ -94,7 +94,7 @@ Mamie Rose rouvrit les yeux, suivit le regard de sa petite-fille jusqu'à ses pr
 
 — C'est le reste du produit d'Aldéric d'hier, expliqua Violette en accourant, morte de rire avant même d'arriver. Il a dû en renverser un peu sur l'osier en démontant son matériel. Ne bougez surtout pas, elles ne vous feront rien, elles suivent juste une trace chimique qui n'a plus rien à voir avec vous.
 
-— Je m'en doutais un peu, dit Mamie Rose avec un calme olympien. Une institutrice de CM2 ne panique jamais devant une classe, même quand la classe compte quelques centaines d'élèves de plus que prévu, et huit pattes de moins chacun. »
+— Je m'en doutais un peu, dit Mamie Rose, tournant une page sans même un regard pour ses pieds. Une institutrice de CM2 ne panique jamais devant une classe, même quand la classe compte quelques centaines d'élèves de plus que prévu, et huit pattes de moins chacun. »
 
 Aldéric, alerté par les rires, arriva en courant depuis le fond du jardin, un tournevis encore à la main, et s'arrêta net en découvrant le tableau.
 
