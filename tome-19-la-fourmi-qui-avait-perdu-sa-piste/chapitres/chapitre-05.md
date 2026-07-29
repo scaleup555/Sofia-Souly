@@ -54,7 +54,7 @@ Ils le trouvèrent assis sur un muret de pierre sèche, une canne à la main plu
 
 « Celui-là, c'est Barnabé, dit Honoré sans une once d'hésitation. Ma grand-mère l'appelait comme ça parce qu'il penchait toujours un peu vers la gauche, comme un vieux monsieur du village qui boitait pareil. »
 
-Souly nota le détail, partagé entre scepticisme scientifique et fascination sincère, pendant que Sofia, elle, s'était déjà penchée pour inspecter les mollets d'Honoré avec le plus grand sérieux.
+Souly nota le détail, partagé entre scepticisme scientifique et fascination sincère, pendant que Sofia, elle, s'était déjà penchée pour inspecter les mollets d'Honoré, gravement concentrée sur sa tâche.
 
 « Qu'est-ce que tu fabriques, toi ? demanda Honoré, plus amusé qu'agacé.
 

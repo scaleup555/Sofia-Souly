@@ -150,7 +150,7 @@ Cannelle les accueillit sur le pas de la porte, un mètre-ruban encore autour du
 
 — Tu crois que tu pourras vraiment comparer le trajet réel d'une fourmi avec ce qu'on attend d'elle ? demanda Souly, sincèrement impressionné par l'ambition du projet.
 
-— Je peux essayer, dit Cannelle avec le plus grand sérieux. C'est exactement le type de détail que personne d'autre ne prend la peine de mesurer.
+— Je peux essayer, dit Cannelle, l'air professionnel. C'est exactement le type de détail que personne d'autre ne prend la peine de mesurer.
 
 — Elle a raison, dit Violette. C'est précisément ce niveau de précision qui va nous permettre de comprendre le fond de cette histoire, pas seulement sa cause. »
 

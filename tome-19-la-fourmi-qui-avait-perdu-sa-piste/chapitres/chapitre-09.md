@@ -212,7 +212,7 @@ Mamie Rose les accueillit sur le pas de la porte, encore en robe de chambre, une
 
 « Alors ? demanda-t-elle. Le grand moment ?
 
-— Le plus grand moment scientifique de toute ma vie, déclara Souly, la voix rauque de fatigue mais les yeux brillants. On a vu la piste se casser en direct. Et Rubis retrouver son chemin toute seule.
+— Le plus grand moment scientifique de toute ma vie, déclara Souly, la voix rauque de fatigue mais le regard électrique. On a vu la piste se casser en direct. Et Rubis retrouver son chemin toute seule.
 
 — Et j'ai vu le plus beau lever de soleil de toute ma vie, ajouta Sofia en s'affalant sur une chaise. Deux fois, en fait, si on compte celui d'hier à la fenêtre.
 

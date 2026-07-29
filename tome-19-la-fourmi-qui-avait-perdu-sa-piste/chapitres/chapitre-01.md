@@ -82,7 +82,7 @@ Théo, qui rangeait leurs sacs avec l'inefficacité méthodique qui le caractér
 
 — Comment on perd trois paires de lunettes le même après-midi ? demanda Souly, sincèrement admiratif.
 
-— En les posant à trois endroits différents pour ne pas les mélanger, dit Théo avec le plus grand sérieux, comme si l'explication suffisait à elle seule. » Il tâta ses poches — toutes celles de son gilet, l'une après l'autre — avant de se figer. « D'ailleurs. Où sont mes lunettes, là, maintenant ?
+— En les posant à trois endroits différents pour ne pas les mélanger, dit Théo, parfaitement sérieux, comme si l'explication suffisait à elle seule. » Il tâta ses poches — toutes celles de son gilet, l'une après l'autre — avant de se figer. « D'ailleurs. Où sont mes lunettes, là, maintenant ?
 
 — Sur ta tête, Théo, dit Violette, sans même se retourner.
 

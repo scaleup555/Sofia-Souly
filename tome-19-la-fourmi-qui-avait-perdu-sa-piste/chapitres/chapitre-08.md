@@ -48,7 +48,7 @@ Sofia et Souly, arrivés entre-temps sur le pas de la porte en pyjama, assistèr
 
 « Vous savez quoi, dit-elle finalement, c'est pas grave, Romuald. Tout le monde fait des erreurs, dans cette histoire. Regardez Mamie Rose, hier, elle s'est retrouvée avec une colonie entière de fourmis qui lui montait sur les pieds, à cause du machin d'Aldéric.
 
-— C'est vrai, ça ? demanda Romuald, un peu réconforté par la solidarité inattendue d'une enfant de neuf ans dans son propre naufrage.
+— C'est vrai, ça ? demanda Romuald, un peu réconforté par la solidarité inattendue d'une enfant de huit ans dans son propre naufrage.
 
 — Complètement, confirma Souly. Elle a fini son chapitre avant de bouger, comme si de rien n'était. On collectionne un peu les catastrophes attendrissantes, dans cette maison — et apparemment dans tout le village aussi, cette semaine.
 
@@ -70,7 +70,7 @@ Sofia, fidèle à ses habitudes, jeta un rapide coup d'œil aux mollets d'Agathe
 
 — Impeccables, dit Agathe, un peu surprise par la question. Pourquoi ?
 
-— Contrôle de routine, dit Sofia, avec le plus grand sérieux. »
+— Contrôle de routine, dit Sofia, sans se départir de son sérieux. »
 
 « D'ailleurs, dit Agathe en s'installant à la table, j'ai repensé à mes propres répulsifs. Peut-être qu'il existe des recettes moins agressives pour les fourmis utiles du verger. Je vais me renseigner sérieusement, maintenant que je sais que je ne suis pas coupable — mais que je pourrais quand même faire mieux.
 
@@ -80,7 +80,7 @@ Sofia, fidèle à ses habitudes, jeta un rapide coup d'œil aux mollets d'Agathe
 
 — Avec plaisir, dit Romuald, sincèrement soulagé de ne pas affronter cette corvée seul. »
 
-Le rempotage se fit dans la bonne humeur, Romuald creusant consciencieusement chaque trou pendant que Sofia plaquait ses étiquettes avec un sérieux de fonctionnaire, et Souly vérifiant, une dernière fois, qu'aucun pot ne se trouvait à moins de vingt mètres du vieux noyer — distance qu'il avait lui-même fixée, faute de mieux, « par principe de précaution ».
+Le rempotage se fit dans la bonne humeur, Romuald creusant consciencieusement chaque trou pendant que Sofia plaquait ses étiquettes, aussi sérieuse qu'une fonctionnaire tamponnant des dossiers officiels, et Souly vérifiant, une dernière fois, qu'aucun pot ne se trouvait à moins de vingt mètres du vieux noyer — distance qu'il avait lui-même fixée, faute de mieux, « par principe de précaution ».
 
 Une fois les plants installés dans des pots hermétiquement fermés — Sofia insistant pour ajouter une étiquette « DANGER FOURMIS, NE PAS OUVRIR PRÈS DU VIEUX NOYER » avec trois points d'exclamation supplémentaires par précaution —, Souly examina l'étiquette d'un œil critique.
 
@@ -106,9 +106,9 @@ Il s'arrêta net, la bouche encore ouverte sur son idée suivante, parce qu'à c
 
 — Aldéric, dit Violette par la fenêtre, à bout de souffle à force de rire, tu devrais vraiment tester tes trépieds loin des massifs de rosiers.
 
-— Noté pour le Mark III ! répondit-il joyeusement en se relevant, époussetant des pétales de rose de ses épaules avec la dignité d'un homme habitué à ce genre de sortie de scène. »
+— Noté pour le Mark III ! répondit-il joyeusement en se relevant, époussetant des pétales de rose de ses épaules comme si ce genre de sortie de scène lui était depuis longtemps familier. »
 
-Tout le monde sortit dans le jardin pour l'aider à se relever et à rassembler les morceaux épars de son invention, Sofia ramassant avec un sérieux tout professionnel chaque vis tombée dans l'herbe, et Romuald lui-même — encore un peu marqué par sa propre matinée — profitant de l'occasion pour se rendre utile en écartant les branches de rosier les plus proches du visage d'Aldéric.
+Tout le monde sortit dans le jardin pour l'aider à se relever et à rassembler les morceaux épars de son invention, Sofia ramassant chaque vis tombée dans l'herbe aussi concentrée qu'une professionnelle en mission, et Romuald lui-même — encore un peu marqué par sa propre matinée — profitant de l'occasion pour se rendre utile en écartant les branches de rosier les plus proches du visage d'Aldéric.
 
 « Au moins, une chose positive, remarqua Sofia en tendant à Aldéric une poignée de vis récupérées. Tu vois, Romuald, t'es plus le seul à avoir eu une matinée compliquée, aujourd'hui.
 
@@ -156,7 +156,7 @@ Violette applaudit, suivie par Romuald, un peu gêné mais ému par tant de rigu
 
 Souly, qui détestait par-dessus tout les indices laissés en suspens, griffonna aussitôt dans son carnet : *Rubis : plan B à élucider. Lien probable avec le rebondissement final.* Il souligna la phrase trois fois, pour faire bonne mesure.
 
-Dans l'après-midi, alors que Sofia s'entraînait, avec un succès très relatif, à reproduire la démarche caractéristique d'une fourrageuse chargée d'une brindille — ce qui lui valait de trébucher assez régulièrement sur le gravier de l'allée, sous le regard consterné mais amusé de Souly —, Cannelle passa à la maison avec sa maquette presque terminée : une réplique miniature du vieux noyer et de son verger, la piste principale marquée d'un fil rouge tendu entre deux petits piquets, et l'endroit exact où elle se cassait signalé par une minuscule étiquette en papier. Elle avait même reproduit, feuille par feuille, la silhouette penchée du fameux Barnabé qu'Honoré leur avait présenté quelques jours plus tôt, et planté dans la terre miniature une armée de fourmis en pâte à modeler, plus vraies que nature.
+Dans l'après-midi, alors que Sofia s'entraînait, non sans un succès très relatif, à reproduire la démarche caractéristique d'une fourrageuse chargée d'une brindille — ce qui lui valait de trébucher assez régulièrement sur le gravier de l'allée, sous le regard consterné mais amusé de Souly —, Cannelle passa à la maison avec sa maquette presque terminée : une réplique miniature du vieux noyer et de son verger, la piste principale marquée d'un fil rouge tendu entre deux petits piquets, et l'endroit exact où elle se cassait signalé par une minuscule étiquette en papier. Elle avait même reproduit, feuille par feuille, la silhouette penchée du fameux Barnabé qu'Honoré leur avait présenté quelques jours plus tôt, et planté dans la terre miniature une armée de fourmis en pâte à modeler, plus vraies que nature.
 
 Cannelle observa un instant Sofia zigzaguer sur l'allée, un bâton en guise de brindille serré entre les mains.
 
@@ -180,7 +180,7 @@ Cannelle observa un instant Sofia zigzaguer sur l'allée, un bâton en guise de 
 
 — C'est un peu la même idée, en fait, remarqua Sofia. Juste en plus petit.
 
-— Beaucoup plus petit, confirma Cannelle, avec une fierté tranquille. »
+— Beaucoup plus petit, confirma Cannelle en redressant légèrement les épaules, tranquillement fière. »
 
 Par la fenêtre, on apercevait déjà, sur la place du village, les premiers tréteaux de la Fête du Verger qu'on commençait à installer, trois jours avant l'échéance — guirlandes encore roulées, bâches pliées, et une estrade de bois qu'on montait planche par planche sous la supervision impatiente du maire.
 

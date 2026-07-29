@@ -200,7 +200,7 @@ Théo, qui débarrassait les assiettes avec sa lenteur habituelle, s'arrêta sou
 
 — Les jambes, confirma Théo. Ce village a un effet très particulier sur ma circulation sanguine, apparemment.
 
-— Ou alors c'est une malédiction du vieux noyer, dit Sofia avec le plus grand sérieux. On ne sait jamais. »
+— Ou alors c'est une malédiction du vieux noyer, dit Sofia, très sérieuse. On ne sait jamais. »
 
 Personne ne releva la remarque, mais Souly la nota tout de même, en bas de sa page, suivie d'un point d'interrogation qu'il ne prit même pas la peine de justifier.
 

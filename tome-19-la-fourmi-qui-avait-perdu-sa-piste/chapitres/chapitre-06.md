@@ -132,7 +132,7 @@ Cannelle, qui passait devant la maison à vélo, freina sec en apercevant l'attr
 
 — Mieux que ça, dit Sofia, hilare. Mamie Rose a fini un chapitre entier avec une colonie de fourmis sur les pieds.
 
-— Ça, dit Cannelle avec le plus grand sérieux, ça mérite une maquette. Je peux ? »
+— Ça, dit Cannelle, très sérieuse, ça mérite une maquette. Je peux ? »
 
 Sans attendre de réponse, elle s'accroupit près du fauteuil désormais vide, délaissé par les dernières retardataires à six pattes, et griffonna rapidement un croquis du pied, de l'accoudoir, et de la trajectoire probable de la colonne — par pur réflexe professionnel, précisa-t-elle, pas par manque de respect pour Mamie Rose.
 
