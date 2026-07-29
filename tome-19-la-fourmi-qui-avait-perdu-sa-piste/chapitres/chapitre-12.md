@@ -10,6 +10,32 @@ Le lendemain matin, jour 12, Sofia se réveilla avec la sensation étrange qui a
 
 — J'ai entendu ça, dit Théo depuis le couloir, sans la moindre trace de reproche dans la voix. Cette route-là, je la connais par cœur, figurez-vous. »
 
+Ils finirent de charger les derniers bagages dans la camionnette sous la surveillance sourcilleuse de Mamie Rose, qui vérifiait chaque sac deux fois plutôt qu'une.
+
+« Ta veilleuse-grenouille, Souly ?
+
+— Dans mon sac à dos, en évidence, promit-il.
+
+— Tes cailloux, Sofia ?
+
+— Toujours dans ma poche, dit Sofia en tapotant sa poche de short comme pour s'en assurer elle-même.
+
+— Mon gilet à mille poches ? demanda Théo, un peu anxieux.
+
+— Sur ton dos, depuis ce matin, dit Mamie Rose sans même se retourner. Tu l'as déjà vérifié trois fois. »
+
+Avant de rejoindre la camionnette, Sofia insista pour faire un dernier détour par le vieux noyer, ne serait-ce que pour quelques minutes.
+
+« Juste pour lui dire au revoir », expliqua-t-elle à Souly, qui ne discuta pas l'idée plus que ça.
+
+Ils trouvèrent le monticule paisible sous la lumière du matin, une file tranquille de fourrageuses allant et venant, comme si rien n'avait jamais perturbé leur chemin.
+
+« Au revoir, Rubis, où que tu sois là-dedans, murmura Sofia en s'accroupissant près du monticule. Continue à retrouver ton chemin. On reviendra vérifier, un jour.
+
+— Elle ne peut pas t'entendre, tu sais, dit Souly doucement.
+
+— Je sais, dit Sofia. Mais ça ne coûte rien de lui dire quand même. »
+
 Violette les attendait déjà dehors, un panier de noix et de confiture pour la route calé sur la hanche, le visage marqué par la fatigue heureuse de la veille.
 
 « Vous partez déjà, dit-elle, la lèvre un peu boudeuse. J'ai l'impression que vous venez tout juste d'arriver.
@@ -22,13 +48,23 @@ Violette les attendait déjà dehors, un panier de noix et de confiture pour la 
 
 — Dites-lui surtout de venir la prochaine fois, lui aussi, dit Violette. Ça fait bien trop d'années. »
 
-Sur le chemin vers la camionnette, ils croisèrent presque tout le village venu leur dire au revoir. Honoré fut le premier, appuyé sur sa canne, qui serra la main de Souly comme à un collègue de longue date et déposa un baiser sonore sur le front de Sofia.
+Sur le chemin vers la camionnette, ils croisèrent presque tout le village venu leur dire au revoir. D'autres villageois, croisés en chemin, s'arrêtaient un instant pour saluer d'un geste ou glisser un mot gentil — le vendeur de confitures qui avait vu Cannelle recevoir tant de compliments la veille, la dame âgée qui avait admiré la maquette, et jusqu'au conseiller municipal encore un peu essoufflé de sa mission de scribe officiel de la veille.
+
+Honoré fut le premier, appuyé sur sa canne, qui serra la main de Souly comme à un collègue de longue date et déposa un baiser sonore sur le front de Sofia.
 
 « Toi, dit-il, tu vas continuer à vérifier les jambes de tout le monde encore un moment, je le sens.
 
 — Sûrement, admit Sofia sans la moindre gêne. Mais la prochaine fois, je demanderai directement, sans tourner autour du pot. Ça va plus vite.
 
-— Voilà une amélioration que même ma grand-mère aurait approuvée », dit Honoré en riant, avant de s'écarter pour laisser place aux suivants.
+— Voilà une amélioration que même ma grand-mère aurait approuvée », dit Honoré en riant.
+
+Il resta un instant immobile, la main posée sur l'épaule de Souly.
+
+« Et toi, jeune homme, prends soin de ce carnet. Un jour, quelqu'un d'autre en aura besoin pour comprendre quelque chose d'important, et ce sera peut-être justement celui-là.
+
+— Je le garderai toute ma vie, promit Souly, sincèrement ému.
+
+— C'est tout ce qu'on demande », dit Honoré, la voix un peu rauque, avant de s'écarter pour laisser place aux suivants.
 
 Agathe arriva ensuite, un petit sachet de citronnelle à la main qu'elle tendit à Sofia avec un clin d'œil.
 
@@ -36,7 +72,11 @@ Agathe arriva ensuite, un petit sachet de citronnelle à la main qu'elle tendit 
 
 — Merci, dit Sofia en le rangeant précieusement dans sa poche, à côté de son caillou du jour. Je vais le garder toute ma vie, ce sachet. Enfin — jusqu'à ce qu'il ne sente plus rien.
 
-— C'est déjà pas mal, dit Agathe en riant. »
+— C'est déjà pas mal, dit Agathe en riant.
+
+— Vous allez rester longtemps encore, à Cantelauze ? demanda Souly.
+
+— Toute ma vie, si le village continue à m'accepter comme il l'a fait cette semaine, dit Agathe. C'est étrange à dire, mais se faire innocenter par deux enfants en vacances, ça fait plus pour la réputation d'une conseillère en jardinage que dix ans d'expérience. »
 
 Romuald, lui, attendait un peu à l'écart, encore un peu gêné par le souvenir des plants de menthe, un petit paquet enveloppé de papier kraft serré contre lui.
 
@@ -44,15 +84,31 @@ Romuald, lui, attendait un peu à l'écart, encore un peu gêné par le souvenir
 
 — C'est très gentil, Romuald, dit Souly, sincèrement touché. Et cette fois, je vérifie deux fois avant d'accepter — c'est pas de la menthe, hein ?
 
-— Promis, dit Romuald en riant de bon cœur. Juste du métal et un petit ressort. Rien de vivant là-dedans. »
+— Promis, dit Romuald en riant de bon cœur. Juste du métal et un petit ressort. Rien de vivant là-dedans.
 
-Cannelle, arrivée en courant, sa maquette du vieux noyer soigneusement calée dans les bras, s'arrêta net devant Sofia et Souly, hésitant un instant avant de tendre l'objet vers eux.
+— Vous avez bien fait de venir vous excuser en personne, la première fois, dit Sofia, très sérieuse. Ça a beaucoup compté, je crois.
+
+— Ça m'a coûté cher en fierté, avoua Romuald, mais ça valait largement le coup. Prenez soin de la Fourmilière du Vieux Noyer, tous les deux, où que vous soyez. Moi, je veillerai sur l'arrosage. »
+
+Cannelle, arrivée en courant, sa maquette du vieux noyer soigneusement calée dans les bras, s'arrêta net devant Sofia et Souly, hésitant un instant avant de tendre l'objet vers eux. Ses parents, restés en retrait près de leur camionnette de pépiniéristes, les observaient avec une fierté discrète.
 
 « Je veux que vous la gardiez, dit-elle. La maquette. Je pourrai toujours en refaire une autre, mais celle-là, c'est celle de votre enquête à vous aussi. Ça me semble juste qu'elle parte avec vous.
 
 — Cannelle, tu es sûre ? » Souly la prit avec des précautions infinies, comme s'il tenait un objet précieux entre ses mains — ce qui, songea-t-il, était exactement le cas. « Ça t'a pris des semaines.
 
-— J'en referai une autre, dit-elle en haussant les épaules, avec un sourire qu'elle ne cherchait pas à cacher. C'est ce que je fais de mieux, de toute façon. Recommencer.
+— J'en referai une autre, dit-elle en haussant les épaules, ne cherchant même plus à cacher sa fierté. C'est ce que je fais de mieux, de toute façon. Recommencer.
+
+Elle hésita un instant, puis ajouta, plus bas :
+
+« Vous me raconterez, hein ? Si jamais vous croisez encore des fourmis, où que vous alliez après. Je veux savoir si elles font toutes comme Rubis, ou si c'est vraiment elle, la plus forte.
+
+— Promis, dit Souly. Carnet contre maquette, on tient une vraie collaboration scientifique, maintenant.
+
+— Officielle et internationale, renchérit Sofia, très fière de la formule. »
+
+Sofia, sans un mot, serra Cannelle dans ses bras d'un geste si soudain que la maquette faillit basculer entre eux trois.
+
+« Fais attention ! » protesta Cannelle en riant, rattrapant de justesse un pan du vieux noyer miniature.
 
 — Comme Rubis, dit Sofia doucement.
 

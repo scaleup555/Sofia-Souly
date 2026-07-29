@@ -1,12 +1,14 @@
 # Chapitre 8 — Les plants de menthe de Romuald
 
-Jour 8. Dix-sept jours depuis le début du phénomène, nota Souly au réveil, avant de descendre à la cuisine où une surprise l'attendait : Romuald Ancenis, planté devant la porte, un grand panier d'osier à la main, débordant de plants verts fraîchement empotés.
+Jour 8. Dix-sept jours depuis le début du phénomène, nota Souly au réveil, en s'étirant avec la satisfaction tranquille d'un homme qui sent que l'enquête touche à sa phase finale.
+
+« Un. Deux. Trois », murmura-t-il, par habitude plus que par nécessité, avant de descendre à la cuisine, où Mamie Rose achevait de disposer les sablés au beurre dans leur sempiternelle boîte en fer marquée « THÉ ». Un coup frappé à la porte interrompit le service du chocolat chaud avant même que Souly n'ait eu le temps de s'asseoir : une surprise attendait sur le perron. Romuald Ancenis, planté devant la porte, un grand panier d'osier à la main, débordant de plants verts fraîchement empotés.
 
 « Bonjour ! dit-il d'une voix un peu trop forte, avant de tendre le panier à Violette qui venait d'ouvrir la porte. C'est pour... enfin, pour m'excuser. Pour l'arrosage. Pour tout, en fait.
 
 — Romuald, dit Violette, touchée mais embarrassée, ce n'est pas nécessaire, vraiment...
 
-— Si, si, c'est nécessaire, insista-t-il, en soulevant le panier un peu plus haut. Je n'ai pas dormi de la nuit, j'ai pensé à cette pauvre colonie qui doit refaire tout son travail chaque matin à cause de moi, alors ce matin je suis passé à la pépinière avant l'ouverture pour acheter ce qu'il y avait de plus vigoureux, et — »
+— Si, si, c'est nécessaire, insista-t-il, en soulevant le panier un peu plus haut. Je n'ai pas dormi de la nuit, j'ai pensé à cette pauvre colonie qui doit refaire tout son travail chaque matin à cause de moi, alors ce matin je suis passé à la pépinière avant l'ouverture pour acheter ce qu'il y avait de plus vigoureux — ce qui n'avait pas franchement ravi le pépiniériste, tiré du lit une bonne demi-heure trop tôt, mais qui avait fini par céder devant tant d'insistance matinale —, et — »
 
 Il s'interrompit, le regard soudain fixé sur les plants qu'il tenait, comme s'il les voyait vraiment pour la première fois.
 
@@ -22,7 +24,21 @@ Violette, qui avait pris le panier par politesse, l'examina un instant et dut se
 
 Romuald se prit le visage entre les mains, la voix étranglée par l'horreur.
 
-« Non. Non, non, non. Je viens d'installer un système d'arrosage qui a déjà cassé leur piste tous les matins, et pour m'excuser, j'apporte exactement la seule plante connue pour perturber une piste de fourmis encore davantage. C'est... c'est la pire semaine de ma carrière professionnelle.
+« Non. Non, non, non. Je viens d'installer un système d'arrosage qui a déjà cassé leur piste tous les matins, et pour m'excuser, j'apporte exactement la seule plante connue pour perturber une piste de fourmis encore davantage. C'est... c'est la pire semaine de ma carrière professionnelle. »
+
+C'est à cet instant précis qu'Honoré, qui passait par là comme chaque matin pour sa promenade rituelle jusqu'au muret du verger, s'arrêta net devant le portail, sa canne suspendue à mi-mouvement.
+
+« C'est bien de la menthe, ça, que je sens d'ici ? » demanda-t-il, sa voix portant loin dans l'air calme du matin.
+
+Romuald ferma les yeux, comme si le simple fait de ne plus voir la scène pouvait la faire disparaître.
+
+« Oui, Honoré. C'est de la menthe. J'ai apporté de la menthe en cadeau d'excuse, pour la fourmilière.
+
+— Mon garçon, dit Honoré en s'approchant, sans une once de moquerie dans la voix malgré la situation, je crois que je vais devoir graver ma règle sur une pancarte, à ce stade. Ça fait quarante ans que je la répète, et pourtant. »
+
+Un silence suivit, puis Honoré, le premier, se mit à rire — un rire profond, presque enfantin, qui eut raison de la résistance de Romuald.
+
+« Allez, dit le vieil homme en lui tapotant l'épaule. Au moins, toi, tu ne le referas plus jamais. C'est plus que je ne peux dire de la moitié des jardiniers de ce village.
 
 — C'est aussi l'une des plus drôles de la mienne, avoua Violette, n'y tenant plus, sous le regard médusé de Romuald, qui ne savait plus s'il devait rire avec elle ou disparaître dans le verger pour ne plus jamais en ressortir. »
 
