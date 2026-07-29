@@ -571,3 +571,35 @@ enquêteurs qui ne perdent jamais le compte ne laissent jamais une
 question sans réponse.*
 
 **Dès 8 ans. 12 chapitres, une énigme, deux twists.**
+
+---
+
+## Tome 18 — Le Loup qui hurlait en plein jour
+
+En plein jour, jamais. C'est la seule règle que personne, à
+Loubarèges, ne discute vraiment — jusqu'au matin où tout le village a
+entendu un loup hurler à onze heures quarante-deux, tout près du
+troupeau communal.
+
+À la Station de suivi de la meute de Corbenoire, Fabienne surveille
+cette famille de loups depuis des années, saison après saison. Un
+dresseur de patous tout juste arrivé au village, avec son sifflet
+inaudible pour des oreilles humaines, devient vite le premier suspect.
+
+Sofia et Souly, venus retrouver Fabienne, ancienne collègue de leur
+maman à l'hôpital, se lient d'amitié avec Capucine, neuf ans, qui
+entend chaque son du monde comme une couleur différente. Avec l'aide
+d'Élie, berger depuis quarante ans et gardien d'une règle que sa
+grand-mère lui a transmise sans jamais l'expliquer, ils vont devoir
+comprendre pourquoi, ce jour-là précisément, le silence n'a pas
+suffi.
+
+Un loup qui hurle en plein jour n'a jamais rien d'un accident.
+Parfois, c'est la preuve la plus bruyante qu'on puisse donner
+d'aimer quelqu'un.
+
+*Dix-huitième tome d'une série où la science, l'aventure et deux
+enquêteurs qui savent toujours écouter ne laissent jamais une
+question sans réponse.*
+
+**Dès 8 ans. 12 chapitres, une énigme, deux twists.**

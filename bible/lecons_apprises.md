@@ -74,6 +74,20 @@ pour chaque tome à partir de maintenant :
   par un geste concret ou la laisser porter par le dialogue seul. Si une telle
   étiquette est vraiment nécessaire, ne JAMAIS répéter la même formulation deux
   fois dans un même tome — varier systématiquement.
+- **« [petit/large/vrai/pauvre/demi-] sourire aux lèvres » comme étiquette de
+  dialogue est le même tic que « avec un(e) + nom abstrait » déguisé pour
+  contourner l'interdiction littérale (confirmé tome 18, 11 occurrences).
+  Traiter comme le tic banni ci-dessus : geste concret ou dialogue seul, sauf
+  variation authentique, plafond informel de 3-4 occurrences bien réparties et
+  jamais deux fois la même formulation exacte dans un même tome.**
+- **« visiblement » en narration (hors dialogue) est un tic de « dire au lieu de
+  montrer » à surveiller activement à chaque tome — signalé après le tome 2
+  (15 occurrences/17 800 mots) comme risque de régression, confirmé régressé
+  au tome 18 (38 occurrences/38 600 mots, densité plus élevée qu'au tome 2).
+  Autorisé uniquement à l'intérieur d'un dialogue direct (sens « clairement »,
+  comme les autres mots de hedging) ; en narration, remplacer par un geste
+  concret ou supprimer purement et simplement quand l'action qui précède
+  montre déjà l'émotion (le mot est très souvent pure redondance).**
 - **Ne jamais écrire « le/ce genre de [nom] qui/que »** comme raccourci
   descriptif. Toléré au maximum 1 fois par chapitre, jamais répété à l'identique.
 - **Hedging (« sans doute », « probablement », « sûrement », « certainement »)** :
@@ -1745,3 +1759,110 @@ la série, derrière le tome 13 (8,9/10). Un bug de chronologie inter-chapitres
 banni réintroduit pendant la correction elle-même et repéré par
 aplatissement (leçon n°39). Tome complet à 36 940 mots. .docx livré via
 un nouveau `build_docx.py` calqué sur celui du tome 15.
+
+**Bilan chiffré (tome 17) :** rédaction des 12 chapitres en une seule
+passe (~9 950 mots), expansion parallèle par 3 agents jusqu'à ~36 250
+mots — les trois agents d'expansion ET les trois agents de vérification
+initialement dispatchés en parallèle ont échoué pour cause de limite de
+session API, mais contrairement aux incidents précédents de ce type, le
+travail déjà écrit sur disque au moment de l'échec s'est révélé complet
+et directement exploitable, sans redispatch de l'expansion nécessaire —
+seule la vérification a dû être relancée. Vérification structurelle en
+trois passages parallèles avec recoupement croisé (leçon n°38) : une
+révélation prématurée cassant le fair-play, une contamination bible
+inter-tomes (nom d'animal déjà utilisé au tome 5), un bug de répliques
+consécutives, une confusion de chronologie (chiffre périmé recopié au
+lieu d'être recalculé), et une vingtaine d'étiquettes « avec un(e) +
+nom abstrait » reformulées — dont deux nouveaux doublons introduits
+par les agents en corrigeant, détectés par une seconde passe
+d'aplatissement (leçon n°39, confirmée une seconde fois). 1 seul
+passage jury complet : **7,5/10 dès le premier passage**, verdict
+« à corriger, polish uniquement ». Bug de chronologie de fond entre
+les chapitres 3 et 4 (scène continue sans coupure de jour alors que le
+décompte avançait quand même) — exactement le piège que l'outline de
+ce tome avait pourtant signalé nommément comme nécessitant une
+vigilance renforcée (leçon n°37, qui allait donc échouer une seconde
+fois consécutive malgré l'avertissement explicite) — corrigé en
+reportant la scène concernée au lendemain matin sans toucher aux
+chiffres déjà cohérents du chapitre 4. Trois incohérences mineures
+corrigées, marge de longueur reconstituée (36 402 → 38 248 mots),
+gabarit « très sérieux » réduit (29 → 12 occurrences). Tome complet à
+38 248 mots. .docx livré via un nouveau `build_docx.py` calqué sur
+celui du tome 16.
+
+**Leçon méthodologique n°40 — quand une même classe de bug de
+frontière de chapitre (leçon n°37) bloque le jury DEUX tomes de suite
+malgré un avertissement explicite dans l'outline, la vigilance en
+relecture ne suffit plus : il faut retirer le risque par construction.**
+Les tomes 16 et 17 ont chacun été bloqués en jury par une scène
+continue s'étalant sur deux chapitres sans coupure de jour, alors même
+que le décompte de la table de recalcul changeait de valeur — un bug
+identique, documenté, signalé « vigilance renforcée » dans l'outline du
+tome 17, et pourtant reproduit. Pour le tome 18, décision structurelle
+prise dès la planification : une architecture stricte « **un chapitre
+= un jour** », sans aucune exception, du chapitre 1 au chapitre 12
+(quitte à ajouter deux jours de récit supplémentaires par rapport au
+gabarit habituel de 10 jours). Résultat : le bug ne s'est PAS reproduit
+une troisième fois — le jury du tome 18 a explicitement qualifié la
+gestion de la chronologie de « la mieux gérée de toute la série à ce
+jour ». **Règle ajoutée : dès qu'une classe de bug structurel se répète
+sur deux tomes consécutifs malgré un avertissement ciblé dans
+l'outline, la correction pour le tome suivant doit être architecturale
+(supprimer la possibilité même du bug), pas seulement une nouvelle
+ligne de vigilance ajoutée à une liste déjà longue.**
+
+**Leçon méthodologique n°41 — un tic de narration explicitement banni
+peut être contourné à la lettre tout en survivant dans l'esprit, sous
+une formulation différente qui échappe au grep de la règle exacte.**
+Le jury du tome 18 a relevé que « [petit/large/vrai/pauvre] sourire aux
+lèvres » comme étiquette de dialogue (11 occurrences) est fonctionnellement
+identique au tic banni « avec un(e) + nom abstrait » — il nomme une
+expression du visage en raccourci d'émotion au lieu de la montrer par un
+geste concret — tout en évitant la détection par un grep sur « avec un(e) ».
+Le même passage a également confirmé la régression du tic « visiblement »
+en narration (38 occurrences/38 600 mots), déjà signalé comme risque
+après le tome 2 mais jamais inscrit comme règle actionnable. **Règle
+ajoutée : à chaque nouveau tome, ne pas se limiter à grepper la liste
+exacte de formulations bannies — chercher activement les VARIANTES qui
+produisent le même effet de « dire au lieu de montrer » avec un
+vocabulaire différent (ici : « sourire aux lèvres », « visiblement »).**
+Les deux tics ont été corrigés lors du passage jury du tome 18 (11→3 et
+38→2 occurrences respectivement, les occurrences restantes de
+« visiblement » toutes déplacées à l'intérieur d'un dialogue, seul
+contexte où le mot est autorisé) et le second passage jury a confirmé
+qu'aucun nouveau tic de remplacement n'avait été introduit par la
+correction elle-même (confirmation croisée de la leçon n°39 par un
+agent indépendant du correcteur).
+
+**Bilan chiffré (tome 18) :** rédaction des 12 chapitres en une seule
+passe (~16 640 mots, le premier jet le plus long de la série récente —
+architecture « un chapitre = un jour » oblige, 12 jours de récit contre
+9-10 habituellement), expansion parallèle par 3 agents jusqu'à 38 270
+mots. Un bug de chronologie au chapitre 11 (chiffres recopiés d'une
+ligne périmée de la table de recalcul) détecté et corrigé par l'agent
+d'expansion lui-même avant même la passe de vérification dédiée.
+Vérification structurelle en trois passages parallèles avec recoupement
+croisé (leçon n°38) — chacun ayant d'abord échoué une fois pour cause
+de limite de session API, redispatchés avec succès après une courte
+attente sans perte de travail : une fuite fair-play, une incohérence de
+nom de personnage secondaire entre chapitres, une contradiction
+géographique mineure, un guillemet non fermé, une vingtaine
+d'étiquettes « avec un(e) + nom abstrait ». Consolidation manuelle
+finale : plafond « genre de » (max 1/chapitre) rétabli à trois endroits
+où il avait été dépassé, deux derniers tics « avec un(e) + nom abstrait »
+nettoyés. 2 passages jury sur le manuscrit fini : **8,4/10 au premier
+passage** (« corrections nécessaires ») — chronologie saluée comme la
+mieux gérée de la série (voir leçon n°40), mais deux tics de narration
+en régression détectés (leçon n°41 : « visiblement » 38 occurrences,
+« sourire aux lèvres » comme étiquette de dialogue 11 occurrences) et
+une répartition un peu étroite des scènes embarrassantes-attendrissantes
+(seulement deux personnages secondaires pleinement dramatisés en
+direct). Corrections : les deux tics ramenés à 2 et 3 occurrences
+respectivement, la scène du café renversé de Cyprien pleinement
+dramatisée en direct (troisième personnage secondaire avec sa propre
+scène complète), récapitulatif du chapitre 8 aéré par une interruption
+physique. **Deuxième passage jury : 9,0/10 — ACCEPTÉ**, les cinq points
+du plan de correction tous résolus sans dommage de prose ni nouveau tic
+introduit, marge de longueur même légèrement augmentée par les
+corrections (38 270 → 38 608 mots). Tome complet à 38 608 mots. .docx
+livré via un nouveau `build_docx.py` calqué sur celui du tome 17.

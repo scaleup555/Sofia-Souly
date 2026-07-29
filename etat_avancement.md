@@ -1,9 +1,8 @@
 # État d'avancement — Série Sofia & Souly
 
-*Dernière mise à jour : Tome 17 rédigé en une seule passe (12/12
-chapitres, 38 248 mots), jury à 7,5/10 dès le premier passage
-(« polish uniquement »), corrections appliquées, .docx livré —
-2026-07-27*
+*Dernière mise à jour : Tome 18 rédigé en une seule passe (12/12
+chapitres, 38 608 mots), jury à 8,4/10 au premier passage puis
+9,0/10 après corrections (« ACCEPTÉ »), .docx livré — 2026-07-29*
 
 **À LIRE INTÉGRALEMENT avant de démarrer toute nouvelle session d'écriture**,
 avec `bible/personnages.md`, `bible/lecons_apprises.md`, et — depuis le
@@ -1160,3 +1159,92 @@ dans le récit)).
 - Livraison du fichier `.docx` final via un nouveau `build_docx.py`
   (calqué sur celui du tome 16). **Tomes 1 à 16 toujours entièrement
   terminés** ; tome 17 complet à 38 248 mots, livré à 7,5/10.
+
+### Session 24 (tome 18, écriture complète) — 2026-07-29
+
+- Tome 18 — **Le Loup qui hurlait en plein jour** (titre fixé par
+  `bible/titres_futurs.md`), thème pédagogique : éthologie du loup
+  (meute = famille plutôt que hiérarchie de dominance, mythe de
+  l'« alpha » à corriger, trois types de hurlements — contact/
+  ralliement, territorial en chœur, détresse isolée —, sites de
+  rendez-vous des louveteaux, identification bio-acoustique
+  individuelle, retour naturel du loup en France dans les années 1990).
+- Décor : village fictif de **Loubarèges**, au pied du massif des
+  Trois Cimes, en bordure de la forêt de Corbenoire ; repère central
+  **le Pas du Berger** ; individu suivi : **Écho**, louve dominante
+  (collier L-19) ; événement final : **la Fête de la Transhumance**.
+- **Décision structurelle majeure pour ce tome** : après que le même
+  bug de frontière de chapitre (leçon n°37 — scène continue sans
+  coupure de jour alors que la table de recalcul change de valeur) a
+  bloqué en jury à la fois le tome 16 et le tome 17, ce tome adopte une
+  architecture « **un chapitre = un jour** », sans exception, du
+  chapitre 1 au chapitre 12. Résultat : le bug de frontière de
+  chapitre ne s'est PAS reproduit une troisième fois — confirmé
+  explicitement par le jury comme « la meilleure gestion de cette
+  classe de bug de toute la série à ce jour ». Cette architecture est
+  recommandée pour tout tome futur où le risque de frontière de
+  chapitre est identifié dès la planification.
+- Six nouveaux personnages ajoutés à la bible : Fabienne Réault
+  (biologiste, ancienne collègue infirmière de Camille — lien
+  d'entrée en scène inédit), Capucine Anglade (9 ans, associe chaque
+  son à une couleur — synesthésie ludique, indice clé du twist final),
+  Élie Ganivet (vieux berger, règle orale « jamais de bruit au Pas du
+  Berger avant midi »), Isidore Panchaud (bricoleur comique,
+  inventions de protection de troupeau ratées, cône d'écoute
+  finalement utile), Cyprien Chambon (dresseur de patous, fausse piste
+  innocentée), Baptiste Sorlin (technicien télécom, vraie cause par
+  négligence).
+- Fair-play complet : Cyprien éliminé par quatre preuves indépendantes
+  croisées (organisateur du concours, photos horodatées, rendez-vous
+  vétérinaire, témoignage d'une concurrente), écart constant de trois
+  jours après l'incident — valeur jamais utilisée dans la série
+  jusqu'ici ; relais de Baptiste comme vraie cause, écart constant
+  d'un jour avant l'incident ; règle orale d'Élie validée
+  scientifiquement (heure de repos diurne de la meute) ; rebondissement
+  du titre : grâce au don son/couleur de Capucine, les enfants
+  découvrent que le hurlement du jour de l'incident est bien celui
+  d'Écho, mais qu'il s'agit d'un hurlement de contact délibéré et
+  urgent — pas de panique — pour déplacer ses louveteaux en plein
+  jour après la perturbation de leur site de rendez-vous ; résolution
+  collaborative (déplacement du relais, Cyprien devenu allié public,
+  règle d'Élie officialisée, cône d'Isidore adopté par la station).
+- Rédaction complète des 12 chapitres en une seule passe (~16 640
+  mots), puis expansion en parallèle via 3 agents dédiés (ch1-4, ch5-8,
+  ch9-12) jusqu'à 38 270 mots — un bug de chronologie au chapitre 11
+  (chiffres recopiés d'une ligne périmée de la table de recalcul plutôt
+  que recalculés pour le jour du récit) détecté et corrigé par l'agent
+  d'expansion lui-même. Trois agents de vérification structurelle
+  dispatchés en parallèle avec recoupement croisé explicite (leçon
+  n°38) ont chacun échoué une première fois pour cause de limite de
+  session API ; redispatchés avec succès après une courte attente, sans
+  perte de travail. Bugs trouvés et corrigés : une fuite fair-play
+  (un futur acquittement annoncé trop tôt par le narrateur), une
+  incohérence de nom de personnage secondaire (chien nommé différemment
+  selon les chapitres), une contradiction géographique mineure, un
+  guillemet non fermé, et une vingtaine d'étiquettes de dialogue
+  « avec un(e) + nom abstrait ». Consolidation manuelle finale : plafond
+  « genre de » (max 1/chapitre) rétabli, deux derniers tics « avec un(e)
+  + nom abstrait » nettoyés, guillemets revérifiés équilibrés dans les
+  12 chapitres.
+- 2 passages jury sur le manuscrit fini : **8,4/10 au premier passage**
+  (« corrections nécessaires »). Le jury a salué la gestion de la
+  chronologie comme la meilleure de la série, mais a identifié deux
+  tics de narration en régression — « visiblement » (38 occurrences,
+  déjà signalé comme risque de régression après le tome 2) et
+  « sourire aux lèvres » comme étiquette de dialogue répétée (11
+  occurrences, une reformulation du tic banni « avec un(e) + nom
+  abstrait » qui contournait la lettre de la règle sans en respecter
+  l'esprit) — plus une répartition un peu étroite des scènes
+  embarrassantes-attendrissantes. Corrections : « visiblement » réduit
+  à 2 occurrences (toutes deux à l'intérieur d'un dialogue, usage
+  autorisé), « sourire aux lèvres » réduit à 3 occurrences variées, la
+  scène du café renversé de Cyprien pleinement dramatisée en direct au
+  chapitre 8 (donnant à un troisième personnage secondaire sa propre
+  scène embarrassante-attendrissante complète), et le récapitulatif du
+  chapitre 8 aéré par une interruption physique (une bouilloire qui
+  siffle). **Deuxième passage jury : 9,0/10 — ACCEPTÉ**, les cinq
+  points du plan de correction tous résolus sans dommage de prose ni
+  nouveau tic introduit.
+- Livraison du fichier `.docx` final via un nouveau `build_docx.py`
+  (calqué sur celui du tome 17). **Tomes 1 à 17 toujours entièrement
+  terminés** ; tome 18 complet à 38 608 mots, livré à 9,0/10.
