@@ -1,7 +1,7 @@
 # État d'avancement — Série Sofia & Souly
 
-*Dernière mise à jour : Tome 18 rédigé en une seule passe (12/12
-chapitres, 38 608 mots), jury à 8,4/10 au premier passage puis
+*Dernière mise à jour : Tome 19 rédigé en une seule passe (12/12
+chapitres, 38 146 mots), jury à 8,7/10 au premier passage puis
 9,0/10 après corrections (« ACCEPTÉ »), .docx livré — 2026-07-29*
 
 **À LIRE INTÉGRALEMENT avant de démarrer toute nouvelle session d'écriture**,
@@ -1248,3 +1248,82 @@ dans le récit)).
 - Livraison du fichier `.docx` final via un nouveau `build_docx.py`
   (calqué sur celui du tome 17). **Tomes 1 à 17 toujours entièrement
   terminés** ; tome 18 complet à 38 608 mots, livré à 9,0/10.
+
+### Session 25 (tome 19, écriture complète) — 2026-07-29
+
+- Tome 19 — **La Fourmi qui avait perdu sa piste** (titre fixé par
+  `bible/titres_futurs.md`), thème pédagogique : myrmécologie
+  (communication chimique des fourmis — pistes de phéromones et leur
+  mécanisme d'auto-renforcement/évaporation, phéromones d'alarme et de
+  reconnaissance de colonie, le phénomène du « moulin à fourmis »
+  mentionné avec prudence, et le système de secours de navigation par
+  repères visuels/orientation interne qui permet à une fourrageuse
+  expérimentée de retrouver son chemin même sans piste chimique).
+- Décor : village fictif de **Cantelauze**, entouré de vergers de
+  noyers, en bordure de la forêt de Trescalan ; repère central **la
+  Fourmilière du Vieux Noyer** ; individu suivi : **Rubis**, fourrageuse
+  marquée d'un point de peinture rouge ; événement final : **la Fête
+  du Verger**.
+- Architecture « un chapitre = un jour » (leçon n°40) reconduite avec
+  succès pour la troisième fois consécutive — le jury a de nouveau
+  qualifié la chronologie de « la plus propre qu'il puisse vérifier »,
+  confirmant que cette décision structurelle règle définitivement le
+  bug de frontière de chapitre qui avait bloqué les tomes 16 et 17.
+- Six nouveaux personnages ajoutés à la bible : Violette Fontanel
+  (myrmécologue, cousine germaine du père de Sofia et Souly — lien
+  d'entrée en scène inédit), Cannelle Auberpin (9 ans, construit des
+  maquettes miniatures ultra-détaillées — indice clé du twist final),
+  Honoré Delclos (vieil arboriculteur, règle orale « jamais de menthe
+  autour du vieux noyer »), Aldéric Pommier (bricoleur comique, veut
+  « parler aux fourmis » via des phéromones artificielles), Agathe
+  Vallorine (conseillère en jardinage, fausse piste innocentée), Romuald
+  Ancenis (technicien en irrigation, vraie cause par négligence).
+- Fair-play complet : Agathe éliminée par quatre preuves indépendantes
+  croisées (organisateur du salon, badge, témoignage d'une autre
+  exposante, ticket de péage), écart constant de sept jours après le
+  début du phénomène — valeur jamais utilisée dans la série jusqu'ici ;
+  système d'arrosage de Romuald comme vraie cause, écart constant d'un
+  jour avant le phénomène ; règle orale d'Honoré sur la menthe validée
+  scientifiquement (une odeur forte masque une piste chimique aussi
+  sûrement que l'eau la dissout) ; rebondissement du titre : grâce aux
+  maquettes à l'échelle de Cannelle comparées aux enregistrements vidéo
+  de Violette, les enfants découvrent que Rubis ne suit jamais la piste
+  cassée mais retrouve son chemin seule grâce à des repères visuels et
+  à son sens de l'orientation interne, avant de retracer une piste
+  neuve pour toute la colonie chaque matin ; résolution collaborative
+  (reprogrammation de l'arrosage, Agathe alliée pour un jardinage
+  respectueux des fourmis, règle d'Honoré officialisée, dispositif
+  d'Aldéric enfin utile).
+- Rédaction complète des 12 chapitres en une seule passe (~15 570
+  mots), puis expansion en parallèle via 3 agents dédiés (ch1-4, ch5-8,
+  ch9-12) jusqu'à 36 768 mots. Auto-relecture immédiate après le
+  premier jet : un bug de chronologie (chiffre périmé recopié au
+  chapitre 4) et trois guillemets non fermés corrigés avant même la
+  passe d'expansion — application directe des leçons n°37/39 dès
+  l'écriture plutôt qu'en correction tardive. Trois agents de
+  vérification structurelle dispatchés en parallèle avec recoupement
+  croisé explicite (leçon n°38) : une phrase tronquée (sujet manquant)
+  corrigée au chapitre 9, guillemets réharmonisés aux chapitres 11-12,
+  incohérence d'âge de Sofia corrigée (neuf ans → huit ans, ch.8), une
+  vingtaine d'étiquettes « avec un(e) + nom abstrait » reformulées.
+  Consolidation manuelle finale : le tic « avec le plus grand sérieux »
+  (répété identiquement 7 fois à travers le livre) varié à 6 endroits.
+- 2 passages jury sur le manuscrit fini : **8,7/10 au premier passage**
+  (« corrections nécessaires, mineures »). Le jury a salué la
+  chronologie comme la plus propre de la série et la répartition des
+  scènes embarrassantes-attendrissantes sur quatre personnages
+  secondaires (Mamie Rose, Romuald, le maire, Théo) comme nettement
+  améliorée par rapport au tome 18, mais a identifié une marge de mots
+  trop mince (36 806 mots, à peine 800 au-dessus du plancher) et une
+  poignée de variantes déguisées de tics bannis (« ne put s'empêcher
+  de/retenir », « avec une gravité feinte », « avec une lenteur
+  appliquée »). Corrections : renforcement de la marge de mots à 38 131
+  (nouvelle scène embarrassante-attendrissante dédiée à Cannelle
+  ajoutée au chapitre 9, backstory de Violette approfondie, texture de
+  la Fête du Verger étoffée), les tics résiduels reformulés. **Deuxième
+  passage jury : 9,0/10 — ACCEPTÉ**, avec quelques points de polish
+  optionnels (incohérence mineure du running gag, deux mots de hedging
+  en narration) appliqués avant livraison finale.
+- Livraison du fichier `.docx` final via un nouveau `build_docx.py`
+  (calqué sur celui du tome 18). **Tomes 1 à 18 toujours entièrement
+  terminés** ; tome 19 complet à 38 146 mots, livré à 9,0/10.

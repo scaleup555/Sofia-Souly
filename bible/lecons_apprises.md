@@ -1866,3 +1866,58 @@ du plan de correction tous résolus sans dommage de prose ni nouveau tic
 introduit, marge de longueur même légèrement augmentée par les
 corrections (38 270 → 38 608 mots). Tome complet à 38 608 mots. .docx
 livré via un nouveau `build_docx.py` calqué sur celui du tome 17.
+
+**Leçon méthodologique n°42 — un tic corrigé une fois peut réapparaître
+sous une troisième formulation ; le contrôle doit rester actif à
+CHAQUE tome, pas seulement au tome où il a été découvert.** Le tome 19
+a confirmé, une deuxième fois, que « visiblement » en narration et
+« sourire aux lèvres » comme étiquette de dialogue (leçons n°40-41,
+détectées au tome 18) pouvaient être évitées dès l'écriture en les
+citant explicitement dans les instructions des agents de rédaction et
+d'expansion — zéro occurrence des deux tics dans tout le tome 19, sans
+correction nécessaire. Mais le jury du tome 19 a détecté une
+TROISIÈME famille de variantes du même réflexe (« dire au lieu de
+montrer » une émotion) : « ne put s'empêcher de / ne put retenir un
+sourire/son fou rire » (4 occurrences) et des adverbiaux « avec une
+gravité feinte », « avec une lenteur appliquée » qui avaient échappé
+à la vigilance ciblée sur les deux tics déjà nommés. **Règle ajoutée :
+lister nommément les tics déjà corrigés dans les instructions futures
+ne suffit pas indéfiniment — à chaque tome, consacrer une passe de
+relecture à la recherche active de NOUVELLES formulations produisant
+le même effet, pas seulement au grep des formulations déjà connues.**
+Par ailleurs, une passe de renforcement de mots ciblée sur plusieurs
+chapitres à la fois (plutôt qu'un seul) a elle-même réintroduit une
+petite grappe de ce même réflexe dans les chapitres fraîchement
+étoffés — confirmation que toute expansion tardive, même minime, doit
+être revérifiée avec la même rigueur qu'une rédaction initiale (lien
+direct avec la leçon n°39).
+
+**Bilan chiffré (tome 19) :** rédaction des 12 chapitres en une seule
+passe (~15 570 mots), auto-relecture immédiate détectant et corrigeant
+un bug de chronologie et trois guillemets non fermés avant même la
+passe d'expansion — application directe des leçons n°37/39 dès
+l'écriture. Expansion parallèle par 3 agents jusqu'à 36 768 mots.
+Vérification structurelle en trois passages parallèles avec
+recoupement croisé (leçon n°38) : une phrase tronquée, des guillemets
+réharmonisés, une incohérence d'âge (Sofia neuf ans → huit ans),
+une vingtaine d'étiquettes « avec un(e) + nom abstrait », et un tic
+« avec le plus grand sérieux » répété identiquement 7 fois à travers
+le livre (varié à 6 endroits en consolidation manuelle). 2 passages
+jury sur le manuscrit fini : **8,7/10 au premier passage** (« à
+corriger, mineur ») — chronologie de nouveau saluée comme la plus
+propre de la série (troisième tome consécutif à bénéficier de
+l'architecture « un chapitre = un jour », leçon n°40), répartition des
+scènes embarrassantes-attendrissantes sur quatre personnages
+secondaires jugée nettement améliorée par rapport au tome 18 (deux
+seulement), mais marge de mots trop mince (36 806, à peine 800 au-
+dessus du plancher) et une nouvelle famille de variantes du tic
+« dire au lieu de montrer » détectée (leçon n°42). Corrections :
++1 334 mots de contenu réel répartis sur sept chapitres (nouvelle
+scène embarrassante-attendrissante pour Cannelle, jusque-là seul
+personnage secondaire important sans sa propre scène complète),
+tics résiduels reformulés. **Deuxième passage jury : 9,0/10 —
+ACCEPTÉ**, plus quelques points de polish optionnels (incohérence
+mineure de running gag, deux mots de hedging en narration, trois
+étiquettes résiduelles) appliqués avant livraison. Tome complet à
+38 146 mots. .docx livré via un nouveau `build_docx.py` calqué sur
+celui du tome 18.

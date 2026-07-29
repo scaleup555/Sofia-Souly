@@ -603,3 +603,36 @@ enquêteurs qui savent toujours écouter ne laissent jamais une
 question sans réponse.*
 
 **Dès 8 ans. 12 chapitres, une énigme, deux twists.**
+
+---
+
+## Tome 19 — La Fourmi qui avait perdu sa piste
+
+Un chemin que suivent les fourmis depuis toujours, sous le vieux
+noyer de Cantelauze. Et, un matin, un chemin qui s'arrête net, au
+même endroit, comme effacé d'un coup de gomme invisible.
+
+À la Fourmilière du Vieux Noyer, l'une des plus grandes colonies de
+la région, la piste principale se casse chaque matin depuis des
+jours, menaçant les réserves de tout un hiver avant même que la Fête
+du Verger n'ait lieu. Une conseillère en jardinage tout juste
+arrivée au village, avec ses répulsifs à la citronnelle, devient
+vite la première suspecte.
+
+Sofia et Souly, venus retrouver Violette, cousine de leur papa
+qu'ils n'avaient jamais rencontrée, se lient d'amitié avec Cannelle,
+neuf ans, qui construit des maquettes miniatures d'une précision
+inouïe. Avec l'aide d'Honoré, arboriculteur depuis quarante ans et
+gardien d'une règle que sa grand-mère lui a transmise sans jamais
+l'expliquer, ils vont devoir comprendre pourquoi une piste vieille
+comme la colonie elle-même a soudain cessé de tenir.
+
+Une fourmi qui perd sa piste n'est pas forcément perdue. Parfois,
+elle vient juste d'en retrouver une autre, toute seule, sans que
+personne ne s'en aperçoive.
+
+*Dix-neuvième tome d'une série où la science, l'aventure et deux
+enquêteurs qui ne perdent jamais leur chemin ne laissent jamais une
+question sans réponse.*
+
+**Dès 8 ans. 12 chapitres, une énigme, deux twists.**
