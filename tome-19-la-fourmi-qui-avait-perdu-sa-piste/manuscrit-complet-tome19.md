@@ -152,7 +152,7 @@ Mamie Rose, fidèle à elle-même, avait sorti de son sac de voyage une boîte e
 
 — Je sais, dit Mamie Rose sans même lever les yeux de sa boîte. C'est justement pour ça que personne ne va jamais chercher dedans avant moi. »
 
-Un voisin passa sur le petit chemin longeant le jardin, un arrosoir à la main, et s'arrêta assez longtemps pour saluer la tablée et glisser, mi-sérieux mi-blagueur, qu'il espérait que « les cousins de la ville » n'avaient pas peur des insectes, vu ce qui se préparait pour la Fête. Violette lui répondit d'un geste vague et d'un sourire qui ne s'engageait sur rien, et il reprit son chemin en sifflotant, apparemment satisfait d'avoir semé sa petite graine d'inquiétude pour la soirée.
+Un voisin passa sur le petit chemin longeant le jardin, un arrosoir à la main, et s'arrêta assez longtemps pour saluer la tablée et glisser, mi-sérieux mi-blagueur, qu'il espérait que « les cousins de la ville » n'avaient pas peur des insectes, vu ce qui se préparait pour la Fête. Violette lui répondit d'un geste vague et d'un sourire qui ne s'engageait sur rien, et il reprit son chemin en sifflotant, tout content de sa petite graine d'inquiétude semée pour la soirée.
 
 « C'est toujours comme ça, ici ? demanda Souly. Tout le monde qui parle des fourmis à tout le monde ?
 
@@ -2462,7 +2462,7 @@ Il y eut un silence stupéfait de deux secondes, puis toute la tablée la plus p
 
 « C'est l'expression, petite, confirma-t-il enfin, essuyant une larme de rire. Juste l'expression. Mais je dois avouer que c'est la meilleure question qu'on m'ait posée de toute cette Fête du Verger.
 
-— Tant mieux, dit Sofia, parfaitement satisfaite d'elle-même. Ça fait neuf jours que je me demande ça pour tout le monde. Je pouvais pas repartir sans avoir vérifié au moins une fois officiellement. »
+— Tant mieux, dit Sofia, parfaitement satisfaite d'elle-même. Ça fait dix jours que je me demande ça pour tout le monde. Je pouvais pas repartir sans avoir vérifié au moins une fois officiellement. »
 
 La fête se prolongea tard dans l'après-midi, sous le soleil qui déclinait doucement sur les vergers, entre musique traditionnelle jouée par trois villageois à l'accordéon — dont l'un, un cousin éloigné d'Honoré, ne connaissait que deux airs mais les enchaînait avec une conviction qui compensait largement le répertoire limité —, danses improvisées où Théo se révéla d'une maladresse touchante, et Mamie Rose, qui accepta enfin de danser une valse hésitante avec Honoré, sous le regard attendri de tout le village — non sans avoir, au préalable, vérifié discrètement l'absence de tout fauteuil suspect dans un rayon de dix mètres.
 
@@ -2617,7 +2617,7 @@ Romuald, lui, attendait un peu à l'écart, encore un peu gêné par le souvenir
 
 — Ça m'a coûté cher en fierté, avoua Romuald, mais ça valait largement le coup. Prenez soin de la Fourmilière du Vieux Noyer, tous les deux, où que vous soyez. Moi, je veillerai sur l'arrosage. »
 
-Cannelle, arrivée en courant, sa maquette du vieux noyer soigneusement calée dans les bras, s'arrêta net devant Sofia et Souly, hésitant un instant avant de tendre l'objet vers eux. Ses parents, restés en retrait près de leur camionnette de pépiniéristes, les observaient avec une fierté discrète.
+Cannelle, arrivée en courant, sa maquette du vieux noyer soigneusement calée dans les bras, s'arrêta net devant Sofia et Souly, hésitant un instant avant de tendre l'objet vers eux. Ses parents, restés en retrait près de leur camionnette de pépiniéristes, les observaient sans un mot, la main de sa mère serrée sur le bras de son père.
 
 « Elle n'a pas dormi avant minuit une seule fois, cette semaine, lança sa mère, mi-fière mi-résignée. Mais je crois que ça valait le coup, cette fois. »
 
@@ -2669,7 +2669,7 @@ Au moment de monter dans la camionnette, alors que Théo vérifiait pour la troi
 
 « J'ai quelque chose pour vous deux. » Elle ouvrit sa paume, révélant deux minuscules gouttes de peinture rouge séchée, montées chacune sur une épingle en guise de broche. « Ce ne sont pas de vrais points de marquage de fourmi, précisa-t-elle, mais j'ai pensé que ça pourrait vous plaire quand même. »
 
-Sofia la prit avec un sérieux presque cérémoniel, l'épingla aussitôt sur son t-shirt, juste à côté de son cœur.
+Sofia la prit à deux mains, presque solennelle, l'épingla aussitôt sur son t-shirt, juste à côté de son cœur.
 
 « Ça veut dire que je suis officiellement une Rubis, maintenant ?
 
@@ -2709,7 +2709,7 @@ Sofia et Souly échangèrent un regard amusé depuis la banquette arrière, la m
 
 — Je viens de l'écrire, dit Souly, en refermant le carnet sur sa toute nouvelle ligne, sans lever les yeux. »
 
-Le village disparut bientôt derrière la première colline, remplacé par les rangées bien ordonnées de vergers inconnus et de champs qu'ils ne reverraient peut-être jamais. Sofia resta silencieuse un long moment, le nez contre la vitre, regardant défiler un paysage qu'elle avait fini par connaître par cœur en douze jours à peine.
+Le village disparut bientôt derrière la première colline, remplacé par les rangées bien ordonnées de vergers inconnus et de champs qui ne referaient plus surface avant longtemps dans leur vie. Sofia resta silencieuse un long moment, le nez contre la vitre, regardant défiler un paysage qu'elle avait fini par connaître par cœur en douze jours à peine.
 
 « Ça va me manquer, dit-elle finalement, sans quitter la vitre des yeux. Cantelauze. Le vieux noyer. Tout ça.
 

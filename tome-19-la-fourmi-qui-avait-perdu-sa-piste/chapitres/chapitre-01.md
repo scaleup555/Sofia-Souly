@@ -152,7 +152,7 @@ Mamie Rose, fidèle à elle-même, avait sorti de son sac de voyage une boîte e
 
 — Je sais, dit Mamie Rose sans même lever les yeux de sa boîte. C'est justement pour ça que personne ne va jamais chercher dedans avant moi. »
 
-Un voisin passa sur le petit chemin longeant le jardin, un arrosoir à la main, et s'arrêta assez longtemps pour saluer la tablée et glisser, mi-sérieux mi-blagueur, qu'il espérait que « les cousins de la ville » n'avaient pas peur des insectes, vu ce qui se préparait pour la Fête. Violette lui répondit d'un geste vague et d'un sourire qui ne s'engageait sur rien, et il reprit son chemin en sifflotant, apparemment satisfait d'avoir semé sa petite graine d'inquiétude pour la soirée.
+Un voisin passa sur le petit chemin longeant le jardin, un arrosoir à la main, et s'arrêta assez longtemps pour saluer la tablée et glisser, mi-sérieux mi-blagueur, qu'il espérait que « les cousins de la ville » n'avaient pas peur des insectes, vu ce qui se préparait pour la Fête. Violette lui répondit d'un geste vague et d'un sourire qui ne s'engageait sur rien, et il reprit son chemin en sifflotant, tout content de sa petite graine d'inquiétude semée pour la soirée.
 
 « C'est toujours comme ça, ici ? demanda Souly. Tout le monde qui parle des fourmis à tout le monde ?
 

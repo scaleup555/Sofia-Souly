@@ -100,7 +100,7 @@ Romuald, lui, attendait un peu à l'écart, encore un peu gêné par le souvenir
 
 — Ça m'a coûté cher en fierté, avoua Romuald, mais ça valait largement le coup. Prenez soin de la Fourmilière du Vieux Noyer, tous les deux, où que vous soyez. Moi, je veillerai sur l'arrosage. »
 
-Cannelle, arrivée en courant, sa maquette du vieux noyer soigneusement calée dans les bras, s'arrêta net devant Sofia et Souly, hésitant un instant avant de tendre l'objet vers eux. Ses parents, restés en retrait près de leur camionnette de pépiniéristes, les observaient avec une fierté discrète.
+Cannelle, arrivée en courant, sa maquette du vieux noyer soigneusement calée dans les bras, s'arrêta net devant Sofia et Souly, hésitant un instant avant de tendre l'objet vers eux. Ses parents, restés en retrait près de leur camionnette de pépiniéristes, les observaient sans un mot, la main de sa mère serrée sur le bras de son père.
 
 « Elle n'a pas dormi avant minuit une seule fois, cette semaine, lança sa mère, mi-fière mi-résignée. Mais je crois que ça valait le coup, cette fois. »
 
@@ -152,7 +152,7 @@ Au moment de monter dans la camionnette, alors que Théo vérifiait pour la troi
 
 « J'ai quelque chose pour vous deux. » Elle ouvrit sa paume, révélant deux minuscules gouttes de peinture rouge séchée, montées chacune sur une épingle en guise de broche. « Ce ne sont pas de vrais points de marquage de fourmi, précisa-t-elle, mais j'ai pensé que ça pourrait vous plaire quand même. »
 
-Sofia la prit avec un sérieux presque cérémoniel, l'épingla aussitôt sur son t-shirt, juste à côté de son cœur.
+Sofia la prit à deux mains, presque solennelle, l'épingla aussitôt sur son t-shirt, juste à côté de son cœur.
 
 « Ça veut dire que je suis officiellement une Rubis, maintenant ?
 
@@ -192,7 +192,7 @@ Sofia et Souly échangèrent un regard amusé depuis la banquette arrière, la m
 
 — Je viens de l'écrire, dit Souly, en refermant le carnet sur sa toute nouvelle ligne, sans lever les yeux. »
 
-Le village disparut bientôt derrière la première colline, remplacé par les rangées bien ordonnées de vergers inconnus et de champs qu'ils ne reverraient peut-être jamais. Sofia resta silencieuse un long moment, le nez contre la vitre, regardant défiler un paysage qu'elle avait fini par connaître par cœur en douze jours à peine.
+Le village disparut bientôt derrière la première colline, remplacé par les rangées bien ordonnées de vergers inconnus et de champs qui ne referaient plus surface avant longtemps dans leur vie. Sofia resta silencieuse un long moment, le nez contre la vitre, regardant défiler un paysage qu'elle avait fini par connaître par cœur en douze jours à peine.
 
 « Ça va me manquer, dit-elle finalement, sans quitter la vitre des yeux. Cantelauze. Le vieux noyer. Tout ça.
 

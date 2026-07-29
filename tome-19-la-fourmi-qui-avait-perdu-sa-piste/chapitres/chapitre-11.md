@@ -138,7 +138,7 @@ Il y eut un silence stupéfait de deux secondes, puis toute la tablée la plus p
 
 « C'est l'expression, petite, confirma-t-il enfin, essuyant une larme de rire. Juste l'expression. Mais je dois avouer que c'est la meilleure question qu'on m'ait posée de toute cette Fête du Verger.
 
-— Tant mieux, dit Sofia, parfaitement satisfaite d'elle-même. Ça fait neuf jours que je me demande ça pour tout le monde. Je pouvais pas repartir sans avoir vérifié au moins une fois officiellement. »
+— Tant mieux, dit Sofia, parfaitement satisfaite d'elle-même. Ça fait dix jours que je me demande ça pour tout le monde. Je pouvais pas repartir sans avoir vérifié au moins une fois officiellement. »
 
 La fête se prolongea tard dans l'après-midi, sous le soleil qui déclinait doucement sur les vergers, entre musique traditionnelle jouée par trois villageois à l'accordéon — dont l'un, un cousin éloigné d'Honoré, ne connaissait que deux airs mais les enchaînait avec une conviction qui compensait largement le répertoire limité —, danses improvisées où Théo se révéla d'une maladresse touchante, et Mamie Rose, qui accepta enfin de danser une valse hésitante avec Honoré, sous le regard attendri de tout le village — non sans avoir, au préalable, vérifié discrètement l'absence de tout fauteuil suspect dans un rayon de dix mètres.
 
