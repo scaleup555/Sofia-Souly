@@ -54,6 +54,20 @@ Ils le trouvèrent assis sur un muret de pierre sèche, une canne à la main plu
 
 « Celui-là, c'est Barnabé, dit Honoré sans une once d'hésitation. Ma grand-mère l'appelait comme ça parce qu'il penchait toujours un peu vers la gauche, comme un vieux monsieur du village qui boitait pareil. »
 
+« Et les autres, ils s'appellent comment ? insista Sofia, ravie d'apprendre que les arbres avaient une vie secrète.
+
+— Alors. » Honoré se redressa et compta sur ses doigts noueux, comme un écolier qui récite une leçon apprise trop souvent pour la rater. « Il y a Barnabé, donc. Firmin, le trapu, juste derrière. Ernestine, la maigre, près du puits. Et puis... » Il s'interrompit, le doigt suspendu en l'air, fouillant sa mémoire sans succès. « Et puis un autre, dont le nom m'échappe complètement. Ça ne m'était plus arrivé depuis des années. »
+
+Il parut si contrarié de sa propre défaillance qu'il en oublia un instant sa canne, manquant de perdre l'équilibre sur le muret avant de se rattraper d'une main un peu tremblante.
+
+« Ça vous arrive souvent, d'oublier ? demanda Sofia, plus doucement que d'habitude.
+
+— Jamais, avoua Honoré, la voix soudain moins assurée. C'est bien pour ça que ça m'embête. Quarante ans que je les connais tous par cœur, et voilà qu'un vieux noyer me joue des tours.
+
+— Peut-être qu'il a juste pas envie qu'on l'appelle aujourd'hui, suggéra Sofia. Les arbres aussi, ça doit avoir ses jours.
+
+— Voilà une explication qui me convient parfaitement, dit Honoré, le visage soudain détendu. Je la garde, celle-là. »
+
 Souly nota le détail, partagé entre scepticisme scientifique et fascination sincère, pendant que Sofia, elle, s'était déjà penchée pour inspecter les mollets d'Honoré, gravement concentrée sur sa tâche.
 
 « Qu'est-ce que tu fabriques, toi ? demanda Honoré, plus amusé qu'agacé.

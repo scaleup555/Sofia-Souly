@@ -42,6 +42,14 @@ Une femme s'approchait depuis une maison basse aux volets bleus, un sac à dos d
 
 — On s'écrivait des lettres, plus jeunes. De vraies lettres, sur du papier. Puis moins, puis plus du tout, comme souvent. Et puis un jour, on se retrouve cousins par téléphone, à organiser les vacances de deux enfants qu'on n'a jamais vus. » Elle haussa les épaules, la voix soudain plus rauque qu'elle ne l'aurait voulu. « La famille, c'est parfois comme une piste de fourmi : on ne l'entretient pas pendant des années, et puis quelqu'un repasse dessus, et elle redevient nette d'un coup.
 
+— Vous faisiez quoi, tous les deux, enfants ? demanda Souly, qui ne renonçait jamais à reconstituer une histoire jusqu'au bout.
+
+— Des bêtises, essentiellement, dit Violette en riant. Ton père et moi, on avait monté un poste d'observation dans le vieux poirier du jardin de mes parents, avec des jumelles à moitié cassées et un carnet où on notait absolument tout ce qui passait en dessous — les oiseaux, les chats du voisinage, et une fois, trois jours de suite, le facteur, parce qu'on le trouvait suspect sans trop savoir pourquoi.
+
+— Papa observait des trucs, lui aussi ? » Souly n'en revenait pas. « Il ne nous a jamais raconté ça.
+
+— Il a dû décider que ça ne le concernait plus, une fois adulte, dit Violette. Moi, en revanche, je n'ai jamais arrêté. J'ai juste échangé le poirier contre un vieux noyer, et le facteur contre une colonie entière.
+
 — C'est une image bizarre, dit Sofia.
 
 — Vous verrez demain que ce n'est pas si bizarre que ça », répondit Violette, avec un clin d'œil qui ne dévoilait rien de plus.

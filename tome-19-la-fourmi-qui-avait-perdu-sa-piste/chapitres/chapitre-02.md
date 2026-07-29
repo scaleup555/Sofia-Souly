@@ -204,6 +204,16 @@ Sur le chemin du retour, alors que le soleil montait haut au-dessus des vergers,
 
 Ils croisèrent, sur le chemin, deux villageois occupés à installer des guirlandes de papier orange et jaune le long de la rue principale — premiers préparatifs visibles de la Fête du Verger — et l'un d'eux héla Théo pour lui demander, mi-sérieux, s'il comptait aussi faire visiter la fourmilière aux touristes cette année. Théo répondit qu'il n'y connaissait strictement rien aux fourmis, ce qui ne sembla convaincre personne, et le sujet resta en suspens jusqu'à la maison.
 
+Le second villageois, lui, s'adressa directement à Souly, plus sérieusement qu'on ne l'aurait cru possible venant d'un inconnu occupé à dérouler du papier crépon.
+
+« Elles vont s'en remettre, vos fourmis ? On raconte que ça inquiète même la mairie. Parce que si on doit annoncer l'annulation de la visite, autant le savoir maintenant — j'ai commandé deux fois plus de guirlandes que d'habitude, cette année, en pensant qu'on aurait deux fois plus de monde.
+
+— On y travaille, promit Souly, surpris par son propre aplomb.
+
+— Tant mieux, dit l'homme, parce que sinon, je me retrouve avec des kilomètres de papier orange sur les bras pour rien. »
+
+Il reprit son échelle en sifflotant, pas franchement rassuré mais décidé, en bon villageois, à dérouler son papier crépon jusqu'au bout, quoi qu'il arrive.
+
 À table, ce midi-là, Mamie Rose voulut un compte rendu complet, et Sofia s'exécuta avec un luxe de détails qui mélangeait allègrement les phéromones, le point rouge de Rubis, les maquettes de Cannelle et le mystère du moulin à fourmis, dans un ordre que seul son cerveau à elle semblait trouver logique.
 
 « Donc, en résumé, dit Mamie Rose une fois le récit terminé, les fourmis se parlent avec des odeurs, l'une d'elles s'appelle Rubis, une petite fille construit des maisons miniatures, et il existe quelque part un manège de fourmis qui tourne pour toujours.

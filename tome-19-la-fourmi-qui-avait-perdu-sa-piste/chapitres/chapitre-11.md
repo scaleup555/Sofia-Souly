@@ -2,6 +2,8 @@
 
 Jour 11. Souly ne prit même pas la peine de noter le décompte des jours ce matin-là, trop occupé à observer par la fenêtre le village qui se transformait sous ses yeux : des tables chargées de paniers de noix fraîchement récoltées, des confitures alignées par dizaines, et déjà, dès l'aube, l'odeur sucrée d'un pressoir à jus de pomme qui tournait quelque part derrière la mairie, tandis que des enfants du village couraient d'un stand à l'autre en portant des guirlandes de papier crépon presque plus grandes qu'eux.
 
+Sur la place, les stands avaient poussé pendant la nuit comme des champignons après la pluie : celui du miel de noyer et des fourmis en chocolat, tenu par l'épicière elle-même, complété d'une pancarte fraîchement repeinte annonçant « recette spéciale Fête du Verger, quantité limitée » ; celui d'un fromager venu du bourg voisin, ses meules alignées sous une toile tendue entre deux poteaux ; et, plus loin, un vieux monsieur en bretelles qui accordait patiemment son accordéon, s'arrêtant tous les dix mètres pour saluer une connaissance ou glisser une plaisanterie sur le temps qu'il allait faire.
+
 « Tu n'as pas compté les jours, remarqua Sofia en s'installant à côté de lui.
 
 — Je sais. C'est étrange. Pour la première fois depuis qu'on est arrivés, je n'ai pas envie de savoir combien de jours se sont écoulés depuis quoi que ce soit. J'ai juste envie de profiter de celui-là.
@@ -118,7 +120,7 @@ Un murmure d'admiration remplaça la brève inquiétude, et Aldéric redressa le
 
 Un silence chaleureux accueillit ces mots, avant que la fête ne reprenne son cours, musique, dégustations de jus de pomme et de confitures, et une longue tablée commune où villageois et invités se mêlèrent sans distinction — remarquablement, d'ailleurs, sans la moindre fourmi en vue sur les nappes.
 
-Les tables débordaient de victuailles : pain de campagne encore tiède, fromages de chèvre enveloppés de feuilles, confitures de mirabelle et de coing en pots numérotés par année de récolte, et, trônant au centre, des paniers entiers de noix fraîchement décortiquées que les enfants du village se disputaient à grand renfort de canifs improvisés. Sofia, qui avait pourtant juré ne plus jamais toucher une noix après en avoir mangé sept d'affilée l'année précédente chez Mamie Rose, en reprit une huitième sans même s'en apercevoir.
+Les tables débordaient de victuailles : pain de campagne encore tiède, fromages de chèvre enveloppés de feuilles, confitures de mirabelle et de coing en pots numérotés par année de récolte, et, trônant au centre, des paniers entiers de noix fraîchement décortiquées que les enfants du village se disputaient à grand renfort de canifs improvisés. Entre les tables, l'odeur du jus de pomme fraîchement pressé se mêlait à celle, plus discrète, de l'huile de noix qu'on vendait en petites fioles numérotées, et quelqu'un, quelque part, avait allumé un feu de sarments dont la fumée légère flottait au-dessus des têtes sans jamais vraiment déranger personne. L'accordéoniste, occupé à accorder son instrument depuis le début de la matinée, se lança enfin dans un premier air un peu hésitant, aussitôt repris en chœur par une poignée de villageois qui semblaient en connaître les paroles depuis toujours. Sofia, qui avait pourtant juré ne plus jamais toucher une noix après en avoir mangé sept d'affilée l'année précédente chez Mamie Rose, en reprit une huitième sans même s'en apercevoir.
 
 C'est au moment du dessert — une tarte aux noix géante, préparée collectivement selon une recette qu'Honoré jurait tenir de sa propre grand-mère — que Sofia, qui n'avait pas dit un mot depuis un moment — signe, chez elle, d'une intense préparation intérieure —, se leva soudain de sa chaise et s'approcha du maire, planté près du micro éteint, en pleine conversation avec deux conseillers municipaux.
 
@@ -153,6 +155,8 @@ Un peu plus loin, Théo se lança dans une improvisation qui devait beaucoup plu
 — Jamais de la vie ! répondit Théo, hors d'haleine. Je maîtrise parfaitement la situation. »
 
 Il trébucha aussitôt sur son propre pied, se rattrapa de justesse à l'épaule d'un conseiller municipal surpris, et reprit sa danse comme si de rien n'était, ce qui déclencha un nouvel éclat de rire général — Théo lui-même, une fois la danse achevée, admettant volontiers auprès de Sofia qu'il n'avait absolument rien maîtrisé du tout, mais que ce n'était clairement pas l'essentiel de la soirée.
+
+Non loin de la piste de danse improvisée, un groupe d'enfants s'était lancé dans un jeu traditionnel de la Fête : deviner, les yeux bandés, lequel des paniers de noix alignés sur la table du concours pesait le plus lourd, sous l'arbitrage sourcilleux d'un vieux monsieur muni d'une balance à plateaux presque aussi ancienne que le vieux noyer lui-même. Les paris allaient bon train, en noisettes et en promesses de parts de tarte, et un gamin d'à peine six ans remporta la mise générale en devinant juste du premier coup, sous une explosion de protestations amusées chez tous les perdants.
 
 Cannelle, assise à la table des enfants avec sa maquette posée en évidence devant elle, recevait les compliments d'une file quasi ininterrompue de villageois curieux.
 

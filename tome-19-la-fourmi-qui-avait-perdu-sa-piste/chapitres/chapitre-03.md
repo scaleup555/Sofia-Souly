@@ -114,7 +114,9 @@ Un homme en costume légèrement trop grand pour lui, une écharpe tricolore pli
 
 Le maire les regarda tour à tour, l'air de quelqu'un qui doute franchement qu'une enquêtrice de huit ans et un carnettiste de douze ans puissent faire basculer la situation, mais choisit, par politesse, de ne rien en dire tout haut.
 
-« Je vous fais confiance, dit-il enfin. Jusqu'à la semaine prochaine, pas plus. »
+« Je vous fais confiance, dit-il enfin. Jusqu'à la semaine prochaine, pas plus. Et ne le prenez pas mal, mais j'ai déjà deux familles venues de la ville qui ont réservé leur week-end entier rien que pour "voir la fourmilière la plus impressionnante de la région". Si on doit annuler la visite, il faudra leur expliquer pourquoi, et "on ne sait pas encore" ne suffira pas à les faire revenir l'an prochain.
+
+— Je ferai de mon mieux pour vous épargner cette conversation, dit Violette. »
 
 Il repartit presque aussi vite qu'il était arrivé, laissant derrière lui un silence un peu pesant.
 

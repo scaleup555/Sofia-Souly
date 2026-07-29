@@ -42,6 +42,14 @@ Une femme s'approchait depuis une maison basse aux volets bleus, un sac à dos d
 
 — On s'écrivait des lettres, plus jeunes. De vraies lettres, sur du papier. Puis moins, puis plus du tout, comme souvent. Et puis un jour, on se retrouve cousins par téléphone, à organiser les vacances de deux enfants qu'on n'a jamais vus. » Elle haussa les épaules, la voix soudain plus rauque qu'elle ne l'aurait voulu. « La famille, c'est parfois comme une piste de fourmi : on ne l'entretient pas pendant des années, et puis quelqu'un repasse dessus, et elle redevient nette d'un coup.
 
+— Vous faisiez quoi, tous les deux, enfants ? demanda Souly, qui ne renonçait jamais à reconstituer une histoire jusqu'au bout.
+
+— Des bêtises, essentiellement, dit Violette en riant. Ton père et moi, on avait monté un poste d'observation dans le vieux poirier du jardin de mes parents, avec des jumelles à moitié cassées et un carnet où on notait absolument tout ce qui passait en dessous — les oiseaux, les chats du voisinage, et une fois, trois jours de suite, le facteur, parce qu'on le trouvait suspect sans trop savoir pourquoi.
+
+— Papa observait des trucs, lui aussi ? » Souly n'en revenait pas. « Il ne nous a jamais raconté ça.
+
+— Il a dû décider que ça ne le concernait plus, une fois adulte, dit Violette. Moi, en revanche, je n'ai jamais arrêté. J'ai juste échangé le poirier contre un vieux noyer, et le facteur contre une colonie entière.
+
 — C'est une image bizarre, dit Sofia.
 
 — Vous verrez demain que ce n'est pas si bizarre que ça », répondit Violette, avec un clin d'œil qui ne dévoilait rien de plus.
@@ -431,6 +439,16 @@ Sur le chemin du retour, alors que le soleil montait haut au-dessus des vergers,
 
 Ils croisèrent, sur le chemin, deux villageois occupés à installer des guirlandes de papier orange et jaune le long de la rue principale — premiers préparatifs visibles de la Fête du Verger — et l'un d'eux héla Théo pour lui demander, mi-sérieux, s'il comptait aussi faire visiter la fourmilière aux touristes cette année. Théo répondit qu'il n'y connaissait strictement rien aux fourmis, ce qui ne sembla convaincre personne, et le sujet resta en suspens jusqu'à la maison.
 
+Le second villageois, lui, s'adressa directement à Souly, plus sérieusement qu'on ne l'aurait cru possible venant d'un inconnu occupé à dérouler du papier crépon.
+
+« Elles vont s'en remettre, vos fourmis ? On raconte que ça inquiète même la mairie. Parce que si on doit annoncer l'annulation de la visite, autant le savoir maintenant — j'ai commandé deux fois plus de guirlandes que d'habitude, cette année, en pensant qu'on aurait deux fois plus de monde.
+
+— On y travaille, promit Souly, surpris par son propre aplomb.
+
+— Tant mieux, dit l'homme, parce que sinon, je me retrouve avec des kilomètres de papier orange sur les bras pour rien. »
+
+Il reprit son échelle en sifflotant, pas franchement rassuré mais décidé, en bon villageois, à dérouler son papier crépon jusqu'au bout, quoi qu'il arrive.
+
 À table, ce midi-là, Mamie Rose voulut un compte rendu complet, et Sofia s'exécuta avec un luxe de détails qui mélangeait allègrement les phéromones, le point rouge de Rubis, les maquettes de Cannelle et le mystère du moulin à fourmis, dans un ordre que seul son cerveau à elle semblait trouver logique.
 
 « Donc, en résumé, dit Mamie Rose une fois le récit terminé, les fourmis se parlent avec des odeurs, l'une d'elles s'appelle Rubis, une petite fille construit des maisons miniatures, et il existe quelque part un manège de fourmis qui tourne pour toujours.
@@ -560,7 +578,9 @@ Un homme en costume légèrement trop grand pour lui, une écharpe tricolore pli
 
 Le maire les regarda tour à tour, l'air de quelqu'un qui doute franchement qu'une enquêtrice de huit ans et un carnettiste de douze ans puissent faire basculer la situation, mais choisit, par politesse, de ne rien en dire tout haut.
 
-« Je vous fais confiance, dit-il enfin. Jusqu'à la semaine prochaine, pas plus. »
+« Je vous fais confiance, dit-il enfin. Jusqu'à la semaine prochaine, pas plus. Et ne le prenez pas mal, mais j'ai déjà deux familles venues de la ville qui ont réservé leur week-end entier rien que pour "voir la fourmilière la plus impressionnante de la région". Si on doit annuler la visite, il faudra leur expliquer pourquoi, et "on ne sait pas encore" ne suffira pas à les faire revenir l'an prochain.
+
+— Je ferai de mon mieux pour vous épargner cette conversation, dit Violette. »
 
 Il repartit presque aussi vite qu'il était arrivé, laissant derrière lui un silence un peu pesant.
 
@@ -604,7 +624,7 @@ Violette se pencha, sincèrement impressionnée par le niveau de détail déjà 
 
 « Cannelle, c'est du travail de professionnelle.
 
-— C'est juste du travail patient, corrigea Cannelle, mais elle ne put s'empêcher de sourire devant le compliment. Je reviens demain avec les buissons.
+— C'est juste du travail patient, corrigea Cannelle, un sourire lui échappant malgré elle devant le compliment. Je reviens demain avec les buissons.
 
 — Tu comptes finir avant la Fête ? demanda Souly.
 
@@ -943,6 +963,20 @@ Ils le trouvèrent assis sur un muret de pierre sèche, une canne à la main plu
 — Les arbres ont des prénoms ? Genre, celui-là, il s'appelle comment ? » Sofia désignait le tronc noueux le plus proche.
 
 « Celui-là, c'est Barnabé, dit Honoré sans une once d'hésitation. Ma grand-mère l'appelait comme ça parce qu'il penchait toujours un peu vers la gauche, comme un vieux monsieur du village qui boitait pareil. »
+
+« Et les autres, ils s'appellent comment ? insista Sofia, ravie d'apprendre que les arbres avaient une vie secrète.
+
+— Alors. » Honoré se redressa et compta sur ses doigts noueux, comme un écolier qui récite une leçon apprise trop souvent pour la rater. « Il y a Barnabé, donc. Firmin, le trapu, juste derrière. Ernestine, la maigre, près du puits. Et puis... » Il s'interrompit, le doigt suspendu en l'air, fouillant sa mémoire sans succès. « Et puis un autre, dont le nom m'échappe complètement. Ça ne m'était plus arrivé depuis des années. »
+
+Il parut si contrarié de sa propre défaillance qu'il en oublia un instant sa canne, manquant de perdre l'équilibre sur le muret avant de se rattraper d'une main un peu tremblante.
+
+« Ça vous arrive souvent, d'oublier ? demanda Sofia, plus doucement que d'habitude.
+
+— Jamais, avoua Honoré, la voix soudain moins assurée. C'est bien pour ça que ça m'embête. Quarante ans que je les connais tous par cœur, et voilà qu'un vieux noyer me joue des tours.
+
+— Peut-être qu'il a juste pas envie qu'on l'appelle aujourd'hui, suggéra Sofia. Les arbres aussi, ça doit avoir ses jours.
+
+— Voilà une explication qui me convient parfaitement, dit Honoré, le visage soudain détendu. Je la garde, celle-là. »
 
 Souly nota le détail, partagé entre scepticisme scientifique et fascination sincère, pendant que Sofia, elle, s'était déjà penchée pour inspecter les mollets d'Honoré, gravement concentrée sur sa tâche.
 
@@ -1448,6 +1482,16 @@ Honoré posa une main sur l'épaule du jeune technicien, un geste bref mais sinc
 
 Romuald hocha la tête, un peu moins accablé qu'avant, sans toutefois retrouver complètement son aplomb.
 
+« Vous savez, reprit Honoré, à mes débuts à moi, j'ai failli arracher la moitié du jeune verger un été, en confondant deux variétés de greffons. Mon père ne m'a plus laissé approcher un sécateur pendant deux mois entiers.
+
+— Et il vous a pardonné, au moins ? demanda Romuald, un peu requinqué par la confidence.
+
+— Il a fini par me redonner le sécateur, dit Honoré. C'est à peu près la seule forme de pardon qu'on connaisse, dans ce métier. On vous rend l'outil, et vous faites en sorte de ne plus jamais recommencer la même bêtise.
+
+— Ça, je peux vous le promettre, dit Romuald, presque soulagé d'apprendre qu'il n'était pas le premier du village à s'être couvert de honte pour une histoire de jardin.
+
+— Personne ne l'est jamais, pour longtemps, dit Honoré. Le village a la mémoire courte pour les bêtises sincères. Longue, en revanche, pour les bons gestes qui suivent. »
+
 Sofia, qui avait observé la scène en silence, s'approcha du technicien avec la spontanéité qui la caractérisait.
 
 « C'est pas votre faute si personne vous a prévenu. On peut pas deviner un truc invisible si personne le dit.
@@ -1546,7 +1590,7 @@ Violette, encore secouée de rire, l'aida à recharger sa brouette pour la desce
 
 — Un jour, peut-être, répéta Sofia, qui avait déjà entendu cette phrase une fois, quelques jours plus tôt, et qui commençait à y croire un peu, elle aussi. »
 
-Le dîner, ce soir-là, réunit tout le monde autour de la table, et Souly reprit du début, si minutieusement que Mamie Rose ne put retenir un sourire, l'histoire complète de la journée : le boîtier gris, les tuyaux en travers de la piste, l'écart d'un seul jour entre l'installation et le début du problème.
+Le dîner, ce soir-là, réunit tout le monde autour de la table, et Souly reprit du début, si minutieusement que Mamie Rose finit par sourire dans sa serviette, l'histoire complète de la journée : le boîtier gris, les tuyaux en travers de la piste, l'écart d'un seul jour entre l'installation et le début du problème.
 
 « Un seul jour, répéta Mamie Rose, pensive, en resservant du gratin à tout le monde. C'est fou, ce que peut faire un seul jour de différence, dans une enquête comme dans une vie.
 
@@ -1601,7 +1645,7 @@ Violette, qui avait pris le panier par politesse, l'examina un instant et dut se
 
 — Vigoureuse comment, exactement ? demanda-t-il, comme si le détail pouvait encore le sauver.
 
-— Vigoureuse au point qu'Honoré passe sa vie à répéter, depuis quarante ans, qu'il ne faut JAMAIS en planter autour du vieux noyer, dit Violette, incapable de retenir plus longtemps son fou rire. Son odeur trop forte perturbe les pistes chimiques des fourmis. »
+— Vigoureuse au point qu'Honoré passe sa vie à répéter, depuis quarante ans, qu'il ne faut JAMAIS en planter autour du vieux noyer, dit Violette, la voix déjà tremblante de rire contenu. Son odeur trop forte perturbe les pistes chimiques des fourmis. »
 
 Romuald se prit le visage entre les mains, la voix étranglée par l'horreur.
 
@@ -1822,7 +1866,21 @@ Violette les attendait déjà dans l'entrée, une thermos de chocolat chaud à l
 
 « Je connais ce verger mieux que quiconque, avait-il argumenté la veille, quand Violette avait timidement suggéré qu'il n'était peut-être pas obligé de se lever si tôt. Vous n'irez nulle part sans moi ce matin. »
 
-Cannelle les rejoignit au pied du chemin, sa maquette soigneusement enveloppée dans une taie d'oreiller pour la protéger de la rosée, un carnet de croquis vierge déjà ouvert sous le bras.
+Cannelle les rejoignit au pied du chemin, sa mère sur ses talons en robe de chambre, une écharpe dans une main et un thermos dans l'autre.
+
+« Cannelle Auberpin, tu es sortie sans ton écharpe ET sans manger. À cinq heures du matin, en plus !
+
+— Maman, s'il te plaît, pas devant tout le monde, dit Cannelle, un peu gênée, tout en acceptant l'écharpe sans s'arrêter de marcher.
+
+— Devant tout le monde ou pas, tu manges ce croissant, dit sa mère en le lui fourrant presque de force dans la main libre. Et je préviens Violette tout de suite : la nuit dernière, je l'ai retrouvée à deux heures du matin en train de mesurer la longueur de l'ombre de sa lampe de chevet sur le mur, "pour vérifier un angle".
+
+— Ce n'était pas n'importe quel angle, protesta Cannelle, la dignité un peu écornée. C'était celui du soleil sur le vieux noyer, à l'heure où Rubis sort du nid. Je devais vérifier avant de tout reporter sur la maquette.
+
+— À deux heures du matin, insista sa mère.
+
+— La science ne regarde pas l'heure, maman », répondit Cannelle, si sérieusement que tout le petit groupe éclata de rire, elle comprise, un peu malgré elle.
+
+Sa mère repartit en secouant la tête, mi-excédée mi-attendrie, la laissant enfin rejoindre le reste du groupe, sa maquette soigneusement enveloppée dans une taie d'oreiller pour la protéger de la rosée, un carnet de croquis vierge déjà ouvert sous le bras.
 
 « J'ai tout préparé, annonça-t-elle. Un crayon différent pour chaque minute, comme ça on pourra reconstituer le trajet de Rubis seconde par seconde, si besoin. »
 
@@ -1865,6 +1923,20 @@ Honoré, assis avec plus de raideur que d'habitude sur la souche qui lui servait
 — Ça doit faire beaucoup de fourmis, dit Sofia, tentant de faire le calcul dans sa tête et y renonçant presque aussitôt.
 
 — Des générations et des générations, oui, dit Honoré. Et à chaque génération, de nouvelles Rubis, quelque part là-dedans, prêtes à retrouver le chemin quand il le faut. »
+
+Violette, assise juste à côté de lui, laissa échapper un petit rire étouffé, presque prise en faute.
+
+« Vous savez qu'il continue de croire que je débarque tout juste dans le métier, chuchota-t-elle aux enfants. Alors que ça fait six ans qu'il me corrige sur la prononciation de "myrmécologue" chaque fois que je la rate.
+
+— Chaque fois, chuchota Honoré, sans une once de honte. La première fois qu'elle s'est présentée devant mon muret, cette petite, elle ne savait même pas que le vieux noyer avait un nom.
+
+— C'est faux, chuchota Violette, mi-amusée mi-vexée. Je savais qu'il s'appelait le Vieux Noyer.
+
+— Ça ne compte pas, ce n'est pas un vrai nom, ça, c'est une description, chuchota Honoré. Il a fallu que je vous présente Barnabé avant que vous compreniez la différence.
+
+— Six ans plus tard, me voilà à observer une fourmi avec vous à l'aube, chuchota Violette. On a fait du chemin, tous les deux.
+
+— Le meilleur qu'on pouvait faire, chuchota Honoré, la voix soudain plus grave. »
 
 Sofia, qui commençait déjà à sentir le froid s'infiltrer sous son manteau malgré les sablés de Mamie Rose, se blottit un peu plus contre Souly.
 
@@ -2254,6 +2326,8 @@ Souly éteignit la veilleuse en forme de grenouille sans un mot de plus, et le s
 
 Jour 11. Souly ne prit même pas la peine de noter le décompte des jours ce matin-là, trop occupé à observer par la fenêtre le village qui se transformait sous ses yeux : des tables chargées de paniers de noix fraîchement récoltées, des confitures alignées par dizaines, et déjà, dès l'aube, l'odeur sucrée d'un pressoir à jus de pomme qui tournait quelque part derrière la mairie, tandis que des enfants du village couraient d'un stand à l'autre en portant des guirlandes de papier crépon presque plus grandes qu'eux.
 
+Sur la place, les stands avaient poussé pendant la nuit comme des champignons après la pluie : celui du miel de noyer et des fourmis en chocolat, tenu par l'épicière elle-même, complété d'une pancarte fraîchement repeinte annonçant « recette spéciale Fête du Verger, quantité limitée » ; celui d'un fromager venu du bourg voisin, ses meules alignées sous une toile tendue entre deux poteaux ; et, plus loin, un vieux monsieur en bretelles qui accordait patiemment son accordéon, s'arrêtant tous les dix mètres pour saluer une connaissance ou glisser une plaisanterie sur le temps qu'il allait faire.
+
 « Tu n'as pas compté les jours, remarqua Sofia en s'installant à côté de lui.
 
 — Je sais. C'est étrange. Pour la première fois depuis qu'on est arrivés, je n'ai pas envie de savoir combien de jours se sont écoulés depuis quoi que ce soit. J'ai juste envie de profiter de celui-là.
@@ -2334,13 +2408,13 @@ Elle se tourna vers le vieil arboriculteur, qui monta à son tour, non sans rét
 
 — Et il en a un peu profité pour me faire promettre de ne plus jamais offrir de menthe à personne dans ce village, ajouta Romuald depuis le premier rang, ce qui déclencha un nouvel éclat de rire général.
 
-— On avisera au cas par cas, dit Honoré avec un clin d'œil qui n'avait rien perdu de sa malice malgré son âge. »
+— On avisera au cas par cas, dit Honoré, la malice intacte malgré son âge. »
 
 Le maire, cherchant du regard un des conseillers municipaux, réclama d'une voix un peu trop solennelle pour l'occasion le grand registre officiel des décisions du village, un cahier relié de cuir rouge qu'on ne sortait d'ordinaire que pour les mariages et les inaugurations.
 
 « Qu'on inscrive, dit-il avec emphase, tandis qu'un conseiller cherchait un stylo qui fonctionne encore, que la règle d'Honoré Delclos devient, à compter de ce jour, conseil de jardinage officiel de la commune de Cantelauze. Article premier.
 
-— C'est bon, vous avez fini ? finit par s'impatienter Honoré, tandis que le conseiller écrivait la phrase avec une lenteur appliquée sous un silence quasi religieux. On dirait que vous gravez ça dans la pierre.
+— C'est bon, vous avez fini ? finit par s'impatienter Honoré, tandis que le conseiller écrivait la phrase lettre après lettre, sous un silence quasi religieux. On dirait que vous gravez ça dans la pierre.
 
 — La postérité mérite bien ça, répondit le conseiller sans lever les yeux de sa page. »
 
@@ -2370,7 +2444,7 @@ Un murmure d'admiration remplaça la brève inquiétude, et Aldéric redressa le
 
 Un silence chaleureux accueillit ces mots, avant que la fête ne reprenne son cours, musique, dégustations de jus de pomme et de confitures, et une longue tablée commune où villageois et invités se mêlèrent sans distinction — remarquablement, d'ailleurs, sans la moindre fourmi en vue sur les nappes.
 
-Les tables débordaient de victuailles : pain de campagne encore tiède, fromages de chèvre enveloppés de feuilles, confitures de mirabelle et de coing en pots numérotés par année de récolte, et, trônant au centre, des paniers entiers de noix fraîchement décortiquées que les enfants du village se disputaient à grand renfort de canifs improvisés. Sofia, qui avait pourtant juré ne plus jamais toucher une noix après en avoir mangé sept d'affilée l'année précédente chez Mamie Rose, en reprit une huitième sans même s'en apercevoir.
+Les tables débordaient de victuailles : pain de campagne encore tiède, fromages de chèvre enveloppés de feuilles, confitures de mirabelle et de coing en pots numérotés par année de récolte, et, trônant au centre, des paniers entiers de noix fraîchement décortiquées que les enfants du village se disputaient à grand renfort de canifs improvisés. Entre les tables, l'odeur du jus de pomme fraîchement pressé se mêlait à celle, plus discrète, de l'huile de noix qu'on vendait en petites fioles numérotées, et quelqu'un, quelque part, avait allumé un feu de sarments dont la fumée légère flottait au-dessus des têtes sans jamais vraiment déranger personne. L'accordéoniste, occupé à accorder son instrument depuis le début de la matinée, se lança enfin dans un premier air un peu hésitant, aussitôt repris en chœur par une poignée de villageois qui semblaient en connaître les paroles depuis toujours. Sofia, qui avait pourtant juré ne plus jamais toucher une noix après en avoir mangé sept d'affilée l'année précédente chez Mamie Rose, en reprit une huitième sans même s'en apercevoir.
 
 C'est au moment du dessert — une tarte aux noix géante, préparée collectivement selon une recette qu'Honoré jurait tenir de sa propre grand-mère — que Sofia, qui n'avait pas dit un mot depuis un moment — signe, chez elle, d'une intense préparation intérieure —, se leva soudain de sa chaise et s'approcha du maire, planté près du micro éteint, en pleine conversation avec deux conseillers municipaux.
 
@@ -2405,6 +2479,8 @@ Un peu plus loin, Théo se lança dans une improvisation qui devait beaucoup plu
 — Jamais de la vie ! répondit Théo, hors d'haleine. Je maîtrise parfaitement la situation. »
 
 Il trébucha aussitôt sur son propre pied, se rattrapa de justesse à l'épaule d'un conseiller municipal surpris, et reprit sa danse comme si de rien n'était, ce qui déclencha un nouvel éclat de rire général — Théo lui-même, une fois la danse achevée, admettant volontiers auprès de Sofia qu'il n'avait absolument rien maîtrisé du tout, mais que ce n'était clairement pas l'essentiel de la soirée.
+
+Non loin de la piste de danse improvisée, un groupe d'enfants s'était lancé dans un jeu traditionnel de la Fête : deviner, les yeux bandés, lequel des paniers de noix alignés sur la table du concours pesait le plus lourd, sous l'arbitrage sourcilleux d'un vieux monsieur muni d'une balance à plateaux presque aussi ancienne que le vieux noyer lui-même. Les paris allaient bon train, en noisettes et en promesses de parts de tarte, et un gamin d'à peine six ans remporta la mise générale en devinant juste du premier coup, sous une explosion de protestations amusées chez tous les perdants.
 
 Cannelle, assise à la table des enfants avec sa maquette posée en évidence devant elle, recevait les compliments d'une file quasi ininterrompue de villageois curieux.
 
@@ -2451,7 +2527,7 @@ Le lendemain matin, jour 12, Sofia se réveilla avec la sensation étrange qui a
 
 — Théo a ses propres sources d'information sur la circulation, dit Mamie Rose, qui n'ont jamais eu besoin d'être exactes pour le convaincre de partir plus tôt.
 
-— Encore une route qui pourrait le perdre, murmura Sofia à Souly, qui ne put retenir un sourire.
+— Encore une route qui pourrait le perdre, murmura Sofia à Souly, qui pouffa malgré lui.
 
 — J'ai entendu ça, dit Théo depuis le couloir, sans la moindre trace de reproche dans la voix. Cette route-là, je la connais par cœur, figurez-vous. »
 
@@ -2517,7 +2593,7 @@ Il resta un instant immobile, la main posée sur l'épaule de Souly.
 
 — C'est tout ce qu'on demande », dit Honoré, la voix un peu rauque, avant de s'écarter pour laisser place aux suivants.
 
-Agathe arriva ensuite, un petit sachet de citronnelle à la main qu'elle tendit à Sofia avec un clin d'œil.
+Agathe arriva ensuite, un petit sachet de citronnelle à la main qu'elle tendit à Sofia en lui faisant un clin d'œil complice.
 
 « Pour ta chambre, cet été. Ça éloigne les moustiques sans embêter personne d'autre. Foi de conseillère innocentée.
 
@@ -2571,7 +2647,7 @@ Aldéric arriva en dernier, un peu essoufflé, poussant devant lui un petit char
 
 « Un souvenir, annonça-t-il fièrement. Le Communicateur Universel Interspécifique, version de poche. Il ne fait rien du tout, en fait — je n'ai pas eu le temps de le calibrer proprement — mais il a fière allure, et ça, c'est déjà beaucoup.
 
-— Merci, Aldéric, dit Théo en le récupérant avec une gravité feinte parfaitement assortie à l'objet. Je le rangerai avec honneur dans mon gilet, entre mes clés de voiture et mes trois radis oubliés depuis la semaine dernière.
+— Merci, Aldéric, dit Théo en le récupérant, faussement solennel, la mine parfaitement assortie à l'objet. Je le rangerai avec honneur dans mon gilet, entre mes clés de voiture et mes trois radis oubliés depuis la semaine dernière.
 
 — Vous avez des radis dans votre gilet ? demanda Aldéric, sincèrement intrigué.
 

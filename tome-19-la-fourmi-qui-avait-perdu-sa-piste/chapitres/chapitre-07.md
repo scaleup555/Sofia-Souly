@@ -110,6 +110,16 @@ Honoré posa une main sur l'épaule du jeune technicien, un geste bref mais sinc
 
 Romuald hocha la tête, un peu moins accablé qu'avant, sans toutefois retrouver complètement son aplomb.
 
+« Vous savez, reprit Honoré, à mes débuts à moi, j'ai failli arracher la moitié du jeune verger un été, en confondant deux variétés de greffons. Mon père ne m'a plus laissé approcher un sécateur pendant deux mois entiers.
+
+— Et il vous a pardonné, au moins ? demanda Romuald, un peu requinqué par la confidence.
+
+— Il a fini par me redonner le sécateur, dit Honoré. C'est à peu près la seule forme de pardon qu'on connaisse, dans ce métier. On vous rend l'outil, et vous faites en sorte de ne plus jamais recommencer la même bêtise.
+
+— Ça, je peux vous le promettre, dit Romuald, presque soulagé d'apprendre qu'il n'était pas le premier du village à s'être couvert de honte pour une histoire de jardin.
+
+— Personne ne l'est jamais, pour longtemps, dit Honoré. Le village a la mémoire courte pour les bêtises sincères. Longue, en revanche, pour les bons gestes qui suivent. »
+
 Sofia, qui avait observé la scène en silence, s'approcha du technicien avec la spontanéité qui la caractérisait.
 
 « C'est pas votre faute si personne vous a prévenu. On peut pas deviner un truc invisible si personne le dit.

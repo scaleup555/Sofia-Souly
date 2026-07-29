@@ -34,7 +34,21 @@ Violette les attendait déjà dans l'entrée, une thermos de chocolat chaud à l
 
 « Je connais ce verger mieux que quiconque, avait-il argumenté la veille, quand Violette avait timidement suggéré qu'il n'était peut-être pas obligé de se lever si tôt. Vous n'irez nulle part sans moi ce matin. »
 
-Cannelle les rejoignit au pied du chemin, sa maquette soigneusement enveloppée dans une taie d'oreiller pour la protéger de la rosée, un carnet de croquis vierge déjà ouvert sous le bras.
+Cannelle les rejoignit au pied du chemin, sa mère sur ses talons en robe de chambre, une écharpe dans une main et un thermos dans l'autre.
+
+« Cannelle Auberpin, tu es sortie sans ton écharpe ET sans manger. À cinq heures du matin, en plus !
+
+— Maman, s'il te plaît, pas devant tout le monde, dit Cannelle, un peu gênée, tout en acceptant l'écharpe sans s'arrêter de marcher.
+
+— Devant tout le monde ou pas, tu manges ce croissant, dit sa mère en le lui fourrant presque de force dans la main libre. Et je préviens Violette tout de suite : la nuit dernière, je l'ai retrouvée à deux heures du matin en train de mesurer la longueur de l'ombre de sa lampe de chevet sur le mur, "pour vérifier un angle".
+
+— Ce n'était pas n'importe quel angle, protesta Cannelle, la dignité un peu écornée. C'était celui du soleil sur le vieux noyer, à l'heure où Rubis sort du nid. Je devais vérifier avant de tout reporter sur la maquette.
+
+— À deux heures du matin, insista sa mère.
+
+— La science ne regarde pas l'heure, maman », répondit Cannelle, si sérieusement que tout le petit groupe éclata de rire, elle comprise, un peu malgré elle.
+
+Sa mère repartit en secouant la tête, mi-excédée mi-attendrie, la laissant enfin rejoindre le reste du groupe, sa maquette soigneusement enveloppée dans une taie d'oreiller pour la protéger de la rosée, un carnet de croquis vierge déjà ouvert sous le bras.
 
 « J'ai tout préparé, annonça-t-elle. Un crayon différent pour chaque minute, comme ça on pourra reconstituer le trajet de Rubis seconde par seconde, si besoin. »
 
@@ -77,6 +91,20 @@ Honoré, assis avec plus de raideur que d'habitude sur la souche qui lui servait
 — Ça doit faire beaucoup de fourmis, dit Sofia, tentant de faire le calcul dans sa tête et y renonçant presque aussitôt.
 
 — Des générations et des générations, oui, dit Honoré. Et à chaque génération, de nouvelles Rubis, quelque part là-dedans, prêtes à retrouver le chemin quand il le faut. »
+
+Violette, assise juste à côté de lui, laissa échapper un petit rire étouffé, presque prise en faute.
+
+« Vous savez qu'il continue de croire que je débarque tout juste dans le métier, chuchota-t-elle aux enfants. Alors que ça fait six ans qu'il me corrige sur la prononciation de "myrmécologue" chaque fois que je la rate.
+
+— Chaque fois, chuchota Honoré, sans une once de honte. La première fois qu'elle s'est présentée devant mon muret, cette petite, elle ne savait même pas que le vieux noyer avait un nom.
+
+— C'est faux, chuchota Violette, mi-amusée mi-vexée. Je savais qu'il s'appelait le Vieux Noyer.
+
+— Ça ne compte pas, ce n'est pas un vrai nom, ça, c'est une description, chuchota Honoré. Il a fallu que je vous présente Barnabé avant que vous compreniez la différence.
+
+— Six ans plus tard, me voilà à observer une fourmi avec vous à l'aube, chuchota Violette. On a fait du chemin, tous les deux.
+
+— Le meilleur qu'on pouvait faire, chuchota Honoré, la voix soudain plus grave. »
 
 Sofia, qui commençait déjà à sentir le froid s'infiltrer sous son manteau malgré les sablés de Mamie Rose, se blottit un peu plus contre Souly.
 
