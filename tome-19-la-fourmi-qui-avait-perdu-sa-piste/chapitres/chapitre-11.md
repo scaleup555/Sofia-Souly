@@ -94,7 +94,7 @@ Le maire, cherchant du regard un des conseillers municipaux, réclama d'une voix
 
 Le maire, la voix soudain moins assurée, s'avança pour serrer la main d'Honoré sous une nouvelle salve d'applaudissements, avant d'ajouter, presque en aparté mais suffisamment fort pour que tout le monde entende :
 
-« Et sachez qu'on aura désormais un outil supplémentaire pour éviter ce genre de désagrément à l'avenir. »
+« Et sachez qu'on aura désormais un outil supplémentaire pour éviter ce type de désagrément à l'avenir. »
 
 Il fit signe à Aldéric, qui s'avança en poussant fièrement son dernier prototype sur un petit chariot recouvert d'un drap, comme s'il présentait un trophée.
 

@@ -62,7 +62,7 @@ Agathe passa également en fin de matinée, un panier de courgettes sous le bras
 
 « J'ai entendu parler de l'histoire de la menthe, dit-elle, amusée, en entrant dans la cuisine. Tout le village en parle déjà. Je suis presque contente de ne pas être la seule à avoir des ennuis avec les odeurs, cette semaine.
 
-— Bienvenue au club, dit Romuald, piteux mais un peu réconforté par la solidarité.
+— Bienvenue au club, dit Romuald, piteux mais un peu réconforté par la solidarité. »
 
 Sofia, fidèle à ses habitudes, jeta un rapide coup d'œil aux mollets d'Agathe, qui dépassaient de sa jupe de jardinage.
 
@@ -72,7 +72,7 @@ Sofia, fidèle à ses habitudes, jeta un rapide coup d'œil aux mollets d'Agathe
 
 — Contrôle de routine, dit Sofia, avec le plus grand sérieux. »
 
-— D'ailleurs, dit Agathe en s'installant à la table, j'ai repensé à mes propres répulsifs. Peut-être qu'il existe des recettes moins agressives pour les fourmis utiles du verger. Je vais me renseigner sérieusement, maintenant que je sais que je ne suis pas coupable — mais que je pourrais quand même faire mieux.
+« D'ailleurs, dit Agathe en s'installant à la table, j'ai repensé à mes propres répulsifs. Peut-être qu'il existe des recettes moins agressives pour les fourmis utiles du verger. Je vais me renseigner sérieusement, maintenant que je sais que je ne suis pas coupable — mais que je pourrais quand même faire mieux.
 
 — C'est exactement l'esprit qu'on aimerait voir plus souvent, dit Violette, sincèrement touchée.
 
@@ -144,11 +144,29 @@ Violette applaudit, suivie par Romuald, un peu gêné mais ému par tant de rigu
 
 — Rubis a un plan B ? demanda Sofia, ravie par cette idée.
 
-— Rubis a un plan B, confirma Violette, un mystère dans la voix qui n'échappa à personne. Mais chaque chose en son temps. »
+— Rubis a un plan B, confirma Violette, un mystère dans la voix qui n'échappa à personne. Mais chaque chose en son temps.
+
+— Et la pluie, alors ? demanda Sofia. Ça doit pas arranger les affaires des fourmis non plus, si l'eau efface tout.
+
+— Exactement, confirma Violette. C'est même pour ça qu'une bonne averse peut parfois perturber une colonie entière pendant un jour ou deux, le temps que tout le monde retrace ses pistes. La différence, avec l'arrosage de Romuald, c'est que ça recommence tous les matins, sans exception, alors qu'un orage, ça ne dure qu'un temps.
+
+— Ah, dit Sofia, songeuse. Donc c'est pas l'eau le problème, en fait. C'est l'eau tous les jours.
+
+— Voilà, dit Violette. Bien résumé. »
 
 Souly, qui détestait par-dessus tout les indices laissés en suspens, griffonna aussitôt dans son carnet : *Rubis : plan B à élucider. Lien probable avec le rebondissement final.* Il souligna la phrase trois fois, pour faire bonne mesure.
 
 Dans l'après-midi, alors que Sofia s'entraînait, avec un succès très relatif, à reproduire la démarche caractéristique d'une fourrageuse chargée d'une brindille — ce qui lui valait de trébucher assez régulièrement sur le gravier de l'allée, sous le regard consterné mais amusé de Souly —, Cannelle passa à la maison avec sa maquette presque terminée : une réplique miniature du vieux noyer et de son verger, la piste principale marquée d'un fil rouge tendu entre deux petits piquets, et l'endroit exact où elle se cassait signalé par une minuscule étiquette en papier. Elle avait même reproduit, feuille par feuille, la silhouette penchée du fameux Barnabé qu'Honoré leur avait présenté quelques jours plus tôt, et planté dans la terre miniature une armée de fourmis en pâte à modeler, plus vraies que nature.
+
+Cannelle observa un instant Sofia zigzaguer sur l'allée, un bâton en guise de brindille serré entre les mains.
+
+« C'est pas tout à fait la bonne démarche, remarqua-t-elle, avec la franchise désarmante qui la caractérisait. Les fourragères balancent plus le haut du corps.
+
+— Fais voir, toi, alors, la mit au défi Sofia.
+
+— Je préfère dessiner les fourmis que les imiter, dit Cannelle, un peu embarrassée. Mais j'ai de bons croquis, si ça peut aider.
+
+— J'accepte toute aide disponible, dit Sofia, en abandonnant sa démonstration pour se pencher sur les dessins de Cannelle. Franchement, je commençais à avoir mal au dos à force de me pencher comme ça. »
 
 « C'est magnifique, souffla Souly, sincèrement impressionné.
 
@@ -168,11 +186,17 @@ Par la fenêtre, on apercevait déjà, sur la place du village, les premiers tr�
 
 Le dîner fut sobre, ce soir-là, chacun économisant ses forces pour le lendemain matin. Mamie Rose interdit formellement tout dessert trop lourd « pour des gens qui doivent se lever avant les oiseaux », ce qui n'empêcha pas Théo de réclamer, en vain, une part de tarte aux noix « pour le moral ».
 
+« Où sont mes lunettes, cette fois ? demanda-t-il, en tâtonnant sur la table.
+
+— Sur ton nez, Théo, dit Mamie Rose, sans même lever les yeux de son assiette. Comme d'habitude. »
+
 « Demain, à l'aube, dit Violette en débarrassant la table, on regarde enfin Rubis à l'œuvre. Pas d'improvisation, pas de retard. Tout le monde couché tôt, ce soir.
 
 — Trois jours avant la Fête du Verger, ajouta Souly, presque pour lui-même. »
 
 Sofia bâilla à s'en décrocher la mâchoire et monta se coucher sans qu'on ait à le lui répéter deux fois, un exploit suffisamment rare pour que Mamie Rose le note, mi-figue mi-raisin, comme une preuve supplémentaire à ajouter au dossier de l'enquête.
+
+Souly, resté un instant de plus à la table pour aider à débarrasser, grimpa à son tour, la tête déjà pleine de calculs pour le lendemain.
 
 Ce soir-là, Souly referma son carnet sur une dernière ligne : *Jour 8. Théorie complète, à confirmer par observation directe demain matin à l'aube. Menthe et eau : deux mécanismes différents, un même effet — effacer ou masquer une piste de phéromone. Maquette de Cannelle presque terminée, il manque le trajet de Rubis.*
 

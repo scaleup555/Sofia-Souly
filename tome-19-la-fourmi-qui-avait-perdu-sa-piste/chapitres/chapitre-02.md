@@ -100,7 +100,7 @@ Souly, carnet déjà ouvert, leva un doigt.
 
 — Exactement ça, confirma Violette, ravie de la comparaison. Et à l'inverse, si personne n'emprunte plus un chemin — dans un champ ou pour une fourmi — il finit par disparaître. Une piste de phéromone s'évapore en quelques heures à quelques jours si elle n'est plus renforcée.
 
-— Et il y a qu'un seul genre de phéromone ? demanda Sofia.
+— Et il y a qu'une seule sorte de phéromone ? demanda Sofia.
 
 — Plusieurs. La piste, pour guider vers la nourriture. L'alarme, pour signaler un danger — si vous dérangez trop une fourmilière, vous sentirez parfois une odeur un peu piquante, un peu comme du vinaigre : c'est ça. Et la reconnaissance : chaque colonie a sa propre odeur collective, un peu comme une carte d'identité chimique, qui permet à une fourmi de reconnaître une camarade de sa colonie et de repérer immédiatement une intruse. »
 
