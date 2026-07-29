@@ -954,6 +954,83 @@ Tout nouvel épisode doit relire ce fichier avant d'écrire une ligne.
 - Personnage-ressource pour tout tome futur à thème installation
   technique/village de montagne.
 
+### Violette Fontanel (introduite au tome 19)
+- Myrmécologue, étudie la Fourmilière du Vieux Noyer à Cantelauze
+  depuis plusieurs années. Introduite comme **cousine germaine du père
+  de Sofia et Souly** — lien d'entrée en scène jamais utilisé jusqu'ici
+  (à distinguer de « sœur du père » [Tante Solange, tome 7] et « amie
+  d'enfance du père » [Héloïse Rambert, tome 9], déjà utilisés côté
+  paternel, et de tous les liens côté Mamie Rose/Théo/Camille). La
+  trentaine.
+- Personnage-ressource pour tout tome futur à thème entomologie/
+  écologie de verger.
+
+### Cannelle Auberpin (introduite au tome 19)
+- 9 ans, vit à Cantelauze, fille de pépiniéristes. Construit des
+  maquettes miniatures ultra-détaillées de tout ce qu'elle observe (un
+  jardin, un chemin, une fourmilière), à l'échelle et avec un souci du
+  détail obsessionnel — à varier systématiquement des tempéraments déjà
+  utilisés pour les autres enfants-ressources (Max sûr de lui, Milo
+  grimpeur terre-à-terre, Yanis méfiant et loyal, Iris théâtrale et
+  enthousiaste, Zoé franche et bagarreuse, Bastien calme et très
+  observateur, Noé sceptique et pince-sans-rire, Mila artiste distraite,
+  Enzo distrait par le fonctionnel, Nino obsédé par l'identité
+  individuelle, Alma planificatrice obsessionnelle, Timéo besoin
+  d'ordre et de symétrie, Basile pourcentages/ratios, Ilan paralysé par
+  le trac du solo, Elouan qui traduit tout en nombre de pas, Capucine
+  qui associe chaque son à une couleur).
+- Personnage-ressource pour tout tome futur à thème cartographie/
+  observation de terrain miniature.
+
+### Honoré Delclos (introduit au tome 19)
+- Vieil arboriculteur retraité de Cantelauze, gardien du vieux noyer
+  depuis toujours. Détient une règle orale transmise par sa
+  grand-mère : « Ne jamais planter de menthe autour du vieux noyer. »
+  Longtemps prise pour une superstition de jardinier plutôt qu'une
+  vraie consigne de protection chimique, validée scientifiquement au
+  tome où il apparaît.
+- Personnage-ressource pour tout tome futur à thème arboriculture/
+  savoir traditionnel de jardin.
+
+### Aldéric Pommier (introduit au tome 19)
+- Bricoleur du village de Cantelauze, veut construire un dispositif
+  capable de « parler aux fourmis » grâce à des phéromones
+  artificielles, qui échoue avec bonne humeur (gabarit comique distinct
+  de tous les inventeurs comiques précédents de la série — Gustave
+  Pinatel [tome 8], Norbert Chabrol [tome 9], Barnabé Roquefeuil
+  [tome 10], Octave Bouscaren [tome 11], Ambroise Cadoret [tome 12],
+  Odette Rocher [tome 13], Léonard Cabestan [tome 14], Hippolyte
+  Fresnel [tome 15], Anatole Delmas [tome 16], Gaëtan Vasnier
+  [tome 17], Isidore Panchaud [tome 18] : Aldéric ne cherche ni à
+  observer, ni à provoquer, ni à capturer en images, ni à attirer, ni à
+  guider un animal, ni à réparer, ni à mesurer, ni à protéger un
+  troupeau — il veut littéralement communiquer avec un insecte). Son
+  dernier prototype se révèle finalement utile en fin de tome (arc de
+  rédemption, comme ses prédécesseurs).
+- Personnage-ressource pour tout tome futur à thème comique/bricolage
+  scientifique amateur.
+
+### Agathe Vallorine (introduite au tome 19)
+- Conseillère en jardinage et lutte anti-nuisibles, récemment installée
+  à Cantelauze pour aider les potagers du village. Injustement
+  soupçonnée d'avoir perturbé la piste de la fourmilière avec un
+  répulsif à la citronnelle qu'elle utilise pour son propre potager —
+  sincèrement inquiète d'en être responsable, coopérative une fois
+  innocentée (dans l'esprit de Julien Mercier [tome 10], Laurine
+  Ferretti [tome 11], Yasmine Ducros [tome 16], Noémie Falret [tome 17]
+  et Cyprien Chambon [tome 18]).
+- Personnage-ressource pour tout tome futur à thème jardinage/lutte
+  anti-nuisibles.
+
+### Romuald Ancenis (introduit au tome 19)
+- Technicien en irrigation, a récemment installé un nouveau système
+  d'arrosage automatique dans le verger de Cantelauze, programmé sans
+  consulter Violette pour arroser directement la zone traversée par la
+  piste principale de la fourmilière — erreur de négligence, pas de
+  malveillance (dans l'esprit de tous les techniciens précédents de la
+  série, notamment Baptiste Sorlin [tome 18]).
+- Personnage-ressource pour tout tome futur à thème irrigation/verger.
+
 ## Règle d'or de continuité
 - Les faits établis dans un tome (âges, liens de parenté, peurs, habitudes) ne
   doivent JAMAIS être contredits dans un tome suivant.
