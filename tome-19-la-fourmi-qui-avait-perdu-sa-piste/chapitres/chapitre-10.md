@@ -82,7 +82,7 @@ Souly se pencha, fasciné.
 
 — J'ai compté mes propres pas sur le terrain, hier matin, avant que tout commence, puis j'ai rapporté ça à l'échelle de la maquette, un pas pour un centimètre, expliqua Cannelle. C'est approximatif, mais c'est cohérent d'un bout à l'autre du trajet, ce qui est le plus important.
 
-— Tu as compté tes pas comme une fourmi qui fait du calcul de trajet, dit Souly, des étoiles dans les yeux à nouveau. C'est exactement le même principe.
+— Tu as compté tes pas comme une fourmi qui fait du calcul de trajet, dit Souly, à nouveau émerveillé. C'est exactement le même principe.
 
 — Je préfère dire que la fourmi fait comme moi, répondit Cannelle, un haussement d'épaules tranquille pour toute réponse. J'ai commencé avant elle, dans cette histoire. »
 

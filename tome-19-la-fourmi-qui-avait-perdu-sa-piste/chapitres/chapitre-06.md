@@ -114,7 +114,7 @@ Sofia, hilare, s'approcha prudemment pour observer le phénomène de plus près,
 
 — Dans un instant, dit Mamie Rose. Laissez-moi d'abord finir mon chapitre. Il n'y a pas de raison de céder à la panique pour si peu. »
 
-Elle tourna effectivement une page, avec une lenteur délibérée qui fit rire toute l'assistance de plus belle, avant de refermer son livre et de se lever avec une dignité intacte, secouant délicatement sa jupe pour en déloger les derniers visiteurs à six pattes.
+Elle tourna effectivement une page, si lentement et si délibérément que toute l'assistance éclata de rire de plus belle, avant de refermer son livre et de se lever, secouant délicatement sa jupe pour en déloger les derniers visiteurs à six pattes.
 
 « C'était quoi, le livre ? demanda Sofia, une fois Mamie Rose debout et parfaitement indemne.
 
@@ -154,7 +154,7 @@ Une fois les rires retombés, Violette reprit son sérieux, feuilletant à nouve
 
 « Bon. Récapitulons. Un : l'organisateur du salon confirme la présence d'Agathe, trois jours, terminés il y a huit jours. Deux : son badge d'exposante, daté. Trois : le témoignage de l'autre exposante — autant l'appeler tout de suite, pendant qu'on y est. Quatre : le ticket de péage, qu'elle nous a promis de retrouver dans ses relevés bancaires.
 
-— Bonne idée, dit Agathe en faisant défiler son téléphone avec une grimace concentrée. Elle s'appelle Delphine, elle vendait des paniers en osier tressé juste à côté de mon stand. Ah, voilà. »
+— Bonne idée, dit Agathe, le front plissé, en faisant défiler son téléphone. Elle s'appelle Delphine, elle vendait des paniers en osier tressé juste à côté de mon stand. Ah, voilà. »
 
 Elle activa le haut-parleur à son tour, et une voix chaleureuse, un peu essoufflée, répondit après trois sonneries.
 
@@ -184,7 +184,7 @@ Ils la trouvèrent en train de rempoter des semis de basilic, les mains noires d
 
 Elle le tendit à Souly, qui l'examina avec le sérieux d'un douanier, hocha la tête d'un air satisfait, et le glissa entre deux pages de son carnet pour ne pas le perdre.
 
-Agathe accueillit la nouvelle avec un soulagement si visible qu'elle faillit renverser le plateau de sachets de citronnelle qu'elle finissait de préparer.
+Le soulagement d'Agathe, en apprenant la nouvelle, fut si visible qu'elle faillit renverser le plateau de sachets de citronnelle qu'elle finissait de préparer.
 
 « Vous êtes sûrs ? Complètement sûrs ?
 
@@ -198,9 +198,9 @@ Agathe accueillit la nouvelle avec un soulagement si visible qu'elle faillit ren
 
 Ils redescendirent vers la maison de Violette en fin d'après-midi, Théo sifflotant un air victorieux, encore fier de son coup de fil, et Sofia s'arrêtant deux fois en chemin pour vérifier, par pur principe, les mollets d'un cycliste puis d'un facteur qui passaient par là, sans succès notable.
 
-Le dîner fut, ce soir-là, un festival de récits croisés : Théo racontant sa négociation téléphonique à qui voulait bien l'entendre, Sofia mimant avec un luxe de détails déraisonnable la scène du fauteuil, et Mamie Rose, égale à elle-même, se contentant de sourire dans sa soupe sans jamais confirmer ni infirmer la version la plus exagérée de sa petite-fille.
+Le dîner fut, ce soir-là, un festival de récits croisés : Théo racontant sa négociation téléphonique à qui voulait bien l'entendre, Sofia rejouant la scène du fauteuil en ajoutant, à chaque reprise, un détail plus invraisemblable que le précédent, et Mamie Rose, égale à elle-même, se contentant de sourire dans sa soupe sans jamais confirmer ni infirmer la version la plus exagérée de sa petite-fille.
 
-Le téléphone sonna en plein dessert — une part de tarte aux noix que Mamie Rose venait de couper avec une précision toute pédagogique.
+Le téléphone sonna en plein dessert — une part de tarte aux noix que Mamie Rose venait de couper en parts si régulières qu'on aurait dit une leçon de géométrie.
 
 « C'est Agathe, annonça Violette en décrochant, sur haut-parleur cette fois, par habitude. Alors ?
 

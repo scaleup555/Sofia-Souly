@@ -124,7 +124,7 @@ Sofia, pour faire bonne mesure, jeta un coup d'œil rapide vers les mollets du t
 
 — Rien, dit Sofia, philosophe. Question de contrôle. »
 
-Violette griffonna quelques notes sur son propre carnet, puis se tourna vers les enfants avec une expression qui mêlait soulagement scientifique et gravité pratique.
+Violette griffonna quelques notes sur son propre carnet, puis se tourna vers les enfants, le visage partagé entre le soulagement scientifique et la gravité pratique.
 
 « Bon. Je crois qu'on tient notre vraie cause. Mais il nous manque encore une confirmation directe — voir, de nos propres yeux, l'arrosage se déclencher et la piste se casser en temps réel. Pour ça, il faudra se lever très tôt, un de ces prochains matins.
 
@@ -134,7 +134,7 @@ Violette griffonna quelques notes sur son propre carnet, puis se tourna vers les
 
 « Deux jours, ça fait long, soupira Sofia.
 
-— Deux jours, c'est rien du tout, comparé à seize, dit Souly. Un. Deux, ajouta-t-il, comptant sur ses doigts avec une lenteur presque cérémonieuse. Ça nous mène au jour neuf. C'est déjà écrit sur la table de recalcul.
+— Deux jours, c'est rien du tout, comparé à seize, dit Souly. Un. Deux, ajouta-t-il, comptant sur ses doigts un par un, comme s'il présidait une cérémonie officielle. Ça nous mène au jour neuf. C'est déjà écrit sur la table de recalcul.
 
 — Toi et tes tables, dit Sofia, mais sans réelle contrariété.
 
@@ -180,15 +180,15 @@ Sofia reconnut immédiatement l'énergie particulière d'un inventeur sur le poi
 
 — Et t'as déjà testé la bonne dose ? demanda Sofia, sceptique.
 
-— C'est justement ce qu'on va vérifier, dit Aldéric, avec un enthousiasme qui aurait dû, rétrospectivement, alarmer tout le monde.
+— C'est justement ce qu'on va vérifier, dit Aldéric, le visage rayonnant d'un enthousiasme qui aurait dû, rétrospectivement, alarmer tout le monde.
 
 — Et pourquoi précisément ici ? demanda Souly, méfiant.
 
 — Parce que c'est là que ça a l'air de coincer, non ? Autant leur dire directement d'éviter le coin plutôt que d'attendre qu'elles comprennent toutes seules ! »
 
-Il installa son diffuseur avec une lenteur méticuleuse, ajusta les réservoirs, actionna un petit levier — et se figea instantanément, le nez fronçant sous l'effet d'une odeur qui parvint jusqu'aux enfants quelques secondes plus tard.
+Il installa son diffuseur méticuleusement, tel un horloger penché sur son établi, ajusta les réservoirs, actionna un petit levier — et se figea instantanément, le nez fronçant sous l'effet d'une odeur qui parvint jusqu'aux enfants quelques secondes plus tard.
 
-« Ça sent... commença Sofia, avant de se pincer le nez avec une grimace démesurée.
+« Ça sent... commença Sofia, avant de se pincer le nez, le visage tordu dans une grimace démesurée.
 
 — Ça sent affreusement mauvais, en fait, conclut-elle.
 
@@ -208,7 +208,7 @@ Violette, encore secouée de rire, l'aida à recharger sa brouette pour la desce
 
 — Un jour, peut-être, répéta Sofia, qui avait déjà entendu cette phrase une fois, quelques jours plus tôt, et qui commençait à y croire un peu, elle aussi. »
 
-Le dîner, ce soir-là, réunit tout le monde autour de la table, et Souly reprit du début, avec une minutie qui fit sourire Mamie Rose, l'histoire complète de la journée : le boîtier gris, les tuyaux en travers de la piste, l'écart d'un seul jour entre l'installation et le début du problème.
+Le dîner, ce soir-là, réunit tout le monde autour de la table, et Souly reprit du début, si minutieusement que Mamie Rose ne put retenir un sourire, l'histoire complète de la journée : le boîtier gris, les tuyaux en travers de la piste, l'écart d'un seul jour entre l'installation et le début du problème.
 
 « Un seul jour, répéta Mamie Rose, pensive, en resservant du gratin à tout le monde. C'est fou, ce que peut faire un seul jour de différence, dans une enquête comme dans une vie.
 
