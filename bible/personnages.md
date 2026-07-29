@@ -1031,6 +1031,85 @@ Tout nouvel épisode doit relire ce fichier avant d'écrire une ligne.
   série, notamment Baptiste Sorlin [tome 18]).
 - Personnage-ressource pour tout tome futur à thème irrigation/verger.
 
+### Solenn Kerneis (introduite au tome 20)
+- Cétologue, dirige la Station d'Écoute de Kerbihan, sur la côte
+  bretonne. Introduite comme **marraine de Souly** — lien d'entrée en
+  scène jamais utilisé jusqu'ici (à distinguer de « marraine de
+  Camille » [Farida Payet, tome 3, réutilisé plusieurs fois depuis],
+  et de tous les liens côté Mamie Rose/Théo/père déjà utilisés). La
+  quarantaine.
+- Personnage-ressource pour tout tome futur à thème biologie marine/
+  bioacoustique.
+
+### Maïwenn Le Guen (introduite au tome 20)
+- 10 ans, vit à Kerbihan, fille de marin. Noue un nœud marin différent
+  pour chaque situation ou émotion qu'elle rencontre, et explique le
+  monde en termes de nœuds — à varier systématiquement des
+  tempéraments déjà utilisés pour les autres enfants-ressources (Max
+  sûr de lui, Milo grimpeur terre-à-terre, Yanis méfiant et loyal, Iris
+  théâtrale et enthousiaste, Zoé franche et bagarreuse, Bastien calme
+  et très observateur, Noé sceptique et pince-sans-rire, Mila artiste
+  distraite, Enzo distrait par le fonctionnel, Nino obsédé par
+  l'identité individuelle, Alma planificatrice obsessionnelle, Timéo
+  besoin d'ordre et de symétrie, Basile pourcentages/ratios, Ilan
+  paralysé par le trac du solo, Elouan qui traduit tout en nombre de
+  pas, Capucine qui associe chaque son à une couleur, Cannelle
+  maquettiste miniature obsessionnelle). Sa maîtrise des techniques
+  traditionnelles de mesure au cordage noué devient un outil clé pour
+  vérifier indépendamment des données scientifiques.
+- Personnage-ressource pour tout tome futur à thème maritime/savoir
+  traditionnel de marin.
+
+### Yvon Le Floch (introduit au tome 20)
+- Vieux pêcheur de Kerbihan, détient une règle orale transmise par les
+  anciens : « Jamais de moteur dans la Baie des Chants après le
+  coucher du soleil. » Longtemps prise pour une superstition sur les
+  esprits de la mer plutôt qu'une vraie consigne de respect du silence
+  acoustique, validée scientifiquement au tome où il apparaît.
+- Personnage-ressource pour tout tome futur à thème pêche/savoir
+  traditionnel maritime.
+
+### Perrine Guivarc'h (introduite au tome 20)
+- Bricoleuse du village de Kerbihan, archiviste sonore obsessionnelle,
+  construit des dispositifs d'enregistrement de plus en plus élaborés
+  pour capter « tous les sons du port », qui échouent avec bonne
+  humeur en enregistrant systématiquement autre chose que prévu
+  (gabarit comique distinct de tous les inventeurs comiques précédents
+  de la série — Gustave Pinatel [tome 8], Norbert Chabrol [tome 9],
+  Barnabé Roquefeuil [tome 10], Octave Bouscaren [tome 11], Ambroise
+  Cadoret [tome 12], Odette Rocher [tome 13], Léonard Cabestan
+  [tome 14], Hippolyte Fresnel [tome 15], Anatole Delmas [tome 16],
+  Gaëtan Vasnier [tome 17], Isidore Panchaud [tome 18], Aldéric Pommier
+  [tome 19] : Perrine ne cherche ni à observer, ni à provoquer, ni à
+  capturer en images, ni à attirer, ni à guider, ni à réparer, ni à
+  mesurer, ni à protéger, ni à communiquer avec un animal — elle veut
+  archiver tous les sons d'un lieu, sans distinction). Son dernier
+  prototype se révèle finalement utile en fin de tome (arc de
+  rédemption, comme ses prédécesseurs).
+- Personnage-ressource pour tout tome futur à thème comique/bricolage
+  scientifique amateur.
+
+### Ronan Dagorn (introduit au tome 20)
+- Loueur de vedettes touristiques, récemment installé à Kerbihan pour
+  proposer des sorties d'observation des baleines. Injustement
+  soupçonné d'avoir perturbé Sirène (H-12) avec le moteur bruyant de
+  son bateau — sincèrement inquiet d'en être responsable, coopératif
+  une fois innocenté (dans l'esprit de Julien Mercier [tome 10],
+  Laurine Ferretti [tome 11], Yasmine Ducros [tome 16], Noémie Falret
+  [tome 17], Cyprien Chambon [tome 18] et Agathe Vallorine [tome 19]).
+- Personnage-ressource pour tout tome futur à thème tourisme
+  maritime/observation de cétacés.
+
+### Erwan Le Bris (introduit au tome 20)
+- Ingénieur portuaire, a récemment fait installer un nouveau câble
+  sous-marin de raccordement électrique près de l'entrée de la Baie
+  des Chants, sans consulter la station d'écoute — les travaux et le
+  matériel produisent un bruit de fond continu, erreur de négligence,
+  pas de malveillance (dans l'esprit de tous les techniciens
+  précédents de la série, notamment Romuald Ancenis [tome 19]).
+- Personnage-ressource pour tout tome futur à thème installation
+  portuaire/pollution sonore marine.
+
 ## Règle d'or de continuité
 - Les faits établis dans un tome (âges, liens de parenté, peurs, habitudes) ne
   doivent JAMAIS être contredits dans un tome suivant.
