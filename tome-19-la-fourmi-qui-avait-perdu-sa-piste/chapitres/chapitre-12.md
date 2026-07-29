@@ -10,7 +10,7 @@ Le lendemain matin, jour 12, Sofia se réveilla avec la sensation étrange qui a
 
 — Théo a ses propres sources d'information sur la circulation, dit Mamie Rose, qui n'ont jamais eu besoin d'être exactes pour le convaincre de partir plus tôt.
 
-— Encore une route qui pourrait le perdre, murmura Sofia à Souly, qui ne put retenir un sourire.
+— Encore une route qui pourrait le perdre, murmura Sofia à Souly, qui pouffa malgré lui.
 
 — J'ai entendu ça, dit Théo depuis le couloir, sans la moindre trace de reproche dans la voix. Cette route-là, je la connais par cœur, figurez-vous. »
 
@@ -76,7 +76,7 @@ Il resta un instant immobile, la main posée sur l'épaule de Souly.
 
 — C'est tout ce qu'on demande », dit Honoré, la voix un peu rauque, avant de s'écarter pour laisser place aux suivants.
 
-Agathe arriva ensuite, un petit sachet de citronnelle à la main qu'elle tendit à Sofia avec un clin d'œil.
+Agathe arriva ensuite, un petit sachet de citronnelle à la main qu'elle tendit à Sofia en lui faisant un clin d'œil complice.
 
 « Pour ta chambre, cet été. Ça éloigne les moustiques sans embêter personne d'autre. Foi de conseillère innocentée.
 
@@ -130,7 +130,7 @@ Aldéric arriva en dernier, un peu essoufflé, poussant devant lui un petit char
 
 « Un souvenir, annonça-t-il fièrement. Le Communicateur Universel Interspécifique, version de poche. Il ne fait rien du tout, en fait — je n'ai pas eu le temps de le calibrer proprement — mais il a fière allure, et ça, c'est déjà beaucoup.
 
-— Merci, Aldéric, dit Théo en le récupérant avec une gravité feinte parfaitement assortie à l'objet. Je le rangerai avec honneur dans mon gilet, entre mes clés de voiture et mes trois radis oubliés depuis la semaine dernière.
+— Merci, Aldéric, dit Théo en le récupérant, faussement solennel, la mine parfaitement assortie à l'objet. Je le rangerai avec honneur dans mon gilet, entre mes clés de voiture et mes trois radis oubliés depuis la semaine dernière.
 
 — Vous avez des radis dans votre gilet ? demanda Aldéric, sincèrement intrigué.
 

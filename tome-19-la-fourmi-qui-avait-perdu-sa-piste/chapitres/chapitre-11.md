@@ -82,13 +82,13 @@ Elle se tourna vers le vieil arboriculteur, qui monta à son tour, non sans rét
 
 — Et il en a un peu profité pour me faire promettre de ne plus jamais offrir de menthe à personne dans ce village, ajouta Romuald depuis le premier rang, ce qui déclencha un nouvel éclat de rire général.
 
-— On avisera au cas par cas, dit Honoré avec un clin d'œil qui n'avait rien perdu de sa malice malgré son âge. »
+— On avisera au cas par cas, dit Honoré, la malice intacte malgré son âge. »
 
 Le maire, cherchant du regard un des conseillers municipaux, réclama d'une voix un peu trop solennelle pour l'occasion le grand registre officiel des décisions du village, un cahier relié de cuir rouge qu'on ne sortait d'ordinaire que pour les mariages et les inaugurations.
 
 « Qu'on inscrive, dit-il avec emphase, tandis qu'un conseiller cherchait un stylo qui fonctionne encore, que la règle d'Honoré Delclos devient, à compter de ce jour, conseil de jardinage officiel de la commune de Cantelauze. Article premier.
 
-— C'est bon, vous avez fini ? finit par s'impatienter Honoré, tandis que le conseiller écrivait la phrase avec une lenteur appliquée sous un silence quasi religieux. On dirait que vous gravez ça dans la pierre.
+— C'est bon, vous avez fini ? finit par s'impatienter Honoré, tandis que le conseiller écrivait la phrase lettre après lettre, sous un silence quasi religieux. On dirait que vous gravez ça dans la pierre.
 
 — La postérité mérite bien ça, répondit le conseiller sans lever les yeux de sa page. »
 

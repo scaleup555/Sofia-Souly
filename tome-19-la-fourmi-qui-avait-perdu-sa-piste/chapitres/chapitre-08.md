@@ -20,7 +20,7 @@ Violette, qui avait pris le panier par politesse, l'examina un instant et dut se
 
 — Vigoureuse comment, exactement ? demanda-t-il, comme si le détail pouvait encore le sauver.
 
-— Vigoureuse au point qu'Honoré passe sa vie à répéter, depuis quarante ans, qu'il ne faut JAMAIS en planter autour du vieux noyer, dit Violette, incapable de retenir plus longtemps son fou rire. Son odeur trop forte perturbe les pistes chimiques des fourmis. »
+— Vigoureuse au point qu'Honoré passe sa vie à répéter, depuis quarante ans, qu'il ne faut JAMAIS en planter autour du vieux noyer, dit Violette, la voix déjà tremblante de rire contenu. Son odeur trop forte perturbe les pistes chimiques des fourmis. »
 
 Romuald se prit le visage entre les mains, la voix étranglée par l'horreur.
 

@@ -158,7 +158,7 @@ Violette se pencha, sincèrement impressionnée par le niveau de détail déjà 
 
 « Cannelle, c'est du travail de professionnelle.
 
-— C'est juste du travail patient, corrigea Cannelle, mais elle ne put s'empêcher de sourire devant le compliment. Je reviens demain avec les buissons.
+— C'est juste du travail patient, corrigea Cannelle, un sourire lui échappant malgré elle devant le compliment. Je reviens demain avec les buissons.
 
 — Tu comptes finir avant la Fête ? demanda Souly.
 

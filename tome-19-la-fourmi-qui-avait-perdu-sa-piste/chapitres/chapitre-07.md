@@ -208,7 +208,7 @@ Violette, encore secouée de rire, l'aida à recharger sa brouette pour la desce
 
 — Un jour, peut-être, répéta Sofia, qui avait déjà entendu cette phrase une fois, quelques jours plus tôt, et qui commençait à y croire un peu, elle aussi. »
 
-Le dîner, ce soir-là, réunit tout le monde autour de la table, et Souly reprit du début, si minutieusement que Mamie Rose ne put retenir un sourire, l'histoire complète de la journée : le boîtier gris, les tuyaux en travers de la piste, l'écart d'un seul jour entre l'installation et le début du problème.
+Le dîner, ce soir-là, réunit tout le monde autour de la table, et Souly reprit du début, si minutieusement que Mamie Rose finit par sourire dans sa serviette, l'histoire complète de la journée : le boîtier gris, les tuyaux en travers de la piste, l'écart d'un seul jour entre l'installation et le début du problème.
 
 « Un seul jour, répéta Mamie Rose, pensive, en resservant du gratin à tout le monde. C'est fou, ce que peut faire un seul jour de différence, dans une enquête comme dans une vie.
 
