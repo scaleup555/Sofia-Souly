@@ -50,7 +50,7 @@ Une fille assise sur les marches, un cordage entre les mains, leur adressa un si
 
 — Comment tu sais ça ? demanda Sofia.
 
-— Solenn en parle depuis des semaines. » Elle leva enfin les yeux, révélant un visage constellé de taches de rousseur et un sourire immédiat. « Et vous arrivez pile pour la pire semaine de l'année question chants de baleine, en plus. Chanceux.
+— Solenn en parle depuis des semaines. » Elle leva enfin les yeux, révélant un visage constellé de taches de rousseur et un sourire qui creusait une fossette bien nette sur la joue gauche. « Et vous arrivez pile pour la pire semaine de l'année question chants de baleine, en plus. Chanceux.
 
 — C'est quoi, ce que tu fais avec la corde ? demanda Souly, immédiatement intrigué.
 

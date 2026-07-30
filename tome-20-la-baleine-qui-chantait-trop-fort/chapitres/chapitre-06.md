@@ -48,7 +48,7 @@ Solenn se pencha sur les documents, un par un, avec la rigueur d'une scientifiqu
 
 — Ton registre, dit Solenn en le feuilletant à nouveau, montre que tu sors en mer presque tous les jours, sans exception, depuis ton arrivée. Ton moteur tourne donc, en gros, à l'identique, jour après jour, depuis un peu plus de trois semaines.
 
-— Alors que le changement chez Sirène, lui, précisa Souly après un rapide calcul mental, les lèvres remuant en silence, n'a que quinze jours. Ça veut dire que vous étiez déjà là, à faire sortir votre bateau tous les jours, pendant près d'une semaine entière, sans que rien ne change dans le chant de Sirène. Et puis, d'un coup, sans que vos sorties changent quoi que ce soit à vos habitudes, le volume a doublé.
+— Alors que le changement chez Sirène, lui, précisa Souly après un rapide calcul mental, les lèvres remuant en silence, n'a que dix-sept jours. Ça veut dire que vous étiez déjà là, à faire sortir votre bateau tous les jours, pendant près d'une semaine entière, sans que rien ne change dans le chant de Sirène. Et puis, d'un coup, sans que vos sorties changent quoi que ce soit à vos habitudes, le volume a doublé.
 
 — Si c'était votre moteur, la cause, insista Solenn, le changement aurait dû arriver en même temps que vos premières sorties, pas une semaine plus tard, alors que vous faisiez déjà exactement la même chose depuis des jours. Un problème qui apparaît d'un coup a besoin d'une cause qui, elle aussi, apparaît d'un coup. Ton moteur, lui, n'a rien changé depuis ton arrivée.
 
@@ -198,7 +198,7 @@ Souly la regarda un instant, sincèrement admiratif de la comparaison, avant de 
 
 Ce soir-là, autour de la table du dîner, Mamie Rose écouta le récit de la journée sans toucher à son assiette, hochant la tête à chaque nouvelle preuve du dossier Ronan, avant de reposer sa fourchette d'un geste décidé.
 
-« Quatre preuves indépendantes pour innocenter un homme, dit-elle. Voilà qui aurait fait un très bon article de journal, dans le temps. Vous savez que j'ai été journaliste, avant d'être grand-mère à plein temps ?
+« Quatre preuves indépendantes pour innocenter un homme, dit-elle. Voilà qui aurait fait une très bonne leçon de méthode, dans le temps. Vous savez que j'ai fait apprendre les fractions à des générations entières d'élèves avant d'être grand-mère à plein temps ?
 
 — Tu nous l'as dit à peu près cent fois, Mamie Rose, dit Sofia en souriant.
 
