@@ -24,7 +24,7 @@ Solenn, de son côté, s'affairait autour d'une caisse en plastique renforcé, v
 
 — Exactement comme ça, confirma Solenn en reposant l'hydrophone dans sa mousse de protection. Vous commencez à comprendre le problème mieux que bien des adultes. »
 
-Il entreprit de recopier méthodiquement chaque chiffre de son carnet dans un grand tableau récapitulatif : le jour du changement, le jour du chantier d'Erwan, le jour du salon de Ronan, chaque colonne alignée avec un soin presque maniaque, sous l'œil mi-amusé mi-admiratif de Solenn qui vaquait entre deux ordinateurs.
+Il entreprit de recopier méthodiquement chaque chiffre de son carnet dans un grand tableau récapitulatif : le jour du changement, le jour du chantier d'Erwan, le jour du salon de Ronan, chaque colonne alignée avec un soin presque maniaque, sous l'œil de Solenn, à mi-chemin entre l'amusement et l'admiration, qui vaquait entre deux ordinateurs.
 
 « Câble d'Erwan, terminé il y a vingt jours. Changement chez Sirène, il y a dix-neuf jours. Ça fait bien un jour d'écart, toujours, dit-il à voix haute, en pointant son crayon d'une colonne à l'autre. Salon de Ronan, il y a dix jours. Changement, dix-neuf jours. Ça fait neuf jours d'écart, dans l'autre sens.
 
@@ -56,7 +56,7 @@ Il finit par céder, non sans avoir pris soin de recopier ses chiffres sur une n
 
 Mamie Rose arriva quelques minutes plus tard, un panier de linge encore sous le bras qu'elle avait mis à sécher plus tôt sur la terrasse de la station, et s'arrêta net en découvrant l'assiette de kouign-amann posée au centre de la table.
 
-« Vous n'avez pas osé commencer sans moi, dit-elle, mi-scandalisée mi-amusée, en posant son panier pour se servir sans plus attendre. Théo, pousse-toi un peu, tu prends toute la place sur ce banc.
+« Vous n'avez pas osé commencer sans moi, dit-elle, une main sur la hanche, en posant son panier pour se servir sans plus attendre. Théo, pousse-toi un peu, tu prends toute la place sur ce banc.
 
 — Il y a largement assez pour tout le monde, se défendit Théo, la bouche déjà pleine, ce qui rendit sa protestation nettement moins convaincante qu'il ne l'espérait.
 
@@ -134,7 +134,7 @@ En fin d'après-midi, alors que le tableau récapitulatif de Souly, rafraîchi e
 
 — Je préfère vous laisser cette soirée-là entre enquêteurs et scientifiques, dit Théo en souriant. Le bateau à rames, ce n'est pas franchement mon fort, et je préfère ne pas être celui qui fait chavirer tout le monde à cause d'une histoire de mal de mer. Je resterai bien au chaud avec Mamie Rose, à vous attendre avec du chocolat chaud pour le retour.
 
-— Ça, c'est une promesse que je compte bien vérifier, dit Souly en la notant, mi-sérieux mi-amusé, dans son carnet, sous la ligne consacrée à l'horaire du coucher du soleil.
+— Ça, c'est une promesse que je compte bien vérifier, dit Souly en la notant sans un mot de plus, dans son carnet, sous la ligne consacrée à l'horaire du coucher du soleil.
 
 — Et moi, je viens jusqu'au quai vous aider à charger le matériel, précisa Maïwenn, mais je reste au village ensuite, pour garder ma petite sœur. Mes parents sortent, ce soir-là justement.
 

@@ -130,7 +130,7 @@ Solenn les invita à entrer dans la station, où un mur entier était couvert d'
 
 — Attends d'entendre parler des baleines de corset, alors, dit Solenn en riant, sans se douter qu'elle venait de relancer, sans le savoir, le débat de la veille.
 
-— On connaît déjà, merci, dirent Sofia et Souly presque en chœur, ce qui fit rire Solenn de plus belle. »
+— On connaît déjà, merci, dirent Sofia et Souly presque en chœur, ce qui fit rire Solenn de plus belle.
 
 — Et ça sert à quoi, ces chants ? demanda Souly.
 

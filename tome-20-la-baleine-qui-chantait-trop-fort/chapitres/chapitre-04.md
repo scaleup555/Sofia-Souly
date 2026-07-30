@@ -100,7 +100,11 @@ Sofia, qui n'avait pas quitté la vedette des yeux depuis leur arrivée, se hiss
 
 — C'est vrai que ça ferait bizarre, admit Sofia. Mais dès que vous êtes innocenté, je réserve la première place.
 
-— Marché conclu, dit Ronan en lui tendant la main pour sceller l'accord. Sofia la serra d'une poigne ferme, sans un sourire, comme on scelle un contrat officiel. « Si jamais ce n'est pas moi, promis, vous montez toutes les deux — pardon, tous les deux — gratuitement. »
+— Marché conclu, dit Ronan en lui tendant la main pour sceller l'accord.
+
+Sofia la serra d'une poigne ferme, sans un sourire, comme on scelle un contrat officiel.
+
+— Si jamais ce n'est pas moi, promis, vous montez toutes les deux — pardon, tous les deux — gratuitement. »
 
 Sofia, touchée malgré elle, lui tapota le bras avec la solennité d'une petite fille qui prend une décision d'adulte.
 
