@@ -1327,3 +1327,81 @@ dans le récit)).
 - Livraison du fichier `.docx` final via un nouveau `build_docx.py`
   (calqué sur celui du tome 18). **Tomes 1 à 18 toujours entièrement
   terminés** ; tome 19 complet à 38 146 mots, livré à 9,0/10.
+
+### Session 26 (tome 20, écriture complète) — 2026-07-30
+
+- Tome 20 — **La Baleine qui chantait trop fort** (titre fixé par
+  `bible/titres_futurs.md`), thème pédagogique : cétologie
+  (communication des baleines à bosse par chants de basse fréquence,
+  propagation longue distance via le canal SOFAR, pollution sonore
+  marine, effet Lombard — augmentation automatique du volume vocal en
+  réponse à un bruit de fond, documenté chez de nombreuses espèces dont
+  l'humain — et identification individuelle par photographie de
+  nageoire caudale). Gag de confusion de mots : l'homonymie authentique
+  entre la baleine (l'animal) et les baleines de parapluie/corset.
+- Décor : village de pêche fictif de **Kerbihan**, sur la côte
+  bretonne ; repère central **la Baie des Chants** ; station
+  scientifique **la Station d'Écoute de Kerbihan** ; individu suivi :
+  **Sirène** (H-12), une baleine à bosse ; événement final : **la Nuit
+  de l'Écoute**, tradition villageoise depuis 1962.
+- Six nouveaux personnages ajoutés à la bible : Solenn Kerneis
+  (cétologue, marraine de Souly — lien d'entrée en scène inédit),
+  Maïwenn Le Guen (10 ans, mesure le temps et les sons avec un cordage
+  à nœuds traditionnel, indice fair-play clé du twist final), Yvon Le
+  Floch (vieux pêcheur, règle orale « jamais de moteur dans la baie
+  après le coucher du soleil », validée scientifiquement), Perrine
+  Guivarc'h (bricoleuse comique, archive « tous les sons du port » sans
+  distinction — gabarit comique distinct des 12 précédents de la
+  série), Ronan Dagorn (loueur de vedettes, fausse piste innocentée),
+  Erwan Le Bris (ingénieur portuaire, vraie cause par négligence).
+- Fair-play complet : Ronan innocenté par un raisonnement chronologique
+  vérifié (son moteur tournait déjà quotidiennement depuis une semaine
+  avant le décrochage sonore, sans effet — un problème apparu d'un coup
+  a besoin d'une cause apparue d'un coup), plutôt que la seule preuve
+  d'alibi ponctuelle jugée insuffisante par le jury en première
+  version ; câble sous-marin d'Erwan comme vraie cause, écart constant
+  d'un jour avant le changement ; règle orale d'Yvon validée
+  scientifiquement (les baleines à bosse sont les plus vocales après le
+  coucher du soleil) ; rebondissement du titre : la méthode au cordage
+  à nœuds de Maïwenn (semée dès le chapitre 2) confirme, de façon
+  totalement indépendante des mesures électroniques de Solenn, que le
+  rythme du chant de Sirène n'a pas changé — seul le volume a augmenté,
+  preuve qu'elle s'adapte activement au bruit (effet Lombard) plutôt
+  que d'être malade ou en détresse ; le vieux carnet de mer d'Yvon
+  (entrée de 1987, cas inverse : moins de bruit → chant plus faible)
+  rebouclé au chapitre 10 comme preuve corroborante indépendante ;
+  résolution collaborative (chantiers d'Erwan reprogrammés, Ronan passe
+  à l'électrique, règle d'Yvon officialisée, archiveur de Perrine
+  adopté par la station).
+- Rédaction complète des 12 chapitres en une seule passe (~14 100
+  mots), puis expansion en parallèle via 3 agents dédiés (ch1-4, ch5-8,
+  ch9-12) jusqu'à 38 938 mots. Une incohérence numérique et une
+  incohérence d'âge introduites pendant l'écriture corrigées
+  immédiatement (auto-relecture). Trois agents de vérification
+  dispatchés en parallèle (chronologie/continuité, style/tics,
+  contenu/exactitude factuelle), avec consolidation croisée explicite
+  (leçon n°38) : une quinzaine d'étiquettes « avec un(e) + nom
+  abstrait » reformulées, une erreur scientifique corrigée (« effet
+  cocktail » cité à tort pour l'effet Lombard), une scène
+  embarrassante-attendrissante ajoutée pour Ronan (troisième personnage
+  secondaire, aux côtés d'Yvon et Erwan).
+- **6 passages jury** sur le manuscrit fini — le cycle correctif le
+  plus long de la série à ce jour : 7,6/10 (âge de Souly contredisant
+  frontalement la bible — traité comme 8 ans/9 dans 4 mois tout du long
+  alors que la bible fixe 12 ans, et faille arithmétique dans
+  l'élimination de Ronan) → 8,7/10 (chiffre recopié sans recalcul,
+  chapitre 6) → 8,6/10 (incohérence biographique sur la dernière visite
+  de Solenn) → 8,7/10 puis 8,3/10 (plusieurs familles de gabarits
+  stylistiques répétés détectées successivement : « la voix un peu +
+  adjectif », « avec la/le concentration/gravité/sérieux de + métier »,
+  « comme un trophée », « sans la moindre hésitation », fins de
+  chapitre trop uniformes) → **sixième passage : 9,2/10 — ACCEPTÉ**.
+  Chaque passage a été traité comme une vérification réellement
+  indépendante plutôt qu'une simple confirmation, ce qui a permis de
+  détecter le bug d'âge de Souly (une régression majeure et durable de
+  cette session, invisible tant que personne ne relisait la bible
+  ligne par ligne) que les passes de vérification internes avaient
+  laissé passer.
+- Livraison du fichier `.docx` final via un nouveau `build_docx.py`
+  (calqué sur celui du tome 19). **Tomes 1 à 19 toujours entièrement
+  terminés** ; tome 20 complet à 39 701 mots, livré à 9,2/10.

@@ -1921,3 +1921,85 @@ mineure de running gag, deux mots de hedging en narration, trois
 étiquettes résiduelles) appliqués avant livraison. Tome complet à
 38 146 mots. .docx livré via un nouveau `build_docx.py` calqué sur
 celui du tome 18.
+
+**Leçon méthodologique n°43 — un fait canonique répété dans le
+contexte de travail (résumé de session, mémoire de conversation)
+n'est PAS vérifié pour autant : il doit être recontrôlé contre le
+fichier bible source lui-même à chaque nouveau tome, surtout pour les
+faits numériques (âges).** Au tome 20, Souly a été écrit du premier au
+sixième chapitre, puis à travers toute la phase d'expansion et
+plusieurs passes d'auto-vérification, comme ayant 8 ans (« neuf ans
+dans quatre mois »), alors que `bible/personnages.md` fixe son âge
+canonique à **12 ans, grand frère** de Sofia (8 ans) depuis l'origine
+de la série — un fait resté correct dans les tomes précédents (ex.
+tome 19 : « garçon de douze ans », « enquêtrice de huit ans »). Cette
+erreur ne provient d'aucune instruction contradictoire : elle s'est
+simplement produite au moment de la rédaction initiale, puis s'est
+auto-renforcée à chaque relecture ultérieure parce que chaque nouvelle
+passe de vérification comparait le texte à lui-même (cohérence
+interne) plutôt qu'à la bible elle-même — un travers aggravé par le
+fait qu'un « bug d'âge » avait déjà été corrigé une fois plus tôt dans
+l'écriture (Sofia écrite « neuf ans » puis corrigée en « huit ans »),
+ce qui a donné une fausse impression que la vérification d'âge avait
+déjà eu lieu. Il a fallu un quatrième passage de jury indépendant,
+sans aucun contexte sur les corrections précédentes, pour relire
+littéralement la fiche « Souly (Soulaiman) » du fichier bible et
+détecter la contradiction. **Règle ajoutée : à chaque tome, avant même
+d'écrire le premier chapitre, lister explicitement les âges canoniques
+de TOUS les personnages récurrents en les citant directement depuis
+`bible/personnages.md` (pas depuis un résumé ou une mémoire de
+session) ; toute affirmation d'âge dans le texte doit être vérifiée
+par recherche de la fiche bible correspondante, jamais par
+recoupement avec une autre partie du texte lui-même.**
+
+**Leçon méthodologique n°44 — l'élimination fair-play d'une fausse
+piste doit être vérifiée arithmétiquement pour prouver EXACTEMENT ce
+que la narration prétend qu'elle prouve, pas seulement s'appuyer sur
+des preuves par ailleurs solides.** Au tome 20 (version initiale du
+chapitre 6), Ronan Dagorn était innocenté par un alibi vérifié par
+quatre sources indépendantes (registre de salon, fiche de cale sèche,
+témoignage, ticket d'essence) prouvant qu'il se trouvait à Concarneau
+un jour donné — mais ce jour-là ne correspondait pas au jour du
+changement chez Sirène, donc l'alibi ne prouvait rien sur le jour qui
+comptait réellement. Le raisonnement conclusif (« il n'était même pas
+encore arrivé dans la baie ») contredisait même un fait déjà posé
+ailleurs dans le texte (son arrivée, largement antérieure au
+changement). Corrigé en remplaçant l'argument par un raisonnement
+véritablement valide : le registre de Ronan montre que son moteur
+tournait déjà, à l'identique, depuis plusieurs jours avant le
+changement, sans effet sur le chant de Sirène — un problème apparu
+d'un coup a besoin d'une cause apparue elle aussi d'un coup, ce que
+son activité constante ne peut pas expliquer. **Règle ajoutée : pour
+toute fausse piste éliminée par une preuve d'alibi, vérifier
+explicitement, chiffre en main, que la date/l'événement de l'alibi
+coïncide avec le jour exact qu'il est censé couvrir dans la table de
+recalcul — une preuve peut être « solide » sur le plan documentaire
+(plusieurs sources indépendantes) tout en étant hors-sujet sur le plan
+logique.**
+
+**Bilan chiffré (tome 20) :** rédaction des 12 chapitres en une seule
+passe (~14 100 mots). Expansion parallèle par 3 agents (ch1-4, ch5-8,
+ch9-12) jusqu'à 38 938 mots. Vérification structurelle en trois
+passages parallèles avec recoupement croisé (leçon n°38) : correction
+d'une quinzaine d'étiquettes « avec un(e) + nom abstrait », d'une
+erreur scientifique (« effet cocktail » cité à tort pour l'effet
+Lombard), et ajout d'une scène embarrassante-attendrissante pour Ronan
+(troisième personnage secondaire). **6 passages jury** — le cycle le
+plus long de la série à ce jour : 7,6/10 (bug d'âge de Souly, leçon
+n°43 ; faille arithmétique de l'alibi de Ronan, leçon n°44) → 8,7/10
+(chiffre recopié sans recalcul au chapitre 6, en violation de la règle
+déjà écrite dans l'outline du tome lui-même) → 8,6/10 (incohérence
+biographique sur l'ancienneté de la dernière visite de Solenn) →
+8,7/10 puis 8,3/10 (détection successive de plusieurs familles de
+gabarits stylistiques répétés : « la voix un peu + adjectif » sur 7
+personnages, « avec la/le concentration/gravité/sérieux de + métier »
+sur 6+ personnages, « comme un trophée », « sans la moindre
+hésitation », fins de chapitre trop uniformes) → **sixième passage :
+9,2/10 — ACCEPTÉ**. Tome complet à 39 701 mots. .docx livré via un
+nouveau `build_docx.py` calqué sur celui du tome 19. Le nombre inédit
+de passages jury confirme la valeur de traiter chaque vérification
+comme réellement indépendante (nouvel agent, sans contexte des
+corrections précédentes) plutôt que comme une simple confirmation —
+c'est cette indépendance qui a permis de détecter le bug d'âge de
+Souly, invisible à toute relecture qui ne comparait le texte qu'à
+lui-même.

@@ -636,3 +636,34 @@ enquêteurs qui ne perdent jamais leur chemin ne laissent jamais une
 question sans réponse.*
 
 **Dès 8 ans. 12 chapitres, une énigme, deux twists.**
+
+---
+
+## Tome 20 — La Baleine qui chantait trop fort
+
+Depuis toujours, à Kerbihan, on écoute Sirène chanter, chaque année,
+depuis la jetée. Mais cette fois, elle chante trop fort. Beaucoup
+trop fort. Et personne ne sait pourquoi.
+
+À quelques jours de la Nuit de l'Écoute, la fête la plus attendue de
+l'année dans ce petit port breton, tout le village retient son
+souffle : et si la tradition tombait à l'eau, cette fois-ci, à cause
+d'une baleine qu'on n'entend plus chanter — on l'entend crier ?
+
+Sofia et Souly débarquent chez Solenn, cétologue et marraine que
+Souly n'avait jamais rencontrée, bien décidés à percer le mystère.
+Entre un loueur de vedettes trop vite soupçonné, un vieux pêcheur qui
+répète une règle que personne ne prend au sérieux, et une
+bricoleuse increvable dont les inventions n'enregistrent jamais ce
+qu'il faut, l'enquête va les mener beaucoup plus loin qu'un simple
+bateau bruyant — et leur apprendre qu'une baleine qui chante plus
+fort n'est pas forcément une baleine malheureuse.
+
+Et au milieu de tout ça, une question qui ne les lâche plus : les
+baleines de la mer, ou celles du parapluie ?
+
+*Vingtième tome d'une série où la science, l'aventure et deux
+enquêteurs qui tendent toujours l'oreille ne laissent jamais une
+question sans réponse.*
+
+**Dès 8 ans. 12 chapitres, une énigme, deux twists.**
