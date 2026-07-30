@@ -52,7 +52,7 @@ Une femme approchait sur le quai, une combinaison de plongée encore à moitié 
 
 « Solenn ! » Théo lui ouvrit grand les bras. « Ça fait bien trop longtemps.
 
-— Bien trop longtemps, confirma-t-elle en le serrant fort, avant de se tourner vers Souly, le regard soudain plus grave. Et voilà mon filleul. La dernière fois que je t'ai vu, tu tenais dans le creux d'un bras. Regarde-toi.
+— Bien trop longtemps, confirma-t-elle en le serrant fort, avant de se tourner vers Souly, le regard soudain plus grave. Et voilà mon filleul. La dernière fois que je t'ai vu, tu ne tenais pas cinq minutes assis à table sans essayer de grimper dessus. Regarde-toi.
 
 — Vous êtes ma marraine ? » Souly, pris au dépourvu, chercha instinctivement dans sa mémoire un souvenir qui ne vint pas. « Personne ne m'a jamais dit que j'avais une marraine.
 
@@ -60,7 +60,7 @@ Une femme approchait sur le quai, une combinaison de plongée encore à moitié 
 
 Elle sortit de la poche intérieure de sa combinaison un carnet gondolé par l'humidité, dont elle tira une photo cornée : un bébé emmailloté, minuscule, sur le pont d'un bateau.
 
-« Je l'ai gardée dans toutes mes campagnes depuis sept ans, dit-elle en la tendant à Souly. Un peu abîmée par le sel, mais toujours là.
+« Je l'ai gardée dans toutes mes campagnes depuis ta naissance, dit-elle en la tendant à Souly. Douze ans qu'elle voyage avec moi, un peu abîmée par le sel, mais toujours là.
 
 — C'est moi, ça ? » Souly retourna la photo dans tous les sens, incrédule. « J'avais l'air si petit.
 

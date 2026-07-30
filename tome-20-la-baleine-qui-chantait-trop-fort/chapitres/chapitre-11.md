@@ -148,7 +148,7 @@ Plus tard dans la soirée, alors que les tables se couvraient de galettes et que
 
 « Tu peux juste dire "baleine", tu sais. C'est un mot qui a le droit d'exister.
 
-— Je préfère prendre aucun risque, dit Sofia, le menton levé comme pour sceller une promesse solennelle, une résolution qui ne dura d'ailleurs que jusqu'à ce que la poissonnière s'approche d'elle avec un regard malicieux. »
+— Je préfère prendre aucun risque, dit Sofia, avec le sérieux d'un serment solennel, une résolution qui ne dura d'ailleurs que jusqu'à ce que la poissonnière s'approche d'elle avec un regard malicieux. »
 
 « Alors, la petite, on m'a raconté une histoire de baleine cassée, cet après-midi ?
 

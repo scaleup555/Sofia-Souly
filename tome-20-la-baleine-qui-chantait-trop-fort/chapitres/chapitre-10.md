@@ -28,7 +28,7 @@ Elle sortit un second cordage, celui utilisé pendant la veillée de la nuit pr�
 
 — Ton père garde vraiment tout ça depuis deux ans ? demanda Souly, sincèrement impressionné.
 
-— Depuis bien plus longtemps que deux ans, dit Maïwenn en redressant les épaules. Depuis qu'il a repris le bateau de mon grand-père, en fait. Il dit qu'un marin qui ne note rien finit toujours par répéter les mêmes erreurs que la génération d'avant. »
+— Depuis bien plus longtemps que deux ans, dit Maïwenn, presque vexée qu'on en doute. Depuis qu'il a repris le bateau de mon grand-père, en fait. Il dit qu'un marin qui ne note rien finit toujours par répéter les mêmes erreurs que la génération d'avant. »
 
 Grand-oncle Théo, qui buvait son café en retrait près de la fenêtre, hocha la tête avec l'air de quelqu'un qui venait de reconnaître un vieil ami.
 
@@ -150,7 +150,7 @@ Elle s'arrêta, essoufflée, incapable de retrouver le fil de sa propre phrase, 
 
 « Tout va bien, tout va bien ! La baleine cassée, c'est celle du parapluie de Madame. Sirène, la vraie baleine, va très bien, on a même de bonnes nouvelles à annoncer demain soir, à la Nuit de l'Écoute, tout le monde sera là pour l'entendre en personne. »
 
-L'attroupement se dispersa, à moitié rassuré, à moitié amusé, quelques rires se répandant déjà d'un petit groupe à l'autre à mesure que la véritable histoire — l'histoire du parapluie, cette fois — commençait elle-même à circuler de bouche à oreille, et Sofia, rouge jusqu'aux oreilles, se laissa tomber sur un banc, la tête dans les mains.
+L'attroupement se dispersa, à moitié rassuré, à moitié amusé, quelques rires se répandant déjà d'un petit groupe à l'autre à mesure que la véritable histoire — l'histoire du parapluie, cette fois — commençait elle-même à circuler de bouche à oreille, et Sofia, le visage en feu, se laissa tomber sur un banc, la tête dans les mains.
 
 « C'était l'humiliation la plus totale de toute ma vie, gémit-elle.
 

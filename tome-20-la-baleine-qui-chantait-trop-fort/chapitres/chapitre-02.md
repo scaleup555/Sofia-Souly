@@ -136,7 +136,7 @@ Solenn les invita à entrer dans la station, où un mur entier était couvert d'
 
 — Plusieurs choses, probablement — les scientifiques ne sont pas encore certains de tout comprendre. Ça sert sûrement à rester en contact avec d'autres baleines, à se retrouver sur de très longues distances, peut-être aussi à impressionner un partenaire potentiel. Ce qui est certain, en revanche, c'est la distance que ces chants peuvent parcourir. »
 
-Elle lança un enregistrement, un son grave et vibrant qui monta puis redescendit lentement, presque comme une plainte, mais une plainte qui avait quelque chose d'apaisant. Sofia sentit un frisson lui parcourir les bras, pas de peur, mais quelque chose de plus étrange, presque solennel.
+Elle lança un enregistrement, un son grave et vibrant qui monta puis redescendit lentement, presque comme une plainte, mais une plainte qui avait quelque chose d'apaisant. Sofia retint son souffle sans s'en rendre compte, les bras couverts de chair de poule, pas de peur, mais de quelque chose de plus étrange, presque solennel.
 
 « C'est beau, murmura-t-elle.
 

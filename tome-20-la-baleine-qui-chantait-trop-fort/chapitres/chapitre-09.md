@@ -16,7 +16,7 @@ Grand-oncle Théo, assis en face, fouillait consciencieusement les innombrables 
 
 — Sur ton front, Théo, dit Mamie Rose sans même se retourner.
 
-— Ah. » Il porta la main à son front, où les lunettes attendaient effectivement depuis le début, et les chaussa comme si de rien n'était, refusant obstinément de s'étonner de sa propre distraction. « C'est très pratique, en fin de compte, de les égarer toujours au même endroit. Ça limite les dégâts.
+— Ah. » Il porta la main à son front, où les lunettes attendaient effectivement depuis le début, et les chaussa sans le moindre signe de gêne, refusant obstinément de s'étonner de sa propre distraction. « C'est très pratique, en fin de compte, de les égarer toujours au même endroit. Ça limite les dégâts.
 
 — C'est surtout pratique pour nous, dit Sofia, qui venait de se réveiller pour de bon et s'installait à son tour, parce que comme ça, on sait toujours où chercher. »
 
@@ -44,7 +44,7 @@ Le neuvième jour, l'attente dura toute la journée, une attente que Souly occup
 
 — À ce rythme, dit Mamie Rose en passant derrière lui avec un panier de linge, tu vas connaître l'heure du coucher du soleil mieux que le soleil lui-même. »
 
-Il revint pourtant une cinquième fois, une heure plus tard, l'air parfaitement sérieux, et Solenn, sans même lever les yeux de son écran, répondit d'avance : « Vingt heures quarante et une, Souly. Toujours vingt heures quarante et une. » Ce qui le fit rire malgré lui, brièvement, avant qu'il ne retourne à son carnet comme si de rien n'était.
+Il revint pourtant une cinquième fois, une heure plus tard, l'air parfaitement sérieux, et Solenn, sans même lever les yeux de son écran, répondit d'avance : « Vingt heures quarante et une, Souly. Toujours vingt heures quarante et une. » Ce qui le fit rire malgré lui, brièvement, avant qu'il ne retourne à son carnet, penaud mais nullement découragé.
 
 Sofia, elle, passa la journée à répéter les paroles d'une chanson que Maïwenn lui avait apprise, un vieux chant de marin sur les baleines qui remontaient la baie chaque année, dont elle ne retenait obstinément que le refrain, chantonné à toute heure jusqu'à ce que Théo, mi-exaspéré mi-attendri, finisse par le fredonner avec elle.
 
@@ -56,7 +56,7 @@ Maïwenn passa justement à la station en milieu d'après-midi, un rouleau de co
 
 — Mon père s'en sert depuis toujours, en mer, pour comparer des relevés sans instrument. C'est une vieille méthode, mais elle est redoutablement précise, si on la fait sérieusement. Toi, je te fais confiance pour la faire sérieusement. »
 
-Souly se redressa d'un centimètre, comme si la phrase venait de lui ajouter une ligne entière à son titre officiel de gardien du Carnet des Preuves.
+Souly gonfla légèrement la poitrine, comme si la phrase venait de lui ajouter une ligne entière à son titre officiel de gardien du Carnet des Preuves.
 
 « Il va falloir vérifier trois fois, comme d'habitude, glissa Sofia, sans lever le nez de la coquille qu'elle inspectait avec Gwenn.
 

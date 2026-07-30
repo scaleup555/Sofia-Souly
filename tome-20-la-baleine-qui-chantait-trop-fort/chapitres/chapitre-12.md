@@ -20,7 +20,7 @@ Mamie Rose lui tendit un bol de chocolat chaud sur le pas de la porte, moins par
 
 « Cinq minutes pour t'habiller, dit-elle. On ne prend pas la route avec une détective en chaussons.
 
-— Je suis jamais en chaussons, protesta Sofia, en désignant ses pieds nus, le menton levé, ce qui ne trompait strictement personne.
+— Je suis jamais en chaussons, protesta Sofia, en désignant ses pieds nus d'un geste catégorique, ce qui ne trompait strictement personne.
 
 — Encore pire, alors. File. »
 
@@ -116,7 +116,7 @@ Souly prit la lanterne à deux mains, incapable de trouver une réponse à la ha
 
 « Je la garderai éteinte, dit-il enfin, retrouvant l'usage de la parole. Sauf si j'en ai vraiment besoin.
 
-— C'est exactement comme ça qu'il faut faire, dit Yvon, en redressant les épaules d'un centimètre, comme chaque fois qu'il approuvait quelque chose sans réserve. »
+— C'est exactement comme ça qu'il faut faire, dit Yvon, le menton un peu haut, comme chaque fois qu'il approuvait quelque chose sans réserve. »
 
 Il se tourna ensuite vers Sofia, un peu embarrassé de ne pas avoir de second cadeau tout prêt pour elle.
 
