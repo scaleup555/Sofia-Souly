@@ -20,7 +20,7 @@ Mamie Rose, occupée à empiler les crêpes sur une assiette déjà bien fournie
 
 — Peut-être bien, dit Sofia, très sérieuse, avant de retourner à sa tartine avec la satisfaction tranquille de quelqu'un qui vient d'accomplir un devoir important. On sait jamais.
 
-— Elle a raison, dit Théo depuis le bout de la table, en beurrant sa propre tartine avec application. Dans le doute, on demande toujours de quelle baleine il s'agit. C'est une question qui a fait ses preuves, historiquement, dans cette famille. »
+— Elle a raison, dit Théo depuis le bout de la table, sans lever le nez de sa tartine qu'il beurrait jusqu'aux bords. Dans le doute, on demande toujours de quelle baleine il s'agit. C'est une question qui a fait ses preuves, historiquement, dans cette famille. »
 
 Solenn, qui les observait par-dessus sa tasse de café, secoua la tête d'un air amusé sans faire de commentaire, et le petit-déjeuner se poursuivit dans le bruit habituel des tasses reposées et des dernières tartines englouties, pendant que la pluie continuait de crépiter doucement contre les carreaux de la cuisine.
 

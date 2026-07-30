@@ -76,7 +76,7 @@ L'après-midi fut interrompu par un coup frappé énergiquement à la porte : Er
 
 Il tendit le paquet, que Solenn ouvrit avec précaution, révélant une grosse cloche de bronze, ancienne, encore couverte de traces de rouille et de peinture de coque écaillée, accompagnée d'un système de sonnerie mécanique.
 
-« Une cloche de brume, expliqua Erwan avec enthousiasme. J'ai pensé que ça pourrait servir, pour signaler quelque chose depuis la station, un système d'alerte traditionnel, robuste, qui marche même sans électricité. Je l'ai trouvée chez un antiquaire, à Concarneau, et je me suis dit que ça vous ferait plaisir.
+« Une cloche de brume, expliqua Erwan, les mains encore tendues vers le paquet ouvert. J'ai pensé que ça pourrait servir, pour signaler quelque chose depuis la station, un système d'alerte traditionnel, robuste, qui marche même sans électricité. Je l'ai trouvée chez un antiquaire, à Concarneau, et je me suis dit que ça vous ferait plaisir.
 
 — Elle est magnifique, dit Solenn en faisant tourner l'objet entre ses mains pour l'examiner sous tous les angles, le bronze terni par endroits, gravé d'inscriptions à moitié effacées qui devaient dater d'un siècle au moins. On peut vraiment l'essayer ?
 
@@ -106,7 +106,7 @@ Sofia partit d'un fou rire, vite imitée par Maïwenn, puis par Souly, jusqu'à 
 
 — C'était surtout très fort, corrigea Sofia en se massant l'oreille. »
 
-Erwan, encore rouge, accepta la proposition avec un soulagement visible, et la cloche fut effectivement suspendue au-dessus de la porte d'entrée de la station, où elle demeura, muette la plupart du temps, mais rappelant discrètement son histoire à quiconque passait dessous. Souly, avant de la laisser tranquille, y attacha même un petit carton manuscrit, « NE PAS SONNER SANS RAISON — ERWAN COMPREND MAINTENANT L'IRONIE », que Solenn n'eut pas le cœur de décrocher.
+Erwan, encore rouge, accepta la proposition, les épaules soudain relâchées, et la cloche fut effectivement suspendue au-dessus de la porte d'entrée de la station, où elle demeura, muette la plupart du temps, mais rappelant discrètement son histoire à quiconque passait dessous. Souly, avant de la laisser tranquille, y attacha même un petit carton manuscrit, « NE PAS SONNER SANS RAISON — ERWAN COMPREND MAINTENANT L'IRONIE », que Solenn n'eut pas le cœur de décrocher.
 
 Une fois le calme à peu près revenu et le carton solidement fixé, Erwan s'attarda un moment sur le pas de la porte, les mains dans les poches, pendant que Solenn rangeait les derniers outils sur l'établi voisin.
 
@@ -152,7 +152,7 @@ Perrine passa également en coup de vent, un nouveau capot anti-vent gris sous l
 
 — Vous progressez quand même, remarqua Solenn, amusée.
 
-— Toujours, dit Perrine avec conviction. Un jour, je capterai exactement ce que je veux, et ce jour-là, vous vous souviendrez tous de cette conversation. En attendant, si jamais vous avez besoin d'un coup de main pour la veillée de demain, mon matériel est disponible. Ça pourrait faire une bonne sauvegarde, en cas de souci avec vos hydrophones.
+— Toujours, dit Perrine, en tapotant son boîtier du plat de la main. Un jour, je capterai exactement ce que je veux, et ce jour-là, vous vous souviendrez tous de cette conversation. En attendant, si jamais vous avez besoin d'un coup de main pour la veillée de demain, mon matériel est disponible. Ça pourrait faire une bonne sauvegarde, en cas de souci avec vos hydrophones.
 
 — On y pensera, promit Solenn, sincèrement touchée par la proposition. Merci, Perrine.
 

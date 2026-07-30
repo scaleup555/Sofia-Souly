@@ -1035,7 +1035,7 @@ Tout nouvel épisode doit relire ce fichier avant d'écrire une ligne.
 - Cétologue, dirige la Station d'Écoute de Kerbihan, sur la côte
   bretonne. Introduite comme **marraine de Souly** — lien d'entrée en
   scène jamais utilisé jusqu'ici (à distinguer de « marraine de
-  Camille » [Farida Payet, tome 3, réutilisé plusieurs fois depuis],
+  Camille » [Fara Payet, tome 3, réutilisé plusieurs fois depuis],
   et de tous les liens côté Mamie Rose/Théo/père déjà utilisés). La
   quarantaine.
 - Personnage-ressource pour tout tome futur à thème biologie marine/

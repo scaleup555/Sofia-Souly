@@ -70,7 +70,7 @@ Solenn s'accroupit à son tour à la hauteur de Sofia, comme elle l'avait fait p
 
 « Tu sais ce que j'ai préféré, dans toute cette histoire ? dit-elle. C'est le jour où tu as demandé à tout le monde, à voix haute, en plein milieu du port, si Sirène allait bien. Personne d'autre n'osait poser la question aussi franchement. Ne perds jamais ça, cette franchise-là. Le monde en a besoin, même quand ça finit par un quiproquo de parapluie.
 
-— Même quand ça finit très mal, tu veux dire, corrigea Sofia, une grimace au coin des lèvres au souvenir encore cuisant.
+— Même quand ça finit très mal, tu veux dire, corrigea Sofia, en repensant au souvenir encore cuisant.
 
 — Même quand ça finit très mal, confirma Solenn en riant, et qui redevient une excellente histoire à raconter dix ans plus tard. »
 
@@ -94,7 +94,7 @@ Elle fouilla dans sa propre poche et en sortit son caillou du jour, un petit gal
 
 — On essaiera très fort, dit Souly, reprenant sans s'en rendre compte les mots exacts que Théo emploierait quelques minutes plus tard. Et si je reviens, tu m'apprendras un nouveau nœud ?
 
-— J'en ai encore une bonne centaine en réserve, dit Maïwenn, un large sourire retrouvant instantanément toute son assurance. On n'aura pas fini avant que tu aies quinze ans, au rythme où on va. »
+— J'en ai encore une bonne centaine en réserve, dit Maïwenn, en rangeant son cordage d'un geste assuré. On n'aura pas fini avant que tu aies quinze ans, au rythme où on va. »
 
 Yvon, resté un peu en retrait, s'avança enfin, un peu maladroit, tenant son téléphone à la main.
 
@@ -142,7 +142,7 @@ Elle recula de quelques pas pour cadrer correctement la scène, puis, incapable 
 
 — Évidemment, dit Perrine, presque outrée qu'on puisse en douter. Il paraît qu'un archipel entier de sons attend encore d'être capté correctement, quelque part du côté du phare. Je sens que le Mark VI va être mon meilleur, cette fois. Je le sens vraiment.
 
-— C'est ce que tu disais du Mark V, remarqua Souly, un sourire au coin des lèvres qu'il ne prit même pas la peine de cacher.
+— C'est ce que tu disais du Mark V, remarqua Souly, sans même essayer de cacher son sourire.
 
 — Et j'avais raison, pour le Mark V, non ? répondit Perrine, sans se démonter une seconde, un argument auquel personne ne trouva grand-chose à répondre. »
 
@@ -188,7 +188,7 @@ Il fouilla dans sa poche et en sortit un petit fanion bleu et blanc, identique �
 
 Au moment de monter dans la camionnette, Mamie Rose, qui avait observé toute la scène en silence depuis le début, sortit une dernière fois son parapluie, comme pour vérifier une ultime fois son état.
 
-« Bon, au moins celui-là tient toujours debout, dit-elle avec satisfaction. Toutes ses baleines intactes.
+« Bon, au moins celui-là tient toujours debout, dit-elle en le faisant tourner d'un geste vérificateur. Toutes ses baleines intactes.
 
 — Lesquelles ? demanda Sofia par réflexe, avant de se figer, réalisant sa propre erreur, et d'éclater de rire la première, suivie de tout le monde autour d'elle. Non, laissez tomber, je sais très bien lesquelles. »
 

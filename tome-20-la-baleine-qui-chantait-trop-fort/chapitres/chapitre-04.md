@@ -30,7 +30,7 @@ Théo, plongé dans un guide touristique de la région qu'il avait dégoté on n
 
 — Beaucoup mieux, confirma Solenn en souriant. Pour elles, en tout cas. »
 
-Solenn, qui préparait du café, se retourna avec un intérêt immédiat.
+Solenn, qui préparait du café, se retourna d'un coup, la cafetière encore à la main.
 
 « Vous parlez de Ronan ? Justement, j'avais prévu de passer le voir aujourd'hui. Autant y aller ensemble. »
 
@@ -108,7 +108,7 @@ Sofia, touchée malgré elle, lui tapota le bras avec la solennité d'une petite
 
 — Ça me va très bien, dit Ronan, sincèrement reconnaissant. C'est tout ce que je demande. Qu'on attende de savoir avant de juger. »
 
-Ils repartirent en promettant de repasser dans les jours suivants pour consulter le registre, laissant Ronan reprendre l'astiquage de sa vedette avec un entrain nettement moins convaincant qu'au début.
+Ils repartirent en promettant de repasser dans les jours suivants pour consulter le registre, laissant Ronan reprendre l'astiquage de sa vedette, les gestes nettement moins vifs qu'au début.
 
 Sur le chemin du retour, ils croisèrent un attroupement inhabituel sur la jetée : une dizaine de villageois formaient un cercle autour d'une structure métallique hérissée de micros, de la taille d'un petit réverbère, reliée par un enchevêtrement de câbles à une caisse électronique clignotante.
 
@@ -128,7 +128,7 @@ Une femme d'une cinquantaine d'années, en salopette maculée de peinture et cas
 
 — C'était pas déjà le principe du Mark II ? demanda un villageois, pas méchamment, davantage taquin.
 
-— Le Mark II confondait systématiquement le vent et les conversations humaines, dit Perrine avec dignité. Le Mark III a un filtre anti-vent. J'ai personnellement passé trois semaines à le régler.
+— Le Mark II confondait systématiquement le vent et les conversations humaines, dit Perrine en redressant les épaules. Le Mark III a un filtre anti-vent. J'ai personnellement passé trois semaines à le régler.
 
 — Et pour l'instant, qu'est-ce qu'il a enregistré, précisément ? demanda Solenn, un sourcil levé.
 
@@ -168,7 +168,7 @@ Pendant que deux villageois finissaient de démêler le chat, Solenn aida Perrin
 
 « Pourquoi tu veux tellement enregistrer tous les sons du port ? T'aimes pas juste les écouter, comme Solenn ?
 
-— J'adore les écouter, dit Perrine avec sincérité. Mais un son, ça disparaît à la seconde où il existe, sauf si quelqu'un le capture. Mon grand-père racontait toujours le port comme il sonnait dans les années cinquante — les criées, les moteurs à vapeur, les chants des marins qui hissaient les voiles. Tout ça a disparu, pour de vrai, parce que personne n'a pensé à l'enregistrer à temps. Je me suis dit que ça ne devait plus jamais arriver.
+— J'adore les écouter, dit Perrine, tout à coup sérieuse. Mais un son, ça disparaît à la seconde où il existe, sauf si quelqu'un le capture. Mon grand-père racontait toujours le port comme il sonnait dans les années cinquante — les criées, les moteurs à vapeur, les chants des marins qui hissaient les voiles. Tout ça a disparu, pour de vrai, parce que personne n'a pensé à l'enregistrer à temps. Je me suis dit que ça ne devait plus jamais arriver.
 
 — Et ça a déjà marché, une fois ? demanda Sofia.
 

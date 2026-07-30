@@ -96,7 +96,7 @@ Sofia, qui n'avait presque rien dit depuis leur arrivée, s'approcha du bord du 
 
 — Je ne sais pas, avoua Erwan, sincèrement pris de court par la question. J'aimerais pouvoir te répondre que non, mais je n'en sais rien du tout.
 
-— Les baleines ne fonctionnent pas comme ça, intervint Solenn avec douceur. Elle ne vous en veut pas, Sofia, parce qu'elle ne sait même pas qui a causé le bruit. Elle a juste dû s'adapter à quelque chose de gênant, du mieux qu'elle a pu. C'est un peu différent d'en vouloir à quelqu'un.
+— Les baleines ne fonctionnent pas comme ça, intervint Solenn en posant une main sur l'épaule de Sofia. Elle ne vous en veut pas, Sofia, parce qu'elle ne sait même pas qui a causé le bruit. Elle a juste dû s'adapter à quelque chose de gênant, du mieux qu'elle a pu. C'est un peu différent d'en vouloir à quelqu'un.
 
 — Ça me rassure un peu, dit Sofia, sans en avoir tout à fait l'air. »
 
@@ -150,7 +150,7 @@ Sur le chemin du retour vers la station, ils croisèrent Ronan, occupé à range
 
 — Je sais, je sais, dit Ronan en levant les mains, un bout de tuba encore accroché à son épaule. C'est juste que ça m'aurait plu qu'il n'y ait pas de coupable du tout, cette fois. Juste un mystère, sans personne à blâmer.
 
-— Ça, on ne peut rien vous promettre, dit Souly avec sérieux. Mais on peut vous promettre que ce sera juste, et vérifié. »
+— Ça, on ne peut rien vous promettre, dit Souly, le carnet serré contre lui. Mais on peut vous promettre que ce sera juste, et vérifié. »
 
 Ronan hocha la tête, satisfait de cette réponse, et retourna à son matériel de plongée tandis qu'ils poursuivaient leur chemin.
 
@@ -196,6 +196,16 @@ Souly hocha la tête, résigné mais pas mécontent, glissant malgré tout un re
 
 Le repas se termina dans la bonne humeur, ponctué par les récits de Perrine et de ses pigeons que Théo réclama à voix haute deux fois de suite, tant l'histoire lui semblait mériter d'être racontée deux fois plutôt qu'une.
 
-Ce soir-là, à la station, Souly recopia dans son carnet un tableau détaillé qu'il souligna deux fois avant de le refermer, satisfait :
+Ce soir-là, dans la chambre mansardée, Souly récita la journée à voix haute avant même d'ouvrir son carnet, comme il le faisait chaque fois qu'un fait comptait vraiment assez pour mériter d'être dit deux fois — une fois à voix haute, une fois par écrit.
 
-*Jour 7. VRAIE PISTE PROBABLE : câble sous-marin d'Erwan Le Bris, chantier terminé il y a dix-neuf jours — soit exactement UN JOUR avant le début du changement chez Sirène (il y a dix-huit jours). Bruit continu pendant quatre jours de travaux (groupe électrogène, barges, plongeurs). Erwan n'a pas consulté la station avant de commencer — erreur, pas malveillance, il semble sincèrement inquiet. Solenn a refusé une observation nocturne ce soir : trop précipité, elle préfère organiser une vraie veillée d'écoute dans deux jours, avec le bon matériel. Patience.*
+« Câble d'Erwan, terminé il y a dix-neuf jours. Changement chez Sirène, dix-huit jours. Un jour d'écart, pile.
+
+— Tu vas le répéter jusqu'à ce que je m'endorme, c'est ça ? demanda Sofia depuis son lit, déjà à moitié sous la couette.
+
+— Peut-être, dit Souly. Un jour d'écart, c'est le genre de chiffre qui mérite d'être répété.
+
+— Alors répète-le dans ta tête, cette fois. Bonne nuit, Souly.
+
+— Bonne nuit, Sofia. »
+
+Il attendit qu'elle se soit endormie pour de bon avant d'allumer sa lampe de poche et d'écrire, en silence cette fois, le tableau complet dans son carnet.

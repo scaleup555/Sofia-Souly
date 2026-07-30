@@ -52,7 +52,7 @@ Elle rechargea les enregistrements du chantier d'Erwan, superposant les courbes 
 
 — Comme à la cantine, dit Sofia, illuminée par sa propre comparaison. Quand tout le monde crie un peu plus fort à chaque fois que quelqu'un d'autre crie un peu plus fort, jusqu'à ce que toute la cantine hurle alors qu'au début personne parlait vraiment fort.
 
-— Exactement comme à la cantine, confirma Solenn en riant. On appelle ça, entre scientifiques, l'effet cocktail, quand ça arrive entre humains dans une soirée bruyante. Même mécanisme, sans même s'en rendre compte : plus il y a de bruit autour, plus on monte le volume, en boucle.
+— Exactement comme à la cantine, confirma Solenn en riant. C'est très exactement la même chose qui arrive entre humains dans une soirée bruyante. Même mécanisme, sans même s'en rendre compte : plus il y a de bruit autour, plus on monte le volume, en boucle.
 
 — Alors elle va bien ? demanda Sofia, soulagée.
 
@@ -182,4 +182,12 @@ Mamie Rose, qui avait suivi toute la scène sans un geste, les mains croisées s
 
 — Jamais, dit Mamie Rose, en refermant les doigts sur le manche comme pour clore définitivement la discussion. Ce parapluie a survécu à plus de tempêtes que n'importe qui dans ce village. On ne change pas un vétéran pour une simple baleine tordue. »
 
-Ce soir-là, Souly écrivit longuement dans son carnet, résumant la découverte du jour, chaque mot pesé avant d'être écrit : *Jour 10. MYSTÈRE RÉSOLU (scientifiquement) : Sirène chante plus fort à cause du bruit du chantier du câble d'Erwan, par un phénomène naturel appelé "effet Lombard" — elle s'adapte, elle ne souffre pas, mais ça lui coûte de l'énergie. Rythme du chant identique à il y a deux ans (vérifié par la méthode au cordage de Maïwenn, comparée au cordage de son père, ce qui a confirmé les mesures de Solenn de façon totalement indépendante). Demain : Nuit de l'Écoute. Sofia a provoqué un quiproquo public monumental avec le mot "baleine", attroupement complet inclus. À ne jamais oublier.*
+Ce soir-là, Sofia, déjà couchée, rompit le silence de la chambre mansardée d'une petite voix qui n'avait plus rien de son aplomb de l'après-midi.
+
+« Souly ? Tu crois que tout le village va se souvenir de mon histoire de baleine cassée pendant, genre, cent ans ?
+
+— Sûrement, dit-il depuis son lit, sans chercher à la ménager. Mais Sirène va aussi être guérie pour toujours, grâce à ce qu'on a trouvé aujourd'hui. Ça compte plus, non ?
+
+— Ouais, admit-elle après un silence, un peu radoucie. Ça compte plus. »
+
+Il n'ajouta rien, satisfait de la voir s'endormir sur cette pensée-là plutôt que sur l'autre, et attendit que sa respiration devienne régulière avant de rallumer sa lampe de poche pour coucher, en silence, chaque détail de la journée dans son carnet.

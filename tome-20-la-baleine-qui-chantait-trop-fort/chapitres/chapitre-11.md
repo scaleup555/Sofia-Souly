@@ -26,7 +26,7 @@ Solenn les rejoignit peu après, un dossier sous le bras, en route pour retrouve
 
 « Alors ? demanda-t-il sans préambule. La Nuit de l'Écoute, on l'annule ou pas ?
 
-— On ne l'annule surtout pas, dit Solenn avec assurance. On a une excellente nouvelle à annoncer, ce soir, à tout le village. »
+— On ne l'annule surtout pas, dit Solenn sans la moindre hésitation. On a une excellente nouvelle à annoncer, ce soir, à tout le village. »
 
 Erwan arriva presque en courant, un peu essoufflé, les cheveux encore mouillés d'une douche prise à la va-vite, un nouveau dossier de plans sous le bras, celui-ci nettement plus fin que le précédent.
 
@@ -46,7 +46,7 @@ Il y eut un court silence, pendant lequel Solenn posa une main brève sur son é
 
 — Yvon sera ravi de l'apprendre, dit Solenn en souriant. Il ne va pas se vanter, remarquez — enfin, pas trop.
 
-— Il va se vanter énormément, corrigea Souly avec certitude, ayant passé assez de temps avec le vieux pêcheur pour connaître la réponse d'avance. Et il l'aura bien mérité. »
+— Il va se vanter énormément, corrigea Souly, ayant passé assez de temps avec le vieux pêcheur pour connaître la réponse d'avance. Et il l'aura bien mérité. »
 
 Ronan les rejoignit à son tour, sa vedette maintenant amarrée non loin, une nouvelle banderole fraîchement peinte sur le flanc : « Sorties silencieuses — Prochainement en électrique ».
 
@@ -86,7 +86,7 @@ L'après-midi se poursuivit ainsi, ponctué par l'arrivée de Perrine, poussant 
 
 — Vraiment ? » Perrine, prise de court par tant d'enthousiasme, en resta un instant sans voix. « Après toutes mes tentatives ratées, mon truc sert enfin à quelque chose de vraiment utile ?
 
-— Il a toujours été utile, dit Solenn avec sincérité. Juste pas pour ce que tu croyais au départ. »
+— Il a toujours été utile, dit Solenn en lui prenant les mains. Juste pas pour ce que tu croyais au départ. »
 
 Perrine posa lentement une main sur le boîtier de son invention, comme pour vérifier qu'elle ne rêvait pas.
 

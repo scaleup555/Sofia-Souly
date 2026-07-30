@@ -72,7 +72,7 @@ Maïwenn lui tendit un bout de cordage de récupération avec la gravité d'une 
 
 Sofia s'appliqua, la langue légèrement sortie, et obtint au bout de trois tentatives quelque chose qui ressemblait davantage à un nid d'oiseau échevelé qu'à un nœud marin.
 
-« C'est... particulier, dit Maïwenn avec diplomatie.
+« C'est... particulier, dit Maïwenn en cherchant ses mots.
 
 — C'est un nœud de "j'ai fait de mon mieux", dit Sofia, sans se démonter. Ça existe, ça, dans ton vocabulaire ?
 

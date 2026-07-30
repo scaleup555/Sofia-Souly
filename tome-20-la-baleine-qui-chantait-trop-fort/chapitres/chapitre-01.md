@@ -60,7 +60,7 @@ Une femme approchait sur le quai, une combinaison de plongée encore à moitié 
 
 Elle sortit de la poche intérieure de sa combinaison un carnet gondolé par l'humidité, dont elle tira une photo cornée : un bébé emmailloté, minuscule, sur le pont d'un bateau.
 
-« Je l'ai gardée dans toutes mes campagnes depuis douze ans, dit-elle en la tendant à Souly. Un peu abîmée par le sel, mais toujours là.
+« Je l'ai gardée dans toutes mes campagnes depuis sept ans, dit-elle en la tendant à Souly. Un peu abîmée par le sel, mais toujours là.
 
 — C'est moi, ça ? » Souly retourna la photo dans tous les sens, incrédule. « J'avais l'air si petit.
 

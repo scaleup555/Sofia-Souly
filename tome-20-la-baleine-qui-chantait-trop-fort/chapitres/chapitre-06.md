@@ -54,7 +54,19 @@ Solenn se pencha sur les documents, un par un, avec la rigueur d'une scientifiqu
 
 Il referma son classeur avec un soin nouveau, presque affectueux, et proposa spontanément d'aider à surveiller le niveau sonore de son propre moteur à l'avenir, « juste au cas où, pour être irréprochable », ce qui fit sourire Solenn.
 
-« En attendant, dit-il, il fait beau, j'ai un couple de touristes qui m'attend, et pour la première fois depuis deux semaines, j'ai vraiment envie de leur montrer la baie sans avoir l'estomac noué. Vous voulez venir faire un tour avant qu'ils arrivent, pour voir le bateau de plus près ?
+Le soulagement fut tel que Ronan, en se relevant de sa chaise pliante, trébucha sur le pied du thermos posé par terre, l'envoya rouler jusqu'au bord du ponton, et le rattrapa in extremis d'un geste désespéré qui manqua de le faire basculer lui-même dans l'eau, sous les yeux médusés du couple de touristes venu s'installer un peu plus loin.
+
+« Tout va bien ? » demanda la touriste en coupe-vent orange, à mi-chemin entre l'inquiétude et le fou rire.
+
+« Tout va très bien, madame, dit Ronan en se redressant, le thermos serré contre sa poitrine comme un trophée, le visage rouge mais un sourire qu'il n'essayait même plus de contenir. Meilleure matinée depuis longtemps, en fait. Excusez-moi, je... » Il s'interrompit, se passa une main dans les cheveux, incapable de trouver la suite. « Je vous expliquerai en mer, si ça vous intéresse. C'est une longue histoire, mais une bonne. »
+
+Sofia et Souly échangèrent un regard amusé, et Ronan, remarquant leurs sourires, redevint sérieux une seconde, presque intimidé.
+
+« J'ai quitté un travail de bureau à Rennes pour monter ça, avoua-t-il à voix basse, rien que pour eux. Mes parents pensaient que j'étais devenu fou. Si mon moteur avait vraiment blessé cette baleine, j'aurais eu l'impression d'avoir tout gâché pour de mauvaises raisons. Là, au moins, je sais que j'ai quitté un bureau pour la bonne raison. »
+
+Il n'ajouta rien de plus, ramassa son classeur d'un geste un peu trop brusque pour cacher son émotion, et partit accueillir ses clients d'un pas plus léger qu'à leur arrivée, le thermos toujours serré contre lui comme s'il n'osait plus le reposer.
+
+« En attendant, dit-il en se retournant une dernière fois, il fait beau, j'ai un couple de touristes qui m'attend, et pour la première fois depuis deux semaines, j'ai vraiment envie de leur montrer la baie sans avoir l'estomac noué. Vous voulez venir faire un tour avant qu'ils arrivent, pour voir le bateau de plus près ?
 
 — On a promis d'aller voir Yvon ce matin, dit Sofia, un peu à regret en jetant un œil vers la vedette rutilante.
 
@@ -210,6 +222,6 @@ Mamie Rose, en desservant, désigna d'un geste résigné son parapluie, toujours
 
 « Celles du parapluie, évidemment, répondit Mamie Rose sans même se retourner, empilant les assiettes sales avec les gestes de quelqu'un qui a posé cette même réponse des dizaines de fois depuis le premier jour. Tu ne te lasses jamais, toi.
 
-— Jamais, confirma Sofia avec fierté. »
+— Jamais, confirma Sofia, menton levé. »
 
 Ce soir-là, Souly recopia soigneusement dans son carnet un tableau à deux colonnes, l'une intitulée « Ronan — innocenté », l'autre « Erwan — à interroger dès son retour », avant d'ajouter en dessous, avec un sourire qu'il ne chercha pas à cacher : *Aujourd'hui, un vieux pêcheur breton a envoyé son premier message vidéo à sa fille, avec des oreilles de chat sur la tête. Note pour moi-même : ça, ça mérite d'être écrit dans le Carnet des Preuves aussi, même si ça n'a rien à voir avec l'enquête. Sa petite-fille s'appelle Anna. Elle a deux mois. Yvon a le nez d'une petite-fille qu'il n'a vue qu'une fois. Erwan injoignable deux jours. Ronan définitivement innocenté, quatre sources.*
