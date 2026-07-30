@@ -34,11 +34,11 @@ Solenn les attendait sur le quai, une petite boîte à la main, entourée de Ma�
 
 Elle lui tendit la petite boîte, qu'il ouvrit avec précaution : à l'intérieur, une photographie encadrée de la nageoire caudale de Sirène, son encoche caractéristique bien visible, accompagnée d'une carte manuscrite.
 
-« Pour mon filleul, dit Solenn. Pour qu'il n'oublie jamais qu'il a résolu un vrai mystère scientifique, à huit ans à peine.
+« Pour mon filleul, dit Solenn. Pour qu'il n'oublie jamais qu'il a résolu un vrai mystère scientifique, à douze ans à peine.
 
-— Neuf ans dans quatre mois, précisa Souly avec le plus grand sérieux, ce qui fit rire tout le monde autour de lui.
+— Treize ans dans quatre mois, précisa Souly avec le plus grand sérieux, ce qui fit rire tout le monde autour de lui.
 
-— Neuf ans dans quatre mois, corrigea Solenn, encore riante. Et toi, Sofia, j'ai quelque chose pour toi aussi. »
+— Treize ans dans quatre mois, corrigea Solenn, encore riante. Et toi, Sofia, j'ai quelque chose pour toi aussi. »
 
 Elle s'accroupit un instant à la hauteur de Souly, la voix soudain plus basse, presque uniquement pour lui.
 
@@ -102,7 +102,7 @@ Yvon, resté un peu en retrait, s'avança enfin, un peu maladroit, tenant son t�
 
 Il tourna l'écran vers eux : un message vidéo de sa fille, rieuse, portant elle-même des oreilles de chat animées en clin d'œil à son père, disant simplement : « Papa, c'est le plus beau message que tu m'aies jamais envoyé. Je viens te voir le mois prochain, promis. »
 
-« Grâce à vous deux, dit Yvon, la voix un peu enrouée, je vais revoir ma fille plus tôt que prévu. Alors, merci. Vraiment. »
+« Grâce à vous deux, dit Yvon, en s'éclaircissant la gorge deux fois de suite avant de retrouver sa voix, je vais revoir ma fille plus tôt que prévu. Alors, merci. Vraiment. »
 
 Il rangea son téléphone à deux mains, lentement, presque comme s'il craignait de faire disparaître le message rien qu'en le manipulant trop vite, puis se tourna vers Souly, sa vieille lanterne toujours au bout du bras.
 

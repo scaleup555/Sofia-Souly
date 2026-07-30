@@ -104,7 +104,7 @@ Maïwenn, ravie d'avoir un public, entreprit de faire une démonstration. Elle t
 
 — Exactement dix secondes, confirma-t-il, impressionné malgré lui, la montre encore sous le nez. Comment tu fais ça, les yeux fermés ?
 
-— L'habitude. Les doigts savent avant que les yeux regardent. » Elle rangea le cordage avec un soin méthodique, presque cérémonieux. « Mon père dit que la mer se moque des écrans, alors autant apprendre à s'en passer.
+— L'habitude. Les doigts savent avant que les yeux regardent. » Elle enroula le cordage en huit bien nets autour de sa main, presque sans y penser. « Mon père dit que la mer se moque des écrans, alors autant apprendre à s'en passer.
 
 — Ça marcherait, ce truc, pour comparer deux sons, ou deux intervalles de temps différents ? demanda Souly, la question toujours posée sur ce ton faussement détaché.
 

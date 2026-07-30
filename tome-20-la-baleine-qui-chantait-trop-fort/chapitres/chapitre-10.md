@@ -154,7 +154,7 @@ L'attroupement se dispersa, à moitié rassuré, à moitié amusé, quelques rir
 
 « C'était l'humiliation la plus totale de toute ma vie, gémit-elle.
 
-— Mais non, dit Souly en s'asseyant à côté d'elle, un sourire qu'il ne cherchait absolument pas à cacher. C'était juste un quiproquo. Et honnêtement, c'était très drôle.
+— Mais non, dit Souly en s'asseyant à côté d'elle, franchement amusé. C'était juste un quiproquo. Et honnêtement, c'était très drôle.
 
 — Facile à dire, toi t'étais pas au milieu, marmonna-t-elle entre ses doigts.
 

@@ -10,7 +10,7 @@ Le lendemain matin, jour 4, Souly se réveilla en calculant déjà — quinze jo
 
 — C'est marrant, dit Mamie Rose depuis l'évier, où elle rinçait des bols avec une énergie de général en campagne, comme vous êtes devenus sérieux, d'un coup. Y a deux jours, vous vous disputiez encore pour savoir qui aurait la meilleure place dans la camionnette.
 
-— C'est différent, Mamie, dit Souly en redressant le menton, aussi grave que s'il portait le poids de ses huit années d'existence sur les épaules. Là, y a une vraie enquête.
+— C'est différent, Mamie, dit Souly en redressant le menton, aussi grave que s'il portait le poids de ses douze années d'existence sur les épaules. Là, y a une vraie enquête.
 
 — Ah, pardon. Toutes mes excuses au Carnet des Preuves. »
 
@@ -94,7 +94,7 @@ Sofia, qui n'avait pas quitté la vedette des yeux depuis leur arrivée, se hiss
 
 — Sofia, dit Souly, on n'est pas là pour une balade.
 
-— C'est pas une balade, c'est de la recherche de terrain, répliqua-t-elle sans se démonter.
+— C'est pas une balade, c'est de la recherche de terrain, répliqua-t-elle du tac au tac.
 
 — Une autre fois, avec grand plaisir, dit Ronan, sincèrement amusé. Là, tout de suite, mon moteur est justement le principal suspect. Ce serait un peu délicat que je vous emmène naviguer dessus avant qu'on ait tiré cette histoire au clair, vous ne trouvez pas ?
 

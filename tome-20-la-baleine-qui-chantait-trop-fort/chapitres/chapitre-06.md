@@ -42,15 +42,21 @@ Souly prit le ticket entre deux doigts avec la précaution d'un archéologue man
 
 Solenn se pencha sur les documents, un par un, avec la rigueur d'une scientifique qui n'accordait sa confiance qu'aux preuves recoupées.
 
-« Quatre sources indépendantes, dit-elle enfin. Le registre du salon, la fiche de cale sèche, le message de l'autre exposant, et le ticket d'essence. Toutes datées du même jour, à quinze kilomètres du port, alors que le changement dans le chant de Sirène a commencé bien avant, ici même, dans la baie.
+« Quatre sources indépendantes, dit-elle enfin. Le registre du salon, la fiche de cale sèche, le message de l'autre exposant, et le ticket d'essence. Toutes datées du même jour, à quinze kilomètres du port. Mais ce n'est pas ça, le plus important.
 
-— Ça veut dire que c'est pas moi, dit Ronan, une lueur d'espoir prudent dans la voix.
+— Ah bon ? » Ronan, un peu déstabilisé, cherchait déjà où était le piège. « Qu'est-ce qui est plus important que d'être ailleurs, ce jour-là ?
 
-— Ça veut dire que ton moteur n'était même pas dans la baie ce jour-là, dit Solenn, souriant franchement cette fois. Ton bateau était à Concarneau, prouvé quatre fois. Le changement, lui, remonte à bien avant ton salon.
+— Ton registre, dit Solenn en le feuilletant à nouveau, montre que tu sors en mer presque tous les jours, sans exception, depuis ton arrivée. Ton moteur tourne donc, en gros, à l'identique, jour après jour, depuis un peu plus de trois semaines.
 
-— Techniquement, il remonte à neuf jours avant ton salon, précisa Souly après un rapide calcul mental, les lèvres remuant en silence. Ce qui veut dire que ton moteur ne peut pas être la cause. Il n'était même pas encore arrivé dans la baie que le changement avait déjà commencé.
+— Alors que le changement chez Sirène, lui, précisa Souly après un rapide calcul mental, les lèvres remuant en silence, n'a que quinze jours. Ça veut dire que vous étiez déjà là, à faire sortir votre bateau tous les jours, pendant près d'une semaine entière, sans que rien ne change dans le chant de Sirène. Et puis, d'un coup, sans que vos sorties changent quoi que ce soit à vos habitudes, le volume a doublé.
 
-— Neuf jours avant, souffla Ronan, le corps entier relâché d'un coup, comme délesté d'un poids qu'il portait depuis deux semaines sans se l'avouer complètement. J'ai presque envie de vous embrasser, tous les trois. »
+— Si c'était votre moteur, la cause, insista Solenn, le changement aurait dû arriver en même temps que vos premières sorties, pas une semaine plus tard, alors que vous faisiez déjà exactement la même chose depuis des jours. Un problème qui apparaît d'un coup a besoin d'une cause qui, elle aussi, apparaît d'un coup. Ton moteur, lui, n'a rien changé depuis ton arrivée.
+
+— Ce qui veut dire que c'est pas moi, dit Ronan, une lueur d'espoir prudent dans la voix.
+
+— Ce qui veut dire que ce n'est très probablement pas toi, corrigea Solenn, souriant franchement cette fois. On ne peut jamais être certain à cent pour cent avec une seule preuve, mais celle-ci est solide.
+
+— Ça fait quand même du bien à entendre, souffla Ronan, le corps entier relâché d'un coup, comme délesté d'un poids qu'il portait depuis deux semaines sans se l'avouer complètement. J'ai presque envie de vous embrasser, tous les trois. »
 
 Il referma son classeur avec un soin nouveau, presque affectueux, et proposa spontanément d'aider à surveiller le niveau sonore de son propre moteur à l'avenir, « juste au cas où, pour être irréprochable », ce qui fit sourire Solenn.
 
