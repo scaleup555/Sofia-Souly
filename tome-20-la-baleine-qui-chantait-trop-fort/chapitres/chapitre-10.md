@@ -56,7 +56,7 @@ Elle rechargea les enregistrements du chantier d'Erwan, superposant les courbes 
 
 — Alors elle va bien ? demanda Sofia, soulagée.
 
-— Elle va bien pour l'instant, précisa Solenn avec le sérieux d'une scientifique qui refusait toute conclusion trop hâtive. Mais chanter aussi fort, en continu, ça demande beaucoup plus d'énergie qu'un chant normal. Sur le long terme, si le bruit de fond ne disparaît pas, ça pourrait finir par lui coûter cher, surtout si elle doit aussi chasser et se nourrir correctement en même temps. C'est pour ça qu'il faut agir maintenant, pendant qu'on a encore le temps.
+— Elle va bien pour l'instant, précisa Solenn, refusant toute conclusion trop hâtive. Mais chanter aussi fort, en continu, ça demande beaucoup plus d'énergie qu'un chant normal. Sur le long terme, si le bruit de fond ne disparaît pas, ça pourrait finir par lui coûter cher, surtout si elle doit aussi chasser et se nourrir correctement en même temps. C'est pour ça qu'il faut agir maintenant, pendant qu'on a encore le temps.
 
 — Il faut faire cesser le bruit du chantier, dit Maïwenn, remarquablement analytique pour ses dix ans.
 
@@ -68,7 +68,7 @@ Un coup frappé à la porte de la station interrompit la discussion : Yvon, sa c
 
 — On a une explication solide, dit Solenn en lui tendant un des graphiques imprimés. Sirène ne souffre pas. Elle s'adapte au bruit du chantier d'Erwan en chantant plus fort, exactement comme n'importe qui hausserait la voix dans une pièce bruyante.
 
-— Et le silence, la nuit, dans la baie, ça compte pour ça aussi ? demanda Yvon, la voix un peu trop calme pour quelqu'un qui posait la question par pure politesse.
+— Et le silence, la nuit, dans la baie, ça compte pour ça aussi ? demanda Yvon, feignant mal l'indifférence, comme quelqu'un qui pose une question par pure politesse alors qu'elle compte énormément.
 
 — Ça compte énormément, dit Solenn. C'est précisément le moment où un bruit de moteur cause le plus de dégâts. Votre règle décrit exactement le bon réflexe, Yvon, même si elle date d'avant qu'on ait le moindre mot scientifique pour l'expliquer.
 
@@ -196,4 +196,4 @@ Ce soir-là, Sofia, déjà couchée, rompit le silence de la chambre mansardée 
 
 — Ouais, admit-elle après un silence, un peu radoucie. Ça compte plus. »
 
-Il n'ajouta rien, satisfait de la voir s'endormir sur cette pensée-là plutôt que sur l'autre, et attendit que sa respiration devienne régulière avant de rallumer sa lampe de poche pour coucher, en silence, chaque détail de la journée dans son carnet.
+Il n'ajouta rien, satisfait de la voir s'endormir sur cette pensée-là plutôt que sur l'autre, et resta un long moment les yeux ouverts dans le noir, écoutant au loin le chant de Sirène, toujours aussi puissant, porté par le vent jusqu'à la fenêtre entrouverte de leur chambre — plus pour longtemps, se dit-il, avant de s'endormir à son tour.

@@ -68,7 +68,7 @@ Le soulagement fut tel que Ronan, en se relevant de sa chaise pliante, trébucha
 
 Sofia et Souly échangèrent un regard amusé, et Ronan, remarquant leurs sourires, redevint sérieux une seconde, presque intimidé.
 
-« J'ai quitté un travail de bureau à Rennes pour monter ça, avoua-t-il à voix basse, rien que pour eux. Mes parents pensaient que j'étais devenu fou. Si mon moteur avait vraiment blessé cette baleine, j'aurais eu l'impression d'avoir tout gâché pour de mauvaises raisons. Là, au moins, je sais que j'ai quitté un bureau pour la bonne raison. »
+« J'ai quitté un travail de bureau en région parisienne pour monter ça, avoua-t-il à voix basse, rien que pour eux. Mes parents pensaient que j'étais devenu fou. Si mon moteur avait vraiment blessé cette baleine, j'aurais eu l'impression d'avoir tout gâché pour de mauvaises raisons. Là, au moins, je sais que j'ai quitté un bureau pour la bonne raison. »
 
 Il n'ajouta rien de plus, ramassa son classeur d'un geste un peu trop brusque pour cacher son émotion, et partit accueillir ses clients d'un pas plus léger qu'à leur arrivée, le thermos toujours serré contre lui comme s'il n'osait plus le reposer.
 
@@ -118,7 +118,7 @@ Il retourna l'appareil pour leur montrer l'écran, où une photo de profil souri
 
 — Deux mois seulement, elle est toute petite, dit Sofia en se penchant sur l'écran, un doigt posé sur le visage minuscule de la photo comme pour le caresser. Elle vous ressemble un peu, on dirait, sur le nez.
 
-— C'est bien la première fois qu'on me dit ça, dit Yvon en riant, la voix un peu enrouée tout à coup. Gwenaëlle dit qu'elle ressemble à sa mère, tout craché. Enfin, j'aimerais bien croire que j'y suis pour quelque chose, même juste pour le nez. »
+— C'est bien la première fois qu'on me dit ça, dit Yvon en riant, en s'éclaircissant la gorge deux fois de suite. Gwenaëlle dit qu'elle ressemble à sa mère, tout craché. Enfin, j'aimerais bien croire que j'y suis pour quelque chose, même juste pour le nez. »
 
 Sofia s'installa à côté de lui sur le banc et prit délicatement l'appareil, pendant que Souly regardait par-dessus son épaule avec la curiosité d'un enquêteur découvrant une nouvelle pièce à conviction.
 

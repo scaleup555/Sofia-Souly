@@ -22,7 +22,7 @@ Grand-oncle Théo, assis en face, fouillait consciencieusement les innombrables 
 
 Le téléphone de la station sonna en milieu de matinée, alors que Solenn triait des câbles d'hydrophones sur la table basse : Camille, en pause entre deux patients, qui voulait des nouvelles avant de reprendre son service.
 
-« Alors, cette baleine ? demanda-t-elle, la voix un peu grésillante dans le haut-parleur.
+« Alors, cette baleine ? demanda-t-elle, sa voix crachotant légèrement dans le haut-parleur.
 
 — Elle chante trop fort et personne ne sait encore pourquoi exactement, mais ce soir on va l'écouter en vrai, dans un bateau, dit Sofia, très fière de son résumé. Et j'ai appris une chanson de marin, et Souly compte les jours depuis vingt jours maintenant, et Mamie Rose casse encore des parapluies.
 
@@ -140,7 +140,7 @@ Yvon eut un rire bref, sans surprise, comme s'il s'attendait depuis longtemps à
 
 « Tous les soirs, petite. Pas seulement en mer. » Il tapota la poche vide de sa veste, celle où il aurait d'ordinaire gardé son téléphone, resté sagement à la maison ce soir-là, en plein respect de sa propre consigne de silence. « Toujours pas de réponse à mon dernier message. Mais je me dis qu'un jour, elle le lira au bon moment. En attendant, on compte les clignements du phare, hein, petit ? C'est jamais du temps perdu, ça.
 
-— Jamais, confirma Souly, la voix un peu plus assurée que l'instant d'avant. »
+— Jamais, confirma Souly, en redressant le dos. »
 
 Puis, sans prévenir, un son grave monta du haut-parleur, vibrant, familier et pourtant différent de l'enregistrement qu'ils avaient écouté à la station quelques jours plus tôt — plus fort, plus insistant, comme une voix qui s'efforce de porter par-dessus un vacarme invisible.
 

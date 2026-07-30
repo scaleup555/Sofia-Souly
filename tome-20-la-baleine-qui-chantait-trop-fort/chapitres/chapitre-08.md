@@ -116,7 +116,7 @@ Une fois le calme à peu près revenu et le carton solidement fixé, Erwan s'att
 
 — Ça me fait drôle, avoua Erwan. Je suis ingénieur, moi, je répare des pannes, je pose des câbles, je regarde jamais vraiment ce qu'il y a de l'autre côté du branchement. Votre histoire de baleine qui chante trop fort, ça me force à voir mon propre travail autrement.
 
-— C'est peut-être la meilleure chose qui pouvait vous arriver, alors, dit Souly, avec le sérieux inattendu qu'il réservait d'habitude à son carnet.
+— C'est peut-être la meilleure chose qui pouvait vous arriver, alors, dit Souly, sans la moindre trace d'ironie.
 
 — Peut-être bien, petit, dit Erwan en riant doucement. Peut-être bien. »
 

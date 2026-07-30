@@ -66,7 +66,7 @@ Une fille assise sur les marches, un cordage entre les mains, leur adressa un si
 
 — Essaie de m'apprendre un nœud, dit Sofia, qui ne résistait jamais à un défi manuel. Un simple. »
 
-Maïwenn lui tendit un bout de cordage de récupération avec la gravité d'une professeure confiant un instrument précieux.
+Maïwenn lui tendit un bout de cordage de récupération, le posant dans sa paume comme un objet qui méritait le respect.
 
 « Nœud plat. Tu croises, tu passes dessous, tu recroises dans l'autre sens. »
 
@@ -116,7 +116,7 @@ Solenn les invita à entrer dans la station, où un mur entier était couvert d'
 
 — Elles sont énormes, dit Sofia. Et elles chantent.
 
-— C'est un bon début, dit Solenn en riant. Les baleines à fanons, comme Sirène, communiquent par des chants — des sons de très basse fréquence, tellement graves que l'oreille humaine les perçoit à peine, parfois même pas du tout.
+— C'est un bon début, dit Solenn en riant. Les baleines à fanons, comme Sirène, communiquent par des chants — des sons de très basse fréquence, souvent bien plus graves que la voix humaine, mais qu'on peut quand même entendre, surtout par une nuit calme, tout près de la baie.
 
 — Attends, "baleines à fanons" ? demanda Sofia. Y a d'autres sortes ?
 

@@ -46,7 +46,7 @@ Ils le trouvèrent sur le ponton, occupé à astiquer la coque blanche d'une ved
 
 — Malheureusement oui, avoua Solenn. Je préfère te le demander directement plutôt que de laisser courir les rumeurs : est-ce que ton moteur pourrait avoir un lien avec ce qui arrive à Sirène ?
 
-— C'est exactement ce que tout le monde pense, et c'est exactement ce que je me demande moi-même depuis deux semaines, dit Ronan, la voix un peu tendue. Regardez. »
+— C'est exactement ce que tout le monde pense, et c'est exactement ce que je me demande moi-même depuis deux semaines, dit Ronan, en évitant leur regard. Regardez. »
 
 Il tapota le flanc du bateau, révélant un gros moteur hors-bord dont la puissance affichée fit siffler Souly entre ses dents.
 
@@ -118,7 +118,7 @@ Sur le chemin du retour, ils croisèrent un attroupement inhabituel sur la jeté
 
 — On va vite le savoir. »
 
-Une femme d'une cinquantaine d'années, en salopette maculée de peinture et casquette de marin vissée de travers, s'affairait autour de l'appareil avec la concentration d'une chirurgienne, pendant qu'un attroupement de plus en plus large observait, mi-amusé, mi-perplexe. Un adolescent au premier rang filmait la scène avec son téléphone, guettant surtout, à en juger par son sourire en coin, un beau désastre à montrer à ses copains plus tard.
+Une femme d'une cinquantaine d'années, en salopette maculée de peinture et casquette de marin vissée de travers, s'affairait autour de l'appareil sans un regard pour la foule qui grossissait autour d'elle, pendant qu'un attroupement de plus en plus large observait, mi-amusé, mi-perplexe. Un adolescent au premier rang filmait la scène avec son téléphone, guettant surtout, à en juger par son sourire en coin, un beau désastre à montrer à ses copains plus tard.
 
 « Ça y est, ça y est, j'ai enfin le bon réglage ! » lança-t-elle à la cantonade, sans remarquer qu'un chat du port, intrigué par les câbles qui traînaient, s'était installé confortablement en travers de l'un d'eux.
 

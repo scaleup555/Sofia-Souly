@@ -132,7 +132,7 @@ Le dispositif, une fois récupéré et examiné, révéla qu'il avait effectivem
 
 — Jamais complètement, dit Perrine en rangeant son matériel, toujours aussi motivée. Un jour, mon Archiveur captera exactement ce que je veux qu'il capte. Et en attendant, j'ai la meilleure collection d'envols de pigeons paniqués de toute la Bretagne, ce qui, avouons-le, n'a pas beaucoup de concurrence.
 
-— Vous avez pensé à essayer un endroit sans cloches, la prochaine fois ? proposa Sofia, avec le sérieux d'une conseillère technique.
+— Vous avez pensé à essayer un endroit sans cloches, la prochaine fois ? proposa Sofia, très sérieusement, comme si la question méritait un vrai débat.
 
 — J'y ai pensé, dit Perrine en riant. Mais un endroit sans cloches, c'est nettement moins amusant à raconter ensuite. »
 
@@ -208,4 +208,4 @@ Ce soir-là, dans la chambre mansardée, Souly récita la journée à voix haute
 
 — Bonne nuit, Sofia. »
 
-Il attendit qu'elle se soit endormie pour de bon avant d'allumer sa lampe de poche et d'écrire, en silence cette fois, le tableau complet dans son carnet.
+Dehors, par la lucarne entrouverte, on entendait au loin le clapot régulier des bateaux du port, et quelque part sous les couvertures, Sofia marmonna une dernière fois, déjà presque endormie : « Un jour d'écart, pile. » avant de sombrer pour de bon.

@@ -52,7 +52,7 @@ Elle resta un instant silencieuse, les yeux sur les deux enfants, avant de se to
 
 « Tu te rends compte que ça faisait sept ans que je ne les avais pas vus, dit-elle dans l'appareil, la voix un peu changée. La dernière fois, Souly appelait encore ça "Mamie Solenn" par erreur, tellement il confondait tout le monde.
 
-— Et maintenant il t'appelle "marraine" avec le sérieux d'un juge, dit Camille, dont on entendait le rire clair même à travers le petit haut-parleur.
+— Et maintenant il t'appelle "marraine" comme s'il rendait un verdict, dit Camille, dont on entendait le rire clair même à travers le petit haut-parleur.
 
 — Maintenant il m'appelle marraine avec le sérieux d'un juge, confirma Solenn, en jetant un regard amusé vers Souly qui faisait mine de ne pas écouter. Sept ans, c'est trop long, Camille. On ne recommence pas ça.
 
@@ -214,4 +214,4 @@ Théo, un œil sur la route et l'autre dans le rétroviseur, échangea un regard
 
 — Le meilleur, dit Sofia du tac au tac, son parapluie encore serré contre elle. Enfin, jusqu'au prochain.
 
-— Jusqu'au prochain, confirma Souly, en refermant son carnet pour de bon, satisfait, pendant que la camionnette filait vers de nouvelles routes, et vers de nouveaux mystères encore à venir. »
+— Jusqu'au prochain, confirma Souly, sans plus chercher à cacher son sourire, pendant que la camionnette filait vers de nouvelles routes, et vers de nouveaux mystères encore à venir. »

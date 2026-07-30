@@ -148,7 +148,7 @@ Elle tendit le bout de filin effiloché que Souly avait gardé dans sa poche, cu
 
 — Facile, dit Maïwenn en s'emparant aussitôt du bout de corde. Tu veux apprendre lequel en premier ? Le nœud de cabestan, c'est le plus utile pour commencer, celui qui tient bon mais se défait en une seconde si tu tires au bon endroit. »
 
-Elle lui montra le geste, deux fois, lentement, puis une troisième fois plus vite, pendant que Souly s'appliquait avec la concentration d'un élève devant un examen, sa langue légèrement pointée entre les lèvres sans qu'il s'en rende compte. Sofia, qui avait renoncé depuis longtemps à rivaliser avec son frère sur ce terrain-là, s'essaya elle aussi au nœud, s'emmêla royalement les doigts au troisième essai, et finit par produire quelque chose qui ressemblait davantage à un paquet de spaghettis qu'à un nœud marin.
+Elle lui montra le geste, deux fois, lentement, puis une troisième fois plus vite, pendant que Souly s'appliquait, les sourcils froncés, refaisant le nœud encore et encore sans se lasser. Sofia, qui avait renoncé depuis longtemps à rivaliser avec son frère sur ce terrain-là, s'essaya elle aussi au nœud, s'emmêla royalement les doigts au troisième essai, et finit par produire quelque chose qui ressemblait davantage à un paquet de spaghettis qu'à un nœud marin.
 
 « C'est pas mal, pour un premier essai, dit Maïwenn en examinant le résultat sous tous les angles, cherchant ses mots un peu trop longtemps.
 

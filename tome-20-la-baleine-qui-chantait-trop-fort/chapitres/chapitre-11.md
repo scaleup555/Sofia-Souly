@@ -8,7 +8,7 @@ Sofia, qui le suivait de près, un pain au chocolat entier dans chaque main pour
 
 « Le dernier ? Vraiment le dernier ?
 
-— Le mystère est résolu, dit Souly, avec la gravité d'un homme qui prononce une sentence historique. Une fois qu'on a la réponse, on arrête de compter les jours qui restent à la question. On passe à autre chose.
+— Le mystère est résolu, dit Souly, en refermant son carnet d'un coup sec. Une fois qu'on a la réponse, on arrête de compter les jours qui restent à la question. On passe à autre chose.
 
 — Ça va me manquer, un peu, admit Sofia, avant de lui tendre l'un des deux pains au chocolat sans qu'il ait rien eu à demander. Tiens. Pour fêter le dernier chiffre. »
 
@@ -56,7 +56,7 @@ Ronan les rejoignit à son tour, sa vedette maintenant amarrée non loin, une no
 
 — Au début, un peu, avoua Ronan, sans détour. Ça fait bizarre d'être montré du doigt pour quelque chose qu'on n'a pas fait. Mais Solenn m'a montré ses preuves tout de suite, sans traîner, et honnêtement, le nouveau plan est meilleur que l'ancien. Mes clients préfèrent le tour par le large, ils voient plus d'oiseaux, et moi je dors mieux en sachant que je ne dérange personne, humain ou baleine. Je préfère largement ça à avoir raison tout seul dans mon coin.
 
-— Tout le monde s'est vraiment mobilisé, dit le maire, la voix un peu cassée, au point d'en avoir presque les larmes aux yeux. Je crois qu'on peut annoncer, ce soir, que la Nuit de l'Écoute aura bien lieu, avec de bonnes nouvelles en prime.
+— Tout le monde s'est vraiment mobilisé, dit le maire, en se raclant la gorge, au point d'en avoir presque les larmes aux yeux. Je crois qu'on peut annoncer, ce soir, que la Nuit de l'Écoute aura bien lieu, avec de bonnes nouvelles en prime.
 
 — Et un vrai règlement du port, en plus, ajouta Erwan. Je peux le rédiger avec vous cet après-midi, si vous voulez. Ça me ferait sincèrement plaisir d'y contribuer.
 
@@ -90,7 +90,7 @@ L'après-midi se poursuivit ainsi, ponctué par l'arrivée de Perrine, poussant 
 
 Perrine posa lentement une main sur le boîtier de son invention, comme pour vérifier qu'elle ne rêvait pas.
 
-« Le Mark I a explosé pendant le mariage de ma cousine, dit-elle, la voix un peu tremblante. Le Mark II confondait systématiquement le vent et les conversations humaines. Le Mark III a enregistré trente-sept minutes du ronflement d'Yvon au lieu du chant des oiseaux que je voulais capter. Le Mark IV, tout le monde ici s'en souvient, à cause des pigeons. Et là, d'un coup, le Mark V sert à protéger une baleine ?
+« Le Mark I a explosé pendant le mariage de ma cousine, dit-elle, en évitant les regards. Le Mark II confondait systématiquement le vent et les conversations humaines. Le Mark III a enregistré trente-sept minutes du ronflement d'Yvon au lieu du chant des oiseaux que je voulais capter. Le Mark IV, tout le monde ici s'en souvient, à cause des pigeons. Et là, d'un coup, le Mark V sert à protéger une baleine ?
 
 — Le Mark V sert à protéger une baleine, confirma Solenn.
 
@@ -148,7 +148,7 @@ Plus tard dans la soirée, alors que les tables se couvraient de galettes et que
 
 « Tu peux juste dire "baleine", tu sais. C'est un mot qui a le droit d'exister.
 
-— Je préfère prendre aucun risque, dit Sofia, avec le sérieux d'un serment solennel, une résolution qui ne dura d'ailleurs que jusqu'à ce que la poissonnière s'approche d'elle avec un regard malicieux. »
+— Je préfère prendre aucun risque, dit Sofia, la main levée comme pour prêter serment, une résolution qui ne dura d'ailleurs que jusqu'à ce que la poissonnière s'approche d'elle avec un regard malicieux. »
 
 « Alors, la petite, on m'a raconté une histoire de baleine cassée, cet après-midi ?
 
