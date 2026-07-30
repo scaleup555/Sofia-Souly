@@ -156,7 +156,7 @@ Perrine passa également en coup de vent, un nouveau capot anti-vent gris sous l
 
 — On y pensera, promit Solenn, sincèrement touchée par la proposition. Merci, Perrine.
 
-— Toujours partante pour aider, dit Perrine en repartant déjà vers la porte, le capot anti-vent toujours brandi bien haut comme un trophée. »
+— Toujours partante pour aider, dit Perrine en repartant déjà vers la porte, le capot anti-vent calé sous le bras comme un pain frais du boulanger. »
 
 Yvon passa justement à la station peu après, pour confirmer sa propre disponibilité et récupérer, disait-il, « des nouvelles fraîches, pas déformées trois fois par le bouche-à-oreille du port ».
 

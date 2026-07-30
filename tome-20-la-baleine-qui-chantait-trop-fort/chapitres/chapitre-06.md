@@ -64,7 +64,7 @@ Le soulagement fut tel que Ronan, en se relevant de sa chaise pliante, trébucha
 
 « Tout va bien ? » demanda la touriste en coupe-vent orange, à mi-chemin entre l'inquiétude et le fou rire.
 
-« Tout va très bien, madame, dit Ronan en se redressant, le thermos serré contre sa poitrine comme un trophée, le visage rouge mais un sourire qu'il n'essayait même plus de contenir. Meilleure matinée depuis longtemps, en fait. Excusez-moi, je... » Il s'interrompit, se passa une main dans les cheveux, incapable de trouver la suite. « Je vous expliquerai en mer, si ça vous intéresse. C'est une longue histoire, mais une bonne. »
+« Tout va très bien, madame, dit Ronan en se redressant, le thermos serré contre sa poitrine à deux mains, le visage rouge mais un sourire qu'il n'essayait même plus de contenir. Meilleure matinée depuis longtemps, en fait. Excusez-moi, je... » Il s'interrompit, se passa une main dans les cheveux, incapable de trouver la suite. « Je vous expliquerai en mer, si ça vous intéresse. C'est une longue histoire, mais une bonne. »
 
 Sofia et Souly échangèrent un regard amusé, et Ronan, remarquant leurs sourires, redevint sérieux une seconde, presque intimidé.
 
@@ -230,4 +230,12 @@ Mamie Rose, en desservant, désigna d'un geste résigné son parapluie, toujours
 
 — Jamais, confirma Sofia, menton levé. »
 
-Ce soir-là, Souly recopia soigneusement dans son carnet un tableau à deux colonnes, l'une intitulée « Ronan — innocenté », l'autre « Erwan — à interroger dès son retour », avant d'ajouter en dessous, avec un sourire qu'il ne chercha pas à cacher : *Aujourd'hui, un vieux pêcheur breton a envoyé son premier message vidéo à sa fille, avec des oreilles de chat sur la tête. Note pour moi-même : ça, ça mérite d'être écrit dans le Carnet des Preuves aussi, même si ça n'a rien à voir avec l'enquête. Sa petite-fille s'appelle Anna. Elle a deux mois. Yvon a le nez d'une petite-fille qu'il n'a vue qu'une fois. Erwan injoignable deux jours. Ronan définitivement innocenté, quatre sources.*
+Ce soir-là, pendant que Sofia se brossait les dents dans la salle de bain de la station, Souly resta un moment immobile, son carnet fermé sur les genoux, à ressasser la journée sans se presser de l'écrire.
+
+« Tu écris pas, ce soir ? demanda Sofia en repassant la tête par la porte, une brosse à dents encore à la bouche.
+
+— Si, dans une minute. Je réfléchissais juste à comment résumer un vieux pêcheur avec des oreilles de chat sur la tête, en train d'envoyer un message à sa fille qu'il n'a pas vue depuis des mois. Ronan innocenté, ça, c'est facile à écrire. Ça, c'est plus dur.
+
+— Écris juste que c'était le plus beau moment de la journée, dit Sofia en haussant les épaules, avant de retourner se brosser les dents. Des fois, c'est aussi simple que ça. »
+
+Souly la regarda disparaître, sourit, et rouvrit enfin son carnet.

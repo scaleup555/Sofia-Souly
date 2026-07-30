@@ -72,6 +72,12 @@ Un coup frappé à la porte de la station interrompit la discussion : Yvon, sa c
 
 — Ça compte énormément, dit Solenn. C'est précisément le moment où un bruit de moteur cause le plus de dégâts. Votre règle décrit exactement le bon réflexe, Yvon, même si elle date d'avant qu'on ait le moindre mot scientifique pour l'expliquer.
 
+— Attendez, dit Yvon en fronçant les sourcils, comme si un vieux souvenir remontait tout juste à la surface. Mon carnet de mer, tenez, celui de 1987, où je notais le bateau de Kervella qui avait coupé son moteur une nuit de pleine lune — j'avais écrit que le chant était devenu plus faible, deux jours après. Sur le coup, je n'avais rien compris. Mais si moins de bruit donne un chant plus faible, alors plus de bruit...
+
+— Donne un chant plus fort, exactement dans le même sens, mais à l'envers, termina Souly, ravi. Votre carnet de 1987 raconte la même histoire que nos graphiques d'aujourd'hui, juste dans l'autre direction !
+
+— Deux preuves indépendantes, à quarante ans d'écart, dit Solenn, sincèrement impressionnée. Votre vieux carnet vient de confirmer ce que mes hydrophones ont mis des semaines à démontrer, Yvon.
+
 — Cinquante ans que je le répète, dit-il, en repliant soigneusement le graphique avant de le glisser dans sa poche de veste comme une pièce de collection. Cinquante ans qu'on me regardait comme un vieux fou qui parle aux esprits de la mer. » Il se leva, remit sa casquette, et s'arrêta un instant sur le pas de la porte. « Je vais aller prévenir les autres pêcheurs, avant que les rumeurs s'en chargent à ma place. Ça leur fera peut-être plus d'effet, venant de moi que d'un graphique. »
 
 Le téléphone de la station sonna à peine dix minutes après son départ : le maire, la voix tendue, qui voulait savoir s'il fallait annuler la Nuit de l'Écoute prévue le lendemain soir, ou au contraire rassurer le village au plus vite.

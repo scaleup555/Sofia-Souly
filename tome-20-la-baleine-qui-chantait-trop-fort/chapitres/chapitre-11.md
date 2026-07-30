@@ -26,7 +26,7 @@ Solenn les rejoignit peu après, un dossier sous le bras, en route pour retrouve
 
 « Alors ? demanda-t-il sans préambule. La Nuit de l'Écoute, on l'annule ou pas ?
 
-— On ne l'annule surtout pas, dit Solenn sans la moindre hésitation. On a une excellente nouvelle à annoncer, ce soir, à tout le village. »
+— On ne l'annule surtout pas, dit Solenn d'un ton qui ne laissait place à aucun débat. On a une excellente nouvelle à annoncer, ce soir, à tout le village. »
 
 Erwan arriva presque en courant, un peu essoufflé, les cheveux encore mouillés d'une douche prise à la va-vite, un nouveau dossier de plans sous le bras, celui-ci nettement plus fin que le précédent.
 

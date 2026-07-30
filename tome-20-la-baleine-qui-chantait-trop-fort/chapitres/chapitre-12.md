@@ -36,7 +36,7 @@ Elle lui tendit la petite boîte, qu'il ouvrit avec précaution : à l'intérieu
 
 « Pour mon filleul, dit Solenn. Pour qu'il n'oublie jamais qu'il a résolu un vrai mystère scientifique, à douze ans à peine.
 
-— Treize ans dans quatre mois, précisa Souly avec le plus grand sérieux, ce qui fit rire tout le monde autour de lui.
+— Treize ans dans quatre mois, précisa Souly, sans même l'ombre d'un sourire, ce qui fit rire tout le monde autour de lui.
 
 — Treize ans dans quatre mois, corrigea Solenn, encore riante. Et toi, Sofia, j'ai quelque chose pour toi aussi. »
 
@@ -78,9 +78,9 @@ Maïwenn s'approcha à son tour, un dernier cordage à la main, celui-ci noué d
 
 « Pour ta collection, dit Maïwenn en désignant sa sœur d'un signe de tête. Elle a insisté pour t'en trouver une nouvelle ce matin, avant même le petit-déjeuner.
 
-— Merci, Gwenn, dit Sofia, en s'accroupissant pour être à sa hauteur et recevoir la coquille avec toute la gravité que la situation méritait. Je la garde avec la première. »
+— Merci, Gwenn, dit Sofia, en s'accroupissant pour être à sa hauteur et recevoir la coquille des deux mains, comme un objet précieux. Je la garde avec la première. »
 
-Elle fouilla dans sa propre poche et en sortit son caillou du jour, un petit galet gris strié d'une veine blanche qu'elle avait ramassé sur la plage au tout début du séjour, et le tendit à Maïwenn sans la moindre hésitation.
+Elle fouilla dans sa propre poche et en sortit son caillou du jour, un petit galet gris strié d'une veine blanche qu'elle avait ramassé sur la plage au tout début du séjour, et le tendit à Maïwenn sans même reprendre son souffle.
 
 « Il a une histoire, celui-là, dit Sofia. Je l'ai trouvé le premier soir, juste après Mamie Rose et sa baleine cassée. Il portera plus de chance à quelqu'un qui sait faire des nœuds qu'à moi.
 
@@ -122,7 +122,7 @@ Il se tourna ensuite vers Sofia, un peu embarrassé de ne pas avoir de second ca
 
 « Toi, petite, je te dois quelque chose aussi, dit-il. La prochaine fois que vous revenez, je vous apprends à pêcher le maquereau, tous les deux. Une vraie leçon, avec une vraie ligne, pas juste des hydrophones et des ordinateurs.
 
-— Vous me montrerez aussi comment on répare une baleine de parapluie ? demanda Sofia, avec le plus grand sérieux du monde, ce qui manqua de peu de faire s'étrangler Yvon dans son propre rire.
+— Vous me montrerez aussi comment on répare une baleine de parapluie ? demanda Sofia, l'air on ne peut plus sérieux, ce qui manqua de peu de faire s'étrangler Yvon dans son propre rire.
 
 — Ça, dit-il en s'essuyant les yeux, je crois que c'est Mamie Rose la spécialiste, pas moi. Mais pour le maquereau, c'est promis. »
 
@@ -212,6 +212,6 @@ Théo, un œil sur la route et l'autre dans le rétroviseur, échangea un regard
 
 « C'était un bon tome, dit Souly, une fois le village hors de vue, en rouvrant son carnet une dernière fois pour ajouter une phrase de conclusion sous le titre *Le Carnet des Preuves — Tome Kerbihan*.
 
-— Le meilleur, dit Sofia, sans la moindre hésitation, son parapluie encore serré contre elle. Enfin, jusqu'au prochain.
+— Le meilleur, dit Sofia du tac au tac, son parapluie encore serré contre elle. Enfin, jusqu'au prochain.
 
 — Jusqu'au prochain, confirma Souly, en refermant son carnet pour de bon, satisfait, pendant que la camionnette filait vers de nouvelles routes, et vers de nouveaux mystères encore à venir. »

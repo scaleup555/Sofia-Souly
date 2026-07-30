@@ -2,7 +2,7 @@
 
 Le cinquième jour commença par une pluie fine qui ne dérangea personne, Solenn ayant décrété au petit-déjeuner que « le vrai temps breton, c'est celui-là, pas les cartes postales », et qu'un bon ciré valait toutes les vestes du monde.
 
-Dans la cuisine de la station, où l'odeur du café se mêlait à celle des crêpes que Mamie Rose retournait avec une dextérité qui trahissait des décennies de pratique, Souly annonça son chiffre du jour avant même de s'être assis.
+Dans la cuisine de la station, où l'odeur du café se mêlait à celle des crêpes que Mamie Rose retournait sans jamais regarder la poêle, les yeux rivés sur sa conversation, Souly annonça son chiffre du jour avant même de s'être assis.
 
 « Seize jours, aujourd'hui, annonça Souly en enfilant le sien, un peu trop grand pour lui, prêté par Solenn.
 
@@ -168,7 +168,7 @@ Sofia s'y reprit une dernière fois, sous l'œil attentif de Maïwenn, et produi
 
 « Tout va bien ? demanda-t-elle en levant la tête.
 
-— J'ai fait un nœud ! annonça Sofia, le cordage brandi bien haut comme un trophée.
+— J'ai fait un nœud ! annonça Sofia, le cordage brandi à bout de bras au-dessus de sa tête.
 
 — C'est un grand jour, alors, dit Solenn, très sérieuse, avant de retourner à son écran en secouant la tête, un petit rire lui échappant malgré tout. »
 

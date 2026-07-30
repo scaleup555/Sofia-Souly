@@ -88,7 +88,7 @@ Un peu plus loin, devant la boutique fermée pour la soirée, la poissonnière b
 
 Théo se contenta d'un sourire et d'un geste de la main, trop pressé de suivre le reste du groupe déjà loin devant pour s'attarder en explications.
 
-Yvon les attendait déjà sur le quai, chargé d'une vieille lanterne à huile « pour ne pas gaspiller les batteries, au cas où », et ils embarquèrent tous ensemble sur un petit bateau à rames que Solenn maniait avec une aisance qui trahissait des années de pratique, direction un point d'observation discret en surplomb de l'entrée de la Baie des Chants.
+Yvon les attendait déjà sur le quai, chargé d'une vieille lanterne à huile « pour ne pas gaspiller les batteries, au cas où », et ils embarquèrent tous ensemble sur un petit bateau à rames que Solenn maniait sans un seul bruit d'éclaboussure, direction un point d'observation discret en surplomb de l'entrée de la Baie des Chants.
 
 Sofia, installée à l'avant, n'avait pas quitté la lanterne éteinte des yeux depuis le départ.
 

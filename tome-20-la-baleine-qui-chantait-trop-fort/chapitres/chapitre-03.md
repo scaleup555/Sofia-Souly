@@ -198,7 +198,7 @@ Il souligna « pas une hausse progressive » deux fois, avec l'air satisfait d'u
 
 — Lui-même. »
 
-Sofia lança une dernière miette au cormoran, qui l'attrapa au vol avec une précision qui trahissait des années d'entraînement sur ce même quai.
+Sofia lança une dernière miette au cormoran, qui l'attrapa au vol sans le moindre raté, comme s'il faisait ça depuis toujours sur ce même quai.
 
 « J'espère que c'est pas lui, dit-elle. Ça me plairait pas, un méchant, dans une aussi jolie baie.
 

@@ -152,7 +152,7 @@ Il y eut un éclat de rire général qui parcourut tout l'attroupement, Perrine 
 
 — Vous comptez vous arrêter un jour ? demanda Sofia, sincèrement curieuse.
 
-— Jamais, dit Perrine, sans la moindre hésitation. Le jour où j'arrête, c'est le jour où je laisse le silence gagner. Et le silence, contrairement à ce qu'on croit, ça oublie tout beaucoup trop vite.
+— Jamais, dit Perrine, du tac au tac. Le jour où j'arrête, c'est le jour où je laisse le silence gagner. Et le silence, contrairement à ce qu'on croit, ça oublie tout beaucoup trop vite.
 
 — Et le Mark I, il est devenu quoi ? demanda Souly, curieux de connaître toute la lignée.
 
@@ -224,4 +224,12 @@ Solenn les regarda tous les deux un instant, la pile d'assiettes suspendue entre
 
 — Vous verrez. Ce soir, dodo. Une enquête, ça se mène aussi bien reposé qu'épuisé, et je préfère largement la première option. »
 
-Souly la regarda un long moment, puis rouvrit son carnet pour ajouter, tout en bas de la page, une dernière ligne qu'il souligna trois fois : *Ce n'est peut-être pas une question de "qui", mais de "quoi, exactement, est arrivé ce jour-là".*
+Souly la regarda un long moment, sans répondre tout de suite, la lampe de poche déjà éteinte entre ses mains.
+
+« Tu penses à quoi ? demanda Sofia depuis son lit, dans le noir.
+
+— Que c'est peut-être pas une question de "qui", chuchota-t-il enfin. Mais de "quoi, exactement, est arrivé ce jour-là".
+
+— Ça fait très Carnet des Preuves, ce que tu viens de dire.
+
+— Je sais, dit-il, un sourire dans la voix. C'est pour ça que je le garde pour demain. »
