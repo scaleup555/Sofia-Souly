@@ -160,11 +160,11 @@ Maïwenn les attendait déjà sur les marches de la station, assise en tailleur,
 
 « Ça, c'est nouveau, dit Souly en s'approchant, intrigué par la régularité du motif.
 
-— Un nœud de chaque jour, expliqua Maïwenn sans lever les yeux. J'en fais un tous les matins depuis que je vous connais, pour compter, un peu comme toi avec tes chiffres. Regarde, ça fait sept, aujourd'hui.
+— Un nœud de chaque jour, expliqua Maïwenn sans lever les yeux. J'en fais un tous les matins depuis que je vous connais, pour compter, un peu comme toi avec tes chiffres. Regarde, ça fait six, aujourd'hui.
 
-— Sept jours qu'on se connaît, dit Sofia, touchée sans trop savoir pourquoi par cette manière de compter le temps autrement qu'en chiffres griffonnés sur un carnet.
+— Six jours qu'on se connaît, dit Sofia, touchée sans trop savoir pourquoi par cette manière de compter le temps autrement qu'en chiffres griffonnés sur un carnet.
 
-— Sept nœuds, confirma Maïwenn en tirant légèrement sur le cordage pour montrer l'espacement parfaitement égal entre chacun. Mon père dit que c'est une manie plutôt inutile, mais moi, je trouve que ça aide à sentir le temps qui passe, plutôt que de juste le compter. Un chiffre, ça reste abstrait. Un nœud, tu peux le toucher.
+— Six nœuds, confirma Maïwenn en tirant légèrement sur le cordage pour montrer l'espacement parfaitement égal entre chacun. Mon père dit que c'est une manie plutôt inutile, mais moi, je trouve que ça aide à sentir le temps qui passe, plutôt que de juste le compter. Un chiffre, ça reste abstrait. Un nœud, tu peux le toucher.
 
 — J'aime bien cette idée, dit Souly, sincèrement pensif, en examinant le cordage de plus près. Je crois que je vais commencer un cordage moi aussi, en plus du carnet.
 
@@ -202,7 +202,7 @@ Ce soir-là, dans la chambre mansardée, Souly récita la journée à voix haute
 
 — Tu vas le répéter jusqu'à ce que je m'endorme, c'est ça ? demanda Sofia depuis son lit, déjà à moitié sous la couette.
 
-— Peut-être, dit Souly. Un jour d'écart, c'est le genre de chiffre qui mérite d'être répété.
+— Peut-être, dit Souly. Un jour d'écart, ça mérite bien d'être répété deux fois.
 
 — Alors répète-le dans ta tête, cette fois. Bonne nuit, Souly.
 

@@ -90,7 +90,7 @@ L'après-midi se poursuivit ainsi, ponctué par l'arrivée de Perrine, poussant 
 
 Perrine posa lentement une main sur le boîtier de son invention, comme pour vérifier qu'elle ne rêvait pas.
 
-« Le Mark I a explosé pendant le mariage de ma cousine, dit-elle, la voix un peu tremblante. Le Mark II a enregistré exactement trente-sept minutes de mon propre ronflement au lieu du chant des oiseaux que je voulais capter. Le Mark III, je préfère ne même pas en parler. Le Mark IV, tout le monde ici s'en souvient, à cause des pigeons. Et là, d'un coup, le Mark V sert à protéger une baleine ?
+« Le Mark I a explosé pendant le mariage de ma cousine, dit-elle, la voix un peu tremblante. Le Mark II confondait systématiquement le vent et les conversations humaines. Le Mark III a enregistré trente-sept minutes du ronflement d'Yvon au lieu du chant des oiseaux que je voulais capter. Le Mark IV, tout le monde ici s'en souvient, à cause des pigeons. Et là, d'un coup, le Mark V sert à protéger une baleine ?
 
 — Le Mark V sert à protéger une baleine, confirma Solenn.
 

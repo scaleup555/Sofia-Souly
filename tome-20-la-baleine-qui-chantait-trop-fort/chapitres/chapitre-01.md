@@ -182,9 +182,7 @@ Après le repas, alors que le ciel virait à l'orange au-dessus de la baie, un v
 
 — Ça a l'air magique, dit Sofia, conquise malgré elle. On peut apprendre à chanter comme une baleine, vous croyez ?
 
-— Ça, ma petite, si tu trouves comment, tu me préviens en premier, dit Marcel en riant de bon cœur. Moi, en soixante ans de port, j'ai jamais réussi à sortir une seule note juste, même avec l'accordéon.
-
-— Ça l'est, petite. Alors on aimerait bien que ça continue de l'être, cette année aussi. » Il reprit son seau et son chemin en hochant la tête, laissant derrière lui un silence un peu plus lourd qu'avant son passage.
+— Ça l'est, petite, dit Marcel en riant de bon cœur. Et pour chanter comme une baleine, si tu trouves comment, tu me préviens en premier — moi, en soixante ans de port, j'ai jamais réussi à sortir une seule note juste, même avec l'accordéon. Alors on aimerait bien que ça reste magique, cette année aussi. » Il reprit son seau et son chemin en hochant la tête, laissant derrière lui un silence un peu plus lourd qu'avant son passage.
 
 Sofia, qui observait la scène avec une attention nouvelle, se pencha vers Souly.
 

@@ -164,7 +164,7 @@ Yvon passa justement à la station peu après, pour confirmer sa propre disponib
 
 — Un jour d'écart avec le changement, confirma Solenn. On ira vérifier ça correctement demain soir, avec vous, si vous êtes toujours partant.
 
-— Toujours partant, dit Yvon. Ça fait soixante-douze ans que j'attends que quelqu'un prenne cette règle au sérieux. Je ne vais pas rater ça pour une histoire de fatigue. »
+— Toujours partant, dit Yvon. Ça fait cinquante ans que j'attends que quelqu'un prenne cette règle au sérieux. Je ne vais pas rater ça pour une histoire de fatigue. »
 
 Il jeta un œil à la cloche de brume fraîchement accrochée au-dessus de la porte, puis au petit carton manuscrit qui pendait juste en dessous, et se mit à rire sans qu'on ait besoin de lui raconter l'histoire en entier.
 

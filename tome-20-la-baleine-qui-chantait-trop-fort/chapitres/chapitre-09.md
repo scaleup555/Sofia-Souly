@@ -112,7 +112,7 @@ Sofia, en s'asseyant à son tour, jeta un dernier coup d'œil vers l'entrée de 
 
 — On aurait pu, dit Solenn en ajustant un premier hydrophone, mais on aurait probablement rien entendu d'intéressant. Les baleines à bosse comme Sirène sont beaucoup plus vocales la nuit que le jour, pour des raisons qu'on comprend seulement en partie — peut-être parce qu'elles chassent moins à ce moment-là, peut-être parce que le son porte différemment dans l'eau plus froide de la nuit. C'est précisément pour ça que la règle d'Yvon sur le silence après le coucher du soleil est aussi importante : c'est exactement le moment où un bruit de moteur fait le plus de dégâts.
 
-— Ça, ça fait vingt ans que je le dis, marmonna Yvon, en tapotant le rocher du plat de la main comme pour souligner le point. Mais c'est toujours mieux quand c'est une scientifique qui le confirme avec ses appareils. »
+— Ça, ça fait cinquante ans que je le dis, marmonna Yvon, en tapotant le rocher du plat de la main comme pour souligner le point. Mais c'est toujours mieux quand c'est une scientifique qui le confirme avec ses appareils. »
 
 Le soleil descendit lentement derrière la pointe rocheuse, teintant l'eau de la baie d'un orange profond qui vira peu à peu au violet, puis au bleu presque noir, pendant que Solenn ajustait ses instruments avec des gestes précis, un casque relié à un petit haut-parleur portable posé entre eux tous.
 
